@@ -1,0 +1,46 @@
+Top 4 Emerging Tech Trends in Healthcare Big Data Analytics
+
+June 27, 2016
+
+By Jennifer Bresnick
+June 27, 2016 - For most segments of the healthcare industry, big data analytics is still an evolving concept that hasn’t quite reached the mainstream of clinical care. 
+The prospect of integrating disparate sources of information into a multifaceted canvas of patient experiences is a tantalizing one, yet basic concerns with the usability of electronic health records, the availability of health information exchange, and a chronic lack of time, knowhow, and funding have all contributed to keeping big data on the back bench.
+However, a new wave of commitment to health data interoperability, paired with advances in data standardization and a growing recognition that the EHR is no longer enough for cost-effective, high quality care, have started to make big data analytics a great deal more accessible to providers across the care continuum.
+In turn, these accomplishments have raised stakeholders’ hopes that big data is about to produce a seismic shift in the way providers make decisions, interact with their patients, and power through their daily workflows.
+Analytics is becoming a priority area for health IT investment as healthcare organizations get on board with the data-driven mentality of systemic reform – forty percent of respondents to a recent IDC Health Insights poll said budgets are loosening up for health IT projects – and big data is becoming a major criteria for financial and clinical success.
+READ MORE: CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+The majority of providers are still looking for tools and technologies that will enable them to participate in basic big data activities, like risk stratification, population health management, and reducing operational costs.  However, cutting-edge developers are already reaching past this first stage of adoption towards a future in which big data is no big deal.
+What are some of the emerging strategies, technologies, and infrastructure projects that are pushing the boundaries of how big data fits in to the healthcare landscape?
+Imaging analytics opens up new diagnostic vistas
+Since the beginning of the diagnostic imaging era, interpreting x-rays, CAT scans, and MRIs has largely remained under the purview of skilled clinicians who specialize in catching abnormalities and reporting on findings. 
+But as computing power increases and analytics algorithms start to become intelligent enough to analyze patterns in digital images, these test results are taking on a whole new meaning for the diagnostic process – and expanding the potential for using this data for additional aspects of patient care.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+“If you have had a chest x-ray, perhaps prior to surgery, the image was used to look at your lungs,” explained Carrick Carpenter, who leads Dell Services’ global healthcare cloud computing division. “But it also will contain data about your spine. A computer with the right analytics software can review that image and detect your risk, if any, for osteoporosis.”
+“What if all of your diagnostic images could be used for multiple screening analysis in addition to the disease state that prompted the test? That would add a huge amount of value to every diagnostic study.”
+A number of organizations are already working to make that scenario a reality, including big-name vendors players like Dell, IBM, and Microsoft, as well as professional societies and interoperability experts such as The Sequoia Project and the Radiological Society of North America (RSNA). 
+The potential of imaging analytics, which may become a crucial part of the fight to cut costs by slashing unnecessary or repeated services, has already sparked several new partnerships, a few major acquisitions, and millions in funding to promising developers offering algorithms that could squeeze extra value out of common imaging procedures.
+Wearables and the Internet of Things overhaul patient-centered care
+READ MORE: Semantic Computing, Predictive Analytics Need Reliable Metadata
+Patient-centered care is on the verge of a game-changing makeover as consumers snap up wearable devices, home monitoring tools, and mHealth apps at a staggering rate.  One recent report predicted that 97.6 million wearables would ship to consumers each year by 2021, creating a $17 billion marketplace for smart watches, fitness trackers, and other data-generating devices.
+Read: Can Healthcare's Internet of Things Move from Froth to Function?
+While not everyone is convinced that wearables and web-enabled Internet of Things (IoT) gadgets are going to significantly change the way the healthcare industry evolves, health IT vendors are certainly not taking any chances that the skeptics might be right.
+Electronic health record developers are looking for ways to integrate patient-generated health data (PGHD) into their products, attempting to overcome provider concerns about how this very big data will fit within their workflow. 
+Patient engagement experts are trying to leverage the wow factor of wearables and mHealth apps into improvements in chronic disease management, patient satisfaction, and population health. 
+And interoperability advocates are taking some important clues from IoT APIs and other standardization tactics to improve the function of health IT overall.
+The Internet of Things may not have found a secure place in the health IT ecosystem just yet, but finding the key to handling the messy, unstandardized, and unwieldy data from wearables and apps may help to quickly solve a number of other big data conundrums.
+Cognitive computing and machine learning will transform clinical decision-making
+Providers may be wary about using the IoT as a new source of data for decision-making, but the challenge of harmonizing FitBits and Apple Watches with EHR results, community-level data, and tests results is becoming elementary for many advanced cognitive computing platforms.
+Cognitive computing, also known as semantic computing or machine learning, involves using algorithms that “train” analytics systems to recognize patterns in large-scale datasets.  The systems are taught to make connections in a similar manner to the human mind, which can extrapolate relationships between disparate items based on a framework of known rules.
+These scarily smart computing platforms never forget what they have learned, and can process data much, much faster and more comprehensively than even the best-trained clinician.  
+Decision support systems based on semantic computing capabilities and free-form data lakes are already in use at some healthcare organizations, and are poised to make a significant difference at many more over the next few years, revolutionizing the way populations are managed and risk is assessed and addressed.
+Precision medicine brings genomic insight to the diagnostic process
+Machine learning, the Internet of Things, and the technologies behind imaging analytics are all set to combine with genomic sequencing and pharmaceutical development to set alight one of the most promising trends in healthcare: precision medicine.
+This approach to personalizing treatments based on a patient’s deeply individualized circumstances is receiving major attention from public and private organizations, and is even raising hopes of an eventual cure for many cancers.
+While early successes have cultivated enthusiasm for integrating genomics into patient care, and the accelerating pace of research has started to change the way providers view the development and treatment of cancer, there is still a long way to go before this approach becomes an everyday big data competency.
+Read: How Precision Medicine Will Shift from Research to Clinical Care
+“There are so many factors that will cause expression or non-expression of a gene,” said David Delaney, MD, Chief Medical Officer at SAP.  “And when you add in factors around a patient’s environment, it turns out that there are so many different pieces to this.  The hope right now is that once we get more of the puzzle pieces out there, we will be able to start making the links that will eventually lead to major breakthroughs in things like cancer.”
+The Precision Medicine Initiative (PMI) is banking on the industry’s growing comfort with big data analytics as the foundation for a concerted effort to gather patient data into a centralized repository that can be used and reused for research purposes, potentially generating insights into Alzheimer’s disease, autism, diabetes, heart disease, and other impactful conditions.
+To achieve these results, healthcare providers and developers will need to work together on their big data analytics competencies in a number of different areas in order to gain the maximum anticipated value from these innovative new trends.
+Tagged Clinical AnalyticsEHR ChecklistsHealthcare Internet of ThingsPrecision MedicineSemantic Data Lakes
+
+

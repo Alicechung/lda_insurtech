@@ -1,0 +1,25 @@
+Malwarebytes Introduces Easy-to-Use Endpoint Protection And Response Solution For Monitoring, Detection And Remediation
+
+09 Apr 2018
+
+Intuitive Endpoint Protection And Response For Medium-Sized And Enterprise Businesses Overwhelmed By Complex And Expensive Solutions
+Malwarebytes™, the leading advanced malware prevention and remediation solution, today announced the release of Malwarebytes Endpoint Protection and Response. When it comes to Endpoint Detection and Response (EDR), most businesses fall into one of three categories: they either don’t have EDR and have limited visibility into endpoint activity across their infrastructure; they have an EDR solution that provides visibility, but staff lack the time to gain the expertise necessary to leverage EDR data; or they have EDR and the expertise but the solution they are using simply provides alerts without resolution. Each of these circumstances often results in missed threats or extended dwell time.
+Marcin Kleczynski
+“Many businesses don’t have the resources to bring on dedicated, highly-specialized EDR technology and talent, leaving them with a tool that simply adds to a long queue of alerts, without fixing the underlying problems,” said Marcin Kleczynski, CEO, Malwarebytes. “Malwarebytes Endpoint Protection and Response provides proven endpoint protection with integrated detection and response capabilities via a single agent, so organizations of all sizes can easily protect their endpoints from targeted attacks, thoroughly remediate systems and rollback ransomware.”
+According to ESG’s annual IT spending intentions research, IT and cybersecurity professionals have identified cybersecurity as the number one “problematic shortage” area across all of IT – for six years running. When complicated with a lack of trained EDR experts, very few companies have the resources and capabilities to accurately monitor, protect and respond to today’s threats. Malwarebytes Endpoint Protection and Response cuts through complexity, simplifies endpoint monitoring and detection, and makes remediation easy.
+Malwarebytes Endpoint Protection and Response Features 
+Key features of Malwarebytes Endpoint Protection and Response protect across every stage of an attack including:
+Cloud-based single management console and a unified agent.
+Continuous monitoring and visibility of endpoints – Endpoint Protection and Response’s flight recorder provides continuous monitoring and visibility into Windows desktops to obtain powerful insight. Businesses can easily track file system activity, network activity, process activity and registry activity. Flight recorder events are stored both locally and in the cloud, adding another sphere of safety.
+Multi-layered protection – Malwarebytes Endpoint Protection and Response’s multi-vector protection (MVP) uses a seven-layered approach, which includes both static and dynamic detection techniques. These techniques protect against all known and unknown threat types, from traditional viruses to tomorrow’s advanced threats.
+Rapid identification and three modes of endpoint isolation – When an endpoint is compromised, Malwarebytes stops the bleeding by isolating the endpoint. Endpoint Protection and Response is the first product to offer three ways to isolate an endpoint. Network isolation restricts which processes can communicate. Process isolation controls which processes are allowed to keep functioning. Desktop isolation alerts the end user and halts further interaction to limit damage. With these three controls, malware is rendered incommunicado and remote attackers are locked out.
+Complete remediation and ransomware rollback – Malwarebytes proprietary Linking Engine provides complete and thorough remediation to rapidly return an endpoint to a healthy state and minimize impact to the end-user, post-compromise. Rollback technology winds back the clock up to 48 hours, negating the impact of ransomware with just-in-time backups prior to infection.
+Customer Benefits
+Unlike other vendor solutions, Malwarebytes Endpoint Protection and Response provides:
+multi-layered protection incorporating signature-based and signature-less technologies
+a proprietary Linking Engine technology achieving complete and thorough remediation
+ease of deployment and management with remediation from a single console
+elimination of EDR complexity with three modes of endpoint isolation, automated remediation, and ransomware rollback up to 48 hours
+Malwarebytes Endpoint Protection and Response allows organizations to proactively hunt for malware across all of their endpoints without the need for a dedicated resource. This increases the efficacy of protection and provides a lower total cost of ownership. The single console delivers significantly greater security visibility and direct drill-downs to explore and instantly manage all security events. All this is accomplished with reduced hardware cost and a reduced server footprint.
+
+

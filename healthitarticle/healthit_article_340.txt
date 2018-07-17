@@ -1,0 +1,25 @@
+Change Healthcare Plans Payer, Provider RCM Blockchain Tool
+
+September 26, 2017
+
+By Jennifer Bresnick
+September 26, 2017 - Change Healthcare is among the first health IT companies to announce the launch of an enterprise-scale blockchain solution that would bring payers and providers the ability to leverage the distributed ledger technology for revenue cycle management.
+The company, which incorporated many of McKesson Corporation’s health IT assets earlier in 2017, will collaborate with Hyperledger, the multi-industry blockchain coalition, to bring enhanced security and control to the 12 billion healthcare transactions processed by its customer base each year.
+“We are excited to work alongside our customers and partners to make blockchain real in healthcare,” said Change Healthcare CEO Neil de Crescenzo. “We are initially introducing blockchain technology to create a distributed ledger that makes claims processing and secure payment transactions work more efficiently and cost effectively for all healthcare stakeholders.”
+Dig Deeper
+Blockchain Will “Change the Physics” of Health Data Sharing
+Blockchain, APIs Take a Stab at the Healthcare Revenue Cycle
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+The Intelligent Healthcare Network will leverage the recently-released Hyperledger Fabric 1.0, the first publicly available framework geared towards allowing developers to build enterprise solutions with a blockchain foundation.
+Change Healthcare joined Hyperledger in May, becoming the first company primarily focused on health IT to participate in the collaboration.
+“Change Healthcare is uniquely positioned to lead blockchain innovation for healthcare, and we are excited to participate in this transformative undertaking with them,” said Brian Behlendorf, executive director of Hyperledger.
+As development continues, the company will be folding its code innovations back into the open source community, allowing other entities to benefit from its work.
+“With its security, transparency of transactions, and ability for all stakeholders to access the same information, blockchain technology has potential to increase payment accuracy and revenue velocity, which will benefit payers, providers, and consumers themselves,” Behlendorf added.
+Blockchain is likely to have a bright future in healthcare and has already attracted interest from a broad range of stakeholders.  While few blockchain-based tools or systems are currently operational at scale, executives and developers believe progress will accelerate rapidly.
+Close to a fifth of healthcare executives participating in an IBM poll at the beginning of 2017 said they were planning to have some sort of blockchain-based tool in place by the end of the year.  By 2020, they anticipate that around 70 percent of healthcare organizations will have adopted the distributed ledger methodology for some or all of their data management needs.
+Billing, claims processing, and other revenue cycle management needs attracted significant attention in that survey, with 67 percent of early adopters focused on improving financial processes with blockchain.
+Change Healthcare is planning to have these capabilities in place for its customers by the end of 2017 without requiring its partners to develop any new code or interfaces to take advantage of the new data management structure.
+“As today’s healthcare system becomes more value-based, it’s essential that we aggressively and pervasively introduce new technologies into healthcare at scale — whether they leverage blockchain, artificial intelligence, or other emerging capabilities with the potential to improve outcomes and efficiencies,” said de Crescenzo.
+Tagged Blockchain in HealthcareHealth Information ManagementHealthcare Revenue CycleRevenue Cycle Management
+
+

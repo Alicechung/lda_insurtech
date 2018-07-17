@@ -1,0 +1,30 @@
+Deep Learning, Big Data Fuel Medical Device for Predicting Seizures
+
+February 01, 2018
+
+By Jessica Kent
+February 01, 2018 - A medical device using deep learning to analyze long-term neural data could effectively predict seizures in patients with epilepsy and reduce their disease burden, according to a study published in eBioMedicine.
+Developing accurate and reliable predictive analytics for seizures is a challenge, the team points out, given that the neurological signals related to seizures are highly specific to individuals and can be subject to change.
+Deep learning, a machine learning technique that mimics the decision-making structure of the human brain, provides a potential solution to the uncertainty that can burden epilepsy patients.
+Dig Deeper
+MIT Uses Deep Learning to Create ICU, EHR Predictive Analytics
+Machine Learning, Imaging Analytics Predict Kidney Function
+Top 4 Machine Learning Use Cases for Healthcare Providers
+To test their theory, researchers developed an automated epileptic seizure prediction system that would allow patients to directly tune its sensitivity. The system would classify incoming data segments as either preictal (time before a seizure) or interictal (time between seizures) and compared its performance to that of a random predictor.
+Researchers then deployed the prediction system onto a low-power computer chip that could be installed into a wearable device such as a watch or bracelet.
+The team found that the prediction system achieved a mean sensitivity of 68.6 percent and spent an average of 26.9 percent of the time in the warning state, which significantly outperformed the equivalent random predictor for all patients by 42.3 percent.
+The prediction system outperformed a random predictor by 41.3 percent after it was deployed onto the chip. It also showed an average sensitivity of 71.7 percent and spent an average of 31.7 percent of time in the warning state.
+The model also allows clinicians and patients to set individual preferences regarding sensitivity, as well as the duration and number of alarms, which is a feature that isn’t available in other seizure prediction models.
+“In a real-world use-case scenario, a patient or clinician could easily set which metric they want to prioritize and to what extent by changing a single model parameter accessible through an interface.”
+The researchers stress that this functionality is important for patients, as each user will have different preferences and needs for device performance. Patients and clinicians can prioritize high sensitivity or low time in warning, which will personalize these devices and ensure that they perform optimally for each individual patient.  
+This study demonstrates the potential machine learning and deep learning have for improving patient care and outcomes.
+Machine learning has contributed to advancements in predictive analytics and diagnostics across multiple areas of disease, including cancer and mental healthcare.
+Additionally, machine learning shows promise for clinical decision support and chronic disease management. The seizure prediction researchers contend that their model could be used to measure therapeutic interventions for patients with epilepsy and reduce the amount of time spent using anti-epileptic drugs or electrical stimulation.
+The researchers note that to improve their current prediction model, they could add additional networks that are trained specifically to detect periods of safety for patients, rather than just periods of seizure risk.
+In addition, the researchers state that because deep learning algorithms rely on large amounts of data to extract meaningful elements, the algorithms perform better with patients who experience frequent seizures rather than those who experience fewer seizures.
+Still, the research team is confident that their results show the positive impacts deep learning can have on epilepsy research and management.
+“This study demonstrates that deep learning in combination with neuromorphic hardware can provide the basis for a wearable, real-time, always-on, patient-specific seizure warning system with low power consumption and reliable long-term performance.”
+“We expect advances in data processing, network design, and specialized hardware to shape the future of epilepsy research,” they conclude.
+Tagged Chronic Disease ManagementHealthcare Big Data AnalyticsMachine LearningPatient DataPatient Outcomes
+
+

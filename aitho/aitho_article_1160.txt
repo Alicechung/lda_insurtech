@@ -1,0 +1,48 @@
+The Great Rush: Preparing For The Data Science Success
+
+18 Mar 2018
+
+Today, data is the ‘oil’ that is driving every aspect of the business. And, in a scientific parlance, this data is reusable, replenishable and insightful. Every insight gleaned with data becomes valuable each passing day. With the coming of age of the Internet of Things (IoT), super-connectivity, data management, and analytics, data for business is a gold rush for all modern organizations.
+We provide you key insights on how to start on the path to data science success and make a dash into the ‘Great Rush’.
+Talk to the Data Scientists
+For clear navigation into business strategies, the CEOs need to pivot their compass for technology on Right Data streams. To understand this concept better, we spoke to Rishi Dave, CMO of Dun &Bradstreet around our predictions series 2018. We realized that businesses are still miles away from leveraging the ‘right’ data for their business goals.
+As Rishi puts it, “If it’s, as we like to say, “Dirty data,” your information will be compromised. If you want to make better business decisions, you need to master your data. Companies who do not place an emphasis on accurate and fresh data in 2018 will lose out.”
+In our TechBytes Series, we provide an industry-recognized platform to the leading data scientists and digital officers to speak about the world of Data Science. For instance, in a recent interview, Jason Shu of Aki Technologies said, “Deep Learning is all the rage in the AI/ML space, but its complexity has made it difficult for non-experts to easily prototype new ideas. Libraries such as Keras and TensorFlow have been the go-to tools to help simplify the model-building process, but even these tools have their limits. PyTorch is a new library developed by fast.ai, an organization teaching Deep Learning through the University of San Francisco’s Data Institute. This library expands the breadth of problems that can be solved, while also further simplifying the development and model training processes. I’m excited to see what marketing experts can do, given more time to solve problems and less time to worry about the nuts and bolts of Deep Learning models.”
+Craig Zawada, Chief Visionary Officer, PROS, states, “In 2018, we are going to see a variety of industries implement more AI-powered solutions in the B2B sales process. Machine-guided algorithms will play a prominent role in automating and analyzing opportunity detection, which is a better and faster way of uncovering previously hidden opportunities. This will enable sales teams to more quickly and intelligently identify hidden growth opportunities across their accounts, alert them to potential customer churn to avoid potential losses, and personalize recommendations for prospects.”
+Overcome the Replication Crisis in Data Democratization
+How far are you from democratizing data science? The biggest challenge to driving towards your Data Science success is ‘replication crises.’ You don’t have to cut your teeth into data management to leverage Data Science. Yes, the world still moves around Big Data, but that’s not where it ends for business analytics.
+Replication Crisis in Data Science is the gap or deviation observed by researchers in their own experiments at various levels of iteration. The reproducibility failure hampers your Data Science success in more than 70 percent cases!
+When you democratize data for decision-makers and analysts, the replication crisis rate comes down to a significant level.
+Wield Data as your Corporate Asset and Identity
+The burgeoning force of solid data would wipe out the need to rely on latent insights that may not affect decision-making algorithms at all. You need to move beyond the traditional thinking of keeping data siloed to a particular team. Once you wield data as a corporate identity, you can measure the quality, value and economic significance of data, helping you go ahead with monetization strategies based on flexible frameworks.
+Johann Wrede, Global VP, Strategic Marketing, SAP Hybris, said, “It is essential that modern organizations harness the abundant data available to understand their customers, which is most successfully executed through the use of a CRM system. To get a complete picture of each customer, brands must bring their business processes and customer information, including data from outside sources, together into a single core platform.”
+View image on Twitter
+Michael Fisher
+@Fisher85M
+How much data is processed every 10 seconds by the #Tech Giants? 
+
+[@VisualCap @antgrasso] MT#BigData #Analytics #Internet #business #enterprise 
+http://
+buff.ly/2EC7MtQ
+  11:01 AM - Mar 15, 2018
+65
+66 people are talking about this
+Twitter Ads info and privacy
+John added, “Using a CRM system helps organizations to achieve one of the most important aspects of the customer experience: closing the gaps in the customer journey. Generally, most B2B companies perform adequately at offering experiences when the customer is within a single department. For instance, the marketing email and the website will be consistent, so a click-through will give the customer a seamless experience as they transition from one channel to the next. However, when the customer requests more information after browsing, the salesperson who follows up often doesn’t have the context of the email they clicked on and the pages they browsed on the website – this is when the experience breaks.”
+Take a Leap from Intelligence to Realization: AI, Bring it ON!!!
+AI is not the buzzword anymore. It’s the staple to realize how fast you could move from a tech-driven company to an innovation company. When users become pioneers, technology amplifies its potential to transform and reach. We learned this by scrambling through the origin of voice search and speech recognition technologies that are changing the way customers engage with their brands. That’s life transforming!
+Chandar Pattabhiram, CMO, Coupa Software, said, “In B2B, when we are talking about ‘AI-as-a-Service,’ we’re mainly talking about machine learning. As Geoffrey Moore says, AI seeks to emulate human intelligence, whereas machine learning tries to simulate it with brute mathematical force.”
+He added, “Automation is taking over many of the do jobs, and machine learning is supporting the think jobs with predictive insights, but AI will never replace the feel jobs. Marketing is always going to be the art and science of storytelling and building emotional connections. Marketers should look at AI as an augmenting technology that helps us to be more scientific about what stories we tell to whom, and in what channels.”
+Remember what Stephen Hawking Said!
+“The greatest enemy of knowledge is not ignorance: it is the illusion of knowledge.”
+We could be coaxed to believe that data would solve all our problems. In the data science success in your digital transformation journey, explore how you can make your data work better, and how it could be leveraged to build unique opportunities to be monetized both directly and indirectly.
+Make the most of the growing volume and quality of data, and invest time now to get ahead of the trend.
+Evan Kirstel
+@evankirstel
+"What's dangerous is not to evolve." - Jeff Bezos #DigitalTransformation
+1:34 PM - Mar 15, 2018 · Nashua, NH
+43
+36 people are talking about this
+Twitter Ads info and privacy
+
+

@@ -1,0 +1,18 @@
+SAP Expands User Experience Across All-Analytics Platform
+
+07 Mar 2018
+
+New International Business Communications Standard (IBCS) certification for SAP® Analytics Cloud
+Enhanced common user experience across all capabilities and devices in SAP Analytics Cloud
+Smart assist enhancements for machine learning and AI-driven insights
+SAP SE announced the SAP® Analytics Cloudsolution is now certified by the International Business Communication Standards (IBCS®), empowering self-service users to easily build IBCS-compliant presentations for better, faster business decision-making. SAP also outlined a series of new and future innovations such as machine learning (ML) and artificial intelligence (AI) to enhance the user experience (UX) and user interface (UI) across devices.
+The announcements were made at the Gartner Data & Analytics Summit held in Grapevine, Texas, March 5 through March 7.
+IBCS sets clear guidelines for communicating business information in the most concise manner for better analysis, understanding, reasoning and presentation. The integration of IBCS charting into SAP Analytics Cloud simplifies creating charts and tables that conform to IBCS standards. Reports, dashboards and presentations can be dramatically improved and are available to all users, regardless of license type.
+Patrick Keller
+“IBCS-compliant presentations in SAP Analytics Cloud equip Villeroy & Boch with immediate insights into sales analysis,” said Patrick Keller, head of Analytics and Planning at Villeroy & Boch, one of the world’s largest makers of ceramic and porcelain tableware. “By combining clear and actionable visualizations with live connectivity to the SAP Business Warehouse application, Villeroy & Boch empowers users with effective business communication to make better decisions.”
+Rolf Hichert
+One of the challenges businesses face is communicating important business information, especially across business lines. Context is often lost when data is hidden or not shown in relation to other data. Without standards for displaying data visualizations, audiences may not be able to fully comprehend the information as effectively.
+“One of the most important roles of data visualizations is to make figures, relationships and divergences easier to understand, especially when sharing or presenting that information,” said Dr. Rolf Hichert, president of the IBCS Association. “The audience needs to be able to quickly look at a chart or a table and sort out the information in a meaningful way so that they can act on it.”
+ 
+
+

@@ -1,0 +1,36 @@
+430M Internet of Things Devices Means a Healthcare Big Data Tsunami
+
+August 23, 2017
+
+By Jennifer Bresnick
+August 23, 2017 - By 2022, manufacturers will be shipping out 430 million Internet of Things devices each year, predicts a new report from Tractica, leaving healthcare providers little time to prepare for a massive influx of potentially valuable big data.
+As wearable fitness trackers are joined by a new generation of smart clothing and body sensors that may be able to collect an unprecedented amount of personal health data, providers and health IT developers will need to quickly work through the interoperability, data governance, patient engagement, and EHR optimization problems that have thus far been holding back the Internet of Things.
+“Fitness trackers and smart watches remain the largest device segments for wearables, accounting for more than 80 percent of shipments in 2016,” explains the report.
+These devices typically collect basic data around activity, exercise, and heart rate.  These capabilities have attracted millions of curious, tech-savvy consumers to these devices, but providers have thus far been unable to meaningfully integrate IoT fitness data into care planning and chronic disease management at scale.
+The nearly-saturated market for consumer-grade devices, coupled with the rise of new categories of IoT devices, will continue to be problematic for device manufacturers as this segment of the market drops to around 50 percent.
+Source: Tractica Research
+READ MORE: Can Healthcare’s Internet of Things Move from Froth to Function?
+Body sensors, including wearable patches used for healthcare applications, will account for the third-largest IoT segment by 2022, the report forecasts.  More than 92.1 million body sensors are expected to ship by 2022.
+“Healthcare and health-focused applications in general will be a major driver for the next phase of growth in wearables,” said Tractica research director Aditya Kaul. 
+“Wearable device companies that pivot beyond fitness and activity tracking, toward preventing and managing chronic health conditions like diabetes and heart problems will succeed in the long run.  Tractica believes that chronic health management, both in a professional healthcare setting, as well as a general consumer setting, will help wearables break into the mainstream.”
+But clinicians interested in integrating IoT devices into their care plans – creating a true Internet of Medical Things – will need to overcome a wide range of challenges, starting with ensuring that wireless and broadband networks are up to snuff and ending with figuring out how to make huge volumes of data accessible, intuitive, and valuable to work with.
+“[Patient-generated health data] is this messy, undefined stack of data that doesn’t sit within the EHR system,” said Ben Jonash, Principal at Doblin, the design and innovation arm of Deloitte LLP.
+READ MORE: Explaining the Basics of the Internet of Things for Healthcare
+“Can providers trust it?  Do they?  Is it good data?  The number one reason why clinicians don’t like PGHD is the hassle factor.  It’s too much work to determine whether they’re being sent a signal or just too much noise.”
+Providers, especially in the primary care space, recognize that the IoT has the potential to drastically improve their abilities to manage populations, identify patients on the verge of a crisis, or reduce barriers to effective post-discharge care. 
+But “a primary care physician isn’t going to sit and stare at a live feed of your blood glucose monitor,” Jonash pointed out.  “They want to see digital therapeutics incorporated into a better way to deliver medical care.”
+A few pioneering organizations, including Carolinas HealthCare, have started to crack the code by developing aggregation apps to bring order to the IoT. 
+In 2016, the health system launched two applications to bring together big data from patients’ growing collection of devices and translate the collected information into a data stream that clinicians could actually use, although at the time, the data was still held separately from the main EHR.
+READ MORE: Will the IoT Bring a Patient Engagement, Interoperability Revolution?
+"It's one thing to collect all your steps on your phone," said Greg Weidner, MD, medical director of the Carolinas HealthCare System Proactive Health group.
+"It's quite another to provide the clinical explanation and connection to the provider. With this tool, our care managers can see what's going on with the patient in between visits. We have a better sense of what's going well and what areas need extra attention."
+But the challenges of the IoT don’t stop there.  Healthcare organizations must also consider the question of long-term patient engagement with their devices.
+While a new and exciting fitness tracker or smartwatch may captivate a user’s attention for a few weeks or months, that keen level of interest tends to taper off quickly – especially if the device and its accompanying interfaces don’t provide enough detailed insights, include hidden fees or micropurchases, or start to act glitchy.  
+In order to ensure that data streams don’t trickle to a halt after providers have put so much time and effort into creating hospitable platforms for the IoT, clinicians should promote the value of sustained engagement for patients, especially those living with chronic diseases.
+As the market expands and IoT devices become more familiar to a broader range of consumers, that might not be a difficult conversation to have.  Sixty percent of consumers participating in a recent industry poll already believe that wearables will help them lead healthier lifestyles, and a similar number think that personalized feedback from their wearables will help to personalize their care.
+“A collaborative approach is needed to engage patients in setting health goals and action plans to attain them,” said researchers from Ericsson who conducted the survey.
+“The needs of the consumers in preventative, routine and postoperative healthcare situations are different and need to be resolved using different approaches. The transformation of care moving closer to home and data moving from patients to hospitals is going to be driven by the needs of patients with chronic ailments, and it is likely to benefit these patients the most.” 
+Ensuring that both providers and patients can leverage the full potential of the Internet of Things will be an ongoing mission for healthcare organizations, their developer partners, and their patients.  As the number of devices grows and the sophistication of these tools increases, the industry will need to carefully work through its big data access and management issues before it can improve the delivery of chronic disease care and population health management.
+Tagged Chronic Disease ManagementHealthcare Internet of ThingsmHealth DevicesPopulation Health ManagementWearable Devices
+
+

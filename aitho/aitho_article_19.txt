@@ -1,0 +1,22 @@
+Striim Strengthens Platform For Cloud-based Analytics
+
+13 Jul 2018
+
+Version 3.8.4 Expands Real-Time Data Movement and Integration to multiple Cloud Analytics Services; Increases Operational Value of Cloud Analytics
+Striim®, provider of an enterprise-grade platform for streaming data integration, today announced the general availability of version 3.8.4 of the Striim platform. This new release strengthens the platform’s capabilities in helping organizations with their transition to, and use of, cloud-based analytics by creating enterprise-grade, real-time data pipelines to feed different layers of their cloud environment. Available as a cloud service, Striim enables companies to reap the agility and cost-savings benefits of cloud-based analytics with real-time data movement, scalability, and faster time-to-market.
+With the new 3.8.4 release, the Striim platform can support organizations across all layers of their cloud-based analytical environment by bringing real-time data to:
+Analytics services and data warehousing solutions, such as Azure® SQL Data Warehouse and Google® BigQuery®, that directly support end users with timely intelligence
+Data management and analytics frameworks, such as Azure HDInsight®, which support interactive analysis or creating machine learning models
+Storage solutions, such as Amazon® S3 or Azure Data Lake Storage, from on-premises and other cloud-based data sources in real time
+Staging areas, such as HDFS, S3, ADLS which are used by other cloud services and components
+Read More: Insurtech: the new AI disruption is hitting insurance
+Alok Pareek
+“To deliver next generation digital transformation, businesses are quickly moving to cloud-based analytics,” said Alok Pareek, founder and EVP of Products at Striim. “With Striim 3.8.4, users can set up real-time and pre-processed data flows from on-premises and cloud environments into different layers of their cloud solution to accelerate their onboarding and increase the operational value gained from their analytical solutions in the cloud.”
+In 3.8.4, the Striim platform automates its streaming data integration to Hive solutions, deployed in the cloud or on-premises. It also enhances its real-time data integration into Amazon S3 by adding dynamic bucketing, object-level tagging, and support for file headers.
+Read More: Interview with Akemi Tsunagawa, Founder and CEO, Bespoke Inc
+With an eye on ease of use, Striim added Schema Registry support for Apache Kafka, helping end users to track and store schema evolution easily, and avoid impacting existing applications due to schema changes. Striim also introduced Open Processor – a platform component that is accessible via the UI – to allow end users to bring any code they have written into any part of the Striim platform. For example, companies building machine learning (ML) models using R can quickly bring their ML algorithms into Striim to extend its application logic.
+Another new feature that enhances Striim’s manageability and ease of use is Continuous Data Processing Validation. Using pre-built dashboards that continuously monitor the behavior of data pipelines, Striim users can easily trace and validate in real time whether, and to what degree, the data ingested completed the required processing steps as it is streaming within the platform.
+With the new release, Striim continues to expand the list of sources and targets by introducing support for Microsoft®Azure Database for PostgreSQL® and Microsoft Azure Database for MySQL®. Striim also offers a new adapter for delivering real-time data into the popular NoSQL database, Apache® Cassandra®. Customers can use Striim to ingest real-time, pre-processed data from diverse data sources, including enterprise databases – using real-time, log-based CDC – log files, messaging systems, Hadoop, cloud-based data stores, and sensors, add in-stream process and transformations, and deliver the data to these targets.
+Read More: UK and France to strengthen ties in Artificial Intelligence and data
+
+

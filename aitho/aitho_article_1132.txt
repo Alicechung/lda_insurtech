@@ -1,0 +1,14 @@
+Socionext To Demonstrate Advanced Encoding And Decoding Of Multiple Live Video Streams At Annual NAB Show
+
+20 Mar 2018
+
+Featuring Single-Chip 4K HEVC Codec and Low Power, High-Efficiency 1U Systems Capable of Delivering 32 4K60P Live Streamed Content Simultaneously
+Socionext Inc., a leading expert in video codecs, systems and broadcasting technologies, will showcase a complete set of advanced video and broadcast solutions for content and service providers at the annual NAB Show at the Las Vegas Convention Center April 9-12.
+At booth SU13614 in the South Hall’s upper level, Socionext has teamed up with various leading server partners and solutions providers to create powerful and cost-effective high-density video transcoding server platforms based on the company’s Media Cloud solution.
+Socionext will be demonstrating the MB86M30, also known as the “M30”, multi-format Codec ICs in a single 1RU form factor Media Cloud server. The Socionext Media Cloud-based solutions can perform real-time transcoding of up to 32 4Kp60 HEVC streams and up to 128 1080p60 AVC/HEVC streams with Adaptive Bit Rate (ABR) in a single 1U rack system. The solutions are low power, inexpensive and easy to deploy.
+A single M30 codec can output 8 transcoded channels of AVC/HEVC in equal capacity and supports most popular video codecs including HEVC, AVC and MPEG-2. The M30 powered system is the only one available in the market today capable of transcoding up the 256 streams in the 1U form factor.
+The Socionext Media Cloud is a robust, low-cost, and easily deployable hardware transcoder solution for HEVC video streaming. The solution delivers unprecedented levels of performance with a tenfold increase in transcoding speed and efficiency, ensuring optimal streaming experiences for viewers.
+The Media Cloud is ideal for a wide range of streaming video applications. The device delivers a low-cost, compact, power-efficient, and easily deployable solution that addresses both the CAPEX (capital expense) and OPEX (operating expense) constraints of service providers.
+As more and more consumers are switching from traditional cable subscriptions to web streaming, broadcasters need to also update new content delivery method. The Socionext media cloud is an ideal solution for content creators and service providers that need to cost-effectively and efficiently deliver large volumes of diverse media formats, ranging from 4K to 420, to their intended audience.
+
+

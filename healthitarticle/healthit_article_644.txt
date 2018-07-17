@@ -1,0 +1,29 @@
+Microsoft Takes on Blindness, Eye Care with AI, Machine Learning
+
+December 20, 2016
+
+By Jennifer Bresnick
+December 20, 2016 - A new international collaboration, headed by Microsoft, will explore the use of artificial intelligence and machine learning for preventing blindness and improving eye health for patients around the globe, the company announced this week. 
+The Microsoft Intelligent Network for Eyecare (MINE), which includes the L V Prasad Eye Institute in India as well as universities in the United States, Brazil, and Australia, will use machine learning techniques to develop predictive analytics models for visual impairment and blindness.
+Visual impairment is a significant issue in India, where 55 million people suffer from reduced vision or blindness. 
+The consortium aims to reduce the incidence of preventable blindness and help providers better understand the development of visual impairments by leveraging Microsoft’s Cortana Intelligence Suite, the software giant’s foray into the world of artificial intelligence.
+Dig Deeper
+MIT Uses Deep Learning to Create ICU, EHR Predictive Analytics
+Natural Language Processing, AI to Foster Clinical Decision Tools
+Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+“MINE, a global collaboration, reinforces Microsoft’s belief in the combined power of data, cloud and advanced analytics to drive public good. In our shared vision to eradicate preventive blindness, MINE will help redefine eye care by bringing together the power of technology and knowledge of global experts,” said Anil Bhansali, Managing Director, Microsoft India (R&D) Pvt. Ltd.
+Initial projects will focus on better predicting the rate of change of myopia in children, formulating more accurate predictions for the outcomes of refractive surgery, and establishing methodologies to personalize surgical procedures and raise the likelihood of success.
+“This unique partnership with LVPEI and the consortium brings the best in the field together to reimagine healthcare using machine learning through the Microsoft Cortana Intelligence Suite,” said Joseph Sirosh, Corporate Vice President of Data Group at Microsoft.
+LV Prasad Eye Institute (LVPEI), a non-profit treatment and research center located in Hyderabad, is already using machine learning tools from Microsoft to optimize patient care, said Dr. G.N. Rao, Founder-Chair of the organization.
+“At LVPEI, we have been using Microsoft Azure Machine Learning and Power BI to drive clinical interventions and improve patient outcomes,” Rao said.
+“Today, we take great pride in taking forward our partnership with Microsoft and joining forces with global institutes to revolutionize the field of ophthalmology in India and across the world. We are confident that this partnership will not only open doors to opportunities in the field of eye care, but also pave way for others to leverage technology to address several other critical eye diseases.”
+Vision care isn’t Microsoft’s only move into the realm of machine learning targeted to healthcare.  The company is also using its expertise in cutting-edge big data analytics to take on imaging analytics through a partnership with a French precision medicine firm, and has made it a mission to take on the complicated problem of cancer care.
+Alongside other notable technology names including Amazon, Google, Facebook, and IBM, Microsoft has joined the Partnership on Artificial Intelligence to Benefit People and Society, a think-tank formed to establish best practices, ethical parameters, and use cases for the continued development of machine learning and artificial intelligence technologies.
+While some of Microsoft’s fellow members, like IBM and Google, have arguably made more of a splash in the healthcare industry so far, the software company appears to be planning for a future in the lucrative healthcare sector, where precision medicine, predictive analytics, and machine learning are likely to create a multi-billion dollar opportunity for vendors.
+“We believe that the most impactful data-driven solutions will go beyond analytics, and will include built-in intelligence that augments an organization’s capabilities in exciting new ways,” Siroch wrote in a March blog post repositioning the company’s analytics products as “intelligence” tools that foster more natural engagement with users.
+“Imagine a world where nurses and doctors use remote monitoring solutions not only to analyze a patient’s vitals such as blood pressure, weight and heart-rate, but also to interpret a patient’s mood based on speech and tone analysis during a scheduled phone conversation,” he said. “Technology like this could help augment their diagnosis to better predict and prevent emergencies and have real impact on the wellbeing of the patient.”
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+Tagged Artificial Intelligence in HealthcareClinical Decision SupportMachine LearningPredictive Analytics
+
+

@@ -1,0 +1,18 @@
+Data registry flags overlapping payers for revenue management
+
+September 09, 2014
+
+By Jennifer Bresnick
+September 09, 2014 - Patients covered under more than one health insurance payer may no longer cause squabbles in the accounting office thanks to the newly announced nationwide rollout of COB Smart from the Council for Affordable Quality Healthcare (CAQH), a non-profit coalition and advocacy group that has enlisted most of the nation’s major payers for the coordination of benefits (COB) project.  The payer data registry allows healthcare organizations to automatically know which insurers to bill first for patients with overlapping coverage, streamlining the claims process and ensuring that revenue flows smoothly.
+“COB Smart was collaboratively developed to streamline coordination of benefits processes for health plans and providers,” said Robin Thomashauer, executive director of CAQH. “With the solution now live nationwide, we are expanding coordination with leading clearinghouses and other solution partners to help integrate COB Smart into the provider workflow.”
+The program was first announced in February, but has now rolled out to all fifty states and the District of Columbia.  Participating insurers, including Aetna, Cigna, Kaiser Permanente, WellPoint, and United Healthcare, update patient data on a weekly basis, providing nearly real-time data for more than 110 million patients nationwide.  Providers can access the system through a web portal to search by patient name, or can work directly with their payers or clearinghouses to access pertinent information.
+A lack of access to COB details contributes to an annual system-wide loss of more than $800 million dollars due to poor revenue cycle management and convoluted claims processing.  During a pilot of the program, one insurer found that four out of five records flagged by COB Smart had not been previously detected as having additional insurance eligibility options, the press release says.
+Dig Deeper
+Healthcare Financial Analytics, Business Intelligence Market Takes Off
+CMS Continues Data Transparency Push with Medicare Drug Info
+Change Healthcare Plans Payer, Provider RCM Blockchain Tool
+“We are increasingly looking for ways to integrate technology solutions like COB Smart to streamline the claims process,” said Matthew G. Manders, President, Regional and Operations, Cigna Corporation, in February when the project was initially unveiled. “Using COB Smart represents a collective commitment by the industry to reduce waste and improve the healthcare experience for customers and healthcare professionals.”
+“COB Smart is addressing the frustrations that patients, providers, and health plans sometimes experience with benefit coordination,” added Thomashauer. “Efficient COB processes are integral to ensuring providers receive the right payment and health plans process the correct claims the first time.”
+Tagged Financial AnalyticsPractice ManagementRevenue Cycle Management
+
+

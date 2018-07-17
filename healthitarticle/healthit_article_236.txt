@@ -1,0 +1,35 @@
+Machine Learning, Imaging Analytics Predict Kidney Function
+
+January 15, 2018
+
+By Jennifer Bresnick
+January 15, 2018 - Machine learning and imaging analytics from renal biopsies can help to predict how long a kidney will function adequately in patients with chronic kidney damage, says a study published in Kidney International Reports.
+Using deep learning and neural networks, a form of machine learning that mimics the decision-making patterns of the human mind, researchers found that a series of new convolutional neural network (CNN) algorithms were more precise and accurate than traditional pathologist-estimated scoring systems when calculating kidney decline.
+“Chronic kidney damage is routinely assessed semi-quantitatively by scoring the amount of fibrosis and tubular atrophy in a renal biopsy sample,” explains the research team from Boston University.
+“Although the trained eyes of expert pathologists are able to gauge the severity of disease and to detect nuances of histopathology with remarkable accuracy, such expertise is not available in all locations, especially at a global level.”
+In the United States, approximately 14 percent of the population suffers from chronic kidney disease, according to the National Institutes of Health.  The condition frequently produces few symptoms until it is very advanced, heightening the importance of regular monitoring and accurate identification of how the disease is progressing.
+READ MORE: Understanding the Basics of Clinical Decision Support Systems
+“Moreover, there is an urgent need to standardize the quantification of pathological disease severity, such that the efficacy of therapies established in clinical trials can be applied to treat patients with equally severe disease in routine practice,” the team added.
+Artificial intelligence and imaging analytics are promising technologies for helping pathologists with these tasks.  With the ability to recognize patterns down to the pixel in multi-gigabyte images, AI offers a level of detailed analysis for incredibly large volumes of data that human clinicians may simply be unable to match.
+Early results combining machine learning and imaging data have been encouraging.  Some pilots have already shown that AI tools can be nearly as accurate as human pathologists while significantly reducing the time it takes to analyze large quantities of data.
+Hoping to achieve similarly positive results, the team from Boston University examined data from 171 patients seen at Boston Medical Center between 2009 and 2016, including initial visits and follow-ups.
+The patients represented a typical population with chronic kidney disease, with a median age of 52 and a high number of concurrent chronic diseases such as hypertension and diabetes.  Close to half the population was African American.
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+The researchers adapted Google’s Inception V3 image recognition architecture, which is pre-trained with millions of images, to support the identification of changes in available kidney biopsy slides.
+The algorithm was trained to identify patients with likely renal survival rates of 1, 3, and 5 years.  Since the study used retrospective data, the team was able to match the algorithm’s predictions with actual outcomes.
+The results indicated that the CNN model was measurably better than the pathologist-estimated scoring system when predicting renal survival rates over the three target periods.  The algorithm was also able to more accurately identify the state of kidney disease for the individuals.
+Source: Kidney International Reports
+“An important strength of the study is that the machine learning technology was applied to trichrome-stained histologic images of routine kidney biopsy samples without any special processing or manipulation other than digital scanning,” the team noted, “which allowed us to directly compare the results of the machine learning analysis with those derived from the clinical pathological report on the same specimens.”
+The use of deep learning techniques also helped to create a more complex evaluation framework than the pathologist-estimated score, which primarily relies on the degree of fibrosis present in a particular sample.
+READ MORE: Artificial Intelligence in Healthcare Gets Cheaper and Quicker
+“Using operators such as convolution, activation, and pooling (or subsampling), training a CNN model involves performing these operations multiple times in a systematic fashion to transform pixel-level information to high-level features of the input image,” says the study.
+“The CNN model training is in stark contrast to the pathologist model training that was done using a single value (fibrosis score) as an input feature along with corresponding output classes. This aspect underscores the value of leveraging a computer algorithm such as CNN to capture pixel-level information derived from the whole image and to associate it with an outcome of interest but not a fibrosis score per se.”
+The researchers point out that even though the CNN model outperformed the simpler score, the pathologist-estimated fibrosis score is still a highly valuable and accurate way to monitor the progression of chronic kidney disease.
+“Machine learning algorithms clearly have limitations and provide incremental value rather than replacing the human factor,” the study states. “We acknowledge that a nephropathologist’s clinical impression and diagnosis is based on contextual factors above and beyond visual and pathologic inspection of a lesion in isolation.”
+“Nevertheless, the ability to classify histologic images using a computer with the accuracy of an experienced nephropathologist has the potential to affect renal practice, especially in resource-limited settings.”
+As machine learning algorithms become more sophisticated, providers may soon be able to integrate their findings more deeply into clinical decision support tools to guide treatment decisions.
+“This rapid, scalable method can be deployable in the form of software at the point of care, and holds the potential for substantial clinical impact, including augmenting clinical decision making for nephrologists,” the study concludes.
+“Further validation of the models across different clinical practices and image datasets is necessary to validate this technique across the full distribution and spectrum of lesions encountered in a typical pathology service.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsImaging AnalyticsMachine Learning
+
+

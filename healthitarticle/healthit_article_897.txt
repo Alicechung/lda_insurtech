@@ -1,0 +1,134 @@
+3 Key Steps to Achieve Scalable Population Health Management
+
+June 01, 2016
+
+By Sara Heath
+June 01, 2016 - A thriving and scalable population health management strategy relies on patient risk stratification, care coordination, and data-driven approaches to care, says the recent PwC report, Population Health: Scaling Up.
+According to the report, population health management strategies have so far been successful, but haven’t been implemented at large scale across the country. If they continue to expand across more healthcare facilities, the authors predict, the nation could see notable cost reductions.
+By overhauling population health management strategies, healthcare organizations can begin that scaling-up process, helping to bring patient-centered and cost-efficient care to more individuals.  
+Here are the three key steps to take in order to establish a population health program that will stand up to the stress of expansion.
+Smartphone Owners Five Times More Likely to Use Patient Portals
+Depression screenings for diabetics improve self-management
+Precision Medicine Must Be a “Team Effort,” White House Says
+Borrowed from Retail, Anthem’s Big Data Analytics Boost Member Engagement
+176M May Be Covered by Accountable Care Organizations by 2020
+Senate Passes SGR Repeal, Embraces Value-Based Reimbursement
+Do Data Transparency, Open Payments Reduce Clinical Research?
+WY population health program cuts ER visits, readmissions
+TGen Launches Discovery Platform to Boost Genomic Data Analysis
+Epic Systems Wins Best Overall Health IT Suite in KLAS Rankings
+Small providers can achieve engagement through patient portals
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+Microsoft Revs Up Healthcare Artificial Intelligence Projects
+HIMSS Health IT Score Gauges Value of EHR, Big Data Adoption
+Aetna Grant Helps PA Expand Opioid Data Analytics Dashboard
+UCLA Research Center to Focus on Healthcare Big Data Analytics
+Johns Hopkins, UCSF, Stanford to join FDA innovation center
+CMS to Require Health Information Exchange for Long-Term Care
+NIH, Pharma Orgs Launch $215M Precision Medicine, Cancer Project
+FDA Uses Genomics, Big Data Analytics to Track Food Poisoning
+Partnership Ups Medication Adherence with Predictive Analytics
+Care Coordination Hampered by Inadequate Discharge Summaries
+Do you need a data warehouse for good healthcare analytics?
+Health Information Management Pros Need Security, EHR Data Skills
+Machine Learning Complicates FDA Clinical Decision Support Guidance
+Trial uses real-time clinical analytics to study cancer drug
+EHR Alerts Increase HPV Vaccine Rates Ten Times Over
+Patient privacy, data security concerns plague analytics
+ONC: Don’t Let HIPAA Errors Hinder Population Health Management
+What Does the Stage 3 Meaningful Use Rule Mean for Analytics?
+Are Big Data, Genomics, Precision Medicine the Cure for Cancer?
+Real World Evidence, Big Data Can Speed Clinical Innovation
+Preventable Diabetes Care Costs Total $16 Billion Per Year
+Can the ONC, EHR Vendors Fix Healthcare Data Interoperability?
+Precision Medicine Study Highlights Role of Machine Learning
+EHR Predictive Analytics Flag 32% of Nursing Home Patient Falls
+Administrative Support Atop Barriers to Nursing Informatics
+ONC Details Plan to Improve Data Standards, Big Data Analytics
+PCMH Care Coordination Program Cuts Hospital Readmissions
+Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+Healthcare Informatics System Aids Research Collaboration
+Patient Adherence, Evidence-Based Care Top Priority for Docs
+HSPC Interoperability Project Tackles HIE with FHIR, App Culture
+Quality care relies on clinical, administrative cooperation
+PCORI will speed analytics with $93.5M in research funding
+EHRs Can Aid Chronic Disease Management in Urban Settings
+Financial analytics present RCM opportunities for hospitals
+Communities Tackle Opioid Abuse with EHRs, Population Health
+Primary Care Access Aids Diabetes Chronic Disease Management
+Epic Systems EHR Brings Care Coordination to Walgreens Retail Clinics
+65% of Patients Unlikely to Volunteer for Clinical Research
+Healthcare Big Data Success Starts with the Right Questions
+CMS Unveils Interoperability, EHR Clinical Documentation Changes
+EHR Data Mining, Patient Outreach Can Aid Hypertension Care
+Over 80% of Nurses See Increased Role in Patient Management
+Social Determinants of Health Dashboard Expands to 500 Cities
+Synchronized Pick-Up Boosts Medication Adherence Up to 13%
+Patient-Generated Health Data, mHealth Can Improve Outcomes
+UMass to Study Use of Wearables in Chronic Disease Management
+ICD-10 Prep Raises Data Quality for Revenue, Population Health
+ICD-10 National Pilot highlights data quality issues
+ONC Exploring Use of Blockchain in EHRs, Healthcare IoT Devices
+Is healthcare ready to get SMAC-ed around?
+Machine Learning, EHR Big Data Analytics Predict Sepsis
+Medicare Diabetes Prevention Program Model Expands Nationwide
+To build a population health management program, start anywhere
+Boston Children’s using genetics to predict best medications
+Docs return to bad antibiotic habits when monitoring ends
+HIMSS14: Population health, clinical analytics are the future
+Precision Medicine, Genomics Require Strong Data Governance
+NIH Opens Up “All of Us” to Research Participants Nationwide
+Groups Urge $34.1B NIH Budget for Precision Medicine, Research
+Healthcare Internet of Things Investment is Just Getting Started
+How to Use Healthcare Big Data Analytics for Accountable Care
+FDA Holds App-a-Thon for Precision Medicine, Next-Gen Genomics
+Humana Expands Population Health Management, Accountable Care
+Big Data, Interoperability Top Black Book’s Trends for 2017
+Will the IoT Bring a Patient Engagement, Interoperability Revolution?
+Why do docs think mHealth is useless for patient monitoring?
+CMS Unveils Value-Based Patient-Centered Primary Care Model
+Clinical Analytics Adoption Lags behind Accountable Care
+Population Health, Clinical Analytics Drive New Job Categories
+Study: Automated readmissions review not yet sensitive enough
+Mayo Clinic, VC investors bring analytics to the bedside
+Blockchain Offers to Solve Pain Points in Healthcare Data Management
+Growing NLP Marketplace Drives Healthcare Machine Learning
+Google Using FHIR, Deep Learning for Healthcare Predictive Analytics
+Internet of Things, Precision Medicine, NLP Drive Market Growth
+Focus on Precision Medicine Treatments Grows in Hospitals
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Four Population Health Management Steps for Safety Net Patients
+Brown Gets $1.1M to Study Medicare Post-Discharge Care Quality
+Genetic research, data analytics face privacy, ethics concerns
+CMS Reform Model Fosters Care Coordination, Population Health
+Texas HIE adds genetic data for analytics, personalized care
+Cerner buys Siemens to boost population health, RCM assets
+Opioid Prescriptions Dropped 12% in 2017 as Guidelines Change
+Mass. AG to Expand Prescription Drug Monitoring Database
+CMS Publishes Medicare Payment Info to Promote Data Transparency
+1304 Health Centers Share $100M in Quality Improvement Funds
+Stratifying patients based on risk
+Risk stratification, or organizing patients based on the severity of their conditions and their level of service utilization, is the foundation of population health management. . This will help determine whether the patient is the right fit for a specific program.
+“Identifying the patients who are the right fit for our programs is the biggest challenge, but also the biggest opportunity,” said Jessica Dudley, chief medical officer for Brigham and Women’s Physicians Organization.
+Grouping patients based on their risk level, as well as on their clinical and medical data recorded in the EHR, could also help to target treatments to improve patients’ overall wellness in the most effective and efficient manner available.
+Driving care coordination through networks
+The PwC report also emphasizes the fact that health systems need not approach population health management alone. By coordinating patient care across different stakeholders within a network, health systems can ensure overall wellness activities for their patients are being handled on all fronts.
+Relying heavily on care coordination across network players also helps health systems identify new care approaches they can incorporate into population health management.
+“One mistake organizations often make is designing population health programs based solely on existing capabilities,” the report says. “While playing to their strengths in specific services, they should build their programs around the specific needs of their target populations and partner where they have gaps.”
+This can go beyond coordinating care between primary care physicians and large acute care hospitals. Health systems should coordinate with community groups and different technologies to help them identify environmental or lifestyle risk factors that could exacerbate a patient’s chronic illness.
+“To scale effectively, organizations should build an ecosystem of care that extends into the community – and into the home – by developing strong service-level agreements with partners that can fill their service gaps and extend their reach to patients.”
+The glue that holds much of this care coordination together is a strong effort for robust patient engagement. If health systems cannot engage their patients, their efforts in caring for overall patient wellness may be moot.
+Understanding how patients respond to care options, such as  those offered in retail clinics helps health systems know how to partner and coordinate with those sorts of care sites.
+Utilizing data-driven strategies
+Finally, the PwC report says, health systems must use big data analytics to determine how to direct patient care resources and services. Examining EHR data for certain health trends helps providers better identify care approaches.
+However, these kinds of data-driven strategies are under-utilized, PwC says, and too few healthcare professionals are sharing health data with their partners.
+Furthermore, several health systems fall into the trap of “data dumping,” or collecting and holding too much data without an effective plan to utilize the information for specific and immediate use cases.
+“Population health programs should prioritize data efforts and focus on providing information to clinicians and their partners in manageable bites,” the report states.
+Once health systems incorporate these practices into their population health management strategies they must continue to reevaluate their programs, ensuring that the right patients are in the right place to achieve the best possible outcome.
+“Organizations should build care services around patient cohorts and actively monitor health outcomes,” the report concludes. “They should regularly reevaluate whether patients assigned to each group still belong there. Staff productivity should improve by actively managing patients between cohorts and levels of care.”
+Dig Deeper:
+Do Provider Apply Population Health Management Inconsistently?
+Could Blockchain Control Population Health Management Costs?
+Tagged Care CoordinationHealthcare Big Data AnalyticsPopulation Health Management
+
+

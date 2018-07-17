@@ -1,0 +1,19 @@
+The Digitisation of Payments Requires a Dynamic Map
+
+May 15, 2017
+
+Imagine a map showing you how to get from 10 Finsbury Square, Moorgate, London, to a particular road, somewhere in the middle of China, in order for you to deliver £100 to a particular branch of a Chinese bank.
+
+ That would be a pretty complicated map, involving multiple regions, languages, transport hubs, and major roads and minor paths. Depending on how you traveled, it’s going to take between days and weeks. Complicated but doable. Before you set off you’d probably want to know if anything had changed, if one of the roads was closed, or if there was a national holiday resulting in all the hotels being booked on the night you plan to arrive. It would take a bit of planning, in order to avoid the otherwise likely scenario of something going wrong. And if something goes wrong, you have to turn around, retrace your steps, and go back to where you started, in order to begin the process again.
+
+ Compare this to sending an email to China, it’s probably at least as convoluted, with just as many networks, servers, wires and wireless pathways. Fortunately, the extraordinary technology that is the world wide web ensures your email is going to be received in around 1 second. Even with Chinas extra layers of security.
+
+ Sending money, well that’s in principle the same thing as sending an email, it’s an electronic communication. Problem is, the delivery infrastructure isn’t as seamless and automatic. When a problem arises on the route to deliver money digitally, the process usually stalls, and like a letter with an incorrect postcode, it gets bounced back to sender. The sender then has to check the details, make the necessary changes or corrections to the delivery address, and have another go. Depending on a multitude of factors, the failure rate on overseas transfers can be anywhere between 10% and 20%.
+
+ Clearly this isn’t a finished system, in terms of efficiency. Nor is the problem going away, indeed, in the short term it’s likely to get ‘worse’ as more changes occur within the international banking infrastructure. Changes are a fact of life, branches close, new ones open, regions change protocol and regulations, banks merge, stuff happens, and when changes happen, the cogs move ever so slightly, and what worked to send £100 last week now needs manually updating. Fine if it’s once in a month, less convenient if it’s 50 or 100 times a day.
+
+ Apply Financial is most possibly the market leader you have never heard of. They don’t challenge the global banking giants they support them, they aren’t looking to disrupt anyone or anything but to help fix their payments, they don’t even have a clever logo or an office full of bean bags. So what do they have? They have a world class class cloud solution with a comprehensive set of functionality wrapped around an active database of pretty much all the banks in the World and all the rules to make payments to them, which in practice is a World map of how to send money from A – Z, updated in pretty much real time. So before you send, you’ll know if there’s a problem, and if there is, you’ll know what it is. For the last 6 years they have been quietly providing their solutions at scale to clients including banks, FX companies, airlines, governments, and other organisations for whom the shifting sands of global finance are the foundation bedrock of their business. Sometimes stability is the application of small realtime adjustments, rather than the rigidity of static systems. Almost always actually. Just something to think about.
+
+ Information partner: Apply Financial
+
+

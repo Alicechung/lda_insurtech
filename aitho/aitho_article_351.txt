@@ -1,0 +1,20 @@
+ANRA Technologies Releases “Open” Next Generation Workflow Management For Drone Flight, Traffic And Data
+
+08 Jun 2018
+
+DroneOSS™ enables real time flight planning, automated notification/authorizations like LAANC (coming soon), autonomous execution, tracking, remote command and control, real time live sensor data/video streaming, data analytics, and integration of the processed actionable data back into enterprise systems.
+ANRA Technologies, an industry-leading provider of open commercial drone operations platforms and services, announced the release of version 3.0 of its DroneOSS™, a horizontal, enterprise-focused, open operations platform.
+DroneOSS™ enables real time flight planning, automated notification/authorizations like LAANC (coming soon), autonomous execution, tracking, remote command and control, real time live sensor data/video streaming, data analytics, and integration of the processed actionable data back into enterprise systems. DroneOSS™ first introduced real time integrated video streaming and sensor control for commercial drones in 2016 and over the years has been evolving this capability to minimize latency and enhance security.
+Using DroneOSS™ Platform, a user can be flying a drone in California, while another user watches the feed in Washington, DC and an analyst controls the sensor while watching live data come in securely in Colorado. The data is processed using integrated vertical specific data engines. Mission profiles available in the system completely automate inspections using customizable mission profiles for vertical and horizontal missions at the click of a button.
+NEW APIS AND DEVELOPER INTERFACES
+The latest version of the platform now introduces extensible Open APIs and exposes a catalog of capabilities to enterprises and service providers to monetize existing capabilities and drive innovative new services. It dramatically reduces the costs, risks and time-to-market associated with traditional point integration while lowering implementation and operating costs for the entire supply chain.
+“There is no one size fits all solution. Pick a drone; pick a flight profile; pick an analytics engine based on your needs and your backend enterprise system and let DroneOSS™ orchestrate the whole workflow end to end. In simplistic terms, it replaces ‘n’ fragmented element managers with ‘1’ network manager”, said Jim Begley, Director, Business Development at ANRA.
+DroneOSS™ achieves this by hiding complexities inside of the platform core and providing simple means for connecting drone systems to this core through the use of APIs, helper classes, and generic module support. The platform now enables automated zero-touch operations and management of complex services end-to-end across multiple systems, delivering higher quality services at lower cost.
+INTRODUCING ENHANCED SITUATIONAL AWARENESS AND MORE AUTOMATED MISSION PROFILES
+ANRA Technologies also announced a deeper integration of the DroneOSS™ platform and its UAS Traffic Management (UTM) platform DroneUSS™ enabling operators to have sense and avoid capabilities for non cooperative assets leveraging airborne radars, RF Detection, Vehicle to Vehicle technologies and ADS-B. The DroneUSS™ platform already supports sensors from leading providers like Echodyne, Fortem and uAvionix with more integrations expected to be announced over the next few weeks.
+Amit Ganjoo
+“Our mission is taking the complexity out of running a commercial drone operation and minimize the workload for the operators and the organization”, said Amit Ganjoo the CEO of ANRA Technologies
+With dynamic data management systems like DroneOSS™, key personnel can share/collaborate leveraging images, video and other data across several platforms including web browsers and smart devices.
+This approach can provide the flexibility that enterprise customer’s need – without sacrificing ease of use. “Best-of-breed doesn’t have to mean ‘cobbled together,’” says Ganjoo. “A robust operational platform/framework provides clean integration and data sharing throughout the organization.”
+
+

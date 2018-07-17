@@ -1,0 +1,44 @@
+Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+
+October 30, 2017
+
+By Jennifer Bresnick
+October 30, 2017 - As the healthcare industry slowly becomes more connected and more interoperable, organizations are attempting to implement data management strategies that balance privacy and security with collective access and accessibility.
+Value-based care has accelerated the need for seamless data sharing in an environment that is both transparent and unquestionably trustworthy – one that can bring payers and providers together to improve quality, reduce costs, and enhance the patient experience.
+While stakeholders have offered up plenty of potential solutions for creating a free-flowing data environment that can support the complex environment of pay-for-performance reimbursements, blockchain may be the methodology that ticks the most boxes with a relatively low amount of effort.
+At Hashed Health, an industry consortium dedicated to applying blockchain to real-world use cases, CEO John Bass believes that the distributed ledger approach offers a number of promising improvements to the way providers, payers, and patients collaborate in a value-based world.
+Like many innovative technologies, however, blockchain has been subject to skepticism about its possible role in the health data exchange ecosystem. 
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Surveys and reports have suggested that providers, payers, and pharmaceutical companies are among the stakeholders eager to explore blockchain-based tools for administrative tasks, data exchange, and patient management.  
+John Bass, CEO of Hashed Health
+Source: Xtelligent Media
+Yet only a handful of developers are starting to offer healthcare-focused products, and few concrete case studies have emerged to show that the strategy really works at scale.
+“Everyone is very excited about the disruptive potential of blockchain, but we don’t want to get lost in the hype,” acknowledged Bass. 
+“If we want to prove it can make a real difference, we need to anchor the industry with some simple demonstrations of value.”
+For Hashed Health, the often overlooked issue of provider identity and reputation management is the perfect gateway project for blockchain.
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+Ensuring that physicians, nurses, pharmacists, and other clinicians are correctly licensed and credentialed to provide specific services is a foundation for all payment from health plans, whether the reimbursement is fee-for-service or pay-for-performance.
+“It might not be the juiciest use case, but it’s something that everyone in the industry is looking to improve,” Bass noted. “It’s a good starting place because the information involved isn’t overly sensitive.  It isn’t a politically charged issue, and there aren’t a lot of existing competitive interests.”
+“Everyone is searching for a better solution to a shared problem, which makes it a perfect place to innovate with low barriers to entry for those who want to try new strategies.”
+Currently, validating and verifying a physician license is very much a manual process.  Phone calls, faxes, and emails are the primary method of communication, taking up time and causing confusion if a critical piece of information is somehow lost in transmission.
+And with the introduction of the Interstate Medical Licensure Compact, which offers a pathway for licensure reciprocity across 22 states, the process is ripe for attention.
+READ MORE: Five Blockchain Use Cases for Healthcare Payers, Providers
+“There is no real system to enable the sharing of that information across such a large number of stakeholders right now,” Bass said.  “We believe that blockchain offers a clear value proposition for them.”
+“The participating states could build a centralized database managed by some for-profit or non-profit company, and worry about trying to secure funding for that indefinitely,” he said.  “Or they could try to create a decentralized network that requires much less ongoing expense while offering a trusted and easily validated way of managing identities across states and regions.”
+Blockchain can provide the framework required to support cross-state information exchange, he asserted.
+“An individual can put a certificate of attestation of licensure on the blockchain and other states are able to see that on the network,” Bass explained.  “That offers a faster, better, cheaper way to ensure that everyone remains up-to-date without all the back-and-forth of traditional communication.
+Hashed Health is already working with the state of Illinois to put the concept into action.  A pilot project, announced in August, aims to prevent bottlenecks in the licensure process and offer a more secure and streamlined way to manage this necessary dataset.
+If the initiative is successful, it could result in more confidence that blockchain is ready for prime time in healthcare.  Wider adoption for identity management could expand into leveraging distributed ledger technology for other key value-based care tasks.
+“Provider identity is an important tie-in to value-based care and contextual payments,” said Bass.  “Value-based reimbursement is about the relationship between cost and quality.  In a perfect world, we could use blockchain create a value exchange that would take both of those into account – and make sure that the person who is earning the payment is qualified and validated to do so.” 
+At the moment, cost and quality calculations are separated by a layer of administrative action.  Payers must accept, adjudicate, and analyze claims data and provider quality reporting results before they can decide whether to disburse an incentive payment or withhold a penalty.
+“Blockchain is one of the emerging technologies that would allow payers to programmatically throttle payments or incentives based on external data sources instead of adjusting payments through laborious administrative processes,” said Bass.
+“As long as you can provide an attestation that a certain best practice is being followed, you can create credits and debits in the provider's virtual wallet to provide incentives.  That is a fundamental redesign of what value transfers look like today.”
+Placing a certificate of provider identity on the blockchain could form the foundation for a series of future blockchain breakthroughs that simplify the administrative processes involved in a successful value-based care contract.
+Hashed Health is working concurrently on a number of interconnected projects, including blockchain approaches to managing patient identities, clinical trial data, Internet of Things devices, and aspects of the healthcare supply chain.
+As the consortium grows, Bass is anticipating that the organization’s members will continue to develop innovative use cases and value-driven products with a variety of blockchain technologies at their core. 
+Developers are currently using many of the emerging standards frameworks to create their offerings, including Tendermint, Hyperledger Fabric 1.0, and Etherium.
+“We are continually searching and testing our technical and our business assumptions to make sure that we have the right long-term solution,” Bass said.
+“We know we’re moving in the right direction with these value-based data exchange concepts.  We think blockchain and its programmable value characteristics have the ability to change the conversation and start building momentum for the industry to adopt distributed ledger tools.”
+Tagged Analytics InfrastructureBlockchain in HealthcareHealth Data ExchangeHealth Data ManagementHealthcare PayersInteroperabilityInterstate Medical Licensure CompactInterviews
+
+

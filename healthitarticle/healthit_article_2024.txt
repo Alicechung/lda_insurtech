@@ -1,0 +1,18 @@
+Boston Children’s integrates predictive analytics in ICU
+
+April 24, 2014
+
+By Jennifer Bresnick
+April 24, 2014 - Young patients in the cardiac intensive care unit at Boston Children’s Hospital are among the most vulnerable, subject to sudden changes in their conditions that are hard for clinicians to predict and often harder to correct when left too late.  But predictive analytics are giving physicians an edge in the fight to keep the sickest patients alive by integrating data from the myriad bedside monitors into a single “stability index” that allows clinicians to understand changes at a glance.
+Working with a system designed by analytics start-up Etiometry, Boston Children’s is piloting the analytics program among a few attending physicians, hoping to reduce alarm fatigue and improve the quality and timeliness of critical care, the Boston Globe reports.  “There are so many pieces of data coming at the physician. With almost 30 ICU patients, we’re just inundated,” said Dr. Joshua Salvin, a pediatric cardiologist at the hospital. “If we had something that could tell us where the hot spots are on the floor, we could direct resources to the sickest patients.”
+Physicians can choose which metrics they want to include in the algorithms behind the stability index, which shows a simple zero-to-four scale based on the severity of risk. “When you think about all the data elements, every single one reveals something new about the patient,” said Evan Butler, Etiometry’s chief executive. “The algorithms we have incorporate every data point to create a collage of the patient’s status.”
+While Butler still believes that the physician is the ultimate arbiter of when to take action, the risk score can alert caregivers to potential problems earlier, inform a course of action, and help clinicians feel justified in their decision making to avoid crisis events.
+Dig Deeper
+Racial Disparities Rife in Medicare 30-Day Hospital Readmissions
+UCSF, Intel Partner for Healthcare AI, Deep Learning Project
+95% See Population Health as Critical, but Worry about Payment
+Similar risk scores are being implemented in hospitals across the nation as the healthcare industry shifts towards a greater reliance on data that is too voluminous for a single human to adequately synthesize in the moment.  At the University of Pennsylvania, for example, predictive risk scores are being used to evaluate patients who are likely to return to the hospital within 30 days of discharge.  “With this knowledge, care teams have the ability to target these patients, making sure they receive the most intensive interventions necessary to prevent their readmission,” says Charles A. Baillie, MD, an internal medicine specialist and fellow in the Center for Clinical Epidemiology and Biostatistics at Penn Medicine.
+Other researchers are using predictive analytics to target medication errors or patient adherence.  “There are great opportunities in EMR data,” says Cliff Bleustein, MD, MBA, managing director and global head of healthcare consulting for Dell.  “An analytics application can mine the EMR to find patterns that indicate contributing factors, such as time of day the medications were ordered, filled and administered. Your EMR may also hold data that can be used for more sophisticated predictive analytics, such as identifying patients at risk for sepsis and other serious complications. By predicting these risks and focusing the right kind of care on these patients, you can improve patient outcomes and lower treatment costs.”
+Tagged Applied AnalyticsClinical IntelligenceHospital ReadmissionsPopulation HealthPredictive Analytics
+
+

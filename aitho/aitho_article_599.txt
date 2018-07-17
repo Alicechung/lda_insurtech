@@ -1,0 +1,22 @@
+Morpho Releases “Morpho Pose Estimator™”, AI Based Software For Posture Estimation
+
+12 May 2018
+
+Morpho, a global leader in imaging processing and imaging AI solutions, announces the release of Posture Estimation technology “Morpho Pose Estimator™” that uses deep learning to estimate the posture of humans, animals, etc., developed in collaboration with Top Data Science Ltd. (hereinafter “TDS”).
+Morpho and TDS announced their business alliance in September 2017. http://www.morphoinc.com/news-en/20170929-epr-tds_morpho_bp
+About “Morpho Pose Estimator”
+Posture Estimation can be considered a sensing technology in the field of computer vision. It detects structural components of a known category of objects (for example, parts of the body such as the head, hands, arms and legs of persons) from the captured image, and estimates the posture based on the relative positioning of the components. Morpho Pose Estimator is currently capable of estimating human body poses and can be trained to estimate postures of animals or objects. The technology is expected to be used in a wide range of fields, including human and animal activity recognition, healthcare, training, and entertainment.
+Features of “Morpho Pose Estimator”
+“Morpho Pose Estimator” uses Deep Learning, a key technology in artificial intelligence (AI), to estimate postures with high precision. When applied to human pose estimation, it yields higher accuracy and precision than existing technologies**. “Morpho Pose Estimator” can detect up to 18 feature points (nose, eyes, ears, neck, shoulders, elbows, wrists, hips, knees and ankles) when estimating human poses. In cases where multiple persons are captured in a single image, Pose Estimation detects these feature points for each person.
+There is no need to have subjects wear markers as is the case with existing motion capture technology. In addition, the software is capable of detection even in low resolution images, black and white images, and images with complex backgrounds and can, therefore, be used even with images taken using an ordinary camera.
+Product page: http://www.morphoinc.com/en/technology/poes
+Possible Application Scenarios
+Detection of specific poses or events in surveillance images of railway stations, streets, care facilities, hospitals etc. (examples: lying down, crouching for a long time, drunken movements, falling over, riding a wheelchair, fall and bed alarm. etc.)
+Pedestrian activity detection in autonomous driving
+Augmented Reality and virtual physiotherapy without external sensor devices
+Purely image-based pose detection for activity and sports games
+Pricing and Platform Information
+Pricing: Please contact https://www.morphoinc.com/en/contact/form_sales for details.
+Platform: Linux (64 bit) on Desktops with Intel CPU (preferably with GPU). We are working on adding support for other platforms.
+
+

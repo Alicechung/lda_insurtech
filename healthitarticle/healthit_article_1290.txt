@@ -1,0 +1,22 @@
+EHR Big Data Analytics Aid Cancer Screenings, Follow-Ups
+
+August 25, 2015
+
+By Jennifer Bresnick
+August 25, 2015 - Researchers at Baylor College of Medicine are using electronic “triggers” in vast quantities of EHR data to flag and follow up with patients who have experienced abnormal findings during an initial screening or evaluation for certain cancers, according to a study published this month in the Journal of Clinical Oncology. 
+By employing an analytics algorithm that identifies patients undergoing testing for colon or prostate cancer, the researchers found that approximately 12 percent of a 10, 000-strong patient cohort was at high risk for delayed diagnostic evaluation.
+"Our computerized triggers scanned huge amounts of patient data in the electronic health record and flagged individuals at risk for delays in follow-up of cancer-related abnormal clinical findings," Dr. Hardeep Singh, associate professor of medicine at Baylor and chief of health policy, quality and informatics program for the Center for Innovations in Quality, Effectiveness and Safety at the DeBakey Veterans Affairs Medical Center, said in a press release.
+"We created these trigger algorithms in the hopes of being able to leverage electronic health records to improve patient care and safety."
+Dig Deeper
+“All of Us” Precision Medicine Program Enters Beta Testing
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+Eye Docs Looking for Big Data, Population Health Analytics Research
+"There are few, if any, human- or technology-based solutions that efficiently identify such care delays," added Dr. Daniel Murphy, first author on the paper and instructor in the department of medicine and health services researcher at Baylor and the DeBakey Veterans Affairs Medical Center. "Triggers can act as safeguards as long as the information about potential delays can be communicated to clinicians taking care of these patients."
+Predictive analytics and algorithms that scrape through large-scale EHR data to identify anomalies are becoming a valuable tool for providers interested in improving their population health management strategies. 
+A variety of risk scores, alerts, and risk stratification technologies are being developed in academic and clinical settings to provide reminders, prompt communication, or aid clinical decision support.  Providers are increasingly leveraging EHR big data analytics to reduce care disparities, ensure adequate chronic disease management, and foster stronger relationships with their patients.
+For the patients in the Baylor study, the EHR trigger produced measurable reductions in the time between an abnormal test result and a true diagnosis.  Colorectal cancer patients in the intervention arm of the study saw their average diagnosis times cut from 200 days to just 104 days, while prostate cancer patients received a diagnosis in approximately 144 days, compared to 192 days for the control group.  Twenty-five percent more patients in the EHR trigger group received diagnostic evaluation by the end of the study than patients in the control cohort.
+"Patients seeing clinicians who were notified of potential delays had more timely diagnostic evaluation for both prostate and colon cancer," Murphy said. "Also, more patients in the intervention part of the study had received diagnostic evaluation by the time we completed our final review."
+"Missed or delayed diagnoses are among the most common patient safety concerns in outpatient settings, and measuring and reducing them are a high priority," said Singh. "Solutions that harvest and put to use the vast amount of electronic clinical data being collected are essential."
+Tagged Big Data AnalyticsClinical AnalyticsMedical ResearchPopulation Health Management
+
+

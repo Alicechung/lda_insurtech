@@ -1,0 +1,16 @@
+Progress Launches AI-Driven Chatbot, Progress NativeChat
+
+14 Mar 2018
+
+New product offers 15x faster development, native support for 72 languages and ability to integrate with web, mobile and social channels for a seamless digital customer experience
+Progress, the leading provider of application development and deployment technologies, today announced the availability of Progress® NativeChat™, the artificial intelligence-driven platform for creating and deploying chatbots. Unlike other chatbot technologies, NativeChat is based on patent pending CognitiveFlow™ technology that can be trained with goals, examples and data from existing backend systems, similar to the process for training new customer service agents. With NativeChat, organizations can now easily give their customers the ability to converse and transact in a natural way, on the channel of their choice, without the need for human interaction.
+“We were able to build our proof of concept digital chatbot in just weeks. Given this early success, and our focus on technology that transforms the way we do business, we’ll be looking at NativeChat as the potential platform for our new robo-agent service.”
+Chatbots solve many pressing customer service challenges for organizations – freeing overloaded call center employees to focus on critical business needs by offloading transactional requests, reduction in cost, increased customer satisfaction and more. However, the creation and deployment of chatbots can be complex, with limited results, if not done right. NativeChat removes many of the complexities of chatbot development, speeding time to market, because of its ability to self-learn as interactions evolve.
+Dmitri Tcherevik
+“Chatbots are most powerful when they are intelligent and context-aware, directly pulling data and insights from systems of record,” said Dmitri Tcherevik, Chief Technology Officer, Progress. “NativeChat makes it easy to create chatbots on top of existing systems that interact with users in a natural way and improve contextual understanding, accuracy and forecasting in conversations.”
+Harry Singh
+NativeChat can be integrated into self-service web portals and mobile apps, enabling customer self-service across any channel. Customers can also communicate using NativeChat through social channels such as Facebook messenger and other live chat technologies, furthering their ability to engage in the ways that they are most comfortable. NativeChat also integrates with any enterprise system that supports REST APIs.
+“We evaluated several chatbot technologies and selected Progress NativeChat because of the CognitiveFlow technology enabling the bot to hold human-like discussions,” said Harry Singh, Global Vice President – PowerCurve Software Products at Experian. “We were able to build our proof of concept digital chatbot in just weeks. Given this early success, and our focus on technology that transforms the way we do business, we’ll be looking at NativeChat as the potential platform for our new robo-agent service.”
+ 
+
+

@@ -1,0 +1,18 @@
+Iovation Introduces New Capabilities To Its Fraud Prevention Solution
+
+24 May 2018
+
+FraudForce Enhancements Enable Security Professionals to Increase the Accuracy and Protection of Fraud Prevention Rules
+iovation, the leading provider of device reputation and behavioral insights for fraud detection and consumer authentication, today announced several new capabilities to its FraudForce solution. The enhancements will allow security professionals to better manage fraud prevention rules in order to provide a more streamlined and manageable process to fighting fraud.
+Using FraudForce, iovation customers will now have the ability to protect additional application points with reduced time, effort and resources associated with managing large, complex sets of policy rules. They can now respond immediately to new threat vectors by making one change across multiple rule sets, supporting them as they keep up with rapid rollout of new applications and services by packaging the most important rules for easy deployment. Additionally, these new capabilities ensure that organizations can comply with new security requirements such as those from the General Data Protection Regulation (GDPR).
+Scott Waddell
+“Fraud prevention and authentication are increasingly about protecting user experience while securing transactions,” said Scott Waddell, CTO, iovation. “We are introducing these user experience enhancements to make sure the security teams we serve can manage policies efficiently while guarding against unauthorized policy changes.”
+Fraudsters are increasingly using more sophisticated techniques for their online attacks and are expanding their focus outside of typical credit card related crimes. As a result, fraud prevention professionals need better ways to manage fraud and policy rules across multiple applications and multiple points.
+The capabilities iovation added to FraudForce include:
+Integration Points: Using logical mapping, fraud teams can visualize how their application is being protected, as well as allowing them to quickly change their fraud prevention implementations without the need for additional coding.
+Advanced Rule Re-use: This new capability can reduce the number of rules needed by as much as 98 percent. Be re-using rules, teams can save the time that it takes to manually create and edit rules while also reducing the possibility for errors.
+Rules Staging: Companies can quickly adjust fraud prevention strategies in real-time, such as slightly loosening fraud prevention efforts during a sales promotion or tightening them during non-work hours. This capability also allows businesses to work on their fraud prevention implementation offline.
+Rule Permissions and Control: In an effort to battle insider fraud as well as inadvertent changes, iovation supports a permissions-based approach to rule management. This critical business information asset is protected by separating these capabilities between multiple individuals.
+iovation’s solutions portfolio tackles the heightened threat environment from multiple directions, including through device-based risk detection and consumer authentication services. Highly intelligent business rules, combined with proprietary machine learning algorithms, flag anomalies around hundreds of attributes and obscure risk factors, offering the highest degree of confidence when it comes to stopping fraud and improving customer experience.
+
+

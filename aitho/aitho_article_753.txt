@@ -1,0 +1,17 @@
+Exyn Technologies And Velodyne LiDAR Create Fully Autonomous Indoor Aerial Vehicles
+
+25 Apr 2018
+
+Collaborative effort proves the business case of 3D LiDAR, sending autonomous navigational technologies into perfect flight
+Originating from the University of Pennsylvania’s GRASP Labs, Exyn Technologies has commercialized groundbreaking research to build its proprietary AI software, exynAI™, technology from the ground-up. Today, Exyn Technologies provides leading AI software and A3R hardware, which together form its fully autonomous aerial robot that safely executes complex missions in high-value commercial operations.
+“It proves the business case for 3D LiDAR beyond just autonomous cars. The demand for real-time inventory management within warehouses and fulfilment centers has created a need for autonomous platforms which are both efficient and safe.”
+Velodyne LiDAR’s VLP-16 Puck LITE LiDAR sensors are now integrated into Exyn Technologies’ Advanced Autonomous Aerial Robots (A3R) and will be flying in large warehouses and distribution centers to autonomously scan and map inventory, helping to increase frequency and accuracy of cycle counts, reduce time taken, and decrease risk for workers.
+Nader Elm
+“Using Velodyne’s VLP-16, Exyn’s A3Rs do not need GPS, beacons or markers,” said Nader Elm, chief executive officer of Exyn Technologies. “This technology is being developed to ease logistical bottlenecks in warehouses, as well as to go into other indoor and GPS-limited environments such as commercial construction sites and first-responder situations. We operate in a full 3D volumetric space and can dynamically plan flight paths in complex, dynamic and cluttered environments.”
+The Velodyne VLP-16 is the primary sensor for simultaneous localization and mapping, as well as part of the sense-and-avoid capabilities and state estimation. The Unmanned Aerial Vehicle (UAV) robot scans in all fields of view, reading barcodes and RFID beacons, judging location and numbers of stock. The vehicle can even note worker positions and react accordingly in real-time.
+Frank Bertini
+“We are very excited to partner with Exyn Technologies,” said Frank Bertini, UAV and Robotics business manager at Velodyne LiDAR. “It proves the business case for 3D LiDAR beyond just autonomous cars. The demand for real-time inventory management within warehouses and fulfilment centers has created a need for autonomous platforms which are both efficient and safe.”
+The A3R, powered by the exynAI™ autonomy core, intelligently fuses multiple sensing modalities including LiDAR, IMU, and cameras to enable robust perception and navigation in real-world conditions. No one is as focused on robust, indoor, infrastructure-less autonomous flight as Exyn. While agnostic to the vehicle platform, the company is also planning to extend its autonomous capabilities to ground-based robots.
+ 
+
+

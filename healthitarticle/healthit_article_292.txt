@@ -1,0 +1,40 @@
+A Mere 3% of LTPAC Orgs Have Healthcare Data Analytics Tools
+
+November 14, 2017
+
+By Jennifer Bresnick
+November 14, 2017 - Only a miniscule percentage of long-term and post-acute care (LTPAC) organizations are leveraging health IT to conduct data analytics that would help reduce costs or prevent readmissions, says a new survey from Black Book.
+Just 3 percent of organizations responding to the poll are able to engage in the data-driven competencies that underpin value-based care, putting them at risk of being left out of the care continuum as big data, interoperability, and EHR adoption become more and more important to providers.
+"Most long term care organizations are still stuck in a volume-based mindset,” said Black Book Managing Partner Doug Brown.
+“Integrating evidence-based practices through clinical operations can control rising costs, reduce duplication and other inefficiencies, and position the business to be a successful player in the reforming post-acute continuum.”
+But LTPAC organizations are almost completely unfamiliar with the technological tools and communication strategies that could help them reach these goals.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+As of the last quarter of 2017, just 19 percent of LTPAC respondents said they have electronic health records in place. 
+While this represents a 4 percent increase over the same survey in 2016, it is a significant departure from the near-universal EHR adoption rates among hospitals and physician offices.
+In 2015, more than 86 percent of office-based physicians had some form of EHR in place, according to ONC data.  Ninety-six percent of hospitals were using Certified EHR Technology (CEHRT) during the same year. 
+Despite widespread recognition among LTPAC providers that they treat some of the sickest and highest-risk patients, the vast majority are not making health IT adoption a priority.
+While 94 percent of care managers acknowledge that serving such a complex population without communication with the rest of the care continuum could be extremely problematic, only 9 percent of non-EHR adopters devoted any resources to a health IT implementation during 2017. 
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+Eighty-six percent of facilities are unable to exchange health information electronically with partner hospitals, physicians, or home healthcare agencies, the survey added. 
+For the small proportion of LTPAC providers who can digitally exchange data, the flow of information is generally limited to siloed communication channels between individual participants.
+“The enormous disconnect between the post-acute world and the rest of the continuum is not correcting as hoped,” said Brown. “Finding ways to improve communications between disparate acute care EHRs and post-acute technology is a pressing problem for detached providers.”
+“The lack of communication is an extremely expensive problem, especially as hospitals become responsible financially for long-term outcomes and preventable patient readmissions. It’s clear that the lines between payer and provider are blurring and the expectation is that post-acute healthcare organizations must exist in a world of multiple payment scenarios.”
+Hospitals participating in risk-based reimbursement arrangements aren’t the only ones losing out financially due to the lack of health IT infrastructure in LTPAC organizations. 
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+More than 80 percent of post-acute care providers admitted that they are struggling internally to identify and accrue correct reimbursements, manage patient eligibility, and account for care.
+The widespread lack of analytics and health IT knowhow has not escaped the notice of organizations like the ONC.  During this year’s Health IT Week in October, ONC officials highlighted the importance of bringing LTPAC organizations up to speed with interoperability and other key competencies.
+“LTPAC providers and developers play a critical role in providing care for patients who experience frequent transitions across multiple settings and have a range of complex, chronic conditions,” said Genevieve Morris, the ONC’s Principal Deputy National Coordinator for Health Information Technology , and Liz Palena Hall, Policy Analyst and Nurse Advisor.
+“When patients are transitioned from one clinical setting to another, both the content and the timing of the exchange are critical,” they explained. “In a paper-based environment, patient records frequently arrive on the gurney with the patient. Too often, in an electronic environment, the electronic record or summary of care arrives days after the patient has arrived.”
+While this may seem like ample justification for sticking with paper-based charting and record keeping, LTPAC organizations cannot escape the fact that the majority of their business partners and referring organizations have already moved on.
+Paper charts are simply no longer the standard in many communities, strengthening the imperative for LTPAC providers to adopt technology tools that can ensure safe and smooth transitions of care for their patients.
+The ONC is working on developing and deploying data standards that can underpin more cost-effective, interoperable technologies geared towards the LTPAC space. 
+With a growing number of health IT developers signing the ONC’s Interoperability Pledge, LTPAC providers may soon have many more options for standards-based health IT and analytics tools that meet the unique needs of the post-acute environment.
+“This is a significant step forward on the healthcare system’s journey of making electronic health information readily available in a timely manner to improve the health and care of patients,” wrote Morris and Palena Hall.
+“ONC commends these LTPAC organizations and health IT developers for their commitment to achieving nationwide interoperability and looks forward to continued collaboration to ensure that when individuals are at their most vulnerable, their healthcare information is widely available to provide them with better care and create better outcomes.”
+Black Book suggests that hospital systems and integrated delivery networks may be able to help LTPAC providers with the financial burdens of health IT adoption. 
+Hospitals participating in risk-based contracting may see a significant return on that health IT investment by reducing expensive readmissions from the LTPAC environment and subsequently performing better on value-based quality measures related to end-of-life care or the management of complex patients.
+“All healthcare organizations must find better ways to manage the patient transition into post-acute processes and keep hospital readmissions in check, and that may fall completely on hospital systems at risk in 2018,” said Brown.
+“That answer will require the expansion of technology capabilities to connect physician practices, home health agencies, hospices, outpatient settings, skilled nursing facilities, rehabilitation centers, durable medical equipment (DME) firms, and hospitals.”
+Tagged Analytics InfrastructureEHR AdoptionHealth Data ExchangeHealthcare Business IntelligenceHealthcare InteroperabilityPopulation Health Management
+
+

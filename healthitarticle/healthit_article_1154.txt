@@ -1,0 +1,29 @@
+DOD Meets Electronic Health Record Interoperability Goal
+
+November 23, 2015
+
+By Jennifer Bresnick
+November 23, 2015 - The Department of Defense has hit a major milestone in its ongoing pursuit of EHR interoperability, officials announced this week, by successfully standing up the Joint Legacy Viewer (JLV), a web-based tool that allows clinicians to see records from both the DOD and the Department of Veterans Affairs (VA).
+The tool hopes to improve care coordination and patient safety while also speeding up the cumbersome process of disability evaluations tied to the provision of benefits, said Chris Miller, the program executive officer for Defense Healthcare Management Systems, in a press release.
+“What we really want to be able to show is the progress we've made and demonstrate our commitment to making sure that we're providing tools that are useful for our providers but also making things better for our service-member veterans and their families," Miller said at a media event in Virginia this week, reports DOD media representative Lisa Ferdinando.
+"At the end of the day, I think it comes down to some pretty basic things," Miller added. "Are we able to share information and are people able to use that information to accomplish their job on the other side?"
+That basic question has not had a clear answer for many years.  The DOD and the VA have fought with their underserved patients, with Congress, and with each other over the difficult process of creating an interoperable system of seamless data exchange across two of the biggest healthcare systems in the country.
+READ MORE: CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+The Joint Legacy Viewer addresses one of the initial challenges of the interoperability process: integrating multiple internal DOD systems into a single record that promotes easy access to patient data.  Using recognized data standards and common terms, the DOD developed the secure system, which allows DOD and VA personnel to view patient information.
+"That's an important concept because that really gets at what is important, which is really having access to the information," said Miller.  The tool helps to satisfy interoperability requirements laid out by Congress in the National Defense Authorization Act of 2014, but only represents the beginning of the massive cultural change required truly raise the quality and speed of patient care.
+In a recent Congressional hearing, lawmakers needled DOD and VA executives for their leadership failures, which they view as the underlying reason why EHR interoperability has been such an onerous task for the military health system.
+“I don’t mean to understate the enormity of the challenge of integrating the two largest federal bureaucracies,” said Congressman William Hurd (R-TX) at a joint hearing in October. “But it’s clear to me that our inability to integrate these two systems is a failure of leadership rather than technical feasibility,” Hurd continued.  “This is not an issue of data standardization.  This is management 101.”
+These management failures, particularly on the part of the Department of Veterans Affairs, have led to staggering backlogs in appointment making and fatal delays in the provision of care. 
+READ MORE: Da Vinci Project Brings HL7 FHIR to Payers for Big Data Analytics
+A year before a whistleblowing clinician exposed the fact that VA personnel were improperly bypassing the electronic scheduling system, resulting in the deaths of dozens of patients, departmental leaders were dragged before Congress to explain enormous wait lists for disability benefits.
+In June of 2013, the VA stated that it had close to a million backlogged benefits claims in its queue, with more than 60,000 of those claims pending for more than two years.  By December, officials were able to point to a 36 percent reduction in unprocessed claims, thanks to an ongoing digitization process and the establishment of an online portal for applicants.
+The JLV system may help to keep this process moving smoothly, if benefits workers are able to view all necessary data pertaining to a patient’s disability claim.
+“Our vision is to become a world-class organization that that provides a seamless, unified Veteran experience through the delivery of state-of-the-art technology,” said VA Assistant Secretary for IT and Chief Information Officer LaVerne Council during the October hearing.
+“Our guiding principles are to be transparent, accountable, innovative, and team-oriented. We will establish a strong technical foundation that ensures alignment with VA’s mission, data visibility and accessibility, data interoperability, infrastructure interoperability, information security, and enterprise services.”
+READ MORE: Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+On the DOD’s side, the recent announcement that the department will be implementing a Cerner-based EHR system that focuses strongly on interoperability capabilities will help to continue the military’s health IT overhaul.  After prevaricating over the options for creating a joint VA-DOD EHR system, a project that fell flat after several false starts, the DOD initiated a lengthy bidding process that ended with victory for the Leidos Partnership for Defense Health.
+While the JLV represents a significant victory, the departments still have a great deal of work to do in order to meet Congressional expectations.  The DOD and VA must still address dozens of Government Accountability Office (GAO) recommendations related to fixing poor oversight activities, inadequate performance and data metrics, and leadership deficiencies.
+Hopefully, the DOD and the VA will continue to work together to meet EHR interoperability goals that will encourage the delivery of coordinated, safe, and effective patient care across the dual systems.  
+Tagged Analytics InfrastructureInteroperabilityQuality Of Care
+
+

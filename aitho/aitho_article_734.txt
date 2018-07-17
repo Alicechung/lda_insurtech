@@ -1,0 +1,18 @@
+ADLINK Showcasing Latest Machine Vision Solutions At AIA’s The Vision Show
+
+27 Apr 2018
+
+Application Ready Machine Vision Solutions for Robotic Guidance, Defect Inspection, Dimension Gauging and Identification Applications
+ADLINK Technology, Inc., a global provider of advanced Edge Computing products will showcase the latest smart cameras, embedded vision systems and expandable computing platforms for graphic-intensive vision applications at AIA’s vision show, April 10-12, at the Hynes Convention Center in Boston, Massachusetts in Booth #528.
+ADLINK will feature demonstrations of the company’s latest vision system platforms, including: 
+NEON smart cameras that combine a PC, a frame grabber, an I/O extension board, and a camera in a single housing. The NEON smart camera is an open x86 based platform and supports many industry leading vision software applications.
+EOS compact vision systems featuring Intel Core i7/i5/i3 processors, FPGA pre-processing, and four independent PoE ports
+Matrix and MVP series industrial PCs with high-performance computing combined with PCI/PCIe high-speed expansion slots in compact enclosures.
+Full line of PCI frame grabbers including, PoE GigE, HDMI, Camera Link, and CoaxPress.
+Also on display in the ADLINK booth will be a live robotic vision demo with partner Recognition Robotics. The Robeye 3D vision guided robotic (VGR) solution demonstrates the NEON all-in-one smart camera integrated with an industrial robot arm for robot guidance.
+ADLINK vision solutions will also be on display at the Robot Vision Technologies booth (#907). RVT will be showing off the latest version of its award winning collaborative Vision Factory (cVF) software platform, a highly advanced system allowing machines to more precisely operate in their environments.
+Jacky Lin
+“We are excited to see partners like Recognition Robotics and Robotic Vision Technologies leverage the value of an integrated solution like the NEON smart camera to develop unique 3D vision-guided robotic solutions,” said Jacky Lin, Senior Sales Director at ADLINK. “The combination of powerful software capabilities integrated with compact, rugged, all-in-one smart camera solutions enables new capabilities and increased value for industrial automation and robotic vision guidance applications.”
+Read More: Bridging The Gap Between Physical And Digital Security Using AI
+
+

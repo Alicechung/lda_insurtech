@@ -1,0 +1,12 @@
+Cambricon Selects Synopsys HAPS For Next-Generation Artificial Intelligence Processor Product
+
+04 May 2018
+
+Synopsys, Inc. (Nasdaq: SNPS), today announced that Cambricon, a global leader in intelligent processors, had adopted Synopsys’ HAPS® prototyping solution for their artificial intelligence processor product. HAPS-80 delivers the performance, capacity, and scalability needed to enable Cambricon and their customers to accelerate their software development and system validation tasks.
+“As the complexity of intelligent processor increases, and the need for software co-verification increases, we require a high-performance prototyping solution to perform real-world validation,” said Tianshi Chen, CEO of Cambricon. “Synopsys’ HAPS-80 delivers the performance and scalability required to execute complex software tests and perform real-world interface testing, enabling us to accelerate delivery of our intelligent processor product to our customers and allowing our customers to develop software ecosystems and solutions on our intelligent platform in advance.”
+Read More: Interview With Ram Menon, Founder And CEO, Avaamo
+HAPS-80 is focused on accelerating the entire verification and software development cycle and enabling faster time-to-market. The software development and system validation of Cambricon’s new Cloud Smart Chip released in Shanghaiwas accelerated by HAPS-80. With HAPS’ remote access capability, Cambricon software developers can continuously run software tests. HAPS’ high performance combined with its fast bring-up and debug capabilities enables Cambricon to maximize execution of test cycles and accelerate delivery of its artificial intelligence processor product.
+“The development of emerging fields requires a high-performance prototyping solution to validate the function and performance of the SoCs,” said Magic Ge, Synopsys vice president and China Country Manager. “With the increasing demand for cloud computing and data centers for computing power, Cambricon launches a new generation of cloud computing solutions to enhance cloud computing performance. We will continue our close collaboration with Cambricon to deliver advanced prototyping hardware and software to accelerate system validation, resulting in faster time-to-market for a new generation of intelligent processors for our customers.”
+Read More: Getting To Know BYTON Concept — The World’s First Smart Intuitive Vehicle
+
+

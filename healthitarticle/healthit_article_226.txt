@@ -1,0 +1,31 @@
+IoT, Machine Learning Integration Boosts Medicaid Patient Care
+
+January 24, 2018
+
+By Jessica Kent
+January 24, 2018 - Applying smart technology like the Internet of Things (IoT) and machine learning to Medicaid systems can drive better care for patients, according to a recent Deloitte report.
+Medicaid agencies could consider integrating connected devices and advanced analytics into a number of areas, including home care, customer service, and population health management.
+“Given the size, scope, and cost of the Medicaid program, states and the federal government are constantly looking to improve health outcomes for Medicaid members and achieve greater program efficiencies,” the report states. “Smart technologies could provide that possibility.”
+Dig Deeper
+What Does the “Internet of Things” Mean for Healthcare?
+Machine Learning in Healthcare: Defining the Most Common Terms
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+The report states that IoT adoption is on the rise: the Federal Trade Commission estimates that 50 billion devices will be connected to the internet by 2020. Approximately 70 percent of Medicaid members are already using the IoT in the form of smartphones.
+Medicaid organizations can take advantage of this broad adoption by establishing remote patient monitoring (RPM) initiatives, which are growing in popularity among hospitals and patients.
+IoT advancements have allowed RPM to collect data on patient activity and behavior. Intelligent agents can analyze this data to detect patterns and respond to patient needs.
+This technology could allow elderly members and those with disabilities to maintain their independence while still allowing them to have access to help when they need it.
+“To the extent that RPM can reduce or delay the need for an in-home caregiver, decrease the number of visits to a health care provider, and keep patients actively involved in their care management in between doctor’s visits, it has the potential to bend the health care cost curve,” the report states.
+The report states that machine learning can help Medicaid agencies leverage the vast amounts of data aggregated through the IoT and other sources to uncover new insights about members.
+Medicaid providers may be able to apply machine learning techniques to predicting hospital admissions, substance abuse, and high emergency room use.
+“Once these patients are identified, appropriate measures can be taken to provide them with the education, treatment, or services they need to prevent these adverse events,” the report states.
+Machine learning can also help Medicaid systems improve their customer service through the use of chatbots.
+Chatbots can mimic human conversation to respond to requests or help users complete tasks. Chatbots may be able to help Medicaid systems cut costs by reducing or eliminating the need for call centers that respond to member questions about providers, benefits, eligibility and enrollment.
+The report also notes that chatbots can use natural language processing to help members with more complex tasks, such as helping them locate and complete forms for additional benefits, or simplifying questions so that members complete the forms accurately and effectively.
+Medicaid systems will need to make several changes if they want to integrate smart technology more effectively into their operations.
+The first is to upgrade to modular and interoperable Medicaid platforms with open application programming interfaces (APIs), which would allow Medicaid systems to share data with other entities. The report also suggests transferring Medicaid data to the cloud.
+Medicaid systems should start small when it comes to adopting smart technologies, the report suggests.  They should also work to develop a cohesive framework to determine not only how these innovations will perform tasks, but also how they will interact with one another.
+Finally, the report suggests that systems use analytics to monitor outcomes and return on investment. They should also establish a process for evaluating the effectiveness of new technologies that may further improve Medicaid services and patient outcomes.
+“A smart Medicaid system could help programs make use of the vast amounts of data they are already collecting, and combine forces with other health-related entities to better serve their populations,” the report concludes. 
+Tagged Healthcare Internet of ThingsMachine LearningMedicaidPatient Satisfaction
+
+

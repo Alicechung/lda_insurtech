@@ -1,0 +1,21 @@
+What can the EHR adoption saga teach us about analytics?
+
+September 03, 2013
+
+By Jennifer Bresnick
+September 03, 2013 - Everything worth building needs a strong foundation, no matter how difficult it is to break ground.  EHR adoption has been a struggle, and not all of the problems have been solved yet.  Productivity woes, usability complaints, and stagnant silos of data continue to plague the industry, but they also provide an opportunity to examine the best practices of the healthcare community and give us a chance to avoid similar pitfalls as we move into the next phase of health IT integration: performing actionable analytics using the data EHRs collect.
+Large projects require a coherent vision
+Electronic health systems are nearly as old as the personal computer itself, and many providers have adopted bits and pieces of computerized management systems over several decades.  Sections were added or replaced as technology evolved and the internet became a basic fact of life.  The industry had no way of forming a coherent roadmap for EHR adoption as they gathered new systems on a piecemeal basis – and meaningful use swooped in and changed everything, anyway.
+Data analytics doesn’t have to be like that.  While technological tools will always continue to become more sophisticated, providers have a clearer idea of healthcare goals, thanks to copious amounts of federal guidance, and a chance to really think strategically and long-term about the direction of healthcare analytics and what big data can achieve.  Having a business vision, clinical goals, and a technological work plan can help streamline the introduction of analytics into your business strategy and make real use of the intelligence that you can gather.
+Dig Deeper
+Provider Data Management Offers Payers a Blockchain Use Case
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Data Governance Key to Hospital’s Natural Language Query Project
+You can’t overlook the people piece
+“Workflow” is a word you hear a lot when you talk to people about EHRs.  “Problem” is the word that usually follows it.  For physicians and clinical staff who have been trained to work on paper for hundreds of years, EHR adoption has been shockingly disruptive to the daily task of seeing patients.  If there’s one lesson to take from the rocky road towards clinical acceptance of EHR technology, it’s that the importance of training can’t be overstated.
+Whether it’s physicians who take advantage of analytics-driven clinical decision support, health information management (HIM) professionals working directly with databases, or IT staff who are choosing and managing the systems that drive the entire analytics machine, staff members must be trained on how to make the best use of the tools they are being given.  They also need to understand the reasons behind what they’re doing.  Communicating your strategic vision, emphasizing the patient care goals you hope to achieve, and relating everything back to the way patients will see an improvement in their experience is vital to secure buy-in from your employees.
+Interoperability is more than a buzz word
+Without high quality data, analytics is useless.  EHRs have been burdened with silos of data that can’t move from one system to the next due to a lack of interoperability and a dearth of industry standards.  While the Office of the National Coordinator (ONC) and other industry groups are working hard to rectify that problem, analytics professionals can sidestep the issue altogether by adopting integrated, open-source tools that work with the EHR and other IT systems to produce valuable and comprehensive data reports.  Designing a data strategy that allows your organization to use information as a business asset will help you see a return on the investment while achieving organizational goals.
+Tagged EHR AnalyticsHealth Information ManagementHealthcare Data StrategyInteroperability
+
+

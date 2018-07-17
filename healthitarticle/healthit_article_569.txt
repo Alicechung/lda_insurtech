@@ -1,0 +1,32 @@
+CIOs Focus on EHR Optimization for Population Health, Analytics
+
+February 16, 2017
+
+By Jennifer Bresnick
+February 16, 2017 - Meaningful use may already be entering its sunset years, but healthcare CIOs are still wrestling with the very basics of electronic health record optimization as they towards a future where population health management, big data analytics, and accountable care are staples of the revenue cycle.
+In a pair of surveys released this week, one by KPMG and CHIME and a second by Philips and HIMSS Analytics, executives expressed concern over their readiness to engage in value-based care from a technical and operational standpoint.
+In the CHIME survey, 38 percent of respondents said EHR optimization would continue to be a top priority over the next three years, while 21 percent identified accountable care and population health management technology as one of their biggest investment areas. 
+"Meaningful Use, HITECH and new payment models have encouraged healthcare providers to invest in EHRs, but some didn't mesh with how doctors and nurses work," said Ralph Fargnoli, Advisory managing director at KPMG. 
+"A majority of doctors are dissatisfied with EHRs. We need to make these systems secure, easier to use, and interoperable across the continuum of care to effectively treat patients and uncover where quality and efficiency can be improved."
+READ MORE: Which Population Health Companies Get Top Marks for Value?
+CHIME CIOs said that improving clinical and business processes, including EHR workflows, was their biggest challenge, followed closely by generating operational efficiencies and delivering meaningful business intelligence and analytics.
+Sixteen percent are planning to focus on developing the consumer, clinical, and operational analytics technologies required to enhance their decision-making power.
+Participants in the Philips poll agreed that population health management is likely to receive a great deal of attention in 2017 and beyond.  More than 19 percent flagged population health as their top challenge, while 20 percent said that patient engagement and adherence is a primary concern.
+"The shift to value-based care and population health management is critical to improving patient outcomes, and integrated solutions can connect care across the health continuum to provide powerful actionable insights to enable this transformation," said Carla Kriwet, Chief Business Leader, Connected Care and Health Informatics, Philips.
+"These survey results demonstrate the desire for fully integrated, cost-effective and operationally effective solutions, which our customers have proven can add tremendous value and improve outcomes at every point of care."
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+The cloud is becoming a popular solution for healthcare organizations continuing to tweak their health IT systems, both surveys revealed. 
+About a quarter of CHIME survey respondents said that they are implementing or investing in cloud-based infrastructure, including servers, storage, and data centers.  Ten percent are moving or have moved their EHR infrastructure into the cloud, despite concerns about integration, optimization, and data security.
+Source: KPMG/CHIME
+The Phillips poll also showed that healthcare organizations have a strong interest in cloud technology.  Forty-eight percent of participants are using the cloud for health information exchange, and 34.2 percent have implemented cloud-based storage tools for clinical data.
+Interestingly, more than 40 percent of organizations are already using cloud-based technology to support big data analytics activities, possibly driven by the fact that remote monitoring programs and Internet of Things projects are on the rise.
+Close to 60 percent of organizations are planning to deploy mobile wellness monitoring devices in the near future, while 45.8 percent are moving into home monitoring and a similar number are planning to enhance their offerings to help patients age gracefully at home.
+READ MORE: Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+In contrast to the forward-looking Phillips respondents, only 13 percent of organizations in the CHIME poll are planning significant investments in virtual health and telehealth technology.
+Budgets are likely to remain conservative for these CIOs, with 63 percent of organizations stating that their spending will not increase over the next 12 months.  Only 36 percent of respondents said that they are expecting a bigger operating budget within the next two years.
+Physician groups are among the least likely to splash out on new technologies, added Phillips.  Ambulatory surgery centers, community diagnostic imaging centers, and urgent care facilities implemented new health IT tools at much higher rates than physician offices in 2016.  Around sixty percent of these facilities brought in at least one technology during the previous year.
+Despite the fact that some organizations are flirting with advanced patient engagement and wellness technologies like home monitoring and telehealth, the surveys indicate that the industry still has a great deal of work to do in order to master the basics of electronic health records, population health management, and the business intelligence that enables accountable care.
+As the Quality Payment Program takes hold in the physician environment and hospitals start dipping their toes into Stage 3 of meaningful use, they will need to quickly develop confidence in their basic workflows, data governance procedures, and population health management programs if they wish to see success in the value-based ecosystem that is quickly overtaking the old fee-for-service world.
+Tagged Accountable CareAnalytics InfrastructureCloud ComputingEHR OptimizationPopulation Health ManagementValue Based Care
+
+

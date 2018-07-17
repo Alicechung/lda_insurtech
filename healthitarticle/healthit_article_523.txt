@@ -1,0 +1,40 @@
+Big Data Analytics Link Economic Wellness to Population Health
+
+March 29, 2017
+
+By Jennifer Bresnick
+March 29, 2017 - Population health and economic prosperity are intrinsically linked, according to a new nationwide analysis from the Blue Cross Blue Shield (BCBS) Association, giving healthcare providers an even greater incentive to deliver holistic, preventive care to their communities.
+The BCBS Health Index, created in partnership with Moody’s Analytics, uses big data on more than 40 million beneficiaries of the health payer network to generate detailed insights into health trends on a county level, with a specific focus on chronic diseases and socioeconomic determinates of health.
+The analysis found that counties with lower unemployment, higher incomes, and more potential for economic growth are also less likely to experience high burdens from the most impactful chronic diseases, such as diabetes, depression, substance abuse, high cholesterol, and hypertension.
+Taken together, these conditions are responsible for 30 percent of adverse health impacts among BCBS consumers, indicating the importance of charting and tracking patterns of diagnosis and treatment.
+"Blue Cross and Blue Shield companies are committed to transforming our health care system and the health of our nation through actionable data," said Scott Serota, president and CEO for BCBSA.
+READ MORE: Identifying Care Disparities for Population Health Management
+The index includes ICD-9 codes related to more than 200 common diseases and conditions in its calculations, paired with economic data from Moody’s Analytics to assess overall community wellbeing. 
+BCBS estimated the years of life lost due to each specific condition, subtracted the figure from the optimal life expectancy of each member based on his or her demographics, and extrapolated the results into a 0-to-1 score for the entire population.
+Source: BCBSA
+"This Index uses the breadth and depth of BCBS data to bring critical health insights to policymakers, community leaders, business leaders and health care professionals, helping them further focus efforts to improve their communities' health," Serota added.
+The Moody’s Analytics data reveals that workers who remain employed longer tend to have better health than those who are not active members of the workforce.
+"The BCBS Health Index shows that health and the economy's performance go hand in hand," said Mark Zandi, chief economist of Moody's Analytics. "Policymakers can use the BCBS Health Index to better understand how health outcomes impact economic growth."
+READ MORE: How to Get Started with a Population Health Management Program
+The National Health Index sits at 0.924, according to the data, with counties in Nebraska, Colorado, Montana, and Texas ranking among the healthiest in the nation.
+On the other end of the spectrum, regions in Florida, Kentucky, Georgia, and Virginia scored poorly on health indicators. 
+Most of the Appalachian states and those in the Deep South tended to reside at the bottom of the Index, while Western states such as Idaho, Wyoming, the Dakotas, Utah, and Colorado were among the healthiest in the country.
+Compared to counties with median scores on the national index, the top ten percent of counties have per capital incomes that are $3700 higher, ten-year economic growth projections that are 3.5 percent higher, and unemployment rates averaging half a point lower than middle-ranking regions.
+The project is one of several industry efforts to use big data analytics to identify population health concerns and inform local and regional policymakers about socioeconomic health trends.
+READ MORE: Mental Health Care Disparities Impact Population Health
+CMS recently released its own national maps of chronic diseases and associated health disparities for Medicare beneficiaries, which flag regional variations in costs and prevalence of common conditions.
+The Medicare maps closely mirror many of the findings from BCBS, including the higher impact of chronic diseases like diabetes along the Eastern Seaboard and through the Southern states.  
+Source: CMS
+The interactive CMS tool also allows users to parse results by racial and ethnic categories, adding a new dimension to the question of population health management.
+On a smaller scale, certain metropolitan regions are also using online mapping tools to open up insights into chronic disease patterns.
+In Philadelphia, the Community Health Explorer includes charts, graphs, and maps covering 77 different socioeconomic factors and health metrics, including access to healthy foods, interpersonal violence rates, access to care, and substance abuse.
+South Carolina has launched a similar effort to cover the state, pairing economic information such as income levels with built environment metrics and rates of diabetes and obesity.
+And researchers from NYU and the National Resource Network have created a population health dashboard that allows visualization of twenty-six socioeconomic measures across a starting set of four different cities.
+"We created the City Health Dashboard in response to local demand for more accurate data about the health of our cities' citizens," says Marc Gourevitch, MD, MPH, chair of the Department of Population Health and principal investigator for the City Health Dashboard.
+"City leaders know that 'what gets measured is what gets done.' They want accurate, actionable data so they can improve their population's health, bring down health care-related costs, and focus on community wellbeing. We're excited to be the first to provide this important information at the city level in a uniform format across a wide range of health conditions and health determinants."
+Provider organizations and public health agencies appear to be increasing their demands for better population health management data that is correctly correlated with socioeconomic and community factors as value-based care becomes more important to the healthcare revenue cycle.
+Using hotspotting and predictive analytics to anticipate the need for resources and targeted interventions can help providers deliver more effective preventive care, potentially lowering costs and improving outcomes for patients.
+Big data analytics work by large entities such as the Blue Cross Blue Shield Association will only enhance the healthcare system’s ability to more effectively manage chronic diseases in a holistic, economically sensitive manner.
+Tagged Accountable CareAnalytics ToolsApplied AnalyticsCare QualityChronic Disease ManagementPopulation Health Management
+
+

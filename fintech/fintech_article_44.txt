@@ -1,0 +1,29 @@
+FundRequest launches a Blockchain Marketplace that Rewards Developers for Open Source Contributions
+
+June 30, 2018
+
+FundRequest, a new platform for incentivising open-source development, has officially launched their first product: a blockchain powered integration with GitHub that allows developers to directly solve open source project issues and be rewarded. The platform integrates directly with GitHub, allowing projects to fund ‘issues’ that developers can solve and be rewarded in cryptocurrency.
+
+ FundRequest moves into a groundbreaking niche by benefiting those who request software fixes, but also developers looking to contribute to projects they support.  Businesses pay for the software support they need, and developers receive monetary incentive to contribute to projects. FundRequest offers a unique opportunity for freelance developers to seamlessly integrate related platforms in the blockchain and software marketplaces.  For open source projects, this also builds a strong loyalty with developers who contribute to their projects. 
+
+ FundRequest is also tapping into a niche of seasoned developers who are looking to break into the world of blockchain by directly contributing to projects they care about. The company has already partnered with some of the most cutting-edge projects in the blockchain space and has indicated more partnerships are to come, including:
+
+ “Developers can start earning experience in blockchain development and are now able to participate directly in projects they care about by solving issues through FundRequest,” said Karel Striegel, Co-Founder and CEO of FundRequest. “Meanwhile, projects and companies can tap into a pool of passionate open source and blockchain developers through our platform. We look forward to being the bridge for these two groups and accelerating the development of open source and blockchain technologies.”
+
+ Solving a software dilemma
+
+ A problem consistent in the world of open-source is the multitude of unfinished projects because of a lack of incentive. Too often, companies have their hands tied, waiting for bug fixes on open-source platforms with little to no follow-up from developers.
+
+ To solve this problem, FundRequest created a solution that actively rewards community contributions using blockchain technology.  To do this, an issue can be created on Github, funded, and a reward in cryptocurrency can be staked for a specific development issue or task – which can be as small as a simple bug fix to as large as an entire add-on for a project.  Once a user creates a project request, a smart contract is created after Ethereum blockchain validation. Once the issue is resolved, the developer who proposed the best solution will receive a transfer of funds. All payments for requested work come through the Ethereum blockchain, removing the need for an intermediary.
+
+ FundRequest provides options to donate to charities or back to the open-source projects themselves. They encourage users to propose new features and fund open-source projects, which promote active involvement and ownership of various projects.
+
+ By default, FundRequest uses FND, their native token, to support its platform and reward developers.  Blockchain projects who fund issues for their development also have the option to pay users in their native cryptocurrency as well.
+
+ Tapping into a Huge Base of Developers
+
+ FundRequest users can register using their GitHub account, allowing countless collaboration opportunities. Through its GitHub web plugin, FundRequest reaches out to 24 million active users with experience in 337 unique programming languages. For other integrations, the platform offers a plug-and-play API able to be used by any platform or community and future versions will have a Chrome browser add-on, helping to streamline the funding process.
+
+ The FundRequest marketplace gives projects and businesses the support they need to actively work with blockchain and open source technologies or develop their own from scratch, while also giving developers an incentive to get involved. By launching the first version of their platform, FundRequest is providing a bridge for developers to become involved and ultimately rewarded for helping to build open source and blockchain projects they love.
+
+

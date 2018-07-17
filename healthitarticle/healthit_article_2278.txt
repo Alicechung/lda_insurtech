@@ -1,0 +1,17 @@
+Quality-based cash argues for better analytics, deeper data
+
+September 17, 2013
+
+By Jennifer Bresnick
+September 17, 2013 - If you’re still asking yourself why analytics is so important, then Medicare, Medicaid, and probably a few of your major health plan payers will have an answer for you.  Between the EHR Incentive Programs, Physicians Quality Reporting System (PQRS) dings to Medicare reimbursements, additional Medicare penalties for preventable readmissions, and efforts from the payers’ side to streamline services, reduce unnecessary tests and admissions, and keep patients healthier for longer, providers are being faced with an avalanche of new programs to sweep them down the mountain of accountable care.  But without robust analytics and a thorough understanding of the data at hand and the data we still need, can quality-based reform really flourish?
+Maybe not yet, argues Jonathan Weiner, professor of health policy management and health informatics at Johns Hopkins University.  Many health systems and ACOs are still flying blind when it comes to their data-based decision making, even as the struggle to prop up falling revenues intensifies.  True population health management, and consequently true quality reform, relies on a comprehensive picture of patients and their choices, which simply isn’t as possible as we’d like to think.
+“To get a full picture of a population, you need hundreds of doctors, many hospitals, and many payers, and it’s going to be a long time until they’re all interoperable,” Weiner said to Information Week.  “Right now, there are only two or three HIEs in the country that are really functional,” and that just isn’t good enough to keep enough high-quality data flowing to the people who need it.
+Weiner’s estimate of successful HIEs may be a little low.  HIEs are, in fact, taking a leading role in analytics, says Cheryl Stephens, PhD, President and CEO of the Community Health Information Collaborative (CHIC), a Minnesota state certified health information organization (HIO). “We are having conversations with some of our participating organizations who are looking at ACO models and having us provide their data analytics, so it is something that they see us providing for them,” she says.
+Dig Deeper
+ICD-10 Allows Non-Physician Documentation of Social Determinants
+State-Led Programs Help Meet Population Health Management Goals
+AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+Data extraction tools like natural language processing, machine learning, and predictive risk modeling will help improve the ability of providers to turn structured data into actionable decision making tools, Weiner predicts, but the evolution from adopting an EHR to fully levering a suite of health IT tools requires patience.  Meanwhile, the government continues to push for lower costs and better outcomes, keeping the pressure high for an industry in metamorphosis.  Reimbursements will only continue to be based upon quality and accountability, keeping analytics in the spotlight as provider search for ways to satisfy a variety of increasing pressures.
+Tagged Big Data AnalyticsHealth Information ManagementHIE AnalyticsHospital ReadmissionsPhysician Quality Reporting System PQRSPopulation Health Management
+
+

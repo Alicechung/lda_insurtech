@@ -1,0 +1,20 @@
+High physician workload impacts length of stay, cost of care
+
+April 04, 2014
+
+By Jennifer Bresnick
+April 04, 2014 - It takes a lot of stamina and determination to tackle the long hours, fast-paced decision making, and responsibility of being a physician in a hospital setting, but new research published in JAMA this month shows that heaping untenable demands on physicians takes a toll on their patients, as well.  When hospitalists were responsible for more than fifteen patients at a time, those patients experienced longer lengths of stay in the inpatient setting and higher costs of care during their time in the hospital.
+“Hospital medicine is the fastest growing medical specialty in the United States,” writes lead author Daniel J. Elliott, MD, MSCE of Christina Care Health System in Newark, New Jersey. “Currently, hospitalist programs face growing pressure to increase productivity to compensate for declining revenue or to meet operational demands resulting from policy and practice changes, such as limitations on resident work hours, specialty co-management, and decreased presence of primary care physicians in the hospital.”
+To judge the impact of these changes on patient outcomes, Elliott and his team observed the experiences of a hospitalist group that provides 24-hour care to two different health systems: Christina Care in New Jersey and Wilmington Hospital in Delaware.  By examining billing records to determine workload and clinical data from the hospitals’ data warehouses to measure length of stay for patients, Elliott was able to come up with a correlation between the two.
+He found that the length of stay increased proportionally to the physician workload, especially when the hospital had an occupancy rate of less than seventy-five percent.  In those cases, the length of stay increased from 5.5 days to 7.5 days as physicians took on more patients.  For higher occupancy situations, the length of stay increased even more dramatically.
+Dig Deeper
+KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+CA Children’s Hospitals Win Davies Award for Analytics, Safety
+Additionally, the researchers noticed an increase in per-patient costs as hospitalists were asked to juggle more cases.  Spending per patient increased between $111 and $205 dollars when hospitalists handled more than 15 patients, indicating that the pressure to be more efficient by reducing staff numbers could actually cost organizations more in the long run.
+In a recent national survey of hospitalists,40% of respondents reported exceeding what they perceived as a safe workload at least monthly and that increased workload led to delays in care, poor communication between physicians and patients, delivery of unnecessary care, medication errors, and complications of care, including death,” notes Elliott.  “Understanding the association between physician workload and the efficiency and quality of care is essential to designing an optimal inpatient system for the current and future environment.”
+“Although 15 patients per hospitalist might not be a magic number in every setting, programs that generally run censuses of more than 15 may want to find ways to lower this workload, perhaps by employing more physicians or by using non-physician providers,” wrote Robert M. Wachter, MD of the University of California, San Francisco, in an editorial piece reviewing the results.
+“They should also look at local data to see what their own workload vs outcomes curves look like. The right census number will be the one in a given setting that maximizes patient (and, in a teaching hospital, educational) outcomes, efficiency, and the satisfaction of both patients and clinicians, and does so in an economically sustainable way.”
+Tagged Healthcare Business IntelligenceHealthcare QualityHospital QualityPatient CarePatient Safety
+
+

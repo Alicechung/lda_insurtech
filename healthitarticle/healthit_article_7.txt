@@ -1,0 +1,35 @@
+54% of Healthcare Pros Expect Widespread AI Adoption in 5 Years
+
+July 09, 2018
+
+By Jennifer Bresnick
+July 09, 2018 - Artificial intelligence is quickly gaining steam in the healthcare industry as pilots and limited deployments start to prove their value. 
+The progression of AI is so swift that more than half of healthcare professionals surveyed by Intel and Convergys Analytics believe “widespread adoption” is less than five years away.  Close to 20 percent believe it will take less than two years to reach full-scale adoption.
+About 37 percent of respondents are already using artificial intelligence within their organizations in one form or another, the poll revealed. 
+Clinical applications are most common, with 77 percent of current users leveraging AI for decision support, risk scoring, medication safety warnings, and other patient-facing tasks.  Forty-four percent are turning to AI for operational support, while only a quarter (26 percent) are tackling financial problems.
+However, most of these applications are relatively narrow – and AI believers have their work cut out for them to convince their peers and patients of the potential in machine learning, deep learning, and other AI methodologies.
+READ MORE: Top 10 Disruptive Companies to Watch in the Healthcare Space
+Enthusiasts are nearly unanimously convinced that AI can effectively get ahead of adverse events, with 91 percent stating that AI will improve providers’ abilities to deliver early interventions. 
+Eighty-eight percent believe that AI will improve overall care, and 83 percent anticipate more accurate diagnostic capabilities.  Three-quarters added that automating tasks with AI will allow clinicians to spend more time with their patients, and 81 percent believe that machine learning can improve efficiency and lower costs.
+But a lack of trust among users and beneficiaries of these technologies might derail efforts to expand the AI ecosystem.  More than a third of survey participants think that patients will balk at the idea of having an algorithm aid in their care, and 30 percent believe that the biggest obstacle will come from providers themselves.
+The potential for an AI tool to make a fatal error could be an intractable sticking point for clinicians, they added.  Fifty-four percent of respondents agree that AI will be responsible for at least one fatal error, which may turn many organizations away from pursuing AI for clinical applications.
+At the same time, participants believe companies that hesitate to invest in AI will fall behind their competitors.  Eighty-three percent of respondents agreed that AI will provide a competitive edge, with 23 percent “strongly agreeing” with the statement.
+READ MORE: Artificial Intelligence Promises a New Paradigm for Healthcare
+“At the end of the day, we are all consumers of healthcare, and we should feel confident that advances in technology can ensure we receive high-quality, affordable care,” said Jennifer Esposito, worldwide general manager of Health and Life Sciences at Intel.
+Safety is a top concern for other groups, as well.  Most AI tools are extraordinarily complex, and may not be able to clearly articulate to the user how or why a specific recommendation is being made. 
+There is a risk to patients if providers end up blindly trusting such “black box” systems, and several prominent stakeholders have already warned against getting too comfortable with the idea of opaque analytics engines.
+“Regulators would not be eager to risk an incorrect computer decision harming a patient when no one would be able to explain how the computer made its decision—or how to prevent a repeat of the situation,” noted a 2017 report from McKinsey Global Institute.
+“How much patients would trust AI tools and be willing to believe an AI diagnosis or follow an AI treatment plan remains unresolved.”
+READ MORE: Artificial Intelligence to Make More Health Jobs Than it Eliminates
+The American Medical Association has also hinted at the dangers in its first policy statement around AI – “augmented intelligence,” in the society’s preferred term – and urged developers and providers to ensure that AI tools are “thoughtfully designed.”
+“As technology continues to advance and evolve, we have a unique opportunity to ensure that augmented intelligence is used to benefit patients, physicians, and the broad health care community,” said AMA Board Member Jesse M. Ehrenfeld, MD, MPH.
+“Combining AI methods and systems with an irreplaceable human clinician can advance the delivery of care in a way that outperforms what either can do alone. But we must forthrightly address challenges in the design, evaluation and implementation as this technology is increasingly integrated into physicians’ delivery of care to patients.”
+The Clinical Decision Support Coalition has published an even stronger caution about black box AI, stressing that all software tools must prominently display notifications about what data is helping to support a recommendation and what caveats may be included in the process.
+“The software should provide a thorough explanation of the data sets used to feed and test the machine to provide important context and assurance to the clinician,” the coalition said in voluntary developer guidelines released earlier in 2018.
+“[Providing a clinical rationale for a decision] goes beyond merely identifying the source of the clinical rules, and includes a reasonable explanation of the clinical logic by which the software arrived at its specific recommendation based on patient specific information.  The discussion should include any limitations or potential biases in the methods used to gather the data.”
+Artificial intelligence offerings that are appropriately transparent and keep patient safety at the center of their mission are likely to be among the most successful tools as the healthcare industry moves closer to broad adoption.
+While participants in the Intel survey believe that a cautious approach to testing, implementing, and scaling AI tools will be critical for success, they are also eager to reap the many potential rewards waiting for those organizations that invest in next-generation analytics.
+“Together, we can ensure patients and providers realize the benefits of AI in healthcare today, building trust and understanding that will help us unlock incredible advances in the future,” Esposito said.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareDeep learningMachine LearningPatient Safety
+
+

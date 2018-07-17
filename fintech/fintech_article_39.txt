@@ -1,0 +1,19 @@
+Fintech, ABI: Italian banks are working on blockchain pilot
+
+July 2, 2018
+
+A first group of Italian banks has begun operative testing of a blockchain. Shortly, after an initial test phase, the pilot will be extended to a larger number of banks.
+
+ ABI Lab, the technological laboratory supported by the Italian Banking Association (ABI), and the banks that are participating in the project are engaged in applying blockchain technology to interbank processes with the objective of attaining the benefits derived from data transparency and visibility, the increased speed in executing transactions and the possibility of performing checks and exchanges directly within the application.
+
+ Blockchain technology allows for the creation and management of a large distributed database for managing transactions that can be shared across multiple nodes of a network. In other words, it is a database in which data is not stored on a single computer, but on multiple computers, called nodes, that are connected to one another. Without having to rely on a single centralised entity, this new concept of distributed databases, Distributed Ledger Technology (DLT), changes the way we think and design the relationships and the exchange of value between the participants.
+
+ The scope of application is interbank reconciliation, which verifies the matching of correspondent accounts that involve two different banks that contain transactions executed between two customers of two banks. The project has also verified how the application of DLT technology can improve certain specific aspects of current operations that can result in discrepancies that are difficult for the banks to manage. Among these is the time needed to identify transactions between banks that do not match; the lack of a standard process and a single communications protocol; the limited visibility of the transactions between parties. Smart Contracts are another innovation in this area: a software programme that incorporates the rules of execution of an agreement to control the transfer of value.
+
+ The project is therefore entering an advanced operational phase in which DLT database concepts are applied to an interbank process. The banks are pioneers in this new area. The work group, composed of the participating banks and ABI Lab, has selected “Corda” DLT technology developed by R3, and in collaboration with Ntt Data for development of the application and Sia as provider of the node infrastructure has defined the new verification process. The new process will make bilateral channels available through which each counterparty can exchange information whilst respecting the confidentiality of the information. Through the use of the DLT platform and the implementation of Smart Contract, it will be possible to provide automatic feedback on bank transactions, thus simplifying and accelerating the reconciliation process.
+
+ The pilot phase, started in December, strives to create a base for future synergistic implementations of DLT technologies, extending its application to new and different areas and processes thanks to the increased knowledge of these innovative tools which are certainly preferred for projects such as this that potentially involve the entire banking sector. All this, which is an expression of fintech, is revolutionising banking sector with experimentations that range from digital identity to the international payments, management of tenders, donation platforms etc.
+
+ A total of 14 banking institutions are involved in this first interbank blockchain pilot: Banca Mediolanum, Banca Monte dei Paschi di Siena, Banca Sella, BNL BNP Paribas Group, Banca Popolare di Sondrio, Banco BPM, CheBanca! – Mediobanca Group, Credito Emiliano, Crédit Agricole, Credito Valtellinese, Iccrea Banca, Intesa Sanpaolo, Nexi Banca, Ubi.
+
+

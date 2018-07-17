@@ -1,0 +1,26 @@
+True Interoperability Requires Proof before Mandates, HL7 Says
+
+September 03, 2015
+
+By Jennifer Bresnick
+September 03, 2015 - Before piling on additional EHR and health IT mandates, the federal government must prove to the healthcare industry that interoperability can produce measurable return on organizational investment, says Health Level Seven International (HL7) in a letter to the Senate Committee on Health, Education, Labor, and Pensions (HELP). 
+Regulators should focus on developing and disseminating use cases for the adoption of interoperability standards and guidelines in order to encourage adoption and motivate engagement if they wish to foster innovation and improvements to patient care.
+As a standards defining organization (SDO) with a membership that includes close to 90 percent of the current health IT market share, “HL7 has played a significant role in the advancement of interoperability and ensuring the public’s health since the organization was founded in 1987, developing messaging standards to support data exchange between computer systems used within provider organizations,” write CEO Charles Jaffe, MD, PhD, and Board of Directors Chair Stanley M. Huff, MD. 
+Organizations have worked hard to optimize the flow of data internally, but new demands for improved care coordination and population health management, coupled with the shift to value-based reimbursement, has left providers with the difficult task of moving health information across organizational lines.
+Dig Deeper
+Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+CT Medical Society Announces New Health Information Exchange
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+Despite early progress, “the national interoperability infrastructure, which supports data exchange across provider organizations and with patients, is not yet fully scalable,” Huff and Jaffe state in their response to the Senate’s call for industry input on improving health information exchange, preventing data blocking, and encouraging connections across the care continuum.
+“Payment model changes, the passage of incentive -based legislation and other factors, have substantially accelerated standards development and uptake, but more needs to be done to achieve widespread, comprehensive, complete, unambiguous, predictable exchange of data across the full spectrum of stakeholders and systems including providers, patients, payers, biomedical researchers, public health agencies, patient registries and research network.”
+Though healthcare providers increasingly recognize the importance of interoperability for financial sustainability and the delivery of quality care, tight budgets and competing initiatives often make it difficult for organizations to justify splashing out on new infrastructure when the return is unclear.
+The federal government can add to the efforts private industry initiatives like Carequality, CommonWell, the Argonaut Project, and HSPC by applying mandates more judiciously – after standards and requirements are thoroughly vetted and validated.
+“The prescription of standards and guidelines for interoperability needs to be driven by sustainable business cases that present opportunities for efficiency and clear value to the end users,” the letter says.  “Standards and implementation guides are only a means to an end, not an end in and of themselves.”
+Regulators should be required to run demonstration and pilot programs before issuing implementation guidance, HL7 says, noting that interoperability takes time – and sometimes trial and error – before it matures into a useful competencies for healthcare providers.
+To achieve the most possible benefit from cross-industry collaborations, stakeholder organizations should be engaged with one another and with federal rule makers to share best practices, define standards and terminologies, and analyze shortcomings.
+“SDOs are essential to encapsulate shared knowledge arising from interoperability initiatives into accepted standards and guidance that can be endorsed,” the letter says, but “no single SDO has all the knowledge and capabilities necessary to bring together all critical components to drive successful interoperability.”
+When guidance and mandates are established, after extensive review and real-world testing, they should establish “a minimum floor” for adoption that doesn’t limit ongoing development and innovation, the letter concludes. 
+If the federal government works with private industry efforts to carefully develop comprehensive, thoroughly tested frameworks for large-scale health data interoperability, the industry may be able to continue its progress towards the implementation of health IT tools that support precision medicine, population health management, and high quality patient care.
+Tagged Analytics InfrastructureHealth Information ExchangeInteroperability
+
+

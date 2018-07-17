@@ -1,0 +1,33 @@
+Unexplained Wealth Orders: A Worry or a Natural Development
+
+April 16, 2018
+
+Roman Filatov, FJM Solicitors, for The Fintech Times.
+
+ Recent focus from the legal press has been on the change to the law that seemingly has no bearing on the fintech industry and start-up finance. Unfortunately “seemingly” is the key word here, because the change may, and very likely will, affect the investment environment.
+
+ Unexplained wealth orders are a new tool in the arsenal of the law enforcement agencies, which allows them to attack suspicious assets without needing to meet the criminal law levels of proof, and even without starting criminal investigations.
+
+ First things first, what is the change and to whom does it apply.
+
+ From 31 January 2018, several state agencies received a right to apply to the courts for an order requiring a holder of an identified asset to explain the source of funds used for acquiring that asset. The agencies that are allowed to apply for such an order are expressly named by the law: the National Crime Agency, HMRC, Financial Conduct Authority, Serious Fraud Office and Crown Prosecution Service. They cannot demand the information themselves, they have to provide the information to the court and the latter will decide whether the order is warranted. In doing so the court will use the following criteria:
+
+ Some may argue that the vagueness of the words “reasonable”, the requirement for holding the asset, the need for mere “suspicion” rather than factual evidence, all render this new provision somewhat dangerous and prone to being abused. The respondent will need to rely on the lucidity of the courts when deciding whether to issue such an order and, if appealed, whether such an issue was merited.
+
+ What this law really does is transfer a widely used tool of freezing and, possibly, seizing a person’s asset from the criminal procedure into a civil law playing field. Now, freezing orders have been used in civil proceedings for a long time (ever since the Mareva case in 1980). Their aim is however entirely different to the proposed norms: they are designed to keep the respondent from selling the asset in order to avoid enforcement of the court award against him. Not to mention that freezing orders are used in civil suits between two private parties, not criminal investigations by the state. In addition, UWOs shift the burden of proof of the source of funds from the state to the respondent. In other words, the applying agency does not need to prove the respondent obtained the asset using illegal funds, rather the respondent needs to prove that he hasn’t.
+
+ All of the above concerns are surely going to become subjects of further discussions and litigation, especially in light of the already existing provisions on anti-money laundering and obligations professional advisors have to ‘know your [their] client’. In many cases the questions regarding the lawfulness of the money will be readdressed to the specialists involved in the acquisition of the disputed assets: lawyers, bankers, tax advisors, estate agents and so on. There will be some resistance on that front, given the severity of consequences of non compliance for such specialists.
+
+ That is not the main concern for the investment industry though. The main question is whether unexplained wealth orders will affect the flow of investments in the country and if they do, then how they will affect it, particularly investment in start-ups. At the moment the main focus is on real estate, because it is the most obvious and very easy target, which has an added advantage of being immovable.
+
+ Shares in a business are assets too, however, and when a business starts to grow there is nothing to prevent shifting of the focus on corporate stakes in companies. Therefore, a potential threat to each new venture does exist. It is exacerbated by the fact that no business can predict or prevent problems that its investors may have in the future. Such problems may have nothing to do with the business, but the uncertainty brought by a change of, in many cases, a major shareholder in the company (and change to a government controlled entity no less) is at least inconvenient and, in case of a public or a listed company, can be downright dangerous for the business.
+
+ Startups are particularly vulnerable. At early stages of raising capital any interest from a well-funded individual, company or fund brings about the sense of success, of achievement. As a result the owners of the start-up may forego checking their new investor’s viability both in terms of the ability to invest and the source of the funding. To put simply, if you need money urgently and someone is prepared to give it to you, you may accept it without thinking about potential consequences. This was true at the best of times, when the new ventures agreed to truly draconian limitations in the shareholders’ agreements, massive dilutions and loss of control of their own enterprise just to get that seed money. Now, it seems, there is a  further risk of losing out, if your investor turns out to be someone on the radar of the government agencies. This risk is easily identifiable when your investor is a known person, has political connections or has received substantial negative press. In many cases, however, such people hide behind elaborate offshore and trust structures, or conduct their equity investments through personal investment funds or family offices, which have completely lawful organisation and invest in their own names, rather in the names of their investors.
+
+ So, what can startup and scale-up business owners do to alleviate this new risk?
+
+ First and foremost, there is no reason to stop relying on certified professional advisors when it comes to checking the credentials of any new investor. The UK legal industry in particular, is renowned for its ability to adapt to changes in the law and procedure. Many law firms are already reviewing their AML/KYC procedures as a result of the new developments. Asking your lawyer to put pressure on the investor and his advisors to ensure that the money comes from a legitimate source is the most obvious step in such circumstances.
+
+ Furthermore, there are technical legal steps start-ups can take to reduce their exposure to the new risk. Examples of those are, in no particular order:
+
+

@@ -1,0 +1,25 @@
+IT Policies for a More Secured Use of Cloud
+
+April 21, 2017
+
+Security is always a big concern when it comes to cloud storage and cloud computing in general. For companies operating in the FinTech market, there are security standards to follow. With other industries, however, there aren’t always regulations governing how information and sensitive data need to be protected.
+
+ The lack of standards and regulations often lead to less-than-stellar security practices. In a previous article, we talked about some general guidelines on data security for small businesses. Insecurity standar this article, we’re going to focus more on the internal policies for maximum data security.
+
+ One of the first things you need to do is lay the right foundation for data security. This means getting everyone in the business to the same level of understanding about the importance of protecting the company’s information. Some basic rules must be set so that all team members know how to handle sensitive data in different situations.
+
+ Things such as setting up advanced access management to different parts of the cloud infrastructure is a great start. Compartmentalising departments and their access to information is a great way to prevent unnecessary leaks of information.
+
+ Another great feature to add to your basic policies is logging. Make sure all cloud activities are logged in detail so that – should a leak occur – identifying key personnel responsible is easy to do.
+
+ For smaller businesses, this often means altering information sharing habits; it is not unusual for small businesses and start-ups to have an open cloud storage account that everyone can access, even though it poses a serious security risk. The right basic policies can change that once and for all.
+
+ Unless you have a dedicated IT team handling the setup and maintenance of your cloud infrastructure, handling everything in-house may not be the best way to go. Working with a cloud solution provider that has years of experience in managing sensitive data can help you avoid unnecessary, often mundane mistakes that lead to security problems.
+
+ A lot of small businesses on the market are starting to use multiple cloud-based solutions in an integrated way instead of hosting everything on the same cloud server. For instance, it is easy to outsource human resource management to XCDHR, sales to SalesForce, and backup to Amazon, instead of handling everything in-house. Not only will you be able to save money and get the best solutions for your business, you can also make the integrated workflow more secure at different levels.
+
+ The last piece of the puzzle is setting up redundancies. While the cloud is immensely reliable by nature, it is still necessary to maintain at least two copies of sensitive business data. An offline backup, not connected to any internet-enabled network, is a good first redundancy to have. It is a failsafe that helps speed up recovery in the event of a catastrophic disaster.
+
+ A remote cloud backup will complete the set and make your business’s use of cloud computing more secure. Combined with the previous tips we talked about earlier, it is easy to set up the right set of IT policies for maximum data security.
+
+

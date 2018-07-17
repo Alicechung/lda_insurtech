@@ -1,0 +1,32 @@
+Salesforce Delivers The Next Generation Of Service Cloud Einstein
+
+12 Jul 2018
+
+Service Cloud Einstein combines CRM data, AI and guided processes, empowering service agents to deliver intelligent recommendations, instant service and seamless experiences to customers
+With Einstein Bots for Service now generally available, companies like Hulu can leverage machine learning and natural language processing to automate routine service requests and fundamentally transform the service experience
+Salesforce (NYSE: CRM), the global leader in CRM, today announced the next generation of Service Cloud Einstein, combining the world’s #1 CRM with guided processes and powerful artificial intelligence to transform the customer service experience. Companies can now leverage Einstein Bots for Service to automate routine service requests and enable frictionless agent handoffs. Lightning Flow for Service empowers businesses with tools to quickly design and automate customer engagement processes. And Einstein Next Best Action empowers agents by delivering intelligent recommendations and offers for customers.
+The Rising Tide of Customer Expectations
+
+Today, 80 percent of customers1 say the experience a company provides is as important as its products, yet many customer service organizations are unable to rise to the challenge. Too often data exists in silos across an organization, preventing service agents from having a complete view of the customer. In addition, business processes are not set up to deliver frictionless customer experiences. For companies to truly compete on service, they must find scalable ways to quickly resolve routine queries, navigate complex processes, and leverage intelligence to deliver outstanding, connected customer service experiences.
+Follow Us
+Next generation Service Cloud Einstein: Create engaging service experiences with AI and guided processes 
+
+Built on the world’s #1 CRM, Service Cloud Einstein platform services include:
+Einstein Bots for Service supercharges agent productivity by responding to customers immediately, automating routine service requests, gathering basic information from customers so agents don’t have to, and seamlessly handing off customers to the right agent at the right time. And because it uses machine learning and natural language processing, Einstein Bots improve with every interaction.
+Lightning Flow for Service empowers companies to deliver guided service processes that take customers through self-service interactions and guide agent workflow (i.e. fulfilling requests, resolving issues). Lightning Flow removes the guesswork from customer interactions, and delivers connected service experiences with a complete view of the customer.
+Einstein Next Best Action leverages rules-based and predictive models to provide agents with intelligent, contextual recommendations and offers for customers. Einstein Next Best Actions are delivered at the moment of maximum impact—surfacing insights directly within the Service Cloud console that lead to faster case resolution, increased customer loyalty and upsell opportunities.
+The combined power of these innovations transforms customer service. For example, if a customer loses their credit card while on vacation and goes to the company website for help, an Einstein Bot initiates a chat session. After gathering the initial details (e.g. who are you, what happened?), the bot seamlessly passes the chat thread to a human agent to expedite the card replacement process. A Lightning Flow workflow takes the agent and customer through a step-by-step process to resolve the problem. Assessing the situation based on the conversation and customer history, Einstein Next Best Action suggests to the agent that she inform the customer that they qualify for free travel insurance. The agent informs the customer about the insurance and closes the loop. The customer leaves the interaction fulfilled and happy with the service experience, while the agent quickly proceeds to the next case.
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+Salesforce AppExchange and Partner Ecosystem Extend the Power of Service Cloud Einstein
+
+With Salesforce AppExchange, the world’s leading enterprise cloud marketplace, companies can extend the power of Salesforce with more than 5,000 partner solutions, including Lightning apps, components, data, industry specific solutions and more. Because it is powered by the Salesforce Platform, partners can build Einstein Bots for Service training packages, as well as Lightning Flow for Service and Einstein Next Best Action strategies for the AppExchange that are customized for industries and specific use cases.
+Companies looking to accelerate their success with tailored solutions built on the Salesforce Platform can work with key global system integration partners such as Appirio, Bluewolf and PwC.
+Read More: The Three Biggest Industries Who Can Utilize A Language Translation Device
+Additionally, with Salesforce’s strategic partnership with IBM, joint customers can leverage the power of AI to make smarter decisions, faster than ever before.
+Comments on the news:
+“Artificial intelligence alone will not drive your business forward—AI must be connected to CRM data and guided processes so companies can create seamless experiences that put customers at the center,” said Bill Patterson, SVP and GM, Service Cloud, Salesforce. “Today is a big step forward in empowering our customers with an easy way to provide guided, intelligent service at scale.”
+“At Hulu we are constantly looking for innovative technologies to better serve and delight consumers,” sai VP of Viewer Experience at Hulu. “We see support as an integral part of the overall viewer experience, and Einstein Bots for Service will help us scale and maintain our levels of service.”
+“Almost every company looking to compete on customer service is looking at how they can leverage AI, but for even large companies it’s often a question of resources,” said Rebecca Wettemann, Vice President of Research, Nucleus Research. “With this release, Salesforce further accelerates time to value for companies that want to better understand and service customers by scaling Salesforce’s expertise, depth and breadth of data, and AI models that are laser focused and trained for customer interaction.”
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+
+

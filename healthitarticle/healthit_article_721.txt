@@ -1,0 +1,31 @@
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+
+October 13, 2016
+
+By Jennifer Bresnick
+October 13, 2016 - EHR-based clinical decision support (CDS) tools, including risk assessments and patient registries, may be able to improve early detection of chronic kidney disease, according to a new study in the Journal of the American Board of Family Medicine, but workflow challenges may render CDS tools less than optimally effective.
+The study, conducted by researchers from the Medical University of South Carolina, enrolled eleven primary care practices in a two-year effort to understand the impact of clinical decision support systems on chronic disease identification and routine population health management screenings.
+Throughout the study period, the participating providers were asked to use a chronic kidney disease (CKD) risk assessment tool along with electronic health maintenance protocols, a CKD patient registry, and a flowchart designed to track changes in patient health statistics over time.  All the practices were using the same electronic health record product from McKesson.
+The researchers hoped to see improvements on CKD-specific clinical quality measures, which are designed to identify the common disease as quickly as possible and prevent long-term complications. 
+Dig Deeper
+Identifying Big Data Sources for Population Health Management
+Open Population Health Analytics Flag Philly Health Disparities
+Research Collaboration to Use Big Data for Diabetes Prevention
+CKD is likely to impact half of all adults aged 30 to 65 at some point during their lifetimes, the CDC says, and the disease affects approximately one-third of patients with diabetes and 20 percent of adults with high blood pressure.
+“Early detection of chronic kidney disease can lead to interventions to prevent renal failure and reduce risk for cardiovascular disease,” the authors said, “yet adherence to treatment goals is suboptimal in the primary care setting.”
+Median practice performance at the beginning of the study was “relatively low,” for three of the twelve clinical quality measures, with providers adhering to relevant screening and monitoring CQMs less than 35 percent of the time.  Performance on two additional measures were “modest” at 53.5 percent, but the remaining seven measures saw adherence rates over 75 percent.
+After 24 months of utilizing the four clinical decision support tools provided, performance rates for two of three the lowest-scoring CQMs improved significantly. Participants raised their performance on delivering screenings for albuminuria for patients with diabetes and/or hypertension and monitoring albuminuria in patients already known to have chronic kidney disease.
+No statistically significant improvements were noted in other quality performance areas.
+The researchers found that participants used some of the clinical decision support tools more frequently than others.  While the majority of providers used the CKD risk assessment and the health maintenance protocols, fewer organizations regularly utilized the patient registry and no providers reported consistent use of the patient tracking flowchart.  Many providers said they forgot that the flowchart was available to them.
+“Providers generally felt that use of these tools helped improve CKD management by focusing their attention on CKD, although there was occasional provider disagreement and confusion about the recommendations embedded in these tools,” the study said. 
+Some clinicians did not agree with certain monitoring and prescription protocols, and others reported paying less attention to CKD management for patients who were being seen by nephrologists.  The specialists did not always adhere to the CQM recommendations included in the study, they added.
+Despite the challenges, half of the participating organizations created standing orders based on the health maintenance protocols provided by the researchers, and one-third of providers enlisted staff members to leverage the patient registries for outreach purposes.  Several practices implemented in-office or pre-appointment specimen collection to smooth the monitoring process,
+Some providers also created links to CKD patient education in their diagnosis and monitoring tools, which they said was “favorably received.”
+While the researchers only found limited quantitative improvements throughout the study period, they did point out that process changes within the practice environment could contribute to higher performance rates and more proactive patient management.
+“CDS tools show promise for improving the identification of patients with CKD in a group of diverse, “real-world” primary care practices, particularly when operationalized by clinical staff,” the study concluded.  “Achieving improvements in CKD outcomes such as blood pressure control likely requires an additional focus on improving care coordination between primary care physicians and nephrologists and encouraging patient activation.”
+“Further comparison studies are needed to evaluate multifaceted interventions designed to combine CDS tools with these additional components to effectively improve CKD management in primary care.”
+Big Data Analytics Improves Chronic Disease Risk Stratification
+EHR Optimization is Key for Quality Reporting, Population Health
+Tagged Chronic Disease ManagementClinical AnalyticsClinical Decision SupportPopulation Health Management
+
+

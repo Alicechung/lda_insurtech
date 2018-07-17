@@ -1,0 +1,21 @@
+The future of Smart Transactions
+
+August 15, 2017
+
+Eon smart transactions are highly secure as the creation of every smart transaction protocol in the ecosystem is implemented by the developers
+
+ Briefly, a smart contract is an electronic algorithm or condition enabling people to exchange money, real estate, shares and other assets. Imagine that you want to buy a house, but do not trust the seller. This happens often in real life, and in traditional finance we also use a kind of an algorithm with banks as intermediaries in this case. But why going to the bank where still human factor presents if you can bring your money to an incorruptible “robot”, which will transfer them to the seller only when the requirements of the deal are 100% met. In such a system there is no place for fraud and biases, and the smart contract is, in fact, this “robot”, allowing the deal. It is a program which regulates the relations between two or more parties by prescribing all the conditions and possible situations.
+
+ Smart contracts are the Ethereum hallmark. Ethereum gives users free rein to write their own programs: everyone can learn API, develop a smart contract and launch it to the blockchain.
+
+ EON blockchain has a similar option, but in form of smart transactions. How do they work? Why they are “smart”? Basically, a transaction defines a set of actions. EON smart transactions logic is beyond the transaction itself, it is in the very core of the net. So, they are “smart” not because they contain processing code themselves (like Ethereum smart contracts), but because the core processes the transaction, and as the result we get the smart transactions which is able to carry out operations with money.  Only operations laid by the core of the net can be performed, and they are processed directly by the core. Additionally, the transaction size is reduced, which increases the network bandwidth.
+
+ Our whole platform has goals and needs that differ from those of Ethereum: it is not intended to be a universal system, but to serve our specific needs. Therefore, we limited the smart transactions programming rights: only we can write them for our clients and all the coding is done by our own devs.
+
+ First, we excluded the possibility of mistakes caused by ambivalent usage of functions. As no one can write smart transactions independently, security comes down to transactions processing. Transactions processing is the core of our net. We write it by ourselves. Therefore, when there is a request for a creation of a smart transaction protocol it is implemented, and then the core version is updated. Thus, we control the creation of every protocol in our ecosystem.
+
+ The other point is testing. It is never less difficult than development itself, says the golden rule of system analysis. Big and complex systems are much harder to test, which is obvious. What about universal ones, to verify their reliability is almost impossible: the number of testing branches is literally endless. EON blockchain scope is not unlimited, so we can check all the cases, and each of these cases is limited by its nature. That is why can be sure in our blockchain safety.
+
+ The issue of programming languages usage for smart contracts is still underdeveloped. Smart Contracts are based on very sophisticated math, by far not all the theorems in it are solved. Computer system complexity is step by step overcoming human brain analysis capacity and soon only artificial intelligence would be able to analyse it fully. Unfortunately, it does not exist yet. It is important to understand that in fact Ethereum is an experimental net, and world community is testing it right now.
+
+

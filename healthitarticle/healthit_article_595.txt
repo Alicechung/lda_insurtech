@@ -1,0 +1,55 @@
+Which Population Health Companies Get Top Marks for Value?
+
+January 30, 2017
+
+By Jennifer Bresnick
+January 30, 2017 - Investing in a population health management system is a big financial and cultural commitment for most healthcare organizations, and not one to be undertaken lightly. 
+With workflow worries, integration concerns, and data integrity issues all contributing to the odds of successfully transitioning to a patient-centered mindset, organizations are advised to be very deliberate when selecting a vendor.
+Yet at the start of 2017, a whopping 81 percent of providers are moving forward with population health management (PHM) initiatives without a technology package that will help them achieve their patient care goals, says Black Book Market Research.
+As value-based reimbursement continues to gather steam and regulatory programs push for a patient-centered point of view, providers will likely need to take a more comprehensive and strategic approach to developing the health IT infrastructure required to succeed in a pay-for-performance world.
+And they may not have to look too far afield to do so, says Black Book.  A series of new provider surveys reveals that many companies already well-known to the industry, including Allscripts, Epic Systems, Cerner Corporation, IBM Watson Health, Optum, and Evolent/Valence Health, are delivering the value, big data insights, and customer service sought after by discerning providers.
+HOSPITALS ARE ILL PREPARED FOR THE POPULATION HEALTH ENVIRONMENT
+READ MORE: What Big Data, EHR Vendors Do Accountable Care Organizations Use?
+Hospital executives seem particularly unprepared to implement new care strategies and the population health management tools that support delivery reform, the surveys found, despite the glut of vendor choices available to them. 
+Seventy-seven percent of the 6607 respondents have no strategic plan for developing end-to-end PHM solutions due to lack of qualified staff and internal know-how. 
+Eighty percent of CIOs acknowledge that they do not have right staff in-house to architect and deploy a PHM program according to the organization’s vision.  Approximately half of respondents are experiencing difficulties attracting qualified PHM experts, and 90 percent anticipate that those problems will continue in the near future.
+And even though 84 percent of hospitals are currently working on infrastructure and process improvements slated for the next 12 to 18 months, less than 20 percent of those organizations have begun a comprehensive vendor selection process.
+“Next generation population health management will not be achieved via old-school directives to cut staff, slash expenses, and pushing PHM work with the lowest-cost tech vendor,” said Doug Brown, Managing Partner of Black Book. “The new era of how providers get paid is going to impact the entire organization, and most hospitals aren’t remotely prepared for it.”
+READ MORE: Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+Despite the widespread lack of active strategic planning, the vast majority of providers agree on what they would like to accomplish with their population health management tools – as soon as they manage to acquire and implement them.
+Ninety-eight percent of respondents stated that they are prioritizing vendors that deliver information-powered clinical decision making.  Ninety-six percent want to develop a clinical workforce led by primary care providers, and 93 percent are eager to integrate patient engagement techniques and the broader community into their new care strategies.
+CHOOSING THE RIGHT PRODUCTS TO BRING A RETURN ON INVESTMENT
+Black Book divided its rankings between two major categories: EHR vendors that offer population health tools as part of their overarching IT strategy, and best-of-breed solutions from companies that focus on dedicated PHM products.
+Organizations are constantly debating the merits of each path.  Some prefer to seek tools developed by their existing electronic health record vendors, since they believe that integrating these new modules into the health IT workflow will be easier than trying to connect a system from a different developer.  Others prefer to search out tools from companies with a population health management pedigree and proven expertise in the big data analytics required to power this class of solution.
+Small hospitals, including community and rural facilities, are significantly more likely than larger providers to seek out a single, combined EHR and PHM solution, while bigger systems tend to feel more comfortable with the idea of creating a seamless collection of bolt-on packages tied to a core EHR offering.
+READ MORE: How to Get Started with a Population Health Management Program
+Physician practices followed a similar pattern, Black Book says.  Seventy-nine percent of practices with fewer than ten physicians and 70 percent of groups with between 11 and 29 physicians preferred the all-in-one route, compared to just 59 percent of organizations with more than 50 physician members.
+Organizations that are happy with their EHR vendors, including 84 percent of Allscripts clients, 81 percent of Cerner users, and 77 percent of Epic customers, are planning to adopt the population health management solutions offered by these core EHR or financial systems provider.
+These three companies ranked highest in customer satisfaction for their PHM solutions, as well, which indicates that providers’ loyalty can pay off by delivering a quality experience.  Rounding out the top five are athenahealth and NextGen.
+Source: Black Book Market Research
+But best-of-breed packages also have a lot to offer.  While the two categories were marked using slightly different criteria, the top ten best-of-breed companies boasted aggregate consumer satisfaction scores nearly half a point higher than the top ten companies primarily offering EHR systems.
+IBM Watson Health took first place in this category, followed by Evolent/Valence Health, The Advisory Board, Optum, and Philips Wellcentive.
+Source: Black Book Market Research
+Interestingly, the majority of companies included in the Black Book ranking also appeared in similar order on KLAS’s population health management evaluation released earlier in January. 
+Notably different, however, is the fact that Epic and Cerner received more or less tepid reviews from KLAS, whereas Black Book respondents gave both companies higher marks.
+CREATING VALUE BY ALIGNING VENDOR COMPETENCIES TO PROVIDER SKILL LEVELS
+Hospitals are looking to solve specific challenges and overcome some shared barriers by purchasing PHM products.  While larger hospitals and health systems have largely figured out how to implement data warehouses and engage in some level of analytics, smaller organizations still have these tasks on their plates.
+The survey found that 79 percent of small and rural hospitals are experiencing challenges with setting up a data warehouse and integrating disparate sources of information.  Eight-eight percent cited analytics as a key barrier, and 68 percent said that interoperability was still a struggle.  Likewise, 68 percent of community hospitals are still working to get their analytics programs off the ground.
+Source: Black Book Market Research
+“In order to maximize the value and benefits of a PHM solution, it is imperative that providers and payers master the art of data capture,” said Brown. “Collecting continuous data on whole populations, from the sick to the healthy, will help fuel the immense data appetite for next-generation PHM solutions.”
+These organizations may be best served by investing in a PHM offering that scored highly on the ability to align well with customer goals.  On the core EHR side, Allscripts, Cerner, athenahealth, MEDITECH, and NextGen received top marks for strategic alignment.
+In the best-of-breed category, the most highly regarded companies included IBM Watson Health, Evolent/Valence, Optum, Deloitte, and The Advisory Board.
+Meanwhile, larger organizations more experienced in the basics of big data might wish to partner with vendors who have a reputation for innovation. 
+Cerner, athenahealth, Allscripts, Epic, and NextGen comprised the top five in the EHR report, while IBM Watson Health, Evolent/Valence, Philips WellCentive, The Advisory Board, and Caradigm also won accolades for their innovative end-to-end PHM tools.
+Organization on a budget might want to consider Enli, eClincialWorks, NextGen, or Philips Wellcentive, all of which scored top marks for their adaptability, scalability, and flexible pricing. 
+For those in need of a little more hand-holding during rollout, Cerner, athenahealth, MEDITECH, and Epic are the best bets on the EHR side.  Best-of-breed vendors Evolent/Valence, IBM Watson Health, Philips Wellcentive, and The Advisory Board earned high scores for customer support.
+LAYING THE GROUNDWORK FOR SUCCESS WITH CONSULTANTS AND ADVISORS
+Healthcare providers who are still not sure about which path to take may want to enlist the aid of a consultancy, Brown suggests.
+"A big reason why consultants will be experiencing this surge of PHM and VBC engagements is the lack of qualified PHM leaders compounded by the confusion of already-owned technologies that most provider organizations can't optimize on their own," he said.
+Seventy-nine percent of respondents to the surveys indicated that they are considering partnering with a consulting agency to guide their implementation plans and help them get started on the road to value-based care.
+Premier, Inc. scored the top overall spot for customer satisfaction, followed by The Advisory Board, Evolent/Valence, Deloitte, Optum, and Accenture.
+“As payment models continue to shift toward value and payers and providers assume greater risk, they will need tools to help improve collaboration and communication as they work to meet the Triple Aim (improve patient satisfaction and care quality while reducing unnecessary cost),” Brown said.
+Ninety percent of decision-makers asked about hiring consultants said they preferred an expert with knowledge about both population health management and revenue cycle management, indicating the growing alignment between clinical and financial success and the importance of having a comprehensive strategy for implementing and leveraging population health management infrastructure.
+Tagged Analytics InfrastructureCernerEHR Data AnalyticsEHR VendorsEpic SystemsPopulation Health ManagementValue Based Care
+
+

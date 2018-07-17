@@ -1,0 +1,25 @@
+Announcing Oxygen – The First Crypto Repo Trading Platform
+
+01 Feb 2018
+
+Oxygen Will Provide Holders of Crypto Assets Opportunities To Earn Income, Raise Liquidity And Take Directional Investment Views Across A Range Of Cryptocurrencies, Coins And Tokens
+Oxygen has announced the launch of the world’s first decentralized repo trading platform for the crypto economy. Repos (repurchase agreements) are a widely used tool across traditional asset classes. Oxygen will provide holders of crypto assets opportunities to earn income, raise liquidity and take directional investment views across a range of cryptocurrencies, coins and tokens.
+Oxygen has been created by the founders of Changelly, a market leader in instant cryptocurrency exchange services with over 1.6 million users, and a team headed by CEO Alex Grebnev, an experienced financial markets professional who has held senior leadership roles at Bank of America Merrill Lynch and Goldman Sachs.
+A repo is an agreement to sell securities and repurchase them on a specified future date (“maturity”) at a pre-agreed price. Repos facilitate the funding of long positions, the borrowing of assets to cover shorts, collateral re-usage, efficient portfolio management and safe (collateralized) cash investment.
+Oxygen is targeting a broad range of crypto asset holders with a variety of economic goals:
+Token holders (including strategic investors and miners) seeking to post their assets as collateral to free up capital or earn income;
+Speculators and market-makers aiming to benefit from price volatility and to capture arbitrage opportunities;
+Early post-crowdsale entities with idle crypto assets, that could be lent against collateral, providing income generation;
+Tokenomy-powered / Tokenomy-anchored businesses demanding liquidity and liquidity management tools to deploy liquidity surpluses, or to cover liquidity gaps;
+Crypto investment funds seeking interest income through the lending of their portfolio assets (while retaining exposure);
+Crypto exchanges looking to provide more trading options to their clients.
+In а CryptoRepo transaction, one party borrows crypto assets from another party and commits to return these assets with interest at a future date. The Borrower provides crypto assets to the Lender as collateral, creating a secured digital transaction using an Ethereum-based Smart Contract. Oxygen will utilize decentralized exchange technology to bring crypto investors and traders the full benefits of repo.
+The Ethereum-based Smart Contract at the heart of Oxygen is based on GMRA, a tried and tested legal framework that supports the $12 trillion global market in repo.
+Oxygen’s smart contract does not rely on a third-party at any stage and its conditions cannot be changed without the mutual agreement of the two parties. All user private keys are held by client-side applications, and the Oxygen platform does not have access to user assets.
+The smart contract acts as a custodian, clearing and settlement system, and forms the core of transaction processing. Once a repo trade has been matched, Oxygen records the transaction in the smart contract on the Ethereum blockchain network. From that point on, users interact with the smart contract directly using its fixed Ethereum address. The Borrower and Lender settle collateral and loan assets by transferring them to the smart contract address. The smart contract locks the collateral, sends the loan asset to the Borrower’s Ethereum address and tracks all ongoing transactions.
+Oxygen comprises a comprehensive range of peer-to-peer exchange features, including an AI-based risk management toolkit, community-driven order book, an order processing engine, a user-rating system based on repayment history, and an API for B2B integration. Client-side applications include a set of web-interfaces and support all major extensions such as Parity UI, Metamask and MyEtherWallet.
+The platform will support ether and all ERC20-compliant tokens, with a combined market capitalization greater than $120 billion. Once a robust cross-chain solution appears on the market, it will be integrated into the platform, making Bitcoin, Litecoin and other blockchain-based cryptocurrencies available as well.
+Oxygen aims to serve both B2C and B2B markets. It will offer repo to the existing 1.6 million client base of Changelly, and then integrate the platform into financial market infrastructure to win broad acceptance among potential B2B repo users.
+Oxygen is applying to be regulated under the new Distributed Ledger Technology regime in Gibraltar and aims to register as an Alternative Trading System (ATS) in the US. The Oxygen crypto repo marketplace will be powered by OXG, a multi-purpose utility token, which will be used as an internal currency to cover platform commission fees and as a tradable asset within the platform.
+
+

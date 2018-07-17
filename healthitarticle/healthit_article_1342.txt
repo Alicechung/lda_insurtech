@@ -1,0 +1,40 @@
+Last Minute ICD-10 Testing, Preparation Tips for Providers
+
+July 24, 2015
+
+By Jennifer Bresnick
+July 24, 2015 - As October 1, 2015 draws ever nearer, CMS is ramping up its efforts to provide ICD-10 testing and preparation know-how to providers who may be trying to sprint towards the finish line.  
+Despite the fact that there are only 68 days until the deadline, there is still time to prepare for ICD-10 and its increased documentation and technical requirements, CMS has stressed in a series of emails to healthcare organizations.
+Prepare a testing and implementation plan
+ICD-10 may include a large number of new codes to choose from, but HIM experts recommend that healthcare providers focus only on their top 10 or 20 percent of diagnoses and procedures in order to make the transition a manageable one.  Very few providers will need to master the entire spectrum of tens of thousands of ICD-10 codes, so keeping a narrow focus will ensure that coders and billers understand their territory thoroughly.
+After identifying the codes most likely to be used, providers should examine their workflows to pinpoint areas that may be affected by the ICD-10 switch.  Organizations should also continue to push clinical documentation improvement for physicians and other providers to ensure that patient notes contain the level of detail and specificity required to support an accurate ICD-10 code. 
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Even though CMS has announced that it does not plan to deny claims for minor ICD-10 accuracy mistakes during the first few months of implementation, clinical documentation must be complete enough to allow coders to select an option from the right code family.
+“If you don’t have an ICD-10-ready system installed yet, you can still conduct meaningful testing,” CMS reminds providers in an industry email. “Consider volume of conditions and those that account for most of your revenue. Look at recent medical records for patients with these conditions and try coding them in ICD-10 for practice. Do the records include the documentation needed to select the correct ICD-10 code? You can use any cases of insufficient documentation to create a checklist for clinicians to consult.”
+Ensure technical systems can handle the requirements
+Healthcare organizations that have not yet participated in acknowledgement testing or end-to-end testing with Medicare or their private payers can still conduct checks on their technical systems to make sure they can send ICD-10 claims. 
+CMS suggests that providers ensure that their coding systems can complete the following tasks:
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+• Generate a claim
+• Schedule an outpatient procedure
+• Perform eligibility and benefits verification
+• Prepare to submit quality data
+• Schedule an office visit
+READ MORE: Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+• Update a patient’s history and problems
+• Code a patient encounter
+Providers may take advantage of Medicare acknowledgement testing at any point until October 1, 2015, with no need to schedule a special testing period.  Acknowledgement testing does not produce remittance advice, but does verify that a claim can be accepted and adjudicated by CMS systems.
+When conducting testing programs with Medicare, clearinghouses, or private payers, CMS suggests that providers take these steps:
+• Review testing requirements to understand the scope and format of the testing available
+• Focus on your highest-risk scenarios, such as claims processing and the diagnoses you see most often
+• Prioritize testing with health plans, concentrating those that account for the majority of your claims
+• Avoid common billing errors, such as an invalid National Provider Identifier (NPI), invalid Health Care Procedure Coding System (HCPCS) codes on professional claims, or invalid postal ZIP codes on professional claims
+During recent ICD-10 end-to-end testing weeks, many of the rejected claims submitted by participating organizations were denied due to these administrative errors, not due to incorrect ICD-9 or ICD-10 coding.
+Take advantage of industry education and free CMS tools
+The healthcare industry has always been divided on the potential benefits of ICD-10, but health information management organizations and other stakeholders have tried to smooth the process by developing educational tools and free resources for providers making the switch.  As the clock ticks down to October 1, 2015, providers can still utilize these training and implementation outlets to help them navigate the transition. 
+Providers who do not have access to ICD-10 compliant billing systems may download free billing software from their Medicare Administrative Contractor (MAC), use an online portal if they operate in a jurisdiction where the tool is available, or even submit paper claims if they meet certain criteria.   
+The CMS Road to 10 website also includes guidance and education about the ICD-10 transition, with resources tailored to specialty practices and a calendar of local training events and seminars.  Providers may also explore the ICD-10 MS-DRG Conversion Project, which contains information on General Equivalence Mappings (GEMs), cross-walking, and other ICD-9 to ICD-10 conversion processes.
+Healthcare organizations may also wish to sign up for the CMS ICD-10 email list, which provides industry updates, quick tips, and reminders to carry organizations through the final days before the transition date.
+Tagged Health Information ManagementHealthcare Data GovernanceICD-10
+
+

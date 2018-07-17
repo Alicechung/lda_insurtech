@@ -1,0 +1,41 @@
+Is it time for financial services to embrace robots?
+
+February 23, 2018
+
+Is it time for financial services to embrace robots?
+
+ By Iya Datikashvili, Director, Brickendon
+
+ The UK is becoming an automated economy, and we believe 2018 will be the year that automation becomes the norm across the financial services sector. Technologies such as artificial intelligence (AI) and robotics are growing up and now performing tasks that were once carried out by teams of individuals, saving companies time and money, and increasing their competitive edge.  One such technology is Robotic Process Automation (RPA), a software robot or ‘bot’ that mimics human activity by carrying out routine processes. Many people believe that RPA has the potential to unlock significant value within a company by performing a range of complex, time-consuming and repetitive functions, thus freeing up employees to focus on value-added work and ultimately, overhauling archaic systems and transforming the way the financial services sector operates.
+
+ The key is to embrace these developments now. Financial institutions, including banks that fail to engage and incorporating technological advancements, such as RPA, risk falling behind.
+
+ With overwhelming amounts of information on the subject and conflicting opinions saturating the market, now is the time to comprehensively assess whether RPA can improve the financial services sector.
+
+ What is RPA?
+
+ Defined by the Institute for Robotic Process Automation & Artificial Intelligence (IRPAA) as the application of technology that allows employees to configure computer software or a robot to capture and interpret existing applications for processing a transaction, manipulating data, triggering responses and communicating with other digital systems, the advantages of incorporating RPA into your business processes are many. In a bank, RPA has the potential to reduce the number of operational errors; increase efficiency as robots can operate 24*7; reduce costs as all the people involved in the manual processes can be replaced by a single programmed bot; add scalability, as the number of bots can be increased or decreased based on operational volume needs; increase customer satisfaction due to a faster turnaround; and improve accountability as the audit logs of robot operations would be constantly available.
+
+ Implications for the future
+
+ Does this really mean that in the future all humans will be replaced by machines and that robots will eventually try to take over the world in the style of the Terminator movies?
+
+ In reality, the answer is no. The intention behind RPA implementation is to ensure organisations are able to better utilise their employees in areas that add value to a firm’s operations and delegate the repetitive tasks to automated machines. The ‘bots’ need to be programmed to replicate the human actions required in the process, while humans are also required to provide support and supervision to ensure any issues which may impact the process, such as network failure, a ‘bot’ crash due to error, or exceptions in the operations, can be dealt with.
+
+ Is RPA for you?
+
+ Not all business operations would qualify to be automated using RPA. Firms will need to assess their operations to establish selection criteria for processes which can be automated. Some questions to consider are: does the input have a defined structure; is it a standardised process; is the re-work rate high due to a large amount of manual/human error; does the process have to be replicated in multiple geographical locations and require support teams; is 24*7 support required?
+
+ The tools which enable RPA are proprietary and licensed, meaning the process of adoption can be costly. As a result, organisations need to assess their business-as-usual (BAU) processes for the suitability of RPA application and then develop a strategy to determine how to introduce RPA for the candidates identified, as well as performing a Return on investment (ROI) assessment and ensuring the most appropriate tools are selected.
+
+ Ultimately, firms should only adopt RPA if it provides substantial benefits in the longer term, but given the aforementioned advantages that can be reaped, there is no doubt that for the right projects, the ROI will outweigh the initial costs and investments.
+
+ One thing to note is that thus far, the bots used for RPA can only demonstrate intelligence based on what they are programmed for. However, constantly evolving technology has introduced innovations like Artificial Intelligence (AI) which can empower the bots to adapt to issues and behave accordingly within business processes, i.e. enact remediation actions. So, while there may currently be limitations, the opportunities for future developments are vast.
+
+ Functions of businesses such as procurement, supply-chain management, accounting, customer service, HR, purchase-order issuing, and generally any other process area where tasks are manual, repetitive, standardised, and rule-based and involve structured data, could also benefit. In IT, RPA can be embedded within support and management operations like network monitoring, service-desk operations, and automated customer assistance. Typically, these operations are essential to keep organisations operating effectively, though they are often overlooked when it comes to funding because they do not necessarily generate revenue.
+
+ So what’s next?
+
+ The key is to assess your options. There is no doubt that as RPA becomes an increasingly popular buzzword, its benefits merit further consideration. After all, automating even just a few of the vast number of processes necessary to make a bank function would enable organisations to improve their operational efficiencies and reduce costs – and in the end, cost and efficiency are what matters most to businesses.
+
+

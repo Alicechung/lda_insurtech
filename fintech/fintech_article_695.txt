@@ -1,0 +1,63 @@
+Regtech for regulators: re-designing of the regulatory architecture
+
+July 25, 2017
+
+Consumer-facing fintech has received most of the attention from the public, but behind the scenes regtech has been generating conversation and excitement. Innovate Finance’s Transatlantic Policy Working Group (TPWG) and Strategic Partner Hogan Lovells, launched a report titled Future of regtech for Regulators, Adopting a Holistic Approach for the Digital Era Regulator.
+
+ This report focuses on the greater potential of regtech for regulators. Representing a broader promise to encourage a ‘systems evolution’ or redesigning of the regulatory architecture including digital financial infrastructure (DFI), which may encompass anything from payment systems to shared reporting utilities.
+
+ Becoming the leaders of digital changes
+
+ A recommended regtech framework to help regulators become leaders of digital changes is outlined in the report. It includes three broad approaches, which can be implemented alone or in tandem:
+
+ • Ecosystem – Government engaging with industry, such as LabCFTC in the U.S. and the Financial Conduct Authority’s regulatory accelerator can help identify new technology and market developments, allowing regulators to work closely with technology innovators and understand any process and regulatory infrastructure adjustments that may need to be made.
+
+ • Digital Financial Infrastructure – Implementing new technologies, such as real time reporting, shared utilities, or application programme interface (API) architecture, can help facilitate the streamlining of banks’ submission of applications, payment settlement, and securities clearing.
+
+ • Rule and Process Changes – Implementing new rules and processes to encourage and allow innovative solutions to regulatory compliance issues, both for the regulator and for industry This could include defining new regulations in a machine-readable format that can be applied automatically, or adjusting a handbook to accommodate the application of new technology such as blockchain compatible data protection or identity rules.
+
+ Commenting on the report, Daniel Morgan, Director of Policy and Regulation at Innovate Finance, said: “The first wave of RegTech has focused on market driven process automation in the face of ever increasing costs of compliance for financial institutions. The second wave of systems evolution will also fundamentally reduce the cost and burden of regulation and will require a radical rethink of regulatory processes.”
+
+ “Regulators are already making this transition and while this future is some years from becoming reality, only by pursuing a holistic approach to technology-enabled regulation will regulators move beyond adapting and automating existing practices and start to reimagine rules and process fit for a digital age,” Lawrence Wintermeyer, CEO of Innovate Finance, noted.
+
+ Richard Schaberg, Partner and head of Hogan Lovells U.S. Financial Institutions Practice Group, believes: “FinTech, RegTech, and innovation, generally, have the potential to radically transform the U.S. and global financial systems. U.S. regulators have, so far, remained more cautious than some of their international counterparts in embracing technological innovation in financial regulation. The Report provides insight into the international efforts to encourage and deploy new ideas and techniques for regulatory compliance and outlines the steps the U.S. can take to fully integrate the evolving and essential features of RegTech into our own systems.”
+
+ The Future of RegTech for Regulators, Adopting a Holistic Approach for the Digital Era Regulator was presented in Washington, D.C. at a TPWG gathering, hosted by Innovate Finance and Hogan Lovells. Launched in 2016, the TPWG brings together leading U.S. FinTech companies to help foster an open, collaborative, and inclusive dialogue with respect to FinTech policy approaches and frameworks in the UK, U.S., and around the world.
+
+ 
+
+ The Sandbox approach
+
+ A big part of the research was dedicated to sandbox approach. The uses of sandboxes, industry or regulatory, do not necessarily require rule change (although some jurisdictions have passed new legislation in order to set up a regulatory sandbox). They do however represent a mechanism which may enable regulators to better identify where appropriate rules might need to be adapted, or where regulatory processes may require amendment. As such, the Sandbox approach to Iterative innovation shares elements of the Ecosystem, Infrastructure and Rule Change framework.
+
+ 
+
+ a. Regulatory Sandboxes are increasingly being deployed as a means to support the growth of emerging sectors such as FinTech, thereby furthering regulators’ owns internal understanding and providing a mechanism for limited regulatory relief to innovative solutions. A Regulatory Sandbox can broadly be described as a unit, which typically sits within a country’s conduct regulator, and evaluates the need for FinTechs to conduct controlled market tests under less stringent regulatory requirements. The solution borrows inspiration from the pharmaceutical industry and the tiered process for testing new drugs. Regulatory Sandboxes sit on the border between an ecosystem approach and infrastructural change in regulatory innovation. On the one hand, Regulatory Sandboxes allow regulators to engage entrepreneurs more quickly and at a lower compliance cost, in a controlled setting. On the other hand, Regulatory Sandboxes constitute a process / infrastructural change, on the path towards reforming the authorization procedure. There are 19 such Regulatory Sandboxes in various forms of development globally, with those in the UK and Singapore are considered the most advanced.70 Although these sandboxes vary in scope and maturity, most have the objective to assess the consumer impact of a solution, and to evaluate if the regulatory framework needs to adapt to allow it full market access. The end goal is to create further choice and competition in financial services, balancing the twin aims of promoting innovation while ensuring continued consumer protection.
+
+ 
+
+ b. Sandboxes, however, extend beyond a purely regulatory-focused endeavor. In the UK, Innovate Finance (invited by the FCA) sought to further research into this area by chairing a consultation into so-called “Industry Sandboxes.” These are collaborative digital platforms that would make it easier for firms testing a product, and those providing an asset (e.g. data, APIs, off-the-shelf technology solutions, etc.) to work alongside one another in order to prove the viability of an innovative solution. Industry Sandboxes, therefore, provide a different solution to their regulatory counterparts. They are typically operated by industry players and would be used for testing in an off-market environment. Furthermore, any regulated solution would still need to secure the appropriate regulatory permissions to go to market, which in turn may involve going through a Regulatory Sandbox. Responses to the consultation also strongly indicate that there is a demand for regulators to play a part in an Industry Sandbox.
+
+ Five broad areas of participation highlighted by respondents, included:
+
+ 1. Engaging in curated dialogue with Sandbox participants where there is uncertainty around the regulatory approach to an innovative solution.
+
+ 2. Reviewing Industry Sandbox tests in applications to Regulatory Sandboxes, authorization or supervisory decisions.
+
+ 3. Leveraging an Industry Sandbox to test RegTech solutions for regulatory use.
+
+ 4. Considering Industry Sandbox output towards rule change / policy development.
+
+ 5. Providing a forum for international regulators and developers of innovative solutions to discuss divergences in regulatory approaches and the potential for alignment.
+
+ As a result, the consultation recommended that regulators participate as observers in Industry Sandboxes via dedicated “Observer Forums.” Such engagement should add to the ongoing global regulatory initiatives at an ecosystem or infrastructure level.
+
+ For more information on the Industry Sandbox Consultation visit www.industrysandbox.org and contact sandbox@innovatefinance.com
+
+ To get research follow http://new.innovatefinance.com/tpwg/
+
+ In a partnership with Innovate Finance
+
+  
+
+

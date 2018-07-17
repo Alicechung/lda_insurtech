@@ -1,0 +1,54 @@
+Precision Medicine, Population Health Share Strategies and Goals
+
+March 14, 2017
+
+By Jennifer Bresnick
+March 14, 2017 - Any organization that wants to have a hope of functioning smoothly divides its operations into distinct departments, each of which is in charge of a specific process. 
+Every member of the team contributes to the organization’s ultimate outcome, but their day-to-day tasks tend to keep them siloed with likeminded peers, working busily on the intricacies of a narrowly-defined set of goals.   
+For healthcare providers, this strategy allows the creation of individualized teams to take on initiatives like precision medicine, population health management, and accountable care, all at the same time. 
+Divvying up the responsibilities lets organizations develop competencies in multiple areas without overwhelming every staff member with all the details and requirements of each program.
+Yet sometimes the divide-and-conquer process can backfire, leaving programs to run in nearly complete isolation without regard to what other components of the organization are doing. 
+READ MORE: How Precision Medicine Will Shift from Research to Clinical Care
+When it comes to the era of value-based reimbursement and patient-centered care, this could lead to unintentional competition or duplicated effort between initiatives that are, in fact, complementary.
+“Population health and precision medicine have largely developed independently up until now, due in part to the idea that they’re at odds with each other,” said Jonathan Sheldon, Global Vice President of Healthcare at Oracle Health Sciences. 
+“There’s a notion that you can’t treat patients based on the details of their very unique genes if you’re also trying to divide patients into broad buckets of risk based on thousands of outcomes.”
+But that is a false dichotomy, Sheldon told HealthITAnalytics.com, and it could limit the development of both types of programs. 
+“If the population health community and the precision medicine community would talk to each other more, I suspect they would find that they have a great deal in common,” he asserted. 
+READ MORE: Will Personalized Medicine Hit Its Stride Within Two Years?
+“Precision medicine gives us the molecular tools to phenotype diseases, which you can then predict and manage at the population level.  Genomics gives you that level of precision that is often lacking in risk stratification algorithms.  They really enhance one another.  They’re not competitive in any way.”
+Many of the fundamentals of population health management, like the development of long-term relationships, holistic care, and meaningful patient engagement, are also critical to the success of personalized medicine, he added.
+“You can’t talk about genetics without also talking about the social determinates of health,” said Sheldon.  “Smoking, obesity, diet, access to care – precision medicine has to work in that context if it’s actually going to have an impact, which means we’re paying attention to all of the same things that the population health managers are looking at.”
+How to Get Started with a Population Health Management Program
+“A genetic test is just like any other lab test.  It’s no different than an A1C or cholesterol test.  It gives you information that you need to act upon within the broader clinical context of that patient.”
+READ MORE: Precision Medicine Partnerships Foster Promises of Breakthroughs
+Sheldon isn’t the only one who believes that precision medicine should expand its horizons.  In February, the National Institutes of Health (NIH) began a campaign to rebrand the Precision Medicine Initiative Cohort, unveiling the new All of Us Research Program instead.
+The identity shift aims to promote patient engagement and attract interest from minority groups who are typically underrepresented in clinical trials and research samples.  As part of the program, the NIH will also focus on collecting data about participants’ lifestyles, environments, and family histories.
+“Genetic and genomic information actually means very little without clinical data to support it and surround it,” said Sheldon.  “You can have a million genomes at your disposal to analyze and play with, but without that EHR data and patient-level data, you’re going to have a tough time translating that data into better outcomes.”
+“That’s why the Precision Medicine Initiative appears to be on the right track.  It is going to use a much broader lens, and it’s going to make data aggregation and analytics a central pillar of discovery.”
+This approach will become even more important as precision medicine continues to move out of the realm of research and into the routine clinical environment.
+Many large academic medical centers and health systems are already using genomic testing and personalized therapies as a matter of course for oncology care, neurology, prenatal testing, and general risk profiling. 
+How Precision Medicine Will Shift from Research to Clinical Care
+In August of 2016, HIMSS Analytics found that close to 30 percent of organizations have precision medicine programs in place.  The vast majority of those providers were academic centers, multi-hospital systems, or organizations with more than 500 beds.
+“At this point, the technology is so easily available in the bigger health centers that it almost becomes unethical for oncologists not to be taking genomics into consideration,” Sheldon said. 
+Community hospitals and specialty clinics are starting to architect similar programs, but with a slightly different viewpoint, he added.
+“For the big academic organizations, precision medicine in clinical care is part of a continuum of research.  But community hospitals who aren’t so interested in publishing to journals, they just want to be able to run a genetic test, get the result, and do something good for their patients.”
+“Not every organization can afford a big research infrastructure, and not every organization needs one.  What they will need are the tools that will allow them to treat a DNA test like any other test and make good decisions.”   
+In order for providers of all sizes and types to flourish, those larger centers with research powerhouses at their disposal will need to change their attitudes towards sharing data and combining their efforts to produce new innovations that can trickle down to community providers.
+While the Precision Medicine Initiative’s million-patient databank is intended to be accessible to the whole national community of researchers and developers, a handful of notable provider names have also started to gather their own massive datasets – and they get to set the rules for how the information is used.
+Geisinger Health System, UCSF, Kaiser Permanente, and Northwell Health have all launched biobanking initiatives in the past few years, collecting a wealth of specimens from tens of thousands of consenting patients within their care systems.
+As of a year ago, Kaiser Permanente already had more than 200,000 participants; Geisinger wasn’t far behind with upwards of 100,000 signups. 
+While these look like huge numbers on the surface, Sheldon points out that appearances can be deceiving.
+“When you start to examine the type of queries you need in order to get to specific answers, and the inclusion and exclusion criteria you need to apply, the data starts shrinking very rapidly,” he said.  “If you only want patients who have these six mutations and have congestive heart failure but don’t have diabetes, suddenly your one millions patients are down to just three.”
+“For that reason, among others, data sharing is critical.  No organization has it all in terms of patient cohorts.”
+The Difference Between Big Data and Smart Data in Healthcare
+Many of the private organizations engaging in biobanking initiatives have touted their intentions to share data with colleagues, and a rising number of national and international data sharing collaborations are proof that many stakeholders are taking openness and interoperability to heart.
+Still, the lack of clear incentives to share data – such as the value-based reimbursements that are starting to define the population health management ecosystem – can cause data holders to hesitate before opening up their stores to competitors.
+“For many research institutions, their data defines them,” said Sheldon.  “It’s a very precious asset.  An academic organization that wants to publish, secure grants, and attract top researchers has to guard their work very closely.  That’s the nature of academia.”
+But new opportunities are on the horizon, he added, as smaller organizations without R&D departments start to search for out-of-the-box precision medicine solutions.
+Research-heavy organizations are beginning to commercialize their analytics and clinical decision support methodologies, not just their data, said Sheldon. 
+By offering expertise and infrastructure instead of raw materials, research organizations could open a lucrative new market for themselves while spreading success to the entire care continuum.
+“We’re starting to see that it’s not the data that matters so much – it’s what you do with it,” he said.  “That could level the playing field a little by encouraging technical innovation instead of data hoarding as a differentiator.”
+“We’re at a critical juncture right now, and I believe we will start to see an acceleration of these types of initiatives as precision medicine becomes more familiar to the clinical care world.”
+Tagged Analytics InfrastructureGenomicsHealthcare InteroperabilityInterviewsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

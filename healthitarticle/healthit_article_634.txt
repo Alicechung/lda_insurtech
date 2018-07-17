@@ -1,0 +1,31 @@
+Big Data, Interoperability Top Black Book’s Trends for 2017
+
+December 29, 2016
+
+By Thomas Beaton
+December 29, 2016 - Providers looking to succeed in the value-based care environment will focus on developing and implementing big data analytics technologies that will help them gain an edge with population health management, a new Black Book survey says.
+In order to meet regulatory requirements in 2017 and beyond, such as MACRA and the upcoming third stage of meaningful use, healthcare organizations will need to continue to refine how they collect, use, and analyze big data during the first few months of the New Year.
+New expenditures on healthcare technology will be minimal
+Technology spending will see an average budget decrease of 13 percent from 2016 levels, Black Book said. Seventy-seven percent of hospital IT buyers expect mild spending for IT and IT staffing through Q1 and Q2 of 2017.
+Dig Deeper
+FHIR, Big Data to Support FDA Medical Device Development Network
+ONC Picks FHIR Health Data Aggregation App Contest Winners
+Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+Instead of purchasing new health IT tools, hospitals and healthcare providers will likely focus on maintaining their current tech infrastructures as well as optimizing EHRs and other systems for improved patient care.  
+Electronic data warehouses (EDWs) will help providers use big data better
+Ninety-four percent of hospitals under 200 beds admit they are not capturing the information they will need for actionable health population health analytics, the survey revealed. Seventy-two percent of financial executives also realize that their EHRs are not giving them the results to they need to achieve their goals with complex risk modeling and analytics to support value-based care.
+Data warehouses meet the challenge of organizing data from EHRs, financial activity, labor, supply chain, population health, and departmental activity. These data warehouses have the potential to drastically increase interoperability and help providers extract actionable insights from financial, administrative, and clinical datasets.
+Smaller providers are likely to keep holding off on interoperability spending
+Eighty-five percent of hospitals that are operating within siloed EHR networks do not plan to spend money on enhanced interoperability tools in 2017, the survey respondents said.  Similarly 88 percent of financially unstable hospitals with more than 100 beds are not planning to address existing challenges to their data access and interoperability problems within the next twelve months.
+And despite the growing popularity of the use of FHIR for data exchange, 94 percent of administrators in stand-alone hospitals are waiting for refinements to the draft standard before making additional investments in the HL7 protocol.
+Recruiting skilled big data analytics professionals will become more challenging
+Hiring big data experts to manage and enhance analytics infrastructure will be a significant challenge in 2017, Black Book predicts.  The market value for IT professionals and analytics experts has risen by nearly 25 percent in 2016, indicating ongoing competition for data scientists and other IT professionals with experience in the unique healthcare industry.
+While the majority of CIOs are not expecting to make many new hires in the next 12 months, those that are seeking new staff are expecting to offer compensation packages worth up to 50 percent more than they were in 2016.
+Interest in precision medicine will continue to grow
+Personalized care and precision medicine have already made headway within the federal government in the form of the 21st Century Cures Act and the Precision Medicine Initiative.  As funding opportunities continue to expand and new breakthroughs in personalized care trickle down to the clinical setting, providers will need to refine their data assets to meet the demands of precision applications.
+Black Book suggests that providers use 2017 to focus on improving data liquidity, enhancing data governance and interoperability competencies, and building experienced big data analytics teams that can prepare an organization for a precision medicine future in the years to come.
+Decoding the Top 10 Buzzwords of Healthcare Big Data Analytics
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Analytics InfrastructureEHR InteroperabilityFHIRHealthcare Data WarehousePrecision Medicine
+
+

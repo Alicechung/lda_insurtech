@@ -1,0 +1,37 @@
+Health IT Vendors, Providers Struggling with API Development
+
+January 12, 2017
+
+By Jennifer Bresnick
+January 12, 2017 - The application programming interface (API) is one of the most exciting developments in health data interoperability, says a new report by Chillmark Research, and enthusiasm for standards-based data exchange is at an all-time high.
+Yet several significant barriers still stand in the way of using APIs to their full potential, including a fragmented adoption landscape, deeply entrenched workflow problems, and market inertia that makes it difficult for innovations to break through the status quo.
+Technology developers and their trailblazing provider partners will be primarily responsible for demonstrating the use cases and share the best practices required to lead the rest of the industry into the API ecosystem, the report says, driving significant improvements in the sharing and use of electronic health records, population health management data, and the Internet of Things.
+“Healthcare decision-makers are keenly aware that applications can be more responsive to business and clinical needs and improve current care delivery and administrative processes,” says the report. “Clinicians and other healthcare users can’t understand why the revolution in consumer applications and in other industries is not happening in healthcare.”
+While electronic health records are now nearly ubiquitous, the industry has struggled to make the transition from collecting data electronically to leveraging that data to produce actionable insights.
+READ MORE: A FHIR Future Burns Brightly for Population Health Management
+Open APIs, which use standardized methodologies to bridge the gaps between disparate health IT applications, can speed that process along by making it easier to share data across the data siloes that currently limit communication and analytics.
+"Physicians in particular see APIs as a way to make EHRs more functional and user responsive. But it is not just EHRs where APIs can make a difference,” said Brian Murphy, lead author and researcher of the paper.
+“Almost every application in healthcare can benefit from more attention to the needs of healthcare users and the demands placed on their time and attention.”
+In a series of interviews with healthcare stakeholders, Chillmark found that respondents have ambitious visions for the role of APIs in the daily workflow, especially when it comes to engaging patients. 
+APIs could revolutionize the way providers create and access longitudinal care records, conduct patient-facing administrative processes, and enhance the collection and use of patient-generated health data through the Internet of Things and collaborative community groups.
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+“Expectations are high that APIs can improve the user experience, enhance app functionality and more fully utilize data across connected healthcare enterprises,” Murphy added.
+Developers have already started to work towards this optimal state of affairs, leveraging standards such as HL7’s Fast Healthcare Interoperability Resource (FHIR) in a number of innovative ways.  Although still a draft specification, FHIR has captured the industry’s imagination in recent months, and has become a byword for interoperability for many stakeholders.
+“There’s nothing right now that I’m aware of outside of FHIR that has any real marketplace energy,” said a health information organization.
+“FHIR is an enabler and has simplified some things that were getting really complex,” added a data integrator.
+But some healthcare providers believe that the progress has thus far been too slow to meet the pressing needs of the care community.
+READ MORE: Why Health Data Interoperability is Setting EHR Vendors on FHIR
+“Innovations take an awfully long time to get into the hands of practitioners and become regularly used,” said a representative of one academic medical center.
+Slower-than-ideal development cycles are not helped by the fact that many providers see a lack of focus in the API innovation world.  While many envision that APIs will eventually infuse all of the industry’s applications, many clinicians do not believe that they are seeing immediate benefits from the buzz around these new interfaces.
+“There need to be apps for patients and clinicians but the stuff that’s being developed isn’t actually meeting the needs of either patients or providers,” said a large independent practice association.
+Providers are eagerly awaiting applications that can improve the way they use electronic health records and can start to integrate the disparate data sources required for population health management – and its measurable cost savings – in a value-based world.
+“With healthcare providers the dollar absolutely rules everything,” a data integrator asserted. “So it’s most important to start with, ‘Can we make them money or save them money?’ Most likely the answer is going to be save them money. The most important types of applications are the ones that can cut directly to some of their major expenses.”
+Overcoming EHR market fragmentation – there may be more than a dozen different vendors in any given region, one payer pointed out – is vital for building the seamless big data environment that will enable additional advances in patient care.
+While a number of the largest EHR vendors, including Epic and Cerner, have committed to using FHIR and other API methodologies to connect data assets and enable smoother data sharing, the vendor community still has a great deal of work to do in order to leverage APIs in a way that makes sense for providers and patients.
+“It’s making the data actionable and not just getting a flood of data,” one participant stated. “Figuring out how to put it either into my EHR or in front of my clinicians in the right way – that’s where we sit today in 2016: moving from the flood of data to actionable data.”
+Vendors, and the large healthcare organizations with money to spend on new technology and the clout to influence their partners, will have to lead the way towards this vision, the report concludes.
+“Building and operating an API program will be a new undertaking for HIT vendors and healthcare organizations. It will be impossible to offer an effective way to build better systems of record or engagement without a developer support program built around APIs.”
+“Small healthcare organizations are waiting for large healthcare organizations to establish that API programs offer a path to applications that better support their goals. They need HIT vendors, and particularly the largest EHR vendors, to blaze the trail. The largest HIT vendors can do the industry a service if they can make APIs a bit more plug-and-play and a bit less massive IT project for providers.”
+Tagged Application Programming InterfacesEHR InteroperabilityFHIRPatient Generated Health Data
+
+

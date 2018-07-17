@@ -1,0 +1,19 @@
+IOHK on Smart Contract
+
+March 22, 2018
+
+The concept of smart contracts has grown considerably since the birth of Ethereum. We’ve seen an explosion of interdisciplinary research and experimentation bundling legal, social, economic, cryptographic and even philosophical concerns into a rather strange milieu of tokenized intellect.
+
+ Smart contracts are essentially two concepts mashed together. One is the notion of software: cold, austere code that does as it is written and executes for the world to see. The other is the idea of an agreement between parties.
+
+ So we have an object that combines software and agreements that has a deep semantic and scope concern, but one could add more dimensions. There is the question of establishing facts and events. The relationship with time. The levels of interpretation for any given agreement. Should everything be strictly speaking parsed by machines?
+
+ One could make a fair argument that one of the core pieces of complexity behind protocols like Ethereum is that it actually isn’t just flirting with self-enforcing smart contracts. There are inherited notions from the Bitcoin ecosystem such as maximizing decentralization, maintaining a certain level of privacy, the use of a blockchain to order facts and events. Let’s not even explore the native unit of account.
+
+ A less opinionated effort has come from the fintech world with both Christopher Clack’s work on Smart Contract Templates and Willi Brammertz’s work on Project ACTUS. Here we don’t need immutability or blockchains. The execution environment doesn’t matter as much. It’s more about consensus on intent and evaluation to optimize processes.
+
+ What about the relationship of smart contracts with other smart contracts? In the cryptocurrency space, we tend to be blockchain focused, yet this concept actually obfuscates that there are three data domains in a system that uses smart contracts.
+
+ The blockchain accounts for facts, events and value. There is a graph of smart contracts in relation to each other. Then there is a social graph of nodes or things that can interact with smart contracts. These are all incredibly different actors. Adding relays into the mix, one could even discuss the internet of smart contract systems.
+
+

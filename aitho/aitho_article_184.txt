@@ -1,0 +1,19 @@
+Friendly Technologies Introduces The IoT Application Generator
+
+27 Jun 2018
+
+Friendly’s One-IoT Management Platform Now Comes With An Interactive Application And Dashboard Generator That Enables Easy Creation Of Applications For E-Health, Agriculture, Utilities, And More
+Friendly Technologies announced today the introduction of a new Application Generator for a range of IoT applications, including e-health, smart metering, smart energy, agriculture, smart building, smart city, and more.
+This addition to Friendly’s One-IoT Management Platform completes Friendly’s IoT offering, making it into a full IoT solution for IoT service providers.
+Friendly’s One-IoT™ Management Platform enables remote management of any type of IoT device, including constrained devices via standard protocols such as LwM2M, MQTT, and TR-069, as well as proprietary protocols. Friendly’s One-IoT™ Management solution provides automated provisioning and remote control of devices, and features a management Admin Console, Technician Portal, monitoring and analytics, rules and automation, dashboard, BI and Big Data analytics, and an extensive API for customization of vertical applications.
+Friendly’s new IoT dashboards enable visualization of data from devices, and supports analytics, alarm triggering (with complex event processing), delivery of data to other systems, and introduction of use-case specific features using customizable rule chains.
+Read More: Luxoft’s E-Voting Platform Enables First Consultative Vote Based On Blockchain In Switzerland
+Friendly’s IoT Platform and IoT applications are designed for carriers deploying IoT services, IoT service providers, IoT device manufacturers, and IoT system integrators.
+Friendly Technologies is a leading provider of carrier-class platforms for IoT, Smart Home, and TR-069 device management.
+Friendly has been providing TR-069 device management solutions to carriers and service providers since 2007. When IoT and the Smart Home first emerged, Friendly leveraged its experience and extended its offering to the IoT and Smart Home markets. Today, Friendly provides a unified IoT platform for management of LWM2M, MQTT, OMA-DM, and TR-069 devices – and a full solution for the Smart Home.
+Friendly’s platforms enable its customers to generate new revenue streams in the Smart Home and IoT markets, such as Utilities, Transportation, Smart cities, and more.
+Friendly’s traditional TR-069 ACS for carriers and xSPs improves the customer experience, reduces costs, provisions new devices, monitors QoE, and configures and updates firmware remotely, while offering data insights to service providers.
+Friendly Technologies, whose device management and IoT solutions are installed by over two hundred service providers and IoT companies worldwide, has been recognized by Frost & Sullivan as a Global Leader in Unified Device and Smart Home Management.
+Read More: Bancor To Launch First Blockchain-Based Community Currencies In Kenya
+
+

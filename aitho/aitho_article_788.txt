@@ -1,0 +1,14 @@
+IoTium Joins The OPC Foundation And Simplifies Rapid Scalable Deployment Of The OPC Unified Architecture To Industrial Enterprises
+
+23 Apr 2018
+
+ioTium Showcase Edge-Cloud Offering: Simplify and Secure Transport of OPC Data to the Cloud at Hannover Messe 2018.
+ioTium, the first commercially deployed secure Edge-Cloud infrastructure company for the Industrial Internet of Things (IIoT), today announced they have joined the OPC Foundation, the world’s leading community for industrial interoperability solutions developing and maintaining OPC specifications that deliver secure reliable interoperability. As a corporate member, ioTium’s Edge-Cloud offerings is now available to any enterprise customers using OPC in their environment. ioTium also participates with other OPC Foundation members in their work to provide the best and most widely used connectivity standards available.
+Thomas Burke
+“One of the most important factors for the success of IIoT is the secure data and information exchange between devices and services,” said Thomas J. Burke, president of the OPC Foundation. “The OPC Foundation is working with companies like IoTium to accelerate the deployment of OPC UA framework so as to have complete information integration addressing the complex requirement of IIoT.”
+More than 590 industry vendors and software developers contribute to developing the series of specifications for the OPC standard. OPC, the interoperability standard for the secure and reliable information exchange in industrial automation and the enterprise, ensures the seamless flow of information needed among multi-vendors and platforms.
+Ron Victor
+“Interoperability is critical to the success of IIoT” said Ron Victor, founder and CEO of ioTium. “We have developed a solution that would ensure rapid scalable deployment of IIoT using OPC; any machine, using any protocol, can instantly, seamlessly and securely be connected to any application residing in any cloud or data center through any network infrastructure and operator, while eliminating all deployment complexity issues and significantly minimizing network security risks. We are excited to be part of the OPC Foundation.”
+Becoming a corporate member brings iotium’s work in IIoT together with the OPC Foundations work developing and maintaining the OPC UA to empower the rapid deployment of the specifications to industrial enterprises. ioTium enables organizations to securely deploy and manage a wide range of services for diverse industrial environments with the single click of a mouse. The OPC UA is designed for the transport of data and information from first-tier factory and process control devices through to the enterprise information system.
+
+

@@ -1,0 +1,19 @@
+CloudHealth Technologies Announces Support For Microsoft Azure Reserved Virtual Machine Instances
+
+19 Apr 2018
+
+Leading cloud management platform now enables even more efficient, optimized Azure cloud environments
+ CloudHealth Technologies today announced that the robust Reserved Instance (RI) management capabilities of its cloud management platform now extend to Microsoft Azure Reserved Virtual Machine Instances. As a result, Azure customers can use the platform to reduce costs, save time and improve budgeting and forecasting over the full RI lifecycle.
+John Purcell
+“As companies increasingly rely on CloudHealth for RI lifecycle management, we are excited to extend our RI capabilities to Microsoft Azure customers,” said John Purcell, VP of Products for CloudHealth Technologies. “Further, the new Azure reservation support allows CloudHealth customers to quickly identify reservation purchase opportunities and take full advantage of the cost savings from Microsoft.”
+The CloudHealth platform offers several key features for managing Azure RIs:
+Virtual machine purchase recommendations: Users can apply one or more filters — including subscription, machine series, and region — to target a specific subset of their infrastructure for an RI quote.
+Pricing metrics: A “payback period” helps calculate the exact number of months it takes to see a price benefit, assuming 100% usage. This metric mitigates risk by identifying how long you must actually use a reservation in order to break even.
+Validate savings: CloudHealth enables customers to recognize savings from purchasing RIs, compared to running virtual machines on-demand.
+Amortization: The platform provides a report on how the one-time upfront cost is distributed over the useful life of the RI.
+Utilization: CloudHealth delivers insights into the usage of RIs over time, in order to identify RIs that are underutilized.
+Venkat Gattamneni
+Venkat Gattamneni, Director of Product Marketing, Microsoft Corp. said, “Reserving VMs in advance alongside Azure Hybrid Benefits saves customers up to 82 percent on compute costs. With RIs, our enterprise customers see great benefit in being able to budget and forecast better, as well as getting prioritized compute capacity. We are thrilled that CloudHealth enables them to take advantage of this value by further simplifying RI management.”
+   
+
+

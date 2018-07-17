@@ -1,0 +1,21 @@
+Lightelligence Raises $10 Million To Build The Next-Generation AI Hardware
+
+05 Feb 2018
+
+Lightelligence Will License the Technology Exclusively from MIT Technology Licensing Office
+Lightelligence, the world’s first AI hardware company, is developing nano-photonics based technology to accelerate AI computation and more broadly information processing by leveraging the power of light. – namely, ultra-low latency, high throughput, and extremely high power efficiency. Lightelligence is an MIT-spinoff company working on next-generation AI hardware. They recently announced seed round financing around $10M, backed by top VC investors and leading industry technologists.
+The technology was developed at MIT after years of research in nanophotonics, deep learning and optical computing. The founding team includes world-renowned professors, PhDs, experienced entrepreneurs and industry veterans in the field of semiconductors and consumer electronics.
+Lightelligence will license the technology exclusively from MIT Technology Licensing Office. The patents were filed when the founding team worked as researchers at MIT. The patents outline the foundation of the technology and cover the fundamental principle, component design, system design and algorithms.
+What makes Lightelligence’s technology unique?
+What makes the technology unique is the implementation of AI computing on a novel architecture based on the photonic circuit, rather than electronic circuit. This is the world’s first realization of deep learning neural network computing in a photonic integrated circuit. The technology was first published in Nature Photonics mid-2017 as a cover story, followed by a series of research articles about novel neuron network algorithms inspired by this hardware innovation.
+There are many areas where Lightelligence’s technology enjoys superior performance over competitors. On the cloud, their technology works as a co-processor to CPUs to accelerate deep learning training and inference. On edge devices, Lightelligence can develop powerful yet extremely low power systems to satisfy their stringent power requirement (e.g. drones).
+What is the context of AI computing?
+The concept of AI computing or AI computing acceleration has attracted a huge amount of academic and industry interests. Billions of dollars have been poured into developing efficient hardware to enable faster, energy efficient AI computing. This is evidenced by the following industry news:
+Nvidia is a direct beneficiary of AI computing where an increasing number of GPUs replacing traditional CPUs. Its stock enjoyed a 16x return over the 5-year period
+Intel went on a buying spree in 2017, acquiring 6 AI hardware startups including Nervana, Movidius and Mobile eye.
+Hundreds of millions of VC money were put into AI hardware startups including Cerebras, Wave Computing, Mythic in the US, Graphcore in the UK, and Cambricon, Deephi, Horizon Robotics in China.
+In contrast to Lightelligence, all of these companies work off electronic domain by inventing new architectures or optimizing data flow. While there are obvious reasons why electronic integrated circuits have enjoyed their dominance over the past, most of these efforts suffer the following limitations:
+Geometric scaling, otherwise known as Moore’s Law, is coming to an end. The latest technology at 10nm node is extremely expensive. The path beyond 5nm is obscure. This is to say, the scaling benefits enjoyed by electronic IC, speed-up by a factor of 2 every 18 months merely by the fact of manufacturing smaller devices, is becoming increasingly difficult moving forward.
+Von-Neumann architecture. The fabric of modern computers is based off Von-Neumann architecture, is proving to be inefficient for AI computing where statistical computing overshadows high precision logic computing.
+
+

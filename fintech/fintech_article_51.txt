@@ -1,0 +1,23 @@
+To be Truly Compliant with GDPR, Use a Blockchain that Facilitates the “Right to be Forgotten”
+
+June 27, 2018
+
+BTL Group CEO, Dom McCann comments on GDPR.
+
+ The “right to be forgotten” – a key element of the new GDPR regulation that has been dominating the news agenda for much of the past few months. As of Friday 25th May 2018, anyone should be safe in the knowledge that if they ask any organisation to have their personal data deleted, that organisation does so and if requested, can provide proof of such a deletion. This means even if you are standing in the queue to buy a Happy Meal from McDonald’s, you can ask to see the footage from the security camera records that have filmed you and request that they it is deleted from their systems.
+
+ In the wake of the Cambridge Analytica and Facebook debacle, how can individuals be truly satisfied that their data has been eradicated when requested. BTL recently judged a hackathon at the Consensus blockchain conference in New York, where we challenged developers to build applications on our Interbit platform that can delete data. We had teams that opted to use Interbit purely on the basis that they can build applications that allow data stored on our blockchains to be permanently erased. One such application was for predicting sports outcomes for betting purposes, where users could build betting profiles and be ranked according to their performance.
+
+ But blockchain’s immutable attribute means that any data stored on a chain cannot be deleted. This is particularly the case with public or open blockchains such as Bitcoin and Ethereum. Business requires blockchain technology to be more flexible and so we have built Interbit to be able to specifically meet GDPR’s requirement of the “right to be forgotten”. In fact, we would go as far as to say that you can only truly meet this requirement with such a blockchain solution. If we look back at our betting profile application that was built at Consensus, if a user wishes to leave the service, their entire profile and history could be deleted due to the way Interbit allows data to be segregated across multiple chains within single applications. Delete a chain, data is gone, for good.
+
+ It is no surprise that privacy is such a contentious issue at the moment. Recent research we commissioned highlights just this where 279 technology professionals in the UK and US said that ‘data privacy’ was their highest priority right now, ahead of ‘business operations’ and even ‘revenue growth’.
+
+ 
+
+ By segregating data across multiple private chains, not only does this facilitate compliance with GDPR, but total privacy of data can be achieved unlike with public blockchains where metadata is visible. There is also the inherent security that a blockchain network provides making it incredibly difficult to tamper with, steal or hack user data, without any need for backup. In fact, backups of systems are incredibly risky for businesses in today’s GDPR world as any deletion of data requires each and every system to be opened up and the data punched out from a number of different sources – such a technical headache goes away when using blockchain as the network automatically ensures all copies of any data that is to be deleted, is indeed removed.
+
+ How can you have multiple blockchains in any one application? Interbit’s unique “chain joining” capability allows this so where the business requires it, user data can be segregated accordingly across many different chains that can be joined (to use in technical jargon they are “interoperable”), which allows for total privacy and the ability to be forgotten.
+
+ Current computing systems are not well designed to operate and meet the guidelines set out by GDPR. They leak and where data is stored in just one place, it makes it an easy target for cybercriminals. The new computing paradigm of blockchain can ensure GDPR is implemented successfully.
+
+

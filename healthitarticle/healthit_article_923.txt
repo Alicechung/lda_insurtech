@@ -1,0 +1,36 @@
+How Will Internet of Things Devices Impact Precision Medicine?
+
+May 11, 2016
+
+By Jennifer Bresnick
+May 11, 2016 - Big data in the healthcare industry continues to expand at a breakneck pace as EHR data, patient-generated health data, clinical trial results, and Internet of Things data all pour into the system at ever increasing volumes.  But the bigger the data gets, the closer together it draws these disparate segments of the data-generation ecosystem, creating new opportunities for advanced analytics, precision treatments, and higher quality care.
+As new devices emerge and connectivity, interoperability, and standardization become increasingly important for developing a seamless pathway from clinical trial to personalized care, the FDA is hoping to take a leading role in charting the industry’s course towards a safe environment in which collaborative research can thrive.
+To that end, the FDA has solicited feedback from industry stakeholders about the role of Internet of Things technologies and innovative big data analytics in the clinical trial arena, where the development of precision medicine begins.
+In response to the request, the Association of Clinical Research Organizations (ACRO) has conducted a survey of its members, who advocate for ethical, valuable, and efficient medical research across the healthcare sector.
+The survey reveals a high level of optimism about the potential impact of big data analytics, IoT devices, and electronic health record data to recruit and engage patients, expand the meaningfulness of clinical trials, and produce better outcomes across the board.
+READ MORE: LG Health, Aspire Launch $300M AI, IoT, Precision Medicine Fund
+Within the next two to five years, ACRO survey respondents believe that direct data capture from medical devices, such as blood glucose monitors and heart monitors, are likely to produce a “substantial beneficial impact” on the precision medicine community as adoption of these tools increase.
+Risk based monitoring derived from wearables and other Internet of Things devices are also likely to see high adoption and even higher benefits by the end of the decade, and may contribute to the process of developing real-time big data analytics and recruiting patients to clinical trials through social media channels.
+“As the world moves from the fairly controllable and stable realm of enterprise-based technology applications, such as electronic data capture and Clinical Trial Management Systems applications, to the emergence of personalized or individual-based technology, this has the power to unlock powerful data streams if it can be leveraged properly and the industry is willing to adopt them,” ACRO says.
+The FDA has the opportunity to provide the guidance, standards, and foundation for cross-industry conversation that can smooth this transition and optimally leverage emerging technologies to improve the clinical trial process – if the FDA takes a strong leadership role in the immediate future.
+ACRO members stated that they hope the FDA will provide encouragement to industry stakeholders when it comes to trying new technologies or processes.  They also wish to see more opportunities for industry discussions, through the establishment of working groups and roundtables that will identify and address challenges that prevent researchers from leveraging big data and IoT devices.
+READ MORE: NIH Awards $9M for Open Source, Cloud-Based Big Data Commons
+“With the help of the FDA, more prescriptive guidance could be provided and working groups could be established to identify and address issues and implement standards,” the commentary says. “The driving of standards of data through these working groups would reduce variability and raise quality, particularly by the time we reach testing phases of a solution.”
+The idea of integrating wearables and other Internet of Things into the clinical trial process isn’t a new concept, the respondents indicated, but with the growing consumer interest in new devices, it is important to address the role of apps and other tools that allow for the collection and use of patient-generated health data.
+“The ability to collect data on trial participants between clinic visits provides important additional information about the effects of treatment and can supplement and sometimes replace data recorded during visits to study sites,” the report stated.
+“In addition, real-time access to these data enhances both subject safety and the monitoring of compliance during the trial, as well as providing data that can be rapidly accessed to enable the execution of adaptive designs.”
+However, the industry needs standards and guidance about how to best use these devices for the dual benefits of patients and researchers. 
+READ MORE: Broader Availability of Genetic Testing a Boon for Precision Care
+ACRO suggests that these devices include patient privacy and security measures, such as biometric protection or password protection for devices that are used intermittently to prevent non-participants from using the devices during a trial.  Data should be encrypted appropriately and secure data transmission methods should be employed to upload information to a study portal or repository.
+If wearables and other IoT devices can be properly secured, they present a number of important opportunities to precision medicine researchers, ACRO adds.
+Patient-generated health data provides a comprehensive look at the entirely of a patient’s daily activities, which may be more accurate than slices of data derived from artificial tests and assessments conducted in a clinic setting.  Real-time, continuous data streams also allow for better safety monitoring, larger volumes of data collection, and more objective data collection, the study adds.
+Engaging patients in research through devices and apps can also promote the “patient as sub-investigator,” which empowers participants to take an active part in research.
+Despite the potential benefits, the Internet of Things also presents some challenges, including the cost of devices, the lack of FDA approval for many consumer-grade gadgets, and logistics issues such as failed batteries, data syncing problems, or patient forgetfulness to wear a device.
+IoT devices may also overload researchers with irrelevant data or generate obstacles when it comes to validating certain data points from multi-measurement devices.
+Overall, however, the ACRO respondents believe that the Internet of Things and emerging big data analytics techniques hold great promise for clinical research, precision medicine, and patient outcomes.  If the FDA can develop meaningful guidance and impactful conversations for this rapidly growing segment of the industry, the medical research community could see significant value from integrating the IoT into their work.
+Dig Deeper
+Can Healthcare's Internet of Things Move from Froth to Function?
+Will the IoT Bring a Patient Engagement, Interoperability Revolution?
+Tagged Healthcare Internet of ThingsMedical ResearchPatient Generated Health DataPrecision Medicine
+
+

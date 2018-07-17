@@ -1,0 +1,20 @@
+Mapbox Announces $164 Million Series C Financing Led By The SoftBank Vision Fund
+
+10 Oct 2017
+
+Investment Expands Cloud-Based Map And Location Company Into Automotive And AR/VR
+ Mapbox, the mapping and location platform for developers, today announced a $164 million Series C funding round led by the SoftBank Vision Fund, with participation from existing investors including Foundry Group, DFJ Growth, DBL Partners, and Thrive Capital.
+Mapbox provides developers and businesses with maps, location search, and direction services that are specific to mobile, AR/VR, and web applications. Developers leverage Mapbox services across mobile devices, connected cars, and broader IoT projects.
+Mapbox currently has more than 900,000 registered developers. The platform has seen tremendous growth in its customer base, adding industry leaders such as Snapchat, The Weather Channel, Tableau, IBM, DoorDash, Mastercard, and Instacart, among other customers.
+This investment accelerates Mapbox’s business in three key areas:
+Building out an automotive unit, including in-car navigation and autonomous driving by expanding Mapbox’s deep learning and vision capabilities.
+Expanding Mapbox’s AR/VR/Gaming investments, specifically growing the Mapbox Unity SDK team.
+Accelerating its global expansion across Southeast Asia, China, and Europe.
+Rajeev Misra
+“Location data is central and mission critical to the development of the world’s most exciting technologies, from autonomous transportation to robotics through to AR and VR,” said Rajeev Misra, CEO of SoftBank Investment Advisors. “Mapbox has a unique platform using decentralized, anonymized sensors to map the world live. By investing in Mapbox, we are investing in the foundational infrastructure for the next stage of the Information Revolution.”
+Eric Gundersen
+“We are mapping and measuring everything,” said Eric Gundersen, CEO of Mapbox. “The SoftBank team understands that location data is transformational to every industry. Additional capital accelerates our speed of capturing the market. This is a step function move that will transform the fundamentals of how everything — people and goods — move through our world.”
+Mapbox collects more than 200 million miles of anonymized sensor data per day, and processes it in real-time, making continuous updates to the map — from live traffic, to adding new roads, to updating satellite imagery. The more apps use Mapbox, the greater the network effect across 350 million users.
+Instead of a standard map with pins, Mapbox enables developers to add proprietary datasets and customize every layer of the map. Snapchat uses Mapbox to let you and your friends share stories on a map. With Mapbox, the Weather Channel app lets you visualize storms and access forecasts in 2.4 billion locations worldwide. Through its cloud location services, native SDKs for mobile and auto, and custom map design tools, Mapbox powers everything from AR/VR experiences to ride-sharing applications, to business intelligence platforms.
+
+

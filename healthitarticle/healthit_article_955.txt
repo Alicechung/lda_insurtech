@@ -1,0 +1,34 @@
+Data Governance Can Help Improve Patient Matching Issues
+
+April 19, 2016
+
+By Sara Heath
+April 19, 2016 - Better data governance is necessary to reduce duplicate patient records and improve the process for patient matching, according to a new study published in Perspectives in Health Information Management, the online journal for the AHIMA Foundation.
+Duplicate patient health records and patient matching issues pose a serious threat to patient safety, because providers may consult with the incorrect patient chart, or input information into the wrong file.
+“Severe patient-care issues can occur and resources are wasted when systems are inundated with duplicate records,” wrote AHIMA. “Patient safety is a major concern for many organizations, yet it is necessary to increase awareness of the safety, legal, financial, and compliance concerns created by duplicate and overlaid medical records.”
+To contribute to mitigating patient matching issues, a group of researchers performed an extensive review of nearly 400,000 pairs of duplicate patient health records to determine the root causes for patient matching issues.
+The causes of duplicate patient health records included discrepant Social Security numbers, middle name entries, first and last name entries, date of birth entries, and gender entries. The researchers also determined that empty or default fields contributed to patient matching errors.
+READ MORE: Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+Of the above-mentioned errors, discrepant middle name entry was overwhelmingly the most commonly-made at a rate of 58.1 percent. Social Security number errors were also common, occurring in 53.4 percent of duplicate patient files.
+Overall, these results revealed that better data governance and data collection policy are necessary to improve patient matching. Because of their high rates of error, the researchers suggested that better policies for capturing middle name and Social Security number be implemented to better identify patients.
+Overall, this study demonstrates that duplicate patient record discrepancies are often due to a blank entry or a default entry in one of the key identifying fields, with the majority being in MN and SSN fields. Because of the complex nature of record matching and the decreased capture of an accurate, valid SSN, the MN is becoming ever more important to appropriately identify duplicate records. Additionally, name mismatches arise repeatedly as a result of misspellings or transpositions, accounting for 53.14 percent of all FN mismatches and 33.62 percent of all LN mismatches.
+With regard to better data governance, the researchers identified four key areas where the healthcare industry could improve data entry to boost patient matching rates.
+First, industry leaders should develop a set of standards to make data entry uniform. Instead of simply collecting patient names, industry standards should require providers capture first name, last name, and middle name in a specific format that is uniform across all care channels.
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+“Initial steps that can be taken to lessen the burden of duplicate records include partnering with colleagues in patient access to establish standard policies and procedures, such as patient searching protocols, standard name entry conventions, and questions that registrars can ask the patient in order to determine if the patient has ever been to the facility or practice before,” the researchers explained.
+Second, industry leaders should reinforce the frequency with which they collect patient data, updating potentially changing entry fields such as patient name, address, or phone number. These collections should also be standardized as to ease any burdens when potentially revising the data fields in the future.
+Third, providers should collect multiple data points, such as full patient name, Social Security number, and date of birth. When providers collect too few data points, multiple patients may be associated with the same health record, causing serious patient safety concerns.
+Fourth, providers must avoid default of empty data fields. When data fields are left empty, it is difficult for other providers to accurately match a patient to a record, often leading them to create a duplicate patient record.
+As stated above, the middle name and Social Security fields are often left empty. Providers need to be more persistent when collecting full middle name data, and should revise their approaches to collecting Social Security numbers.
+READ MORE: Hashed Health Blockchain Consortium Grows with Change Healthcare
+New collection approaches may include only asking for the last four digits of the Social Security number so to ease patient anxiety about disclosing the full number.
+Providers may also find it helpful to implement full staff and provider training in patient data collection, ensuring that they all have a firm grip on how to prevent duplicate patient files. Healthcare organizations should carefully monitor where duplicate patient files originate as a means to provide further training to staff who may need it.
+Several industry groups have also been contributing to the conversation about patient matching issues and duplicate patient records.
+Earlier this year, AHIMA led an industry-wide petition urging the federal government to approve a national patient identifier.
+AHIMA has also led research indicating that more than half of healthcare professionals struggle with patient matching issues on a regular basis.
+The College of Healthcare Information Management Executives (CHIME) has also emerged as a leader in the national patient identifier fight by hosting a challenge for health IT developers to create a scalable NPI. The prize for this competition, which has been put on for the past two years, is $1 million.
+“What percentage of the time do you want to be correctly identified when you walk into the hospital?” asked CHIME President and CEO Russell P. Branzell, FCHIME, CHCIO, in an interview with HealthITAnaltyics.com at the HIMSS 2016 conference. “How about your loved ones and family members? Is 99 percent good enough?”
+“You don’t want to have a one percent chance of not walking out of the hospital because someone looked at the wrong record. That’s just not acceptable to us and our organization, so we’re going to fix it.”
+Tagged Data CaptureHealth Data ManagementNational Patient Identifier
+
+

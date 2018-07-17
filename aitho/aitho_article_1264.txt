@@ -1,0 +1,21 @@
+Anexinet Enhances ListenLogic With Artificial Intelligence And Ensemble Machine Learning Capabilities
+
+08 Mar 2018
+
+New Improvements Turn Internal and External Unstructured Data from all Omni-Channel sources into Meaningful Sales and Customer Service Insights
+Anexinet Corporation, a leading provider of digital business solutions, announced the release of ListenLogic 3.0.
+ListenLogic 3.0 has been upgraded with over 20 new enhancements to more efficiently gather data across contact center records, social media posts, email conversations, marketing surveys and automatically return meaningful business insights. Significant improvements include new artificial intelligence (AI) and ensemble machine learning methods, self-service filtering language and classification engine as well as advanced natural language processing (NLP) that quickly analyzes unstructured data with precise accuracy.
+Mark Langsfeld
+ListenLogic automatically brings meaning to omni-channel customer feedback data by identifying patterns and trends which are often obscured by the immense amount of unstructured information spread across multiple systems.
+“Modern omni-channel insights frame how organizations transform themselves by listening to every customer interaction,” said Mark Langsfeld, VP of Analytics Solutions at Anexinet. “Anexinet brings the experience and solutions that ensures omni-channel insights grow sales, reduce customer churn, ensure compliance and drive contact center efficiency.”
+Below are highlights of the new ListenLogic 3.0 omni-channel analytics features:
+Advanced topic extraction using AI & machine learning, natural language processing, and regex classifiers to identify topics across all data sources – enabling organizations to diagnose not only what is happening in customer interactions, but why it’s happening.
+Sentiment analysis and entity recognition using proprietary and open source algorithms to understand the overall sentiment and label data by types such as person, organization, location, events, and products.
+Pre-configured industry dashboards and classifier libraries that address the most common uses cases for sales, churn and compliance to jumpstart time-to-value.
+Data connectors to a variety of data sources and destinations, send classified data to an internal visualization tool or build powerful apps using the ListenLogic API.
+On premise or cloud deployment leveraging proprietary data redaction that removes personally identifiable information for an added level of security.
+Self-service or fully managed, organizations can work directly on the platform or Anexinet can manage it and turn data into intelligent insights.
+Scott Bakken
+ListenLogic additionally integrates third-party voice-to-text, OCR and other transcription services to transform these datasets into actionable customer insights. Scott Bakken, co-founder of MainTrax, an independent leading provider of speech analytics services stated, “ListenLogic is a game changer for not only finding a needle in the haystack across every customer touchpoint, but also discovering unexpected gaps throughout the customer journey. Contact centers can truly enhance their customer experience using this new AI filtering capability.”
+
+

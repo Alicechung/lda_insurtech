@@ -1,0 +1,35 @@
+MIT Uses Deep Learning to Create ICU, EHR Predictive Analytics
+
+August 22, 2017
+
+By Jennifer Bresnick
+August 22, 2017 - Deep learning, a variant of machine learning that aims to mimic the decision-making structure of the human brain, can help to supplement the skills of critical care clinicians, according to a pair of new research papers from MIT.
+Researchers at the Computer Science and Artificial Intelligence Laboratory (CSAIL) believe that deep learning can underpin a new generation of predictive analytics and clinical decision support tools that will safeguard patients in the intensive care unit and improve how EHRs function for decision-making.
+The first project, called ICU Intervene, doesn’t just leverage deep learning to make real-time predictions about critical care issues.  It also provides human clinicians with a rationale for its suggestions, allowing providers to understand – or potentially overrule – the algorithm’s decision.
+“The system could potentially be an aid for doctors in the ICU, which is a high-stress, high-demand environment,” said PhD student and lead author Harini Suresh to reporter Rachel Gordon. “The goal is to leverage data from medical records to improve health care and predict actionable interventions.”
+“Much of the previous work in clinical decision-making has focused on outcomes such as mortality (likelihood of death), while this work predicts actionable treatments,” she added. “In addition, the system is able to use a single model to predict many outcomes.”
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+Undergrad Nathan Hunt, postdoc Alistair Johnson, researcher Leo Anthony Celi, MIT Professor Peter Szolovits, and PhD student Marzyeh Ghassemi also worked on the deep learning system.
+The tool generates predictions about key patient indicators every hour by extracting data from bedside monitors, clinical notes, and other data sources. 
+The model can predict whether a patient is likely to need a ventilator in the next six hours, the team says, in addition to providing alerts for near-term changes.
+Deep learning has become a promising approach for fine-tuning predictive analytics and clinical decision support capabilities.  Unlike other forms of machine learning, deep learning layers a series of decision-making nodes on top of each other to develop complex pathways for potential outcomes. 
+Using a high number of variables to guide the algorithm towards a detailed outcome, deep learning tools have already achieved remarkable diagnostic results.
+READ MORE: Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+In May, a deep learning tool from researchers at Case Western Reserve University achieved 100 percent accuracy when identifying metastatic breast cancer in pathology slides. 
+The tool consistently outperformed human pathologists and may soon perform incredibly detailed assessments of extremely large images in less than a minute.
+The University of Chicago, Stanford University, and UC San Francisco are also pursuing the possibilities of using deep learning to accelerate healthcare decision-making. 
+By partnering with researchers at Google, these top academic centers are combining machine learning with FHIR, the popular internet-based healthcare standard, to develop big data pipelines that can help machine learning tools perform to the best of their abilities.
+“We’re ready to do more: machine learning is mature enough to start accurately predicting medical events—such as whether patients will be hospitalized, how long they will stay, and whether their health is deteriorating despite treatment for conditions such as urinary tract infections, pneumonia, or heart failure,” said Google Brain team member Katherine Chou.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+“Advanced machine learning can discover patterns in de-identified medical records (that is, stripped of any personally identifiable information) to predict what is likely to happen next, and thus, anticipate the needs of the patients before they arise.”
+Unfortunately, the healthcare industry is still struggling to understand the critical importance of data governance and to apply standardization and interoperability techniques to their data stores, leaving researchers with a great deal of basic clean-up work to complete.
+A second team at MIT is attacking that problem through an approach called EHR Model Transfer.
+Using natural language processing, the system can flag and extract clinical concepts from multiple types of electronic health records, putting algorithms on an even playing field no matter where the data originated.
+“Machine-learning models in health care often suffer from low external validity, and poor portability across sites,” Nigam Shah, an associate professor of medicine at Stanford University who was not involved in the study or the paper.
+EHR Model Transfer was co-developed by lead authors and CSAIL PhD students Jen Gong and Tristan Naumann, as well as Peter Szolovits and electrical engineering professor John Guttag.
+To improve the accuracy and trustworthiness of vendor-agnostic predictive analytics, the team used one EHR platform to train the algorithm to predict mortality and length of stay.  They then ran the same analytics using a separate EHR system.
+EHR Model Transfer improved the ability to extract meaningful predictive insights from the second platform compared to baseline approaches.  
+“The authors devise a nifty strategy for using prior knowledge in medical ontologies to derive a shared representation across two sites that allows models trained at one site to perform well at another site,” Shah added. “I am excited to see such creative use of codified medical knowledge in improving portability of predictive models.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportClinical Decision Support SystemsEHR AnalyticsMachine LearningPredictive Analytics
+
+

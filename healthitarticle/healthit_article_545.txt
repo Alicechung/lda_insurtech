@@ -1,0 +1,44 @@
+Epic App Orchard Encourages Developers to Use FHIR, Open APIs
+
+March 13, 2017
+
+By Jennifer Bresnick
+March 13, 2017 - At HIMSS17 in Orlando last month, the vendor halls were packed to the gills with companies touting the latest plug-and-play technologies that use emerging data standards to perform analytics, shuttle information between organizations, enhance the capabilities of electronic health records, and engage patients in their care responsibilities.
+With hundreds of booths spread across thousands of square feet of convention space, it wasn’t easy for attendees to find the offerings that might match their infrastructure needs, let alone spend enough time with each developer to see if the product would be a fit with their existing health IT architecture.
+Instead of leaving users to flounder on their own through a sea of sales folks looking to score a deal, health IT mainstay Epic Systems is following in the footsteps of Apple and Android by creating its very own app store, allowing customers to browse through pre-approved applications at their leisure.
+After a year and a half of rumors following a 2015 trademark approval, the Epic App Orchard is now open for business, CEO Judy Faulkner announced at the show, and the initiative has already generated strong interest among the developer community.
+“Customers and vendors can put tools into the App Orchard that they can sell or share for free, because a lot of people just want to share,” Faulkner said to HealthITAnalytics.com.  “Others can pick them up, take them, and use them.  It's very simple.”
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+Epic started taking applications from developers during the week of HIMSS17, said Sumit Rana, Senior Vice President of Research and Development, and the response has been “very good.”
+“There’s been a steady stream of sign-ups, and we have about 300 registrants right now,” he said during an interview less than three weeks after opening the App Orchard's doors. 
+“Most of them are third-party developers, but we’ve also had health systems sign up, as well as individuals – and even some students, which is really great to see.”
+Early ideas for offerings include clinical decision support tools, analytics widgets, and consumer-facing applications to address clinical and financial needs.
+READ MORE: Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+“App Orchard makes it simple for developers to harvest our open application programming interfaces (APIs) and build apps that work with Epic,” Rana said. “There is a portfolio where you can discover the hundreds of public APIs we provide, as well as access to technical specifications and other helpful documentation to make development easy.”
+The App Orchard also gives developers a testing sandbox and sample patient data to work with, so that they can experiment with new tools in a safe environment.
+Technical support is available, Rana added, and participants receive notifications when an Epic software upgrade is available to ensure that their offerings will work with the latest iterations of the product.
+App Orchard complements Epic’s existing development environment, open.epic.com, by allowing creators to showcase their apps and connect with interested users.
+“Open.epic.com has existed for a while,” Rana said.  “It was created as a way for third party developers to understand the different integration options available to them.”
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+“That’s not a store, however.  App Orchard creates that additional piece that lets users get easier access to what’s being created out there.”
+The store will function similarly to other app stores, Rana continued, like the consumer-facing Apple iTunes Store or Google Play. 
+“It’s a fairly tried and tested model at this point,” he said, although he noted that plugging an application into a healthcare organization’s complex IT environment won’t be as easy as downloading a puzzle game on a smartphone.
+Epic Will Offer Two New Cost-Effective EHR Options
+“We want the experience to be as simple as possible, but when you download an app that runs in the enterprise world, it’s rare that a single user can make the decision to implement that software across an organization.  The organization typically does want to make sure it’ll work as they expect.”
+Interested users will go through “some number of steps” to initiate the process of purchasing or implementing the tool, he explained.  The process will likely depend on the individual app and its installation needs. 
+“The Orchard will serve as a place to discover the apps and learn more about what those steps are and then initiate them,” he said.  “The number of steps will vary according to the nature of the application.  Some might be pretty straightforward, while others will be more involved and likely subject to a decision-making process within the organization that wants to use them.”
+Provider organizations are likely to have a lot of questions before committing to any infrastructure additions, and it is probably that many of those queries will revolve around the safety, security, and reliability of a third-party offering.
+Rana did not provide specifics about how much clout Epic will exert during the review process before a participant can list an application, but he did note that the company will do its best enforce certain viability and security standards.
+“An app has to be safe and it has to be sustainable,” he stated.  “We can never 100 percent guarantee that an app is safe, but we want to be able to do our due diligence.  We’re not looking at other people’s code, so we can’t absolutely guarantee that everything will be perfect, but we certainly want to do everything that’s possible for us to do.”
+Apps dealing with patient data will be expected to adhere to HIPAA privacy rules and any other pertinent regulations, he said.  And developers will retain ownership of their work.
+Much of that work is likely to feature the Fast Healthcare Interoperability Resource (FHIR), which has quickly become a tour de force in the healthcare IT universe.
+“FHIR would be a great avenue for creating apps,” Rana said.  “We’ve had a lot of interest in it.  One of the things folks can do on open.epic.com is get access to the FHIR sandbox, which has been available for a while and has been very popular for a few years.”
+How to Choose the Right Healthcare Big Data Analytics Tools
+Epic has joined a large number of other EHR vendors, including its closest rivals, in embracing the internet-based data standard as a way to foster more seamless interoperability and enable third-party development.
+It has become an important part of the health IT toolbox, said Rana, but it isn’t a silver bullet.  Some applications may require the use of other methodologies, but users shouldn’t write them off as somehow less interoperable or less effective than their FHIR-based peers.   
+“FHIR covers many use cases, but not all of them,” he said.  “So if developers can use it, that’s great.  There will be other scenarios where some things will not be part of the FHIR specifications, and in that case people might find an API that’s available as part of the Epic program and utilize that.  It’s not one or the other.  They’re complementary.” 
+“There is room for a lot of different ideas here, and we’re very excited to see what people come up with.”
+Tagged Application Programming InterfacesEpic SystemsFHIRHIMSS17InteroperabilityInterviews
+
+

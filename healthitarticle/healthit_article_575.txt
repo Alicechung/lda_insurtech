@@ -1,0 +1,35 @@
+Value-Based Payment Ups Adherence to Mental Health Guidelines
+
+February 13, 2017
+
+By Jennifer Bresnick
+February 13, 2017 - Healthcare providers receiving value-based payments are more likely to adhere to evidence-based population health management guidelines for depression than their fee-for-service peers, says a new study in the American Journal of Managed Care.
+Providers participating in the CMS Collaborative Care Model (CCM) with an added pay-for-performance element were up to 30 percent more likely to deliver recommended care for patients with depression.  Mental healthcare patients treated within a value-based CCM program saw greater improvements in outcomes than those receiving traditional care.
+“Despite extraordinary increases in medical knowledge, healthcare in the United States frequently falls short of evidence-based standards,” said the research team, hailing from a number of institutions including Weill-Cornell Medical College, Harvard Medical School, the University of Washington, and the Community Health Plan of Washington.
+“Substantial variation among providers exists in the intensity of implementation and degree of fidelity to the evidence base, and current financial incentives in the US healthcare system contribute to a poor ‘business case’ to adopt evidence-based practices in an effective manner.”
+Value-based reimbursement arrangements can act as “targeted incentives” to improve reliance on standardized care delivery strategies, which may in turn close gaps in care for vulnerable patients, boost outcomes, and theoretically lower overall spending.
+READ MORE: Why HIE Data Analytics are Critical for Behavioral Healthcare
+While the goal of these population health management strategies is admirable, “most existing value-based payment (VBP) programs provide standalone financial incentives without a support system to providers for care process redesign,” the team argues, leaving providers without the tools to implement effective changes.
+To examine what could happen in the best of both worlds, the research team turned to the Washington State Mental Health Integration Program (MHIP), a publicly funded initiative meshing the CCM’s care coordination framework with a pay-for-performance component.
+MHIP started using a VBP element to support the CCM model for mental health patients in 2009.  A quarter of total payments are tied to value-based quality metrics, representing a significant portion of revenue for participating community health clinics.
+In the first year of the model, participants were guaranteed to receive 75 percent of their total payment for CCM patients, and had the opportunity to accrue an additional five percent of reimbursement for meeting each of four quality targets.  The last five percent was awarded for participation.
+The quality targets were continually adjusted and re-developed to keep challenging the provider community.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+The investigators looked more than 1800 of the most vulnerable mental health patients in Washington State, including individuals with higher scores for depression on the Patient Health Questionnaire (PHQ-9), and patients who were uninsured or using Medicaid to access care at Federally Qualified Health Centers in some of the most populous regions of the state.
+The majority of patients were enrolled in the state’s Disability Lifeline Program, which aids residents temporarily disabled due to physical or mental health conditions and expected to be unemployed for three months or more.  Other criteria included low-income seniors, low-income mothers and their dependents, as well as veterans and their families.
+Patients receiving care backed by value-based payments were 9 percent more likely to experience at least one follow-up contact from their providers, 30 percent more likely to have a psychiatric consultation, and 15 percent more likely to receive a monthly PHQ-9 assessment than patients not exposed to the VBP model.
+Source: AJMC
+The adjusted hazard ratio for VBP patients achieving clinical improvement was 1.45, which indicates that patients participating in a value-based ecosystem were likely to see a shorter time to improvement than their peers.
+Perhaps unsurprisingly, provider groups with the lowest levels of initial adherence were most likely to see greater improvement than clinicians already demonstrating a strong grasp of evidence-based care. 
+READ MORE: Why Mental Healthcare is Key to Population Health Management
+The authors suggested that new initiatives might consider two sets of quality targets, one for higher-performing groups to keep them motivated, and another for those just starting out with value-based care.
+Providers with larger patient panels also showed greater improvement than smaller clinics, the researchers added.
+The team credits MHIP’s focus on clinician engagement, training, and support for the initiative’s successes.  Experts from the University of Washington delivered education to participants’ care managers, made training materials available online, and arranged for consulting psychiatrists to work with every participating clinic.
+In order to receive funding for the program, MHIP required all clinics to implement a clinical tracking system, which aided in data collection and population health management.
+“The MHIP VBP targeted several key elements of a single evidence-based care model, focusing improvement efforts and sending strong signals and clear directions to provider organizations on what to improve,” the authors said, in contrast to many existing VBP programs which “typically contain a large number of quality targets that may not be clinically meaningful, dissipating incentives and failing to engage clinicians.”
+The authors also highlighted the fact that the study reviewed a real-world use case, not an artificial experiment, which may lend added credibility to the notion that value-based payments can drive measurable improvements in care quality and patient outcomes.
+These findings may be particularly encouraging to providers interested in using participation in an alternative payment model (APM) to attest to MACRA, as even those MHIP groups with little experience and low baseline metrics were able to improve their performance and gain revenue through the program.
+“Our study provided strong evidence that a VBP component adopting best practices of VBP design and being embedded in an implementation initiative is effective in improving fidelity to key elements of the evidence-based model, both directly and not directly incentivized by the VBP, and, in turn, improving patient outcomes,” the study concludes.
+Tagged Care QualityChronic Disease ManagementMental HealthPopulation Health ManagementValue Based PaymentsValue Based Reimbursement
+
+

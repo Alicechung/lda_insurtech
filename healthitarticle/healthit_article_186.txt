@@ -1,0 +1,20 @@
+VA, DeepMind Partner for Machine Learning, Predictive Analytics
+
+February 27, 2018
+
+By Jessica Kent
+February 27, 2018 - The Department of Veterans Affairs (VA) recently announced a partnership with DeepMind to use machine learning as the foundation for developing predictive analytics tools.
+Patient deterioration while in the hospital accounts for 11 percent of inpatient deaths around the world, the VA says. The partnership will analyze patterns from 700,000 historical, deidentified health records to develop machine learning algorithms that will spot health risks and improve patient care.
+The work will initially focus on identifying the most common signs of risk, like acute kidney injury, which can be fatal if not detected and treated early.
+Dig Deeper
+Machine Learning Underpins Predictive Analytics for Hypertension
+Machine Learning in Healthcare: Defining the Most Common Terms
+Four Use Cases for Healthcare Predictive Analytics, Big Data
+DeepMind, an artificial intelligence research company with Google backing, has already partnered with hospitals in the United Kingdom to apply innovative machine learning algorithms to projects on eye disease, head and neck cancer, and mammography.
+“We are proud to partner with the Department of Veterans Affairs on this important challenge,” said Mustafa Suleyman, co-founder of DeepMind.
+“This project has great potential intelligently to detect and prevent deterioration before patients show serious signs of illness. Speed is vital when a patient is deteriorating: the sooner the right information reaches the right clinician, the sooner the patient can be given the right care.”
+Eventually, researchers will apply similar approaches to other signs of patient deterioration, improving care for many more patients and reducing the development of serious infections and conditions.
+“Medicine is more than treating patients’ problems,” said VA Secretary David J. Shulkin. “Clinicians need to be able to identify risks to help prevent disease. This collaboration is an opportunity to advance the quality of care for our nation’s Veterans by predicting deterioration and applying interventions early.”
+Tagged Healthcare Big Data AnalyticsMachine LearningPatient CarePatient DataPredictive Analytics
+
+

@@ -1,0 +1,28 @@
+Blockchain Alliance Aims to Tackle Provider Data Management
+
+April 02, 2018
+
+By Jessica Kent
+April 02, 2018 - Humana, MultiPlan, Optum, Quest Diagnostics and UnitedHealthcare have announced a cooperative pilot program that will utilize blockchain technology to improve data quality and reduce administrative costs around provider data management.  
+"Health is hard, but great breakthroughs may come from industry players collaborating around emerging, innovative technologies to make life easier for doctors and patients,” said Busy Burr, Vice President and Head of Healthcare Innovation and Trend at Humana.
+“We think industry leaders can work together to eliminate technology barriers in the health care system and promote better health outcomes.”
+Dig Deeper
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Five Blockchain Use Cases for Healthcare Payers, Providers
+Hashed Health Blockchain Consortium Grows with Change Healthcare
+In order for the healthcare system to function effectively, consumers must be able to find accurate provider information when they need it, including data on credentialing and licensure.
+However, providing consumers with accurate, up-to-date data is a difficult feat. Many managed care organizations, health systems, physicians, and other healthcare stakeholders currently maintain separate copies of healthcare provider data, which can result in time-intensive and expensive processes when differences in provider data arise.
+These five organizations will explore how blockchain technology can help ensure that the most current healthcare provider information is available in health provider directories, as well as examine how sharing data across organizations with blockchain technology can improve data accuracy, increase access to care, and streamline administration processes.
+The coalition will also address the high cost of healthcare provider data management. The participating organizations will test the idea that sharing provider data inputs and changes made by different patients through the blockchain can potentially reduce costs and improve quality.
+“Throughout healthcare, there are so many reasons to share data,” said David Murtagh, Vice President of Operations at MultiPlan. “With increasing state and federal requirements relating to provider data maintenance and quality, tackling the high cost and redundancy in this space is a logical starting point.”
+“We’re looking forward to exploring how blockchain technology can make the process more efficient while reducing costs, ideally to build investments that can enhance the provider and patient experiences.”
+The issues surrounding provider data management and sharing have long been an intriguing use case for blockchain. The new strategic alliance isn’t the first time stakeholders have utilized the technology to address these problems.
+In August 2017, Hashed Health partnered with the Illinois Blockchain Initiative to explore how to apply the technology to managing credentials and licensure for providers. The project aimed to allow providers to maintain a single record of their certifications and approvals, which would streamline interstate licensure and boost trust among patients.
+Earlier this month, Hashed Health also announced the launch of a provider credentialing solution called the Professional Credential Exchange tool. The tool will use blockchain to securely exchange information related to a clinician’s permissions to practice at a certain level or location.
+The tool also aims to simplify the process of managing provider credentials and identities for employment and verification processes, which allows organizations to complete hiring or referral processes more quickly.
+The cooperative partnership among Humana, MultiPlan, Optum, Quest Diagnostics and UnitedHealthcare will pursue a similar endeavor, as their pilot project will aim to leverage the potential of blockchain technology and improve care access, quality, and efficiency.
+“We are collaborating with our alliance members to explore innovative ways to use blockchain technology in health care,” said Mike Jacobs, senior distinguished engineer at Optum.
+“Our effort to improve the quality of care provider data is a pragmatic and potentially effective way to leverage technology to help those we serve. We envision the possibility of effecting change at scale – supporting our mission of helping make the health system work better for everyone.”
+Tagged Blockchain in HealthcareHealthcare CostsHealthcare Data ManagementHealthcare Providers
+
+

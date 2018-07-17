@@ -1,0 +1,20 @@
+OnScale Exits Stealth With $3M In Seed Funding And Unveils The Industry’s First Solver-as-a-Service Platform
+
+01 Mar 2018
+
+OnScale’s Solver-as-a-Service platform eliminates cost and performance barriers for engineers designing next generation 5G, Internet of Things (IoT), Biomedical and Driverless Car products.
+Engineers can now benefit from OnScale’s proven solver technology which has been validated by world-class engineering teams over decades.
+Emerging from stealth today, OnScale announces $3 million in strategic seed funding and unveils the industry’s first Solver-as-a-Service platform that gives engineers the power to accelerate innovation in the $40 billion 5G, Biomedical, Internet of Things (IoT), and Driverless Car markets.
+OnScale was co-founded by CEO Ian Campbell, VP of Product Development Dr. Robbie Banks, and VP of Engineering Dr. Gerry Harvey as a spin-off company from Thornton Tomasetti.  Thornton Tomasetti, a global leader in science and engineering consulting services, led the seed round with participation from Silicon Valley investors like Michael Lehman, former CFO of Arista Networks, Palo Alto Networks, and Sun Microsystems, and CampbellKlein, an early stage high-tech venture fund.
+Introducing the OnScale Solver-as-a-Service Platform
+OnScale has built the world’s first Solver-as-a-Service platform with advanced computer-aided engineering (CAE) multi-physics solvers that are seamlessly integrated with a scalable Cloud High Performance Computing (HPC) platform. OnScale’s solvers have been carefully architected and maintained by the same expert team over decades. Combined with the limitless HPC resources available on the cloud, OnScale’s platform breaks cost and performance barriers for engineers solving tomorrow’s toughest engineering challenges.
+Ian Campbell
+“The CAE/HPC space is ripe for disruption because yesterday’s systems are too expensive and cumbersome to solve tomorrow’s engineering problems,” said Ian Campbell, CEO, OnScale. “Our platform eliminates the risk associated with sequential trial-and-error physical prototyping, reduces design cycles from months to weeks or even days, and delivers unequaled computing performance that easily scales to meet ever-changing CAE workloads.”
+OnScale is initially targeting underserved market verticals, worth $4 billion, with heavy demand for advanced CAE and HPC. OnScale will initially focus on the following market segments:
+5G – RF Filters and RF switches for 5G smartphones and base stations.
+Internet of Things (IoT) and Industrial Internet of Things (IIoT) – Microphone arrays for Alexa-style IoT devices, motion and gesture sensors, biometric and fingerprint sensors and industrial sensor systems.
+BioMed – Advanced therapies, targeted treatment planning and consumer ultrasound.
+Driverless Car Systems – Driverless car sensing technologies like 3D ultrasound for object classification, driver and passenger monitoring.
+OnScale’s platform gives individual engineers, boutique engineering design teams, and multinational engineering firms cost effective computational power, agility, and scalability through a flexible Software-as-a-Service (SaaS) pay-as-you-go subscription model. Engineers using OnScale no longer have to worry about buying expensive new CAE software licenses, paying for maintenance and support, procuring expensive HPC hardware, or waiting for IT to deploy and maintain CAE systems.
+
+

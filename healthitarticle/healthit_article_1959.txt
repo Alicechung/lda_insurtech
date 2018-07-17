@@ -1,0 +1,18 @@
+82% of hospitals using cloud services for HIE, data storage
+
+June 24, 2014
+
+By Jennifer Bresnick
+June 24, 2014 - More than 80% of hospitals are currently using cloud-based services for vital infrastructure tasks such as health information exchange, data backup and storage, and disaster recovery, reports HIMSS Analytics in a new survey.  While the use of the cloud is widespread, financial and security-related concerns, as well as wariness over customer service issues, remain prevalent among providers who are demanding the most value for their hard-won resources.
+“Cloud services have been long praised as a tool to reduce operating expenses for healthcare organizations.  The data presented in our inaugural survey demonstrates the healthcare industry’s eagerness to leverage this resource,” said Lorren Pettit, Vice President of Market Research for HIMSS Analytics.  The 150 participating healthcare executives flagged the lower cost of cloud services versus locally-hosted infrastructure as one of the biggest perks for committing to a software as a service (SaaS) provider, but less than half of those participants said that they receive the data they need to accurately measure the value they’re getting.
+Additionally, 49.2% of providers had to spend money upgrading their network infrastructure or monitoring capabilities in order to support cloud services, while 37% created or modified their business processes to compensate for the new technologies.  Eight percent hired additional staff with expertise in the cloud, while 25% engaged in additional training for their existing staff members.
+While cloud users tend to invest significantly in remote architecture, with 34% using cloud services in five or more organizational areas, including the costing of clinical, financial, operational, and human resources applications and data, not everyone is happy with the results.  Thirty-two percent of respondents say their hosted applications are slow or unresponsive, while 23% complained about downtime and lack of availability.  A third of providers are willing to accept credits as compensation for underperformance, but 25% were prepared to terminate the business relationship or move applications in-house when frustrated by poor service.
+Dig Deeper
+Understanding the Many V’s of Healthcare Big Data Analytics
+Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+The Difference Between Clinical Decision Support, Big Data Analytics
+Among the 20% of providers who had not yet adopted cloud services, 34% had no plans to do so in the future.  A lack of security topped the list of reasons why non-adopters are averse to the cloud, with 61% worrying about data breaches and HIPAA issues, while 38% were put off by availability and uptime concerns.
+However, providers generally do see value in the cloud, and are taking advantage of the positives.  The majority of users plan to use the cloud to archive more data in the future and host more operational applications as they upgrade and diversify their IT infrastructure. “Many Healthcare CIOs and others have expressed their intention to use cloud services. However, there are some challenges related to use in healthcare and these are what we hoped to uncover,” said Lisa Gallagher, Vice President of Technology Solutions for HIMSS.  “Our next step is for the healthcare industry to work with cloud service providers to move forward together in addressing these challenges.”
+  Tagged Analytics InfrastructureData StorageHealthcare Business Intelligence
+
+

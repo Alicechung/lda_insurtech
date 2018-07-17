@@ -1,0 +1,33 @@
+AHIMA: ONC Funding Key for Interoperability, Precision Medicine
+
+April 26, 2017
+
+By Jennifer Bresnick
+April 26, 2017 - As Congress continues the contentious debate over the federal budget for fiscal year 2018, AHIMA is urging lawmakers not to hamstring the Office of the National Coordinator (ONC) by cutting interoperability and data standards development funding apportioned to the agency in the 21st Century Cures Act.
+In a pair of letters addressed to House and Senate leaders, the health information management society lays out the argument that continued progress with health data interoperability and information governance are critical to the 21st Century Cures Act’s mission of speeding the development of precision medicine therapies.
+The ONC oversees many of the health IT industry’s activities in these areas, and is currently mandated by the 21st Century Cures Act to undertake a number of tasks related to the creation and dissemination of data standards that underpin the broad exchange of health data.
+“We understand that Congress faces difficult choices in funding a variety of priorities with limited resources,” the letters acknowledge.
+“However, failure to adequately fund ONC will undermine a major tenet of the Cures Act itself—“the delivery of new drugs and devices to the right patient at the right time by ensuring electronic health record systems are interoperable for seamless patient care and . . . [to] fully realize the benefits of a learning health care system.”
+READ MORE: 21st Century Cures Act Rekindles Information Blocking Debate
+AHIMA’s governance and health information management priorities align closely with the ONC’s role in improving industry-wide interoperability, the letters added.  Without robust information governance (IG) competencies, providers will be unable to produce high-quality data that can be used for meaningful health information exchange.
+Information governance is also significant for safeguarding patient identities, ensuring the safe delivery of care, conducting internal performance benchmarking, and supporting the quality and performance reporting dictated by value-based contracting and regulatory frameworks including MACRA and meaningful use.
+All of these initiatives require organizations to be able to exchange data in a trusted and equitable manner. 
+The 21st Century Cures Act includes a provision requiring health IT developers to prove to the ONC that their EHR systems do not promote information blocking. 
+The ONC is also charged with developing a “trusted exchange framework” to bring together various industry interoperability efforts under a unified set of guidelines.
+READ MORE: FDA: Interoperability a Core Requirement for Precision Medicine
+But without strong information governance at the core of these efforts, and adequate financial support for these activities, the ONC will be unable to complete its tasks, AHIMA asserts.
+“AHIMA’s IG work can play a critical role in helping advance the voluntary trusted exchange framework for trust policies and practices as required under the Cures Act,” the organization explained.
+“However, without ONC’s ability to convene interested parties to build and support the trusted exchange framework due to lack of sufficient funding, we are concerned that the development of this framework will languish, thereby hindering nationwide interoperability.”
+Health information management professionals are also intimately involved in facilitating patient access to data as required under HIPAA – another area where AHIMA has successfully collaborated with the ONC.
+“ONC has served (and we hope will continue to serve) as an important federal partner in not only assisting both patients and providers in understanding a patient’s right of access under HIPAA but also in disseminating best practices for fulfilling patient access requests for their health information,” the letters said.
+READ MORE: Health Data Interoperability Requires Patience, Persistence
+Without adequate funding for the ONC, healthcare organizations will be unable to receive the necessary guidance for safeguarding patient privacy while meeting federal regulations related to health data access, AHIMA said. 
+If providers are unable to safely and securely share the patient data required to coordinate care, engage in population health management, and conduct large-scale analysis of health patterns, then precision medicine experts will not be able to access the broad, integrated, and representative datasets they need to engage in advanced research.
+In November of 2016, a report from the President’s Cancer Panel stated that interoperability and the aggregation of big data from across the care continuum are vital for the progress of precision medicine, and especially for oncology.
+“The potential benefits of interoperable connected health tools and systems are particularly great for oncology because the delivery of care across the cancer continuum depends on access to accurate and complete information, as well as extensive coordination among patients, caregivers, and diverse teams of providers,” said the report.
+“To achieve the development of a national infrastructure to support sharing and processing of cancer data, technical and logistical challenges to data integration must be overcome, and the cancer community must foster a culture of collaboration that encourages data sharing and free exchange of ideas.”
+In order to continue progress towards these goals, the ONC must retain its position as a key stakeholder in the interoperability conversation.
+“We urge you to maintain sufficient funding for the Office of the National Coordinator for Health Information Technology (ONC) to meet its statutory obligations under the 21st Century Cures Act,” the AHIMA letters concluded.
+Tagged 21st Century Cures ActHealthcare Information GovernanceInteroperabilityInteroperability GovernanceONCPrecision Medicine
+
+

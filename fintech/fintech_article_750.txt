@@ -1,0 +1,54 @@
+Developing An Application Skeleton Is A Bone Of Contention
+
+July 3, 2017
+
+Ever since I began my career as a JavaScript developer five years ago, I’ve been on a quest to find the developer’s holy grail: an application skeleton that I can use to build my future single page applications on. You know the feeling, you have this great idea, but you hit a wall of bootstrapping, plugins and build tools. If you’d only had it all setup, you’d code an initial concept in a few days. 
+
+ This “build-’em-all” tool is mythical because at its heart lies a contradiction. As humans, we hate change – but as developers, we must embrace it. Things that don’t change are dead, change is good, change is life! We JS developers must enter a state of nirvana to let the NPM (node package manager) libraries flow through us. Despite that, sometimes I just wish I could sidestep all the boilerplate that seems to be a required part of putting all these wonderful new libraries into production. I want to skip the drudgery and start playing with new toys!
+
+ If you’re not writing browser native HTML and Vanilla JS with script tags, you end up in one of the outdated tutorials of some heavily used client side tools like React, Redux, React router, Webpack, Rollup, Babel and many others. It’s pretty ironic: the thing trying to teach you how to use it, doesn’t work.
+
+ Having over four years of experience in JS, I tried setting up the holy grail client-side skeleton myself, using libraries I am familiar with (React, Redux, babel, react-router), but using a cool build tool I’ve heard about from one of my company’s hack nights: Rollup.js https://rollupjs.org/.
+
+ Four years ago I started coding in CoffeeScript, using Brunch as a build tool. A year or so into my job, restarting the build was taking over half a minute for our growing app. That’s when a very powerful character showed its face in NPM promising to change the world: Webpack. And it did! It is now the most popular JS build tool out there. It does a lot and it does it well. But it has one problem: Webpack promises to save your life and do anything you ask it to, but it must first suck the life out of you and get you to hate yourself. It’s a fair trade, I guess.
+
+ Rollup looks to make that experience a little less painful, while still helping you bundle the whole internet into your app. I see it as an extra level of abstraction over Webpack. The end result is writing less configuration, which is written in JavaScript instead of the string interpolation mess used by Webpack. It’s pretty neat.
+
+ I used the Rollup tutorial to get going. It looked promising: Two steps (with a third optional step to setup PostCSS). I thought it shouldn’t take more than a few hours to go through, and I’d end up with the client skeleton I wanted. However, it took a month of work in my spare time to patch it together and get it working. Too many things went wrong.
+
+ The first time the Rollup build broke after some basic NPM installs and a few copy-pasted lines of code, my first instinct was to shout in the tutorial author’s face. That would show him! He can’t even get an official tutorial working.
+
+ I quickly realised though that the tutorial must have worked at some point in the past. The problem was actually the volatility of the JS ecosystem. Some NPM libraries release a major every few weeks and with all tutorials out there advising you to install the latest versions of their dependencies, things are bound to break. The only solution you’re left with is to debug the dependency and find how their API has changed, or randomly rewind a few majors until it works again.
+
+ The Rollup tutorial author assumed the dependencies he uses are always going to have the same APIs, so instructed its learners to install their latest versions. The plugin subsequently changed its API and pushed a major version to NPM. The owner assumed the plugin’s consumers will check the changelog before updating between major versions. And then along I came – the guy who pastes lines from the tutorial into the terminal, and assumes the dev writing the tutorial spends his life maintaining it daily for the open-source community he obviously lives and dies for.
+
+ Assumptions help us remain sane, our brains need them because the amount of information life throws at us might make them explode. Like life, the JS community throws a lot of NPM libraries at us (yes, NPM is a symbol for LIFE). The problem is that an assumption is a self-imposed limitation. When things stop working for us, they make us blame everyone around us, instead of seeing the world as it is: an ever-changing swamp of flaws and mistakes. Philosophically speaking, one of the things that got us introverts into programming was the predictability of this universe. This is not what we signed up for!
+
+ If you’ve started developing in C, Java or some other die-hard programming language, the amount of maintenance and the rate of change in JS must be unsettling. But as JS devs, we’re part of something different. Daily changes, API changes, breaking changes. It’s a fast paced, growing, open-source community which has no time to wait for us to have a nap.
+
+ I know it’s frustrating. I’m an introvert, I sometimes hate people just because they start talking to me. I need to know I have a safe place where I can hide from everyone at all times (e.g. at home or a disabled toilet). It gives me a sense of security. When my company switched from using CoffeeScript to ES6, I resisted it. Legacy projects still need maintaining, right? I realise now, not embracing change was a mistake, because it will happen despite our opposition. CoffeeScript died, while Babel is now browser supported. I was late to the party and when I finally switched to Babel, it felt like I was a newly hired intern at the company I had been working at for two years.
+
+ While the ES6 tooling are all created by smart devs open sourcing their work, most of the code is young and the APIs are changing, trying to find their purpose. The smallest breaking change published as a minor or patch in NPM will probably attract a lot of insults from the community, because it propagates within minutes. It’s scary to rely on so many third party dependencies, with you as a developer having no control over. But despite how easy it is to break everyone’s code through NPM and how fast the errors surface, I’d say the open source community is professional and responsible, leading to only a few of these breaking changes happening.
+
+ I can’t imagine how it feels to start your career as a JS developer these days. When I started we just had to learn a bit of JQuery, but now you don’t even get to Hello World without a 12-hour-long tutorial playlist. There’s a lot to choose from: build tools, rendering, stores, live-reload, package managers, routing and much more. They all have their own tutorials, docs and examples. It’s a lot to take in.
+
+ When it comes to understanding a whole system of tools that work well together, I found having a working example to follow and play around with made it easier to understand. But before even reading the code, make sure you check it is maintained and try running it! If it doesn’t run, it’s probably a waste of your time trying to fix it.
+
+ Once you’re familiar with how the different parts fit together, it’s good to explore the different options available for each one. In every new project I build, I’m looking to learn one new thing. This time it was Rollup, but GraphQL will follow next. Learning several things at once can easily be demotivating because what you’re doing is forever setting up your project, but not actually coding towards your objectives.
+
+ Trying to build a sturdy skeleton made me realise there isn’t one set option. Everything in the JS community has an expiry date and it’s a lot shorter than in other programming languages. The libraries we use could be replaced by better ones in months. While that might be stress-inducing for most, we should take it as proof of the fast rate of progress in open source and JS software.
+
+ In the end, the app skeleton did work. A month after I finished it, I was looking to use it to build another web app and it stopped working, following a fresh NPM install. Since the whole thing was fractured, I updated all dependencies to the latest versions (apparently there’s a module that does it: https://www.npmjs.com/package/npm-check-updates). Using a few notes I took when I first set it up helped me fix it in just a few hours. I am aware it will be outdated again soon, but for now, it’s a setup that saves me a lot of time starting a project, and the dependencies I’m using are likely to be around for another year or two.
+
+ You can find the app skeleton code here: https://github.com/stefanspita/app-skeleton
+
+ We can make our lives easier for a while by building a complete setup. We just have to remember it has an expiration date. The more often you update its dependencies, the less time you’re going to spend doing so.
+
+ It’s hard to predict what the JS trends will be a year fro
+m now. Some of them are probably at an ideas stage right now, ready to make their way into the package.json and Webpack build for everyone around the world. What we can do though is keep up to date with the new releases. If something important gets published, we will hear and read about it, our community will shout it out. Making an effort to learn something new once in awhile and constantly challenging our current skillset takes us out of our comfort zone and keeps our tech skills fresh, ready for battle without leaving us unarmoured.
+
+ What I did find wasn’t the perfect skeleton, but a willingness to embrace change and the mindset to do it.
+
+ Stefan Spita, Software Engineer at Moneyhub Enterprise
+
+

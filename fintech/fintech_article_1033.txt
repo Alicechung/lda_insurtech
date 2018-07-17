@@ -1,0 +1,37 @@
+Penetration Testing 101 for fintechs
+
+November 14, 2016
+
+Penetration testing of Internet-facing fintech applications is an essential necessity in the age of online competitors and cybercrime. Penetration testing gives you the independent assurance that all the hard work you have invested in designing and implementing secure infrastructure or applications has paid off and your product won’t fall apart when subjected to malicious activity – as eventually it will be. Deciding on the specific type and scope of penetration testing however is not straightforward. Here is a basic introduction to assist with informed decision-making.
+Web application penetration testing
+Penetration testing of Web applications involves identification of security weaknesses and vulnerabilities caused by insecure coding practices, misconfiguration and bugs. It is usually performed on a test instance of the application but can also be performed on live instances. The penetration testing process involves intercepting, analysing, modifying and generating specially crafted malicious and/or invalid HTTP requests to identify and exploit vulnerabilities that may exist in the application and usually covers at least the Top 10 areas of risk as identified by the Open Web Applications Security Project (OWASP) with additional testing based on specific business requirements or technologies used.
+
+ Infrastructure penetration testing
+Infrastructure penetration testing is a generic term covering testing of operating systems, network services, network devices and other targets. Its objective is to identify vulnerabilities and misconfigurations that can be exploited to obtain unauthorised access to data, systems or hosted applications. Specific testing activities and methodologies may differ depending on the scope and objectives of the infrastructure testing engagement but most engagements involve the following stages:
+
+ 1. Identification and enumeration of targets of testing
+2. Reconnaissance and information gathering
+3. Identification of vulnerabilities, weaknesses or misconfiguration
+4. Testing and exploitation of identified vulnerabilities
+5. Post-exploitation activities
+6. Reporting and recommendations to address the identified issues
+
+ Understanding your options: black, grey or white?
+When it comes to commissioning a penetration test you will need to decide whether you require a black, grey or white box penetration test. The type of testing chosen will decide the amount of time and effort required as well as the level of security assurance obtained – not to mention the cost.
+
+ Black box testing is the most widely performed (“standard”) type of testing – it gives basic assurance that is usually sufficient in most cases, and includes automated testing, manual review, and manual testing to identify any weaknesses or vulnerabilities in your application that may be exploited to compromise the security of your data or customers.
+
+ Grey box testing includes software design and architecture review in addition to all activities included in black box testing.
+
+ White box testing provides the maximum possible assurance – in addition to including all of the above it also includes review of source code to identify weaknesses or vulnerabilities hidden deep within the application code.
+
+ The type of testing chosen determines how much time and effort is required and the extent of your own team’s involvement in the testing process. Whereas with black box testing your team’s involvement is limited to provision of a test instance of your application or specification of infrastructure to be tested, with grey or white box testing documentation, meetings and access to source code would have to be arranged as appropriate.
+
+ The time required to test a particular application or infrastructure depends on its size and complexity, as well as the type of testing: a black box test of a simple application may only require a day or two, while a white box test of a large and complex application may require weeks or more. Most testing engagements however are black box tests and usually take about a week to complete. Once testing is concluded a report is issued detailing identified findings and their criticality, as well as making recommendations on how to address them and the engagements are usually concluded by holding a closing meeting where the next steps and discussed and agreed.
+
+  
+
+ Edgar ter Danielyan
+Danielyan Consulting
+
+

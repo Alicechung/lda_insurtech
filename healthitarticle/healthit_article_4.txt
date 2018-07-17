@@ -1,0 +1,69 @@
+Addressing Chronic Disease with Population Health Management Strategies
+
+July 12, 2018
+
+By Jessica Kent
+July 12, 2018 - Chronic diseases are among the most costly, prevalent, and avoidable ailments impacting population health.
+Conditions such as diabetes, hypertension, and opioid addiction claim thousands of lives and billions of dollars each year. The Centers for Disease Control and Prevention (CDC) reports that chronic diseases account for seven of the top 10 causes of death in the US and consume 86 percent of the nation’s annual healthcare spending.
+The increasing prevalence and rising costs of these conditions make chronic disease management one of healthcare’s most challenging and urgent endeavors.
+Yet many healthcare professionals struggle to find the time, tools, and resources to meet the holistic needs of patients.
+The close association between chronic disease and patients’ social determinants of health adds to the complexity of treating and preventing these disorders.
+READ MORE: 5 Ways to Turn Chronic Disease Management Knowledge into Action
+Providers must consider and address the conditions in which their patients live, work, and play, as well as their ability to exercise regularly and access healthy food, in order to effectively manage and deter chronic diseases.
+To confront common chronic diseases and the many factors that contribute to them, stakeholders from across the healthcare continuum will need to develop population health strategies that will improve patient outcomes.
+What are some of the most common chronic diseases affecting patients in the United States, and which population health strategies should healthcare stakeholders use to manage these conditions?
+DIABETES
+According to the CDC, over 29 million Americans are currently living with diabetes. Another 84 million are prediabetic, and even more may be undiagnosed and untreated. The condition also accounts for more than 20 percent of healthcare spending.
+Diabetes risk is significantly tied to social and economic circumstances. It is more common among non-white populations, with black, Hispanic, and Native American populations experiencing the disease at much higher rates than whites.
+READ MORE: Patient-Centered Care May Improve Diabetes Self-Management
+Medication non-adherence is an issue that leads to additional complications for many diabetic patients, and it is also linked to non-clinical factors. A 2016 report from IMS Health found that nearly half of Medicare diabetic patients are unable to keep up with medication adherence due to limited financial resources, language barriers, and insufficient care access.
+To increase medication adherence rates, providers can work to engage and educate patients about their medications by developing personalized adherence plans.  
+Additionally, providers can coordinate with community, pharmacy, and public health resources to improve adherence rates.
+A 2016 study demonstrated that medication adherence interventions that take place at  retail pharmacies can help patients stay on track with their therapies, reduce preventable hospitalizations, and reduce overall healthcare costs.
+“Community pharmacists are uniquely positioned to help mitigate the high risk of medication discontinuation and improve adherence for patients initiating therapy because of their access to prescription refill information and frequent interactions with patients,” the study stated.
+READ MORE: Chronic Disease Management Complicated by Economic Insecurity
+Managing diabetes goes beyond adhering to medications, however. Patients must also make healthy food and lifestyle choices and regularly check their glucose levels to maintain their health.
+To ensure patients are on track with managing their diabetes, providers can engage patients with text messages and mHealth communications. Providers can use these tools to remind patients about upcoming appointments, ensure they are making healthier lifestyle choices, and keep them on track with blood sugar testing.
+Healthcare payers can also employ this strategy and launch mHealth programs to improve diabetes treatment, as UnitedHealth Group recently did for its Medicaid Advantage members.
+HYPERTENSION
+One in every three American adults has hypertension, the CDC states. The condition is strongly correlated with other cardiovascular conditions, including heart disease and stroke, two of the leading causes of death in the US.
+The condition is most commonly seen in non-Hispanic black males, and black individuals are twice as likely to die from the condition as whites are.
+Improving hypertension rates will require a collaborative approach, according to the CDC.
+“Using team-based care that includes the patient, primary care provider, and other health care providers is a recommended strategy to reduce and control blood pressure,” the organization notes.  
+A number of health systems and community organizations have taken this approach, working to engage patients and deliver hypertension care directly to underserved populations across the country.
+The University of Michigan Health System collaborated with Meijer pharmacies in 2016 to provide more accessible care to adults with hypertension, offering patients treatment and monitoring services in their own communities.
+Additionally, researchers at Cedars-Sinai Medical Center recently enlisted over 50 barbershops in the LA area to offer blood pressure checks and pharmacist-led consultations to customers, aiming to enhance chronic disease management tools within the community.
+The researchers found that hypertensive customers who met directly with pharmacists significantly lowered their blood pressure rates.
+Organizations can also take an analytics-based approach to hypertension management, as Kaiser Permanente illustrated with its Hypertension Program Improvement Process.
+Healthcare organizations can utilize clinical analytics and the EHR to create a registry of high-risk individuals who may benefit from lifestyle changes, as well as use clinical analytics algorithms to determine the best treatment methods for hypertension patients.
+OPIOID ADDICTION
+Opioid addiction is one of the nation’s biggest health crises. Providers can act as the first line of defense against opioid abuse, and organizations such as the FDA have considered addressing the epidemic with mandatory opioid education for all healthcare professionals.
+Clinicians have a responsibility to recognize signs of opioid misuse in patients, prescribe alternate treatments, and prescribe opioids more judiciously to avoid long-term consequences.
+Providers can utilize state Prescription Drug Monitoring Program (PDMP) data to determine if their patients may be abusing opioids. These programs have shown considerable promise in reducing unnecessary prescription rates and raising provider awareness about potential opioid misuse.
+Opioid abuse is also significantly tied to social and economic circumstances, with those suffering from addiction often having deeply rooted social or mental health problems.
+As a result, treating and managing this disease requires efforts not only from providers, but also from government officials and community organizations.  
+Pennsylvania’s Opioid Data Dashboard, a government initiative to combat the opioid crisis, gives health officials, lawmakers, and the public access to real-time data to help identify trends for future community needs.
+The dashboard also helps build predictive analytics models to deliver a comprehensive picture of the epidemic in Pennsylvania.
+In addition, CMS recently released a document explaining how states can use telemedicine to treat Medicaid beneficiaries in rural or underserved areas struggling with opioid misuse.
+The organization also recommended that states receive federal support to create shared electronic health plans between providers and patients, which would allow both parties to set goals for pain management regimens and counseling.
+COPD AND ASTHMA
+The CDC reports that nearly 15.7 million Americans have received a chronic obstructive pulmonary disease (COPD) diagnosis, while asthma affects about 25 million individuals in the US.
+These chronic conditions cost the healthcare industry billions each year. They are also heavily associated with individuals’ environmental circumstances and are often exacerbated by exposure to air pollutants in the home and workplace.
+Research has shown that public health officials can use EHR data from local hospitals to identify specific geographic areas where there is a high risk for asthma.
+Once they have identified high-risk areas, public health officials can assess the air quality, and environmental inspectors can evaluate the hazards in the area.
+Officials could also use EHR data to identify patients with severe asthma. By developing a registry of patients who are frequently admitted to the hospital for asthma, officials can flag those most in need of care coordination and individuals who might benefit from home visits.
+Community care strategies that utilize sensor applications can significantly improve the health of patients with asthma and COPD, as well as identify the environmental factors that can affect patients’ quality of life.
+A 2017 program in Louisville, Kentucky doubled the amount of symptom-free days for asthma and COPD patients by attaching a sensor directly to patients’ inhalers to track the number of puffs used per day, how many times patients experienced symptoms, and where they experienced those symptoms.
+Nearly 82 percent of participants saw a decrease in inhaler use, while Louisville officials were able to identify high-risk areas and work to improve air quality in these places.
+DEPRESSION AND OTHER MOOD DISORDERS
+Between 2009 and 2012, depression affected 7.6 percent of Americans aged 12 and older. The mood disorder is more prevalent among minority and lower-income populations, and is also associated with higher rates of chronic disease.
+Despite the correlation between mental illness and chronic conditions, only 30 percent of mentally ill patients are screened for chronic disease.
+Integrated care delivery that considers a patient’s mental and physical health can significantly improve mental health outcomes and ensure these patients are receiving the care they need.
+Organizations can place behavioral health and primary care providers in the same location to improve patient engagement, foster patient self-management, and address the social determinants of health.
+Additionally, providers can use web-based risk assessment tools to stratify high-risk individuals and increase depression screenings for patients, particularly for those who are not often screened in traditional settings.
+Providers can then deliver proactive, preventative care to these patients, and gather insights on the factors that most often contribute to depression and other mood disorders.
+Chronic disease management is a challenging task that can be made easier by collaborative efforts from primary care providers, community organizations, and other healthcare stakeholders.
+By working together to develop population health management strategies and manage and treat patients suffering from common chronic diseases, stakeholders can reduce and prevent the prevalence and cost of these conditions.
+Tagged Chronic Disease ManagementChronic Disease PreventionMental HealthOpioidsPopulation Health ManagementSocial determinants of health
+
+

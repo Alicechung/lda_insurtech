@@ -1,0 +1,21 @@
+Can healthcare analytics mature if executives don’t trust it?
+
+November 21, 2013
+
+By Jennifer Bresnick
+November 21, 2013 - Even though data analytics is becoming increasingly vital to the way the world does business, some industries can still afford to view it as a “nice to have” item. Customers will still flock to supermarkets to get their groceries without an ad urging them to buy a certain type of chewing gum that fits their demographic’s general desires.
+But without data, healthcare loses the ability to treat patients all together: no charts, no financial transactions, and no clinical decision support for physicians.  And because this data is so important, it creates a love/hate relationship among those who rely on it.  When it’s going good, it’s great.  When there’s a problem, patients, providers, and executive leaders alike instantly lose all faith in the system.
+A new cross-industry survey from EMC Corporation shows that where maturity is low, trust in an analytics infrastructure also declines.  While the United States as a whole ranked very highly on the maturity scale, lagging only behind China, the healthcare industry fared a little worse.  Financial services took the top maturity ranking with 54.1 points, and healthcare struggled to take fourth place with 51.6.  Consulting bottomed out at 46.1 among the ten ranked industries.
+The lack of maturity, which includes a system’s ability to fend off breaches and cyber attacks, produce and transmit data with high integrity, and create valuable insights within an actionable timeframe, had real consequences to many businesses.  Of the 3200 executive leaders and business decision makers who took part in the poll, 61% said their organizations suffered at least one significant data mishap: a security breach, data loss, or unplanned downtime.
+Dig Deeper
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+Data Analytics, PDMP Use Can Combat the Opioid Crisis
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Nearly half said the incident caused a loss of employee productivity.  Thirty-nine percent lost revenue from the problem, and 32% took a significant hit from loss of customer confidence and loyalty.  All together, data trust issues cost an average of half a million dollars per organization.
+Healthcare is impacted even further by data losses, mismanagement, or lack of integrity.  Besides the legal implications of a HIPAA breach, unexpected data loss or EHR downtime can bring a hospital to a grinding halt.  Patients demand a high level of care and expertise regarding the management of their health information, regardless of whether the organization is using it for advanced population health analytics or to administer a flu shot.
+With one in five of the poll’s decision makers specifically identifying a lack of trust in analytics infrastructure as a reason against investing further in such technology, how can healthcare continue its push towards integrating data into patient care without help from the executive board?  It can’t.
+Healthcare has to convince leadership that data analytics is the answer to revenue cycle management, improved patient care, and continued financial health as the industry moves towards novel reimbursement structures. The best way to do this is to design analytics systems that are dependable and robust with a high degree of integrity.  While no technology is entirely immune to glitches, crashes, and malicious attacks, the only way to earn trust is to prove that it can be maintained.
+As healthcare continues to focus on implementing IT systems that treat patient data like the business asset that it is, and prestigious rankings like the HIMSS EMRAM score and the new DELTA score turn IT maturity into a badge of honor, executives may decide that there’s something in it for the hospital and its financial stakeholders after all.
+  Tagged Healthcare AnalyticsHealthcare Data AnalyticsHealthcare Data Strategy
+
+

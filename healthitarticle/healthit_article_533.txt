@@ -1,0 +1,31 @@
+30-Day Patient Mortality Rates Drop During Hospital Inspections
+
+March 21, 2017
+
+By Jennifer Bresnick
+March 21, 2017 - 30-day patient mortality rates notably drop in hospitals experiencing surprise quality inspections conducted by The Joint Commission (TJC), says an article from JAMA Internal Medicine, indicating that clinicians may not always be on their absolute best behavior unless someone is watching.
+When The Joint Commission inspectors come to visit major teaching hospitals, patient deaths within 30 days of discharge decline from an average of 7.21 percent to 7.03 percent, a decrease can be directly attributed to having someone looking over the shoulders of nurses, physicians, students, and other staff.
+TJC inspectors conduct unannounced on-site surveillance every 18 to 36 months at US hospitals, explains the research team from Harvard Medical School, Partners Healthcare, and the National Bureau of Economic Research.
+“During these week-long inspections, TJC surveyors closely observe a broad range of hospital operations, focusing on high-priority patient safety areas, such as environment of care, documentation, infection control, and medication management,” the authors said.
+“The stakes for performance during a TJC survey are high: loss of accreditation or a citation in the review process can adversely affect a hospital’s reputation and presage public censure or closure.”
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+Larger academic medical centers are particularly sensitive to taking hits to their reputation after an unfavorable inspection, and tend to urge staff members to be extra vigilant about adhering to best practices for patient safety and care quality.
+“This phenomenon closely resembles the Hawthorne effect, an observation in the social sciences that research participants change their behavior because of the awareness of being monitored,” the study notes. 
+“The Hawthorne effect has been well described in various health care settings, including antibiotic prescribing, hand hygiene, and outpatient process quality in low-resource settings, and has been cited in a TJC report as a significant barrier to accurate observation of hand hygiene practices.”
+The study set out to explore whether these common behavioral changes had a downstream impact on patient care.  Using Medicare Provider Analysis and Review (MedPAR) data from 2008 to 2012, the team compared outcomes for patients admitted during survey weeks when TJC inspectors were actively examining staff to those admitted at other times. 
+The researchers decided upon 30-day mortality as the most appropriate gauge of care quality, but also measured other common patient safety indicators, including pressure ulcers, hospital acquired infections from central lines and Clostridium difficile, post-surgical complications, and in-hospital mortality from cardiac arrest.
+READ MORE: Patient Safety, Engagement Relies on Crafting a Culture of Change
+The team took particular care to reduce the possibility that mortality rate changes were due to chance by randomizing the data, eliminating timeframes that included major national holidays, normalizing staffing levels, and running calculations across multiple replications.
+After examining more than 244,000 admissions during 3417 survey weeks and over 1.4 million admissions in the three weeks before and after a TJC inspection, the team found a “significant reversible decrease in 30-day mortality” for admissions during an inspection compared to non-survey time periods.
+“After adjustment, there was a statistically significant absolute decrease in mortality of 0.12 percent. This finding corresponds to an overall relative decrease of 1.5 percent in the 30-day mortality rate potentially attributable to TJC surveys.”
+Large teaching hospitals exhibited the widest difference between survey weeks and non-survey weeks.  During a normal week, unadjusted 30-day mortality averaged 6.41 percent.  When the inspectors were onsite, the rate dipped to 5.93 percent.
+“With adjustment, this translates to a 5.9 percent adjusted relative decrease in 30-day mortality attributable to survey weeks in major teaching hospitals,” the study states.
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+Patients in the top half of expected mortality tended to die less frequently when TJC was watching their care, the team added, exhibiting an adjusted absolute decrease of 0.19 percent.
+“In the overall analysis, the observed mortality decrease was larger than 99.5 percent of effect sizes noted in a permutation test of 1000 replications of randomly assigned hospital survey date pairs,” the authors pointed out, indicating that the differences are not due to chance or inadequate consideration of associated variables.
+“At major teaching hospitals, which had the largest relative mortality reduction, given an annual average of more than 900,000 Medicare admissions as defined in this study from 2008 to 2012, an absolute reduction of 0.39 percent in 30-day mortality would translate to more than 3600 fewer mortality events for Medicare patients annually,” they said.
+While the authors do not propose that hospitals implement an environment that mimics the “high stress and scrutiny” of a TJC survey throughout the year, organizations may be able to develop sustained patient safety improvements by taking the time to analyze differences in processes that occur when the inspectors are on-site.
+“One strategy for health systems to consider would be to observe which aspects of normal day-to-day operations change most dramatically in their institution to meet survey readiness standards (e.g., clean environment and proper documentation),” the study suggests. “Those changes may be the best opportunities to identify whether more continual attention could improve patient safety.”
+Tagged Care QualityHospital QualityPatient OutcomesPatient SafetyPopulation Health Management
+
+

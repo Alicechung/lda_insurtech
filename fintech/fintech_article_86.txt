@@ -1,0 +1,47 @@
+Reshaping the Insurance Industry
+
+June 13, 2018
+
+By Kate Goldfinch and Nathan Gore, Journalist at The Fintech Times.
+
+ Insurtech is now a big deal, and it is here to stay. No longer just a mere overlooked subdivision of the wider fintech industry, it is beginning to make waves in its own right. According to data from CBInsights, Insurtech investment averaged $1.7 billion a year from 2014 to 2016, compared to $250 million a year from 2011 to 2013. Insurtech is now a truly global phenomenon, with the UK, Germany, China and India now being significant markets in their own right.
+
+ There has been a rise in the media buzz around this sector too, thanks to some mega funding rounds generating headlines. Zhong An ($930 million), is China’s first property insurance company which is selling all of its products, and handling all of its claims, completely online. Oscar ($400 million), is a technology-focused startup that has experienced rapid growth, and expects to generate nearly $1 billion in revenue, and enrol a quarter of a million members in 2018. Recent launches of startups like USbased Lemonade and UK-based Trov, have also gone a long way to generating investor excitement in this sector.
+
+ 1. Analytics
+
+ One ‘big data’ startup making waves in the insurtech space, is The Floow. The Floow gathers data from phones and in-vehicle ‘black boxes’, and aims to help make insurance premiums more accurate and also attempt to reduce the likelihood of a driver having an accident. They have received £13m equity investment, coming mainly from China-based investment group Fosun, with investors United Electronics Co., and Direct Line Group also involved.
+
+ 2. AI + ML
+
+ As a case example of investments into AI-driven automation, there is AIG who have invested in Human Condition Safety, an early stage company matching wearable technology with artificial intelligence. Machine-learning is changing the way insurers do business, and it gives them 3 distinct advantages. The first is to mine greater volumes of data, and the second is to scale analytics across the organisation by working smarter and faster. Thirdly, by answering more complex questions from “will this customer leave me to renewal?” to “what can I do about it?” it enables companies to grow up their predictive accuracy. Also machine-learning has real world applications, in the insurance fraud detection sector.
+
+ One company making waves is Lemonade, who in 2017 raised $120 million in a series C funding round, led by SoftBank. This USbased startup claims to be “a purpose-built, technology-first, vertically-integrated and legacy-free insurance carrier” as well as the first P2P insurance company in the world. They rely on chatbots and ML in order to cut down on paperwork and process claims faster. They also pitch themselves as an ‘ethical’ solution, as they have an annual ‘giveback’ scheme, in which they donate all unclaimed money to good causes.
+
+ 3. IoT
+
+ IoT can help to catch consumers’ behaviour shifts and to develop different pricing models (e.g. telematics – ‘pay as you drive’ model); to collect big data and to turn it into something that benefits customers through launching relevant products. And also IoT allows the implementation of automatic claim processes using different devices.
+
+ A good case example of this is Cozify, a Finnish company founded in 2013, who provide wireless system installation and maintenance services for home automation. In 2017, they partnered with LocalTapiola in order to launch the first Smart Home Insurance in Scandinavia. The aim is to combine an open home smart system with an extensive home insurance protection, in order to save the customer money and provide ease of mind. For instance, in the case of a water leak, fire or burglary, a smart home with notifications enables the customer to be proactive, rather than reactive when dealing with an insurance-relevant emergency/ situation.
+
+ The insurance sector, like with many other traditional sectors, has been notoriously slow at adapting to emerging technologies. They also find themselves faced with everchanging regulatory requirements, complex IT infrastructures, and significant changes to the traditional distribution model. As Accenture’s ‘The Rise Of Insurtech’ report puts it: “traditional insurers are more than 300 years old, whereas many insurtechs are less than 300 days old. This can lead to significant challenges and differences surrounding culture, workforce, agility, and technology. It can also lead to misconceptions on both sides and, occasionally, a lack of common understanding about the size of an opportunity or how best to realise it.”
+
+ A look at some of the statistics behind this situation- conducted via surveys- really tell more of the story. Firstly, three in four insurance companies believe that some part of their business is at risk of disruption, but only 43% have fintech at the heart of their corporate strategy. These are the main numbers that indicate the current state of affairs within the wider industry. Furthermore, less than a third of insurers are exploring partnerships with fintechs, and only 14% have a more active participation by investing in and/or supporting fintech incubators. According to the same report, however, nine in ten insurance executives, the greatest percentage out of the financial sector, believe that at least part of their business is at risk to Fintech.
+
+ So whilst these companies are aware of the challenges that this new technology will bring, it appears that- at least previouslythere was a lack of appetite within the industry as to formulating a specific strategy for how they are going to best approach this. Given the rapid pace of the fintech industry, however, it is unlikely that they continue to ignore possible relationships for much longer.
+
+ So, as we have seen, there is plenty of innovation within the insurtech sector, coupled with a general lack of recognition from within the established insurance companies as for the need to work with this new technology, or to adapt themselves. This may have been the case for the whole industry a few years ago, but it seems it is not the case at present, for everyone. Big, traditional industry players have now woken up the promise of fintech.
+
+ Investments in blockchain-related startups across industries have grown to more than $800 million, according to McKinsey – and the insurance industry is taking note. Since 2014 AXA, Generali, Allianz, Lloyds of London, Mutual Insurance, and MetLife have poured millions into blockchain research, determined to strengthen ties with consumers, regulators, and each other.
+
+ Eos Venture Partners, a specialist venture capital investor, has announced their intention to raise a $100m debut fund. The fund will be one of the first global, independent insurtech investment funds, and will be targeting early and growth stage investments. Sam Evans, one of the General Partners, commented, “insurtech is one of the fastest growing investment sectors globally, and is a compelling space in which to invest. There are tremendous opportunities to drive innovation and Eos is positioned at the heart of this new and exciting sector. The global insurance industry is facing an unprecedented period of change, that will see a trillion dollar value shift between winners and losers.”
+
+ “Insurers recognise that the everyday lives of their customers are being transformed by new technologies. They also recognise that this transformation is affecting their own industry, which is undergoing an ecosystem disruption caused by technology-driven new entrants and existing competitors alike. Insurers are thus facing increasing pressure to evolve and reinvent themselves before that disruption hits the bottom line,” Accenture’s ‘The Rise Of Insurtech’ research explains.
+
+ Just how important is Insurtech to the industry? Will it be only a minor disturbance, a footnote in the history of an established industry accustomed to thinking in terms of decades, if not centuries? Or does Insurtech represent something more serious; not just hype but a new frontier, one that perhaps will pose a threat to incumbents? And will Insurtechs bring insurance to the next level by unlocking the power of customer-centric thinking and digitalisation?
+
+ While many insurance companies initially ignored Insurtech activities and denied their relevance, the picture has clearly changed. Virtually all major insurers and reinsurers have initiated digitalisation programs. Quite a few have responded by setting up captive accelerator or incubator programs, or by making direct investments.
+
+ Providing traditional players with some recommendations on how to facilitate the companies’ growth, we ought to mention the importance of driving innovations through collaboration. Combining the depth of incumbents’ experience, with the creativity and agility of start-ups, will accelerate the industry’s digital transformation and enhance its ability to respond to future challenges.
+
+

@@ -1,0 +1,18 @@
+5G To Accelerate The Realization Of Autonomous Cars
+
+16 Mar 2018
+
+The automotive industry is rapidly evolving and is in the midst of a transition toward producing vehicles that are increasingly aware of their surroundings. A key enabler of this evolution is cellular V2X (C-V2X) communication, which allows a vehicle to communicate with other vehicles, pedestrians, road-side equipment and the Internet.
+Chris Pearson
+“International standards for Cellular Vehicle-to-Everything communication are currently being developed and will positively affect our everyday lives. The rapidly evolving connected car market truly demonstrates the speed at which we are progressing in the evolving mobile wireless industry,” noted Chris Pearson, President, 5G Americas. “The 5G-based solutions for vehicles will aim to provide advanced vehicle-to-everything communications capabilities offering the promise for efficient transportation, improved safety and much more in the near future.”
+For many years, there has been a goal that vehicles should be able to communicate with not only other vehicles (V2V) but also with nearby infrastructure (V2I), Internet-based networks (V2N) and even pedestrians (V2P). Collectively these use cases have become known as vehicle-to-everything (V2X) connectivity. Now, with advances in electronics, sensing technologies and computing techniques such as machine learning and computer vision, these use cases are starting to become reality. New vehicles today are capable of taking a more active role by warning drivers of potential collisions with oncoming vehicles, assisting with emergency braking and monitoring intersections, to name just a few examples. This represents a big step forward from relying on passive safety features such as seat belts and air bags.
+In the automotive industry, this trend is viewed as the beginning of an evolution to automated and eventually fully autonomous vehicles. In an autonomous vehicle scenario, the vehicle’s on-board computers will be fully capable of performing all driving operations on their own, with no human monitoring required. This still is a few years away, but trials are underway, test vehicles are on the road, and international standards are in development.
+Michaela Vanderveen
+That evolution is clear via 3rd Generation Partnership Project (3GPP) standardization for LTE in Release 14 which is slated to support C-V2X communications for basic safety use cases. The development of the 3GPP standards to 5G-based V2X solutions will add advanced features with high density, very high throughput, ultra-high reliability, ultra-low latency and sub-meter positioning.  These technologies will provide innovative advancements to the connected and autonomous cars as 5G will enable improved quality of service, lower latency, enhanced broadband access and global connectivity.  The cellular V2X report highlights:
+5G standards for the automotive sector with details around architecture and security aspects
+Comparison of C-V2X and 802.11p based Dedicated Short Range Communication (DSRC) technologies
+Advanced use cases enabled by 5G-based V2X communication
+Areas of collaboration and partnership among mobile network operators, vehicle manufacturers, cloud service providers and regulatory bodies
+“It is important to note that the 5G radio access enhancements will enable advanced use cases for data exchange, but will not duplicate the 4G-based V2X functionality. This way, 5G V2X services are additive to the foundational capabilities of Release 14 C-V2X,” explains Dr. Michaela Vanderveen, Principal Engineer of Qualcomm Technologies, Inc. “Indeed, 5G New Radio (NR) based C-V2X will be future-proof and backwards compatible with Release 14 C-V2X.”
+
+

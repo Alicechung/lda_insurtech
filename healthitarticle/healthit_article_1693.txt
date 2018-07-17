@@ -1,0 +1,19 @@
+“Virtual Clipboard” to Streamline Patient Intake Data Workflow
+
+December 16, 2014
+
+By Jennifer Bresnick
+Patient intake has been one of the last paper-bound holdouts in healthcare, but that may soon change as stakeholders collaborate on a “virtual clipboard” project.
+December 16, 2014 - A number of prominent healthcare organizations, including HIMSS, WEDI, and MGMA, are working with the Office of the National Coordinator (ONC) and other stakeholders to develop a simpler, more effective way of collecting, storing, and maintaining patient intake data.  The “virtual clipboard” will better integrate basic patient information into existing electronic clinical documentation workflows, harnessing the power of mobile technologies while reducing the potential for transcription errors and the need for patients to repeat the same information multiple times.
+“We’ve been talking about the importance of shifting to a paperless healthcare environment for years but the patient intake process is still mired in the ‘70s. Not only does the current process add unnecessary costs in the system, but it can lead to treatment complications due to inaccurate or incomplete health records,” said Devin Jopp, EdD, president and CEO of WEDI, in a news release. “Through a collaboration driven by WEDI, the Sullivan Institute for Health Innovation and our other partners, we are committed to moving away from the existing routine of clipboards, photocopiers and manual keystrokes, and toward use of a patient-friendly virtual clipboard.”
+The collaboration includes more than 40 healthcare stakeholders, including representatives form health plans, providers, and health IT vendors, and will develop an initial pilot program that will allow patients to submit their health insurance and demographic information through a standardized, shared mobile approach.  Latter phases of the pilot will focus on exchanging this health information between providers at check-in time, ensuring that all patients are securely and accurately associated with the right data.
+“Physician practices currently must deal with numerous proprietary approaches to health insurance cards, lack of automated solutions, and challenges associated with collecting and recording accurate patient data,” said Anders M. Gilberg, senior vice president of government affairs for MGMA. “This important initiative has the potential of significantly improving the patient intake process, currently an overly burdensome and costly component of the healthcare system. We commend the Sullivan Institute for Healthcare Innovation for taking on the formidable task of bringing key stakeholders together in this effort to reduce administrative inefficiencies.”
+Dig Deeper
+Synchronized Pick-Up Boosts Medication Adherence Up to 13%
+4 Partnership Steps for Addressing Social Determinates of Health
+CMS Picks Care Coordination Hubs for Accountable Health Program
+The project will help to address issues of data governance in healthcare organizations, particularly the problem of transcription errors, copy/paste mistakes, and the problem of associating the wrong EHR file with the wrong patient.  Such data integrity errors have topped patient safety risk lists for years, and continue to be widespread as healthcare organizations continue to optimize and customize their health IT infrastructure.
+“For years, HIMSS has worked with its members on patient record matching and patient data integrity,” added Lisa Gallagher, vice president of technology solutions at HIMSS. “We anticipate that this project will address data quality in a significant way and deliver a near-term, real solution for patients and the industry alike.”
+Tagged Care CoordinationPatient Data
+
+

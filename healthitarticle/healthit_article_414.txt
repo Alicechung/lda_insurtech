@@ -1,0 +1,32 @@
+Hyperledger Brings Healthcare Blockchain Closer with Fabric 1.0
+
+July 11, 2017
+
+By Jennifer Bresnick
+July 11, 2017 - Developers interested in bringing blockchain applications to the healthcare industry have a new arrow in their quiver with the release of Hyperledger Fabric 1.0.0, the first publically available version of the consortium’s open source blockchain framework.
+Fabric creates a plug-and-play environment for building blockchain applications, allowing developers to take advantage of a module architecture for components such as membership services.
+“Hyperledger Fabric 1.0 is a true milestone for our community,” said Brian Behlendorf, Executive Director, Hyperledger. 
+Dig Deeper
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+Blockchain Will “Change the Physics” of Health Data Sharing
+“After over a year of public collaboration, testing, and validation in the form of POCs and pilots, consumers and vendors of technology based on Hyperledger Fabric can now advance to production deployment and operations. I look forward to seeing even more products and services being powered by Hyperledger Fabric in the next year and beyond.”
+The framework is the first of eight projects being incubated by Hyperledger, and is the first to move into “active” status earlier this year. 
+More than 200 engineers, writers, and testers from dozens of organizations participated in the development and testing of Fabric 1.0, which represents an initial springboard for application developers in healthcare, finance, manufacturing, and countless other industries.
+“No open source project is ever ‘done,’ and the same can be said for Hyperledger Fabric,” acknowledged Chris Ferris, Chair of Hyperledger Technical Steering Committee, CTO Open Technology, IBM in an accompanying blog post.
+Additional coding and integration projects are on tap for the Hyperledger team.
+“We also have more work to do on performance and of course we have plans to add more comprehensive performance, scale and chaotic testing to our continuous integration pipeline to continue to add to the robustness of the platform,” Ferris continued.
+“However, the project’s maintainers felt that the time was ripe to deliver a robust initial major release with the objective of allowing consumers and vendors of technology based on Hyperledger Fabric to advance to the next stage: production deployment and operations.”
+The framework’s release comes at a crucial time for the healthcare industry, which is just starting to become enamored with the potential for blockchain to revolutionize data management and security.
+The distributed ledger methodology offers the ability to create truly patient-centered data sharing communities, in which the consumer has robust control over where their personal information travels, how it is accessed, and how it is used.
+“There’s an opportunity to capture the holy grail of health IT, which is to put the patient back in the center of their care,” Behlendorf said to HealthITAnalytics.com earlier in 2017. 
+“We can provide much more transparency balanced against confidentiality.  We can change the landscape of that by adopting blockchain – and hopefully cut the costs of bureaucracy and overhead that make healthcare so expensive.”
+Blockchain may also improve supply chain management, leading to safer distribution and use of medications, medical devices, and other items.
+“If you could chart the pharmaceutical supply chain from the drug’s batch number and factory of origin all the way to sale and storage and adherence, you could identify issues much more granularly,” he said. 
+“If you start seeing a hotspot of patients taking that drug having some sort of problem, you can easily see if it’s traced back to just that batch or if there’s a problem with the drug as a whole, or if a certain provider needs to improve the way they help patients stick with their regimens.”
+While a few companies have dedicated themselves to creating blockchain-based tools and applications specifically for the healthcare industry, activity has mainly centered on exploratory research and largely academic use cases.
+The availability of Fabric 1.0, and its subsequent revisions, may be the spark that accelerates blockchain’s transition from theory into practice.
+“I am so proud to be a part of the diverse community that came together to help birth Hyperledger’s first 1.0 project: Hyperledger Fabric 1.0,” said Ferris. “Of course, it doesn’t end here. There’s plenty more work to be done, more collaboration and more innovation on tap from all of the Hyperledger projects.”
+Tagged Analytics InfrastructureBlockchain in HealthcareHealth Data ExchangeInteroperabilityPatient Centered Care
+
+

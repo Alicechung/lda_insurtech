@@ -1,0 +1,22 @@
+FICO Predicts AI And Blockchain Will Meet In 2018
+
+16 Jan 2018
+
+Chief Analytics Officer Dr. Scott Zoldi’s AI Forecasts Includes The Rise Of “Defensive AI” and Manipulative Chatbots
+The growing use of blockchain technology in financial services will include a healthy dose of artificial intelligence, as new, automated analytic techniques look for patterns in the “relationship data” about people, contracts and transactions. That merger of two hot tech trends is one of the predictions made by Dr. Scott Zoldi, chief analytics officer at Silicon Valley analytic software firm FICO, and a recognized expert in the field of artificial intelligence.
+Highlights:
+Blockchain will use AI to search through relationship data, says Dr. Scott Zoldi, chief analytics officer at FICO, in his AI predictions for 2018
+Defensive AI will be used to protect systems from malicious AI and machine learning
+Chatbots will get so good at understanding us they will learn how to manipulate us
+Dr. Scott Zoldi
+“Beyond its association with cryptocurrencies, blockchain technology will soon record ‘time chains of events,’ as applied to contracts, interactions and occurrences,” Dr. Scott Zoldi wrote on the FICO Blog. “Think about renting a car. In the future, you will be able walk up to a car to lease it, but you’ll do so with a micro-loan for which you are approved to lease the car for, say, an afternoon. This micro-loan will have insurance contracts attached to the blockchain, and a codified history of the car’s history of drivers, events, and maintenance. As you drive through the city and interact with toll roads and parking spaces, all of this information will be automatically recorded and monitored on the blockchain. When you leave the car and lock it, the lease is complete and auditable on the chain. These kinds of data event chains will create new opportunities for graph analytics and novel new AI algorithms to consume relationship data at scale.”
+Zoldi, who leads the team that builds FICO’s AI analytics for solutions such as fraud management and cybersecurity, also sees a rise in what he calls “defensive AI.” “Attackers use malicious AI and ML to circumvent the protective systems companies have in place,” he wrote. “This arms race, in which criminals arm themselves with adversarial machine learning, tops McAfee’s 2018 security forecast. In 2018 we will see new systems that will seed their outputs with ‘faint signatures’ to mislead, confuse or identify the attackers learning the AI system’s response.”
+As chatbots get smarter and use more AI, they will not only understand us better, they will also be better at manipulating us, Dr. Zoldi predicts. “By quickly understanding the tone, content and predicted highest-value conversational paths to meet various objectives, chatbots using AI can also learn the magic words to sway our attitude, actions and possibly elicit en masse reactions,” he wrote.
+Dr. Zoldi’s other predictions for AI in 2018 are:
+AI will have to explain itself. “The need for Explainable AI (XAI) is catalyzed by regulations like the European Union’s General Data Protection Regulation (GDPR), which requires explanations for decisions based on scores, including those produced by AI and ML systems.”
+AI will augment us. “Whether it’s drawing the information together for us to be superhuman at investigation, data recall, or improving how we learn new topics, AI will augment our ability to process new information. The question will be as to whether our human brains will atrophy, improve or simply evolve to the rate and frequency of data.”
+AI will get operationalized. “In 2018, companies will focus on operationalizing AI, particularly in the cloud, to more easily build, refine, deploy and enhance machine learning environments.”
+Dr. Scott Zoldi has been responsible for authoring 83 analytic patents with 42 patents granted and 41 in process. Dr. Zoldi is most recently focused on new applications of AI and machine learning analytics across fraud, cybersecurity and other applications.
+DISCLAIMER: The views and opinions expressed in this article are those of the authors and do not necessarily represent official policy or position of AIthority.
+
+

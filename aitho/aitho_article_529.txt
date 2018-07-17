@@ -1,0 +1,22 @@
+Eggplant Deepens AI Test Automation Capabilities
+
+18 May 2018
+
+New capabilities further perfect the ability to blend human expertise with AI-powered insights to optimize testing.
+Eggplant, the provider of user-centric, intelligent testing and performance solutions, today announced the latest enhancements to its Digital Automation Intelligence (DAI) Suite. The advancements support Eggplant’s mission to use AI, machine learning, and analytics to optimize the digital experience, allowing teams to keep up with pace of DevOps, and improve time to market and customer satisfaction.
+@eggplantio deepens AI test automation capabilities to optimize the digital experience
+The latest product releases will enable Eggplant to continue to transform testing by increasing automation and visibility, helping teams to understand and test the user journey and gain valuable insight into the entire user experience.
+Read More: Interview With Dr. Spincer Koh, CEO, Gorilla Technology Group
+New releases in the Digital Automation Intelligence Suite include:
+Eggplant AI, the AI-powered test modeling and automated test creation product, is enhanced to incorporate the concept of prioritized user journeys. This allows QA professionals to ensure that all common user journeys are tested before switching to AI-powered test mode — which is analogous to switching to test autopilot. This functionality blends the best of human expertise and AI insight. Eggplant AI can now also automate the capture and analysis of runtime performance data and enable the testing process to “learn” where potential bottlenecks are and eradicate them.
+Eggplant Functional, the market-leading automation engine, is enhanced with AI-powered application discovery capabilities. The solution can now automatically build a GUI interaction model by routinely learning about the elements that compose an application screen. Companies can then use this information to automatically populate the automation logic in an Eggplant AI application model.
+Read More: Interview With Dr. Spincer Koh, CEO, Gorilla Technology Group
+Eggplant Performance, a powerful load and performance testing product, is enhanced with support for JMeter, a popular and simple-to-use open source performance testing framework. By including support for JMeter, Eggplant now enables developers and testers to utilize the power of Eggplant Performance with existing JMeter assets, as well as use the test controller and analyzer technology for better runtime test visibility and improved analysis and reporting capabilities. Creating load test scripts is simple, and the new, real-time KPIs dramatically shorten the feedback loop between testing and results analysis.
+Eggplant Manager and Eggplant Automation Cloud, which offer testers the ability to create a scalable device lab that virtualizes and manages thousands of devices, test cases and users, is also enhanced. Both solutions feature a 10x performance and scalability improvement as well as automatic database backups during upgrades. Updates to Eggplant Manager also include better support for command-line repositories, plus the ability to export filtered HTML and PDF versions of results.
+Antony Edwards
+Quotes and Commentary
+“Optimizing the digital experience and ensuring apps deliver on business goals are the keys to success in a digital world. The days of only looking at “does the code work” are in the rear-view mirror. Driving the whole DevOps cycle through AI, machine learning, and analytics is essential in order to understand and perfect the digital experience. The Digital Automation Intelligence Suite is transforming how organizations automate testing and performance in our complex, hyper-connected world. The latest capabilities further accelerate our vision to fully automate and understand the entire user experience.”
+Antony Edwards, CTO, Eggplant
+Read More: Interview With Laszlo Kishonti, CEO At AImotive
+
+

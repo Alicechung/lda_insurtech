@@ -1,0 +1,20 @@
+Risk of Heart Attack Jumps with Non-Obstructive Heart Disease
+
+November 05, 2014
+
+By Jennifer Bresnick
+Non-obstructive coronary artery disease is an important risk factor for myocardial infarction, a new JAMA study says.
+November 05, 2014 - Patients with non-obstructive coronary artery disease (CAD) are up to 4.5 times more likely to suffer a myocardial infarction than those who do not exhibit characteristics of the disease, according to a new study published in JAMA, despite the focus on obstructive CAD as a primary culprit in most heart attacks.  The risk of a fatal MI among veterans seeking care in the VA system increased significantly as more vessels showed signs of CAD even though the condition did not obstruct more than 50% of the artery.
+The researchers examined 37,674 patients, 22.3% of whom had non-obstructive CAD, through EHR data, claims information, and the VA Clinical Assessment, Reporting, and Tracking (CART) program, which records data from all coronary angiograms and tracks longitudinal patient outcomes.  The study included patients who showed CAD indications, including chest pain or ischemic heart disease, but excluded those who had previously experienced a heart attack.  Non-obstructive CAD is defined as coronary artery stenosis greater than 20 percent but less than 50 percent.
+“Historically, obstructive CAD has been the primary focus in CAD management because of its role in causing cardiac ischemia and accompanying anginal symptoms,” the study says. “In addition, obstructive CAD usually corresponds to extensive CAD, which is associated with higher MI rates. However, the recognition that ruptured plaque, rather than occlusive plaque, is the genesis for most MIs, along with the recognition that the majority of ruptured plaques arise from non-obstructive CAD, suggests that non-obstructive CAD is associated with significant risk for MI and all-cause mortality and provided the rationale for this investigation.”
+One-year MI rates increased as patients experienced higher degrees of disease.  Just 0.11% of patients with no evidence of CAD was treated for an MI within 12 months, while 2.47% of patients with 3-vessel CAD underwent the same.  One-year all-cause mortality rates were also indicative of the same relationship, ranging from 1.38% among non-CAD patients to 4.3% among the highest risk group.
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+University of California Forms Big Data, Precision Medicine Network
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Patients with lower levels of non-obstructive CAD were twice as likely as healthier patients to experience an MI, but those in the more advanced disease category saw their risk jump to 4.5 times as likely to have a heart attack as patients with healthy hearts.
+“These findings highlight a need to recognize that non-obstructive CAD is associated with significantly increased risk for MI, consistent with prior biologic studies indicating that a majority of MIs are related to non-obstructive stenosis,” the researchers said. “Correspondingly, these results reveal the limitations of a dichotomous characterization of angiographic CAD into “obstructive” and “non-obstructive” to predict MI and highlight the importance of preventive strategies such as pharmacotherapy treatments and lifestyle modifications to mitigate these risks.”
+The study also suggests that the research into the relationship between non-obstructive CAD and MI events could benefit from better data collection in registries that would allow more robust clinical analytics and investigation into the impact of non-obstructive CAD on overall heart health and mortality.
+Tagged Applied AnalyticsMedical ResearchPopulation Health Management
+
+

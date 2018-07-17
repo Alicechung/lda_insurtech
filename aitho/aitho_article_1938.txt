@@ -1,0 +1,15 @@
+Galvanize And IBM Announce First Online Cognitive Builder Course
+
+14 Jul 2017
+
+Galvanize and IBM announced the launch of the first online Cognitive Builder Course, a program with a uniquely engaging format that includes real-time online support, training videos and hands-on activities designed to prepare developers to build cognitive applications with the intelligence of IBM Watson.
+“The cognitive computing revolution is ushering in demand for a new era of developer,” said Galvanize CEO, Jim Deters. “As more companies invest in artificial intelligence and machine learning technology, a new set of capabilities and APIs will need to be mastered. Our first co-created course with IBM aims to up-skill existing engineers to build AI applications with IBM Watson.”
+Developed by expert data scientists from Galvanize and cognitive developers from IBM, the Cognitive Builder Course is available online to any developer interested in utilizing the power of IBM Watson machine learning and artificial intelligence. Students will be able to join a community of other Cognitive Builders and engage in real-time conversations with their fellow students.
+“There has never been a more exciting time to be a developer,” said Willie Tejada, IBM Chief Developer Advocate. “This partnership is about putting new AI and cognitive tools, technology and hands-on training into the hands of developers, giving them the resources they need to create innovative applications and solutions.”
+The course has been built for developers who seek to grow their Python programming skills, while also satisfying their curiosity about how to leverage the power of Watson in building applications. The ideal students for this program recognize an application for these skills in their current job functions. They also possess a desire to quickly drive positive business outcomes by streamlining workflows and operational processes through the application of cognitive technology.
+Students will learn to:
+Develop familiarity with cognitive technologies, their functions and use cases
+Design intelligent products that use artificial intelligence to solve new business problems
+Acquire the skills needed to prototype, integrate and deploy cognitive technologies
+
+

@@ -1,0 +1,116 @@
+Multidisciplinary statisticians will further healthcare big data
+
+September 10, 2014
+
+By Jennifer Bresnick
+September 10, 2014 - A multidisciplinary approach with an emphasis on statistics and scientific thinking will be critical for harnessing and leveraging big data in healthcare, says a new white paper from the American Statistical Association.  Approaching complicated and noisy clinical datasets with a mathematical mind can help to bolster decision-making processes while refining new technologies and machine learning applications to zero in on key insights.
+“Data touch almost every aspect of our lives, from the way we transact commerce on the web, to how we measure our fitness and safety, to the way doctors treat our illnesses, to economic decisions that affect entire nations,” the paper says. “The age of Big Data will be a golden era for statistics. Scientific fields are transitioning from data-poor to data-rich and—across industries, science, and government—methods for making decisions are becoming more data-driven as large amounts of data are being harvested and stored.”
+“Because one can easily be fooled by complicated biases and patterns arising by chance, and because statistics has matured around making discoveries from data, statistical thinking will be integral to Big Data challenges,” the brief adds.
+As healthcare shifts into a data-centric industry and the sheer volume of available data multiplies at an exponential rate, data scientists and technology developers will need to discover more efficient ways of collecting, storing, categorizing, and presenting data sets.  The white paper identifies four key areas that healthcare data scientists will need to address to accomplish the objectives of population health management and personalized clinical care: causal inference, bias reduction, pattern mining, and model tradeoffs.
+Why Can’t Providers Trust Their Healthcare Big Data Analytics?
+70% of Patients Want EHR Data Sharing Despite Security Concerns
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+Alabama Recruits for Statewide Population Health, Genomics Program
+How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+Artificial Intelligence Tool Passes UK Medical Diagnostics Exam
+How Soon Will Healthcare Connect Machine Learning with Consumers?
+Coding, CDI Outsourcing Improve Case Mix, Healthcare Data Integrity
+CancerLinQ Will Bring Big Data Analytics to Oncology Care
+Atul Gawande to Lead Amazon, Berkshire, JPMorgan Healthcare Company
+Can Big Data Solve the Health Insurance Transparency Problem?
+Leveraging Healthcare Big Data to Improve Population Health
+Podiatric Services Aid Chronic Care Management, Value-Based Care
+93% of Payers, Providers Say Predictive Analytics are the Future
+HHS Names Accelerators for Artificial Intelligence Innovation
+Wearable Devices, Machine Learning Detect Signs of Stroke
+Care Coordination Cuts Nursing Home Spending, Hospitalizations
+Is ICD-10 End-to-End Testing as “Successful” as It Seems?
+WEDI to Examine Data Analytics Backbone of Bundled Payments
+Poor Medication Adherence Impacts Close to Half of Diabetics
+Washington lawmakers want hospital price transparency
+Understanding the Many V’s of Healthcare Big Data Analytics
+What to expect from big data, healthcare analytics at HIMSS14
+82% of hospitals using cloud services for HIE, data storage
+FDA Antibiotic Stewardship Tool Offers Centralized Data Resource
+EHR Data Integrity Not Robust Enough for Clinical Trial Use
+EHR, Big Data Analytics Success Hinges on Holistic Change Management
+ONC Pilot Focuses on PGHD, Patient Engagement, HIE Start-Ups
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+Three real use cases for healthcare analytics working today
+EHRs, Value-Based Care Constrain Personalized Medicine Progress
+Physician Quality Reporting System Penalties Snag 470K EPs
+Population Health Management Requires Moving Beyond the EHR
+EHR analytics: Hypertension 4 times more likely in obese kids
+Can Healthcare Informatics turn EHR Data into Phenotypes?
+Researchers study falls among the elderly with data analytics
+AMA Launches Diabetes Care Grants for Underserved Patients
+Natural Language Processing Could Translate EHR Jargon for Patients
+Patient Engagement Must Be Top Priority for Quality Healthcare
+Patient Engagement Starts with Providers Talking about Portals
+Precision Medicine Rises, Data Management Still a Barrier
+Health Data Exchange Could Save Medicare $3.12 Billion a Year
+NH Population Health Management Program Cuts Overdoses by 34%
+Barbershop Population Health Pilot Cuts Uncontrolled Hypertension
+CMS Funds Big Data Analytics Projects for Quality Improvement
+89% of Execs Say Big Data Analytics is Key to Market Share
+FDA Outlines EHR Data Use Best Practices for Precision Medicine
+Geisinger Announces New National Precision Health Initiative
+AHIMA: “Long-Awaited” ICD-10 Implementation is Good for Patients
+EHRs Can Aid Chronic Disease Management in Urban Settings
+VA Streamlines Care Coordination with New Health IT System
+Boosting Chronic Disease Management Through Pop Health Management
+Battling bad data to grow market share with big data
+Healthcare analytics and the promise of personalized genomics
+Family Caregivers Significantly Improve Transitions of Care
+Hospital readmissions decrease “whenever you try,” says Mayo
+5 Questions to Prep for Healthcare Big Data Analytics in 2016
+Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+Florida to create database for mental health analytics
+Can Healthcare Exploit the $7 Trillion Internet of Everything?
+Can Better Financial Data Management Save $375 Billion a Year?
+EHR Big Data Analytics Aid Cancer Screenings, Follow-Ups
+PCMH Wins HIMSS Davies Award for Population Health Management
+Interoperability, Population Health Remain Top EHR Challenges
+Four Big Data Governance Tasks to Prep for the Internet of Things
+Stage 3 Meaningful Use Prompts Hopes, Concerns for MGMA
+IOM Develops 15 Measures for Population Health Management
+87M historical patient records digitized for data analytics
+Big Data, Clinical Analytics Will Produce Quality Improvement
+Healtheway Rebrands to Promote Health Data Interoperability
+FDA: Big Data Standards, Interoperability Needed for Analytics
+Intel: Wearables, big data will track Parkinson’s disease
+Can cost clarity marry revenue analytics and accountable care?
+URAC awards recognize care coordination, healthcare analytics
+KLAS Names Best Vendors for EHRs, Business Intelligence, Analytics
+Can Big Data Analytics Improve Medication Non-Adherence?
+What Does “Pick Your Own Pace” MACRA Mean for Data Analytics?
+ECRI: Healthcare Internet of Things to Boost Population Health
+Poor Data Governance Practices Restrict Usefulness of EHRs
+Patient Matching Hampered by Poor Data Standardization
+Geisinger, AtlantiCare join for population health management
+AMA, White House Boost Chronic Disease Management Efforts
+Blue Cross Blue Shield Invests in Healthcare Big Data Analytics
+Finalized MACRA Quality Payment Program Requires Big Data Push
+High-Need Patients a Challenge for Population Health Management
+NY Expands Prescription Drug Monitoring Program to 25 States
+Population health management brings wellness to employees
+Just 30% of Mentally Ill Patients Screened for Chronic Disease
+Cancer Patient Care Coordination Key to Medical Home Program
+MD Health Systems Collaborate for Population Health Management
+Predictive Analytics Algorithm Targets Superbug Resistance
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+$112M Grant from HHS, AHRQ to Help Hypertension, Stroke Care
+AMIA: Consider Broadband Access a Social Determinant of Health
+How to develop a clinically integrated network in 5 steps
+Safety net leads the way in population health management
+Advanced EHR Use Brings 27% Decline in Patient Safety Errors
+Five Population Health Use Cases for the Internet of Things
+ONC releases EHR patient safety guides and tools
+14% of Patients Avoid Chronic Disease Management Due to Cost
+Since the data used for most population health management and clinical decision support applications is observational in nature, healthcare organizations must be careful to understand “the true causal impact and comparative effectiveness of treatments or care in terms of outcomes, satisfaction, and cost may involve the analysis of electronic medical records, claims databases, and quality surveys from thousands, and eventually, millions of people,” the paper says.  Big data analytics is further complicated by the natural bias inherent in population data, which may contain gaps in relation to crucial sub-populations, and the need to balance competing goals such as interpretability and accuracy.
+Statisticians have long been engaged in combating these challenges in the public health field as well as in a number of other industries, such as finance, business, the social sciences, and engineering.  As leaders of interdisciplinary data sciences teams, they can provide an important body of knowledge for developing predicting analytics algorithms, studying increasingly large and complex population data sets, and developing visualization applications for bringing analytical insights to providers and other end users.
+“The history of statistics shows how statisticians have engaged in interdisciplinary research, and how that engagement advanced domain sciences, informed policy, and provided new insights,” the brief concludes.  “Multidisciplinary teams—with each discipline having much to learn from other disciplines—will ensure the best science is brought to bear, help to avoid reinvention of existing techniques from the contributing data science disciplines, and spur development of new theories and approaches.”
+
+Tagged Big DataBig Data AnalyticsClinical AnalyticsHealthcare Business Intelligence
+
+

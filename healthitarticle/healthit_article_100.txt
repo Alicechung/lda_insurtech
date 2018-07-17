@@ -1,0 +1,36 @@
+CMS Renames Meaningful Use to Highlight Interoperability Goals
+
+April 24, 2018
+
+By Jennifer Bresnick
+April 24, 2018 - CMS has announced a rebrand of the familiar EHR Incentive Programs, commonly known as meaningful use, to reflect its ongoing commitment to interoperability, patient data access, and system-wide health information exchange.
+According to a proposed rule, the programs will now be known as “Promoting Interoperability,” the agency announced today, and will feature streamlined requirements that focus on reducing administrative burdens and enhancing the adoption of application programming interfaces (APIs).
+In addition to renaming the EHR Incentive Programs, CMS noted that the MIPS Advancing Care Information performance category will now be called the “Promoting Interoperability performance category” to maintain alignment across both programs.
+The announcement comes in conjunction with a slew of additional proposed changes to the Fiscal Year (FY) 2019 Medicare Hospital Inpatient Prospective Payment System (IPPS) and Long Term Acute Care Hospital (LTCH) Prospective Payment System Proposed Rule.
+“We seek to ensure the healthcare system puts patients first,” said CMS Administrator Seema Verma in a press release.  “Today’s proposed rule demonstrates our commitment to patient access to high quality care while removing outdated and redundant regulations on providers.”
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+“We envision a system that rewards value over volume and where patients reap the benefits through more choices and better health outcomes. Secretary Azar has made such a value-based transformation in our healthcare system a top priority for HHS, and CMS is taking important, concrete steps toward achieving it.”  
+In a media call immediately following the announcement, Verma stressed the importance of allowing patients to have comprehensive access to their own medical records in a usable, secure electronic format.
+“To avoid a payment penalty, providers will have to give patients electronic access to their health information,” she said.
+“This will further empower consumers because we are ensuring that the data follows the patient.  The proposed rule also increases privacy protection that requiring that all hospitals first protect the security of patient records.”
+The rule reinforces a challenging 2019 deadline for providers to adopt 2015 Edition Certified EHR Technology (CEHRT), which will support these objectives.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+2015 Edition CEHRT makes it easier for participants to meet the patient access requirement by including API functionality that simplifies the process of sharing information with patient portals, other electronic health records, or third-party applications that aggregate or analyze patient data.
+“In reviewing the state of health information technology, it is clear the 2014 Edition certification criteria are out of date and insufficient for provider needs in the evolving health IT industry,” the rule says.
+“It would be beneficial to health IT developers and health care providers to move to more up-to-date standards and functions that better support interoperable exchange of health information and improve clinical workflows.”
+The proposed rule also includes an intriguing request for information (RFI) on an idea that would take patient access one step further.
+CMS is seeking comment on the possibility of “requiring, as a condition of participation in the Medicare program, that providers should be able to share data with patients in a universal electronic format,” Verma said.
+READ MORE: 21st Century Cures Act Rekindles Information Blocking Debate
+“Our administration is serious about ensuring that when a patient leaves a hospital, they are able to get their medical information electronically – period,” she added.
+However, officials did not elaborate on what such a universal electronic format would look like or how it would function within current the health IT ecosystem.
+Since 2011, the EHR Incentive Programs have encouraged healthcare providers to adopt EHR technology, first by providing incentives for attesting to certain processes and functionalities – and now by implementing reimbursement reductions for those who fail to participate appropriately.
+The program has been roundly criticized throughout its history for moving too quickly for the speed of the market while requiring complicated reporting protocols and containing duplicative measures that consume significant resources.
+CMS has made frequent adjustments to reporting periods and attestation deadlines in order to work with providers, but the program has fundamentally remained the same.
+The new announcement may mark a significant turning point as CMS acknowledges that the programs in their current form are no longer in close alignment with the industry they purport to serve.
+“The Medicare and Medicaid EHR Incentive Programs has historically been broken into three stages primarily focused on data capture and sharing, advanced clinical processes, and improved outcomes,” the proposed rule stated.  “We are proposing scoring and measurement policies to move beyond the three stages of meaningful use to a new phase of EHR measurement.”
+“We also note that the former name, Medicare and Medicaid EHR Incentive Programs, does not adequately reflect the current status of the programs, as the incentive payments under Medicare generally have ended…and will end under Medicaid in 2021.”
+Other changes include adjustments to the scoring methodology – patient access to health data will be heavily weighted within the criteria – and a shift away from threshold-based measures that have frustrated many providers with low patient volumes or unique populations.
+The proposed rule is currently available in its entirety as an unpublished document in the Federal Register.  The document will be officially published on May 7, 2018.
+Tagged Application Programming InterfacesCMSEHR Incentive ProgramsInteroperabilityMeaningful UsePatient Access to Health DataPatient Portals
+
+

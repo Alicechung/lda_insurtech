@@ -1,0 +1,39 @@
+Growing Healthcare Opportunities for the Internet of Things
+
+January 18, 2017
+
+By Thomas Beaton
+The Internet of Things (IoT), has jumped to the forefront of the healthcare technology market, exhibiting exponential growth with the advent of wearables, personal trackers, sensors, and other technologies that capture extensive data previously unavailable for clinical decision-making.
+January 18, 2017 - A recent report from Grand View Research Inc. found that the IoT healthcare market is expected to reach $410 billion by the year 2022, with heightened investments in healthcare IoT from venture capitalists and hedge-managers.
+A separate report from RnRMarketResearch forecasts that the entire wearable sensors market will grow from $189 million in 2015 to a value of $1.654 billion in the year 2022 with a compound annual growth rate (CAGR) of 30 percent. Of that expected total, ingestible medical sensors will account for a $678.2 million opportunity.
+With the economic surge of the healthcare IoT market, the opportunity for providers to capitalize on IoT technology is growing at a similar rate. The ability to capture patient generated health data (PGHD) and properly incorporate it in value-based care is on the horizon for providers on national and global levels. 
+AN INVESTMENT OF BILLIONS, SKYROCKETING
+Devices that capture personalized data such as wearable activity trackers are expected to drive the majority of mHealth technology sales, according to a MarketsandMarkets report.
+This increased valuation of the healthcare IoT market over the years is believed to present an immense cost-saving opportunity for the healthcare industry as a whole.
+READ MORE: Internet of Things for Healthcare May be Worth $410B by 2022
+A report from Strategy Analytics found that organizations implementing financial, analytical, and facility management IoT tools could cut their operational expenses between 25 and 35 percent. 
+NEW LAYERS OF DATA FOR CHRONIC DISEASE MANAGEMENT
+Chronic disease management is a prime use case for the Internet of Things.  Currently, IoT-enabled healthcare can help providers through heightened monitoring and detection of chronic health issues.
+For example, the Children’s Hospital and Clinics of Minnesota are using FitBits to understand how activity and sleep patterns affect diabetic patient populations. The pilot program also involves communication to the family as well as the care team and patient.
+And at Silver Fern Healthcare and Baystate Medical Center, smart pillboxes generated an 80 percent adherence rate in medication for diabetic patients. The pill containers send providers alerts that digitally help track medication adherence.
+The use of IoT in chronic disease management offers a solution to properly combine big data, EHRs, and patient-engagement tools that can provide actionable data towards treating the millions of patients with chronic sickness.
+EMPOWERING PATIENT ENGAGEMENT
+READ MORE: How to Leverage the Internet of Things for Patient Engagement
+The healthcare IoT also presents an opportunity for providers to successfully increase patient engagement. Patient engagement is regularly seen as one of the top use cases in healthcare IoT.
+There is a heightened desire for patients wanting to access their own health data. Nationwide polls found that 53 percent of patients could not access their EHR data online, despite the fact that a majority of patients wanted to view their EHR data. There is a patient need for increased digital engagement with their healthcare, and IoT enablement offers a solution.
+In a survey conducted by Accenture, 85 percent of physicians surveyed believe that wearables improve a patient’s engagement with their own health. In that same survey, 76 percent of the patients recorded that these tools have the potential to manage and better their health.
+Using IoT tools to empower patient-engagement can help providers overcome another obstacle: the cost of in-office visits. A study published in the American Journal of Managed Care found that patients who are responsible for high out-of-pocket costs were more likely to use online engagement tools like email over an in office visit. On average, when office visits were more than $60 dollars patients diverted to email communications.
+If providers are able to give 24/7 service to patients through wearable devices and mHealth apps, and keep them active with their own health care through personalized devices, these tools have the potential to increase patient engagement and ensure that patients are receiving the care they need without undue financial burden.
+PUTTING THE DATA IN ONE PLACE
+READ MORE: Explaining the Basics of the Internet of Things for Healthcare
+If the IoT is the next big leap in providing value-based care, how will providers and organizations be able to standardize and manage the immense amount of data coming in?
+A draft white paper released by the ONC and Accenture Federal Services highlights strategies and policies that can implement and standardize PGHD at the clinical level, and overcome the hurdles of successful PGHD usage. These include building new workflows for providers, building sufficient technical infrastructure, and adopting new frameworks that give providers the most useful PGHD.
+In 2015, the ONC found that 37 percent of hospitals offered PGHD reporting. This has lead to the ONC establishing partnerships like the one with Sutter Health where several pilot programs were built to integrate PGHD into clinical workflows.
+Other opportunities to enable PGDH transmission to provider systems include a joint effort between Analog Devices and LifeQ Health that provides physiologically accurate data from patient-devices to their care team.
+THE TIPPING POINT OF A TREND
+The predicted CAGR of the IoT market, and the large economic growth of the healthcare IoT market, is a call-to-action for providers.
+Increased access to IoT technologies and their data capturing capabilities could provide insights that improve the standard at which patients receive customized, personal care.
+Healthcare IoT has started to move from ideological to practical over the last five years with more applications and use cases seen in today’s healthcare ecosystem.  As providers adopt Internet of Things technologies and incorporate the data into the decision-making, patients are likely to become more engaged in higher quality, patient-centered care.
+Tagged Chronic Disease ManagementHealthcare Internet of ThingsPatient EngagementPatient Generated Health DataWearable Devices
+
+

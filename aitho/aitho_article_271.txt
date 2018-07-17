@@ -1,0 +1,19 @@
+TuSimple Selects WekaIO For Autonomous Fleet Vehicle Machine Learning Training
+
+18 Jun 2018
+
+Company taps WekaIO’s expertise in architecting autonomous vehicle (AV) structures and handling artificial intelligence (AI) at massive scale
+WekaIO, the innovation leader in high-performance, scalable file storage for AI and technical compute applications, today announced that TuSimple, a leader in autonomous truck technology, has selected the WekaIO Matrix™ HPC storage system to provide flash-based parallel file storage capabilities to accelerate its deep neural network (DNN) machine learning training. Matrix is the fastest, most scalable parallel file system for data intensive workloads.
+“TuSimple is a visionary company whose AV technology is unlike anything else currently available”
+TuSimple’s goal is to develop a Level 4 autonomous truck driving solution, for the dock-to-dock delivery of commercial goods. The company, which was founded by entrepreneurs from the California Institute of Technology, has facilities in San Diego, Calif. and Tucson, Ariz., and to date its technology has been road-tested for some 15,000 miles. TuSimple chose WekaIO Matrix after comparisons with other scale-out file systems demonstrated that only Matrix has the ability to meet its most demanding performance requirements.
+Read More: Scale To Discuss How Self-Driving Cars Will Handle Unexpected Real-World Scenarios At The Information’s Autonomous Vehicles Summit
+Dr. Xiaodi Hou
+“WekaIO Matrix was the clear choice for our on-premises DNN training in the U.S. It was understood from the outset that a standard network-attached storage (NAS) solution would not be able to scale to the extent we would need it to, and apart from Matrix being the most performant of all the parallel file systems we evaluated, we really liked the fact that it is hardware-independent, allowing us better control over our infrastructure costs. We are also taking full advantage of WekaIO’s object storage capability, which is much more economical than an all-flash system, and allows us to efficiently scale our data catalog in a single namespace,” said Dr. Xiaodi Hou, Co-founder and CTO at TuSimple.
+Implementing WekaIO Matrix positions TuSimple to extract the maximum value from its training systems for autonomous fleet vehicles. Extensive training enables TuSimple’s L4 system to recognize and safely respond, in real-time, to the broad range of objects and conditions a Class 8 truck might encounter while driving autonomously. With Matrix software, both data and metadata are distributed across the entire storage infrastructure to ensure massively parallel access. The software has an optimized network stack, which will deliver low latency and high bandwidth performance, resulting in a solution that can handle the most demanding data and metadata intensive operations.
+Read More: Jane.Ai Launches To Eliminate Wasted Time In The Workplace By Putting The Power Of Artificial Intelligence At The Fingertips Of All Employees
+Liran Zvibel
+“We don’t rely on LiDAR as our primary sensor, we do a lot of camera-based analysis,” added Dr. Xiaodi Hou. “The data sets that train our AI models are comprised of millions of image files which need to be read at high bandwidth. Matrix provides the low latency, high bandwidth we need to meet our data ingest demands.”
+“TuSimple is a visionary company whose AV technology is unlike anything else currently available,” said Liran Zvibel, Co-founder and CEO at WekaIO. “We have deep expertise in architecting AI storage infrastructures similar to the TuSimple use case at other AV locations, which has moreover contributed to our understanding of how to handle AI at massive scale. I’m also pleased to say that we are delivering on our promise to keep TuSimple’s GPU cluster fully saturated with data and accelerating its training workloads.”
+Read More: Founder Of Tetris Henk Rogers To Serve As An Advisor For BLMP Network
+
+

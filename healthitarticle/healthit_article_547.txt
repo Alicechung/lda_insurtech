@@ -1,0 +1,62 @@
+Healthcare Analytics Help Mercy Uncover Cost, Quality Insights
+
+March 09, 2017
+
+By Jennifer Bresnick
+March 09, 2017 - Every spring, the HIMSS Conference and Exhibition brings tens of thousands of healthcare stakeholders together under one massive roof to share best practices, explore the latest innovations, and brainstorm new strategies for achieving the Triple Aim.
+In Orlando this year, Missouri-based Mercy Health System collected numerous accolades from its peers alongside the 2016 HIMSS Davies Enterprise Award, one of the industry’s most notable prizes for healthcare analytics prowess and IT maturity.
+With a decade of Epic EHR optimization behind them and an eye for bringing its technology expertise to the broader provider marketplace, it comes as no surprise that Mercy’s clinicians and administrators rely heavily on a variety of data to make decisions that improve outcomes, cut costs, and create a positive patient experience.
+“Having access to data has been extremely powerful for us, because we can drill down to the specifics that can really impact costs,” said Jamie Oswald, MBA, MIM, Manager of Data Analytics and Engineering, to HealthITAnalytics.com during HIMSS17.
+The health system has seen success with its analytics programs in a big way, achieving significant cost savings and productivity gains across a number of clinical and operational categories.
+Jamie Oswald, Manager of Data Analytics and Engineering
+Source: Mercy Health
+READ MORE: Big Data Analytics Can Bring Visibility, Value to Healthcare
+In addition to reducing mortality from heart failure, improving antibiotic delivery time for pneumonia patients, and saving thousands of hours of staff time through clinical documentation improvement, Mercy has used healthcare big data analytics strategies to drastically improve its medication management techniques.
+“Pharmacy costs are a large component of our overall cost structure, so it’s important to optimize our inventory,” Oswald said.  “We want to make sure we have enough medication on hand to take care of people, but we don’t want to tie up $2 million in reserve inventory if we don’t have to, or if those drugs are going to go to waste.”
+“Our old method of inventory optimization was to put three to six months’ worth of data into Excel and play around with it to get some basic reporting on what we wanted to look at.  But that doesn’t scale very well.” 
+The manual process takes a great deal of time and a high level of skill, he explained, and the limited time span does not allow analysts to look at long-term patterns or cyclical changes in drug use.
+“We have a great analytics team, but I shouldn’t have to be a Level 7 Data Wizard to use these kinds of tools.  I want my department heads and executive leaders to be able to look at the data and use it to make more fact-based decisions without the team having to pour hundreds of hours into the development of the information.”
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+In an educational session presented at the conference, Oswald and colleague Kerry Bommarito, a performance analyst at the health system, detailed how implementing SAP analytics products sped up the process of extracting valuable insights about tailoring inventory to meet Mercy’s real-world needs.
+“With SAP’s Predictive Factory, we loaded up five or six years’ worth of data, and we were able to get projections about the next twelve months for every location and every drug,” said Oswald.
+“We will likely use this data to look at the most expensive drugs and the ones with the shortest shelf life so we can optimize our supply chain management.  We would really like to get to the point where we can feed the data directly into the ordering systems to automate purchasing, but that will still require some work with our vendors.”
+The data also revealed some other interesting insights, he said, that could help to identify opportunities for care improvements.
+“We’ve found that tetanus shots go up in the spring and early summer every year.  We can posit that people are out doing yard work or mowing the lawn for the first time and encountering rusty nails or equipment they forgot about over the winter, or the kids are walking around with bare feet and getting into trouble there.”
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+How to Choose the Right Healthcare Big Data Analytics Tools
+“That seems like a plausible correlation, and maybe there’s an opportunity to put out some education for patients or remind providers to talk to people about safety.” 
+But sometimes patterns in the data can raise more questions than answers, Oswald added.
+“We also found that the use of a certain antibiotic goes up at the same time every year, and no one really knows why.  We talked to the pharmacists, and they can’t explain it.  There doesn’t seem to be a particular reason why this drug goes off the charts every year.”
+Just as in clinical care, not every abnormality requires extensive follow-up.  But for those issues that do need to be addressed, data must be available and intuitive – and the tools to access information should help users instead of hindering them as they search for strategies to streamline care delivery.  
+“Domain experts at organizations like Mercy have a lot of great ideas about how to make things better, but technology has really gotten in the way instead of assisting them,” said David Delaney, MD, Chief Medical Officer of SAP’s healthcare division.  
+David Delaney, MD, Chief Medical Officer at SAP
+Source: SAP
+“Traditional analytics are like a lightbulb: ninety percent of the power is wasted in heat, and only ten percent is light.  With a lot of existing tools, you’re putting 80 or 90 percent of the effort into prep work, and you’re only getting a small return.”
+In many organizations, clinicians and executive leaders call down reporting requests to the IT department, who become responsible for interpreting the question as well as the answer.  Even after spending days or weeks to fine-tune algorithms that may only have limited applications to specific use cases, they may find that the result isn’t even what the user really needed in the first place.
+“What organizations really need is the ability to start out with an idea and then have a conversation with the data, refine their hypothesis, and then generate actionable information very, very quickly,” Delaney said.
+And they must also make sure that data analytics isn’t a one-way street.
+“No matter how good the analytics are, if the information isn’t getting to the people in the corner offices who are making the hard decisions, the effort is wasted,” Delaney stressed.  “The real power here is democratizing analytics so it can be used across a broader swath of the organization and allow decision-makers to have the information they need to make better choices."
+“Data has to help organizations respond to threats and challenges more quickly, and adapt to changes proactively instead of just looking in the rear view mirror and regretting what happened last year.”
+Mercy has taken that sentiment to heart, and has identified a number of seemingly small inefficiencies that can total big bucks when multiplied across the system’s 32 acute care hospitals, 11 specialty hospitals, and more than 700 physician offices and outpatient facilities.
+“There was one case where a facility was using twice as much bone cement as everyone else,” Oswald recalled.  “They were doing a similar volume of procedures and working with the same type of patients, but they were using cement at a much higher rate.” 
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+“So we went to them and asked about it, and it turns out that they were using a different type of mixing bowl that had a weird lip on it.  In order to get enough usable cement out of it, they had to use two bags.”
+Switching mixing bowls is a simple and relatively cost-effective fix for the problem, but the unnecessary usage of excess materials may have continued undetected without the analytics that flagged the unusual activity.
+“This is what we mean when we talk about operational efficiencies and using data to trim waste from the system,” Oswald pointed out.  “Without the data to enable these conversations, we wouldn’t be able to address all those little expenses that very quickly add up for such a large health system.” 
+“We saved $9.42 million in the last year on perioperative expenses, and we had cut costs significantly for a few years before that, as well.”
+Dashboards and visual reports make it easier for clinical and administrative leaders to compare staff performance and supply utilization rates, he said. 
+“It’s pretty easy to see when a group of surgeons doing a specific operation have incurred higher costs over the past four months, for example.  The department head can go in and look at the supply list.  If two providers are using two different implants, and one costs $5,000 and the other is $10,000, but they both produce similar results – well, that’s an opportunity to sit down with those physicians and discuss the mechanics of what they’re doing.”
+“Strong leadership is very important, and so is making the data available so those leaders can ask the right questions.”
+Mercy’s ability to empower leaders with reliable, detailed, and timely data has led to tangible rewards for its efforts, Delaney says.  Other healthcare systems – and the health IT vendors that support them – should strive to follow the example.
+“One of the great things about healthcare is that you have a lot of very bright, talented, hardworking people who really see a mission in what they do,” he said.  “The bad thing is that they’re being asked to do more and more – see more patients, take on more responsibility – so their time is at a premium, and not everyone is going to spend it on breaking away from their patients to do some data analytics.”
+The Difference Between Big Data and Smart Data in Healthcare
+“But if we can make that process easier and lower the barrier to entry, then they can start to follow up on those moments where they wish they could see why this patient isn’t doing as well as a similar patient they saw last week.”
+Healthcare analytics and business intelligence developers need to keep the momentum going by creating innovative tools that bring meaningful data to the individual clinician at the point of care.
+
+“If clinicians are comfortable enough with the tools to run their own searches and follow up on those fleeting insights that happen during the care process, it could end up making a huge difference for their patients,” Delaney said.
+Oswald agreed that big data must continue to filter through the organization in order to produce the greatest possible positive impact on revenue, outcomes, and performance.
+“We want to continue to move down the road to becoming a truly data-driven enterprise,” he said.  “That means continuing to refine our abilities to pull data together, synthesize it, and present it to the providers at the point of decision.”
+“Data analytics should enhance the provider’s capability to be better at his or her job.  It’s our responsibility to give them all the tools they need to assess the entire situation and make the best decision they possibly can.”
+Tagged Analytics InfrastructureHIMSS17Hospital QualityInterviewsRevenue Cycle AnalyticsSupply Chain Management
+
+

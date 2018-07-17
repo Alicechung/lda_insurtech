@@ -1,0 +1,55 @@
+How FHIR Offers a New Approach to Working with Healthcare Data
+
+October 12, 2017
+
+By Jennifer Bresnick
+October 12, 2017 - Healthcare organizations seeking a simple, intuitive, and standardized way to solve many of their most pressing big data problems don’t have to look much further than the HL7 Fast Healthcare Interoperability Resource, better known as FHIR.
+The internet-based data exchange standard has been taking the industry by storm, powering a new generation of applications that deliver detailed clinical decision support, offer enhanced patient engagement features, and connect disparate organizations to improve the quality of care.
+But FHIR is just starting to heat up, says Micky Tripathi, President and CEO of the Massachusetts eHealth Collaborative and a leader of the Argonaut Project, a private sector collaboration aimed at supporting the continued development of the standard.
+Micky Tripathi, President and CEO of the Massachusetts eHealth Collaborative
+Source: Xtelligent Media
+Tripathi, who will be leading the HL7 FHIR workshop and application showcase during the 2017 Boston Value-Based Care Summit in November, believes that proponents of the standard can still do more to explain to healthcare stakeholders exactly how revolutionary the approach can be for boots-on-the-ground clinicians and administrators.
+“FHIR is different because a data-level standard, not a document-level standard,” he told HealthITAnalytics.com. 
+READ MORE: FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+“That means that it’s sharing individual data elements instead of handing you a whole document and asking the user to sort through it for the piece of information they need.”
+“Imagine if you were on a shopping website and you were looking for a burgundy winter coat in your size,” he explained. “Now imagine if you clicked on ‘find a size’ and the website just sent you the coat designer’s entire catalog, and said, ‘Here you go – you can find the sizing information for the coat you’re interested in on page 548.  Good luck.’”
+That is how document-level exchange currently operates, he said.  Common health information exchange transactions such as sending C-CDAs between providers occur at this level, which can sometimes produce almost as many problems as they solve.
+“When a provider in an emergency department puts in a request via Carequality or Commonwell because they want to know if a patient has an allergy to penicillin, they will get the C-CDA back, which is like getting that entire catalog,” he continued. 
+“Then they have to scroll through all 30 pages and find the place where it talks about allergies, and hopefully the information is in there.”
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+FHIR can eliminate this time-consuming and frustrating part of the process by only sending the specific piece of requested data to the recipient. 
+Every data element receives its own unique tag, like a URL on the internet, which allows applications to select just a portion of what is usually contained in a patient’s health record and share it appropriately.
+“If you ask for medication allergies, FHIR can send over the allergy list without everything else in the package, which makes it so much easier for providers to get right down to the information they’re looking for without having to sort through an entire document,” said Tripathi.
+Data-level exchange is the de facto approach for most other industries, he added, and FHIR-based application programming interfaces (APIs) look very similar to the APIs currently in use in other sectors.
+“FHIR is an internet-based protocol, and it doesn’t require the same level of detailed healthcare-specific knowledge that some of our other standards do,” said Tripathi. 
+READ MORE: A FHIR Future Burns Brightly for Population Health Management
+“A FHIR API looks very similar to the Facebook API or the Uber API.  So when developers from outside of the healthcare industry start attacking these problems, they can get up to speed very quickly and start applying their successes from elsewhere to these issues.”
+For healthcare providers and patients, speedy development can translate into some immediate benefits. 
+The Argonaut Project is working on two prime use cases that could drastically improve the way providers make decisions and patients get access to care.
+The first is the provider-facing “CDS Hooks” initiative, which aims to allow providers to take advantage of the rush of clinical decision support (CDS) applications in development outside of the traditional electronic health record environment.
+“There is a whole constellation of clinical decision support services available out there, but they may not be an integral part of my EHR,” explained Tripathi. “Epic didn’t design it; Cerner didn’t design it, but I want to be able to use it when I’m trying to plan care for a patient.”
+“I want something that will reach out and execute that algorithm without forcing me to completely leave my EHR interface.  With CDS Hooks, you’re able to grab that CDS functionality and bring back that information into your EHR ‘operating system.’”
+CDS Hooks should create a seamless experience to users once they set their preferences for which CDS applications to use.
+“The user should be able to say, ‘Okay, every time I open my patient’s chronic disease management template, I want the CDS hook to go out and query this diabetes support service that Epic or Cerner or Allscripts might not even know about,’” he said.
+“If the user doesn’t have to push a button every time to get access to that supplemental data for decision-making, they’re much more likely to take advantage of it and ensure they’re making an informed choice.”
+Integrating external applications into the workflow without adding effort to the click-heavy EHR experience is a challenge, Tripathi acknowledged.  At the moment, the results from a CDS application are presented in a dialogue box that pops up on the screen.
+“It isn’t fully integrated into the EHR yet, but it doesn’t require you to leave the EHR workflow entirely, either,” he said.
+“Ideally, we would see the data natively in the EHR, and the hook would be able to trigger a function in the EHR and take an action or make a suggestion based on that data source, like recommending a liver function test for a patient with certain lab results or new diagnoses.”
+Using FHIR and APIs to link unique offerings from external developers into the EHR isn’t a new idea.  In fact, it’s one that EHR developers have been actively pursuing themselves. 
+Epic Systems, Cerner, athenahealth, and Allscripts have all been promoting their app stores and third-party developer programs to attract top-flight talent that meshes with their existing software.  The strategy cuts down on internal R&D investment for the EHR giants while improving the user experience of clinicians who are demanding more and more from their health IT investments.
+“Everyone wants EHRs to become platforms or ecosystems that allow the user to orchestrate a whole group of services that live outside of what the core developer can provide,” Tripathi observed.  “By using FHIR to connect the work that’s happening across the industry, we can start to create that environment.”
+Patients can reap the reward of this more open, collaborative development environment, as well. 
+Argonaut Project members are working to bring easier, less labor-intensive scheduling and appointment setting tools to consumers in an effort to reduce the friction of care coordination and access.
+“Some organizations allow you to schedule appointments online through their patient portals, but it’s usually very clunky and there’s often still some back and forth with staff on the phone,” Tripathi said.
+“But what if you could schedule appointments with your provider the same way you make restaurant reservations through an app like Open Table?  What if you could make appointments with a few different providers if you have a need for complex care without going into this portal and that portal or just giving up and calling, then sitting on hold for half an hour?”
+Ensuring that patients don’t fall through the cracks in the care continuum is becoming increasingly important to providers as value-based reimbursements force a sharper focus on population health management and preventive care, but patients are often still left on their own when it comes to scheduling appointments.
+“Patients are the ones expected to reach out to a specialist when they need one, and that often means they forget, or they can’t reach the provider immediately so they put it off – that is a huge reason why we have gaps in care,” said Tripathi.
+If a primary care provider can help a patient make an appointment with a new cardiologist before the patient ever leaves the office, there is a higher likelihood that the patient will attend the consult.
+“And if the PCP is involved in helping to make that appointment, that information is now in the PCP’s system,” he pointed out.  “That is a big benefit for tracking patients and making sure there’s sufficient follow-up if that individual happens to miss the appointment for whatever reason.”
+Digital scheduling is the perfect opportunity for FHIR to show what it can do, he added, because it’s virgin territory for the industry.
+“There haven’t been any standards in healthcare when it comes to scheduling.  It’s just an issue of systemic maturity that we haven’t gotten there yet,” he asserted. 
+“So if there’s nothing there, but we have access to FHIR, why wouldn’t we use something as flexible and modern as FHIR to plug that hole instead of going back and trying to retrofit some older standard to meet the need?”
+To learn more about FHIR and see live clinical applications in action, register today for the 2017 Boston Value-Based Care Summit’s Big Data Workshop and Application Showcase, presented in partnership with HL7 International.
+Tagged Clinical Decision SupportFast Health Interoperability ResourceFHIRHealth Information ExchangeHL7InterviewsPatient EngagementValue Based Care Summit
+
+

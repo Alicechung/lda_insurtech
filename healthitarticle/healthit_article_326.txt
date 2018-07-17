@@ -1,0 +1,75 @@
+Five Blockchain Use Cases for Healthcare Payers, Providers
+
+October 10, 2017
+
+By Jennifer Bresnick
+October 10, 2017 - The distributed ledger methodology known as blockchain is piquing interest in the healthcare industry as organizations search for more secure and trusted strategies for managing big data. 
+By decentralizing ownership of key data sets, yet increasing the strength of permissioned sharing protocols, blockchain proponents hope to create an interoperable, patient-centered big data ecosystem that prioritizes accuracy, timeliness, and shared-decision making.
+Providers are eager to invest in this vision, which could be game-changing for payers, patients, and their clinicians.  Interest in blockchain-based tools is strong, with 68 percent of payers and 12 percent of providers planning on at least one blockchain implementation by the end of 2018, according to a recent Black Book poll.
+Early use cases for blockchain have included the creation of a truly longitudinal health record controlled entirely by the individual and a more robust patient matching and identification system that improves patient safety while eliminating administrative pain points.
+But as blockchain gains ground among health data management experts, the number and scope of these use cases continues to grow. 
+READ MORE: Is Blockchain the Answer to Healthcare’s Big Data Problems?
+How are developers, health plans, and providers hoping to leverage blockchain in the near future, and how will the methodology positively impact the movement of big data across the care continuum?
+PROVIDER LICENSURE AND CREDENTIALING
+As care becomes more digitally connected, traditional geographic boundaries are beginning to blur. 
+Telehealth, remote specialty consults, and the growing desire of consumers to seek out the best possible value no matter where that care is centered have made it more common for providers and consumers to collaborate across health systems or state lines.
+For payers and providers, the financial imperative to keep patients in-network and prevent leakage in the era of value-based care adds an additional layer of complexity to the problem of managing credentials, ensuring correct licensure, and keeping up with employment changes.
+Blockchain may offer a solution to these issues by keeping all members of the community instantly updated on where a provider is allowed to practice, whether or not she is accepting new patients, and what new affiliations she has formed.
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+Illinois is among the first state entities to test out blockchain for this purpose.  In a pilot conducted in conjunction with the Hashed Health consortium, state officials will create a blockchain-based registry that will maintain a single, trusted record of certifications and credentials.
+“[A] single provider’s identity is a complex composite of data points,” Hashed Health explained on its website.
+“There are multiple elements held by multiple disparate stakeholders like medical schools and residency programs and certifying boards while other data elements tend to change often over the course of a provider’s career such as practice and hospital affiliation, practice location and whether they are accepting new patients.”
+Accurately tracking providers as they move through their careers can improve patient safety, reduce frustration for consumers, allow employers to assess potential workers more completely, and possibly even prevent employee fraud or abuse.
+“Illinois is committed to moving beyond the much-discussed promise of distributed ledger technologies. With this pilot we plan to bring tangible solutions that solve real problems,” said Jennifer O'Rourke, Blockchain Business Liaison for the Illinois Blockchain Initiative.
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+“We are excited to explore how distributed ledger technology can improve current bottlenecks in the medical licensing process and hope to share our learnings with other state boards and entities interested in collaborating on this project going forward.”
+PAYER ADMINISTRATION AND DATA EXCHANGE FOR VALUE-BASED CARE
+Close collaboration between payers and providers is a fundamental requirement for value-based care, yet many entities struggle to break down their data siloes and exchange information in a secure and timely manner.
+Blockchain may be able to help organizations leap over those hurdles while keeping the patient at the center of the HIE equation, said Shahram Ebadollahi, Vice President for Innovations and Chief Science Officer at IBM Watson Health.
+“In order to provide services that fall in line with value-based care, one has to be able to access that comprehensive, trusted view of the patient,” he explained to HealthITAnalytics.com.
+“Everyone has their own health data repositories and their own electronic health records – the proposal here is not to replace those existing systems, but to supplement them with new exchange capabilities.” 
+“If they want to increase the fluidity of data between different institutions, they can connect their existing repositories to the chain and improvement the movement of data while being sure they are doing so with the desires of the patient in mind.”
+Payers are in an excellent position to take charge of this process, added a 2016 report by Deloitte, since they tend to oversee a patient’s movements across the care continuum. 
+Administrative tasks such as claims processing and underwriting may also benefit from a blockchain approach, since managed permissions make it easier for payers to assess the validity of a claim, manage pre-authorizations, and ensure that providers are meeting the criteria laid out in their value-based contracts.
+“Smart contracts could automate these processes and decrease the time and resources needed to execute the terms and conditions [of value-based contracting],” the report says.  “And because smart contracts are decentralized and cannot be changed, all parties can be confident that terms will be consistently executed.”
+Payers may also be able to better personalize their member offerings and improve the patient experience by reducing the friction, stress, and frustration often associated with managing insurance issues. 
+Instant and validated acquisition of patient-generated health data and information from all of an individual’s providers could help payers create tailored incentive programs, conduct more proactive outreach, and issue reminders that aid in chronic disease management.
+“Instead of interacting with their health insurance only when paying premiums or addressing illness or injury, consumers could develop a positive relationship with their carrier,” the report predicted. 
+“If exercise and staying active results in immediate and tangible benefits, such as discounts on premiums or reduced deductibles, consumers could associate health insurance with wellness and benefits instead of illness and medical expenses.”
+SUPPLY CHAIN MANAGEMENT AND MEDICATION MONITORING
+As providers start to put more of their payments at risk through value-based reimbursement contracts, they are actively seeking out additional ways to trim inefficiencies and safeguard more of their revenue.
+Enhancing supply chain management with digital tools, predictive analytics, and more accurate tracking techniques is high on the list of priorities for many healthcare organizations. 
+A decentralized asset management system could create a “single source of truth” surrounding the movement of goods and may ensure that all transactions between supply chain partners are accurately recorded and easily shared.
+A spate of recent blockchain and supply chain announcements from large data management companies including Microsoft, IBM, SAP, and Oracle indicates that interest in leveraging the approach for asset management is exceedingly strong across multiple industries.
+Blockchain could offer providers a way to reduce waste and fraud as they order consumable supplies, including high-value medications and addictive opioids.
+Life science and pharmaceutical companies are particularly optimistic about leveraging blockchain to create a reliable and tamper-proof audit trail for their products as they move through the healthcare environment.
+In a Pistoia Alliance survey conducted in the summer of 2017, sixty-eight percent of pharma and life science leaders said that blockchain could drastically improve medication supply chain management and produce associated gains in patient safety.
+With the opioid epidemic raging and some entities coming under fire for insufficient monitoring of leakage into vulnerable communities, blockchain could offer an innovative way to ensure that abuse-prone medications are better controlled.
+PUBLIC HEALTH SURVEILLANCE AND POPULATION HEALTH MANAGEMENT
+In addition to one-on-one improvements for individual patients, blockchain has the potential to change the way population health management and public health surveillance are conducted.
+Experts at the CDC, including Jim Nasr, chief software architect at the CDC’s Center for Surveillance, Epidemiology, and Laboratory Services, are exploring the role of blockchain for heading off pandemics and simplifying the complicated data exchange pathways involved in public health monitoring.
+“Public health and blockchain really do belong together,” Nasr recently told the MIT Technology Review. “Moving…data from one peer to another in a secure manner, in a compliant manner, and in a transparent manner—as quickly as possible—is a key part of the business model.”
+Blockchain could reduce barriers involved in complex data sharing agreements between hospitals, physician providers, public health departments, and the CDC, Nasr envisions, while making sure that data gathered in the confusing and rapidly developing epidemic environment is reliable and current across all parties.
+Blockchain could perform a similar role in less urgent population health management situations, as well. 
+By connecting payers and providers with accurate and complete patient data, health plans could develop more sensitive risk stratification protocols that identify patients likely to incur high costs due to the natural escalation of chronic diseases or an impending crisis event.
+“An interoperable blockchain medical record could be securely updated with diversified, lifestyle-related data points in near-real-time,” said the Deloitte report.
+This could aid payers in planning for chronic disease spending, incentivizing patients to adopt healthy behaviors, and give providers more insight into which patients could be entering a higher risk category.
+REVENUE CYCLE MANAGEMENT AND FRAUD PREVENTION
+A shared, trusted data ecosystem has as many financial benefits as clinical ones.  Both payers and providers may be able to use blockchain as the basis for more stable, predictable, and fruitful revenue cycle.
+On the provider side, blockchain could be the revenue cycle management tool that healthcare organizations have been looking for.  Blockchain’s ability to create validated identities for members of the community and accurately record tamper-proof transactions has made it popular in the financial industry already. 
+Translating those successes into healthcare is a primary objective for several developers, including Gem, Pokitdok, and now Change Healthcare.
+Last year, Capital One announced two healthcare-focused pilots, one with Gem and another with Pokitdok, to smooth financial transactions between payers and providers and make it easier to collect patient payments.
+“The result is a dramatically more efficient claims management process that eliminates the traditional claims clearinghouse and reconciliation layers and lowers administrative costs, compresses cash flow cycles, and reduces revenue loss,” Capital One said.
+Change Healthcare is also offering a blockchain-based solution for revenue cycle management.  Announced in September of 2017, the tool will be developed in conjunction with blockchain coalition Hyperledger to improve claims processing.
+“We are excited to work alongside our customers and partners to make blockchain real in healthcare,” said Change Healthcare CEO Neil de Crescenzo. “We are initially introducing blockchain technology to create a distributed ledger that makes claims processing and secure payment transactions work more efficiently and cost effectively for all healthcare stakeholders.”
+“As today’s healthcare system becomes more value-based, it’s essential that we aggressively and pervasively introduce new technologies into healthcare at scale — whether they leverage blockchain, artificial intelligence, or other emerging capabilities with the potential to improve outcomes and efficiencies.”
+Enhanced security and transparency may also drastically reduce the amount of fraud that slips through the defenses of public and private payers.  When entities must have current and authenticated identities before a transaction is approved, the ability to push suspect claims through the reimbursement process is diminished.
+Payers with access to a patient’s complete medical record and all of the individual’s approved providers would be more able to identify suspect claims or payment requests that do not match the patient’s documented conditions or normal care habits, explains Deloitte.
+Proactive monitoring of these patterns could inform fraud detection systems that rely on machine learning to continually improve their sensitivity, allowing payers to avoid the costly “pay-and-chase” situation.
+All of these use cases, however, assume broad adoption of blockchain technology that encourages universal data sharing and a willingness for providers, patients, and health plans to trust one another with their sensitive information.
+While value-based reimbursement and changes to the healthcare consumer environment may be leading the industry towards increased data exchange, it may take some time before enough trust saturates the care continuum.
+In the meantime, the potential use cases for blockchain will continue to proliferate, and developers will continue to offer increasingly sophisticated distributed data management technologies to rise to the challenges of the industry.
+Whether or not blockchain reaches its true potential across the healthcare system remains to be seen, but early strong interest and investment may be a good indication that the methodology will soon enhance the big data landscape.
+Tagged Analytics InfrastructureBlockchain in HealthcareHealth Information ExchangeHealthcare Data GovernanceHealthcare FraudHealthcare InteroperabilityHealthcare PayersListsPopulation Health ManagementRevenue Cycle Management
+
+

@@ -1,0 +1,30 @@
+RSA Identity Governance And Lifecycle Introduces Advanced Analytics Capabilities To Help Organizations Mitigate Risks Associated With User Access
+
+05 Mar 2018
+
+New Features, Recommended Best Practices And Implementation Service Offerings Simplify Day-To-Day Governance, Decrease Time To Value, And Reduce Identity Risk
+GARTNER IDENTITY AND ACCESS MANAGEMENT SUMMIT — RSA, a global cybersecurity leader delivering Business-Driven Security™ solutions, unveiled a new risk-based access review user experience, implementation service offerings and recommended practices for RSA Identity Governance and Lifecyclethat simplify day-to-day governance while helping to reduce overall identity risks for customers.
+As organizations continue to introduce the cloud, mobility and IoT into their enterprise environments, identity governance becomes more complex. At the same time, global regulatory initiatives like the European Union General Data Protection Regulation (GDPR), which goes into effect on May 25, are demanding more rigorous data protection controls when organizations control or process EU resident personal data, adding both complexity and urgency to identity governance.
+Today, identity access reviews can too easily become an exercise of box-checking because reviews are time consuming and there is not any prioritization in place. This practice of “rubber stamp access” creates security gaps because inappropriate access often remains open when an employee leaves or changes roles. Enhancements to RSA Identity Governance and Lifecycle in version 7.1 allow organizations to act with insight to drive informed security and risk decisions by making the access review process easier.
+Access Reviews Made Easy
+With a new access review experience, RSA Identity Governance and Lifecycle reduces business user frustrations by simplifying the review process. Access reviews now leverage risk analytics to surface the highest priority items to the business reviewer around critical and high-risk items, such as violations, access that was previously revoked, access to an application that is deemed highly critical, and privileged access. This guided experience helps reviewers focus on the areas of greatest risk and allows them to be more effective at eliminating inappropriate access.
+Other new features in this release that help simplify day-to-day identity governance and administration include:
+New data archiving capabilities provide users with a simplified view of the most relevant information, while maintaining the ability to retrieve historical archived data for audit and reporting.
+Workflow enhancements include prioritized execution of requests, as well as dashboards and controls that improve visibility and management.
+Platform enhancements offer improved installation and manageability of RSA Identity Governance and Lifecycle within virtual environments.
+Implementation Services and Recommended Practices
+James Ducharme
+“Many identity governance and administration (IGA) projects fail because they are too complex — either the scope is too broad or there is no defined way to achieve success,” said James Ducharme, Vice President, Identity Products, RSA. “By publishing these best practices and implementation blueprints, we are providing the guidance and clarity customers need to standardize IGA processes that are easier to manage, maintain and measure success within their organizations.”
+RSA’s new Quick Start and implementation blueprint service offerings and recommended practices provide organizations the guidance they need to implement IGA solutions more efficiently and reduce the time to value. New offerings include:
+Packaged Implementation Offerings: RSA Identity Governance and Lifecycle’s highly configurable interface, combined with new implementation services, enables customers to take on an identity governance project with clear timelines and defined costs, reducing the need for costly customization.
+Quick Start implementation offerings provide self-guided playbooks, dashboards and Quick Start reports, as well as a dedicated professional services representative, allowing customers to quickly get up and running with identity governance.
+Implementation blueprints provide standardized implementations for key use cases and integrations, such as RSA Identity Governance and Lifecycle and Epic® Electronic Medical Records interoperability or bulk disabling of inactive accounts.
+Recommended Practices: RSA’s Recommended Practices are based on decades of identity expertise with some of the largest enterprise customers. They provide a framework for how to best implement RSA Identity Governance and Lifecycle solutions and cover key challenges many customers face, including:
+Access certification methodologies and recommendations to improve accuracy and engagement by business users;
+Access request process optimization and automation that reduces costs and identity risks;
+Standardized joiner, mover, leaver processes to reduce identity risks and automate tasks; and,
+High availability and business continuity to support investment and architecture decisions to meet HA/BC requirements.
+AVAILABILITY
+RSA Identity Governance and Lifecycle 7.1, Recommended Practices, and Quick Start and implementation blueprint offerings are available now.
+
+

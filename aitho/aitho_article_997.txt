@@ -1,0 +1,12 @@
+Google Adds Periscope Data To Single Sign-On Platform
+
+03 Apr 2018
+
+Pre-Integrated SAML Access Accelerates Workflows
+Periscope Data, the world’s first software platform built to address the complete analytics lifecycle, has been added to Google’s catalog of pre-integrated SAML apps for single-sign-on (SSO).
+SAML has become one of the most popular enterprise SSO standards, enabling users to access all of their enterprise cloud applications, including admin consoles, after signing in just one time. Google supports nearly 800 applications with pre-integrated SSO support in their third-party apps catalog, and Periscope Data is among the latest to join the list. Instead of adding Periscope Data as a custom app to their SSO list, administrators will be able to select Periscope Data directly to enable simple and secure access for their team members.
+Harry Glaser
+“Unlike most data analytics platforms, Periscope Data is able to get up and running to deliver insights in a matter of minutes, not days or weeks,” said Harry Glaser, co-founder and CEO of Periscope Data. “We’re focused on building a more efficient and secure workflow for data teams to complete their analyses, and we’re proud to have Google’s support in improving the Periscope Data experience.”
+Periscope Data also supports single-sign-on options for Okta, OneLogin and Microsoft Azure Active Directory. For more information, including instructions on setting up SSO for Periscope Data for your organization, visit Google’s Help Centeror Periscope Data‘s support center.
+
+

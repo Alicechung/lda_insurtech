@@ -1,0 +1,18 @@
+Study: EHR medication reconciliation reduces errors by 58%
+
+June 03, 2014
+
+By Jennifer Bresnick
+June 03, 2014 - Electronic medication reconciliation tools can help to improve patient safety and reduce medication errors by 58 percent, a study at Boston Children’s Hospital found.  By using a split screen to display all pre-admission medications on one side and letting providers generate a new list of medications on the other, ordering physicians can clearly see what issues may arise from adding conflicting prescriptions to a patient’s current list.
+Adverse drug events (ADEs), often due to conflicting prescriptions or overdoses that cause patient harm, have been targeted by the Joint Commission as a National Patient Safety Goal.  The CDC notes that 700,000 emergency room visits and 120,000 inpatient admissions are due to adverse drug events each year at a cost of $3.5 billion.  Medical errors, including ADEs, are the sixth leading cause of death nationally.  In addition to attention from the Joint Commission and the FDA, medication reconciliation is a menu item for the EHR Incentive Programs.
+During the study at Boston Children’s, researchers looked at the use of an EHR medication tool from November 2011 to June 2012.  During that time, there were 33,070 hospital admissions, and the EHR tool was used 75% of the time.
+“Pre-intervention to post intervention medication history recording improved from 89% to 93% of admissions,” the study says. “During the study, 146 admission medication reconciliation errors were detected. The rate of errors decreased from 5.9 errors per 1000 admissions pre-intervention to 2.5 errors per 1000 admissions post intervention,” representing a 58% drop in provider mistakes.  None of the errors that did occur resulted in permanent patient harm or required transfer to the ICU, the authors add.
+Dig Deeper
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+Genomics, Clinical Decision Support Combo Cuts ED Visits by 42%
+The Kaiser Permanente system has also taken significant steps to tackle ADEs with an EHR safety net intended to catch errors before they occur.  “The Outpatient Medication Safety Net Program has been very successful in identifying patients at high risk for adverse medication-related events and intervening before harm. Each year the centralized program has been able to add more initiatives using technology and improved efficiencies, without adding additional costs,” says a study on the system published in Pharmacy Practice News.  Providers have changed the regimens of at least 2000 elderly patients to avoid fractures and falls from medications that may cause dizziness among other problems.
+“The implementation of an electronic tool for medication reconciliation was associated with a significant decrease in the number of reported admission medication reconciliation errors in a pediatric population,” the Boston Children’s study concludes. “These findings support ongoing national efforts related to medication reconciliation to improve patient safety and the role of the tools used.”
+Tagged Applied AnalyticsEHR Patient DataHospital QualityPatient Safety
+
+

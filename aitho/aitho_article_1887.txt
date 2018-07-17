@@ -1,0 +1,14 @@
+The Smallest Open Board For Gesture Recognition In Robotics, From Milan To Maker Fair New York 2017
+
+07 Sep 2017
+
+The Tactigon Is A Portable, Programmable Device, Arduino Ide Compatible With 3d Motion Sensors On Board And Iot Capability
+Next Industries team is presenting the first prototype of The Tactigon Board at the New York City Maker Fair 2017.
+Next Industries
+“We are excited to present our wearable technology with IoT capability at the most famous Fair in the World of Makers,” says CEO Massimiliano “Max” Bellino. “Thank you to my team – great passionate guys – I was able to bring my idea to reality. We haven’t designed an electronics board only, but we have designed a tiny technology with fresh, modern, ergonomic case. The Tactigon board is freshly designed with two valuable accessories: T-SKIN glove for gesture recognition and T-SHARP waterproof case for external use cases.”
+The problem we wanted to solve
+Many boards are usually needed to build a device like a glove for gesture recognition or robot rover. You need gyroscope, accelerometer, magnetometer and communication device like Bluetooth to visualize data on Smartphone. The Tactigon has all mentioned sensors integrated in a small form factor, it’s ready to be used in your projects.
+The “code challenge” for makers: Call 4 Makers in New York City Maker Fair
+During the New York City event, we will launch a “Code Challenge” for makers at our booth. The aim of the challenge is developing a code in short time to move a robot by using The Tactigon Board. Further details will follow next week. Stay tuned with our social network Facebook and Twitter channels.
+
+

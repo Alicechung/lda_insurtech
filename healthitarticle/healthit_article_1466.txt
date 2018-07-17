@@ -1,0 +1,21 @@
+43% of Orgs Use Clinical Decision Support for Patient Safety
+
+April 30, 2015
+
+By Jennifer Bresnick
+April 30, 2015 - Clinical decision support is an important tool for improving patient safety, said nearly half of healthcare providers responding to a HIMSS15 survey conducted by LogicNets.  Forty-three percent believe clinical decision support technology actively reduces the occurrence of errors by providing prescription help, standardizing medication orders, and supporting evidence-based medicine and more informed diagnostic decision making.
+More than 50 percent of the providers have either implemented clinical decision support technology or plan to acquire a CDS system within the next two years, the poll found.  Forty-eight percent of healthcare organizations use computerized provider order entry (CPOE), while approximately one quarter each use diagnostic decision support and drug prescription functionalities.
+While healthcare organizations continue to struggle with optimizing their EHR systems to balance CDS alerts with smooth workflows, clinical decision support is perceived as a positive technology, on the whole. 
+A series of recent academic studies funded by the ONC found that automatic medication calculators reduced dosage errors between 37 and 80 percent.   Adherence to infection protocols increased by nearly a third in another example, while patients experienced shorter emergency department turnaround and more time interacting with their physicians.
+Dig Deeper
+Academia Dives into Precision Medicine, Big Data Collaborations
+Eye Docs Looking for Big Data, Population Health Analytics Research
+IBM Watson, Siemens Partner for Population Health Management
+According to the HIMSS15 survey, providers agree that CDS is a helpful tool for improving the quality and experience of patient care.  In addition to error reduction, third of providers who already have CDS in place believe it improves efficiency, while 17 percent think it improves standardization and data integrity.  Just seven percent said that clinical decision support produces measurable cost savings – a tiny percentage compared to the 85 percent of cases in the ONC studies where spending was reduced with CDS use.
+Providers are generally not altering the out-of-the-box CDS functionalities they purchase.  Just 36 percent of organizations use their clinical decision support tools to capture and enforce their own decision-making.  The majority rely on externally developed protocols and content, the survey found.  This may or may not increase the sense of dissonance among providers who rely on clinical decision support for diagnostic help, but bridle at standardized protocols that may or may not fit their particular patient’s situation or needs.
+“[CDS] not going to be a one-size-fits-all approach, said Harvard Vanguard urgent physician Erin Jospe, MD, in an interview with EHRintelligence.com. “In certain areas, just offering evidence links is sufficient — not everybody needs to see it and will go with the recommendation being presented. Other times you think your patient might be the exception.”
+“We all think that our patients are special and we want to value and respect the individual human person in front of us,” she added. “When we then try to plug that into a rules-based engine, there is a dissonance between those two imperatives — there is a rule and my patient is exceptional. Trying to understand that and allowing for both is what EHRs should be striving to do.”
+As clinical analytics technologies become more sophisticated and more deeply integrated into the EHR workflow, clinical decision support is bound to provide additional help for providers who hope to reduce unnecessary service utilization and provide quicker, more accurate diagnoses for patients.  Machine learning, coupled with the synthesis of more and more sources of big data, will help CDS users make increasingly informed decisions about their patient populations for better individualized care.
+Tagged Analytics InfrastructureClinical AnalyticsQuality Of Care
+
+

@@ -1,0 +1,22 @@
+EHR Clinical Decision Support Produces Better Patient Care
+
+October 31, 2014
+
+By Jennifer Bresnick
+EHRs equipped with clinical decision support tools are associated with higher quality of care in a new study.
+October 31, 2014 - Providers who use electronic health records equipped with clinical decision support (CDS) technologies are able to produce better blood pressure control and more comprehensive cancer screenings for patients than providers who had disabled or didn’t use CDS features, says a study in the American Journal of Managed Care.  The study suggests that the basic level of clinical analytics encouraged by the EHR Incentive Programs may be having a measurable impact on quality and outcomes.
+“Although the meaningful use requirements have already been established, the evidence is inconsistent regarding improvement in healthcare processes or patient outcomes as a result of the implementation of general and individual EHR components,” writes the team of researchers from Brigham and Women’s Hospital, Harvard Medical School, and the Harvard School of Public Health.
+“Prior studies have shown that EHR-based CDS is associated with improved prescribing safety, preventive care measures, and diabetes testing and control. CDS has also been associated with some improvements in quality indicators, but results have been variable.  Despite having EHRs, many physicians report being unable to complete basic panel management activities, which affects their ability to deliver high-quality care for patients with chronic conditions.”
+Using data from the 2006-2009 National Ambulatory and National Hospital Ambulatory Medical Care Surveys, the researchers examined primary care visits at three types of EHR-enabled practices with CDS software meeting Stage 1 meaningful use requirements: those that had all available CDS features enabled, those that had disabled at least one feature, and those that were missing at least one CDS feature.
+Dig Deeper
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Epic Systems Integrates Geisinger Population Health Toolkit
+Ninety-seven percent of the visits took place with providers who had access to at least one of the five CDS features (electronic problem lists, preventive care reminders, lab result reporting, out-of-range lab notification, and drug-drug interaction warnings) included in the criteria.  Seventy-seven percent of providers were missing at least one functionality, and 15% had consciously disabled at least one CDS tool.
+When fully functional providers were compared with those missing CDS features, the researchers found significant differences in care.  Patients who visited fully equipped CDS providers had better blood pressure control (86%) compared to those with missing features (82%) or those with disabled CDS (83%).  The presence of an electronic problem list was associated with an even greater difference in blood pressure control: 86% of patients with an electronic list achieved ideal blood pressure compared to just 80% of patients without the tool.
+Providers with CDS tools that notified them of acceptable lab ranges or lab results were also more likely to conduct cancer screenings (16% vs. 11%).  Patients who visited EHR-enabled practices were also slightly less likely to cite an adverse drug event as the reason for their consult.
+“In contrast with some other studies, we found that the use of CDS functions was associated with improvements in measures of health quality at a national level,” the authors concluded. “In addition, decisions to disable these CDS functions, although infrequent, negated these increases in care quality. With the continued implementation of meaningful use, there should be a further decline in practices without EHRs or that choose not to implement or to disable CDS.”
+“Overall, meaningful use standards that include CDS appear to have a significant positive effect on some national quality-of-care indicators and health outcomes. It will be important to evaluate the evolving impact of meaningful use as the stages continue to be more widely implemented and better integrated with care processes; we anticipate further gains in healthcare quality indicators and outcomes as a result.”
+Tagged Clinical AnalyticsEHR AnalyticsPopulation Health Management
+
+

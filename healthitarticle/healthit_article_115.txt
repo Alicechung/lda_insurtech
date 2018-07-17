@@ -1,0 +1,27 @@
+NIH Concludes In-Depth Genomic Data Analysis of 33 Cancer Types
+
+April 11, 2018
+
+By Jessica Kent
+April 11, 2018 - The National Institutes of Health (NIH) has completed detailed genomic data analysis of the PanCancer Atlas, a data set of molecular and clinical information from over 10,000 tumors that represent 33 types of cancer.
+“This project is the culmination of more than a decade of groundbreaking work,” said NIH Director Francis S. Collins, MD, PhD.
+“This analysis provides cancer researchers with unprecedented understanding of how, where and why tumors arise in humans, enabling better informed clinical trials and future treatments.”
+Dig Deeper
+Genomics, Big Data Bring Precision Medicine to Pediatric Cancer
+How Advanced Genomics, Big Data Will Enable Precision Medicine
+FHIR Can Move Genomics from Prediction to Precision Medicine
+The PanCancer Atlas sums up the work of The Cancer Genome Atlas (TCGA), a multi-institution collaboration initiated and supported by the National Human Genome Research Institute (NHGRI) and the National Cancer Institute (NCI), both part of NIH.
+With over $300 million in total funding, TCGA involved upwards of 150 researchers at more than two dozen universities across North America.
+In addition to cancer genome sequencing, the project focused on different types of data analytics, such as investigating gene and protein expression profiles and associating them with clinical and imaging data.
+“TCGA was the first project of its scale to characterize – at the molecular level – cancer across a breadth of cancer types,” said Carolyn Hutter, PhD, director of NHGRI’s Division of Genome Sciences and the NHGRI team lead for TCGA.
+“At the project’s infancy 10 years ago, it wasn’t even possible, much less on such a scale, to do the types of characterization and analysis that were being proposed. It was a hugely ambitious project.”
+The PanCancer Atlas includes three main categories, including cell of origin, oncogenic processes, and oncogenic pathways. Each category is anchored by a summary paper recapping the core findings for the category, while multiple companion papers report in-depth explorations of individual topics.
+The first summary paper outlines the findings from a set of analyses that used a technique called molecular clustering, which groups tumors by parameters such as genes being expressed, abnormality of chromosome numbers in tumor cells, and DNA modifications.
+The findings suggest that tumor types cluster by their possible cells of origin, which adds to understanding of how tumor tissue of origin influences a cancer’s features and could lead to more specific treatments for various types of cancer.
+The second summary paper presents a broad view of the TCGA findings on the processes that lead to cancer development and progression.
+The findings identified three critical oncogenic processes: mutations, both inherited and acquired; the influence of the tumor’s underlying genome and epigenome on gene and protein expression; and the interplay of tumor and immune cells. These findings will help prioritize the development of treatments and immunotherapies for a wide range of cancer types.
+The third paper discusses TCGA investigations on the genomic alterations in the signaling pathways that control cell cycle progression, cell death, and cell growth. The findings reveal new patterns of potential vulnerabilities in cancer that will aid the development of combination therapies and personalized medicine.  
+The entire collection of papers comprising the PanCancer Atlas are available through a portal on cellpress.com.
+Tagged GenomicsHealthcare Data AnalyticsPatient OutcomesPersonalized Medicine
+
+

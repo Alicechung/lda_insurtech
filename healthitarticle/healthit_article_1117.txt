@@ -1,0 +1,33 @@
+CMS Details MACRA, MIPS Accountable Care Quality Metrics
+
+December 22, 2015
+
+By Jennifer Bresnick
+December 22, 2015 - CMS is bringing the Merit-Based Incentive Payment System (MIPS) one step closer to its 2019 implementation date by providing the industry with a timeline for the development of quality metrics and other measures that will gauge provider performance and reimbursement adjustments.
+In a document released this week, CMS stressed that it will try to avoid many of the historical problems with healthcare quality metrics, including duplicated reporting requirements, poor alignment between various quality improvement programs, and inefficient processes that consume provider manpower with little return.
+“CMS is striving to produce a patient-centered measure portfolio that addresses critical measure gaps; facilitates alignment across federal, state, and private programs; and promotes efficient data collection,” the Quality Measure Development Plan (MDP) states. “Measures developed under this plan will hold individual clinicians and group practices accountable for care and promote shared accountability across multiple providers.”
+“CMS is committed to reducing provider burden through the use of measures aligned across federal and private-payer quality reporting programs. Incorporating the patient and consumer voice throughout the measure development process will ensure that the measures will yield publicly reported results that patients and consumers can use to make informed decisions about their healthcare.”
+The Medicare Access and CHIP Reauthorization Act of 2015 (MACRA), otherwise known as the SGR repeal, introduced MIPS, a new ecosystem of enhanced value-based reimbursement and quality measurement programs that will take over for the EHR Incentive Programs in 2019. 
+READ MORE: CDC Focuses on Patient Safety with Expanded Sepsis Education
+Similarly to meaningful use, MIPS centers on fulfilling the Triple Aim: higher quality, lower spending, and better patient outcomes.
+Using four performance categories – quality, resource use, clinical practice improvement activities, and the meaningful use of certified EHR technology – eligible providers will be judged using a composite score that will influence financial bonuses or penalties tied to the program. 
+Providers will have the option to participate in alternative payment models (APMs), which are directly tied to performance-based reimbursement.  These models include the patient-centered medical home (PCMH) and accountable care arrangements.
+The backbone of these programs will be quality metrics that shepherd the healthcare industry towards a number of strategic goals.
+To achieve these objectives, the healthcare system will need to adhere to four foundational principles, including the elimination of racial and ethnic care access and treatment disparities, the development of a robust big data analytics infrastructure to support population health management, the continuance of innovation at the local level to allow each community to maximize available resources, and the creation of learning organizations to encourage education and best practices surrounding key quality initiatives.
+READ MORE: AHIMA 2016: Expect Big Data Governance, MACRA, Value-Based Care
+As CMS works to develop the specific measure sets that will lead to the fulfillment of these goals, the agency will keep several guiding tenets in mind:
+• Measures will be aligned with the CMS Quality Strategy, as well as with other industry efforts including quality measurement programs from Medicaid, other federal partners, and private payers
+• Metrics will focus on performance and outcomes, not just processes, to produce maximum impact for vulnerable or underserved patients.  Objectives will be meaningful to patient, providers, and their caregivers to foster better population health and more productive clinical conversations.
+• Programs will include community input, and will be developed in a collaborative environment to ensure applicability and the realistic implementation of new workflows.
+• CMS will work to develop a “rigorous business case” for evidence-based measure concepts, and will define outcomes, risk factors, cohorts, and other criteria based on clinical and empirical evidence.
+READ MORE: Time Needed to Improve Quality in Value-Based Care Programs
+• Measures will prioritize electronic data sources, such as EHRs and patient registries, where applicable. 
+• CMS will develop risk adjustment models to account for differences in patient demographics in order to develop performance scores that are as equitable as possible for providers. Programs will include measure stratification across patient demographic groups in order to support the ability to monitor disparities and identify unanticipated consequences.
+One of the primary aims of MIPS is to integrate three major quality measurement programs already in existence – the Physician Quality Reporting System (PQRS), Value-Based Modifier (VM), and EHR Incentive Programs – into a single, harmonized system. 
+MIPS and APMs will address measure gaps that currently plague these initiatives, and will focus on emphasizing patient outcomes, care coordination, population health management, the integration of patient-generated health data (PGHD) into care plans, and a number of other strategic objectives.
+The draft MDP recognizes that these goals will be difficult to accomplish, and will require engagement and input from all stakeholders across the care continuum.  To that end, CMS has opened the draft document for public comment.  Interested parties may submit their remarks through March 1, 2016.
+The final Measure Development Plan will be published by May 1, 2016, and will include any approved updates collected from ideas submitted during the comment period.
+For more information on submitting public comments, and to read the entire MDP document, please click here. 
+Tagged Accountable CareHealthcare Data GovernancePopulation Health ManagementQuality Of Care
+
+

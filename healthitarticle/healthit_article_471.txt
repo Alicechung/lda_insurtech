@@ -1,0 +1,32 @@
+Nurse Informaticists Can “Triage” EHR Optimization Problems
+
+May 15, 2017
+
+By Jennifer Bresnick
+May 15, 2017 - Healthcare organizations still struggling to improve clinical workflows and address persistent EHR optimization and usability problems often turn first to their vendors in order to seek help with optimization.  After all, it’s reasonable to assume that the people who made the product should be best equipped to fix it.
+But frustrated providers may actually have better luck with a slightly different approach, says Rebecca Freeman, PhD, RN, PMP, Chief Nursing Officer at the ONC.  Instead of asking vendors to overhaul their offerings, healthcare organizations should consider enlisting some of the EHR’s heaviest users to make the adjustments required to streamline everyday processes and eliminate wasted effort.
+Nurses – and more specifically, nurse informaticists – are intimately familiar with the workings of most electronic health records, and possess the technical design and data analytics skills to optimize health IT systems for quality improvement and reporting purposes while keeping workflows centered on the needs of clinical staff, Freeman asserts.
+“Nursing informaticists transform the usability of health IT systems in their facilities and practices,” she wrote in a recent blog post on HealthITBuzz. “Trained with a diverse set of tools to expertly triage and correct any system, workflow, training, and accountability issues, they lead the partnerships between their frontline clinicians, super users (i.e., bedside clinicians who receive additional health IT training), and IT clinical analysts and builders.”
+“Nurse informaticists possess the ability to mediate and moderate governance and interdisciplinary committees to align practice, health IT, analytics, and outcomes, and they are capable of significantly impacting the usability of health IT across the health care system.”
+READ MORE: Poor Data Governance Practices Restrict Usefulness of EHRs
+EHR usability concerns usually center around human factors, such as the number of clicks required to complete a task or the manner in which information is presented to the end-user.  Comparatively few issues are due to glitches in system operation or other bugs, Freeman said.
+“When called to address an issue with health IT, one must first triage the problem and determine if there is a true break/fix situation at hand (e.g., a button that doesn’t work or an order that displays incorrectly),” she wrote.  “I am certain I will not surprise any clinical informatics professionals when I say that most issues are not break/fix and won’t be addressed by tweaking a setting or a bit of code.”
+Nurse informaticists can quickly tell the difference and subsequently make the appropriate fix with the needs of clinicians in mind, she added, due to their extensive experience with what works on the front lines of patient care.
+They can also help organizations overcome fundamental flaws in EHR use that often begin long before implementation, Freeman added. 
+“I like to say that a system will not be usable if you don’t know how to use it: a training, knowledge, or support deficiency often underlies inefficient use of the system,” she said. “Many meetings called to address documentation burden, in the form of too many clicks, have little to do with the system and more to do with pre-implementation decisions such as customized content, mandatory fields, pop-up alerts, flow sheet rows, etc.”
+READ MORE: Nurse Informaticists Have “Direct Positive Impact” on Patient Care
+When implementing a new EHR system, replacing an old one, or significantly revamping existing infrastructure, informaticists can help organizations make the information governance and workflow decisions that can drastically improve productivity and reduce irritation among users.
+“Take Becky Fox, MSN, RN, who led a three year project with her nursing informatics team to reduce assessment documentation time by 20 percent, eliminate 400,000 clicks within the on-time medication workflow, and eliminate over five million nursing tasks from the system (saving nurses 17.8 million clicks!),” Freeman said.  
+“Or Patricia Sengstack, DNP, RN-BC, FAAN, who investigated her admission assessment of 14 screens and 153 required fields, discovering that only 25 percent of the nursing data in the EHR was useful to nurses; rather, most of the data gathered in the EHR was neither read by fellow nurses nor other members of the care team.”
+These examples, and many others, highlight the utility of adding nurse informaticists to an interdisciplinary governance team when undertaking an EHR replacement or optimization project, said Freeman. 
+Organizations can also take advantage of the numerous resources available from the ONC, including the recently updated SAFER Guides and the Health IT Playbook, both of which address the myriad concerns of EHR usability and optimization.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+The SAFER Guides offer checklists that allow organizations to assess the safety and usability of their health IT systems, while the Health IT Playbook contains a wealth of resources including explainers about the EHR certification process, emerging technologies like APIs and FHIR, and information about HIPAA and patient privacy requirements.
+These materials, as well as the EHR Contract Guide and a video series addressing privacy and security issues, can help nurse informaticists and others develop electronic health records that best meet the needs of their users.
+The ONC is also working on a Usability Change Package that will help users in a variety of settings assess and improve their systems, Freeman said.
+“Our efforts and documents are living, breathing things,” she concluded. “More importantly, they will be made better with input from you, the folks on the ground, working in the health IT trenches every day.”
+The ONC highly encourages stakeholders to comment on available resources and contribute their ideas to the ongoing process of improving EHR usability industry-wide.
+“Public comment on our work is one of our key inputs for revisions and direction,” she said.  “To that end, please let us know how we’re doing by commenting on all of our proposals – I promise that we listen!”
+Tagged Clinical InformaticsEHR OptimizationEHR UsabilityHealth Information ManagementHealthcare Data GovernanceNurse Informaticists
+
+

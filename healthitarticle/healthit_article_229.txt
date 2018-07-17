@@ -1,0 +1,31 @@
+VA Releases Data Visualization of Opioid Prescribing Rates
+
+January 22, 2018
+
+By Jennifer Bresnick
+January 22, 2018 - The Department of Veterans Affairs (VA) is allowing public access to data on opioid prescribing rates at each of its facilities through on an online data visualization. 
+The interactive map provides comparisons between prescribing rates in 2012 and 2017, allowing users to explore improvements in the distribution of opioid medications.
+The prescribing rate is calculated by dividing the number of veterans who received any type of opioid prescription by the total number of individuals who received prescriptions from the pharmacy within the given time period.
+Dig Deeper
+For Opioids and Substance Abuse, Big Data Analytics Is Just the Beginning
+Addressing Opioid Abuse with Analytics, Population Health Strategies
+ICU Admissions from Opioid Overdoses Increase 34% Since 2009
+All of the included VA clinics and medical centers, save the Manila VA Clinic in the Philippines, have reduced their opioid prescribing rates by some percentage over the past five years.  The Manila VA Clinic saw a 1 percent increase, from 6 percent to 7 percent, which may not be statistically significant.
+The largest decreases came from the El Paso VA Clinic in Texas, which cut their prescription rate by 66 percent, and the Fayetteville VA Medical Center in North Carolina, with a 65 percent decrease.
+The website also includes data about regional prescribing rates outside of the VA system to allow comparisons with other healthcare organizations.
+“It is well-established that opioid prescribing rates and abuse vary across different parts of the country,” the site says.
+“Regional comparison categories were generated using publicly available data from the CMS. CMS reports opioid prescribing rates by state, which are calculated by dividing the number of Medicare Part D claims for opioid medications by the total number of prescription claims.”
+Source: Department of Veterans Affairs
+State-level data is aggregated into five groups by CMS.  On the VA website, clinics and hospitals are divided into “low,” “average,” and “high” comparison groups, the VA explains, based on the most recent data, which is from 2015.
+“The ‘low’ Regional Non-VA comparison category represents the 40 percent of states with the lowest prescribing rates for Medicare beneficiaries,” says the site. “The ‘High’ Regional Non-VA comparison category represents the 40% of states with the highest prescribing rates. The ‘Average’ Regional Non-VA comparison category represents the 20% of states in the middle.”
+As a result, improvements at facilities like the El Paso Clinic aren’t just impressive compared to internal figures.  The site is also in the “low” comparison group, which means it is also performing well in relation to its non-VA peers.
+The map is intended to complement the VA’s Opioid Safety Initiative, which offers tools, resources, and clinical guidelines to providers working within the healthcare system.
+Veterans have been hit particularly hard by the opioid epidemic – according to data from 2014, veterans are twice as likely to die from accidental overdoses compared to non-veteran populations. 
+Those with post-traumatic stress disorder or other mental health disorders, and those returning from overseas postings with complaints of pain, are more likely than others to be prescribed opioids. 
+Their clinicians are also more likely to add sedatives like benzodiazepines to the regimen, which increases the chances of accidental overdose.
+In recent years, the VA has made a concerted effort to educate their providers and patients about the risks associated with long-term opioid use through the Opioid Safety Initiative. 
+The measurable reductions in prescribing rates across more than 99 percent of the VA’s care sites indicates that the efforts are paying off.  While the challenges of managing pain for the veteran population are still significant, providers appear to be less likely to prescribe opioids without careful consideration, which may lead to lower addiction rates.
+The interactive data visualization will be updated semi-annually in January and July, the VA says.  To access the map and accompanying dataset, please click here.
+Tagged Chronic Disease ManagementClinical AnalyticsDepartment of Veterans Affairs VAPopulation Health Management
+
+

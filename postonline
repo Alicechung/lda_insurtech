@@ -1,0 +1,4 @@
+# Insurtech
+
+for i in range(1, 28):
+"https://www.postonline.co.uk/topics/insurtech?page=%s" %l

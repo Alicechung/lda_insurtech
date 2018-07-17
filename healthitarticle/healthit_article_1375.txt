@@ -1,0 +1,18 @@
+Texas Governor Signs EHR Interoperability, HIE Legislation
+
+July 02, 2015
+
+By Jennifer Bresnick
+July 02, 2015 - Texas Governor Greg Abbott has signed legislation that will ensure the state’s future health IT efforts will focus on EHR interoperability and health information exchange (HIE).  HB 2641, also known as “Ken’s Bill” due to the efforts of former Texas e-Health Alliance President Dr. Ken Pool to promote health information exchange across the region, will go into effect on September 1, 2015.
+The bill will ensure that all systems procured by the state will meet national interoperability standards.  It also provides a more detailed outline of what “health information exchange” will mean to the state.
+A health information exchange will be defined as an organization that “assists in the transmission or receipt of health-related information among organizations transmitting or receiving the information according to nationally recognized standards and under express written agreement with the organizations.”  Health information exchanges must make these activities a “primary business function” if they wish to meet the definition.
+“Ken would be thrilled – he was instrumental in drafting the initial language and policy goals,” says Dr. Terese Finitzo, Dr. Pool’s widow. “It is no small feat to bring all the groups that supported this bill together. This is a hugely important interoperability bill for Texas public health, and it’s something Ken worked so hard to see come to fruition with the outstanding leadership of the Texas e-Health Alliance.”
+Dig Deeper
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+ONC Views APIs as Key to Health Data Exchange, Interoperability
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+“HB 2641 is an important step towards making sure that we are empowering providers to get the most out of their investments in health information technologies, and in moving our state health care data systems into the modern era” added Representative John Zerwas, MD, an anesthesiologist who authored the bill.
+The legislation also requires state officials to establish an interoperability standards plan for all health information technology systems that exchange protected health data with providers and deliver detailed reports on a regular basis related to the state’s progress on interoperability and information exchange.
+Tagged Analytics InfrastructureHealth Information ExchangeInteroperability
+
+

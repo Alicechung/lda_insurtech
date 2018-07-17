@@ -1,0 +1,10 @@
+Microsoft Announces Azure Databricks Powered By Apache Spark, New AI, IoT And Machine Learning Tools For Developers
+
+23 Mar 2018
+
+New tools to help increase developer productivity and simplify app development for intelligent cloud and edge, across devices, platforms or data sources.
+Scott Guthrie
+Wednesday at Connect(); 2017, Microsoft Corp.’s annual event for professional developers, Executive Vice President Scott Guthrie announced new Microsoft data platform technologies and cross-platform developer tools. Guthrie outlined the company’s vision and shared what’s next for developers across a broad range of Microsoft and open source technologies, and how Microsoft is helping them get more done across apps or platforms. He also touched on key application scenarios and ways developers can use built-in artificial intelligence (AI) to support continuous innovation and continuous deployment of today’s intelligent applications.
+“With today’s intelligent cloud, emerging technologies like AI have the potential to change every facet of how we interact with the world,” Scott Guthrie said. “Developers are in the forefront of shaping that potential. Today at Connect(); we’re announcing new tools and services that help developers build applications and services for the AI-driven future, using the platforms, languages and collaboration tools they already know and love.”
+
+

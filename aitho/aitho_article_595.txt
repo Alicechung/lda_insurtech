@@ -1,0 +1,29 @@
+Infoblox Research Finds Explosion Of Personal And IoT Devices On Enterprise Networks Introduces Immense Security Risk
+
+14 May 2018
+
+A quarter of US employees are unclear as to whether their organization has an IoT security policy
+20 percent of UK employees rarely or never follow security policy for personal and IoT devices
+Infoblox Inc., the network control company that provides Actionable Network Intelligence, today announced new research that exposes the significant threat posed by shadow devices on enterprise networks.
+The report titled “What is lurking on your network: Exposing the threat of shadow devices” found that enterprise networks across the US, UK and Germany have thousands of shadow personal devices – such as laptops, kindles and mobile phones – and Internet of Things (IoT) devices – such as digital assistants and smart kitchen appliances – connecting to their network.
+Over a third of companies in the US, UK and Germany (35 percent) reported more than 5,000 personal devices connecting to the network each day. Employees in the US and UK admitted to connecting to the enterprise network for a number of reasons, including to access social media (39 percent), as well as to download apps, games and films (24 percent, 13 percent and 7 percent respectively). These practices open organizations up to social engineering hacks, phishing and malware injection.
+Conversely, just 16 percent of IT directors in the UAE reported having more than 500 personal devices connecting to their networks.
+A third of companies in the US, UK and Germany have more than 1,000 shadow IoT devices connected to their network on a typical day, with 12 percent of UK organizations reporting having more than 10,000.
+The most common devices found on enterprise networks included:
+Fitness trackers, such as FitBit or Gear Fit – 49 percent
+Digital assistants, such as Amazon Alexa and Google Home – 47 percent
+Smart TVs – 46 percent
+Smart kitchen devices, such as connected kettles or microwaves – 33 percent
+Games consoles, such as Xbox or PlayStation – 30 percent
+Such devices are easily discoverable by cybercriminals online via search engines for internet-connected devices, like Shodan, which provides even lower level criminals with an easy means of identifying a vast number of devices on enterprise networks that can then be targeted for vulnerabilities. For example, in March 2018:
+There were 5,966 identifiable cameras deployed in the UK
+There were 2,346 identifiable Smart TVs deployed in Germany
+There were 1,571 identifiable Google Home deployed in the US
+To manage the security threat posed by shadow personal devices and IoT devices in the network, 82 percent of organizations have introduced a security policy for connected devices. However, IT directors appear misguided in their estimation for how effective these policies are.
+While 88 percent of the IT leaders that responded to the survey believe that their security policy is either effective or very effective, nearly a quarter of employees from the US and UK that we surveyed (24 percent) did not know if their organization had a security policy.
+Of those that reported that their organization did have a security policy for connected devices, 20 percent of UK respondents claimed they either rarely, or never, follow it. And, only one fifth of respondents in the US and UK reported that they followed it by the book.
+Gary Cox
+Gary Cox, Technology Director, Western Europe at Infoblox commented: “Due to the poor security levels of many consumer and IoT devices, there is a very real threat posed by those operating under the radar of organizations’ traditional security policies. These devices present a weak entry point for cybercriminals into the network, and a serious security risk to the company.”
+“Networks need to be a frontline of defence; second only to having good end user education and appropriate security policies. Gaining full visibility into all connected devices, whether on premise or while roaming, as well as using intelligent DNS solutions to detect anomalous and potentially malicious communications to and from the network, can help security teams detect and stop cybercriminals in their tracks.”
+
+

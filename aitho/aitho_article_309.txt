@@ -1,0 +1,50 @@
+Scale To Discuss How Self-Driving Cars Will Handle Unexpected Real-World Scenarios At The Information’s Autonomous Vehicles Summit
+
+14 Jun 2018
+
+Together With Toyota Research Institute and Index Ventures, Scale CEO Alexandr Wang To Provide Insights Into How AVs Can Process An Infinite Array Of Edge Cases On The Road
+Scale announced its sponsorship and participation at The Information’s Autonomous Vehicles Summit, held June 14th in San Francisco. The company – which democratizes access to intelligent data for AI application development – works with autonomous vehicle customers such as Voyage and nuTonomy to accelerate time-to-market. Among Scale’s human-in-the-loop data labeling solutions for AV companies is Sensor Fusion, which turns customers’ raw LIDAR and RADAR input into annotated data that trains their 3D perception models.
+Alexandr Wang
+Scale, represented by CEO Alexandr Wang, will analyze how the autonomous vehicle industry can prepare sensor detection for previously unknown or uncertain circumstances and objects, how to classify them (such as pedestrian, animal, or object), and how to predict if or where they might move. The talk will also discuss the challenge of avoiding false positives that lead to an unnecessary reaction.
+Read More: Hypergiant Partners With Station Houston To Launch Inaugural AI Fellowship
+“There is no realistic way to simulate every driving scenario or every new object that autonomous vehicles will encounter on the road,” said Wang. “The success of AVs is contingent on vehicles knowing how to respond to what we call ‘edge cases’ – scenarios that haven’t been through a simulator or specifically planned for. As we all know from our own experiences behind the wheel, every commute, every getaway, and every errand brings different and oftentimes brand new driving variables. How can AV systems be prepared for uncertainty? I look forward to discussing this critical topic alongside Toyota Research Institute and Index Ventures.”
+Here’s a peek into the speaker list;
+GM/Cruise’s Daniel Kan, Co-Founder & COO
+In 2016, GM had acquired Cruise Automation, a San Francisco-based developer of autonomous vehicle technology valued at “north of $1 Billion,” in a combination of cash and stock. Self-driving electric cars can save millions of lives and significantly accelerate the world’s transition to sustainable energy, but only when they’re deployed in large numbers. General Motors and Cruise Automation are focused on bringing that future to life. State-of-the-art software and hardware paired with over 100 years of automotive engineering make us uniquely positioned to create the world’s first scalable AV fleet.
+Baidu’s Helen Pan, Director of Intelligent Driving Group
+The mission of Baidu’s Autonomous Driving Unit (ADU) is to develop vehicles capable of sensing and navigating without human input. Based in Beijing and in Silicon Valley, ADU is part of Baidu’s Intelligent Driving Group (IDG) headed by Dr. Qi Lu, Baidu’s COO and Group President, as the general manager. IDG combines Baidu’s Autonomous Driving Unit, Intelligent Vehicle Unit, and CarLife with a mission to accelerate auto industry upgrade in AI era.
+ADU brings together a group of high caliber talent to work on audacious goals – commercializing autonomous driving by 2018 and achieving mass production by 2020. ADU is developing autonomous driving technologies at Level 4 automation, per the NHTSA definition. ADU leverages Baidu’s world-class capabilities in the areas of artificial intelligence, deep learning, big data, advanced hardware, and high definition maps.
+Zoox’s Mark Rosekind, Chief Safety Innovation Officer
+Zoox Inc. designs and develops self-driving vehicles. It also manages a fleet of cars and offers vehicle rental services.  In 2016, Zoox, a Palo Alto-based startup founded by Tim Kentley-Klay and Jesse Levinson, has been deliberately quiet about what they are working on presumably for competitive reasons, but the Zoox team has been working on autonomous vehicles for a few years now. Zoox is said to be building technology that could compete with Google’s self-driving cars and Cruise Automation, which was recently acquired by GM.
+Nauto’s Jennifer Haroon, VP, Strategy & Business Operations
+  Nauto is rethinking transportation by using AI technology to learn how to best equip automated vehicles for a future of safe and trusted transportation. Here is what Nauto CEO Stefan Heck said about what they are trying to do in an episode of Greymatter, “Mobility and cities are deeply intertwined and require thoughtful deployment about how best to prepare for a safe future with new vehicle technology. This includes a push to invest in shared public infrastructure across the United States and a societal move to vehicle sharing. As autonomous vehicles deploy, vehicle sharing is important to mitigate potential congestion from more vehicles on the road, miles traveled and sprawl. Cities must start to embrace shared autonomous innovation and begin to think about planning land use to reflect the transformation to make cities more livable and safer.”
+Embark’s Alex Rodrigues, Co-Founder & CEO
+Embark operates the longest automated freight route in the world. Together with our partners Electrolux and Ryder, Embark is putting our technology to work moving freight in the real world. Embark has compiled many firsts for automated trucks, including driving across the country, operating in rain and fog, and navigating highway transfers. Embark is advancing the state of the art in automated trucks and bringing safe, sustainable commercial transport closer every day.
+  Read More: Avionos Releases New Data Revealing How Consumer Expectations Are Driving Retail Strategies
+Here is the full list of speakers: 
+DeepScale’s Forrest Iandola, CEO
+Zoox’s Tim Kentley-Klay (CEO & Co-Founder) and Jesse Levinson (CTO & Co-Founder)
+Daimler/Mercedes-Benz’s Axel Gern, VP, Autonomous Driving R&D
+Bosch’s Kay Stepper, VP, Driver Assistance & Automated Driving
+Magna International’s Boris Shulkin, VP of Research & Development
+Audi/Volkswagen’s Alexandre Haag, CTO, Autonomous Intelligent Driving Gmbh
+Toyota Research Institute’s Adrien Gaidon, Machine Learning Lead
+Voyage’s Oliver Cameron, Co-Founder & CEO
+May Mobility’s Alisyn Malek, Co-Founder & COO
+Optimus Ride’s Sertac Karaman, Co-Founder & President
+Index Ventures’ Mike Volpi, General Partner
+Scale API’s Alexandr Wang, Founder & CEO
+Ex-Waymo & Uber ATG strategist, Anne Widera
+Renovo’s Christopher Heiser, Co-Founder & CEO
+Ex-Cruise & Nvidia engineering executive Sasha Ostojic
+Nvidia’s Justyna Zander, Automotive Manager
+Paccar’s Paul Konasewich, Director of Business Development
+Details on this session:
+Who: Alexandr Wang (CEO, Scale), Adrien Gaidon (Machine Learning Lead, Toyota Research Institute), Mike Volpi (General Partner, Index Ventures)
+What: “Living on the Edge Case: How Autonomous Vehicles Can Deal with an Extremely Messy World”
+When: 10 am, June 14
+Where: Cowell Theater, Fort Mason Center, San Francisco
+Scale accelerates the development of AI by democratizing access to intelligent data. By leveraging its API for autonomous vehicles and other use cases, businesses depend on Scale to turn raw information into the human-labeled training data that dependably powers their AI applications. Scale uses a combination of high-quality human task work, smart tools, statistical confidence checks and machine learning to consistently return scalable, precise data. The company is headquartered in San Francisco.
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+
+

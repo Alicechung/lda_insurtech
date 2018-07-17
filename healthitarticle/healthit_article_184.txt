@@ -1,0 +1,33 @@
+EHR Data Mining, Patient Outreach Can Aid Hypertension Care
+
+February 28, 2018
+
+By Jessica Kent
+February 28, 2018 - Pairing EHR data mining with patient outreach and follow-up could be an effective way to identify patients with undiagnosed hypertension and support chronic disease management in underserved communities, according to a study published in The Joint Commission Journal on Quality and Patient Safety.
+Hypertension is extremely prevalent and costly, and treating and controlling the disease could significantly reduce healthcare costs and improve patient outcomes.
+To better detect patients with undiagnosed hypertension, researchers developed an algorithm that would examine patients’ EHR data and identify those who had multiple elevated blood pressure readings over a 12-month period. The algorithm was implemented in ten health centers that provide care for underserved communities.
+Dig Deeper
+EHR Workflow, Big Data Combine for Population Health Management
+EHR Big Data Analytics Uncovers New Aid for Hypertension
+Machine Learning Underpins Predictive Analytics for Hypertension
+Participating health centers also implemented patient engagement strategies meant to encourage follow-up appointments for at-risk patients, and potentially improve disease management.
+After implementation, the percentage of patients with documented hypertension diagnoses increased from 34.5 percent in January 2015 to 36.7 percent in June 2016, indicating that there were a significant number of undiagnosed and untreated patients within the care population.
+Once at-risk patients were identified, health center providers reached out to ensure these patients returned for follow-up appointments. Researchers tracked a group of at-risk patients from eight of the ten health centers to assess their appointment follow-up and diagnosis rates.
+More than 62 percent returned to their health center for a follow-up evaluation, of whom 31.9 percent received a formal hypertension diagnosis from their provider.
+The team asserted that tracking follow-up and diagnosis was an important part of their research, as many patients in underserved communities tend to experience barriers to accessing healthcare and can have trouble keeping appointments.
+“Much attention in the project focused on additional workflow changes designed to help address access barriers and facilitate patient follow-up,” the team wrote.
+The researchers conducted surveys with nurses, clinicians, and operations staff to assess how organizations used data to drive improvements. The survey results showed that the data was used to implement patient outreach strategies (80 percent), pre-visit planning reports (70 percent), and targeted interventions for at-risk patients (70 percent).
+Additionally, five of the participating health centers offered walk-in blood pressure checks that did not require a copayment. Four out of five health centers saw significant increases in diagnosed hypertension rates.
+“This reinforces the important role that enabling services can play in facilitating access to care,” the researchers said.
+The team also asked providers whether they found the algorithm effective, as well as the challenges and successes of implementation.
+One hundred percent of respondents believed the algorithm was helpful for identifying hypertensive patients.
+One of the top implementation challenges was finding the time to assess where quality improvements should be made (40 percent).
+Of all the algorithm-based interventions, respondents thought workflow mapping and redesign required the highest amount of resource investment (60 percent).
+Although providers thought that all elements of the interventions required moderate to high effort, they also found the project beneficial.
+Participants perceived the top successes of the project to be improved workflows (70 percent), enhanced strategies that could be used with other quality improvement initiatives (50 percent), and improved clinical outcomes (40 percent).
+The team noted that because the algorithm was only implemented within safety-net health centers, further testing must be completed before it can be applied to other healthcare settings.
+Still, researchers believe that using algorithms to identify relevant patient data, combined with patient outreach strategies, may be effective ways for health center providers to detect and support patients at high risk for undiagnosed hypertension. This method could reduce patient harm and healthcare expenses.
+“Identifying all hypertensive patients is a key step to ensure that hypertension control efforts yield maximal improvements in population cardiovascular health and related costs,” the team concluded. 
+Tagged Chronic Disease ManagementEHR Data MiningEHR Patient DataPatient Outcomes
+
+

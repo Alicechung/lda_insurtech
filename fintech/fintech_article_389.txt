@@ -1,0 +1,31 @@
+Healthcare is Keen to Explore Blockchain as the Technology Grows Up
+
+February 12, 2018
+
+Hugh Halford-Thompson, Co-Founder and Chief Innovation Officer of BTL Group, provides the latest BTL Insights to explain why the healthcare industry is such an interesting use case.
+
+ Quicker and Cheaper Internal Processes
+
+ What we’ve learnt from past work and continue to learn via ongoing work with clients is that blockchain technology is truly transformational. It is just as easy to build things that produce quicker and cheaper internal processes, within one department, than it is when doing projects at the company level between different entities.
+
+ More Blockchain Applications are in Production
+
+ A few days ago I sat on a panel to discuss the technology’s application in the healthcare sector. Before going into this in a little more depth, it is worth noting that the conversations I was having amongst attendees and on panels had most certainly moved forward within the course of one year. A great deal more had been learnt over the course of twelve months and many more blockchain applications are in production.
+
+ Compliance is Critical
+
+ For healthcare however, things have been a little slower. Incidentally, when we first set up BTL we thought the healthcare sector would be our primary focus as it is heavily reliant on supply chains and the sharing of data. The way this data is shared today has many flaws and it is well known that the industry faces problems with fraud, such as counterfeit and cyber threats, which ultimately makes remaining compliant all the more difficult.
+
+ Compliance in the healthcare industry is critical and the transformation blockchain tech can provide here is via its immutable attributes. Having data that cannot be tampered with provides that trust element that ensures the provenance of drugs is never in doubt, meaning counterfeiting can potentially be eradicated altogether. An example would be codifying user agreements via simple smart contracts, which can make a huge difference in respect to transparency and certainty, therefore greatly improving the way compliance reporting works. Another example is patient record management, which would also benefit from having an application built on blockchain, as it would make tracking of these records much more foolproof and again, assisting from a compliance and reporting perspective.
+
+ Challenges to Adoption
+
+ What challenges to adoption did we highlight? One difficulty is demonstrating the value that applications built on blockchain technology can bring. It may be easy to get senior management within a large organisation to agree that blockchain makes sense, however it’s engaging with the development and innovation teams at the grassroots that will make things happen. Without traction at that level, it is difficult to make an impact. Therefore, it is very important to have developers actually collaborating and starting to build things in order to realise this value quickly. This allows teams to form internally and momentum to build with the project building traction. As that traction builds, then so does the team, firstly with those that know how to build the smart contract code, then others who go onto deployment and systems integration.
+
+ Another challenge is the lack of skills and resource to truly understand the technology and its potential. This is not just within the enterprises we are targeting, but also regulators who may stifle the innovation due to inertia. Often, there needs to be more buy in from a wider audience, all with different vested interests, which means hurdles can pop up in all sorts of different places.Thankfully, at BTL we’ve managed to prove how we can address and overcome these issues to move forwards. Moreover, to facilitate this ease of adoption it helps to have a solution that’s built in a common coding language, for example JavaScript, a technology that has long predated blockchain and is widely used. This means enterprises can build those teams easily as they do not need to rely on specialist skills.
+
+ It is still early days for healthcare to start reaping the rewards of blockchain technology and we are a way off making the sort of impact that’s being seen in energy and finance. So, it will be some time before there’s a real impact in the sector, however this should not prevent developers and innovation departments in healthcare organisations from looking into identifying those use cases and seeing how working via an application on a blockchain can really help improve their workflows and ultimately improve outcomes for customers and patients.
+
+ 
+
+

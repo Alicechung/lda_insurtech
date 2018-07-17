@@ -1,0 +1,18 @@
+MRI brain scan database brings big data to pediatrics
+
+January 10, 2014
+
+By Jennifer Bresnick
+January 10, 2014 - Researchers at Johns Hopkins are using a $600,000 grant from the National Institutes of Health (NIH) to build a cloud-based databank of pediatric brain MRIs in order to help identify abnormalities in pediatric patients.  The system will allow physicians to browse a large collection of scans and identify images that match the irregularities of their own patients, pinpointing new discoveries and diseases that may be rare and serious in swifter way.
+“We’re creating a pediatric brain data bank that will let doctors look at MRI brain scans of children who have already been diagnosed with illnesses like epilepsy or psychiatric disorders,” said Michael I. Miller, the Herschel and Ruth Seder Professor of Biomedical Engineering at Johns Hopkins and director of the Center for Imaging Science. “It will provide a way to share important new discoveries about how changes in brain structures are linked to brain disorders. For the medical imaging world, this system will do what a search engine like Google does when you ask it to look for specific information on the Web.”
+The research team, which includes Susumu Mori, a professor of radiology in the Johns Hopkins School of Medicine and Thierry Huisman, professor of radiology and pediatrics and the director of pediatric radiology at the Johns Hopkins Children’s Center, has been working for over four years to establish a database containing more than 5000 de-identified whole-brain MRI scans.  The images are tagged with diagnosis information and are sorted into a series of clinical categories, including congenital malformations, infections, epilepsy, and psychiatric disorders.  Detailed structural measurements in 250 regions of the brain are also included.
+“If doctors aren’t sure which disease is causing a child’s condition, they could search the data bank for images that closely match their patient’s most recent scan,” added Miller. “If a diagnosis is already attached to an image from the data bank, that could steer the physician in the right direction. Also, the scans in our library may help a physician identify a change in the shape of a brain structure that occurs very early in the course of a disease, even before clinical symptoms appear. That could allow the physician to get an early start on the treatment.”
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+Johns Hopkins is also working on a similar project involving elderly patients, attempting to gather information on Alzheimer’s and other degenerative diseases for research and treatment.  “This research is one of the first real applications of ‘Big Data’ analytics, taking medical information from large numbers of patients and bringing the data into the cloud to allow very high-powered analysis,” said Jonathan Lewin, director and radiologist-in-chief of the Johns Hopkins Department of Radiology and Radiological Science.
+“This has been a goal of the medical community for almost a decade, and professors Miller and Mori have found a way to implement this technology in a manner that can bring its benefit to our patients, and can assist in the classification and identification of rare and subtle brain disorders as well as uncommon manifestations of more common diseases of the brain.”
+Tagged Applied AnalyticsBig DataBig Data AnalyticsClinical AnalyticsMedical ResearchPatient Care
+
+

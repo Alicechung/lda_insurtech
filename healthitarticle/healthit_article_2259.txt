@@ -1,0 +1,18 @@
+Big data helps tackle drug resistance at the point of care
+
+October 03, 2013
+
+By Jennifer Bresnick
+October 03, 2013 - With EHR and pharmacy data on 15 million patients and a growing antibiotic resistance problem waiting to be solved, athenahealth and Epocrates have put their big data under a microscope to add a new weapon to the arsenal of population health management.  The Bugs + Drugs app provides physicians with a way to track antibiotic resistance patterns based on the communities they serve, using geolocation data, medication prescriptions, and patient outcome information to spot superbugs before they take lives.
+“The problem here is that drug-resistance and antibiotic resistance continue to rise,” explained athenahealth Chief Medical Officer Dr. Todd Rothenhaus to HealthITAnalytics.  “Two million Americans get infected every year, and 23,000 die.  In the olden days, we used to think it was just a hospital problem, and it was just old people on ventilators.  But the CDC recently released data to show that it’s really half of these multi-drug-resistant organisms really originate in the community, and that there really isn’t a good clinical surveillance tool for this.”
+“We realized that with our data streams, we could fill out pretty granular information about antibiotic resistance patterns, essentially down to a zip code or down to a town name, really based upon where the patient lives, not necessarily where the provider’s office is.  It’s really a wonderful opportunity to give some additional guidance to physicians within the community.”
+“Patient-specific factors, clinician judgment, affordability, and other factors are vital to any prescribing decision,” adds Anne Meneghetti, MD, Director of Clinical Communications for Epocrates. “Still, the application of geo-specific sensitivity profiles represents another step toward personalized medicine and population health management. The decisions made in the moment of care, whether to prescribe an antibiotic and the choice of drug, can affect an entire population.”
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Social Media May Provide Big Data Insights into Drug Misuse
+State-Led Programs Help Meet Population Health Management Goals
+The free app is available for devices running iOS 7, and represents a novel way of using analytics to put decision making capabilities straight into the hands of clinicians, rather than filtering data down through a hospital system and hoping it makes its way into a clinical decision support mechanism.
+“The value proposition for population health management is that it’s a workflow tool that drives insights directly to the point of care,” Rothenhaus said.  “This app really represents an extraordinary opportunity to put this information and these insights into the hands of the clinician right at the prescribing moment. The idea that there’s all this big data is kind of hampered by the fact that it isn’t in the workflow of busy clinicians.  This is big data, but it’s available to everyone.”
+  Tagged Applied AnalyticsBig Data AnalyticsEHR AnalyticsEHR Patient DatamHealth and Population HealthPopulation Health Management
+
+

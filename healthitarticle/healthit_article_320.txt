@@ -1,0 +1,34 @@
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+
+October 16, 2017
+
+By Jennifer Bresnick
+October 16, 2017 - The American Medical Association is working to develop an integrated big data analytics and clinical informatics platform that will offer a common data model for organizations seeking to deliver the highest possible quality of coordinated care.
+With initial partners including Cerner Corporation, IBM, Intermountain Healthcare, PCORI, AMIA, and SNOMED, the Integrated Health Model Initiative (IHMI) will prioritize a collaborative approach to better chronic disease care and population health management.
+“We spend more than three trillion dollars a year on health care in America and generate more health data than ever before. Yet some of the most meaningful data – data to unlock potential improvements in patient outcomes – is fragmented, inaccessible or incomplete,” said AMA CEO James L. Madara, MD.
+“The collaborative effort of IHMI will help the health system learn how to collect, organize, and exchange patient-centered data in a common structure that captures what is most important for improving care and long-term wellness, and transform the data into a rich stream of accessible and actionable information.”
+The platform aims to create and disseminate standards for those key data elements that support informed decision-making and patient-centered care, with a special focus on high-cost and high-impact clinical areas, such as hypertension and diabetes.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+“The patient-physician relationship is a very close one,” Madara said in a video accompanying the press release.  “What we know as physicians is that patients have goals.  Unfortunately, our data capture system doesn’t allow those goals to be captured.  Patients want that, so we want that for our patients.”
+“One of the things we hear from clinicians all the time is that the data that’s clinical and in health systems is not organized very well,” he added.  “It’s hard to extract.  [IHMI] would allow the health record data around disease states to be conceptually organized around disease states so it’s easily extractable.”
+The platform will leverage many of the existing data standards familiar to clinicians and health IT developers, including coding systems like CPT, ICD-10, SNOMED, and LOINC, said Laurie McGraw, Senior Vice President of Health Solutions at the AMA.
+But the tool aims to go one step further by allowing providers to easily capture and access patient-centered data that is typically not represented in these standardized systems.
+“Today, with all of this data, there are still particular things that are missing, like patient goals, function, state – those things are critical for describing patient outcomes and wellness, which are critical from the patient’s perspective,” McGraw said.
+READ MORE: AMA: Real EHR Data in Med School Will Boost “Informatics IQ”
+The collaboration will try to close these gaps by specifying a joint model to encode information and clinically validate proposed relationships between data elements that contribute to a clinical pathway or care suggestion.
+"This represents a bold attempt to advance an important aspect of interoperability," said David McCallie, MD, senior vice president for medical informatics at Cerner. "Ensuring the accuracy and completeness of the information used to manage a person’s care is a priority for Cerner, so we are happy to support this AMA initiative to improve the semantics of clinical data models."
+Physicians will be intimately involved in this process, McGraw said.
+“IHMI is the latest development in the AMA’s ongoing work to build bridges with health technology leaders and bring the physician voice into the innovation space,” McGraw stated. “Patients deserve—and the marketplace should expect—physician input on the real-world value and feasibility of products and health technologies.”
+Ultimately, the initiative hopes to provide at least part of the solution to physician dissatisfaction with electronic health records and the administrative burdens involved in utilizing the current generation of health IT tools, the AMA said.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+By joining patient care models that are simpler to deploy with technological innovations that streamline workflows and reduce the time required to hunt for pertinent information in the patient record, IHMI may end up producing benefits for stakeholders on both sides of the keyboard.
+“It’s really about the health of our nation and the health of our patients,” Madara said.  “It’s about getting the right solutions to the right people at the right time.”
+The model will be developed and rolled out throughout 2018, the AMA says, with help from its indsutry partners.
+“A proliferation of data in health care has made informatics an essential component to the practice of modern medicine, and AMIA will ensure that IHMI benefits from the latest in informatics science, practice, and education," said Douglas H. Fridsma, MD, PhD, president and CEO, American Medical Informatics Association. "We are excited to bring our members’ wealth of knowledge to IHMI so that our national investment in digitizing care can lead to improved health outcomes.”
+Interested parties from across the care continuum are encouraged to join the project, McGraw urged.
+“There is a wide range of stakeholders who are going to want to participate in this collaborative.  They include stakeholders from technology companies and pharma,” she said.  “It’s a physician-led initiative, but it’s not a physician-exclusive initiative.  We expect physicians and other clinicians to participate, as well as informaticists, data companies and outcomes-types organizations to participate in the initiative.”
+To learn more about the Integrated Health Model Initiative or sign up to particiapte, please visit the AMA website.
+Editor's note: This article has been updated to include commentary from the AMA's industry partners.
+Tagged AMAAnalytics InfrastructureChronic Disease ManagementClinical InformaticsEHR UseHealthcare Big Data AnalyticsPopulation Health Management
+
+

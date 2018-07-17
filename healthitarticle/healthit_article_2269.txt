@@ -1,0 +1,22 @@
+Q&A: Key to healthcare analytics lies in full clinical record
+
+September 26, 2013
+
+By Jennifer Bresnick
+September 26, 2013 - For good analytics, you need more than good data.  You need all the data that exists on a patient in order to make truly informed decisions about treatments, costs, and outcomes.  But up to 80% of a patient’s information is buried in free-text input, and needs to be extracted and processed before it can be added to algorithms and predictive analytics systems.  Dan Riskin, MD, CEO and co-founder of Health Fidelity sat down with HealthITAnalytics to discuss the importance of using all the information in the full clinical record – and how to get at it.
+What does the healthcare analytics landscape look like now?
+The top health systems have moved beyond just getting data input into them.  If you look at the large majority of health systems, all they have is an electronic medical record.  All they have is an input functionality, and that’s extremely limiting.  The top systems have added a data warehouse, so now they’ve separated out their data input functionality from their analytics functionality.  That’s practiced across all industries.  You can’t have your workflow application also be your analytics application.
+The very, very small fraction of these top systems has started to add analytics to their data warehouse.  Every health system that has started to do this has found that they have an anemic, underpowered analytics system because of their data input problem.  So we always talk about “garbage in, garbage out.”  If all you use is a tiny fraction of claims data, then your analytics will not be powerful.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+How important is it to get to all the clinical information available?
+I talked with one of the big pharma groups recently about what happens if you’re modeling the patient, and the patient has cancer and heart failure and diabetes, but all you do is describe him as diabetic, because under your archaic system, that’s all you can go for.  That’s very poor modeling of the patient, and you really can’t predict outcomes or send resources their way appropriately, and you can’t actually improve what’s going to happen with them at a population level.
+So if all that information is buried in free text, which it is, because the doctors need to do that for adequate care, then you need to figure out how to get at it.  Once they have their data warehouse in place, the top health systems are realizing, “Hey, my main problem right now is that I only have a tiny fraction of information about the patient that I’m pouring into my analytics.  I need the full clinical record.”  That’s the time when they start looking for natural language processing (NLP) and ontologies and data mining.
+What does the future of analytics look like?
+The next two or three years is all about creating the foundation of data-driven healthcare.  What we want to see is whether the top health systems are able to improve outcomes and reduce costs by using best-of-breed infrastructure.  Because quite frankly, if they aren’t able to do that, no one is going to be able to.
+So we want to watch them implement their EHRs, their data warehouses, their NLP and ontologies to use the full clinical data, and their analytics.  And we want to see whether they improve care.  If they don’t, then we’re in trouble.  If they do, then we have a theoretically replicable model that we will call data-driven healthcare, which we can then make into turn-key solutions for the rest of the health systems in the country and eventually, I hope, the world.
+Tagged Analytics InfrastructureBig DataClinical AnalyticsEHR AnalyticsHealthcare AnalyticsHealthcare Data ManagementHealthcare Data Strategy
+
+

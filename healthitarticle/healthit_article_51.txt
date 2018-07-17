@@ -1,0 +1,23 @@
+Mount Sinai to Boost Kidney Disease Management with AI, Big Data
+
+June 04, 2018
+
+By Jessica Kent
+June 04, 2018 - Mount Sinai Health System (MSHS) will partner with RenalytixAI to develop artificial intelligence (AI) solutions and deploy them in MSHS’s big data warehouse in an effort to enhance kidney disease detection, management, and treatment.
+The partnership will leverage de-identified clinical data from the more than three million patient health records stored in MSHS’s data warehouse. Researchers will create an advanced learning system to monitor and identify patients at risk for kidney disease and costly, unplanned crashes into dialysis.
+Kidney disease is a prevalent and costly condition, affecting 12 percent of the US population and accounting for over $100 billion in healthcare expenses annually.
+Dig Deeper
+Artificial Intelligence Promises a New Paradigm for Healthcare
+How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Turning Healthcare Big Data into Actionable Clinical Intelligence
+Approximately one million MSHS patients are either diagnosed with Type II diabetes or are of African ancestry, two of the major at-risk populations for kidney disease.
+Through this collaboration, MSHS expects to improve care for patients at risk of kidney disease within their network and across the country.
+“Our ability to apply the power of artificial intelligence against such a deep repository of clinical data in combination with prognostic biomarkers has the potential to change the game for all of our patients with diabetes and other populations at risk for kidney disease,” said Barbara Murphy, MD, Dean for Clinical Integration and Population Health Management and Chair for the Department of Internal Medicine at the Icahn School of Medicine at Mount Sinai (ISMMS), and Chair of the RenalytixAI Scientific Advisory Board.
+The first AI solution will launch in 2019 and aim to reduce costs associated with preventable dialysis and chronic kidney disease costs. Additional US healthcare systems are expected to participate in clinical utility data development.
+This partnership will add to MSHS’s past efforts to improve patient care with AI. In 2016, researchers from ISMMS applied machine learning algorithms to echocardiographic imaging data and improved the accuracy of hypertrophic cardiomyopathy (HCM) diagnosis. The team demonstrated the potential for machine learning models to enhance clinical decisions and extract information from complex datasets.
+Now, MSHS will focus on using AI and big data to alleviate care and cost burdens for patients with kidney disease.
+ “We’re proud to be advancing prognostics at the nexus of artificial intelligence and healthcare analytics,” said Erik Lium, PhD, Senior Vice President at Mount Sinai Innovation Partners.
+“The accomplished innovators and rich data resources of Mount Sinai combined with the expertise and vision of our colleagues at RenalytixAI are evolving the development of cutting-edge renal prognostics for the benefit of patients and healthcare globally.”
+Tagged Artificial Intelligence in HealthcareBig Data AnalyticsChronic Disease ManagementHealthcare Data WarehouseMachine Learning
+
+

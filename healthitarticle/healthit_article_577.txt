@@ -1,0 +1,41 @@
+Blockchain, Big Data, Interoperability Coming Up at HIMSS17
+
+February 10, 2017
+
+By Jennifer Bresnick
+February 10, 2017 - In just a few short days, HealthITAnalytics.com will be heading to the happiest place on earth – the annual HIMSS Conference and Exhibition – to sync up with tens of thousands of health IT professionals and innovators. 
+At this year’s convention in Orlando, Florida, the industry will revisit some familiar topics, like interoperability, population health management, EHR usability, and big data analytics, while adding a few new terms to its growing lexicon.
+Blockchain, machine learning, and artificial intelligence are the hottest new topics to take the stage at HIMSS17, promising tools that deliver advanced clinical insights, better security, and a more personalized patient experience.
+But how will providers use these skills and software to continue their quest to achieve the Triple Aim?  And how will they decide what’s worth the investment in an atmosphere of deep political uncertainty and rapid regulatory change? 
+The conference couldn’t come at a better time for organizations looking to glean advice or get some reassurance from their peers.  Here’s a sneak peek of what we’re expecting to see at HIMSS17 and what we’ll be up to during the hectic, challenging, inspiring convention.
+WHATEVER HAPPENED TO INTEROPERABILITY?
+READ MORE: Why Health Data Interoperability is Setting EHR Vendors on FHIR
+At last year’s convention, every EHR vendor worth its salt clamored to voice its commitment to health data interoperability.  With a public pledge and a hitherto-unknown degree of cooperation with competitors, the vendor community vowed to bring its customers some major data sharing improvements.
+One year later, in the wake of the 21st Century Cures Act, we’ll take a look at which vendors have delivered on their promises to break down data siloes and encourage data-driven care coordination – and which still have a lot more work to do.
+Interviews with Epic Systems CEO Judy Faulkner, as well as top executives from Allscripts, Cerner, athenahealth, and McKesson, are all on HealthITAnalytics.com’s calendar as we explore the continuing evolution of the interoperability environment.
+We will also have a chat with HL7 CEO Dr. Charles Jaffe and CTO Wayne Kubick, to discuss how the Fast Healthcare Interoperability Resource (FHIR) is revolutionizing information exchange.
+Attendees can get in on the HIE action by stopping in to the HIMSS Interoperability Showcase, which offers interactive learning stations, product demos, networking opportunities, and educational sessions.
+READ MORE: Is Blockchain the Answer to Healthcare’s Big Data Problems?
+The conference will also offer close to forty events focusing on health information exchange and interoperability, including sessions about integrating Clinical Document Architecture (CDA) files, developing secure, trusted, nationwide data exchange, and leveraging FHIR to support care coordination and data exchange.
+THE SUPERCOMPUTER WILL SEE YOU NOW
+It hasn’t taken long for artificial intelligence and machine learning to become some of the most popular buzzwords in health IT, and these terms are sure to be everywhere at HIMSS. 
+More than a dozen educational sessions will address the use cases for AI and machine learning tools – not to mention the fact that IBM President and CEO Ginni Rometty will be delivering the opening keynote address this year.  No doubt she will have a few things to say about IBM Watson Health’s swift rise to dominance in the precision medicine and cognitive computing markets.
+Convention-goers will also have the opportunity to sit in on presentations addressing the use of artificial intelligence to combat sepsis, enhance existing big data analytics capabilities, and even guard against security threats and ransomware.
+There’s even a session for those who aren’t convinced that artificial intelligence is worth all the attention it’s getting, just in case the futuristic tone gets out of hand.
+LINKING UP WITH EXPERTS ON BLOCKCHAIN
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Speaking of the future, HIMSS17 might be a good time for a first introduction to blockchain.  The new methodology for organizing and securing data is set to become a significant driver of new security and data exchange technologies.
+HealthITAnalytics.com will be speaking to Brian Behlendorf, Executive Director of Hyperledger, an open source, cross-industry collaboration dedicated to developing toolkits and frameworks that make it easier to set up blockchain systems.
+With members including IBM, Accenture, Gem, VMware, and Intel – all of which have a strong presence in the healthcare space – the consortium is a hotbed of innovation for healthcare security, patient identity management, and data exchange.
+Blockchain will also take pride of place at the IEEE Computer Society’s “Rock Stars of Technology” event, a full day of panels, discussions, and demonstrations of blockchain’s potential. 
+The ONC, Aetna, and Kaiser Permanente will join a group of blockchain vendors to highlight innovative applications of the technology as assess just how much the methodology will disrupt the current big data landscape.
+MAKING CARE COORDINATION AND RISK STRATIFICATION POP FOR PATIENTS
+Population health management is a perennial favorite at HIMSS, and for good reason.  Managing patients proactively and holistically is a foundational competency for value-based care – and a skill that many providers still need help to develop.
+More than a hundred events and sessions will allow attendees to gorge themselves on best practices, use cases, and technology strategies related to coordinating services and developing a culture of patient-centered care.
+Representatives from the American Medical Association will discuss how to incorporate population health management and other digital tools into MACRA compliance efforts, while successful providers and payers will offer their expertise on assuming and assessing financial and clinical risk.
+We’ll be talking with Missouri’s Mercy health system, one of this year’s HIMSS Davies Award winners, about the intersection of health IT and care coordination, and sitting down with New York-based Northwell Health, as well as Allied Physicians Group, about their efforts to use big data analytics to close gaps in care, improve coordination, and boost patient outcomes.
+All in all, this year’s convention is shaping up to be a whirlwind week of education, networking, and fascinating conversations. 
+Stay up to date with HealthITAnalytics.com’s live coverage from the floor by following us on Twitter and subscribing to our email newsletters.
+Tagged Artificial Intelligence in HealthcareBlockchain in HealthcareFHIRHIMSS17InteroperabilityPopulation Health ManagementValue Based Care
+
+

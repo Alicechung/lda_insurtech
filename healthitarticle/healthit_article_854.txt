@@ -1,0 +1,33 @@
+CMS Allows Orgs to Share and Sell Medicare, Private Claims Data
+
+July 06, 2016
+
+By Jacqueline LaPointe
+July 06, 2016 - As part of its broader initiative to enact healthcare reform under the Medicare Access and CHIP Reauthorization Act (MACRA), CMS has announced a final rule that will expand access to the claims data required for the big data analytics that power organizational improvements and population health management.
+According to a press release, the rule will allow organizations that have been approved as qualified entities to share and sell analyses of Medicare and private payer claims data to healthcare providers, employers, and other industry stakeholders. These approved groups can also provide or sell the claims data itself to providers and suppliers.
+“Increasing access to analyses and data that include Medicare data will make it easier for stakeholders throughout the healthcare system to make smarter and more informed healthcare decisions,” said Niall Brennan, CMS Chief Data Officer.
+Through the rule, CMS will modify the Qualified Entity Program, which was established in 2011 under the Affordable Care Act. The program permits standardized extracts of Medicare claims data from Parts A, B, and D to be shared with qualified entities for analyzing healthcare provider and supplier performance.
+However, Medicare claims data can only be distributed to organizations that have met specific qualifications, such as demonstrating existing expertise in performance analysis, capabilities to combine Medicare data with other claims data, a process that enables providers to review and correct performance reports, and strict data privacy and security frameworks.
+READ MORE: Google DeepMind: Blockchain Can Ensure Health Data Integrity
+These qualified entities must use the Medicare data in conjunction with other claims data to create quality performance reports for the public.
+The Qualified Entity Program was designed to grant stakeholders more access to Medicare claims data in efforts to promote healthcare transparency and contribute more to performance improvement research. CMS is also able to monitor qualified entities through the program and track where and how the data is used.
+Currently, there are only 15 qualified entities and two have published public reports.
+The recent ruling will broaden the program’s authority by allowing qualified entities to use Medicare data to produce non-public performance reports.
+“Today’s rules seek to enhance the current qualified entity program to allow innovative use of Medicare data for non-public quality improvement and care delivery efforts while ensuring the privacy and security of beneficiary information,” stated the press release.
+READ MORE: Nurses Play a Critical Role in EHR Optimization, Data Governance
+For example, qualified entities can now develop analyses on chronically ill or other resource-intensive patient populations as long as it aims to increase care quality and cut healthcare costs, explained CMS.
+CMS also said that the rule included extensive patient privacy and healthcare data security requirements for all groups that handle patient-identifiable and de-identified beneficiary information. The rule stipulates that entities that received patient identifiable data or analyses must employ protections that are as strict as those used by HIPAA-covered entities and their business associates.
+As part of its improved security requirements, the Qualified Entity Program will also add annual reporting requirements for participants.
+“This initiative is part of a broader effort by the Obama Administration to use data to help create a healthcare system that delivers better care for patients, spends dollars more wisely, and results in healthier people,” stated CMS.
+While the finalized rule will broaden data access uses and privileges, many healthcare stakeholders had called on CMS during the proposed rule’s comment period to expand data access even more.
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+In its letter to CMS Acting Administrator Andy Slavitt, the American Medical Group Association (AMGA) commended the agency for allowing qualified entities to access more claims data, but it advised the agency to add other types of patient-related information to its program.
+The group recommended that the program include clinical, consumer, and sociodemographic data to provide a more comprehensive scope for quality improvement research.
+“By expanding the definition of Combined Data for the Qualified Entity program to include similar social-economic and demographic data, CMS could foster a more complete understanding of clinical outcomes and any disparities in care that need to be addressed,” explained Donald W. Fischer, PhD, CAE, AMGA’s President and CEO.
+Similarly, the American Hospital Association (AHA) urged CMS to add standardized extracts of claims data from Medicare and CHIP to the Qualified Entity Program.
+The AHA also suggested that CMS further promote healthcare transparency by establishing a minimum for the amount of claims data from other payers to be used in the analyses. Each qualified entity should also publish the list of Medicare claims datasets it uses and other information that it intends to combine with the datasets, stated the letter.
+While the finalized rule was not modified to address these comments, the concerns demonstrate an interest to share healthcare data in more meaningful ways. As providers implement value-based care, managing large volumes of data and using its analyses will be key to succeeding in alternative payment methods.
+To view the complete finalized rule, click here.
+Tagged Health Information ManagementHealthcare Data GovernanceQuality Of Care
+
+

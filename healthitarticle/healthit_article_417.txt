@@ -1,0 +1,35 @@
+NJ Health System Pilots IBM Watson for Oncology Decision Support
+
+July 10, 2017
+
+By Jennifer Bresnick
+July 10, 2017 - As the healthcare system’s increasing reliance on digital technologies brings more and more big data into the clinical environment, providers facing some of the most difficult puzzles in diagnostics and treatment are turning to advanced clinical decision support tools to leverage these new information resources.
+In the field of oncology, which is undergoing rapid change due to the convergence of genomics, precision medicine techniques, and easier access to large EHR data sets, meaningful decision support capabilities are in extremely high demand.
+IBM Watson for Oncology has quickly risen to become a front-runner in this burgeoning marketplace.  Despite a high-profile setback at MD Anderson Cancer Center earlier this year, the cognitive computing tool is attracting interest around the country – and around the globe – as researchers continue to refine its abilities to augment the skills and knowledge of its human counterparts.
+Hackensack Meridian Health is among the latest to announce a trial run for the oncology decision support suite. 
+Andrew Pecora, MD
+Source: Xtelligent Media
+In partnership with Cota, which offers risk stratification, analytics, and benchmarking tools that help to guide decision-making, Hackensack Meridian is planning to bring its oncologists a wealth of new data to support better outcomes and lower costs.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“When we started to see what IBM Watson was doing, we realized that combining Cota’s information with Watson’s cognitive computing could create a very powerful point-of-service tool for providers to make the best clinical and financial decisions for patients,” said Dr. Andrew Pecora, Chief Innovations Officer at Hackensack Meridian Health. 
+IBM Watson’s strength lies in consuming vast volumes of data from numerous sources, including studies and academic publications, genomic tests, electronic health records, and other historical data.  Once ingested, the data is processed to produce recommendations based on more resources than a single human clinician could ever consume.
+Cota supplements this process by supplying detailed data for each individual patient, Pecora explained to HealthITAnalytics.com.  This helps to give the supercomputer the personalized information it needs to enhance its confidence intervals and provide more accurate, relevant suggestions for providers to follow.
+“The Cota score includes a number of important attributes about the patient, such as family history, body mass index, smoking and drinking habits,” he said.  Pecora is also the founder and executive chairman of Cota.
+“Plus, it incorporates aspects of the disease, such as the stage and the therapies that have been delivered.  Cota condenses all that information into a code, which allows us to compare the patient with other people that have the same code.”
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+Adding standardized socioeconomic and behavioral data to the mix is likely to be a key breakthrough for oncologists, Pecora added.  The health system’s understanding of what lifestyle factors influence outcomes is constantly evolving, and providers must start taking non-clinical attributes into account when treating cancer patients.
+“On the surface, we might think that the same type of cancer in two very similar-looking patients should be treated in the same way,” he said.  “But those two patients often have different outcomes.  Why?  Is it because one person has a better diet?  Because he has less stress?  Do they live in different zip codes with different economic circumstances?”
+“Maybe one of them is depressed.  Maybe he recently got divorced and doesn’t have someone to care for him at home.  These are factors that are not routinely measured, and many clinicians don’t typically think of them as clinical issues.  But we are starting to see how important these socioeconomic and behavioral issues can be in terms of outcomes.  This is the next level of personalized medicine.”
+By combining these two complementary technologies, Pecora believes that oncologists will be able to access to the rich analytics and comprehensive resources required to make the leap from volume to value.
+ “The endgame, of course, is for the healthcare system to move away from fee-for-service and into models such as bundled payments and prospective payments,” he said.
+READ MORE: IBM Watson’s Cognitive Computing Rivals Human Oncologists
+“For oncologists, this is happening fairly quickly.  We need to equip providers with real-world evidence, backed by machine learning, to lower the financial risks of operating under these new payment structures.”
+After a successful demonstration proved the potential for the two-pronged strategy, Hackensack Meridian is expanding into a pilot program that will include ten oncologists and up to five hundred patients.  Pecora and his team will pay close attention to how access to the tool changes utilization and outcomes.
+“The question is really how to integrate these insights into the workflow in a way that actually changes providers’ behaviors,” he asserted.  “We want to see our physicians using it, and we want to figure out if the decisions they make are different than they would have been otherwise.” 
+“With all this information at the point of care, a physician can now say to herself, ‘Okay, I was going to make one of these three choices about a chemotherapy regimen, or I was going to recommend this surgery first as opposed to doing it later.  Now that I have expanded data on this, does the information support that decision, or should I reevaluate?’”
+If the tool successfully improves outcomes by prompting positive changes in clinicians’ behaviors, the health system will expand the program to more of its oncology practitioners and a larger number of patients.
+“If we are going to successfully transition to a value-based system, we have to optimize clinical outcomes at the individual level and reduce the total cost of care at the population level.  How do you do that?  Leverage the data that’s already out there in new ways so providers can make better decisions with their patients.”
+“Hackensack has a long history of innovation, and we’re not afraid to try new strategies that will help us achieve the quadruple aim: better outcomes, better satisfaction, lower costs, and improved provider satisfaction.  We believe that personalization through big data analytics is an extremely important part of what it will take to accomplish that.”
+Tagged Analytics InfrastructureInterviewsMachine LearningPersonalized MedicinePopulation Health ManagementPrecision Medicine
+
+

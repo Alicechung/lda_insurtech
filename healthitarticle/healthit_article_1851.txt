@@ -1,0 +1,17 @@
+Is analytics more important than ICD-10, population health?
+
+September 11, 2014
+
+By Jennifer Bresnick
+September 11, 2014 - Hospital executives may be so intent on building a serviceable data analytics infrastructure that they are putting ICD-10, value-based reimbursement contracts, and population health management programs on the back burner.  A new survey of CHIME executives found that nearly all chief information officers (CIOs)  recognize the critical role that an underlying data analytics infrastructure will play in future hospital improvement initiatives, and are actively searching for products and services that can help them build the foundations of a data-driven healthcare organization.
+“CHIME members serve in the front lines of a healthcare industry confronted by the most significant challenges in its history, and their focus on analytics as a key solution to those challenges is confirmation of the technology’s importance,” said Dan Burton, CEO of Health Catalyst, which conducted the survey. “In fact, analytics is a prerequisite for all of the major initiatives currently underway to address value-based care. Once organizations have all of their data warehoused and accessible, analytics is the core tool to help them make sense of the data and put it to work.”
+Despite the looming October 1, 2015 deadline for ICD-10, only 30% of CIOs ranked the new code set as their top priority.  Fifty-four percent put analytics first.  Population health projects captured the attention of 42% of respondents, while shared risk initiatives and consolidation investments came in last at 29% and 11% respectively.
+However, the participants clearly recognized the fact that population health and accountable care are the end goals of clinical and financial analytics systems.  Eighty-four percent of CIOs said that population health management is the most important project driving their analytics adoption, followed by quality improvement and accountable care.  Cost reduction was top of mind for 63% of executives, while 54% are interested in better reporting and 17% have an eye on medical research.
+Dig Deeper
+Big Data, AI Rapidly Transforming the CIO Role in Healthcare
+Congress: Health IT, Big Data Tools Crucial for Quality Care
+Using Business Intelligence, KPIs for Revenue Cycle Management
+The most significant barriers to analytics adoption are familiar ones: time, resources, and qualified man power.  While some experts are urging healthcare organizations to seek data science expertise from individuals engaged in other industries, talent remains rare and in very high demand as the entire healthcare system suddenly develops an appetite for data warehousing, clinical reporting, and predictive analytics.  As meaningful use becomes more demanding on health IT infrastructures and large numbers of chronic disease patients continue to sap resources from the healthcare system, analytics will become the most crucial tool for hospitals that want to stay ahead of the curve.
+Tagged Analytics InfrastructureHealthcare AnalyticsHealthcare Business Intelligence
+
+

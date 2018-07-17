@@ -1,0 +1,27 @@
+Can IBM Watson Prove the Value of Precision Medicine in China?
+
+August 11, 2016
+
+By Jennifer Bresnick
+August 11, 2016 - Even as the Precision Medicine Initiative gears up in the United States, bringing with it a renewed effort to focus on a cure for cancer, IBM Watson has its sights set on even bigger goals for personalized care. 
+Today, the cognitive computing powerhouse announced a new partnership that would bring its evidence-based oncology clinical decision support capabilities to 21 hospitals in China, a country that is planning to tackle its cancer problem in typically grand fashion.
+Watson is no stranger to cancer care.  One of its first forays into the healthcare industry involved decision support training at Memorial Sloan Kettering, one of the premier oncology research and treatment centers in the United States. 
+Additional pilots and partnerships at organizations including MD Anderson, the Cleveland Clinic, Mayo Clinic, and Department of Veterans Affairs has helped to refine the system’s medical knowledge,  preparing it to become a foundational piece of the growing precision medicine ecosystem.
+Dig Deeper
+FHIR Can Move Genomics from Prediction to Precision Medicine
+CMS Proposes Coverage for Next-Gen Precision Medicine Test
+EHRs, Value-Based Care Constrain Personalized Medicine Progress
+The expansion into the Chinese healthcare environment will bring even more challenges.  Cancer is the leading cause of death among China’s 1.4 billion residents.  In 2015, there were 4.3 million new cancer cases and more than 2.8 million cancer-related deaths.  Experts estimate that 12,000 people in China receive a new cancer diagnosis each day.
+The enormity of the problem presents an opportunity for personalized medicine to show its effectiveness, especially as the Chinese healthcare system evolves and modernizes to meet the heavy burdens of an exploding economy.
+"Healthcare in China is transforming at a rapid pace but the world's most populous country faces numerous challenges as it struggles to cope with a precipitous rise in cancer and other diseases," said Nancy Fabozzi, Principal Analyst of Transformational Health at Frost & Sullivan.
+To combat the rising burdens of disease, China is embarking on its own national precision medicine project – a fifteen-year effort to incorporate genomics and big data analytics into its patient care infrastructure. 
+While the plans for the initiative have not yet been finalized, early reports suggest that the project may be significantly larger than what the United States has envisioned.
+While the American PMI Cohort would be thrilled to meet its goal of collecting DNA and clinical data from one million volunteers, Sichuan University’s West China Hospital is planning to sequence the same number of genomes all by itself, according to a recent article from Nature’s news service.
+China is also home to the Beijing Genomics Institute (BGI), which may boast the same genomic sequencing capacity within its organization as every lab in the United States combined.  The company, along with a pair of other leaders in the region, will likely lead the expansion of personalized care as the Chinese version of the PMI gets underway.
+"Optimum care for cancer patients often requires a customized, evidence-based approach to treatment due to the unique characteristics of the disease,” Fabozzi continued. “Watson for Oncology offers great potential to help enable the best possible patient outcomes and is ideally suited to help advance China's efforts to improve the quality and efficiency of cancer treatment."
+Close to ten billion dollars may be up for grabs during the process, so it’s no surprise that IBM Watson hopes to put its own stamp on the progress of precision medicine in China. 
+Through the newly-formed Hangzhou Cognitive Network, a service provider that will optimize the system for use in the Chinese market, Watson for Oncology will hope to improve the efficiency of cancer care in its 21 partner hospitals.
+"Health leaders in Asia-Pacific are leading the way globally in advancing cancer care,” said Deborah DiSanzo, general manager for IBM Watson Health. “The 21 hospitals in China that will adopt the Watson for Oncology offering join world-class facilities that are offering the power of Watson to their physicians and the adoption of Watson in China is indicative of the momentum we are seeing among health professionals worldwide for IBM's unique cognitive computing platform."
+Tagged Clinical AnalyticsGenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

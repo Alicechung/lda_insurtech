@@ -1,0 +1,27 @@
+NVIDIA Introduces HGX-2, Fusing HPC And AI Computing Into Unified Architecture
+
+30 May 2018
+
+HGX-2 Cloud-Server Platform Accelerates Multi-Precision Workloads; Its Two Petaflops of Processing Power Sets Record for AI Performance
+NVIDIA today introduced NVIDIA HGX-2™, the first unified computing platform for both artificial intelligence and high performance computing.
+The HGX-2 cloud server platform, with multi-precision computing capabilities, provides unique flexibility to support the future of computing. It allows high-precision calculations using FP64 and FP32 for scientific computing and simulations, while also enabling FP16 and Int8 for AI training and inference. This unprecedented versatility meets the requirements of the growing number of applications that combine HPC with AI.
+A number of leading computer makers today shared plans to bring to market systems based on the NVIDIA HGX-2 platform.
+“The world of computing has changed,” said Jensen Huang, founder and chief executive officer of NVIDIA, speaking at the GPU Technology Conference Taiwan, which kicked off today. “CPU scaling has slowed at a time when computing demand is skyrocketing. NVIDIA’s HGX-2 with Tensor Core GPUs gives the industry a powerful, versatile computing platform that fuses HPC and AI to solve the world’s grand challenges.”
+HGX-2-serves as a “building block” for manufacturers to create some of the most advanced systems for HPC and AI. It has achieved record AI training speeds of 15,500 images per second on the ResNet-50 training benchmark, and can replace up to 300 CPU-only servers.
+It incorporates such breakthrough features as NVIDIA NVSwitch™ interconnect fabric, which seamlessly links 16 NVIDIA Tesla® V100 Tensor Core GPUs to work as a single, giant GPU delivering two petaflops of AI performance. The first system built using HGX-2 was the recently announced NVIDIA DGX-2™.
+HGX-2 comes a year after the launch of the original NVIDIA HGX-1, at Computex 2017. The HGX-1 reference architecture won broad adoption among the world’s leading server makers and companies operating massive datacenters, including Amazon Web Services, Facebook and Microsoft.
+OEM, ODM Systems Expected Later This Year
+Four leading server makers — Lenovo, QCT, Supermicro and Wiwynn — announced plans to bring their own HGX-2-based systems to market later this year.
+Additionally, four of the world’s top original design manufacturers (ODMs) — Foxconn, Inventec, Quanta and Wistron — are designing HGX-2-based systems, also expected later this year, for use in some of the world’s largest cloud datacenters.
+Read More: Interview With Sam Kim, CEO, Lucidity
+Family of NVIDIA GPU-Accelerated Server Platforms
+HGX-2 is a part of the larger family of NVIDIA GPU-Accelerated Server Platforms, an ecosystem of qualified server classes addressing a broad array of AI, HPC and accelerated computing workloads with optimal performance.
+Supported by major server manufacturers, the platforms align with the datacenter server ecosystem by offering the optimal mix of GPUs, CPUs and interconnects for diverse training (HGX-T2), inference (HGX-I2) and supercomputing (SCX) applications. Customers can choose a specific server platform to match their accelerated computing workload mix and achieve best-in-class performance.
+“Foxconn has long been dedicated to hyperscale computing solutions and successfully won customer recognition. We’re glad to work with NVIDIA for the HGX-2 project, which is the most promising solution to fulfill explosive demand from AI/DL,” said Ed Wu, corporate executive vice president at Foxconn and chairman at Ingrasys.
+Evan Chien
+“Inventec has a proven history of delivering high-performing and scalable servers with robust innovative designs for our customers who run some of the world’s largest datacenters. By rapidly incorporating HGX-2 into our future designs, we’ll infuse our portfolio with the most powerful AI solution available to companies worldwide,” said Evan Chien, head of IEC White Box Product Center, China Business Line Director, Inventec.
+Paul Ju
+“NVIDIA’s HGX-2 ups the ante with a design capable of delivering two petaflops of performance for AI and HPC-intensive workloads. With the HGX-2 server building block, we’ll be able to quickly develop new systems that can meet the growing needs of our customers who demand the highest performance at scale,” said Paul Ju, vice president and general manager of Lenovo DCG.
+Read More: How Virtual Nurses Are Elevating Patient Care
+
+

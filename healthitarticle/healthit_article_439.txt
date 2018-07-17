@@ -1,0 +1,31 @@
+ONC Releases C-CDA “Checkup” Tool for Healthcare Providers
+
+June 13, 2017
+
+By Jennifer Bresnick
+June 13, 2017 - Organizations that aren’t sure if their Consolidated Clinical Document Architecture (C-CDA) formatting and presentation are up to snuff can now get a simple numerical quality score from a new online ONC tool. 
+The One Click Scorecard allows users to see how their electronic health record systems generate C-CDA documents, giving providers a glimpse into how they can improve this foundational summary of patient care.
+“This benchmarking tool is the health IT equivalent of an internet speed test and is specially designed with health care providers in mind – to give them visibility into the quality of the C-CDAs their health IT generates,” explained Steven Posnack, MS, MHS, Director of the ONC Office of Standards and Technology, in a blog post.
+Dig Deeper
+HL7, ONC Seek Entries for C-CDA Data Visualization Challenge
+Interoperability, Population Health Remain Top EHR Challenges
+Top EHR Data Interoperability, Clinical Analytics Pain Points
+“The C-CDA Scorecard is updated to help both health care providers and health IT implementers test the C-CDAs produced by their systems. In addition to both a numerical and letter grade, the C-CDA Scorecard provides a user-friendly, categorized report that pinpoints areas for improvement.”
+The C-CDA, first rolled out in 2012, provides the industry with a common template for sharing important patient data such as demographics, problems, allergies, lab results, medications, and vital signs.
+The evolving standard was included in the 2014 Edition certification criteria, which accelerated its adoption, although some providers have struggled to deploy the architecture in a way that allows for clear and consistent communication.
+“An early technical critique of C-CDA 1.1 was that it needed more implementation testing, guidance, and best practice examples to be implemented with a high degree of consistency,” Posnack acknowledged.
+Industry feedback and subsequent work with HL7 International have allowed the ONC to develop more detailed guidance about how to generate meaningful and accessible C-CDA documents.
+In 2016, HL7 and the ONC also held a C-CDA Rendering Tool Challenge, which aimed to make it easier for providers to turn the data standard into simple, intuitive, human-readable data.
+“We often hear from health care providers that C-CDAs are too long and too many pages,” said Posnack. But this is not an issue with the standard itself. Instead, this critique indicates an issue with how data is being rendered upon receipt (i.e., what data, how much data, and in what manner it is displayed) among other dynamics.”
+“So if your health IT is not rendering a C-CDA like the challenge winner (or better), but instead as a mass of text, as tens of pages, or in a table format that requires endless scrolling, you should probably ask why.”
+To help them overcome these issues, providers can now access the C-CDA Example Search Tool, which provides examples of how to optimally code key data elements, and the C-CDA R2.1 Companion Guide, which gives guidance about how to implement C-CDA version 2.1 in accordance with the new 2015 CEHRT certification rules.
+Healthcare providers who aren’t sure how their C-CDAs render to a recipient can use the new benchmarking tool to receive a personalized scorecard.  
+Example C-CDA One Click Scorecard
+Source: ONC
+“The SITE C-CDA Scorecard enables providers, implementers, and health IT professionals with a tool that compares how artifacts created by health IT stack up against the HL7 C-CDA implementation guide and HL7 best practices,” the website states.
+“The ‘One Click Scorecard’ is a provider-focused testing service where providers can send a Direct message with a C-CDA payload to ONC's service, then automatically receive a PDF file report of the C-CDA as a Direct message attachment.”
+The tool points out that providers self-testing their C-CDAs may include real protected health information (PHI) during the test without patient consent or a business associate agreement, since the ONC is considered a health oversight agency.
+However, “stakeholders should not disclose PHI to ONC if they are not self-testing ONC-certified health IT,” the website adds.  ONC will not retain any PHI once the test is complete.  Only the numerical score and letter grade will be stored for future industry benchmarking.
+Tagged Care CoordinationDirect MessagingEHR InteroperabilityInteroperabilityONC
+
+

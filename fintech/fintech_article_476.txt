@@ -1,0 +1,41 @@
+DataRobot: the leader in automated machine learning and AI
+
+December 1, 2017
+
+Boston-based DataRobot offers an enterprise machine learning platform that empowers users of all skill levels to make better predictions faster. Incorporating a library of hundreds of the most powerful open source machine learning algorithms, the DataRobot platform automates, trains and evaluates predictive models in parallel, delivering more accurate predictions at scale. DataRobot provides the fastest path to data science success for organizations of all sizes. This is essential as there is a growing need for predictive analytics in any organization and limited number of people are not sufficient to solve all those problem successfully.
+
+ DataRobot brings data science to the masses. What were previously costly initiatives that only a data scientist could design or interpret are now, with automated machine learning, viable for the mainstream market. Industries such as insurance, banking, healthcare, and fintech are finding that the DataRobot platform democratizes predictive insights across their enterprise.
+
+ Better Predictions. Faster!
+DataRobot captures the knowledge, experience and best practices of the world’s leading data scientists, delivering unmatched levels of automation and ease-of-use for machine learning initiatives. DataRobot enables users to build and deploy highly accurate machine learning models in a fraction of the time. DataRobot is the fastest way to bring machine learning capability to an organization. That translates to profitable growth, expense reduction, and loss containment.
+
+ Ecosystem
+Keeping up with the growing ecosystem of machine learning algorithms has never been this easy. DataRobot is constantly expanding its vast set of diverse, best-in-class algorithms from R, Python, H20, Spark, and other sources, giving users the best set of analytics tools for predictive challenges. With a simple click of the Start button, users can deploy techniques they have never used before or may not even be familiar with.
+
+ The company’s automated machine learning platform easily integrates with leading technology products from partners like Alteryx, AWS, Cloudera, Trifacta, and Qlik to accelerate the value of automated machine learning in customer environments. In addition, DataRobot is partnering with Analytic Consulting and System Integrators, including Affecto, Appex, CSC Brasil and Keyrus US.
+
+ DataRobot serves 5 of the largest global reinsurance companies. Solving predictive analytics problems across all core functions: distribution, marketing, underwriting, pricing, claims, operations.
+
+ Rapid deployment
+The best predictive models have little to no organizational value unless they are rapidly operationalized within the business. With DataRobot, deploying models for predictions can be done with a few mouse-clicks. Every model built by DataRobot publishes a REST API endpoint, making it a breeze to integrate within modern enterprise applications. Organizations can derive business value from machine learning in minutes, instead of waiting months to write scoring code and deal with the underlying infrastructure.
+While predictive algorithms are now found in most fintech processes — from marketing to underwriting — a challenge has arisen to determine the future of the industry. The need to integrate seamlessly with marketers, underwriters, financial analysts and other fintech professionals will force machine learning platforms working in fintech to do more than just pump out predictions: they have to drive results.
+
+ Why we selected DataRobot for DIA Munich
+DataRobot brings machine learning to a much broader group of people. This is essential as there is a growing need for predictive analytics in any organization and limited number of people are not sufficient to solve all those problem successfully. DataRobot accelerates the adoption of automated machine learning and enabling organizations to become AI-driven. This will translate to profitable growth, expense reduction, significant competitive advantages and loss containment.
+
+ Who is DataRobot?
+Founded in 2012 by Jeremy Achin (CEO) and Tom de Godoy (CTO). DataRobot participated in a TechStars accelerator program in San Antonio, Texas in 2013 and then spent about three years and $30 million building the software platform. Currently they employ 270 employees and the total funding is $ 111 million.
+
+ The company receives strong backing from top tier investors like Accomplice, NEA,IA Ventures, Intel, NewYorkLife and TechStars
+
+ Jeremy is a data scientist-turned-entrepreneur. He’s considered a data science thought leader, and spends significant time traveling to the world’s largest organizations to speak about practicing data science at scale. Previously, he was Director of Research and Modeling at Travelers Insurance, where he built predictive models for pricing, retention, conversion, elasticity, lifetime value, customer behavior, claims and much more
+
+ Before DataRobot, Tom was Senior Director of Research and Modeling at Travelers Insurance, where he managed a team of data scientists. Tom has been ranked as high as 20th in the world on the data science competition platform Kaggle.com, which has more than 500,000 registered data scientists.
+
+“AI and machine learning are having a profound impact on global organizations, driving tremendous market growth and opportunity. Working closely with our partners will allow us to scale and address this opportunity by providing coverage across geographies and industries,” Jeremy Achin, CEO & Co-founder  DataRobot
+
+ Website: www.datarobot.com
+
+ Originally published here
+
+

@@ -1,0 +1,33 @@
+ADA, IBM Watson Tackle Cognitive Chronic Disease Management
+
+June 13, 2016
+
+By Jennifer Bresnick
+June 13, 2016 - The American Diabetes Association (ADA) is hoping that a little cognitive computing will go a long way towards helping patients manage one of the nation’s most common and costly chronic diseases. 
+A new long-term partnership with IBM Watson Health will pair up the ADA’s big data resources with Watson’s analytics power to create a diabetes management advisor for patients and their caregivers.
+“For more than 75 years, the American Diabetes Association has promoted a data-driven approach to clinical care and disease management because we know it can significantly improve peoples' lives while also reducing health care costs," said Kevin L. Hagan, CEO of the Association.
+"By combining the Association's enormous body of valuable data with Watson's cognitive computing capabilities, we will empower people living with diabetes, clinicians and researchers with better data and better insights, which ultimately can lead to better outcomes."
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+Predictive Big Data Analytics Identify High-Risk ED Patients
+Watson will be fed data from the ADA’s repositories of clinical, patient lifestyle, and research data in an effort to improve care for the 29 million Americans with diabetes. 
+Together with the 86 million patients with prediabetes, the metabolic disease costs the healthcare system approximately $322 billion each year, comprising 20 percent of all healthcare dollars spent.
+The partnership aims to develop a clinical decision support mechanism based on Watson’s confidence interval capabilities that harnesses natural language processing and predictive analytics.  The project will allow clinicians to access insights about patient characteristics that may impact adherence or help to target interventions.
+Providers may also be able to use the applications to address risk factors or engage in population health management.
+The ADA hopes that patients will also be able to access tailored information and chronic disease management tools that utilize cognitive computing principles to get “smarter” each time users interact with it.
+"As the science of diabetes advances, big data presents a tremendous opportunity in diabetes care and prevention. But patients, caregivers and healthcare providers need access to cognitive tools that can help them translate that big data into action, and Watson can offer access to timely, personalized insights," said Kyu Rhee, MD, MPP, chief health officer, IBM Watson Health.
+As part of the collaboration, the ADA and IBM are launching a developer challenge, designed to garner options for cognitive apps that leverage the big data and computing power of the partnership.
+"The American Diabetes Association is the ideal partner for IBM to enable this type of developer challenge, given the Association's role establishing clinical care standards worldwide,” Rhee added. “Our collective goal is to provide the motivation, the tools and the insights to transform clinical care, self-management and accelerate scientific breakthroughs."
+Diabetes is just the latest in a long line of healthcare projects for IBM Watson, which has also been put to use in the realms of oncology, precision medicine, medical education, and other clinical decision support applications.
+A recent collaboration with Medtronic will also focus on diabetes, using data from wearable devices and blood glucose monitors to develop predictive analytics for patients at risk of hypoglycemia.  Watson-based algorithms may be able to predict dangerous hypoglycemia up to three hours before the event.
+“The models used in this pilot will be designed to continue to evolve according to a user’s nutrition and activity habits along with other contextual information, which may improve the ability of Watson to predict glycemic excursions and other trends through the Medtronic app,” said Annette Bruls, president of Medtronic’s global diabetes service and solutions unit, during the CES conference earlier in 2016.
+“Using these types of critical insights, we can empower clinicians with protocols to intervene at the right moment, with the right therapies to improve outcomes and lower cost. In addition, we look to leverage real-time information to help care providers develop personalized care plans.”
+The supercomputer’s other partnerships have included work with the Mayo Clinic and Epic Systems, Apple, Johnson & Johnson, the Cleveland Clinic, and the American Cancer Society.
+After several major acquisitions and a few billion dollars in investments, the cognitive computing powerhouse has commercialized some of its services and positioned its offerings to enter the mainstream of healthcare’s growing big data analytics and clinical decision support marketplace.
+Dig Deeper
+Cognitive Computing Leaders Think Time is Right for Healthcare
+Top 4 Basics to Know about Semantic Computing in Healthcare
+Tagged Chronic Disease ManagementClinical AnalyticsPopulation Health ManagementPredictive Analytics
+
+

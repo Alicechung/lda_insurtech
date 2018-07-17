@@ -1,0 +1,29 @@
+Cerner Pilot Uses Population Health Analytics for Chronic Care
+
+May 17, 2017
+
+By Jennifer Bresnick
+May 17, 2017 - Truman Medical Centers (TMC) in Missouri have teamed up with Cerner Corporation to develop a new set of population health analytics algorithms to support a comprehensive chronic care management program for patients.
+The pilot program leverages Cerner’s population health management platform to identify TMC patients with common chronic conditions, including diabetes and heart failure. 
+Clinicians can then offer patients enhanced chronic disease management services as well as a remote patient monitoring kit that feeds data directly into their electronic health record.
+After six to nine months of monitoring, providers will asses the participants to see if they have made improvements in their health.  The results will inform future efforts to expand the scope and nature of chronic care management.
+"We joined this strategic relationship with Cerner to research and develop opportunities to improve the health of our population, and we are proud to launch this pilot program,” said Mitzi Cardenas, senior vice president and chief strategy and information officer at TMC.
+READ MORE: Population Health Management Requires Process, Payment Changes
+“Diabetes and chronic heart failure are not only common, life-threatening and costly diseases, they are also extremely preventable. Our goal is to encourage participants to more actively manage their care and provide our care teams with the tools and opportunities to intervene with treatment, ultimately working to positively impact health conditions and prevent readmissions."
+The initiative is part of an ongoing collaboration between TMC and Cerner, called the KC One Health Innovation Alliance, which aims to improve the overall health and wellbeing of patients in the Kansas City area.  Cerner’s world headquarters are located in the region.
+Since October of 2015, the two organizations have been working together through the KC One program to lower costs, raise care quality, and bolster the engagement of patients in need of ongoing care after an acute event.
+"Engagement is a critical piece of chronic condition care management, especially after a patient has left the hospital," said Sonja Dicken, director of Health Home Primary Care at TMC. "The introduction of HealtheIntent into our monitoring workflow has saved our staff time by facing up important information quickly and making scheduling follow-up interactions easier."
+Adding ongoing remote monitoring to the traditional post-discharge process may help to prevent avoidable readmissions, which can be both costly for the healthcare system and detrimental to a patient’s recovery process.
+READ MORE: KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+Using devices that track patients after they leave the direct supervision of the inpatient setting and clinician alerts that trigger outreach could help to forestall the development of crisis events.
+"While providers deliver care in traditional health care settings, health crises or situations typically occur outside of this setting, like their home, workplace or in the community,” said Ryan Hamilton, senior vice president of population health at Cerner.
+Numerous companies famous in the EHR space have been focusing on population health management and big data analytics as the next phase of health IT evolution.  Healthcare organizations seeking an entry point into the value-based reimbursement environment are likely to target chronic disease management as a way to reduce unnecessary utilization and cut costs – and they are rapidly adopting health IT tools to help them with the task.
+A recent poll by KPMG found that nearly a quarter of providers are looking to bring population health management tools on board within the next three years, adding to the 44 percent of organizations that already find such infrastructure useful for patient care.
+Along with its main competitors, including Epic Systems, Allscripts, and athenahealth, Cerner has consistently ranked highly in industry reports on the value of population health management software packages.  In January, the company squeaked by Epic Systems in a Black Book breakdown of population health solutions, although both developers were topped by Allscripts.
+READ MORE: How to Get Started with a Population Health Management Program
+High satisfaction rates with core EHR offerings are leading a majority of healthcare providers to adopt population health management solutions from the same vendor as their other health IT services, which bodes well for EHR developers looking to branch out into other areas.
+Long-running development and research partnerships, such as the one between TMC and Cerner, may help developers and providers understand the nuances of chronic care management while developing workflows and technology applications that allow clinicians to react quickly to changes in a patient’s health status, added Hamilton.
+“We're proud to use our technology to engage in proactive care management and provide the solutions and support that participants need to manage their health,” he said.
+Tagged Analytics InfrastructureCernerChronic Disease ManagementEHR AnalyticsPopulation Health ManagementRemote Monitoring
+
+

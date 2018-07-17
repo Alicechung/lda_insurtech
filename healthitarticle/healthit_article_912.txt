@@ -1,0 +1,30 @@
+Will Precision Medicine Create Healthcare “Data Dumpsters”?
+
+May 19, 2016
+
+By Jennifer Bresnick
+May 19, 2016 - Many healthcare organizations have been luxuriating in their newfound ability to swim through enormous volumes of big data, but will they soon have to take to dumpster diving instead? 
+As the precision medicine community matures and continues to promote data collection and sharing, stakeholders must avoid the temptation to hoard data for data’s sake – without any of the documentation or metadata that can make the information useful for research and clinical care.
+Healthcare organizations are becoming more connected and researchers are learning to harness big data for innovative projects, write Laura Merson, Oumar Gaye, MD, PhD, and Philippe J. Guerin, MD, PhD, in a new perspective piece in the New England Journal of Medicine (NEJM).  This shift has led to a general consensus that data should be open, sharable, and reusable.
+But as many overwhelmed providers have already learned, big data isn’t always smart data.  Bits and bytes that are poorly organized, unstandardized, or exist in isolation cannot be used effectively for generating actionable insights.
+Dig Deeper
+VA Precision Medicine Databank Hits 500,000 Participants
+FDA Asks for Input on Modernizing to Meet Public Health Needs
+Precision Medicine, Big Data Partnerships Will Enhance Treatment
+Data scientists and researchers may be forming bad habits as they shuffle data sets back and forth, the authors warn.
+“Now is therefore the time to focus on developing practices for data sharing that are effective, efficient, equitable, and ethical,” the article says. “In the process, we may need to question the assumption that more is better. Simply making more data openly available may not lead to analyses that are relevant and that are actually applied to improve health.”
+The problem is compounded when researchers create data repositories without metadata, data dictionaries, or adequate documentation that will allow other investigators to use the same dataset for replicating an experiment or conducting a new study. 
+These “data dumpsters” may technically qualify as shared information, but they “may also result in an epidemic of accessible data of limited usefulness,” the authors argue.
+“There is currently inadequate funding and expertise for curating data to a standard and quality suitable for external secondary use; researchers must bear the costs themselves or opt, as many currently do, to make raw data available without the explanatory documentation necessary to make them useful,” the article continues.
+“Most repositories are not equipped to rectify this problem — nor do they see this function as part of their mandate.”
+This attitude will only become more problematic as precision medicine projects, clinical trials, population health management initiatives, and cognitive clinical decision support systems accelerate the quantity and scope of healthcare data stored across the industry. 
+The NEJM isn’t the only one raising concerns about how healthcare organizations plan and execute the stewardship of the data they are collecting. 
+Emerging technologies like wearables and other Internet of Things devices are further complicating the issue by opening up opportunities to collect and use a constant stream of patient-generated health data, says Sanket Shah, Professor of Health Informatics at the University of Illinois at Chicago.
+“You don’t want to become a data hoarder, and just start to acquire all these disparate systems and different data streams without understanding what you want to do with it,” he said.
+“Space is not cheap.  You can’t store everything that you might possibly need someday.  If all this data is sitting there in your warehouse without being used, it’s not only going to cost you money.  It’s also going to slow down performance for the analytics that you are trying to perform.”
+Research organizations and healthcare providers alike should take the time to inventory their data, assign documentation and metadata appropriately, and choose wisely when, where, and how to store big datasets for future use.
+“As more partners in science mandate sharing of data, these platforms and repositories are likely to grow rapidly in number and size,” The NEJM authors predict.
+“More investment is needed in platforms that can standardize, clean, and curate data into the usable formats that are required for sharing data effectively. Those systems will also have to ensure ethical and responsible data sharing that maximizes the use of available data.”
+Tagged Health Information ManagementHealthcare Data GovernanceMedical ResearchPrecision Medicine
+
+

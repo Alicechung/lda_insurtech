@@ -1,0 +1,25 @@
+Will the cloud bridge the gap between healthcare, analytics?
+
+October 08, 2013
+
+By Kyle Murphy, PhD
+October 08, 2013 - Before big data analytics can take a hold in healthcare, the data on which this analysis relies needs to be both accessible and in a proper form. At present, those two conditions are generally hard to come by.
+“We’re finally getting to a place where we’re getting out of paper and moving into a digital trend,” says Missy Krasner, Advisor for the Healthcare Vertical at Box. “The history, though, has still been that the entire industry when it has moved off paper has moved to on-premise systems that are essentially all legacy software.”
+Siloed health information and other patient data makes it necessary for healthcare organizations and providers to research solutions for moving data more efficiently, which in the end has meant additional health IT costs.
+“How vendors make a lot of money in healthcare is they rely on point-to-point integration, within the enterprise and across the enterprise,” explains Krasner. “It becomes extremely — clunky and very costly to update these systems and/or expose point-to-point integrations from one to the other so that data can be transferred.”
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Business Intelligence Tools Bring Insights to Organ Donation Network
+Top Healthcare Business Intelligence Companies by Hospital Users
+On top of simply being able to move information from one provider to the next or to the patient is the matter of giving structure to data and making it actionable for the end-user. According to Krasner, this is where the cloud proves its mettle as well as reveals future opportunities for advancement:
+It’s still very early days, but there a lot of analysts who have said that by 2017 they think cloud computing in healthcare is going to reach at least a $5-billion market. If you already look at AWS and some of the other really interesting solutions in this space, they’ve already made huge headway with allowing apps to build on their stack around analytics and business intelligence — anything around population health where you’re looking at tons and tons of data that historically stays in some kind of relational database.
+Given that financial and payer information is more readily available, business intelligence is fast becoming an area where healthcare organizations and health IT vendors are coming together.
+“They’re trying to mine patterns in billing to see where doctors are missing opportunities to bill better and get more money,” observes Krasner. “If we can figure out how you can code better and we can take a percentage of that, that’s all in the cloud now.”
+Extending this type of analysis to the clinical side is where healthcare CIOs are starting to focus their attention, especially as the methods for accessing these data multiply thanks to the proliferation of smart devices.
+“In the next five years, we’re going to see a big change,” argues Krasner. “Many of the CIOs are saying they are starting to actually look at cloud solutions and most of it has to do with employees. It’s BYOD; it’s people bringing in their own devices and working on the cloud.”
+Getting CIOs to be comfortable with the idea of moving sensitive data to the cloud will take a combination of myth busting about health data privacy and security in the cloud as well as a bit of convincing that this information won’t be unnecessarily lumped together with other data in the cloud.
+“There’s still this little bit of a myth and a lot of that has to do with if I’m a hospital CIO, I want my own private cloud — I cannot intermix data,” says Krasner. “That’s very doable now. There are many folks who supply that. That’s one piece that they need to go through. And then of course it’s all about encryption, who has the encryption keys and that’s very doable, too.”
+With a premium being placed on managing the health of patient populations efficiently, the cloud is looking more and more like an attractive solution to the problem of data liquidity and exchange.
+Tagged Analytics InfrastructureBig Data AnalyticsClinical AnalyticsHealthcare AnalyticsHealthcare Business IntelligencePopulation Health Management
+
+

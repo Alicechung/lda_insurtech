@@ -1,0 +1,41 @@
+Navigating the Complexity of Quality Measure Reporting
+
+October 20, 2014
+
+By Sponsored Content
+October 20, 2014 - In this fifth post of this series, we discuss the challenge posed by the complex and rapidly growing quality measurement ecosystem, and the steps we took to find our way out of that measure wilderness.
+Imagine if every town you crossed into had a different way of defining their speed limits, and every auto manufacturer had a slightly different way of representing speed. My gauge displays speed in radians per second, but the signs say the speed limit is 350 rods per minute. Talk about a speed trap! It sounds absurd, until you consider the similar measurement landscape in the healthcare industry.
+Measure Trap
+If your job involves using standardized healthcare measures every day, you have become very familiar with the Quality Positioning System, the online platform from the National Quality Forum (NQF) for measure stewardship.
+The NQF measure library currently hosts measure standards for over 97 different “stewards,” meaning that in this one library alone, there are nearly 100 programs that create definitions for performance measurement and comparison in healthcare. Further, consider the countless state programs, commercial pay-for-performance initiatives, and disease collaboratives, which create a very crowded and confusing landscape, at a time when measurement for healthcare has never been more important.
+READ MORE: Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+New payment models and insurance contracts make explicit improvement on these measures vital to the financial performance of health systems, and having as wide a universe of measures as possible is critically important. While every organization is going to need to report out to external audiences, the highest-value measurement comes from internal process control and performance management.  While there are under 200 Clinical Quality Measures (CQMs) for Meaningful Use and accountable care programs, proactive healthcare organizations will need hundreds more to monitor their processes, remain at capacity and drive better outcomes.
+When it comes to engineering an analytics platform, the challenge of building measures to specification is critical. Yet after years of development, implementations and updates, the design, development, and maintenance of measures was taking over our engineering resources, and the time needed for processing and testing grew at an unsustainable rate. This was a result of the complexity of certain measures, as well as because measures were not “reusable.” Every program encountered by a provider required a new variation be built.
+Enter the Wilderness of Measures
+A recent mandate out of Washington State centralized and standardized the quality measures used by state programs. A survey was conducted of 128 measures used in eight domains: State Medicaid Contracts, Health Authority Quality Reports, Medicaid Plan pay-for-performance programs, four commercial payer programs and the CMS Medicare Shared Savings Program.
+READ MORE: How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+The results? None of the measurement is common across all domains. Over half of measures are used in only one program meaning your investment in analyzing and improving it is marginal at best. Fewer than half have been fully vetted and endorsed by the national leader in measure stewardship.
+And this is all before providers have had the chance to think about the sort of measures needed to better understand their population.
+Complexity of Measures
+The quantity and incompatibility of measures represents only part of the challenge of keeping up with the measure maze. The other major challenge in engineering measures lies in their sheer complexity.
+Far from direct expressions of distinct populations, measure definitions are often filled with exclusions, distinct chains of events, varying timeframes and value sets.
+READ MORE: Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+A New Paradigm
+Today, we can build and deploy new measures with specific variants faster and with greater accuracy than ever before. Organizations can select measures they want based on internal priorities, as well as reporting specifications.
+How did we go from hundreds of lines of code, weeks of development and hours of run time per measure to single-digit lines, days and minutes?
+We decided to throw out the book on how we created measures.
+After extensively evaluating the root causes of the confusion in specification, as well as delays in development and latency in execution, four critical design principles for measure calculation systems became clear:
+• Free the measure from code: Measures don’t have to be an engineering or code challenge. Rather, provide tools that allow anybody knowledgeable in healthcare standards to construct and execute measures with confidence in the results.
+• Enable validation and trust: The attributes and components of a patient record that lead to measure calculation should be verifiable and testable to establish trust. Measures can’t just be a black box output; rather, they must show developers and users the encounters, tests and medications that lead to the result.
+• Prioritize speed: It must be possible to develop and deploy measures in hours, not days or weeks. The alternative is to fall behind in development, in testing and in execution. Agility is the only way to keep up with the reality of the measurement ecosystem.
+• Go beyond standards: Healthcare providers’ measure needs go beyond just the standard quality measures. Any framework must allow them to analyze operations, financial performance, and quality in the same activity.
+Measures, Measures Everywhere
+For those stranded in a wilderness of measures, there is an oasis, a future in which measures can be handled predictably and effectively, without confusion and effort that distracts from patient care.
+That future depends on two crucial foci:
+• The governance and stewardship of measures must be considered from a holistic standpoint that takes into account the diversity, intent, and complexity of healthcare measures.
+• Regardless of the how and who of measurement specification and calculation, the means must be understandable, transparent, fast, and flexible.
+As we move into an environment that increasingly relies on measurements for planning, payment and population health, organizations must own their measurement ecosystem or risk being stranded in the wilderness.
+You have reliable, trustworthy, and actionable measures. Now, how will you and your colleagues actually use them on a daily basis? In the next post, we discuss the opportunities and pitfalls in creating a truly useful and useable web portal that actual people actually want to use.
+  Tagged Big DataClinical IntelligenceHealthcare Business Intelligence
+
+

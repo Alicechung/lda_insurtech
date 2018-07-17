@@ -1,0 +1,25 @@
+What are EHR replacement data governance best practices?
+
+September 30, 2014
+
+By Jennifer Bresnick
+September 30, 2014 - An EHR replacement can be a complicated and problematic proposition for physicians and administrative staff, but it poses an equal challenge for the health information management professional. Ensuring that historical and current patient data is transferred between EHR systems without losing value can be difficult, said Sean West, Vice President and General Manager of Data Conversion at HealthPort, at the 2014 AHIMA Convention on Monday, but also offered some tips and suggestions for completing a successful data migration when switching systems.
+Managing expectations
+While EHR systems built on industry-wide, open data standards are the ultimate goal, not every vendor has achieved that lofty goal just yet. Data loss may seem inevitable, but it can cause less disruption if stakeholders understand exactly what they’re going to get in the new system.
+Hiring a data analyst or migration consultant to help explain the transition process can help to avoid frustration and confusion among clinicians when their information ends up looking different in the new software product. “It is crucial to understand where the data has importance to every different stakeholder,” West said. “A data analyst will understand what data you have to convert. If not all your data is being converted, you need to know what is and where it’s going to be so you can get access to it.”
+Dig Deeper
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+The Role of Healthcare Data Governance in Big Data Analytics
+AHIMA Launches New Healthcare Informatics Credential Option
+“When you have 25, 30 providers or more and they’ve been populating big blobs of text fields, it really helps to have the analyst there to say that it might not come over exactly how you want it to,” he added. “You need to make sure everyone has the right set of expectations. Your data analyst will be able to smooth that process. From a coordination perspective, that lets you focus on everything else.”
+Picking a data strategy
+Hybrid workflows are generally discouraged due to the potential for errors and confusion, but some providers choose to hold on to their legacy system while bringing the new one online. While it may seem more expensive to keep two EHRs running at once, some vendors do allow read-only access to historical data at a lower cost, West says.
+But multiple system use is tricky, and there’s no guarantee that the vendor you’re leaving will still be around to support your data in two or five years. Providers may have better long-term luck if they choose to make a clean break with their old vendor, either by conducting a one-time data conversion or establishing a vendor-neutral archive before retiring their former EHR.
+“One hospital CFO that I know who employed this strategy said he went [the vendor-neutral archive] route not because it was cheaper, but because he knew that his vendor was going to charge $2 million for his data some time in the future,” West explained. “It can be supported in this system in a vendor neutral fashion now, and they’ll have it available. It’s not 100% dependent on what the vendor is going to do going forward. There’s more than a little bit of risk mitigation going on here.”
+Start early, test often, ask questions
+West suggests that providers who plan to do a single info-dump into their new EHR begin the process at least six months before they go live on the system. They should upload at least the past 36 months of patient data into the EHR and archive the past four to ten years of patient information at a lower level of archiving. Providers should upload as much data as possible, and should test their data with a minimum of 100 encounters for each type of data set, such as immunizations or patient histories.
+During the migration process, providers may wish to negotiate terms with their new vendor, West said, that includes dedicated hours for help in case it is required. They should also be very clear about what data will be moved to the new system, how to access it, and what to do if there are issues.
+“Many vendors don’t want to include the true cost of implementation or conversion to avoid delaying the sale,” West said. “Utilizing internal resources to rebuild patient histories is not cost effective and not what patients want to experience. I would really encourage you to ask those questions and understand what kind of format the data is needed in and what format it can be extracted from your legacy system.”
+Tagged EHR UseHealth Information ManagementHealthcare Data Strategy
+
+

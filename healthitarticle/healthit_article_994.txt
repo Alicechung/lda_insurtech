@@ -1,0 +1,32 @@
+Limits of Big Data Analytics Pose Challenges to Patient Safety
+
+March 24, 2016
+
+By Jacqueline LaPointe
+March 24, 2016 - In a report to Congress, the Government Accountability Office (GAO) found hospitals face three major challenges with implementing evidence-based patient safety practices, including limitations with integrating, sharing, and analyzing big data.
+Hospitals find it difficult to acquire health data to identify adverse events, determine which evidence-based practices to implement, and ensure that hospital staff implement the practices consistently.
+Challenge #1: Acquiring health data about adverse events
+The first challenge hospitals officials reported was difficulty in obtaining health information about adverse events. The process is resource-intensive because healthcare staff need to collect and integrate data from multiple data analytics systems, the report said.
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+ECRI: “Most If Not All” Patient Identification Errors Preventable
+CDC Focuses on Patient Safety with Expanded Sepsis Education
+“Most hospital officials indicated that obtaining data on adverse events requires the investment of substantial time and resources in vendors or electronic health record (EHR) systems. Hospital officials from one hospital described having to hire and manage multiple vendors to carry out different data-related tasks,” GAO stated.
+The study also found that the health information about adverse events was outdated. For example, quality metrics and hospital performance data on the CMS Hospital Compare website can be up to 2 years old, and may not reflect current circumstances.
+In response to these complaints, HHS suggests that hospitals need to utilize other sources to obtain information on recent events.
+HHS is hoping to aid this process by funding the development of a patient safety surveillance system, Quality and Safety Review System (QSRS), which will collect data about all adverse incidents and provide meaningful information about them, such as adverse event rates, trend performances, and benchmark performances.
+Developers are determining the feasibility of automating QSRS reporting by using data from EHRs.
+QSRS would supply more hospitals with an appropriate data analytic system for tracking adverse events and implementing better patient safety procedures.
+Challenge #2: Deciding on Patient Safety Practices
+Hospitals also have trouble choosing which evidence-based patient safety practices to implement. Executives explained that there is limited evidence on which patient safety practices are most effective.  Organizations may end up trying several different practices without knowing if they will actually reduce the number of adverse patient safety events.
+ Even if a new strategy does produce positive results, organizations are concerned about their inability to pinpoint which part of the intervention was actually effective.
+In addition, without appropriate data sharing systems, hospitals cannot share information with their peers about which practices lead to positive results.
+Challenge #3: Ensuring Patient Safety Practices Continue
+Hospital officials explained that it is challenging to guarantee that hospital staff are consistently using best practices.
+“Officials from all six hospitals reported that one challenge was the need for ongoing monitoring of patient outcomes to detect potential problems staff may be having implementing patient safety practices,” GAO wrote.
+“Some officials reported initial success in implementing a patient safety practice and reducing adverse events, but also reported that over time these adverse events would become more prevalent due to inconsistent implementation of safety practices.”
+The report stated that hospital staff, specifically physicians, can be resistant to implementing new hospital-wide patient safety practices, especially if those practices are different from those recommended by medical specialty organizations.
+Hospital officials suggested healthcare providers support new workflows by providing resources and designating staff patient safety experts. Hospitals also need to involve all management and staff members in patient safety initiatives.
+Tagged EHR AnalyticsHospital QualityPatient SafetyQuality Of Care
+
+

@@ -1,0 +1,20 @@
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+
+February 02, 2017
+
+By Thomas Beaton
+February 02, 2017 - EHR users at Connecticut Children’s Medical Center will be able to access data from the statewide prescription drug monitoring program (PDMP) in order to aid clinical decision support and improve patient safety, the hospital announced this week.
+Providers will be able to access state-level data in real time to ensure that patients are receiving and using controlled substances, including opioids, in a safe and approved manner.
+“Leveraging this technology is a true testament to Connecticut Children’s commitment to excellent healthcare as the prevention of prescription drug misuse is a matter of enormous personal and public health significance that demands collaboration across all settings,” said Dr. Richelle deMayo, Chief Medical Information Officer at Connecticut Children’s.
+Dig Deeper
+Addressing Opioid Abuse with Analytics, Population Health Strategies
+Prescription Monitoring Program to Reduce Opioid Abuse in VA
+Big Data Analytics Cuts Medicaid Opioid Abuse, Ups Patient Safety
+“Connecticut Children’s and our providers are excited to lead the way for others across the state to make use of available information to protect patients and families from overdose and drug diversion. We look forward to working with Appriss Health and the State of Connecticut on such efforts.”
+In the past, physicians and pharmacists needed to login into separate websites to retrieve a patient's controlled substance dispensations from a state database and then cross reference that data in other information systems.  
+The new health IT implementation makes Connecticut Children’s the first hospital in the state to have access to integrated insights from the PDMP.
+“We’re pleased to congratulate Connecticut Children’s Medical Center on this great accomplishment,” said Consumer Protection Commissioner Jonathan A. Harris. “One of the top priorities of our Drug Control Division at the Department of Consumer Protection is making sure prescribers have the up to date and accurate information they need to make the best decisions possible for their patients. The Prescription Drug Monitoring allows prescribers to have that information in real time when they need it.”
+“Since the PDMP began collecting data in 2008, the state has enacted a series of common sense updates to the program to promote its use and improve the user experience,” he continued. “Many of the changes were based on feedback from the prescribers who use the PDMP every day. We look forward to continuing our productive relationship with the medical community to make sure patients in the Connecticut get the best care possible.”
+Tagged Analytics InfrastructureEHR ImplementationPatient SafetyPopulation Health
+
+

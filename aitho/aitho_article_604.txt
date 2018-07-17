@@ -1,0 +1,15 @@
+Cycle.io And Packet Collaborate To Simplify Container Orchestration
+
+11 May 2018
+
+Combination of Packet global infrastructure and the Cycle.io platform enables businesses to deploy a bare-metal private cloud, built for containers, in as little as 15 minutes.
+Cycle.io, a new cutting-edge container orchestration platform, and Packet, a global leader in bare-metal infrastructure, today announced a partnership that simplifies the deployment and management of containers for businesses of any size.
+The partnership pairs Packet’s bare metal compute, network and storage resources with Cycle’s unique container management platform. Without writing a line of code, logging into a server, or reading a page of documentation, users can provision a full-featured, secure and highly performant container private cloud. Using Cycle.io’s intuitive portal, the entire process takes just minutes.
+Jake Warner
+“Most businesses struggle to build and effectively manage the infrastructure and orchestration layers that run their applications – investing resources that would be better spent elsewhere,” noted Jake Warner, CEO of Cycle.io. “With Cycle, developers are able to refocus on the company’s services or products. And since we deploy on single-tenant bare metal, they get all the security and performance benefits without the headaches.”
+Cycle.io was launched in February 2018, and has already helped a wide variety of businesses – from blockchain startups and software development agencies to large logistics companies – simplify their deployment processes while simultaneously modernizing their infrastructure. The result is significant savings in time and money, with outstanding performance.
+Jacob Smith
+“We built our platform so that innovators like Cycle could develop disruptive solutions at incredible speed,” notes Jacob Smith, SVP of Engagement and co-founder at Packet. “A year ago Cycle.io was just an idea – and now, after hundreds of builds and daily tests against our automated bare metal infrastructure, a new class of users can tap into benefits that traditionally have been the domain of only the largest web-scale operators.”
+Cycle.io’s unique technology includes a thin operating system, built solely for managing containers and their networks. Leveraging an immutable setup not only makes setup faster and more intuitive, but provides significant operational benefits around security, High Availability, and disaster recovery. Additionally, organizations can utilize Cycle’s API to extend the platform enabling applications to manage the underlying infrastructure with ease.
+
+

@@ -1,0 +1,23 @@
+Liquid Biopsy, Machine Learning Can Detect Multiple Cancers
+
+February 08, 2018
+
+By Jessica Kent
+February 08, 2018 - A liquid biopsy test supported by a machine learning algorithm can accurately detect the presence and origin of several different cancers, opening up the possibility of less invasive and more precise testing, according to a blog post from NIH Director Francis S. Collins, MD, PhD.
+By screening for specific molecules that tumors release into the bloodstream, liquid biopsies have the potential to spot cancer before it spreads and give patients the best chance to beat it.
+Researchers at Johns Hopkins University School of Medicine developed CancerSEEK, which can detect cases of eight different cancers that currently lack reliable screening tests: ovary, liver, stomach, pancreas, esophagus, colon, lung, and breast.
+Dig Deeper
+Machine Learning in Healthcare: Defining the Most Common Terms
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+Cancer Detection Company Gets $900M from Pharma, VC Investors
+In a study of 1005 people known to have one of these eight cancer types, CancerSEEK detected the cancer in blood about 70 percent of the time, which Collins noted is among the best performances to date for a blood test.
+When performed on 812 healthy people without cancer, CancerSEEK delivered a false-positive result to only seven participants, or less than one percent.
+In addition, although CancerSEEK was best at detecting stage II or III cancers, it was still able to detect 43 percent of early stage I cancers.
+When researchers employed a  machine learning algorithm to analyze the results, they found the tool could determine the origin of a tumor using only the blood sample results.
+For 83 percent of patients with a positive blood test result, the algorithm could narrow down the tissue where the tumor originated to one of two organs.
+As Collins pointed out, the FDA approved the first liquid biopsy test in 2016 to help guide treatment of patients already known to have non-small cell lung cancer. However, developing a liquid biopsy that could screen people for early-stage cancers has proven much more difficult.
+The critical next step will be to find out how well CancerSEEK can detect cancer in the general population among people with no history of disease, Collins noted. The research team has already begun enrolling 10,000 people who aren’t known to have cancer in a study to learn more about the test’s capabilities.
+“If all goes well, the hope is it may one day be as easy for primary care doctors to order a blood test to screen for many common forms of cancer as it now is to order a test for blood glucose or cholesterol,” Collins wrote. “And that would give many more people the best chance to beat cancer before it spreads.”
+Tagged Healthcare QualityMachine LearningPatient CarePatient Outcomes
+
+

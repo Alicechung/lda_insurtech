@@ -1,0 +1,27 @@
+Top 5 healthcare analytics and big data trends of 2013
+
+December 12, 2013
+
+By Jennifer Bresnick
+December 12, 2013 - There might be a great deal of anticipation about the explosive growth of healthcare analytics in 2014, but 2013 was no slouch when it comes to technological advances and improvements in care quality, communication, and data integrity.  As we come to the year’s end, here’s a look back at some of the biggest news and most noteworthy progress from the data analytics world.
+Data crunchers big and small hit the scene
+It was anything but elementary, my dear Watson, when the IBM supercomputer turned from Jeopardy! champion to cancer-fighting wunderkind.  Well-versed in clinical decision support and put to work for a variety of public and private entities, the artificial intelligence powerhouse is using its natural language processing capabilities and evidence-based machine learning to help physicians make better decisions, aid large-scale analytics for research projects, and personalize medicine for the critically ill.
+But Watson isn’t the only one getting into the numbers game.  CMS announced that it has released a huge collection of clinical data for research, and individual organizations have been hard at work developing EHR-linked analytics tools to help identify risks of suicide and domestic abuse, hypertension and developmental delays in children, and even tackle common hospital-based problems like sepsis and acquired infections.
+Pay-for-performance is here to stay
+READ MORE: Cerner Pilot Uses Population Health Analytics for Chronic Care
+Why such a big push to improve quality and flag potential problems before they get worse?  Besides it just being good medicine, hospitals and physician providers now have skin in the game.  Financial reforms are bringing pay-for-performance reimbursements into the mainstream, and providers are desperately seeking ways to keep revenue in their pockets as federal programs and private payers emphasize quality over quantity.
+Data analytics is turning into the magic bullet for closing care gaps, eliminating waste, and identifying inefficiencies that lead to poor care and bad outcomes.  Former National Coordinator Dr. Farzad Mostashari predicted in July that pay-for-performance is the future of healthcare, and it’s coming up quickly.
+“The readmission adjustments and value-based purchasing are just the first steps,” he said. “Accountable care organizations are the next step. Bundled payments and so forth are increasingly seen as inevitable. Something that seemed unimaginable just a few years ago, the demise of fee for service, now seems in some cases inevitable.”
+Wellness and population health
+Consequently, providers are more focused than ever on maintaining health before and after patients visit the clinic.  Clinical integration and health information exchange between care sites is helping to keep patients on track with chronic disease management and coordination of their care.  Population health management techniques allow providers to seek out patients before costly and dangerous conditions emerge, pinpointing diseases like the flu or strep throat on a block-by-block basis with the help of EHRs in the office and smartphones in the home.
+READ MORE: Identifying Big Data Sources for Population Health Management
+mHealth and remote monitoring hit the big time
+Patients have been using those phones, as well as their tablets, computers, wristbands, and clip-on monitors to take their health into their own hands.  Through social media and mobile devices, patients are connecting more than ever to each other and to their providers in order to keep track of their health at home.  Telehealth and mHealth have the potential to vastly reduce the burden of chronic diseases on the healthcare system by helping patients keep blood sugar under control, proactively contact providers when their blood pressure gets too high, and keep them in their own homes while recovering from hospitalizations.
+While mHealth still has a long way to go before it becomes a widespread, clinically viable solution, the rapid growth of smartphone ownership and consumer-facing health solutions has pushed the market into overdrive.
+Data integrity becomes a critical issue
+From CQMs in Stage 2 Meaningful Use to ICD-10 implementation to health information exchange, nothing is more important to health information management than data integrity.  Good, clean data is the foundation upon which all these other trends are built, and as providers move into an era of health IT reform, ensuring the quality of the information produced by EHRs and stored in data warehouses will be crucial for success.
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+Providers need to trust that data is reliable and complete when using clinical decision support or producing information based on data mapping.  ICD-10 and the focus on HL7 and other industry standards for data has presented a perfect opportunity for organizations to overhaul their clinical documentation and data integrity practices, a trend that will continue as we move closer to October 1, 2014.
+  Tagged Analytics InfrastructureBig DataEHR AnalyticsGlobal mHealthHealth Information ExchangeHealthcare AnalyticsHealthcare Data StrategyPopulation Health ManagementRemote Monitoring
+
+

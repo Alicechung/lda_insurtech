@@ -1,0 +1,36 @@
+Maine’s HIE Analytics Cut ED Visits, Integrate Behavioral Care
+
+June 22, 2016
+
+By Jennifer Bresnick
+June 22, 2016 - Maine’s state health information exchange (HIE) is continuing to bring improved care coordination and actionable insights to the region’s providers through its advanced big data analytics efforts.
+In its latest annual report, HealthInfoNet boasts a 52 percent growth in the number of users accessing the system since 2014 and a 69 percent increase in the number of patients whose information has been viewed across the largely rural area. 
+The HIE’s analytics offerings have been central to its success for several years, and continue to expand in scope, sophistication, and effectiveness. 
+With more than 4.7 million patient records accessed or exchanged and 154,000 real-time notifications for events in care, Maine’s hospitals, physician providers – and increasingly its behavioral health providers – are seeing improved coordination as they tackle the question of population health management.
+“In 2015, HealthInfoNet combined both clinical and claims data, further enriching the predictive modeling,” explained Devore Culver, Executive Director and CEO.  
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+The HIE integrated data from Maine’s Medicaid program into its analytics and reporting offerings, and also received a $200,000 grant from the Robert Wood Johnson Foundation to combine social determinates of health with clinical data to improve outcomes.
+“This expansion of the population health and analytic database strengthened the models in support of patient risk stratification and clinical care planning,” Culver added.
+HealthInfoNet enrolled 20 behavioral health organizations across 75 locations in 2015, improving the integrated care of close to 3000 patients in the month of January alone.
+“Our care coordinators look at historical patterns and triggers that have resulted in ED visits,” said Alyssa Pekins, MPA, LSW, Chief Administrative Officer of Catholic Charities, which offers community-based social and behavioral care services.
+“These, coupled with the real-time information in HealthInfoNet, and the client’s behavioral health background, allow us to almost predict and prevent incidents of care.”
+READ MORE: CT Medical Society Announces New Health Information Exchange
+Reporting capabilities are also helping acute care hospitals reduce emergency department visits, prevent costly 30-day readmissions, and even significantly slash hospital mortality rates.
+St. Joseph Healthcare has seen a 15 percent reduction in emergency department visits, as well as a 5 percent reduction in 30-day ED returns.  Thanks to improved analytics and reporting that foster coordination and proactive management, 30-day readmissions are down by 13 percent and costs per person are 5 percent lower.
+The organization also saw a whopping 37.3 percent reduction in hospital mortality.
+HealthInfoNet has had all of the state’s 38 hospitals under contract since 2013, and is the first HIE in the nation to allow clinicians at the Department of Veterans Affairs to access health information exchange data through a portal.
+“With view access, authorized VA clinicians are able to obtain important medical information from non-VA facilities to support clinical decision making and care coordination,” the HIE said in August of 2015.  
+READ MORE: Identifying Big Data Sources for Population Health Management
+The project has been funded by a three-year grant from the Health Research and Services Administration (HRSA) to support the 12.8 percent of Maine residents who are veterans and eligible for VA care.
+Unlike many other health information exchange projects, which saw a brief flash of interest at the start of the EHR Incentive Programs before fading under financial pressures and technical burdens, HealthInfoNet has successfully transitioned from Maine’s Regional Extension Center to a “healthcare IT services company” that delivers on its big data analytics promises.
+“Today, our primary focus is leveraging what we’ve built over the last ten years in managing and achieving interoperability around the state to provide value-added services on top of the health information exchange,” said COO Shaun Alfreds at HIMSS16.
+“When we got started, there wasn’t any incentive for any organization to share data, and it was really challenging.  For those HIEs that are left standing, they need to think of themselves as a business.  They need to provide a service – in our industry, that’s an interoperability service.  What value can we bring that others are willing to pay for?”
+Risk scores, smart notifications, and clinical reporting capabilities for hospitals and physicians have become the core of the business model, but behavioral health integration is a significant opportunity to bring care coordination to the next level, Alfreds said.
+“Behavioral health data is huge.  “We’ve been working on that a lot this year.  But it takes time.  The meaningful use incentives didn’t really support behavioral health providers to adopt EHRs, so we’re really just starting at ground zero with these organizations.”
+“Bringing in the claims data helps us know – and helps us inform clinicians – that these patients have a behavioral health disorder.  That’s very important for identifying risk of having a readmission or other issue.”
+Behavioral health integration, as well as implementing population health management measure reporting tools, will continue to be important goals throughout the rest of 2016, noted Richard White, Chair of the Board of Directors.
+“The combination of social determinant data, infrastructure enhancements and new participants will bring HealthInfoNet to the next level of Health Information Technology in 2016,” he said.
+The HIE will also work to sign up pharmacy organizations and payers, as well as further its investments in advanced IT and analytics infrastructure to support the ongoing healthcare reform efforts affecting providers within Maine and across the country.
+Tagged Analytics InfrastructureBehavioral HealthcareCare CoordinationHealth Information ExchangePopulation Health Management
+
+

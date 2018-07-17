@@ -1,0 +1,40 @@
+WISeKey QuoVadis Launches New Electronic Signature Product Line PrimoSign
+
+16 Jul 2018
+
+WISeKey QuoVadis launches new Electronic Signature product line PrimoSign
+Swiss-based WISeKey QuoVadis is a leading Qualified Trust Service Provider whose e-signing services are used in more than 75 million e-signatures a year
+WISeKey International Holding Ltd (WISeKey) (SIX: WIHN; OTCQX: WIKYY), a leading Swiss cybersecurity and IoT company, announced today the launch of their new Electronic Signature product line PrimoSign by its QuoVadis subsidiary.
+PrimoSign Engine, the first product in the new WISeKey QuoVadis e-Signature family, has been adopted at scale by customers since autumn 2017. PrimoSign Engine enables online signature processes with Qualified certificates that are legally equivalent to handwritten signatures. PrimoSign Engine thus allows the digitization of traditional, analog signature processes, regardless of whether for internal (e.g. human resources workflows) or external (e.g. completely digital acquisition of new customers in the financial sector) signature requirements.
+With PrimoSign Engine, the user remains in their familiar working environment (such as an eBanking portal) and requires only a browser. PrimoSign Engine operates completely in the background and can be implemented in almost any application via a simple REST API integration. By maintaining the familiar user environment and customer experience, the acceptance and use of e-Signature is increased and thus also the conversion rate.
+Follow Us
+Bank Account Opening on Sunday from the Sofa
+Together with partners, WISeKey QuoVadis enables a complete digital onboarding for new users without any break in continuity.  For example, within a few minutes, a new online banking customer can identify themself through a video chat and receive a Qualified certificate with which they can then conclude legally compliant online contracts with the financial institution, even outside office hours, comfortably from any location and with any device (including desktop, mobile, or tablet).
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+Profitable capabilities
+PrimoSign Engine delivers significant efficiency and cost reduction for customers through faster e-signature processes and automation:
+Legally binding electronic signatures.  QuoVadis is accredited for Qualified signatures in Switzerland in accordance with the Swiss (ZertES) and in the European Union in accordance with eIDAS;
+Certified against CEN/TS 419.241, the technical standard for Qualified remote e-signature services;
+Significant efficiency and cost reduction through faster e-signature processes and automation;
+Signing as a Service: highly scalable, and rapidly deployed in existing applications using REST API;
+Simple for users: 100% browser-based and no software installation;
+Options for “live validation” of new users with methods such as video chat;
+Highly secure and data protection compliant:  documents to be signed never leave the customer environment, only the hash value is transmitted to WISeKey QuoVadis; and
+Advanced technical options including time-stamping, Adobe Approved Trust List (AATL), long-term archiving (LTV), short-validity transaction certificates and pseudonymous certificates.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+Use Cases: Digitization of signature processes, independent of industry sector
+PrimoSign Engine not only creates significant value for financial institutions but can revolutionize any signature process, regardless of the industry.  Use cases include the electronic signing of audit reports, budget approvals, employment contracts, commercial contracts and much more, whether in an internal workflow or in transactions with customers or external partners. Thanks to the Qualified electronic signature, the signed document gains legal validity, integrity and authenticity and can be easily verified at any time in the long term.
+Business model for direct customers and partners
+PrimoSign Engine can be used by both direct customers and partners. PrimoSign Engine makes it easy for direct customers to implement Qualified electronic signatures via a simple REST API integration and obtain legal validity for online transactions without the need of internal cryptographic expertise.
+Partners and system integrators can also easily embed PrimoSign Engine into their applications and make it available to their customers through the PKI and signature components bundled in a cloud service.
+PrimoSign Engine also recently enabled ICO (Initial Coin Offering) and ITO (Initial Token Offering) projects, allowing the entire offering processes to be completed online, with no paper, and in compliance with Swiss KYC documentation rules.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+Roman Brunner
+Roman Brunner, Chief Revenue Officer at WISeKey, said, “With the latest version of our cloud-based and CEN/TS 419.241 certified PrimoSign Engine, we enable our customers and partners to implement e-Signing fully integrated, legally valid and economically. Our direct customers benefit from secure, simple, customer-friendly and digital business transactions. The PrimoSign Suite succeeds the SealSign product launched 10 years ago and as well the Personal Signing Service (PERS), which was launched in 2012. These products, which can be used as an on-premise solution or as a cloud-based service, are today successfully used by well over 200 customers across Europe.”
+Outlook: PrimoSign Suite will continue to grow
+Thomas Moretti
+The next development of the PrimoSign Suite is already imminent: PrimoSign Portal. While PrimoSign Engine still requires an existing customer portal with strong two-factor authentication, PrimoSign Portal itself provides a simple web application via which documents can be signed. Tailor-made and branded to the needs of the customer.
+Thomas Moretti, Senior Vice President DevOps Signing Services and PKI for IoT, said, “With PrimoSign we are setting new standards for the simple digitization of business processes. Regardless of whether the processes today are still partly paper-based or already handled via the blockchain, the certified PrimoSign Suite provides our customers with the ideal solution for signing electronic data and documents. In addition to PrimoSign Portal, this year we will also present the integration into Adobe solutions and offer possibilities for mass signature with PrimoSign Seal.”
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+
+

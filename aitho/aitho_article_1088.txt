@@ -1,0 +1,12 @@
+Datameer Partners With IBM In New Data Science And Machine Learning Platform
+
+23 Mar 2018
+
+Datameer Operationalizes Self-Service Data Pipelines for IBM Cloud Private for Data
+Datameer, the leader in big data analytics, announced it will partner with IBM to create, manage and deploy business data pipelines for IBM’s new data science and machine learning platform, Cloud Private for Data. The partnership is a comprehensive approach to simplifying and streamlining data integration, preparation, shaping and curation in order to extend data science and machine learning for business teams to make accelerated data-driven decisions.
+John L Myers
+Recognizing that Datameer has the most mature business data pipeline platform for enterprises, IBM has partnered with Datameer to provide comprehensive pipeline creation and operationalization capabilities for the new Cloud Private for Data offering. Datameer will be an integrated part of the solution, offering a seamless customer and user experience that allows business users to create data pipelines that feed the platform and overcome the long delays associated with today’s data integration and ETL (Extract, Transform, Load) solutions.
+“With the increase of enterprise data outside the data center, organizations must harness this data to leverage AI and machine learning to increase productivity and innovation to develop competitive advantage,” said John L Myers, Managing Research Director of Business Intelligence, Enterprise Management Associates (EMA), a Boulder, CO based industry analysis firm. “To accomplish this, there is an increasing need for discovery and exploration tools in the cloud.  Datameer empowers companies to transform their data into valuable information that enables companies to make faster data-driven decisions.”
+“Enterprises require a comprehensive information architecture for collecting, managing and analyzing data as AI drives business transformation to make better, faster decisions and Datameer has proven capabilities to address these market needs,” said Raj Rajesh, Datameer Vice President of Business Development. “Together, IBM and Datameer enable companies to build and implement operationalized data pipelines and embrace AI and machine learning to dramatically reduce time to insights and power innovation, creativity and efficiency.”
+
+

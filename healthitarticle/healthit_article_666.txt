@@ -1,0 +1,56 @@
+The 2016 Holiday IT Wish List for Healthcare Big Data Pros
+
+November 30, 2016
+
+By Jennifer Bresnick
+November 30, 2016 - As families all over the country surreptitiously dump the last of their aging Thanksgiving leftovers in the garbage pail, children and adults alike are starting to turn their attention to compiling their holiday wish lists.
+Electronic toys and cool new gadgets are in high demand from everyone, but no one is wishing harder for new whizzbang tech than professionals in the healthcare big data analytics space.
+From semantic data lakes, clinical decision support tools, and artificial intelligence engines to natural language processing, silo-busting sledgehammers, and IoT integration platforms, big data experts have a lot to covet.
+2017 is poised to be a pivotal year for healthcare as the Quality Payment Program takes hold for physicians, hospitals gear up for Stage 3 meaningful use, and stakeholders across the care continuum wrestle with the fundamental challenges involved in population health, quality improvements, and value-based care.
+For healthcare organizations celebrating the holiday season with particularly lavish Secret Santa exchanges, here are some of the hottest technologies that the analytics department might be asking for to help them navigate the trying times ahead.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“I’m afraid I can’t do that, Dave…but here’s what you should do instead”
+Over the past twelve months, interest in artificial intelligence and machine learning applications has gone through the roof as vendors operationalize the first generation of AI assistants for clinical decision support, customer relations, and predictive modeling. 
+More than a third of healthcare leaders believe AI will produce significant impacts on the industry within the next year, due to major advances in imaging analytics, natural language processing, deep learning, and semantic computing, all of which are combining to create an unprecedented level of clinical decision support capabilities.
+These tools have applications in everyday diagnostics, risk assessment and population health management, consumer-facing tasks like scheduling, and cutting-edge personalized medicine.
+A flurry of cross-industry collaborations involving recognizable names like IBM, Microsoft, Dell, and Amazon are aiming to bring AI to the healthcare space on a large scale as quickly as possible – and some initiatives, such as services from IBM Watson Health, are already embedded in the clinical space.
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+The majority of healthcare organizations may not be prepared to develop an army of android clinicians just yet, but they can start to prepare their infrastructure for AI applications by investing in open, standards-based data warehousing tools, assessing opportunities for AI case studies or small-scale tests…and giving their health information management and analytics staff members the next item on the list.
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+A round table, a whiteboard, and a monthly meeting invite
+Nothing gets data analysts squealing with delight like a calendar block dedicated to creating and maintaining an organization-wide data integrity program.
+Information governance is at the root of every successful big data program, from the most advanced AI down to the dullest routine workflow task.  High standards of quality, integrity, and completeness across all of the organization’s data creation points are essential for developing big data assets that can be used for actionable improvements.
+READ MORE: Early Adopters Question Usefulness, Maturity of AI in Healthcare
+“There’s no room anymore for inconsistent quality and inconsistent data,” said Ann Chenoweth, MBA, RHIA, FAHIMA, President and Chair Elect of the 2017 AHIMA Board of Directors. 
+“Trusted data must be reliable, accurate, and accessible, where and when it’s needed.  It’s not the data that comes out of here verses the other system.  It has to be an enterprise-wide framework that you can rely on.  Having that integrity and governance around the data is key.”
+But data governance doesn’t just happen spontaneously.  It takes a concerted and sustained effort from organizational leaders as well as commitment and buy-in from clinical staff – something that surprisingly few providers have managed to secure.
+Helping physicians, nurses, and other front-line staff understand the downstream implications of failing to double-check menu selections or re-read their free text notes can go a long way towards ensuring that data is as complete and accurate as possible from the beginning.
+Enlisting the aid of an experienced health information manager or informaticist will help healthcare organizations understand the basics of data governance, assess high-risk areas, and develop a roadmap to big data analytics that is tailored to its individual goals, challenges, experiences, and needs.
+The Role of Healthcare Data Governance in Big Data Analytics
+Tickets to the new Harry Potter movie are nice, but I was actually hoping for an EHR optimization wizard
+A large proportion of patient data begins its lifecycle with the electronic health record, which means that documentation training and workflow optimization are critical components of long-term data integrity.  But optimizing a workflow – and avoiding staff resignations from burnout – often means making significant changes to user interface, something that requires a skilled hand for most EHR systems.
+Strategies that help to extract more value from the record-keeping environment are a top priority for more than 70 percent of healthcare CIOs participating in a recent poll, and 92 percent of respondents thought EHR optimization was the way to get there.
+“Now that the dust has settled and many providers have successfully hurdled their initial implementations, those providers are objectively assessing their EHR systems and identifying areas that may not have delivered the value they had hoped for," said a PricewaterhouseCoopers report from earlier this year.
+"It is a prudent approach, because there are typically opportunities to enhance EHR systems at any stage of an implementation — with the ultimate goal of improving outcomes."
+Not only can an EHR optimization project make it easier for providers to treat patients efficiently and effectively, but investing in standardizing the data collection process is an important first step for big data analytics, and can help to reduce confusion around what’s really possible.
+Retooling the EHR to help clinicians tell an accurate, complete, and timely patient story will create a firm foundation for analytics that can, eventually, return that information to the point-of-care with insights, alerts, and decision support attached.
+Why a Thin Line Separates EHR Optimization, EHR Replacement
+A bathing suit and sunglasses for a dip in the data lake
+Nothing helps to make the snowy season pass by quickly like a trip to a tropical paradise, but most big data buffs would be perfectly happy with a swim in a semantic data lake, even if it keeps them closer to home.
+Data lake technology has also seen a precipitous rise in popularity over the past two or three years, allowing healthcare providers to smash unrelated data sets together to produce novel insights on the fly.
+At cutting-edge medical centers like Montefiore and Partners HealthCare, analytics architects are enabling sophisticated research and astonishing predictive analytics by harnessing the power of unstructured data storage.
+“The core data lake is really becoming an advanced clinical research information system to accelerate the speed to knowledge,” said Dave Dimond, Chief Technology Officer for EMC’s Global Healthcare Business, who is working with Partners HealthCare on a “data-lake-as-a-service” research platform for precision medicine and clinical analytics.
+“It’s very powerful technology that is a key part of retooling how providers are engaging patients at the point of care, for example, and how they are building a bridge between them.  It’s about creating a learning health system – that’s really at the heart of this project.”
+“Learning” is the operative word for many data lake initiatives, which can form the foundation of cognitive computing applications and bring meaningful artificial intelligence closer than ever before. 
+The flexibility and easy scalability of the data lake environment can create more organic, detailed, and nuanced insights than the traditional relational database, which needs to be specifically programmed for a particular task in order to output the desired results.
+“Relational databases require a very fine structure that you have to plan out before you can use it - you have to frame your problems in a very specific way,” said Parsa Mirhaji, MD, PhD, from Montefiore Medical Center to HealthITAnalytics.com in 2015. 
+“Within that frame, you can do wonderful things, but you have to pre-coordinate your schema before you start investing in application development and data management.”
+“The problem with that is that you have to predict all future-use cases,” he continued. “And the costs of changing your mind or your requirements are huge. And that's why you end up with these data silos. You end up with different architectures for different problems, because you have to box the problem before you begin.”
+Organizations that have not succeeded in gifting their IT departments with a comprehensive data integrity program will find it difficult to translate the relational database landscape into large-scale organizational improvements. 
+Data lakes, on the other hand, offer a promising glimpse into a much more free-form analytics environment, where users can employ natural language to ask questions that are specific to the needs of an individual patient at that exact point in time.
+Natural language interfaces that draw on vast stores of clinical, academic, and socioeconomic data to return tailored answers to unique queries are the holy grail of big data analytics, and would make the ultimate holiday present for any healthcare stakeholder.
+While the industry is still a few years away from wrapping up true artificial intelligence in a bright red ribbon, equipping big data experts with the basics they need to make that dream a reality someday soon will make for a very merry winter celebration for all.
+What is the Role of Natural Language Processing in Healthcare?
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR OptimizationHealthcare Data GovernanceSemantic Data Lakes
+
+

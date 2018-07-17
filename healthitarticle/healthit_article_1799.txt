@@ -1,0 +1,19 @@
+How much structured EHR data is needed for clinical analytics?
+
+October 14, 2014
+
+By Jennifer Bresnick
+October 14, 2014 - Structured EHR data may seem like the gold standard for data-driven healthcare, but capturing clinical data in standardized formats with check boxes and drop-downs can sap time and energy from clinicians and affect the patient-provider relationship.  With clinical analytics becoming an increasingly important factor in the way EHR data is collected and used, structured information has been at the top of the wish list for HIM professionals and informaticists.  But how much standardized information is really necessary for the healthcare industry to meet its federal mandates and quality care goals?
+The answer may be less than we think.  A new survey by WebChartMD found that only 7% of data in a patient note must be structured in order to meet the requirements of meaningful use, and most of that information is fairly simply to standardize.  Elements such as date of birth, sex, vital signs, smoking status, and medications have a limited number of options that are easy to select from a list or enter quickly in an agreed-upon format.
+“This study is especially relevant for physicians frustrated by the negative impact EHRs can have on their patient interactions and their productivity,” said Mark Christensen, CEO of WebChartMD.  “Physicians are often asked to capture more data in a structured format then Meaningful Use requires.  Too many physicians struggle with their EHRs when they simply don’t need to.”
+While WebChartMD is a documentation transcription software vendor with a vested interest in promoting free-text input for patient charts, the finding has implications for the way healthcare organizations build their analytics infrastructure and data warehousing applications.  Should organizations strive to structure as much information as humanly possible, or is free-text data a viable alternative for performing advanced clinical analytics?
+Dig Deeper
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+IBM Watson, Siemens Partner for Population Health Management
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+“I think we’re reaching a point of sophistication in the technology where we’re going to be doing a lot more with unstructured data storage or data repositories,” Wes Wright, Senior Vice President and Chief Information Officer at Seattle Children’s Hospital, said to HealthITAnalytics.  “I think the advice is that while maintaining your current BI data warehouses, your eye should really be on the unstructured data mining potential that is coming into the market now.  You kind of have to throw the paradigm of the data model out the window, I think, within the next two to five years.”
+“For a long time, the pendulum swung way over into the direction of structured data and structured data entry,” he added.  “And I think it’s swinging back to the unstructured. For example, you might have a clinical note that is unstructured within the note, but the header for that data is structured with HL7. There are certain things that have to go across in the package header, but there could also be a bunch of unstructured data in there, and that’s fine.”
+If providers can relax their structured data standards for meaningful use, which is the biggest driver of health IT adoption for the moment, they will need to find tools that leverage their unstructured data for more advanced analytical applications, as well.  Vendors may have more of an interest in creating these options, and providers might be much more likely to stop grumbling about EHR adoption while successfully providing adequate data for informaticists to drive actionable insights.
+  Tagged Analytics InfrastructureClinical AnalyticsHealthcare Data Management
+
+

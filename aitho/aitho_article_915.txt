@@ -1,0 +1,20 @@
+Astound Integrates With ServiceNow To Build AI-Driven Automation In Every App
+
+12 Apr 2018
+
+Astound Provides AI-Based Decision Engine That Drives Enterprise Service Management Forward
+Astound, an enterprise software company applying machine learning and natural language processing to automate service and support, today announced its certified integration for the Now Platform®. The new Astound integration allows customers using ServiceNow® to interact conversationally with any app on the platform using natural language and automate the process of resolving routine service requests. Astound’s decision engine provides AI-driven Enterprise Service Management to improve the quality of support while also reducing costs.
+Astound partners with leading enterprise IT software vendors like ServiceNow, Atlassian, and Salesforce to offer out of the box integrations with ITSM, knowledge management, Customer Service Management (CSM), and social collaboration solutions.
+Avanish Sahai
+Avanish Sahai, Vice President of ISVs and Technology Alliances at ServiceNow, said, “ServiceNow is committed to delivering a modern, consumer-like service experience to employees. We’re pleased that Astound is innovating on the Now Platform®, embedding greater intelligence into our daily work. Apps and integrations in the ServiceNow Store enhance our platform for customers, and we’re delighted to welcome Astound to our ISV partner ecosystem.”
+Now Add Key Features Like Conversational Assistance to Query ServiceNow Using NLP
+Through the integration with ServiceNow, Astound’s machine learning-based decision engine —
+Reduces call volume by improving the self-service experience using natural language processing via virtual agent technology to identify the best answers the first time
+Reduces Mean Time to Resolution (MTTR) and improves data quality with machine learning models that can be trained to predict the value of any field in any form in any app
+Adds key features like conversational assistance to query ServiceNow using natural language, related items to provide a “roadmap to resolution” for fulfillers, and a management dashboard to understand how automation is impacting service delivery
+Is offered as a certified app in the ServiceNow Store
+Dan Turchin
+At the time of this announcement, Dan Turchin, Co-Founder and Chief Product Officer of Astound, said, “ServiceNow showed every employee why they should expect a better service experience. Through the availability of Astound in the ServiceNow Store, customers can enjoy the future of work today. We couldn’t be more excited to be working with this innovative team. We’re proud to bring world-class AI-driven automation to the world’s best enterprise workflow platform.”
+Currently, Astound is purpose-built for enterprise service management and automates answers to routine questions, accurately assigns & categorizes incidents, recommends the best resolutions, and delivers predictive analytics. Astound helps some of the most respected organizations in the world reduce call volume, MTTR, and support costs while improving customer satisfaction.
+
+

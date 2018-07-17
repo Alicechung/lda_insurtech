@@ -1,0 +1,37 @@
+Population Health, Big Data Strategies Could Reduce $2B Waste
+
+January 16, 2017
+
+By Jennifer Bresnick
+January 16, 2017 - The employer-based health insurance industry leaks approximately $2 billion each year due to wasteful or preventable spending across the care continuum, according to a new report by the American Health Policy Institute (AHPI).  But a population health management approach to proactive, preventive care, along with the implementation of big data analytics tools, could drastically reduce that number.
+By analyzing the spending patterns of 35 large, self-insured employers, AHPI and VBID Health found that up to 20 percent of spending by these company health plans is due to inefficiencies in administration and patient care, including patient adherence and engagement issues, hospital-acquired conditions, preventable readmissions, and the downstream impacts of failing to deliver preventive care.
+“One objective of this effort is to draw a distinction between high value and low value healthcare services in order to reduce or eliminate wasteful spending,” says David Edman, Managing Partner at VBID Health and a co-author of the report.
+“Another goal is to reduce inefficiencies in healthcare delivery and financing, thereby producing greater value. Studies indicate that reductions in wasteful spending resulting in lower costs can also lead to higher quality care. This analysis lays the groundwork for accomplishing these objectives.”
+Clinical inefficiencies account for 14 percent of overall healthcare spending, and present a significant opportunity to reduce unnecessary costs. 
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+One study from the Virginia Center for Health Innovation found that 20 percent of patients included in the state’s all-payers claims database (APCD) were exposed to some form of wasteful service, the report says.  Using VBID Health’s healthcare waste calculator, the state found that 36 percent of services could be classified as wasteful.
+Source: AHPI / VBID Health
+Unnecessary antibiotics for acute rhinosinusitis topped the list of questionable services, along with annual EKGs and NSAID prescriptions for hypertension, heart failure, and chronic kidney disease.
+The Washington Health Alliance found similar issues with services delivered too frequently or without adequate evidence.  In 2013, the Washington State Choosing Wisely Task Force found that 26 percent of patients with sinus infections were receiving antibiotics, while 21 percent of patients with uncomplicated headaches and 20 percent of those with low back pain were sent for expensive imaging studies.
+The report classifies these activities as “defensive medicine,” which may not be evidence-based but often serves to comfort patients and cover any future liability for providers. 
+Together with unnecessary emergency department use, mismanagement of chronic diseases, and missed opportunities to deliver preventive care, deficiencies in outpatient and professional services account for 9 percent of estimated wasteful spending.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Other areas of concern include overprescribing of antibiotics, which has broad clinical as well as financial implications, medical errors and hospital-acquired conditions in the inpatient arena, and the ineffective use of health IT tools to manage patients and control risks.
+Healthcare organizations may be able to address these opportunities for improvement by leveraging data-driven population health management strategies, AHPI says.
+Starting with a financial foundation of value-based payments, which incentivize cost reductions and promote the delivery of carefully considered services focused on maintaining wellness, health plans can encourage providers to shift their perspective away from defensive, wasteful medicine.   
+Payers can design their plan offerings to optimize efficiencies and align incentives to make it financially feasible for providers to develop, implement, and leverage a population health approach to preventive care.
+“In concert with value-based payments discussed above, we recommend revisions to plan designs to encourage healthy behavior and discourage unnecessary and inappropriate care,” the report says. “A so-called ‘High Value Health Plan’ pays more for high value services and pays less (or nothing) for low or no value care.”
+READ MORE: How to Get Started with a Population Health Management Program
+Taking advantage of a value-based plan design will require providers and payers to commit to “data-driven disruption,” the authors state.
+“A concerted effort in disruptive management can lead to desired changes to the health care status quo. Efforts to identify, quantify, and reduce wasteful spending starts with effective data analysis and reporting.”
+Healthcare providers and payers must continue to develop their big data analytics competencies, the report urges, and use these techniques to develop scorecards that can be used for risk stratification and predictive analytics.
+“An important goal is to maintain the well-being of healthy employees and identification of those at-risk employees for whom proactive case management may be appropriate,” the brief explains.
+“We recommend that employers use predictive modeling to identify high risk patients by disease type and cost ranking. Risk scores are created for each patient and often applied as a normalization tool for provider analysis.”
+Using these strategies to identify and engage high-risk patients may help outpatient providers to lower the occurrence and costs of avoidable readmissions, unnecessary emergency department use, and medication non-adherence.
+In the inpatient setting, risk scores and stratification can identify potential patient safety errors, allow providers to quickly address the development of sepsis, and help coordinate with primary care providers to prevent avoidable returns to the hospital.
+Payers can also employ similar big data analytics strategies to gauge the quality of their contracting providers, the report adds, and develop narrower networks that deliver better outcomes at lower costs. 
+By prioritizing high quality providers over those with less-than-optimal performance, payers may be able to cut down on organizations prone to fraud and abuse while encouraging healthy competition among preferred providers to deliver on quality and continue to raise patient outcomes.
+“At the heart of this effort is, and should be, a desire to improve patient health,” the report says. “Reducing waste in health care is one essential way we can not only lower costs, but also improve the quality of care in the process. America is unlikely to stop spending large amounts of money on health care. By reducing waste, we can begin to get the value we deserve for all of that spending.”
+Tagged Chronic Disease ManagementHealthcare CostsHealthcare SpendingPopulation Health ManagementValue Based Care
+
+

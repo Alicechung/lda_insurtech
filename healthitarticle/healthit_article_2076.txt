@@ -1,0 +1,18 @@
+EHR alerts help screen for deadly abdominal aortic aneurysms
+
+February 10, 2014
+
+By Jennifer Bresnick
+February 10, 2014 - Providers in the Kaiser Permanente system are getting some significant help with screening middle-aged men for a generally asymptomatic but incredibly dangerous condition.  By building an alert system into the EHR, researchers have been able to increase the rate of screenings for abdominal aortic aneurysms (AAA), a condition that kills more than 50% of its victims.  The best practice alerts (BPA) have diagnosed 731 undetected AAA cases since March of 2012, reducing the number of unscreened patients by more than half in a relatively short window.
+“Because abdominal aortic aneurysms are generally asymptomatic before they burst, most of the patients who have a rupture didn’t even know that they had an aneurysm,” said Robert J. Hye, MD, study lead author and chief of vascular surgery, Kaiser Permanente San Diego Medical Center. “That makes screening for AAA all the more vital and important.”  More than ten thousand people are killed by AAAs each year, says the CDC, and many are not properly screened for the condition despite AHA guidelines in place since 2005 and Medicare-covered ultrasounds to diagnose the issue.
+The AHA recommends that men between the ages of 65 and 75 with a history of smoking should undergo abdominal imaging to catch a growing bulge in the aorta that weakens the vessel and puts it at risk for a catastrophic rupture.  The research team looked at a population of 3.6 million patients, whittling down the number of men who hadn’t had abdominal studies performed that might have already caught the problem.
+After the EHR alerts were implemented, 27,519 patients received screenings they might not otherwise have had.  Of the 731 AAA cases caught by the reminder, 165 were over 4.0 centimeters.  The percentage of unscreened patients in the target population decreased from 51.74% to 20.26% system-wide after just over a year of the program.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+Research Collaboration to Use Big Data for Diabetes Prevention
+Kaiser Permanente has built a number of risk assessments, screenings, and alerts into its integrated EHR system, which is the same across all its providers.  With more than 9.1 million lives covered under the same EHR in 618 provider offices and 38 hospitals, Kaiser has a unique ability to partake in large-scale data analytics and perform clinical research unavailable to smaller, more fragmented systems.
+“Because of the distinctive nature of Kaiser Permanente’s health care system with its integrated network of practitioners and physicians, it is uniquely suited to perform these types of preventive health measures like aneurysm screening, colon cancer screening, and others,” said Hye. “This type of program would be very hard to implement in a non-integrated system because their practitioners don’t have universal EHRs to help them monitor their patients.”
+Tagged Applied AnalyticsClinical AnalyticsMedical ResearchPatient CarePopulation Health ManagementQuality Of Care
+
+

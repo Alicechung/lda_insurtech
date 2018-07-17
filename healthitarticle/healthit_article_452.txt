@@ -1,0 +1,71 @@
+Understanding the Many V’s of Healthcare Big Data Analytics
+
+June 05, 2017
+
+By Jennifer Bresnick
+June 05, 2017 - Extracting actionable insights from big data analytics – and perhaps especially healthcare big data analytics – is one of the most complex challenges that organizations can face in the modern technological world.
+In the healthcare realm, big data has quickly become essential for nearly every operational and clinical task, including population health management, quality benchmarking, revenue cycle management, predictive analytics, and clinical decision support.
+The complexity of big data analytics is hard to break down into bite-sized pieces, but the dictionary has done a good job of providing pundits with some adequate terminology.
+Data scientists and tech journalists both love patterns, and few are more pleasing to both professions than the alliterative properties of the many V’s of big data.
+Originally, there were only the big three – volume, velocity, and variety – introduced by Gartner analyst Doug Laney all the way back in 2001, long before “big data” became a mainstream buzzword.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+As enterprises started to collect more and more types of data, some of which were incomplete or poorly architected, IBM was instrumental in adding the fourth V, veracity, to the mix.
+Subsequent linguistical leaps have resulted in even more terms being added to the litany.  Value, visualization, viability, vulnerability, volatility, and validity have all been proposed as candidates for the list.
+Each term describes a specific property of big data that organizations must understand and address in order to succeed with its chosen initiatives. 
+What are the three, four, ten (or more) most important V’s in big data, and how can healthcare organizations apply these principles to their clinical and financial initiatives?
+VOLUME – HOW MUCH DATA IS THERE?
+There’s no question that big data is, well…big.  A commonly cited statistic from EMC says that 4.4 zettabytes of data existed globally in 2013.  That number is set to grow exponentially to a staggering 44 zettabytes – 44 trillion gigabytes – by 2020 as it more than doubles each year.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Most of the data is transient – streamed music or movies that are rarely if ever analyzed for insights – but by the end of the decade, more than 35 percent of the world’s data assets could be useful for analytics if properly tagged and curated.
+Unlike that latest Netflix binge, healthcare data tends to be on the useful side.  Clinical notes, claims data, lab results, gene sequences, medical device data, and imaging studies are information-rich, and become even more useful when combined in novel ways to produce brand new insights.
+Organizations must develop storage techniques, either on premise or in the cloud, to handle the amount of data at hand.  They must also ensure that their infrastructure can keep up with the next V on the list without slowing down critical functions like EHR access or provider communications. 
+VELOCITY – HOW QUICKLY IS THE DATA BEING CREATED, MOVED, OR ACCESSED?
+Every day, the world creates 2.5 quintillion bytes of data, IBM says. That’s two and a half million terabytes, or enough to fill up ten million Blu-ray disks.  Each day. 
+Healthcare information accounts for a respectable proportion of the data gushing through the world’s wires, and the figures will continue to rise as the Internet of Things, medical devices, genomic testing, machine learning, natural language processing, and other novel data generation and processing techniques evolve.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Some of this data, such as patient vital signs in the ICU, must update in real-time at the point of care and be displayed immediately.  In these cases, system response time is an important metric for organizations, says Laney, and may be a competitive differentiator for vendors developing such products.
+Other datasets, like readmissions reports or patient collection rates, tend to take a more leisurely path through the organization without any negative impact.
+Trying to make every single data stream lightning fast is not an appropriate use of resources, and may not even be possible, but defining which data sources are important to access in days or weeks instead of months can certainly give providers an edge with quality reporting and practice improvement.
+VARIETY – HOW MANY DIFFERENT TYPES OF SOURCES ARE THERE?
+Variety may be the spice of life, but it can sometimes be a little too much for healthcare organizations to handle.  Meaningful data comes in all shapes and sizes, and conventional wisdom says that the more types of information you can smash together, the richer the insights will be.
+Many experts argue that the real meaning of “big data” isn’t really related to its volume at all.  Instead, the definition of big data is two or more data sets that have not come into contact before, or any dataset that is too complex to be handled through traditional processing techniques.
+Unfortunately for the healthcare industry, haphazard IT development over a long period of time has left many providers with data siloes that are nearly impossible to break through.  Data sets simply cannot be compared when they are held in separate locations or in incompatible formats, limiting the insights providers can gain about their patients or operations. 
+“No greater barrier to effective data management will exist than the variety of incompatible data formats, non-aligned data structures, and inconsistent data semantics,” Laney said. Although he was making a prediction about 2004, his words hold true more than a decade later.
+Health IT developers are starting to break down the problem by enlisting the help of application programming interfaces (APIs) and new standards such as FHIR, both of which make it easier to vault over walled gardens and raise the variety quotient.
+VERACITY – CAN WE TRUST THE DATA?
+Trust may be even more important than access when it comes to patient care.  The veracity of a dataset is difficult to verify, but providers cannot utilize insights that may have been derived from data that is incomplete, biased, or filled with noise.
+Data scientists spend an average of 60 percent of their time cleaning up data before it can be used, the New York Times asserted in 2014, and that figure may be even higher for analysts in the healthcare space.
+Providers are locked in a constant struggle to boost their levels data integrity and data quality, no easy feat when so many systems allow free text or other unstructured inputs.
+Data governance, and its close companion information governance, are key strategies that healthcare organizations must employ to ensure that their data is clean, complete, standardized, and ready to go.
+VALIDITY – IS THE DATA ACCURATE AND CORRECT?
+Similar to veracity, the validity of data is a critical concern for clinicians and researchers.  A dataset may be complete, but does it actually tell the user what it purports to? 
+Are the values correct?  Are they up to date? Was the information generated using accepted scientific protocols and methods?  Who is responsible for curating and stewarding the data?
+Healthcare datasets should include accurate metadata that describes when, how, and by whom the data was created.  Metadata helps to ensure that analysts understand one another, that their analytics are repeatable and that future data scientists can query the data and find what they’re looking for.
+VIABILITY – IS THE DATA RELEVANT TO THE USE CASE AT HAND?
+Correlation does not equal causation, data scientists are wont to say.  Understanding which elements of the data are actually tied to predicting or measuring a desired outcome is important for producing trustworthy results.  In order to do this, organizations must understand what elements they have, if they are robust enough to use for analysis, and whether the results will be truly informative or just an interesting diversion.
+Establishing the viability of certain metrics or features – do Twitter mentions of air pollution presage a spike in ED visits for asthma? – will likely require some trial and error.  Many predictive analytics projects are currently focused on identifying innovative variables for detailing certain patient behaviors or clinical outcomes, and this will no doubt be an ongoing process as more datasets become available.
+VOLATILITY – HOW OFTEN DOES THE DATA CHANGE?
+Healthcare data changes quickly – by the second, in some cases – which raises the question of how long the data is relevant, which historical metrics to include in an analysis, and how long to store the data before archiving or deleting it.
+As the volume of data continues to grow on a daily basis, these decisions will become increasingly important.  The cost of data storage is a significant concern for most healthcare IT departments, complicated by the fact that HIPAA requires providers to retain certain patient data for at least six years.
+Datasets with a higher rate of turnover and less applicability to analytics use cases may be more eligible for the recycle bin than those that remain stable and reusable for very long periods of time, like a patient’s genomic test results.
+VULNERABILITY – CAN WE KEEP THE DATA SECURE?
+Speaking of HIPAA, data vulnerability has skyrocketed up the priority list in the wake of multiple ransomware attacks and a depressingly long litany of data breaches.  Security is top of mind for the healthcare industry, especially as storage moves to the cloud and data starts to travel between organizations as a result of improved interoperability.
+In 2016, close to a third of hospitals said they were spending more money on data security than in the previous year – and that was before the lessons learned from large-scale attacks like WannaCry.
+Organizations concerned about data vulnerability should ensure that their staff members are regularly trained to keep data private and secure and that their business partners have signed HIPAA business associate agreements (BAAs) to maintain compliance with healthcare’s strict privacy and security rules.
+VISUALIZATION – HOW CAN THE DATA BE PRESENTED TO THE USER?
+In a busy emergency department or hectic ICU, a clear and intuitive data visualization may be the difference between utilizing and ignoring a key insight.
+Clinicians have struggled mightily with the usability of their electronic health record interfaces, complaining about too many clicks, too many alerts, and not enough time to get everything done.
+Adding to the complexity of information processing that is part of every clinician’s daily workflow by presenting dense and hard-to-understand reports will only sour users further on the potential of health IT.
+Instead of black-and-white printouts on perforated printer paper from 1977, developers should consider visualizations that use recognizable colors and chart formats to highlight key insights without overwhelming the reader.  Filtering data intuitively will help to prevent information overload and may help to mitigate feelings of burnout among overworked clinicians.
+Interactive dashboards are another option for reporting financial, operational, or clinical metrics to end-users.  Online mapping tools are becoming popular to visualize public health concerns or technology adoption rates on a local and national scale, while a variety of new apps for desktops, tablets, and even smartphones are giving users ways to interact with data more meaningfully than ever before.
+VALUE – CAN THIS DATA PRODUCE A MEANINGFUL RETURN ON INVESTMENT?
+Ultimately, the only reason to engage in analytics in the first place is to extract some sort of value from the information at hand. 
+Whether this value comes in the form of better outcomes, improved business efficiencies, or smarter strategic decision-making, healthcare organizations cannot afford to ignore the big question about big data: what has it done for me lately?
+Because of the size and complexity of data that lives in even the smallest healthcare organization, deriving value from analytics starts by defining specific use cases to tackle. 
+Identifying a diabetic population, predicting sepsis, reporting on performance for participation in an ACO, charting revenue leakage from a health system, or recommending the latest precision medicine therapy to a cancer patient are all important tasks with clear ROI that big data can help accomplish.
+Many healthcare organizations are still in the early phases of developing the competencies that will allow them to achieve these goals, and generating actionable insights that can be applied to real-world problems is a complicated and challenging task.
+But the value is there for those who adhere to strong data governance principles, architect robust health IT infrastructure, secure qualified data scientists, and take a creative approach to disseminating insights to end users across the organization.
+There may be even more V’s to come as the future of healthcare big data analytics unfolds, but there is little doubt that value will remain the most important metric to monitor when engaging in any and all data-driven decision making.
+Tagged Analytics InfrastructureClinical AnalyticsData StorageHealthcare Big Data AnalyticsHealthcare Business IntelligenceHealthcare Data GovernanceHealthcare Information GovernanceLists
+
+

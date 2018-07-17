@@ -1,0 +1,24 @@
+Hortonworks Congratulates 2018 European Data Heroes Award Winners
+
+19 Apr 2018
+
+The Awards Recognize Hortonworks Customers Who Have Significantly Transformed Their Enterprise By Leveraging Connected Data Platforms, Highlighting Real Business Value Derived From Data
+Hortonworks, Inc., a leading provider of global data management solutions, today announced the winners of the 2018 European Data Heroes Awards, including the Data Hero receiving Cognitive Honors from IBM.
+The awards recognize Hortonworks customers who have significantly transformed their enterprise by leveraging connected data platforms, highlighting real business value derived from data. Each winner exemplified outstanding achievements and meaningful results with Hortonworks Data Platform (HDP) and Hortonworks DataFlow (HDF). The winners were recognized yesterday at a Hortonworks gala preceding DataWorks Summit Berlin.
+“The range of submissions for our 2018 Data Heroes Awards showcased some of the most exciting and powerful examples of the true power of data,” said Rob Bearden, CEO, Hortonworks. “I am proud to see that this year’s winners come from across the business spectrum and truly represent some of the most innovative approaches to building and leveraging modern data platforms. On behalf of the entire Hortonworks team, I want to offer a heartfelt congratulations to this year’s winners.”
+A summary of the awards and the full list of nominees was published last week on the Hortonworks blog.  From the pool of nominees, a panel of industry experts selected the following as the 2018 winners across Europe:
+Data Visionary Award-  Team at Telefonica O2
+Telefonica O2’s Financial Data Hub went live in August 2017 and has ensured that O2 meets its compliance obligations as well as having a hybrid big data architecture built for the future.
+Data Architect – Team at Munich RE
+Munich RE’s data lake is based on HDP, which is key to its digitalization strategy. It connects global users and brings data into one place where it’s easy to consume.
+Data Scientist – Team at Quanam (Genlives)
+Quanam (Genlives) uses HDP to develop a tool that assists in the clinical classification of genomic variants. This helps in the determination of clinical significance using machine learning approaches and Natural Language Processing tools.
+HCC Community Champion – Team at CGI
+The CGI team consists of 21 very active members who have significantly contributed to Hortonworks Community Connection, sharing their expertise and best practices as an organization, and participating in many customer-led meetups to help Hortonworks customers be successful.
+IBM Cognitive Honors – Team at  Standard Bank of South Africa
+This award is for an individual or organization that has proven instrumental in establishing an advanced machine learning model in a traditional environment.
+Standard Bank of South Africa deployed a data science platform with HDP and built data science use cases for anomaly and fraud detection in mobile banking data.
+Hortonworks thanks the judges panel of industry experts who selected the winners, including Bernard Marr, bestselling author and Big Data expert and Philip Carnelley, IDC.
+Hortonworks is a leading provider of enterprise-grade, global data management platforms, services and solutions that deliver actionable intelligence from any type of data for over half of the Fortune 100. Hortonworks is committed to driving innovation in open source communities, providing unique value to enterprise customers. Along with its partners, Hortonworks provides technology, expertise and support so that enterprise customers can adopt a modern data architecture.
+
+

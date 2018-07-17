@@ -1,0 +1,27 @@
+Microsoft Places Bid in the AI Gold Rush with New Healthcare Team
+
+June 27, 2018
+
+By Jennifer Bresnick
+June 27, 2018 - Microsoft is bulking up its healthcare AI brain trust by bringing two new top-level executives on board.  The additions will help accelerate the company’s exploration of how to apply artificial intelligence, machine learning, and other big data analytics strategies to the complex problems of healthcare and the life sciences.
+“It’s an exciting time to be working shoulder-to-shoulder with our healthcare partners and customers, who represent some of the brightest minds in this important industry,” wrote Peter Lee, Corporate Vice President of Microsoft Healthcare.
+“At Microsoft, we’re confident that many aspects of the IT foundations for healthcare will move from on premise doctors’ offices and clinics to live in the cloud. We ask the questions: Can we take advantage of this huge sea change in healthcare to unlock the innovation potential in healthcare data? Can we work as a community to ensure that we don’t simply re-create the same data silos that we have today?”
+Dig Deeper
+Can Health IT Platforms Support Success as Artificial Intelligence Looms?
+Microsoft Revs Up Healthcare Artificial Intelligence Projects
+Google Pursues AI, Voice Recognition for EHR Workflows
+To answer those questions, the company best known for its ubiquitous operating system has recruited Joshua Mandel as Chief Architect and Jim Weinstein as VP of Microsoft Healthcare and Head of Innovation and Health Equity.
+Mandel, a physician by training, will work to design and implement cloud architecture based on open standards to liberate the movement of health data across disparate systems. 
+Mandel joins Microsoft after a stint at Verily, Google’s life sciences division.  He also held positions in health informatics at Boston Children’s and Harvard Medical School.
+Weinstein also has deep roots in healthcare, most recently serving as President and CEO of Dartmouth-Hitchcock Health System. 
+His interest and experience in using data-driven insights to improve care, combined with Mandel’s expertise in open data standards, will allow Microsoft to leverage some real-world lessons in care delivery, and may help the company achieve its broader goals within the industry.
+Those goals will include using artificial intelligence and machine learning to address opportunities in precision medicine, improve clinical decision support, and reduce documentation burdens for healthcare providers.
+“We are taking concrete steps with an initial ‘blueprint’ intended to standardize the process for the compliant, privacy-preserving movement of a patient’s personal health information to the cloud and the automated tracking of its exposure to machine learning and data science, for example to support external audit,” said Lee.
+“This is a small first step, but progress toward an open architecture that ultimately will benefit doctors, nurses and clinicians in how they interact with patients, and also allow more time for patients to spend face-to-face with their care providers.”
+Microsoft has been pursuing its healthcare ambitions somewhat more quietly than other veteran tech giants now exploring the untapped potential of patient data – and the lucrative opportunities around reducing administrative burdens for burned-out clinicians.
+Its efforts have been mostly on the infrastructure side, enabling analytics and cloud data storage through its Azure product line, and dabbling in consumer-focused data management through a wearable fitness tracker and associated applications.
+The new team may signal that rivals such as Google and Amazon, both of which are promoting their own cloud-based storage options and connected machine learning tools, should start to look over their shoulder.
+“We have our work cut out for us but know that we have the right team in place,” said Lee. “We’re looking forward to sharing more later this year about what we’re doing to help unlock the power of healthcare data and create opportunities for the entire health ecosystem.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareCloud ComputingCloud ServicesMachine Learning
+
+

@@ -1,0 +1,48 @@
+CMS Seeks Input on Clinical Quality Measures, 2015 CEHRT
+
+January 04, 2016
+
+By Jennifer Bresnick
+January 04, 2016 - CMS is starting off the new year in listening mode with a request for public comment on several key health IT initiatives, including clinical quality measures (CQMs) and the testing and certification processes involved in readying EHR modules for use in federal programs.
+Even though CMS has not yet responded to mounting pressure to make significant changes to the EHR Incentive Programs and associated quality reporting programs continues to grow, it has been opening up some of its major proposals for lengthy public comment periods, allowing stakeholders from across the industry to have their say on critical topics.
+In its most recent Request for Information (RFI), published in the Federal Register on December 31, 2015, CMS states that collecting public feedback will help the agency understand how to “reduce the burden and further streamline the process for providers and health IT developers while ensuring such products are certified and tested appropriately for effectiveness.”
+ “The feedback will inform CMS and ONC of elements that may need to be considered for future rules relating to the reporting of quality measures under CMS programs,” the document says.
+CMS has asked for responses to the following three issues:
+READ MORE: How Big Data Analytics Underpins Every Healthcare Trend
+Frequency of Certified EHR Technology (CEHRT) and CQM changes
+After a frenetic rush to equip providers with 2014 Edition CEHRT products ahead of Stage 2 meaningful use, and constant complaints about poor usability and inadequate design, CMS may be hoping to take a more measured approach to future large-scale technology upgrades.
+Stage 3 already allows a staggered adoption process for the 2015 Edition criteria, but developers have plenty to worry about between now and 2017.  CMS is constantly updating its clinical quality measure (CQM) specifications, and requires providers to use the most recent version of the CQM specifications for their electronic reporting methods.  EHR developers must therefore annually update their technology to stay current.
+“To ensure accuracy of the implementation of these updates, we have considered requiring recertification of already certified EHR products with these annual updates,” CMS says.
+“We understand that standards for electronically representing CQMs continue to evolve, and believe there may be value in retesting certified Health IT Modules (including CEHRT) periodically to ensure that CQMs are being accurately calculated and represented, and that they can be reported as required.”
+READ MORE: 70% of Residents Feel Prepared for Population Health Management
+“While we believe that health IT developers should test and certify their products to the most recent version of the electronic specifications for the CQMs when feasible, we understand the burdens associated with this requirement,” the agency continues.  Developers have not thus far been required to recertify their products each time they make a CQM-related upgrade.
+However, this may change, the document says, as testing becomes more rigorous in an effort to keep EHR usability on track.  In an effort to better understand the impact of these potential changes, CMS would like to collect answers to four questions:
+• How much time and money would additional testing and recertification require?
+• What are the benefits of implementing additional testing and recertification requirements?
+• How will the process affect the timeline for CMS and data standards updates?
+READ MORE: New Medical Scribe Exam Keeps an Eye on EHR Data Integrity
+• What are the potential benefits and drawbacks of developing a more consistent and predictable cycle from measure creation to provider data submission?
+Adjustments to minimum CQM certification requirements
+CMS isn’t just pushing developers to up their game in the clinical quality arena.  The agency is asking the EHR vendor community to help lead providers towards more detailed and broader reporting by creating products that go beyond the minimum CQM threshold.
+While Stage 3 of meaningful use specifies a certain number of measures and objectives that must be met for a successful attestation, “we believe EHRs should be certified to more than the minimum number of CQMs as required by the ONC 2014 Edition Base EHR definition of a minimum of 9 CQMs for EPs or 16 for eligible hospitals and CAHs,” says CMS.
+“With health IT developers having EHRs certified to the minimum number of CQMs, EPs, eligible hospitals, and CAHs may have limited CQMs available to them and may not be able to report on CQMs that are applicable to their patient population or scope of practice.”
+CMS suggests three paths towards crafting an EHR environment that will allow providers to have more choice:
+Option 1: Require EP health IT developers to certify Health IT Modules to all CQMs in the EP selection list; and require eligible hospital/CAH health IT developers to certify to all CQMs in the selection list for eligible hospitals and CAHs.
+Option 2: Incrementally increase the number of CQMs required to be certified each year until Health IT Modules are certified for all CQMs available for reporting by EPs, eligible hospitals, and CAHs to meet their CQM reporting requirements. For Option 2, we invite input on the advantages and disadvantages of an incremental increase in the number of CQMs required to be certified each year.
+Option 3: Require EP health IT developers to certify health IT products to more than the current minimum number of CQMs required for reporting, but not to all available CQMs.
+CQM testing and certification
+As providers hurtle towards the last stage of the EHR Incentive Programs, they are hoping that CMS and the ONC will help them achieve their goals by requiring high standards for 2015 Edition CEHRT.  The federal agencies are taking this responsibility seriously by exploring ways to improve the testing and certification process, the document states.
+“One objective of testing for the 2015 Edition CQM criteria is to increase testing robustness, thereby ensuring that all certified products have capabilities commensurate to the increased requirements enumerated in the 2015 Edition final rule,” CMS explains.
+“In the 2011 and 2014 Editions of certification criteria, the certification program sought to test basic capabilities and minimum requirements. Our expectation is that as time progresses and technology improves, EHR systems will have to demonstrate they are able to perform to increasing levels of complexity, including requirements to identify errors, consume larger numbers of test cases, and demonstrate stricter adherence to standards.”
+These increased requirements will hopefully ensure that all certified products are a sound financial investment, and that health IT tools can become a help instead of a hindrance to overwhelmed providers.
+To effectively improve the robustness of clinical quality measure testing, CMS would like to glean a greater understanding of the following issues:
+• What testing changes are necessary – or not recommended – to enhance the testing process?  How can the CQM certification process be simplified, and how can accompanying resources be more usable?  How would increased testing requirements affect providers?
+• How can CMS and the ONC determine how many test cases are required for adequate coverage?  What manual or electronic formats could be used for test cases?
+• How can CMS determine the difference between warnings and test failures when presented with errors?
+• Should CMS and the ONC employ single measure testing?  Why or why not?
+• Would developers benefit from flexibility in the vocabulary codes allowed for test files?  What other ways could the testing tools be improved?
+• How could the test procedures and certification companion guides be improved to help raise testing success rates and make preparation easier?
+To view the entire document, including additional questions from CMS and information on submitting public comment, please click here.  Interested stakeholders must submit their comments by February 1, 2016.
+Tagged Clinical Quality MeasuresEHR UseHealthcare Data GovernancePopulation Health Management
+
+

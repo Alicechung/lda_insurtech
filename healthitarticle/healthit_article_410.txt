@@ -1,0 +1,80 @@
+Top 10 Challenges of Population Health Management
+
+July 14, 2017
+
+By Jennifer Bresnick
+July 14, 2017 - Population health management has become a must-have competency for healthcare providers of all types, sizes, and specialties. As risk-based contracting and pay-for-performance arrangements start to provide enhanced financial incentives for delivering preventive services and tracking patients across the care continuum, healthcare organizations are investing heavily in the strategies and technologies required to ensure proactive management of individuals.
+Developing and deploying a population health management program can be a difficult proposition, however, especially for organizations operating with limited staff on a shoestring budget. 
+Effectively managing patients with complex chronic diseases, limited access to services, or a tendency to end up in the hospital over and over again requires providers to significantly alter their traditional fee-for-service workflows and rely on a new set of team-based, collaborative skills.
+What are some of the biggest challenges healthcare providers face when creating a new population health management program, and how can organizations succeed in such a quickly evolving industry?
+IDENTIFYING A STARTING POINT
+Population health is a big idea with big potential and a nearly unlimited range of possibilities, which can be both a good thing and a bad thing for healthcare organizations trying to figure out where to start.
+READ MORE: How to Get Started with a Population Health Management Program
+Diabetes, congestive heart failure, smoking cessation, obesity, avoidable readmissions, and unnecessary emergency department use are all excellent initiatives to pursue, but most organizations do not have the capacity to attack every single problem all at once.
+Instead, providers must ask themselves which initiative will save the most money and produce the most measurable clinical improvements with the least amount of effort.
+Starting small with a clearly-defined pilot case, such as increasing vaccination rates for flu and pneumonia, can serve as proof of concept for executives while helping an organization develop a foundation of best practices for future use cases.
+“We knew we had a strong clinical case for why vaccines are important,” Dr. Christina Taylor, Chief Quality Officer for Internal Medicine at The Iowa Clinic, said of her team’s effort to raise adult vaccination delivery for common conditions.  
+“The more vaccines you give, the more likely you are to protect patients from serious illnesses, obviously.  This is one instance where it is very clear than an ounce of prevention is worth many, many pounds of cure.”
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+After 14 months of the vaccination program, pneumonia immunization rates for adults older than 65 increased from 4 percent to 34 percent, saving on primary care and hospital spending for a vulnerable, high-cost demographic.
+UNDERSTANDING PATIENT ATTRIBUTION
+In order to manage a population, providers have to know how many patients fall under their responsibility. 
+This is becoming an increasingly complex question for many organizations now that payers typically require beneficiaries to choose a primary care provider (PCP) during enrollment – and assign patients that don’t make a choice to the nearest convenient PCP.
+As a result, providers may be financially responsible for patients that have not yet come into the clinic for an evaluation.  For providers participating in value-based care contracting, failing to develop an accurate portrait of all attributed patients can be a serious problem.
+Many attribution methodologies are retrospective, noted Lucas Higuera, MA, and Caroline Carlin, PhD from the Medica Research Institute in a recent journal article, and finding the balance between scope and stability can be a significant challenge for payers and providers.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+Ideally, attribution rules should try to include the maximum number of patients possible, thereby balancing the ratio of high-needs patients to healthy patients, but not include so many patients that the turnover rate is impossible to manage.
+“An unstable attribution rule may assign patients to different provider systems over time due to variations in patterns of care rather than a true change in patient–provider affiliation; however, maximizing stability may require criteria so strict that the rule attributes few patients,” Higuera and Carlin explained.
+Providers should work closely with their payers to understand the methodologies employed in patient attribution and how shifting populations will affect incentive payments and quality metrics.
+STRATIFYING PATIENTS BY RISK
+Risk stratification is an integral part of population health management.  Once an attributed population has been established, providers must identify their highest risk individuals and target appropriate interventions as necessary.
+Engaging in comprehensive risk stratification requires a familiarity with data science and access to health IT tools that can proactively identify trends and pinpoint opportunities for improvement.
+Assigning risk scores to patients based on the number and complexity of their chronic diseases, socioeconomic challenges, spending patterns, and physiological risk factors can help providers forestall crisis events and engage patients in wellness activities before conditions worsen.
+“Across all [reimbursement] models, the identification, stratification, and management of high-risk patients is central to improving quality and cost outcomes,” stated the Association of American Medical Colleges (AAMC) in a recent report.
+“The use of predictive modeling to proactively identify patients who are at highest risk of poor health outcomes and will benefit most from intervention is one solution believed to improve risk management for providers transitioning to value-based payment.”
+Many healthcare organizations are purchasing health IT products, such as EHR modules or integrated population health management platforms, which can deliver the analytics and reporting required to access the necessary insights.  
+HIRING OR REALLOCATING STAFF MEMBERS
+Many organizations used to the fee-for-service environment rely on a relatively straight-forward staffing structure centered on delivering support to physicians, who conduct the majority of patient-provider interactions. 
+A population health model, however, can be somewhat more decentralized, with nurses, PAs, care managers, social workers, behavioral health experts, and specialists all deeply involved in coordinating services and achieving goals for an individual patient.
+For some providers, developing a coordinated care team and the technology to support it may require hiring new staff members or shifting current resources to new positions. 
+While the initial outlay for a new nurse or care coordinator may seem daunting to an organization operating on a tight budget, these professionals may quickly produce a return on the investment due to more efficient, proactive care delivery.
+GETTING PAID FOR POPULATION HEALTH
+Financial bonuses from succeeding with incentive programs and pay-for-performance initiatives may also cover the start-up expenses of a population health management initiative. 
+While providers can certainly engage in team-based, patient-centered care programs without shouldering financial risk, participating in a shared savings model, accountable care organization, or bundled payment program can provide an enticing revenue opportunity.
+Providers just starting out with population health should consider one of a number of upside-risk only models, which reward participants for meeting or exceeding benchmarks without making them financially liable for falling short.
+More advanced organizations can explore downside or two-sided risk models, which promise bigger bonuses for success, but also include penalties for failure.
+DEVELOPING ACCEPTANCE OF NEW WORKFLOWS
+The shift to collaborative, team-based healthcare supported by robust health IT infrastructure will require providers to adjust their workflows and communication strategies.  Organizational leaders must take a visible role in encouraging staff to accept changes to daily tasks, says Todd Ellis, Principal of Management Consulting at KPMG.
+“Change management is only effective when you follow the processes and experiences that surround a patient from when they walk into the door until they leave,” he said.  “Organizations must understand that everything they do is part of a continuum.  It’s not about completing a series of discrete tasks that function independently of one another.”
+Providers may wish to convene focus groups and stakeholder panels to ensure that all members of the team can provide input into process changes and new workflows, Ellis suggested.  Giving everyone a seat at the table can foster a sense of ownership and involvement that is likely to smooth the adoption of innovative patient care strategies.
+BOLSTERING PATIENT ENGAGEMENT
+Patients must also be actively involved in their population health management programs. 
+Effective chronic disease management requires individuals to understand their condition and how to control it, maintain consistent contact with healthcare providers, and have access to community and family support that will help them maintain their health.
+While providers may feel somewhat frustrated that they are now more responsible for what patients do outside the four walls of the clinic, patient non-compliance can usually be mitigated with just a little extra effort on the clinical side.
+“People don’t wake up in the morning and think, ‘I’m not going to follow what my doctor told me to do today,’” said Lisa Roome-Rago, Director of Enterprise Outpatient Care Management at Advocate Health Care.
+“It’s a matter of figuring out what’s actually going on and then trying to create a plan around that and minimize as many barriers as you can.”
+Barriers may include a lack of transportation or childcare, the inability to take time off of work to attend appointments, confusion over how to take medications appropriately, or concerns about how to pay for expensive services.
+Providers should take the time to discuss these issues with patients during in-person visits so they can design personalized management programs that best address their needs.
+COORDINATING CARE ACROSS THE CONTINUUM
+Complex patients often require care from several different providers across the healthcare spectrum. 
+Specialists, hospitalists, primary care providers, mental healthcare professionals, and post-acute facilities must be able to communicate effectively to ensure that individuals are receiving all the care they need – and aren’t receiving the same services twice.
+While vendors, providers, and other stakeholders are starting to make headway with health data interoperability, moving patient information back and forth between disparate systems is still one of the foundational challenges of taking a population health approach to care.
+As of the end of 2016, just six percent of clinicians were able to access EHR data held in a different system, a KLAS report stated.
+“No vendor community stood out as exceptional in consistently and effectively sharing with partners using a different EMR,” said KLAS VP of Provider Relations Bob Cash. “The good news? Vendors and providers seem committed to working through challenges identified in the study.”
+Providers concerned about interoperability should invest in health IT tools with a reputation for openness, consider joining a local health information exchange, or explore applications that leverage FHIR to connect disparate data sources in a standardized way.
+TRACKING CARE QUALITY AND OUTCOMES
+Quality metrics are key for gauging whether or not a population health management program is successful, but many organizations struggle with understanding which metrics they should use, what data is required to satisfy them, and how they can translate raw performance numbers into actionable improvements.
+With little standardization across payers, federal regulatory programs, and other value-based care models, providers may often feel as if they are measuring the same thing multiple times in multiple ways.
+Three-quarters of providers participating in a 2016 Quest and Inovalon poll said confusing and overly-complex quality measures make it difficult to them to achieve their value-based goals.  And only 47 percent said they had a clear understanding of how to apply quality measures to patient care decisions.
+Providers are eagerly searching for additional educational and technical resources to help them sift through their measurement responsibilities and present meaningful data to clinicians at the point of care.
+Many stakeholder groups are trying to address the problem of runaway measures, but an industry-wide solution is still lacking.  In the meantime, providers can work closely with their payers and data analytics experts to architect meaningful metrics for specific populations that are tied appropriately to financial reimbursements.
+COMMUNICATING BEST PRACTICES AND LESSONS LEARNED
+Variability is one of the major problems encountered by healthcare organizations with multiple sites or facilities.  Even in organizations with well-defined processes, each office tends to have its own unique culture that slightly shifts daily practice away from the board room’s ideals.
+This isn’t necessarily a problem, unless deviation from established best practices is compromising efficiency, safety, or the quality of patient care.  In that case, providers must make a concerted effort to communicate clearly and effectively with staff members to ensure that the right procedures are continuously implemented.
+Organizational leaders should meet regularly in a non-punitive setting to discuss best practices, brainstorm new solutions for lingering problems, and share the lessons they have learned about how to improve engagement, motivate staff, streamline inefficiencies, and improve quality.
+Regular and robust communication, digital or face-to-face, with executive leaders and clinical staff is the best way to ensure continued buy-in and a positive attitude.
+“Education is really the underlying theme here,” said The Iowa Clinic’s Dr. Taylor. “Population health is about recognizing that you’re responsible for an entire panel of patients, whether or not those patients are engaged with the healthcare system.  That requires a different approach than the one many physicians are used to.”
+“Your physicians need to take a proactive stance on population health management, and your leaders have to make sure that the providers are getting the education and support they need to enact these changes.”
+Tagged Care CoordinationCare QualityChronic Disease ManagementHealth Data ExchangeListsPatient Centered CarePopulation Health Management
+
+

@@ -1,0 +1,34 @@
+Missouri Gov. Creates State Prescription Drug Monitoring Program
+
+July 19, 2017
+
+By Jennifer Bresnick
+July 19, 2017 - Governor Eric Greitens has signed an executive order creating a prescription drug monitoring program (PDMP) for Missouri.  The new initiative, intended to help fight the spiraling opioid epidemic, means that Missouri has finally joined the other 49 states in taking a data-driven approach to prescription drug tracking.
+"We need to be honest and clear about the scale of what we are up against: Opioids are a modern plague," said Greitens. "Like the plague, opioids kill the young, the old, the healthy, the sick, the virtuous and the sinful. There's not a corner of our state that hasn't been visited by this curse.”
+“There is no single program, or law, or executive order that can fix this crisis. This program is a step—and it's a big step. Throughout this week, we will outline the other steps we will take to address the opioid crisis. The only thing we won't do is wait. We won’t wait for this problem to get worse. That's not an option.”
+For years, elective representatives have failed to agree on a legislative package to implement a statewide PDMP, leaving healthcare providers, public health agencies, and law enforcement officials without reliable and comprehensive data about the flow of opioids and other controlled substances.
+While stakeholders including Missouri’s Medicaid program have done their best to improve insights into the crisis, the lack of a unified, statewide approach to data collection has made the task extremely difficult.
+READ MORE: Addressing Opioid Abuse with Analytics, Population Health Strategies
+“Missouri winds up being a good place to be for people who are thinking about abusing drugs” due to the absence of a monitoring program, Medicaid official Steve Calloway told HealthITAnalytics.com in 2015. 
+“We're surrounded by nine states, so we become a catch-all for folks from our neighboring states who do have prescription drug monitoring programs."
+HHS Secretary Tom Price, MD, applauded Greitens for taking a first step to remedy the problem.
+ “I commend Governor Greitens for his leadership in Missouri as we all work to detect and deter the abuse of prescription drugs,” Price said in a press release.
+The Office of the National Coordinator has identified PDMPs as critical for ensuring the safety of patients and the appropriate use of powerful painkillers.
+READ MORE: Communities Tackle Opioid Abuse with EHRs, Population Health
+“Prescription drug monitoring programs (PDMPs) are one of the most promising tools available to address prescription drug misuse, abuse, and diversion,” the agency explains on its website.
+“PDMPs are state-run electronic databases that provide critical health information to physicians and other health care providers about an individual’s history of using controlled substance prescriptions. This information can be used to avoid inappropriate prescribing, identify drug-seeking behavior, and allows providers to intervene when there are signs of prescription drug misuse.”
+Making PDMP data available to healthcare providers through their electronic health records (EHRs) can help to curb doctor shopping, improve safety, and ensure that providers are prescribing opioids in accordance with recognized clinical guidelines.
+In some regions hit hard by substance abuse and addition, like Connecticut, access to PDMP data through the EHR is a novel but game-changing capability.
+Earlier in 2017, Connecticut Children’s Medical Center became the first facility in the state to have direct, real-time access to PDMP data at the point of care.
+READ MORE: Prescription Monitoring Program to Reduce Opioid Abuse in VA
+“Since the PDMP began collecting data in 2008, the state has enacted a series of common sense updates to the program to promote its use and improve the user experience,” said Consumer Protection Commissioner Jonathan A. Harris.
+“Many of the changes were based on feedback from the prescribers who use the PDMP every day. We look forward to continuing our productive relationship with the medical community to make sure patients in the Connecticut get the best care possible.”
+Missouri’s PDMP program, overseen by the Department of Health and Senior Services (DHSS), will use deidentified pharmacy and clinical data to flag patterns in utilization and dispensing. 
+“DHSS shall use the analyses for the purpose of identifying activity indicating that controlled substances are being inappropriately  prescribed, dispensed, or obtained; investigating such activity; and making referrals regarding such activity to appropriate government officials, including law enforcement and professional licensing boards,” the executive order says.
+Providers will be required to submit their prescribing information to the state in order to allow officials to monitor opioid-related activities while adhering to strict privacy and security regulations.
+The state has not yet decided on a technology package, the executive order indicates, but will work with all stakeholders to implement a tool that meets the needs of the patients and providers in the region.
+“I’m glad to see Missouri is launching its statewide prescription drug monitoring program,” said Richard Baum, Acting Director of National Drug Control Policy.
+“In the context of both the ongoing opioid epidemic and the health of Missourians, it’s vital to have safeguards in place to make sure that doctors aren’t overprescribing opioids that can be misused and patients aren’t doctor-shopping for multiple prescriptions that could be misused or diverted.”
+Tagged Analytics InfrastructureChronic Disease ManagementPopulation Health ManagementPreventative Care
+
+

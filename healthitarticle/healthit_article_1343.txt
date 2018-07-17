@@ -1,0 +1,29 @@
+Healthcare Big Data, Accountable Care Spark Vendor Spending
+
+July 24, 2015
+
+By Jennifer Bresnick
+July 24, 2015 - Healthcare big data analytics vendors hoping to explore the financial opportunities of predictive analytics, population health management, infrastructure development, and patient management are making some big investments in research and acquisitions, according to a number of market reports.  From revenue cycle analytics to care coordination and value-based reimbursement, top innovators are moving quickly to remain in the lead of a rapidly advancing vendor community.
+In this roundup, HealthITAnalytics.com reviews some of the major merger, acquisition, and development action of the summer as stakeholders from across the healthcare industry attempts to position themselves for success in a quickly shifting marketplace.
+Payer consolidation intensifies as Anthem, Inc. agrees to buy Cigna Corporation
+Just weeks after Aenta scooped up Humana in a $37 billion acquisition, two other major health plans are planning to combine their operations as the role of payers shifts away from providing fee-for-service reimbursement.  Anthem will purchase Cigna for more than $54 billion, creating the largest payer base by membership in the United States, Reuters reports. 
+While antitrust regulators are sure to scrutinize the deal closely, the consolidation is intended to allow the new Anthem-Cigna megacorporation to negotiate lower costs with their partner providers, and possibly expand value-based reimbursement arrangements in a large-scale, streamlined way.
+READ MORE: The 7 Step Plan to Success with Big Data Analytics in Healthcare
+“We believe that this transaction will allow us to enhance our competitive position and be better positioned to apply the insights and access of a broad network and dedicated local presence to the health care challenges of the increasingly diverse markets, membership, and communities we serve,” said Anthem CEO Joseph R. Swedish.
+ Health data interoperability also stands to improve from payer consolidation as big data systems are joined together, but patients may be concerned with the way Anthem handles their personal health information after the company suffered one of the most massive data breaches in recent memory earlier this year.
+Emdeon scoops up Altegra Health for $910 million
+Emdeon, a revenue cycle management and financial analytics developer, has announced that it will purchase Altegra Health and its cloud-based big data analytics capabilities for $910 million in cash, says the Nashville Post. 
+"Our health plan, provider and pharmacy customers look to Emdeon for innovative solutions to their most challenging problems," said Emdeon President and CEO Neil de Crescenzo in a press release. "Altegra Health has created leading end-to-end solutions that provide health plans and other risk-bearing organizations with the data, insights and related services they need to expertly manage care, ensure appropriate reimbursement and engage individuals in improving their use of the health care system. By adding these capabilities and leveraging our Intelligent Healthcare Network, we can further expand the products and services we provide our customers as they address the needs of value-based health care." 
+READ MORE: Can Point-of-Care Analytics Change the Healthcare Equation?
+Clinical decision support opportunities for technologies like IBM Watson may reach $239 billion by 2019
+Risk prediction and clinical decision support represent major areas of growth for healthcare big data analytics vendors who hope to help providers forestall complications, reduce costs, and improve patient outcomes.  For IBM Watson, one of the most recognizable names in big data, the opportunities may be worth up to $239 billion over the next few years as Big Blue continues to develop strategies for analyzing vast quantities of unstructured data, suggests a report by WinterGreen Research.
+By combing through medical literature, EHR data, clinical trial reports, and other data sources, Watson and other cognitive computing engines that integrate national language processing into their clinical decision support capabilities can provide more detailed and accurate suggestions to their users.  They may also help to cut costs by reducing unnecessary tests and treatments that may not produce optimal outcomes.
+IBM has been rapidly expanding its investments in the healthcare industry, most notably by creating a brand new healthcare division dedicated to bringing big data analytics to medical professionals.
+Bundled payments, value-based reimbursement firm gets $50 million funding injection
+READ MORE: CancerLinQ Partners with FDA for Precision Medicine Studies
+Remedy Partners has received $50 million in venture capital funding to support the development of bundled payment programs for public and private health insurers. 
+Bundled payments have become a popular and effective way of reducing extraneous costs for well-defined treatment paths, especially in the area of oncology.  CMS has also announced a bundled payments pilot for hip and knee replacements, a common set of procedures that do not often deviate from established standards of care.
+“Organizing the financing and delivery of healthcare services around the patient’s episode of care leads to greater cooperation and more successful outcomes,” said Remedy Chairman Steve Wiggins. “Bundled payments are proving to be one of the most successful methods to shift from fee-for-service toward value-based payments for healthcare services. Our software and services help healthcare organizations navigate the new world of accountable care.”
+Tagged Accountable CareAnalytics InfrastructureBig Data AnalyticsClinical Analytics
+
+

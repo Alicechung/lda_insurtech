@@ -1,0 +1,44 @@
+Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+
+October 03, 2017
+
+By Jennifer Bresnick
+October 03, 2017 - Blockchain has come to healthcare in a big way during 2017, generating significant interest among providers and payers as an innovative way to bolster data exchange while keeping sensitive information secure.
+The distributed ledger methodology has become so popular in recent months that more than three quarters of insurance companies – and 98 percent of plans with more than half a million members – are currently implementing or are actively planning to implement blockchain-based tools.
+"The most popular connectivity strategy circulating among health care technologists, and even ONC, is blockchain technology," said Doug Brown, Managing Partner of Black Book, which conducted a survey of payer and provider technology executives in Q3.
+Awareness of the theoretically tamper-proof ledger system has skyrocketed in recent months, due in part to the ONC’s interest in the matter, but perhaps more to a parade of high-profile data breaches that have rocked multiple industries.
+"Executive blockchain education has shifted from Blockchain 101 to selecting the appropriate healthcare blockchain technology protocols," said Brown.
+READ MORE: Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Close to 30 percent of hospital leaders now have a working understanding of blockchain and its capabilities, the survey found.  The vast majority are eyeing blockchain-based tools as a way to significantly increase data interoperability.
+Because data held on a blockchain is decentralized – every entity with permission to join the chain holds a local copy of the information, which is then updated across all entities when an edit is cryptographically approved – the system leapfrogs many of the data sharing problems of the electronic health record.
+Blockchain enables a more patient-centered view of the longitudinal health record by giving the patient herself permission to add new entities to the community, approve edits, and decide exactly how, when, and where her information is used.
+This new approach could have profound impacts on how providers and patients interact with critical data, but there are certain caveats. 
+Blockchain standards are still under development, and there is no clear federal or industry guidance for how to implement these tools or manage data appropriately.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+"The lack of technical standards for this still-immature technology is causing regulatory uncertainty while the industry anticipates explanations from federal rules at some point in 2018,” said Brown.
+Patients would also have to be much more proactive with personal data management than they tend to be at the moment, pointed out Chris Logan, Senior Healthcare Strategist at VMWare.
+“At the end of the day ownership is back on the patient to request that information or store the information as they see fit,” he told HITInfrastructure.com.
+“People don’t want to own their records and that has been proven time and time again if you think about the personal health records that were available to people many years ago.  How many people actually took advantage of it?”
+Patient engagement with personal data is growing, however, as increased out-of-pocket financial responsibility forces many consumers to take a much harder look at their own care.
+READ MORE: By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+Yet even without patients who take the reins themselves, blockchain has the potential to smooth out provider-to-provider data sharing frictions by ensuring that records are accurate, timely, and secure.
+A single, shared, longitudinal record that contains updates agreed upon by all parties could drastically reduce medical errors, uninformed decision-making, and duplicated testing.   
+Ninety percent of medical group managers and IT specialists participating in the survey agree that blockchain could significantly improve connectivity, privacy, and patient record sharing among providers.
+For payers, the enthusiasm is even greater than that – and the action is quicker. 
+Sixty-eight percent of payers expect to integrate blockchain into their data management systems by the end of 2018, compared to just 12 percent of providers who anticipate putting a blockchain-based solution in place by that time.
+Payers stand to gain a number of benefits from the blockchain, including fraud detection, provider credential management, and claims processing. 
+A recent report from Deloitte notes that developing a secure, pre-validated community of approved providers could expedite claims adjudication, develop stronger value-based care contracts, help patients identify in-network providers and clinicians accepting new patients, and slash the $80 billion lost to fraud every year.
+Patient management also stands to benefit from payer investment in blockchain.  By developing a comprehensive, trusted view of the patient and all of his touch points with numerous providers, payers could take an increasingly active role in coordinating care, managing chronic diseases, and matching patients with the preventive services they need.
+Other stakeholders, including life science and pharmaceutical companies, are also eager to bring blockchain into their daily operations. 
+More than 80 percent of life science executives participating in a survey by the Pistoia Alliance said they are also moving quickly to implement blockchain-based solutions, anticipating broad uptake within the next five years.
+From genomic data sharing to pharmaceutical supply chain management, blockchain could help to generate more actionable insight into how therapies are being used and which patients can benefit most from new approaches to care.
+For payers, providers, and additional healthcare entities, the options for bringing blockchain to life are growing. 
+Cross-industry collaborations, such as Hyperledger, are rapidly transforming the theory of blockchain into reality, while healthcare-specific blockchain vendors are growing in number and repute.
+Vendors and developers including PokitDok, Bloq, IBM, Hashed Health, and Guardtime have captured the interest of payers and providers participating in the Black Book survey. 
+Change Healthcare, which includes much of the former McKesson health IT empire, has also recently announced entry into the blockchain ecosystem, giving providers and payers even more options to explore. 
+The company will be leveraging Hyperledger’s Fabric 1.0 release to form the foundations for its offerings.
+Blockchain will likely continue to make a mark in the healthcare industry, offering enhanced data management capabilities that could significantly alter the way payers, providers, and patients interact with data.
+While the methodology is still in its infant stages, strong interest in the distributed ledger system is a promising development for security and interoperability across the care continuum. 
+Tagged Analytics InfrastructureBlockchain in HealthcareHealth Information ExchangeHealthcare Data GovernanceHealthcare InteroperabilityHealthcare Payers
+
+

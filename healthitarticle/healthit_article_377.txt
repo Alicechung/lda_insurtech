@@ -1,0 +1,26 @@
+IBM, JDRF to Apply Machine Learning to Type 1 Diabetes Research
+
+August 21, 2017
+
+By Jennifer Bresnick
+August 21, 2017 - IBM and JDRF, a global organization funding research into type 1 diabetes, have announced a collaboration that will use machine learning techniques to explore new pathways towards an eventual cure for the autoimmune disease.
+The project will leverage IBM’s cognitive computing and machine learning expertise to identify risk factors that lead to the development of type 1 diabetes (T1D) in children, offering new insights into how to target precision medicine efforts to these individuals.
+“Nearly 40,000 new cases of type 1 diabetes will be diagnosed in the US this year. And each new patient creates new records and new data points that, if leveraged, could provide additional understanding of the disease,” says Jianying Hu, Senior Manager and Program Director, Center for Computational Health at IBM Research.
+Dig Deeper
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+Top 4 Machine Learning Use Cases for Healthcare Providers
+By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+“The deep expertise our team has in artificial intelligence applied to healthcare data makes us uniquely positioned to help JDRF unlock the insights hidden in this massive data set and advance the field of precision medicine towards the prevention and management of diabetes.”
+IBM researchers will apply machine learning algorithms to a minimum of three big data sets to help find patterns that may unlock the secret of why certain children develop the chronic, incurable condition.
+Unlike type 2 diabetes, the development and causes of which are much better understood, risk factors for type 1 diabetes are much less well-known.  The disease requires lifelong care and brings the same long-term impacts and potential complications as type 2 diabetes.
+Approximately 1.25 million Americans are currently living with type 1 diabetes.  While scientists believe that genetic and environmental factors are both involved in triggering the disease, they have not yet been able to accurately predict when or if the disease will develop, which primarily happens earlier in life.
+“At JDRF, we are absolutely committed to seeing a world without type 1 diabetes, and with this partnership, we’re adding some of the most advanced computing power in the world to our mission,” said Derek Rapp, JDRF President and CEO.
+The grassroots, international organization has invested more than $2 billion into research and clinical trials since its founding, supporting projects including an artificial pancreas, beta cell replacement, and strategies to improve glucose control in people with T1D.
+The collaboration with JDRF isn’t IBM’s first foray into utilizing machine learning to tackle the question of diabetes.  In 2016, IBM Watson Health announced a long-term partnership with the American Diabetes Association aimed at creating clinical decision support tools for providers treating type 2 diabetes.
+"As the science of diabetes advances, big data presents a tremendous opportunity in diabetes care and prevention. But patients, caregivers and healthcare providers need access to cognitive tools that can help them translate that big data into action, and Watson can offer access to timely, personalized insights," Kyu Rhee, MD, MPP, chief health officer, IBM Watson Health, said at the time.
+IBM has also worked with Medtronic, known for its blood glucose monitoring products, to develop predictive analytics algorithms to spot upcoming low blood sugar episodes before their dangerous symptoms manifest to patients.
+The JDRF collaboration will add valuable data to the healthcare industry’s knowledge of diabetes, especially the less-common type 1 variety. 
+“JDRF supports researchers all over the world, but never before have we been able to analyze their data comprehensively, in a way that can tell us why some children who are at risk get T1D and others do not,” added Rapp. “IBM’s analysis of the existing data could open the door to understanding the risk factors of T1D in a whole new way, and to one day finding a way to prevent T1D altogether.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareChronic Disease ManagementMachine LearningPopulation Health Management
+
+

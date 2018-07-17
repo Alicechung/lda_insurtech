@@ -1,0 +1,32 @@
+EHR Data, Machine Learning Create Cost-Based Clinical Pathways
+
+December 14, 2016
+
+By Jennifer Bresnick
+December 14, 2016 - Healthcare organizations may be able to better identify variations in best practices for chronic disease management by utilizing EHR data and machine learning analytics to combine clinical and cost information, says a new article from Weill Cornell Medical School and Carnegie Mellon University.
+The study, published in the American Journal of Managed Care, details the process of creating clinical pathways for chronic disease care using statistical machine learning algorithms, which can divide patients into risk-based sub-groups based on spending patterns and the evolution of their clinical complexity.
+The resulting data may be able to foster patient engagement and care coordination by giving patients and providers more insight into how to best manage – and pay for – multiple chronic conditions. 
+“With medical cost being such an opaque subject, providers may not have the best guidance strategy for the treatments that they offer to their patients,” wrote authors Yiye Zhang, PhD, and Rema Padman, PhD.
+Value-based care and innovative payment models for chronic disease management are prompting providers to take a more patient-centered approach to treatment, Zhang and Padman said, and require more patient involvement in their own care.  
+By creating step-by-step clinical pathways based on a patient’s anticipated disease development, big data analytics techniques could help providers “achieve accurate predictions of anticipated future events and costs following different clinical and cost pathways for improved shared decision making, and, subsequently, identify appropriate ranges of cost for targeted clinical pathways within a patient population,” says the article.
+Using a sample of 288 patients from Western Pennsylvania with multiple chronic diseases, Zhang and Padman extracted medication information from the electronic health records system at a nephrology practice specializing in chronic kidney disease.
+The patients all had diagnoses of CKD stage 3, diabetes, and hypertension.  They had an average age of 73.4 years, were primarily Caucasian, and experienced an average of 5.5 office visits and 0.4 hospitalizations per year. 
+First, the researchers used machine learning algorithms to group the patients into three clinically-focused subgroups identified through the classes of drugs present in the EHR data. 
+They also divided patients into four spending cohorts based on the costs of their medications using prescription copay prices tailored to regional pricing trends.
+The data revealed a few expected trends: the highest complexity patients tended to spend the most on medications, while less complex chronic disease patients incurred fewer costs. Patients in the middling spending and complexity groups tended to exhibit similar patterns of service utilization and similar numbers of diagnoses.
+Over the two-year study period, patients paid an average of $1032.70 for their medications, but individual costs ranged widely from $0 to more than $18,800. 
+However, the number of unique drugs prescribed to patients in the medium clinical complexity group outnumbered the number of medications in the two central cost groups when patients were sorted by spending data instead.
+There were also a few other notable outliers in the spending data. 
+“Although 97 percent of the high-spending patients were also part of the high-complexity group, 2 patients in the high-spending group— including the patient who spent the most, $18,801.40—were in fact assigned to the medium complexity group,” the authors said.
+“One potential explanation, which needs to be verified by the clinicians, is that there might have been excessive spending of medical resources given these patients’ clinical needs, which are at the medium-complexity level.”
+The researchers also created a unique graph of the clinical pathways experienced by the patient cohort, which clearly illustrates the commonalities between the majority of patients undergoing treatment for similar chronic diseases.
+Starting on the left with initial diagnosis, the larger nodes indicate more frequent clinical visits experience by higher number of patients.  The majority of low complexity and medium complexity patients experience standardized care patterns, while the extended pathways branching off to the right of the image represent patients with more complex needs.
+The nodes are also color-coded by spending level, with the darker dots indicating higher costs.
+While the number of patients included in the study is small, the researchers hope that the information gleaned from combining spending and clinical data can help to inform the ongoing search for data-driven decision support tools that may help to curb spending, coordinate care, and improve outcomes.
+“We envision that an information technology–enabled tool based on the demonstrated methodology, once developed, deployed, and rigorously evaluated, can be used at the point of care by clinicians and patients to discuss available courses of treatment options, consider their potential efficacy projected at the cohort and personal level, and, equally important, build awareness of the costs associated with the entire course of treatment,” said Padman and Zhang.
+“Such tools may also provide policy makers and other stakeholders at healthcare practices access to data-driven evidence for innovative cost analyses.”
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+The Role of Healthcare Data Governance in Big Data Analytics
+Tagged Chronic Disease ManagementClinical AnalyticsEHR AnalyticsHealthcare SpendingMachine Learning
+
+

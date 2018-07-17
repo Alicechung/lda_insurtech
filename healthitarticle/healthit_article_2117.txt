@@ -1,0 +1,18 @@
+Performance analytics for residents help quality benchmarking
+
+January 13, 2014
+
+By Jennifer Bresnick
+January 13, 2014 - Clinicians at Vanderbilt University School of Medicine are currently evaluating the effectiveness of automated, real-time feedback system that extracts EHR data that provides performance reports for anesthesia residents.  By examining how often documentation reflects routine tasks like antibiotic administration and glucose monitoring, supervisors can determine the quality of care provided by trainee physicians and target areas for improvement.
+Researchers incorporated scoring logic into the hospital’s perioperative information management system to flag a series of metrics that gauge the quality of care.  Individual performance reports, compiled and published at midnight each day, can be viewed by the trainee and the program director through a secure website.  A visualization of the report includes hyperlinks to the documentation associated with cases that showed a failure to meet quality standards, the study says.
+The data can also be plotted over time and aggregated to show statistics for the entire class or the whole program.  “This type of near-real-time detailed feedback will be critical to help residents evaluate their practice and provide pathways for improving care,” said Matthew McEvoy, MD, one of the study authors and Vanderbilt’s residency program director.
+When surveyed about the impact of the tool, 48% of residents strongly desired frequent individual performance reports, and also wanted to know how they compare to their peers and their faculty advisors.  Ninety-one percent were eager to receive feedback every few weeks, and 90% believed that they could indeed improve in at least one area measured under the program.
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+ECRI: “Most If Not All” Patient Identification Errors Preventable
+How Big Data Velocity Informs Population Health, Patient Safety
+“Since its implementation, this resident performance evaluation system has required minimal ongoing effort,” the study notes. “It provides continuous benefits to our training program and resident trainees with respect to assessment and professional development. The strengths of this system are its ability to provide objective, detailed data about routine clinical performance and its ability to scale in both the level at which the metrics are evaluated and the number of metrics evaluated.”
+While the study has not evaluated the impact of the reports on measurable quality improvement among the residents, the tool has potential to provide an analytics portrait of internal operations for quality improvement purposes across a variety of healthcare organizations.  “Although this project has just begun and multiple future investigations concerning its validity, reliability, and scope must be completed to evaluate its effectiveness,” the study concludes, “this use of the EMR should function as one valuable piece in the milestones puzzle.”
+Tagged Clinical AnalyticsClinical DataHealthcare Business IntelligenceHospital QualityPatient CarePatient SafetyQuality Of Care
+
+

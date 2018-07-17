@@ -1,0 +1,33 @@
+What Is The Testnet?
+
+September 20, 2017
+
+EON Blockchain Testnet Will Be Launched On October 4th! Here Is A Brief Description Of What The Testnet Actually Is And What To Expect At Launch.
+
+ What is the testnet?
+
+ The testnet is an early version of EON blockchain. Its starting functionality includes four main types of transactions: Account registration; Coin transfer; Adding deposit; Deposit withdrawal.
+
+ Why do we need the testnet?
+
+ It is needed for open public tests of the functionality, and introduction of new features to users. After some time the changes will be applied to the main net.
+
+ How the functionality of the EON will be extended?
+
+ The functionality will be extended within the frameworks of planned hard forks. A hard fork is a scheduled network update point. At this moment new functionality is introduced into the net. Before the hard fork all the peers should be updated to the current version. If the peer was not updated it stops participating in the block generation until it is updated.
+
+ Characteristics of the testnet coins:
+
+ Coins circulating into the testnet have no real value and are for testing purposes only. Every user may request them for free. They are invalid in in the main net and can be neither transferred, nor used there. We plan to create a special portal where users can request coins.
+
+ What will happen at launch?
+
+ During the testnet launch we will start a set of peers on our servers, issue a basic client to send transactions and publish the code. At the start the functionality available for the users will be limited to transactions testing. The net will only accept the peers launched by us. We need this to test the net under restricted conditions first, to make sure everything works right. At the initial stage users will be able to launch the peer, their peer will connect to the net, but the blocks they generate will not enter the net.
+
+ Simply put, they will see what is happening in the net, but the net will not see them. At the same time, if a user sends a transaction to our peer, the transaction will be processed by our peer and in case it is correct it will be distributed to the net in order to be included in the block.
+
+ At the next stage the net will accept other peers too and users will be able to take part in block generation.
+
+ Inna Goncharova, PR Director Exscudo https://exscudo.com/
+
+

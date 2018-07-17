@@ -1,0 +1,20 @@
+Vectra AI-based Cybersecurity Solution Integrates With CrowdStrike
+
+01 Mar 2018
+
+Combines Network and Endpoint Intelligence for Quick Decisive Action, Shortening Time And Streamlining Process To Detect, Prioritize, Investigate And Respond to Cyberattacks
+Vectra today announced a significant technology partnership with CrowdStrike that integrates two authoritative views of a cyberattack – the network and the endpoint. Together, Vectra Cognito and CrowdStrike Falcon Insight™ create an efficient security operations workflow that reduces response and investigation time, enabling security teams to quickly mitigate high-risk threats.
+CrowdStrike Falcon complements network-based threat detections from Vectra by providing rich contextual data about specific devices that are under attack in the network, including machine name and operating system. With comprehensive endpoint context, IT security teams can quickly identify malicious processes on the endpoint and respond quickly.
+“Every day is a race to stay ahead of threat actors,” said John Shaffer, CIO at Greenhill, a leading independent investment bank. “We need the best and fastest way to pinpoint attacker behaviors on the network and immediately shut down attacks on the endpoint. Vectra gives us a head start in the network and CrowdStrike speeds across the finish line at the endpoint.”
+The Vectra integration with CrowdStrike empowers joint customers with:
+Comprehensive detection – Monitor both network and endpoint activity to find attackers
+Rapid triage –Integrated context from network and endpoint enables analysts to quickly assess potential threats and determine the proper course of action
+Streamlined remediation – Enables efficient workflows to contain and mitigate attacks through a one-click pivot between consoles to kill suspect processes or quarantine a host to stop any in-progress attack that meets specific requirements
+Kevin Kennedy
+“Enabling Cognito to interoperate with other best-in-class products makes our customers more secure, which is why we invest in and promote an open ecosystem,” said Kevin Kennedy, Vectra vice president of product management. “Integration with CrowdStrike combines valuable context from the network and the endpoint to paint a comprehensive picture of an active cyberattack. Joint customers can view endpoint context directly in the Cognito UI and take immediate action to mitigate the threat, eliminating the manual pivoting between consoles that takes up valuable analyst time and slows response.”
+Cognito automates the hunt for hidden cyberthreats by continuously analyzing all network traffic to detect attacker behaviors inside the network. In addition to automatically correlating detected threats with host devices that are under attack, Cognito provides unique context about what attackers are doing and prioritizes threats that pose the biggest risk. Using artificial intelligence (AI), Cognito combines data science, machine learning and behavioral analytics to reveal attacker behaviors without signatures or reputation lists.
+With only a single, lightweight endpoint agent, the CrowdStrike Falcon Insight module enables customers to record everything, hunt for threats, and perform real-time and historical searches on endpoint information, as well as respond to threats and contain suspect hosts. Combining the unique threat detection approach of Cognito with context from CrowdStrike Falcon Insight enables security teams to quickly focus their time and resources on preventing or mitigating loss.
+Matthew Polly
+“Integrating Vectra’s network-based attack detections with CrowdStrike’s industry-leading cloud-delivered endpoint protection provides our customers with new levels of efficiency in security operations,” said Matthew Polly, CrowdStrike vice president of worldwide alliances, channels, and business development. “The integrated solution reduces the time to detect, prevent and resolve threats, and the ease of use of the combined SaaS solution offerings turn the legacy vendors in the market on their head.”
+
+

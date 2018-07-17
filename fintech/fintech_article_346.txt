@@ -1,0 +1,31 @@
+GDPR and algorithms: will we be paying for the risk we represent?
+
+March 6, 2018
+
+by Colin Gray, principal consultant SAS UK & Ireland
+
+  As we progress into 2018, the General Data Protection Regulation (GDPR) is looming on most organisations’ radar. The requirements are becoming clearer, but there is still some ambiguity about precisely what needs doing. There is, however, no question that algorithms are an area of concern, and in particular, whether their effects are clearly understood — and more importantly, are fair.  In this post, I want to discuss the nature of risk and how algorithms use an assessment of risk to determine the price individuals pay.
+
+ The case of motor insurance
+
+ Let’s use motor insurance as an example, around 5%–10% of policyholders will claim each year, which means that 90%–95% of policyholders won’t claim. The claims are spread across all policyholders. We know that certain drivers pay more than others; young drivers, drivers with previous claims, those with expensive cars. Actuaries identify the factors most strongly correlated with accidents and set the premiums accordingly. Given that most people won’t have an accident in any given year, is it fair to charge different premiums?
+
+ You could argue that some of the factors used are inherent, such as age, other factors are more choice-based; where you live, how fast you drive, the cost of your car. What would it mean if the regulations said that everyone had to be charged the same premium?
+
+ In practice, therefore, drivers wouldn’t be paying for the risk they represent. There would be subsidies across these groups, which as a society, we may or may not be happy with.
+
+ However, I think we should be more concerned about second-order effects, that is, drivers are not being charged — some might call it penalised — for their risky behaviour or risky characteristics. This could encourage some drivers to take greater risks, knowing that the cost would be shared with others, and they would not personally face any financial penalty. There is very little question that the number of accidents and ultimately deaths would go up. This is presumably not something that we would want.
+
+ Algorithms as a force for good
+
+ I’m not suggesting that the regime above is being proposed by GDPR, far from it. I am just noting that algorithms (in this case pricing models) are used to make sound financial decisions that benefit society. Removing the ability to distinguish levels of risk in the interests of ‘fairness’ may have unforeseen or unexpected consequences.
+
+ We’ve only considered the insurance industry, but the same could be applied to other industries like credit lending. A single price regime would probably increase the number of business failures and individual defaults, because it could encourage high-risk individuals and businesses to apply for credit.
+
+ Algorithms aren’t exact — they can’t (yet) distinguish completely between those who will have an accident and those who won’t and I’m not sure we’d want them to anyway as this could create a class of uninsurable drivers. They do, however, help to spread risk across multiple groups, in a relatively equitable manner. They can be used to penalise high-risk behaviours that are detrimental to society, and therefore, hopefully, reduce those behaviours. Equally, like any tool, they can be misused and exclude sections of society and prevent people from fully participating.
+
+ As analysts, data scientists and statisticians, we need to know the difference — and we need to ask the right questions to make sure that organisations are doing the right thing.
+
+ 
+
+

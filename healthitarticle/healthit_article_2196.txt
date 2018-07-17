@@ -1,0 +1,19 @@
+Blue Button Codeathon winners track disease, financial data
+
+November 15, 2013
+
+By Jennifer Bresnick
+November 15, 2013 - This year’s Health 2.0 San Francisco Codeathon harnessed the power of the successful Blue Button data sharing initiative to bring a new suite of patient-facing tools to fruition in 36 hours or less.  In partnership with the Office of the National Coordinator, OptumHealth, Valedic API technology, and VivaPhi communications, developers were challenged to create an application that could boost patient engagement through the use available health data within two solid days of coding and collaboration.
+“Liberating patient data, or making information from data holders such as insurance companies and health care providers easily available to patients, through Blue Button will require strong partnerships between a variety of players: health care professionals, the government, patients, and the innovation community,” writes Public Health Analyst Maya Uppaluru on HealthIT Buzz.  “The winning submissions reflected a diverse mix of applications that can make a real difference in patients’ lives, giving them the tools they need to manage care for themselves and their families.”
+There were two broad groups of winners: those that collected and used patient-generated data to track diseases and ongoing care requirements, and those that used financial and clinical data to better explain to patients their costs and financial responsibilities to providers and payers.
+The first group of successes included Light Hearts, which creates a congestive heart failure care plan for patients after discharge, paying special attention to patient engagement through mHealth devices and strategies to prevent readmissions, and Patient Watch, which connects readings from portable monitoring devices to a provider’s EHR in order to alert physicians of possible adverse events.
+Dig Deeper
+New Collaboration to Support Diabetes Prevention, Management
+Cerner, Epic to See Improvements in EHR Patient-Reported Outcomes
+CMS Picks Care Coordination Hubs for Accountable Health Program
+In the financial and benefits category, the winners included “WTF! Denied?” which extracts data from a patient’s explanation of benefits to help illustrate and resolve financial problems, and MintMD, which draws healthcare spending information from multiple sources to show all pending and completed costs in one convenient place to help patients better manage their care.
+“The project was motivated by my own personal experience as a patient with many EOB documents seeking to manage costs,” said Jean-Ezra Yeung of MintMD.  “Codeathons with well-defined problems and use cases can help those with the business and technical know-how to create products that can add value to society.”
+“The goal of the Blue Button initiative is to empower patients to download their health information in both a human and machine-readable format, and support developers with standards and guidance to create patient-facing technology,” Uppaluru added.  “These creative tech solutions demonstrate what can happen when health innovators have the tools they need to make their ideas a reality, and help us envision a future where all patients have control over their own data.”
+  Tagged Accountable CareEHR Patient DataFinancial AnalyticsGlobal mHealthPatient CareQuality Of Care
+
+

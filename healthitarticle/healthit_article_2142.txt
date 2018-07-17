@@ -1,0 +1,25 @@
+Risk score roundup: How EHR analytics are changing healthcare
+
+December 24, 2013
+
+By Jennifer Bresnick
+December 24, 2013 - For many patients, the simple act of having a condition identified and addressed by a healthcare professional is a Christmas miracle.  Patients who suffer from depression, domestic abuse, and other underdiagnosed conditions often don’t receive the treatment they need in time to do the most good.  EHRs are helping to change that by providing easily analyzed data and revolutionizing the way physicians and nurses ask questions.  Here are some of the latest advancements in predictive algorithms and simple risk scores that can flag potential issues like never before.
+HARM score predicts colorectal surgery quality and outcomes
+Hospitals that received a low rating of 2 on the HARM scale had a mean complication rate of 30.3% for emergent cases and 15.2% for elective surgeries.  For hospitals with scores above 4, those complication rates nearly doubled to 56.6% for emergent patients and 35.6% for elective procedures.  The strong correlation revealed by the study showed that the three variables used in the risk score are the most important predictors of hospital quality for colorectal surgeries, and is likely applicable to other procedures as well.
+EHR data reveals multiple sclerosis patients from routine information
+Dig Deeper
+EHR Data, Machine Learning Create Cost-Based Clinical Pathways
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+A combination of ICD-9 codes, natural language processing, and medication analysis has led researchers from Vanderbilt University to a series of algorithms with an 87% precision rate in identifying key clinical traits of patients with multiple sclerosis (MS).  Using the deidentified data of more than 5000 patients, the team was able to extract information on the clinical course of MS in individuals, which can be used for further study of the highly variable and unpredictable disease.
+Breast cancer research and treatment gets a boost from genomics
+“Genomics is the new frontier of cancer research, and this study shows that we may be able to accurately determine what treatment methods will and will not be effective for individual patients after just one dose of medicine,” said Lyndsay Harris, MD, study investigator and Director, Breast Cancer Program, UH Seidman Cancer Center and Professor of Medicine at Case Western Reserve University School of Medicine. “The ability to understand potential clinical outcomes for patients earlier in the treatment process would provide physicians with better opportunity to personalize patients’ medicines according to their own tumor responses.”
+Single question flags patients six times more likely to commit suicide
+New research from the Group Health Research Institute has shown that one single question from a simple depression survey can accurately identify patients six times more likely than their peers to attempt self-harm or suicide. By analyzing the EHR data of more than 84,000 patients with depressive symptoms, Gregory E. Simon, MD, MPH, and his team found that responses to one item on the standard Patient Health Questionnaire for depression (PHQ-9) flagged patients who were significantly more likely to attempt suicide than those who had no suicidal ideation.
+Screening tool identifies intimate partner violence in minutes
+Researchers from Boston University Medical Center and the Department of Veterans Affairs have developed a screening tool to identify women suffering from intimate partner violence (IPV), which often produces high incidences of depression and PTSD among its victims.  Using EHR data from 700 women in the Boston Veterans Health Administration system, the study found that nearly 29% of participants had experienced physical, sexual, or severe psychological abuse in the previous year.
+At-home risk score might reduce appointments for strep throat
+“Using the home score could empower patients to make informed decisions about their medical care by contributing information about their symptoms,” says Andrew Fine, MD, MPH, and Kenneth Mandl, MD, MPH, of Boston Children’s Hospital. “Integrating local epidemiologic context with the symptom information permits calculation of a personal, local risk of strep throat.”
+Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsHealth Data ManagementHealthcare Analytics
+
+

@@ -1,0 +1,72 @@
+How AI Can Cut Costs, Uncover Hidden Opportunities in Healthcare
+
+April 24, 2018
+
+By Jennifer Bresnick
+April 24, 2018 - In what seems like just a matter of months, artificial intelligence has become the number one topic of discussion in the health IT industry. 
+Machine learning, neural networks, deep learning, and natural language processing suddenly seem to be at the core of every imaginable technology, from electronic health records to patient-facing chronic disease management apps.
+Enthusiasts believe that artificial intelligence has immediate applications across the entire healthcare system, and vendors have been working at a feverish pace to create offerings that leverage the latest and greatest in AI to satisfy a hungry marketplace.
+But developing an artificial intelligence tool that can reliably and accurately solve some of the most pressing problems in patient care requires months or years of research, data curation, testing, and validation.
+At the 2018 World Medical Innovation Forum hosted by Partners Healthcare, attendees got a first-hand look at exactly what it takes to create an AI-driven tool that can identify hidden opportunities to improve patient safety, avoid unnecessary spending, and enable providers to deliver the best possible care in the most efficient manner.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+The three-day event opened with an extensive showcase of early-stage researchers developing a broad range of tools and algorithms directed at solving concrete problems in patient care, including real-time analytics of EHR data and surgical processes.
+Each of the 19 researchers focused on their own unique areas of clinical interest, but all were thematically aligned around the pressing concerns of reducing the high costs and negative patient experiences that stem from treatment uncertainty, trial-and-error medicine, and an inability to access meaningful insights at the point of care.
+“Despite all the progress we’ve made over the past century, there is still a tremendous amount of scientific uncertainty,” said Maulik Majmudar, MD, Associate Director of the Healthcare Transformation Lab at Massachusetts General Hospital (MGH).
+“Only about 20 percent of all medical decisions are actually based on high-quality evidence.  According to a 2004 RAND Corporation study, ab out half of all medical decisions are wrong or suboptimal.”
+Majmudar, who is also an assistant professor of cardiology at Harvard Medical School (HMS), presented his work on a natural language processing (NLP) platform that enables automated, real-time querying of electronic health records.
+READ MORE: Consumers Support AI in Healthcare More than Other Industries
+“Smart Rx is a software engine that enables customizable, real-time, semi-automated querying of the electronic health record,” he said.  “It uses NLP to understand the context and extract information from structured and unstructured fields including progress notes, to make the information visible and actionable.”
+The healthcare system is currently missing a point-of-care tool that can help individual providers assess gaps in quality while also enabling broader insights on evidence-based medicine across the care continuum, he said.
+Smart Rx includes a web-based dashboard for querying clinical data.  The dashboard allows the user to select tailored cohorts of patients, search and extract data, and visualize the results. 
+Users can choose to include specific variables, including lab tests, demographics, or procedures, that can help illuminate issues around therapeutic appropriateness or risk management.
+“We’ve been very creative about using both open source and proprietary NLP engines to support our work,” said Majmudar.  “The goal is around the implementation and deployment of this technology on the front lines of care in addition to building customizable querying engines.”
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+Majmudar also envisions that the tool could reduce the manual burdens of creating patient registries for population health management.
+“At MGH, we have probably more than 100 FTEs across all departments and divisions who manually, for the most part, enter data for registries.  A platform like this can automate a lot of that work.”
+The front end of the engine is complete, and a FHIR-based compatibility function to allow connections to many different EHR vendors is next on the agenda.
+Several of the other presentations also focused on improving data management and highlighting the potential to deliver the most appropriate treatments to patients without overspending on unnecessary procedures or tests.
+Laboratory tests are some of the most common services performed by providers.  While each individual service can be relatively low-cost, the sheer volume of tests conducted every year across the entire healthcare system is staggering, said Ziad Obermeyer, MD, Assistant Professor of Emergency Medicine at Brigham and Women’s Hospital.
+“We can’t test everyone – but from the outside, it might look like we sure do try to test everyone,” he said.  “We do hundreds of thousands of tests every year, but when you follow up with these patients, there was no change in the care that they received for cardiovascular events in more than 95 percent of cases.”
+Physicians typically order tests to gain more insight into how to diagnose or treat an individual, but there is little information available about how to ensure that the right patients are receiving the right amount of testing.
+“Low risk patients are getting over-tested, and high risk patients aren’t getting tested enough,” asserted Obermeyer.  “In Boise, Idaho, for example, they test everyone less, including the high-risk patients.  In Boston, we test everyone more.”
+“The fact that nobody is getting this balance right is the key to seeing how an algorithm can do so much better.  If an algorithm was making the decisions, we could cut tests by about 40 percent and still find about as many patients who will go on to have cardiovascular interventions.”
+Machine learning can conduct the large-scale data analytics that are necessary to put tests into context, understand the results, and recommend next steps, he added.
+“When I think about all the data I need to integrate in my head to make this decision and test the right patients…we know a lot about the human mind, and one of the things we know is that this kind of task is not a very good fit for our cognitive hardware,” he said.
+“Algorithms can show us where and on whom doctors are making mistakes.  As we look at more and more tests through this lens, we’ll find these patterns for a lot of tests that affect millions and millions of patients.”
+Obermeyer’s work centers on identifying opportunities to avoid low-value testing while ensuring that higher risk patients are diagnosed and managed appropriately. 
+In addition to reducing costs for individuals, the strategy could help support value-based care and “precision pricing” based on personalized assessments of necessity.
+Artificial intelligence can further target care to the right patients at the right time by predicting the needs of patients who may not even know they should be receiving treatment for an undiagnosed concern.
+Turning pattern recognition into speedy action is a key component of leveraging AI, said Dr. Jason Baron, Medical Director of the Core Laboratory at MGH and an assistant professor at Harvard Medical School.
+“I’m sure most of you have had the experience of getting a call from your credit card company telling you there has been suspicious activity on your account,” he said. 
+“Perhaps the caller tells you that your card was used last night to make a $129 purchase at BestBuy.  As you tell the caller it wasn’t you who made that transaction, you wonder how they were able to suspect fraud – what was happening behind the scenes?”
+“Do you picture someone from the credit card company sitting in a cubicle sifting through thousands of credit card transactions trying to spot the fraudulent one?  Of course not.  You know that computers are involved.  But despite how ridiculous it sounds that someone at the credit card company would be doing that work manually, that’s exactly what we expect of physicians when interpreting laboratory test results.”
+A patient’s record may include hundreds or thousands of lab results over many years.  The results are interrelated and, as Dr. Obermeyer pointed out, humans are not optimally equipped to synthesize such complex datasets.
+Using artificial intelligence to analyze patterns in existing – and missing – lab test results could help predict easy-to-miss conditions like iron deficiency, Baron posited.
+“Ferritin is a marker of an individual’s iron stores,” he explained.  “Patients with iron deficiency tend to have low ferritin results, but ferritin must be interpreted in the context of other tests.” 
+“We can see from this color-coded image that when ferritin is low, other common lab tests tend to be correlated with it, either positively or inversely. So can we predict what the ferritin would be based on the patterns we’ve found with these other tests?”
+Source: WMIF
+Using a two-stage imputation procedure, Baron and colleagues found that the answer to that question is “yes.” 
+With a best area under the curve (AUC) of .964, the system was able to accurately predict when an individual would have a low or average ferritin result based on surrounding data.
+The tool could help improve care delivery in several ways.  In addition to alerting providers to hidden iron deficiencies when a ferritin test is not performed, the system could help identify when specific ferritin results are likely to be anomalous based on an individual’s more comprehensive history. 
+AI can also help equip providers with actionable, timely data in the acute care space.  Surgical care for cancer is extremely complex and requires as much real-time guidance from imaging and analytics tools as possible, said Nathalie Agar, PhD, a neurosurgery research scientist at Brigham and Women’s and an associate professor at Harvard Medical School.
+Real-time surgical guidance from mass spectrometers, supported by a core of artificial intelligence, can help surgeons get even more precise when removing solid tumors, especially in the brain.
+“Currently, the surgical workflow involves the biopsy of the tumor at the beginning of surgery,” said Agar.  “The piece of tissue is usually sent for frozen section analysis, which typically takes 30 minutes and provides limited information about what the tissue might be.  Once the surgeon has confirmation that it’s an operable solid tumor, they can proceed with the operation.”
+At Brigham and Women’s, the availability of an MRI machine in the operating room itself allows surgeons to get even more feedback about how the surgery is progressing, she continued.
+“Thanks to the Advanced Multimodality Image Guided Operating Suite (AMIGO), we have an intraoperative MRI, so the surgeon can assess if the surgery is complete.  But it takes at least 60 minutes to acquire the MRI, so we can only do it once.”
+Source: WMIF
+Brigham and Women’s added a mass spectrometer to its AMIGO equipment several years ago, which allows surgical providers to characterize tissue in near-real time.    
+“We can acquire molecular information on a time scale of seconds.  We can now ask many questions during surgery and repeat the analysis as often as the surgeon requires,” said Agar.  “It’s an extremely sensitive analytical platform.”
+Using machine learning to analyze mass spectrometry data can also add another dimension of insight for surgeons, she said. 
+“Over the past 10 years, we’ve been acquiring reference data on a number of brain tumors and have looked at classifiers using different machine learning algorithms that we can now apply to classify new data and visualize the results over a segmented MRI image,” she said.
+“You can overlay the mass spectrometry data over an MRI image to get a better idea of where the tumor is and what its limits are.”
+Mass spectrometry data can also identify different drug uptake levels within specific cell types, which can help understand how well drugs are penetrating into tissues and therefore how effective they may or may not be for a patient’s unique tumor cells.
+A better understanding of tumor structure, type, and behavior during surgery can ensure that surgeons are removing all of the problematic tissue, potentially reducing the need for additional surgeries or other treatments.
+As a result, patients may avoid future costly and invasive procedures while having a better chance of surviving their cancers.
+Agar and her colleagues have already reached the clinical implementation stage for glioma, a type of brain cancer, and are working to clinically validate the process for breast cancers.  The team is also working to identify markers for other types of brain cancer, as well as melanoma and non-melanoma skin cancers.
+Eventually, the strategy may allow for continuous monitoring of the entire surgical cavity, giving surgeons much more detailed visibility into how to best approach complicated tumors.
+As these research projects – and countless others at institutions across the country and around the world – mature into fully-fledged tools, artificial intelligence will truly expand its reach into every aspect of patient care. 
+As a result, healthcare organizations and their patients may find more efficient care processes that produce better diagnoses with less waste, producing higher rates of satisfaction and success on both sides of the patient-provider relationship. 
+By using artificial intelligence to augment and enhance the skills and cognitive abilities of healthcare providers, these tools have the clear potential to improve outcomes while driving negative variability and waste out of the care continuum.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareMachine LearningValue Based CareWorld Medical Innovation Forum
+
+

@@ -1,0 +1,19 @@
+Data triage is critical for effective storage strategies
+
+September 11, 2013
+
+By Jennifer Bresnick
+September 11, 2013 - The cloud is a very popular place to be these days, especially when you’re talking about huge volumes of data calculated in terabytes and petabytes.  Offloading the storage to a contracting company that specializes in data management is a great strategy for smaller systems or those just entering the analytics ecosystem, but a large health system like Intermountain, a 22-hospital chain based in Salt Lake City, has more complex needs.  Sorting data by anticipated accessibility allows lower-cost storage and better use of intelligent analytics programs that rely on the best data available as quickly as possible.
+Don Franklin, Assistant VP of Infrastructure and Operations, explains to Healthcare Informatics that triaging incoming data based on accessibility needs helps the system store, locate, and retrieve data in an effective and streamlined manner.  Intermountain currently manages nearly 5 petabytes of data, or five million gigabytes, and expects that number to grow at almost 30% per year.
+“This is not a new phenomenon for us,” Franklin said. “Intermountain is well known for its data analytics, for its massive amount of data and for managing that data.”  But cloud storage doesn’t form a significant part of Intermountain’s data storage strategy, he says, due to the privacy implications of off-site facilities.  “We are focused on the patients and on protecting their data, so we are very conservative about moving data to the cloud,” he explains.
+Instead, the health systems focuses on a tiered data storage strategy that relies on manual triage, sorting the data into different storage media based on the speed of retrieval necessary for that particular set of information.  This saves costs by using less expensive storage methods for older or less vital data while keeping the most frequently-accessed information up front and ready for retrieval.  While Intermountain is exploring the use of auto-triage systems to further streamline the process, keeping the sorting manual is presently the safest way to go.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+48% of Businesses, Including Healthcare, Face Big Data Skills Gap
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+Organizing infrastructure around the necessity and immediacy of data also helps builds a core of data availability that aids intelligent semantic networks in the speedy retrieval and processing of clinical or financial information by eliminating the traditional data silos that prevent decision support systems and predictive analytics from working effectively with the best information available.
+“This vast and growing medical information that represents increasingly complex relationships and dependencies presents a seemingly impossible situation,” asserts Jivendu Biswas, Senior Manager at Wipro Technologies. “Most of the current analytics implementations are in silos and hence fail to capture the holistic picture, which at times lead to erroneous decisions and actions.”  Organizing data into tiers keeps the less important or older information out of the way, leaving analytics programs free to trawl through relevant data more quickly, providing clinicians and HIM professionals the answers they need on a real-time basis.
+“For analytics to be effective, we have to make decisions and take actions based on integrated, relevant and timely information in a holistic manner,” says Biswas. “With the right information, at the right time, for the right person, we will be able to make a dramatic positive impact on our ability to provide better healthcare outcomes with lower costs and improved patient satisfaction, with highest levels of compliance.”
+Tagged Analytics InfrastructureBig Data AnalyticsData StorageHealth Information ManagementHealthcare Data AnalyticsHealthcare Data Strategy
+
+

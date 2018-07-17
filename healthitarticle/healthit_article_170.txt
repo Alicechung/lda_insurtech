@@ -1,0 +1,32 @@
+Precision Medicine Rises, Data Management Still a Barrier
+
+March 09, 2018
+
+By Jessica Kent
+March 09, 2018 - Precision medicine adoption is on the rise in healthcare organizations, with leaders interested in applying these initiatives to new disease areas with the help of additional data sources. Even so, many entities still lack the data management skills to implement precision medicine strategies.
+In a survey sponsored by Oracle and conducted by GenomeWeb, researchers found that the majority of organizations have either implemented precision medicine strategies or are in the process of doing so.
+Sixty percent of hospitals and medical centers said they have an active precision medicine initiative in place, while 74 percent of reference and clinical labs said the same.
+Dig Deeper
+Precision Medicine, Big Data Partnerships Will Enhance Treatment
+Precision Medicine, Big Data Analytics Intersect for Better Care
+Precision Medicine, Genomics Require Strong Data Governance
+Seventeen percent of both hospitals and clinical labs said they are in the process of developing such initiatives.
+While oncology is still considered the disease area where precision medicine will have the greatest impact, organizations are interested in applying these initiatives to other areas as well.
+Nearly 30 percent of participants said cardiovascular disease and neurology are included in their precision medicine strategies, while just over 20 percent said they have included genetic counseling and infectious disease care.
+Next-generation sequencing remains the most widely used data type in precision medicine. However, the survey showed that organizations are starting to examine additional data types to advance their precision medicine strategies, including whole-genome sequencing and single-gene tests.
+Organizations are increasingly turning to artificial intelligence (AI) and machine learning techniques to maximize the potential of these large datasets.
+Fifty-seven percent of respondents said they are either investigating options for incorporating AI and machine learning or have these efficiencies as part of their initiatives already.
+Almost 80 percent said they expect that AI and machine learning will help their organizations identify new insights and improve treatment recommendations, while 75 percent said they expect these initiatives will increase data mining efficiency.
+Researchers noted that additional datasets will be valuable for precision medicine advancement but may also introduce organizations to new data management challenges.
+Data management and storage were ranked among the top obstacles participants currently face when trying to achieve their precision medicine goals.
+Additionally, of those respondents who said they have no plans to pursue a precision medicine initiative, 24 percent cited insufficient technical infrastructure as their most significant barrier.  
+“Precision medicine is vital to advancing medicine, and critical to its success is the underlying technology needed to manage the large volumes of data it requires,” Oracle Health Sciences Global Vice President Andy Alasso said in a statement.
+“The findings revealed that while there is widespread interest in using more complex and diverse clinical and genomics data, there is also anxiety among researchers about deficiencies in their current technical infrastructure to handle such data.”
+Although there are technological challenges to precision medicine adoption, the majority of organizations recognized its potential benefits, even among those who aren’t planning a formal precision medicine initiative.
+Only 18 percent said they aren’t planning such an initiative because they don’t believe it would benefit their businesses. Sixty-two percent said they are still interested in monitoring the field for opportunities to participate, even though they have no formal plans in place.
+The survey results show that organizations expect many benefits to come from precision medicine programs, and that overcoming data management issues will be key to realizing these benefits.
+“The industry will need to look toward technology to help create an integrated data stream to guide precision medicine initiatives,” the researchers wrote.
+“Considering the results of this survey, it is clear that precision medicine is not just a promise, it is a real practice generating true value that is impacting patient care and outcomes today.”
+Tagged Data StorageHealth Data ManagementHealthcare Data MiningPrecision Medicine Initiative
+
+

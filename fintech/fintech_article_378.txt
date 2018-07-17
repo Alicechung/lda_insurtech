@@ -1,0 +1,35 @@
+FINMA publishes ICO guidelines
+
+February 17, 2018
+
+The Swiss Financial Market Supervisory Authority (FINMA) published a set of guidelines on how it intends to apply financial market legislation in handling enquiries from ICO organisers. The guidelines also define the information FINMA requires to deal with such enquiries and the principles upon which it will base its responses, creating clarity for market participants.
+
+ FINMA CEO Mark Branson sees these guidelines as a way of helping Blockchain
+
+ technology successfully enter Swiss markets, noting that Blockchain companies “cannot simply circumvent the tried and tested regulatory framework”. He stated in the press release for the guidelines:
+
+ “Our balanced approach to handling ICO projects and enquiries allows legitimate innovators to navigate the regulatory landscape and so launch their projects in a way consistent with our laws protecting investors and the integrity of the financial system.”
+
+ According to FINMA’s press release, the creation of the guidelines was prompted by an increasing number of ICOs taking place within Switzerland, in conjunction with the lack of clarity about how or whether they should be regulated, noting that “[c]reating transparency at this time is important given the dynamic market and the high level of demand.”
+
+ FINMA writes that currently there is currently no ICO-specific regulation in place or “consistent legal doctrine” for handling ICOs in the country.
+
+ In order to assess future  ICOs and determine which laws apply, FINMA says it will break ICO tokens into three categories: payment tokens, utility tokens, and asset tokens.
+
+ Global regulation of ICOs has been uneven, with China at one end of the regulatory spectrum banning all ICOs in the country in 2017, while others like Singapore and Australia have provided ICO guidelines designed to support ICOs in line with existing legislation, similarly to FINMA’s proposal.
+
+ Most ICO regulation globally comes with a warning to investors about the potential of encountering fraud when participating in this relatively new fundraising approach. FINMA’s press release ends by drawing attention to the risks associated with ICOs in terms of the market’s price volatility and the potentially uncertain legal nature of contracts made with Blockchain technology.
+
+ Expert opinion
+
+ Gordon Einstein, CryptoLaw Partners
+
+ The documents issued by FINMA are not actually “regulations”. Rather, they are guidelines setting forth how FINMA intends to interpret the financial regulations for which it is responsible. The general idea is that FINMA receives enquiries requesting guidance from parties who are contemplating ICOs. FINMA then evaluates those enquiries and may provide guidance.
+
+ There are two significant aspects to the guidelines.
+
+ First, FINMA broadly states that there are 3 kinds of tokens. These are payment, utility and asset. These categories are not mutually exclusive (something can be a payment token and an asset token). Payment tokens are essentially cryptocurrencies. Anti-money laundering rules would apply to them. Utility tokens are essentially the right or license to use a digital service or platform. Assuming that the service or platform is usable the time of the token sale, FINMA does not have much to say about utility tokens. Asset tokens are essentially securities and will be treated as such.
+
+ Second, FINMA provided a useful appendix titled “Minimum information requirements for ICO enquiries”. The appendix is constituted of a structured series of groups of relevant questions (e.g., “Are there any restrictions regarding investors?”). This framework is helpful because it provides startups with clear guidance with respect to the basic information which FINMA will require before providing guidance. I also think that FINMA is (wisely) using this as a mechanism to learn more about the evolving ICO environment.
+
+

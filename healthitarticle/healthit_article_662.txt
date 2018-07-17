@@ -1,0 +1,85 @@
+Using Business Intelligence, KPIs for Revenue Cycle Management
+
+December 05, 2016
+
+By Joncé Smith
+December 05, 2016 - The healthcare industry’s transition to value-based care does not end with clinical patient care. The shift also extends into healthcare providers’ revenue cycle management processes. For effective claims management within the new care landscape, organizations can and should utilize key performance indicators (KPIs) with insights from business intelligence (BI) tools to identify potential improvement areas for operational change.
+Part one of this two-part series centered on why a wide project focus can lead to significant improvement within the claims management process. Part two of this two-part series will provide guidance on claims management KPIs associated with particular revenue cycle phases.
+Claims management KPIs and process improvements
+Three patient onboarding (registration) KPIs — preregistration rate, insurance verification rate and service authorization rate — can reveal how much an organization truly values initial contact with patients. Improving onboarding KPIs isn’t necessarily tedious; a policy as simple as requiring preregistration during the appointment process can decrease patient wait times while improving check-in workflow and collection rate.   
+Ideally, insurance verification should be mandatory in every facility, and should be performed 10 to 14 days prior to patient arrival. Advance verification allows patients to make self-pay arrangements if insurance coverage cannot be validated, or if a patient has a high-deductible plan. If performed too far in advance, however, insurance verification will need to be repeated in case of lapses or changes in coverage.
+READ MORE: Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+At check in, insurance cards should be scanned with patient identification to avoid fraud incidents. More facilities now recognize the labor, cash flow and potential write-off costs if they fail to incorporate the payer-authorization step before performing expensive procedures, like an MRI or any non-emergent admission. Ten more minutes from front-end registration staff can save three to four hours in the business office obtaining authorization numbers and resubmitting claims. KPIs associated with the registration process are below:
+• Preregistration rate
+Purpose: Trending indicator that patient access processes are timely, accurate and efficient
+Relevance: Indicates revenue cycle efficiency and effectiveness of scheduling staff
+Revenue Cycle Phase Association: Patient onboarding process; appointment scheduling
+READ MORE: Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Industry Standard: ≥98% of all scheduled appointment patients
+• Insurance verification rate
+Purpose: Trending indicator that patient access processes are timely, accurate and efficient
+Relevance: Indicates revenue cycle efficiency and effectiveness of registration staff
+Revenue Cycle Phase Association: Patient onboarding process; registration
+READ MORE: Lack of Talent, Direction Afflict Healthcare Data Analytics Plans
+Industry Standard: ≥98% of all registered patients
+• Service authorization rate
+Purpose: Trending indicator that patient access functions are timely, accurate and efficient
+Relevance: Indicates revenue cycle efficiency and effectiveness of front office staff
+Revenue Cycle Phase Association: Registration; departmental patient services
+Industry Standard: ≥98% of patients with identified procedures 
+KPIs associated with charge capture
+A charge-capture policy, including a turnaround timeframe, prevents lost dollars. Charges should be posted within three to five days of the date of service. Going beyond that timeframe puts a facility at risk of writing off late charges because of their claim lag days setting or losing the charge.
+Late-charge write offs impair financial performance, so care should be taken in determining the value for lag days. If lag days are set too low, a false elevation of late charges will occur. If set too high, claims are delayed and cash flow is impeded. The value for lag days should allow for roughly 95 percent of charges to post prior to claim generation.
+BI tools are essential for charge-capture monitoring, and for easily tracking department codes and total service revenue amounts. When data visualizations include historical trending and service-volume levels, trends are easy to identify. BI data can also determine each department’s typical turnaround time for posting charges. Patient volumes and staffing levels need to be included within this analysis. 
+KPIs for charge capture are the following: 
+• Accuracy/timeliness of department charge capture
+Purpose: Trending indicator that charge capture processes are timely and efficient
+Relevance: Indicates revenue cycle efficiency and effectiveness of ancillary departments
+Revenue Cycle Phase Association: Charge capture
+Industry Standard: 3 to 5 days after date of service or post discharge
+• Late charges as percentage of total charges
+Purpose: Measure of revenue capture efficiency
+Relevance: Identifies opportunities to improve revenue capture, reduce unnecessary cost, enhance compliance and accelerate cash flow
+Revenue Cycle Phase Association: Charge capture
+Industry Standard: ≤2% of all charges
+KPIs associated with claim generation
+The four claim generation KPIs are like stair steps, in that they must be addressed in sequence so as to ensure BI data has identified the most time-sensitive issues that must take priority.
+Did not final bill (DNFB) is first in the sequence, accounting for the time period from the point after lag days have elapsed to claim generation. DNFB values typically elevate because of internal edits for charge and registration errors and incomplete coding. BI data can identify trends and recurring errors to resolve these issues that cause poor DNFB values.
+When claim scrubber routines are outside the revenue management system, the DNFB value will not include the time the claim is in the scrubber.
+Final bill not submitted (FBNS) is the step after DNFB, accounting for time required for the claim to pass external edits for industry requirements of the clearinghouse, payer and customized edits. As a best practice, organizations should release claims from the scrubber on a daily basis, as they are loaded. If not, the revenue management system will have already started the account’s aging process, which could prematurely initiate an unintended follow-up action. 
+Next, did not submit to payer (DNSP) encompasses both values for DNFB and FBNS. If an external scrubber is not present, the DNSP time period will be equal to DNFB. Improving these KPIs translates to accelerated cash flow and reduced revenue cycle labor costs.
+The ultimate goal is to master the final KPI in this group, which is clean claim rate. This KPI reveals how effectively the revenue management system can produce a claim that the payer will adjudicate with no further intervention. Considering all the work required to create a claim, the last thing a facility wants is a failed adjudication at the payer level, which is why the preregistration insurance verification step is so important.
+The following are KPIs associated with claim generation: 
+• Did not final bill (DNFB)
+Purpose: Trending indicator of claim generation process
+Relevance: Indicates revenue cycle performance; can identify performance issues of cash flow
+Revenue Cycle Phase Association: Charge capture
+Industry Standard: 4 to 6 days
+• Did not submit to payer (DNSP)
+Purpose: Trending indicator of total claim generation and submission process
+Relevance: Indicates revenue cycle performance; can identify issues of cash flow
+Revenue Cycle Phase Association: Claim generation 
+Industry Standard:  5 to 7 days
+• Final bill not submitted (FBNS)
+Purpose: Trending indicator of claims impacted by payer/regulatory edits
+Relevance: Tracks impact of internal/external requirements of clean claim production
+Revenue Cycle Phase Association: Claim generation
+Industry Standard:  ≤1 A/R day
+• Clean claim rate
+Purpose: Trending indicator of claims data as it impacts revenue cycle performance
+Relevance: Indicates quality of data collected and reported
+Revenue Cycle Phase Association: Claim generation
+Industry Standard: ≥95% 
+KPIs associated with post-claim generation
+Lastly, initial denials should be analyzed and correctly divided into two categories: the first for hard, unpreventable denials, like when an annual covered service is repeated within the same calendar year, and the second for soft, avoidable denials, like when a claim lists an incorrect number for the beneficiary policy. Using a business intelligence tool to analyze different denial reason codes and the volume of rejections for each code and department can pinpoint areas for process improvements.
+• Initial denial rate
+Purpose: Trending indicator of percentage of claims not paid
+Relevance: Indicates ability to comply with payer requirements and accurately pay claim
+Revenue Cycle Phase Association: Claim follow-up
+Industry Standard: ≤4%
+Utilizing business intelligence tools’ insights enables distinct improvements in cash flow and collection rate from payers, while helping to decrease denial and DNFB rates. A smoother claims management process will increase clinical, billing and administrative staff satisfaction, while elevating the overall financial health of the enterprise.  
+Note: All metrics are defined by the Healthcare Financial Management Association (HFMA) and can be accessed here.
+Joncé Smith is vice president of revenue management for Stoltenberg Consulting.
+Tagged Analytics InfrastructureClaims ManagementClaims ProcessingHealthcare Business IntelligenceRevenue Cycle Analytics
+
+

@@ -1,0 +1,54 @@
+How Soon Will Healthcare Connect Machine Learning with Consumers?
+
+December 07, 2017
+
+By Jennifer Bresnick
+December 07, 2017 - Machine learning and artificial intelligence have taken the healthcare industry by storm as innovators offer tempting visions of sophisticated clinical decision support, smoother EHR workflows, and more intuitive consumer-provider relationships to beleaguered clinical staff.
+The development of AI, or at least its beginnings, has been a constant theme among health IT vendors and healthcare provider organizations who believe they are on the leading edge of a revolution. 
+They might well be correct: early research into imaging analytics, natural language processing, and decision support tools has been largely promising, with some algorithms even claiming to outperform trained human professionals in certain tasks.
+Imaging analytics, natural language processing, and the analysis of huge datasets involved in the Internet of Things (IoT) are prime use cases for machine learning, but the methodology is shaping up to be more than just the engine that drives decision-making processes under the hood. 
+Machine-to-human interactions through ambient computing, virtual personal assistants, and augmented reality are on the agenda for many forward-thinking health IT vendors, who see direct machine-to-human interactions as a way to revolutionize workflows and customer service.
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+While the healthcare industry approaches innovation cautiously – liability, patient safety, and privacy concerns make it challenging for the highly-regulated sector to move too quickly – provider executives are among those that envision bringing machines and people closer together in the near future.
+In a new cross-industry poll conducted by Mitel, eighty-five percent of respondents believe that machine-to-person interactions will transform the customer experience – and 75 percent are already planning on bridging that divide within the next two years.
+“Customer experience is an active, strategic discussion across industries as organizations look to leverage new technologies associated with IoT, artificial intelligence and machine learning," said Wes Durow, Chief Marketing Officer, Mitel.
+"Giving machines a voice in machine-to-people interactions can be a powerful differentiator as the relationship between businesses and consumers shifts from transactional to more experiential, and customer experience becomes just as important as the product or service a company provides."
+Organizations see a number of different opportunities for improving consumer relations through machine contact, such as wayfinding and triggering alerts when an individual crosses a defined threshold. 
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+In the healthcare industry, these machine skills could help patients and family navigate large hospital complexes, connect individuals with the right clinicians at different points in their care journey, or aid in the management of chronic diseases with text message alerts related to blood sugar levels, weight management, or blood pressure control.
+Enterprises in several sectors have already made significant progress with bringing machine-driven customer experience technologies to fruition.  Seventy-two percent of survey participants are more than half-way to their digital transformation goals.
+"Every day, new types of digital communication are being launched – from social networks to bots to augmented reality – and consumers are adopting them in their daily lives. The days when a great customer experience was based solely on face-to-face or voice-to-voice interactions are long gone," said Kate Jalie, Partner at Opinium Research, which conducted the poll.
+"Now, exceptional customer service is multi-channel, bringing together voice, video, mobile and online in a seamless and highly personalized experience. Businesses that successfully implement new technologies for transforming the customer experience today will be tomorrow's winners."
+Unfortunately, it is unclear how quickly healthcare providers will be able to reach the winner’s circle.  Organizations are still struggling with the very basics of big data analytics, including wrestling with legacy infrastructure and trying to generate buy-in from skeptical executives.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+A recent poll by ISACA found that nearly half of IT professionals in multiple industries, including healthcare, believe their executive board rooms are functionally illiterate when it comes to big data.
+Organizations with data-shy executives are significantly less likely to be experimenting with machine learning and artificial intelligence products. 
+While 25 percent of digitally literate organizations are currently working on bringing AI into their enterprises, just 15 percent of organizations without tech-savvy leaders are doing the same.
+Thirty-nine percent of organizations whose leaders are not technically inclined exhibit resistance to the idea of artificial intelligence – fifty-one percent aren’t even sold on the notion of more basic big data analytics.
+This indicates a mismatch with a strong desire among executives to improve workflows and overall efficiency. 
+In the Mitel poll, more than 95 percent of respondents said that accelerating workflows and automating business processes would be critical components of their quest to enhance the consumer experience.  Sixty percent added that a better customer experience is foundational for their overall digital transformation efforts.
+Machine learning, in one form or another, is likely to be the primary pathway towards achieving those goals. 
+But a fundamental disconnect between the executive viewpoint and the goals of the IT department will stifle progress – something more than half of the Mitel participants identified as a major problem going forward.
+Other major challenges include legacy infrastructure concerns (43 percent), insufficient resources or budget (40 percent), and trouble integrating data siloes (40 percent).
+Twenty-three percent added that inadequate boardroom buy-in was a significant concern.
+Healthcare organizations may be in a particularly good place to overcome these barriers, however.  The report suggests that shifting IT leaders into strategic planning roles could be the key to aligning the two domains – and that is a change that is already happening in many provider groups.
+A 2015 Black Book survey found that analytics skills are a must-have on executive resumes.  Participants noted that technology management and big data analytics skills were necessary for anyone whose title started with “chief,” including CEOs, CFOs, and CMOs.
+Eighty-three percent of organizations looking to fill open positions for these job titles stressed the need for a history of successful technical deployments.
+"Every C-suite officer currently being recruited by hospital organizations needs to be, in part, a CIO," said Doug Brown, Managing Partner of Black Book, at the time.  
+"Healthcare is a knowledge-based business and it runs at the speed of software…It is a clear signal about how hospital C-suite jobs are evolving.  Data has so much to do with successful healthcare delivery from the top down."
+Two years later, the imperative has only gotten stronger, even if organizations are still struggling to bring some of their executives on board with big data.
+In October of 2017, SAP and Oxford Economics found that close to 70 percent of healthcare executives acknowledged the “essential” importance of using health IT to spur organizational growth and improve consumer experiences.
+Close to half think that the Internet of Things will play a much larger role within 24 months, even if just two percent of participants feel as if they are sufficiently far along with their digital transformation efforts.
+Consumers are eager to reap the benefits of digital interactions: in a 2016 survey by Deloitte, patients ranked the use of digital technology as one of their top four priorities when interacting with providers. 
+Early in 2017, more than 75 percent of respondents indicated a desire to use virtual services to manage their blood glucose, track their cardiac metrics, and interact with providers for follow-up appointments.
+So how long will it take before healthcare hits the tipping point?  Will it happen before 2020?  Despite the optimism of respondents to some of these polls, healthcare’s consumer relationships are unlikely to be fully automated and machine-driven by the end of the decade.
+Only 28 percent of SAP/Oxford believe that artificial intelligence will achieve broad adoption in healthcare within the next two years, compared to 75 percent of Mitel respondents from industries including financial services, retail, and manufacturing. 
+This indicates that healthcare may be slower than other sectors to bring machines into the consumer experience equation.  And that might not be such a bad thing.
+Healthcare consumers are different than retail, financial, or manufacturing customers.  Their concerns are more complicated, their privacy is protected by stringent regulations, and their data could be scattered across a dozen disconnected providers in both analog and digital forms.
+Automation is indeed coming to healthcare, as it is to every industry, and machines will no doubt soon take over some of the simpler, time-consuming tasks that humans hate to handle. 
+But the incredible complexity of healthcare and its big data may mean that healthcare will have to wait until other industries work out all the kinks and create an AI-driven ecosystem that can be smoothly implemented without using patients in life-or-death situations as guinea pigs.
+While healthcare consumers may not always have the same experiences in hospitals and clinics as they do at their banks, in their shops, and on their phones, taking the time to get the basics of big data right might be the best move that healthcare providers can make.
+Many providers may still feel that the risks of racing to implement machine-driven automation in healthcare may not yet be worth the rewards, but organizations should be prepared to start accelerating their investments if they wish to eventually see success in the inevitably data-driven environment of the near future.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareHealthcare Internet of ThingsMachine LearningPatient EngagementPatient SafetyPatient Satisfaction
+
+

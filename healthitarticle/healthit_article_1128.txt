@@ -1,0 +1,53 @@
+Healthcare Internet of Things Dominates Top 10 Stories of 2015
+
+December 14, 2015
+
+By Jennifer Bresnick
+December 14, 2015 - Few years have been as eventful for the healthcare industry as 2015.  Between the repeal of the Sustainable Growth Rate, the implementation of ICD-10, and the marathon of meaningful use, healthcare providers have been kept very busy reading through dense federal documents and retooling their processes to meet increasingly tough demands.
+But 2015 wasn’t all about mandates, check boxes, and attestations.  Exciting new technologies, reports from peers, and information about innovative care strategies have piqued the interest of HealthITAnalytics.com readers over the past twelve months as providers look to gain a critical edge in a highly competitive market.
+As they face a shifting landscape of value-based reimbursement and quality improvement programs, healthcare providers are hoping to stack the deck in their favor by investing in sophisticated electronic health records, big data analytics tools, clinical decision support, and population health management capabilities.
+Individually, each of these initiatives can improve patient safety, encourage engagement, boost chronic disease management, and cut costs. 
+But when providers pull together their in-house EHR and monitoring technologies with patient-generated health data from smartphones, wearables, and other home devices, they start to create something that may be better than the sum of its parts: healthcare’s very own Internet of Things.
+READ MORE: How Healthcare Big Data Analytics Helps Build Smart Societies
+This relatively new term has captured reader attention in an unprecedented way.  2015 may have been the first “Year of the Internet of Things,” but it is unlikely to be the last. 
+Here are HealthITAnalytics.com’s top ten stories of 2015, counting down to our most popular read this year.
+10. Five Core Competencies for the Healthcare Internet of Things
+As EHR tools and sophisticated machine learning combine with big data from wearables, home monitors, and medical devices, the Internet of Things has the potential to create a rich and seamless environment of predictive analytics and prescriptive insights that turns patients into walking data points and providers into interpreters of information on an unprecedented scale.
+What are the five major tasks your organization needs to undertake in order to prepare for a technological ecosystem that relies heavily on an interoperable, data-driven mindset?
+READ MORE: “Big Data Spokes” Tackle Population Health with IoT, Informatics
+9. Did Early Interoperability Focus Help Cerner Beat Epic at DOD?
+The Department of Defense put billions of dollars up for grabs when it announced its EHR modernization project in 2014.  In July of 2015, they surprised some industry stakeholders by passing over Epic Systems and choosing the Leidos Partnership for Defense Health as the winner of the contract.  The partnership includes an EHR platform provided by Cerner Corporation.
+Health data interoperability has been a major sticking point for the DOD during its long and arduous health IT improvement saga, and some observers felt that Cerner edged out Epic for the win due to its more intensive focus on cooperation and data sharing across the industry.  Whether or not this perception was accurate is a matter for debate, but the contest certainly shone a spotlight on the importance of interoperability across disparate systems.
+8. Five Population Health Use Cases for the Internet of Things
+Engaging patients while meeting their complex needs for chronic disease management and preventative care is a daunting task for the healthcare industry, and one that requires a new approach to population health and its associated technologies. 
+READ MORE: IoT, Analytics, HIM Push Healthcare IT VC Market Past $5B
+The Internet of Things crops up again as a solution for some of healthcare’s most challenging patients, including those with diabetes, heart failure, and other long-term conditions that require everyday lifestyle changes, constant management, and frequent attention from physicians.
+In this article, HealthITAnalytics.com lays out five of the most promising use cases for IoT technologies, including predictive analytics, patient safety, and clinical research.
+7. Senate Passes SGR Repeal, Embraces Value-Based Reimbursement
+April showers brought along a major victory for healthcare reform advocates as Congress finally repealed the Medicare Sustainable Growth Rate (SGR), a deeply flawed payment calculation that left providers at constant risk for steep reimbursement cuts.
+The “historic” legislation not only secured small reimbursement increases for the next five years, but introduced the Merit-Based Incentive Payment System (MIPS), which aims to replace the EHR Incentive Programs as Stage 3 meaningful use peters out. 
+The news was met with almost universal acclaim and relief as providers celebrated the notion of having one less reimbursement worry to cram into their anxious schedules.
+6. Healthcare Big Data Analytics Plays Critical Role in Quality
+Big data is here to stay, and its importance is only growing as healthcare organizations churn through petabytes of new clinical, administrative, operational, and patient-generated data every day. 
+In a white paper released in June, the National Quality Forum (NQF) explained how the industry can use big data analytics for quality improvement, while knitting together the care continuum in a seamless, interoperable, patient-centered manner.
+NQF President and CEO Christine Cassel, MD, and Dr. Prabhjot Singh, Special Advisor for Strategy and Design at the Peterson Center for Healthcare, expanded on the importance of healthcare big data analytics for systematic improvement in an accompanying two-part interview with HealthITAnalytics.com.
+5. Healthcare Big Data Analytics: From Description to Prescription
+What exactly is “big data analytics,” anyway?  In this article, readers can learn about the three stages of big data analytics, and how each phase can bring valuable and actionable insights to clinical and operational tasks.
+From parsing through patient outcomes that can aid population health management to making predictions about behavioral patterns based on a wealth of unrelated data sources woven together into a sophisticated portrait of the future, big data analytics has the potential to change everything about the way the healthcare industry interacts with its consumer base.
+4. Which Vendors Lead the Healthcare Big Data Analytics Market?
+There’s nothing more satisfying that sneaking a peak at the decisions of competitors and peers, especially if you are struggling to make sense of your own strategic initiatives.  In this article, readers had a chance to indulge their curiosity by diving into data about the most popular vendors in a few select healthcare markets.
+Learn about the most popular vendors in the worlds of business intelligence, information management, clinical decision support, and more.  How do your systems stack up against a sharply competitive market?  Is Epic really as much of an industry leader as it seems?
+3. Four Use Cases for Healthcare Predictive Analytics, Big Data
+As patient outcomes become more closely tied to reimbursements, healthcare organizations are desperate to predict the future.  Avoiding costly preventable readmissions, reducing the potential for patient safety events, and flagging high-risk patients before they experience a devastating downturn are vitally important for financial security in the quicksand landscape of quality-based care.
+How can predictive analytics tools help providers keep their patients on track?  Read about how leading organizations are putting theory into action by leveraging their big data for better results.
+2. Decoding the Top 10 Buzzwords of Healthcare Big Data Analytics
+Still confused about accountable care, informatics, precision medicine, and population health?  Not sure what CDS, IG, and ACO really stand for?  What is the “learning health system,” and why should you care?
+In this overview piece, HealthITAnalytics.com breaks down ten of the terms that industry thought leaders have been tossing about with wild abandon in 2015. 
+1. Why Healthcare Big Data Analytics Needs the Internet of Things
+The Internet of Things returns to our list once again with this primer on the interconnected conglomeration of data-sharing devices we call the IoT. 
+These days, few electronic devices are built without an internet connection, and healthcare-focused consumer items are no exception.  With the rise of smartphones, tablets, smartwatches, smart scales, implantable devices, and even an intelligent contact lens, providers are going to need to learn how to cope with the staggering influx of new gadgets and gizmos if they want to meet patient expectations.
+How can the Internet of Things give provides the jump they need to manage patients, make more informed decisions, and even cut costs? 
+Read our most popular story of 2015 to learn why healthcare should proactively embrace the IoT mentality and develop strong data integrity competencies before the data tsunami becomes too powerful to control. 
+Tagged Analytics InfrastructureBig Data AnalyticsHealthcare Internet of ThingsPopulation Health Management
+
+

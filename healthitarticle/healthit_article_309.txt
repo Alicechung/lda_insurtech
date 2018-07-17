@@ -1,0 +1,38 @@
+Artificial Intelligence in Healthcare Gets Cheaper and Quicker
+
+October 30, 2017
+
+By Jennifer Bresnick
+October 30, 2017 - The use of artificial intelligence in healthcare has surged throughout 2017 as developers work industriously to turn machine learning into actionable clinical decision support for providers. 
+While AI still has a long way to go in an industry notorious for its struggles to incorporate big data analytics into meaningful workflows, excitement is growing over the potential for advanced computing to shorten drug discovery cycles, improve the accuracy and speed of diagnostics, and create a more efficient and intuitive care environment.
+The AI market sector is experiencing explosive growth as health systems start to take advantage of this swift progress: a new report from Research and Markets projects that hospitals worldwide will be spending $50 billion on AI tools by 2023 as the usefulness of these systems increase and prices drop to encourage adoption.
+Speed, accuracy, and affordability are paramount to healthcare organizations looking to invest in systems driven by machine learning – and fortunately for providers, developers are pushing ahead rapidly with all three.
+Researchers from Showa University in Japan can now identify bowel cancer in less than a second with 94 percent accuracy, according to the findings from a pilot program presented at United European Gastroenterology (UEG) Week in Barcelona.
+READ MORE: Artificial Intelligence Will Be Foundational for Health IT in 2018
+Using artificial intelligence to comb through endoscopy images, the algorithm may be able to help providers to avoid unnecessary surgeries and develop more personalized treatment plans for patients.
+"The most remarkable breakthrough with this system is that artificial intelligence enables real-time optical biopsy of colorectal polyps during colonoscopy, regardless of the endoscopists' skill,” said Dr. Yuichi Mori, according to the UK’s Telegraph.
+"This allows the complete resection of adenomatous (cancerous) polyps and prevents unnecessary polypectomy (removal) of non-neoplastic polyps. We believe these results are acceptable for clinical application and our immediate goal is to obtain regulatory approval for the diagnostic system."
+Similarly promising projects testing the potential of AI for diagnostic support have also found high levels of accuracy in initial pilots and studies. 
+Earlier this year, a team from Quebec developed a machine learning algorithm that was 84 percent accurate at identify imaging studies of patients experiencing the first stages of dementia, while Stanford researchers were able to create a tool that exceeds the performance of human cardiologists when flagging abnormal electrocardiogram results.
+READ MORE: Big Data, AI Rapidly Transforming the CIO Role in Healthcare
+Speedy decision-making with a high degree of reliability is also the aim of a new public-private collaboration based at the University of California San Francisco. 
+The Accelerating Therapeutics for Opportunities in Medicine (ATOM) initiative will leverage machine learning and advanced data science to cut down the drug development process from an average of six years to a mere twelve months.
+Pharmaceutical company GSK will work with UCSF, the Department of Energy’s Lawrence Livermore National Laboratory (LLNL), and the National Cancer Institute’s Frederick National Laboratory for Cancer Research (FNLCR) to combine AI with precision medicine approaches to identifying and testing potential therapies for complex diseases.
+“As we have learned more about what modern supercomputers can do, we’ve gained confidence that this approach can make a big difference in creating medicines,” said John Baldoni, Senior Vice President R&D at GSK.
+“We must do all that we can to reduce the time it takes to get medicines to patients. GSK is working to set a precedent with pharmaceutical companies by sharing data on failed compounds.”
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+The team will combine records from millions of known compounds, successful and otherwise, with public datasets to create dynamic models for “in silico” drug testing.  The Department of Energy’s supercomputing power and experience with cognitive computing and machine learning will provide the foundation for large-scale precision medicine analytics.
+“ATOM is a novel public-private partnership that draws on the lab’s unique capabilities to create a paradigm change in drug development,” said LLNL Director Bill Goldstein. “It will help to strengthen US leadership in high-performance computing, and, by speeding the discovery of therapeutics, contribute to biosecurity.”
+Quicker results with lower financial barriers to entry is also a primary goal of Zebra Medical Vision, an Israeli-based imaging analytics company that is now offering access to its deep learning technology for just $1 per imaging scan.
+The company, which received a $12 million infusion of funding from Intermountain Healthcare in 2016, will allow providers to access its capabilities to detect liver, cardiovascular, and bone diseases for only a nominal fee.
+“With this new model, we hope to facilitate adoption globally, especially in countries where access to radiology is difficult,” says Elad Benjamin, Co-founder and CEO of Zebra Medical Vision.
+“We are making a commitment to provide our current tools, and all future ones, for a flat $1 USD per scan. By doing so we believe that a true difference can be made in the provision of radiology services worldwide.”
+Fostering broader access to affordable, trustworthy, and meaningful artificial intelligence is a key goal for many in the industry, including an international group of stakeholders working on the Human Diagnosis (Human Dx) Project.
+Including prominent organizations such as the American Medical Association and American Board of Internal Medicine, the initiative plans to bring quality specialty care, backed by artificial intelligence, to underserved patients around the globe.
+“The Human Diagnosis Project is a worldwide effort created with and led by the global medical community to build an online system that maps the steps to help any patient,” explains the project’s website.
+“By combining collective intelligence with machine learning, Human Dx intends to enable more accurate, affordable, and accessible care for all.”
+Human clinicians will volunteer to provide electronic consults to underserved patients, whose data will be collected and added to a massive repository of clinical information.  The data will serve to feed machine learning algorithms that will offer enhanced clinical decision support and additional insights into diagnostic strategies and potential treatments.
+As machine learning and artificial intelligence progress, accessibility will likely join affordability and accuracy as key competitive differentiators for developers looking to commercialize and promote these algorithms.
+Providers seeking to invest in advanced big data analytics tools founded on machine learning principles should ensure that the promising results from early pilots and case studies are also available at scale when considering partnering with a vendor as these categories of tools and services quickly make their way into the patient care environment.
+
+

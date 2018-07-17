@@ -1,0 +1,14 @@
+NovuMind AI Software Powers Medical Supercomputer
+
+11 Jul 2018
+
+NovuMind Inc., a leading innovator in full-stack Artificial Intelligence technologies, today announced its participation in the Shennong Supercomputer Project in the city of Chengdu. The Shennong Supercomputer, named after the legendary figure credited with inventing Chinese medicine, is a powerful platform dedicated to training AI deep learning models for diagnostic imaging and medical research. The system utilizes software originally developed by NovuMind for training of deep learning models on its NovuStar distributed AI training platform[1].
+NovuMind’s founder and CEO, Dr. Ren Wu, was involved in the design of the Shennong system and was in Chengdu for the public announcement and demonstration. Dr. Wu commented that computational power and the availability of training data are the critical resources that will drive deployment of AI solutions. Fortunately, in the field of medicine there is a vast amount of data available, from many years’ worth of medical records and images, that can be mined to train AI models. But the effective training of models on this data is computationally intensive. Powerful computers such as Shennong help unlock the value of this data. Dr. Wu presented a benchmark test showing how the system is able to train a state-of-the-art medical imaging model within 30 minutes. This training process would typically take days, if not weeks, to run on other systems.
+Follow Us
+Artificial Intelligence will revolutionize healthcare. Already, AI is helping doctors improve the speed and accuracy of diagnoses. For example, at West China Hospital of Sichuan University, a guided endoscopy system powered by NovuMind technology has been shown to provide better detection rates of diseased tissue than could be achieved by the doctor’s naked eye. But in the future, AI can do more than just assist doctors. AI can actually bring the doctors’ skills to places where they are scarce.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+According to Dr. Chengwei Tang, Professor at Sichuan University and President of the China Society of Gastroenterology, “AI effectively amplifies the reach and effectiveness of the medical profession. AI can be trained on deep data sets of historical data and diagnoses that were performed by skilled physicians. Then, these AI tools can be deployed in all corners of the world, bringing improved healthcare to many people.”
+Advances in AI will bring many benefits, but improving access to healthcare for the world’s population is an area in which AI will have very broad impact.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+
+

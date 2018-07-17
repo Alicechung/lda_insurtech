@@ -1,0 +1,21 @@
+Aktana Announces AI Fusion For Comprehensive, Machine Learning-Driven Campaigns In Life Sciences
+
+16 May 2018
+
+AI Fusion Allows for a Wide Range of AI Models and Insights to be Integrated into the Aktana Platform for Optimized Go-To-Market Execution
+Veeva Commercial & Medical Summit – Aktana, the pioneer in decision support for global life science companies, today announced the introduction of AI Fusion, designed to bring best-of-breed AI together with Aktana’s own, proprietary AI to ensure positive impact on commercial execution. Analytic inputs from teams at life science companies such as Novartis and AI models from partner platforms such as Salesforce Einstein or Prognos can all be integrated into Aktana via AI Fusion for smarter go-to-market execution.
+Aktana utilizes AI to deliver customer value in three distinct ways:
+1)    To Improve Execution by curating suggestions and insights that “feel right” for field and marketing decision makers, reflecting both brand strategy and user behavior, much like Google sorts search results,
+2)    As a Strategy Input, where customer and partner analytic models are synthesized with Aktana’s own AI to deliver the smartest next-best-action recommendations,
+3)    To Refine Go-to-Market Strategy via machine learning techniques that analyze the Who, What, When, and Where of each execution, and recommend improvements according to what works best in each specific situation.
+AI Fusion is designed to intelligently synthesize various AI Strategy Inputs (#2 above) in the context of a brand’s business strategy and the range of execution tools and resources available.
+David Ehrlich
+“As new technologies arrive, there is a tendency to initially focus on ‘more’… more data, more technology, more AI,” said David Ehrlich, CEO of Aktana.  “But often, ‘more’ just leads to confusion and noise. The greatest impact comes from intelligent synthesis and alignment of data and insights – synthesis to isolate what truly matters and alignment to deliver insight where and when it’s most relevant. That’s what AI Fusion will do for life science companies.”
+Nikos Georgiades
+“Novartis is thrilled to see Aktana take the lead in helping customers translate AI advances into improved execution,” said Nikos Georgiades, senior vice president and global head of commercial execution at Novartis Pharmaceuticals.  “As a global leader in harnessing digital capability to enhance information flow and improve patient care, we look forward to leveraging this new capability.”
+There is no shortage of analytic work being pursued by internal teams at life science companies or by their partners. But that work frequently sits on the shelf waiting to be tested and executed, or it’s deployed in a single-purpose manner like predicting the likelihood of new patients for a given therapy.
+Sundeep Bhan
+Aktana’s AI Fusion takes these inputs and contextualizes them with the full commercial decision scope. For example, in the case of new patient likelihood, AI Fusion identifies the specific actions that should be considered, incorporating other strategic and AI inputs such as 1) the channel preference of a given HCP, 2) key interactions, such as the HCP attending a recent event, or 3) recent multichannel follow-up priorities.  And combined with Aktana’s “feel right” suggestion design, AI Fusion drives rep adoption of the AI output.
+“Prognos is an innovator in applying artificial intelligence to clinical lab and diagnostic data to predict disease earlier,” said Sundeep Bhan, co-founder and CEO of Prognos. “With Aktana’s AI Fusion, we are able to translate our insights into true next-best-actions that are contextualized within broader life science brand strategies and a rep’s full decision scope.”
+
+

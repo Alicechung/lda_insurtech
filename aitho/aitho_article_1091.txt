@@ -1,0 +1,16 @@
+FogHorn Partners With Google Cloud To Deliver Industry Leading IIoT Solution
+
+23 Mar 2018
+
+Foghorn’s Lighting™ Edge Intelligence platform, in collaboration with Google Cloud IoT Core, maximizes the value of industrial data from every IoT device
+FogHorn Systems, a leading developer of “edge intelligence” software for industrial and commercial IoT applications, today announced a collaboration with Google Cloud IoT Core to simplify the deployment and maximize the business impact of Industrial IoT (IIoT) applications.
+The companies have teamed up to integrate FogHorn’s breakthrough Lightning™ edge analytics and machine learning platform with Cloud IoT Core, a fully managed service that allows you to easily and securely connect, manage, and ingest data from globally dispersed devices.
+Antony Passemard
+“Cloud IoT Core simply and securely brings the power of Google Cloud’s world-class data infrastructure capabilities to the IIoT market,” said Antony Passemard, Head of IoT Product Management at Google Cloud. “By combining industry-leading edge intelligence from FogHorn, we’ve created a fully-integrated edge and cloud solution that maximizes the insights gained from every IoT device. We think it’s a very powerful combination at exactly the right time.”
+Cloud IoT Core is a comprehensive set of integrated services that helps unlock business insights in real time from data across globally dispersed devices. Device data captured by Cloud IoT Core gets published to Cloud Pub/Sub for downstream analytics. Businesses can conduct ad hoc analysis using Google BigQuery, easily run advanced analytics and apply machine learning with Cloud Machine Learning Engine, or visualize IoT data results with rich reports and dashboards in Google Data Studio.
+FogHorn’s Lightning™ product portfolio brings a groundbreaking dimension to IIoT by embedding edge intelligence as close to the source of streaming sensor data as possible. The FogHorn platform is a highly compact, advanced and feature-rich edge intelligence solution that delivers unprecedented low latency for onsite data processing, real-time analytics, machine learning and AI capabilities. By enabling data processing at or near the source of sensor data, FogHorn enriches and optimizes data published to the cloud for further processing and analysis.
+David King
+The combined capabilities of Cloud IoT Core and FogHorn’s Lightning™ product portfolio creates an ideal foundation for optimizing distributed assets and processes in manufacturing, oil and gas, mining, power and water, renewable energy, transportation, connected vehicles, smart building and smart cities.
+“Our integration with Google Cloud harmonizes the workload and creates new efficiencies from the edge to the cloud across a range of dimensions,” said David King, CEO at FogHorn. “This approach simplifies the rollout of innovative, outcome-based IIoT initiatives to improve organizations’ competitive edge globally, and we are thrilled to bring this collaboration to market with Google Cloud.”
+
+

@@ -1,0 +1,17 @@
+Automation Anywhere Opens Bot Store to Developers with the Addition of Cognitive IQ Bot Technology
+
+June 29, 2018
+
+Automation Anywhere, an enterprise software provider in robotic process automation (RPA), announced its recently introduced Bot Store is now open to artificial intelligence and machine learning developers with the addition of cognitive IQ Bot technology. Developers and partners can offer pre-trained cognitive bots that bring structure to unstructured data for complex business processes, like financial statements, purchase orders and invoices, to help accelerate automation in specific industries and geographies.
+
+ Bot Store, the world’s first and largest online marketplace for off-the-shelf plug-n-play bots, has had impressive traction with the company’s partner, developer and customer communities. In just two months since launch, the number of bots in the Bot Store has grown 100 percent. The most popular bot category is artificial intelligence with 24 bots and the speech-to-text bot leads the way in downloads. The most common business process is finance and accounting, with the “allocate payments against outstanding invoices” the most visited bot. SAP is the most prevalent application with 31 bots listed.
+
+ Until now, partners and developers offered bots that either automate repetitive business processes or provide API integrations with leading enterprise applications and AI platforms using the Automation Anywhere Enterprise RPA platform. With the addition of Automation Anywhere IQ Bot, developers and partners can now offer native computer vision, natural language processing, and machine learning capabilities. Several partners and developers have already contributed pre-trained, cognitive bots to automate document-centric processes. Examples of IQ Bot-enabled processes in the Bot Store include those that can automate utility bills, bank statements, standard settlement instructions, explanation of benefits, 1040 forms and W4 forms.
+
+ “We are excited to take our process automation expertise to the market through cognitive bots in the Bot Store,” said Damian Jankowski, COO at Ataway. “Our clients in Latin America and the US will now be able to accelerate automation in areas like invoice processing and suppliers’ management with IQ Bot.”
+
+ “Since its launch two months ago, the Bot Store has seen unprecedented growth in both visitors and downloads,” said Abhijit Kakhandiki, Senior VP, Products and Engineering at Automation Anywhere. “The ability to develop and offer cognitive bots now enable more business processes to be automated, further accelerating our customers’ digital transformations.”
+
+ The bots in the Automation Anywhere Bot Store run on the Automation Anywhere Enterprise platform and can be snapped together like LEGO blocks to automate complex business processes.
+
+

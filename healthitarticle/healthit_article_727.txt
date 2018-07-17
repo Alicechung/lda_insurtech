@@ -1,0 +1,29 @@
+IBM Watson, Siemens Partner for Population Health Management
+
+October 11, 2016
+
+By Jennifer Bresnick
+October 11, 2016 - IBM Watson and Siemens Healthineers have announced a five-year partnership to bring data-driven population health management capabilities to a global health IT landscape that is quickly embracing value-based care. 
+The alliance will integrate IBM Watson’s machine learning and cognitive computing capabilities with Siemens’ presence in the provider space to help healthcare organizations meet the many regulatory and reimbursement challenges that make population health management a strategic necessity.
+“We are at an unprecedented time in healthcare. Mature and developing markets are increasingly focused on how patient outcomes are optimized, quality is standardized among individuals and across populations, and costs are reduced," said Deborah DiSanzo, general manager for IBM Watson Health.
+In the United States, the EHR Incentive Programs, Medicare’s value-based care initiatives, and the upcoming move to MACRA have been largely responsible for driving the shift to pay-for-performance reimbursements that require coordinated, long-term management of patients across the care continuum.
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Optum Risk Management Analytics Cut Opioid Use by 14%
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+Population health management technologies that can stratify patients by risk, alert providers to gaps in care, and proactively track trends in larger groups of attributed beneficiaries have already been instrumental in helping providers survive the early days of the value-based transition, and are likely to grow in importance over the next few years.
+"The adoption of PHM solutions that demonstrate meaningful use of IT applications is expected to accelerate rapidly,” said Koustav Chatterjee, Frost & Sullivan Transformational Health Industry Analyst. “Patient care is moving into a broader but coordinated environment where routine, manual tasks are automated by PHM solutions that unify siloed systems, stratify comorbidities, empower patients through engagement, and benchmark outcomes at network, practice, and patient level."
+"I expect the shift from volume to value-based healthcare delivery will accelerate adoption of PHM technology and service solutions helping providers effectively manage chronic conditions and prevent unnecessary system utilization."
+As part of the alliance, Siemens will help to develop and deploy IBM Watson’s population health insights to the provider sphere.  Siemens already has access to IBM Watson Care Manager, a data integration and analytics tool that uses cognitive computing to present tailored chronic disease management insights to clinicians.
+"Combining our strengths, Siemens Healthineers and IBM can effectively help providers transition to a value-based healthcare environment," said Matthias Platsch, head of Services at Siemens Healthineers.
+"We will bring the power of Siemens Healthineers' extensive relationships with providers and our deep domain expertise in clinical workflows, services, and digital health technologies to bear to help bring population health management offerings to healthcare providers. The new alliance fits perfectly into the services business of Siemens Healthineers. Thus we will enter the rapidly growing PHM market which is expected to play a significant role in end-to-end value-based healthcare."
+IBM Watson has been building a strong portfolio of healthcare projects over the past few years as it commercializes its cognitive computing services across multiple industries, and has already worked with Epic Systems to enhance the EHR developer’s clinical decision support capabilities. 
+And the supercomputer has already found favor with a number of healthcare organizations looking to tackle data-dense problems such as precision medicine, including the Mayo Clinic, Boston Children’s Hospital, the Department of Veterans Affairs, and MD Anderson Cancer Center.
+The Chinese market may be next on the horizon for Watson’s precision medicine skills, the company announced during the summer.  Twenty-one hospitals in China will leverage Watson’s personalized medicine capabilities as part of the Asian powerhouse’s massive precision medicine initiative, which is likely to dwarf the scale of the United States’ efforts.
+IBM’s focus on working closely with other organizations bodes well for Siemens, which has not made forays into the lucrative population health management environment before.  The partnership is likely to benefit both companies as they expand their reach across the global healthcare market, DiSanzo added.
+“Siemens and IBM are ideal partners to work at the forefront of this evolution and enable personalized healthcare in the US and globally,” she said.
+Cognitive Computing Leaders Think Time is Right for Healthcare
+How to Get Started with a Population Health Management Program
+Tagged Analytics InfrastructureChronic Disease ManagementClinical AnalyticsPopulation Health Management
+
+

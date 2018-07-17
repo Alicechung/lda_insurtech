@@ -1,0 +1,20 @@
+BLOCKv Integrates Bancor Protocol To Create A VEEBNT Token Relay
+
+22 Feb 2018
+
+VEEBNT Token Relay Enables Anyone to Easily Convert VEE to and From ETH Online
+BLOCKv, a blockchain-based development platform for the creation of smart, secure and dynamic virtual objects, announced today a collaboration with Bancor Network, the first protocol for autonomously convertible Smart Tokens, to create a VEEBNT Token Relay that will enable anyone to easily convert VEE to and from ETH online.
+By integrating the Bancor Protocol, VEE holders will gain access to continuous liquidity regardless of trade volume or exchange listings, through the Bancor Network, where any integrated token can be automatically converted into any other directly from any Web3 wallet including Parity and MetaMask. Currently integrated tokens include ETH, BNT (the Bancor Network Token), EOS, BAT, OMG, GNO, STX, and many more.
+Bancor utilizes an innovative token “connector” method to enable formulaic price calculation and continuous liquidity for all compliant tokens. Bancor’s non profit market making and conversions happen directly between smart contracts, without needing to match two parties in an exchange, and according to an open-source algorithmic pricing mechanism that ensures full transparency.
+Reeve Collins
+“This is a very important partnership for us,” says Reeve Collins, CEO of BLOCKv. “Developers use our tokens to access our platform and build smart virtual goods – vAtoms. Being able to purchase VEE tokens is one of the fundamental benefits we can offer our growing community that wants to participate in the ecosystem. Ensuring that VEE Tokens are easily convertible through the Bancor Network solves a major pain point for our supporters.”
+The BLOCKv platform is an open-source development environment that ushers in the next generation of smart, secure, sharable and dynamic digital goods and virtual objects on blockchain (vAtoms). BLOCKv believes the creation of this “user interface” layer for the digital and virtual goods economy will mitigate the complexity of blockchain development and unlock exponential growth.
+“Blockchain technology integration and cross-platform experience is anything but seamless these days. Digital goods exist in a number of platforms and with this partnership with Bancor, BLOCKv is bringing a completely seamless interoperability that will speed up the adoption of the technology,” says Collins. The integration will also allow BLOCKv to minimize the risk of volatility and stabilize the price of VEE, which is essential for company’s business model and for the developers using the platform.
+VEE tokens will be allocated to the BNT connector in order to enable conversions at any time via the Bancor network.
+Galia Benartzi
+“We share the goal of making the promise of blockchain an attainable and positive reality for consumers in the near term,” said Galia Benartzi, co-founder of the Bancor Protocol. “We couldn’t be happier to welcome BLOCKv and the community to the Bancor Network.”
+Headquartered in Zug, Switzerland, BLOCKv provides a development platform and community for the creation and distribution of dynamic, intelligent, experiential digital objects called vAtoms that bridge the gap between digital and physical worlds. Built on secure blockchain technologies, BLOCKv’s ‘smart’ digital objects work on any digital platform, are obtainable anywhere, store actual transactional value and are immune to fraud.
+Bancor Protocol is a standard for the creation of Smart Tokens, cryptocurrencies with built-in convertibility directly through their smart contracts. Bancor utilizes an innovative token “Connector” method to enable formulaic price calculation and continuous liquidity for all compliant tokens, without needing to match two parties in an exchange. Smart Tokens™ interconnect to form token liquidity networks, allowing user-generated cryptocurrencies to thrive.
+Read More: Identity Management For IoT Is Marketing’s Domain
+
+

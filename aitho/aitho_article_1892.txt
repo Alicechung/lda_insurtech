@@ -1,0 +1,11 @@
+Aureum 5.1 Enables Digital Twins And Predictive Maintenance
+
+07 Sep 2017
+
+Peaxy® announced the release of Aureum® 5.1, a data access solution that connects the enterprise to all its large unstructured data sets across different physical locations and the cloud.
+“We know from experience that Aureum is a key infrastructure component in more complex analytical solutions and predictive applications,” said Peaxy CEO Manuel Terranova. “This version positions Peaxy as an agile company that supports digital twin, simulation management and predictive maintenance projects at enterprise scale.”
+Peaxy Aureum can ingest and manage high-frequency telemetry data. By aggregating and reducing the data, it is easier to work with in an Edge computing environment. Advanced analytics can be used to complete comprehensive fleet-level analysis.
+Aureum 5.1 is being used by Fortune 100 companies in the Industrial Internet, aviation and power generation industries as an essential data staging area for analytics that solve real-world business problems. Typically companies need a data access solution to manage and preserve “crown-jewel data sets” like geometry, simulation and telemetry.
+Aureum 5.1 is the Hubble release, named after Edwin Hubble, the famous American astronomer and telescope namesake.
+
+

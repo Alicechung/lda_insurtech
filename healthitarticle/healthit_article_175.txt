@@ -1,0 +1,32 @@
+Hashed Health Launches Blockchain Provider Identity Tool
+
+March 07, 2018
+
+By Jennifer Bresnick
+March 07, 2018 - LAS VEGAS - Hashed Health has launched a provider credentialing solution that leverages blockchain to securely exchange information related to a clinician’s permissions to practice at a certain level or location, the industry consortium announced at HIMSS18.
+The Professional Credential Exchange tool aims to simplify the process of managing provider credentials and identities for employment and verification purposes, allowing organizations and professionals to complete hiring or referral processes more quickly.
+"This transformative approach solves existing challenges facing provider credentialing,” said John Bass, Hashed Health CEO.
+Dig Deeper
+Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+Blockchain Will “Change the Physics” of Health Data Sharing
+"Over the past year, we have received feedback from the industry indicating that improving the accuracy and accessibility of credentialing information is an ideal opportunity for blockchain technology to address a costly, complex, industry-wide problem.”
+Credentialing can be a costly and time-consuming effort that is largely conducted via phone calls, faxes, and snail mail.  
+Providers who wish to practice at multiple institutions or in more than one state must often complete the entire process more than once, and must also ensure that he or she is meeting the unique rules and regulations for each location.
+Delays in physician credentialing can cost hospitals an estimated $7500 per day in forfeited net revenue, Hashed Health says.
+Blockchain’s distributed ledger methodology offers a solution to these challenges by ensuring that credentialing data is up to date, accurate, and valid.  
+"An individual can put a certificate of attestation of licensure on the blockchain and other states are able to see that on the network,” Bass explained to HealthITAnalytics.com in October of 2017.
+"That offers a faster, better, cheaper way to ensure that everyone remains up-to-date without all the back-and-forth of traditional communication.”
+The network aims to connect existing entities and make data exchange easier rather than create a brand new credentialing system for the healthcare industry, Hashed Health says.
+"Our Exchange will serve as a tool connecting previously disparate industry constituents enabling the request and receipt of verified credentials information in a highly secure, reliable, and economic manner,” says the Professional Credential Exchange website.  
+"We are not building a credentialing system-- rather a network and transaction infrastructure that connects sources and consumers of credentials information across the healthcare industry.”
+For providers attempting to obtain or manage credentials at dozens of institutions, blockchain offers a new opportunity to simplify and speed up the process, said Anthony Begando in a blog post earlier in March.
+"The fundamental reason why healthcare organizations repetitively and redundantly perform the collection and verification of credentials information is that there lacks a trusted and reliable forum to request and receive verified credentials information,” he wrote.  
+"Blockchain will change that.  Through the establishment of a network connecting practitioners, primary sources, and consumers of credentials information, a utility can be created which captures credentialing transactional data and, where authorized, makes that data available for consumption by all other future requestors of that same information.”
+Organizations would not have to answer repeated requests for data on the same individual every time that professional seeks an additional credential, Begando explained, saving time and money for entities on both ends of the query.
+Streamlining the process using blockchain would make certain that the provenance of the data is known, that the information is current, and that the data has not been altered in a way that might impact the individual’s professional standing.  
+"In time, the vast majority of historically verified transactions could be disseminated to requesting organizations and substantially reduce the level of costly repetitive reverification that pervades the industry today,” said Begando.
+"The future of blockchain in healthcare is immense.  This particular use case presents an ideal opportunity to solve a years-old problem that affects nearly all aspects of the industry."
+Tagged Blockchain in HealthcareHealth Data ExchangeHealth Information ExchangeHIMSS18
+
+

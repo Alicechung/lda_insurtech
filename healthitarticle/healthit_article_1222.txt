@@ -1,0 +1,27 @@
+Senate Seeks More Interoperability, Openness for Certified EHRs
+
+October 08, 2015
+
+By Jennifer Bresnick
+October 08, 2015 - With the infamous specter of information blocking now hanging over industry efforts to improve the interoperability of electronic health records, Senators Bill Cassidy (R-LA) and Sheldon Whitehouse (D-RI) are attempting to take a bi-partisan approach to fostering transparency and strengthening the data exchange capabilities of certified EHR technology (CEHRT). 
+A new bill, called the Transparent Ratings on Usability and Security to Transform Information Technology (TRUST IT) Act of 2015, plans to establish a health IT ratings system that would make it simpler for healthcare organizations to understand the interoperability capabilities and other features of future EHR products.
+“Right now, after a health IT product is certified for use, there’s no way to ensure that it continues to deliver as promised for doctors and patients, and no way to easily compare one product to another,” said Senator Whitehouse in a press release. 
+A recent report from the Journal of the American Medical Association (JAMA) underscored this problem by revealing that few certified EHR products undergo adequate usability testing, despite receiving a seal of approval from the ONC.
+Dig Deeper
+70% of Healthcare Execs Pin Growth to Big Data Analytics Skills
+ONC Releases C-CDA “Checkup” Tool for Healthcare Providers
+Da Vinci Project Brings HL7 FHIR to Payers for Big Data Analytics
+“This bill will establish important safeguards to prevent systems from underperforming and will grade them on their performance – changes that will improve market competition and drive innovation,” Whitehouse added.
+The legislation would require EHR certification bodies to make data related to the testing process public.  This would include screenshots and videos of products in action, which would allow providers to make more informed decisions about their health IT purchases. 
+Currently, some major EHR vendors prevent providers from voicing negative opinions or sharing information about their products by including “gag clauses” in their contracts, which go far beyond typical non-disclosure agreements intended to protect trade secrets.  
+The TRUST IT Act would also require vendors to attest that they will not engage in business practices that could be construed as actively blocking the flow of information or the exchange of data, and plans to give the Inspector General of HHS the authority to investigate any claims that a vendor is using unsavory business practices to limit interoperability, health information exchange, or communication between providers.
+Vendors that are found to be in violation of the statute would be subject to a penalty of up to $10,000 for each case of wrongdoing.  HHS would not only have the authority to decertify products that do not make the grade, but would also be able to provide reimbursement to healthcare organizations that had previously purchased the inadequate software under the expectation that they could use their EHRs to attest to meaningful use or other quality programs.
+If the bill succeeds in creating a standards rating body and development council, certified EHR products would receive a one, two, or three star rating based on how well they encourage health data interoperability. 
+EHR products would be judged on several major criteria, including privacy, security, usability, and interoperability.  Additional suggested categories include the ability to integrate data from medical devices, physician registries, and patient-generated health data sources, as well as the product’s ability to connect to regional and state-level health information exchange organizations.
+EHR products that receive one star, a substandard rating, would be given a timeframe for improvement.  If the vendor does not make changes outlined by HHS within the approved period, it may be decertified.
+Ultimately, the purpose of the legislation is to put providers at ease regarding their purchasing decisions, and to return the clinical focus to the patient, said Senator Cassidy.
+“As a physician, time is better spent looking into a patient’s eyes to make sure that she comprehends that even though she has cancer, there is hope — as opposed to clicking through a computer screen to document something unimportant to her and required by someone far removed from the exam room,” Cassidy said. 
+“This bill implements better coordination in the electronic health records (EHRs) system. Doctors will be able to better care for their patients and in turn, deliver on the promise that their information is being used for their benefit and not for the benefit of others.”
+Tagged Analytics InfrastructureEHR InteroperabilityInteroperabilityMeaningful Use
+
+

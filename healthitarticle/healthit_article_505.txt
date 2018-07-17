@@ -1,0 +1,38 @@
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+
+April 12, 2017
+
+By Jennifer Bresnick
+April 12, 2017 - The Fast Healthcare Interoperability Resource, better known as FHIR, has quickly seared itself into the consciousness of the health IT industry, becoming one of the most promising methodologies for open, seamless data exchange.
+In just a few short years, the internet-based interoperability standard has popped up on IT developers' must-have list, capturing the attention of everyone from first-time startups to some of the heaviest hitters in the electronic health record community.
+While every industry has more failed standards than successes, and only time will tell if this go-around will be any different, the excitement around FHIR seems justly deserved.
+FHIR is one of the first efforts that is offering a new path forward firmly backed by both the private and public sectors without regulatory coercion. And it's one of the first approaches that truly aligns with the way technology in other sectors has been developing.
+At the HL7 FHIR Value-Based Care Summit this week in Chicago, that excitement was palpable.
+READ MORE: Can FHIR Spark Health Information Exchange, Interoperability?
+FHIR is making the leap from a developer-centric technical framework to one that empowers real-world implementers, said HL7 International CEO Charles Jaffe, MD, PhD, turning healthcare big data into "the change vehicle it has always promised to be."
+"This is where the real change happens," he said. "Carequality and Commonwell have committed to developing a FHIR-based platform. In Silicon Valley, in the public space, and all around the world, there are companies that have committed significant investments to this."
+"This is an opportunity to take data into places that we never thought possible."
+It may be tempting to dismiss a room full of FHIR evangelists as little more than a factory for meaningless hype, but the enthusiasm was strongly tempered with a recognition that FHIR is still evolving, and will continue to do so for the foreseeable future.
+"Release 3 is an important milestone that will enable a host of functionalities that weren't present in previous iterations," said Jaffe. "But like all standards, it isn't going to be useful if it doesn't change. FHIR will be evolutionary as the world of analytics blossoms."
+READ MORE: A FHIR Future Burns Brightly for Population Health Management
+The world of big data analytics is blooming more quickly than many healthcare providers can cope with. Big data is now a fact of life, and the ability to move information back and forth wherever it needs to go has become a clinical and financial imperative.
+However, "the need for data has outpaced the industry's ability to deliver it," said Mike Baillie, Vice President of Optum Data eXchange at OptumInsight.
+"We want to get to the point where we can connect once and then use that data many times," he said. "We're not there yet. If we're going to do that, we need to get the incentives in the right places, and we need to combine the assets of multiple players – that means payers, providers, and developers working together to improve this fragmented data landscape we're dealing with."
+Data siloes aren't a new problem, but they aren't an intractable one, either. And they might not be the only thing going wrong with interoperability, says Shahid Shah, Entrepreneur in Residence at the AHIP Innovation Lab.
+"There is no interoperability crisis," said Shah, who is also Co-founder and CEO of Netspective Communications. "There are plenty of people supplying interoperability services. The real crisis is that we're not managing and coordinating the demand for interoperability with the huge amount of available supply."
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+When end-users, including providers, patients, and researchers, don't have access to the data they need to make better decisions, they end up on the wrong end of the "information asymmetry" equation, said Shah.
+"In the payer-provider, pharma-payer, or patient-provider relationship, there are some people who have more data than others," he explained. "When you have data inequalities, the party in power can charge more money for the things the other players don't know."
+"FHIR can be a way to reduce information asymmetry. It's the developer's job to make sure that whatever they're doing with FHIR ends up balancing that unequal data access situation. You have to match development to real, existing, applicable use cases if you want to get tangible value out of your efforts."
+The widespread emphasis on tying FHIR to real-world uses is one reason why the standard has thus far avoided the trap of getting too carried away by its own early successes.
+"Never embark on a use case before figuring out how it's going to bring dollars back into the system or measurably improve clinical outcomes," Shah warned.
+"If you have a solid business case, then you know that your management is going to have a reason to invest. The business case can highlight the priority of doing this, and that's how you grow adoption."
+If FHIR can stay anchored in its utility to the ultimate end user – the patient – then every stakeholder along the way can benefit from adopting FHIR-based tools, added Baillie.
+"The value-based care movement is putting some big dollars on the line for organizations that are taking on risk," he said. "There is a lot of money attached to the ability to understand data and use it to raise the quality of care."
+"Small improvements can snowball into major financial gains, but we won't get there unless we figure out how to build the pipelines that can serve up patient data when and where it's needed, with all the right protections in place."
+FHIR's maturity doesn't just show itself in the number of public releases or how long it has been at the forefront of the industry's thoughts. It is becoming mature because of the recognition that is perennially unfinished, which highlights both its limitless potential and the unending need to commit to making it work.
+"There's a real opportunity to have these worlds come together," said Baillie. "One of the things that the payer industry has learned when trying to use claims data for value-based care is that straight and narrow data pathways just aren't going to cut it. Risk sharing requires that more people access the data, and that means we need to develop new ways to share information so that we're all speaking the same language."
+"We all want to take those lessons and make something good out of them. FHIR is one way that we can do that."
+Tagged Analytics InfrastructureFast Health Interoperability ResourceFHIRHealth Information ExchangeInteroperabilityInterviewsValue Based Care
+
+

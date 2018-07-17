@@ -1,0 +1,21 @@
+Quovo Launches New Solutions to Enable Smarter, More Reliable ACH Payments
+
+May 19, 2018
+
+The new solutions mark the data platform’s official entrance into the payments industry.
+
+ Quovo, a data platform providing connectivity to consumer financial accounts, announced at the NACHA Faster Payments conference the launch of two solutions that enable ACH payment originators to more efficiently debit and credit accounts and deliver an improved payment experience for their customers. The new solutions provide more reliable ACH verification and smarter payment management.
+
+ Niko Karvounis, co-founder and Chief Product Officer of Quovo said: “As a part of our ongoing our solutions-based strategy, we’re excited to launch solutions aimed at alleviating pain points experienced by ACH originators—from merchants and retailers to fintech applications and financial institutions—that rely on quick, reliable payments and transfers. We’ve built solutions that not only help originators initiate direct debits and credits more effectively but also create a more seamless, user-friendly payments experience for consumers.”
+
+ The ACH verification solution can be plugged into the beginning of an ACH transaction workflow to confirm account ownership with instant account verification or Quovo’s patent-pending Autoverified Microdeposits prior to initiating successful ACH transactions. With faster account verification, companies can deploy a streamlined digital onboarding experience and transact with greater confidence.
+
+ Built with Quovo’s Income + Expense and Balance Estimator products, the payment management solution enables originators to proactively monitor cash flow patterns and predict future account balances ahead of recurring debits. Originators can leverage this ongoing assessment of account activity to determine the best day to debit and foresee issues that could disrupt debit processing, significantly reducing the likelihood of payment delays or customers incurring non-sufficient funds (NSF) fees.
+
+ Quovo co-founder and CEO Lowell Putnam said: “Our movement into payments demonstrates the utility of Quovo’s technology across a breadth industries, and we’re excited to deliver solutions to some of the major obstacles faced by payment originators. With expedited account verification and deeper insights into payers’ accounts, originators can meet the growing consumer demand for faster payments—and do so with a personalised touch.”
+
+ About Quovo
+
+ Quovo is a data platform providing connectivity to consumer financial accounts. Quovo centralises, organises, and enriches data from millions of accounts across more than 14,000 institutions to provide businesses with a comprehensive picture of each customers’ financial identity. With industry-specific solutions, clients from emerging fintech startups to Fortune 500 companies rely on Quovo for its seamless technology and rich data insights to deliver more personalised and frictionless customer experiences. Quovo’s unparalleled coverage of the financial ecosystem, powerful data analytics, and flexible deployment options propels businesses in uncovering opportunities to grow their relationships with customers.
+
+

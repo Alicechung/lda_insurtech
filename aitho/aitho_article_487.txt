@@ -1,0 +1,21 @@
+Otonomo Announces The Consent Management Hub
+
+23 May 2018
+
+The first capability to simplify automotive data sharing for OEMs and mobility service providers, offering more control of driver opt-in for services that use personal automotive data
+Otonomo, the first neutral automotive data services platform, today announced the Consent Management Hub, a new capability within the Otonomo Platform. The Consent Management Hub provides an efficient way for connected car drivers to take control over the sharing of their personal automotive data. It simplifies the driver opt-in process for automotive manufacturers (OEMs) on the Otonomo Platform and validates consent with each personal data request from third-party mobility service providers.
+Read More: James Rodriguez To Launch Cryptocurrency With SelfSell
+Otonomo enables automotive data privacy ahead of #GDPR
+Sarwant Singh
+“Data security and privacy are among the most critical drivers or inhibitors in the next generation of mobility services,” said Sarwant Singh, senior partner at Frost & Sullivan. “Automotive OEMs and mobility service providers know how important it is to be responsible data stewards and earn consumers’ trust. We are impressed with Otonomo’s approach to consent management and applaud their effort.”
+The Otonomo Consent Management Hub puts drivers first, building privacy by design into all interactions with third-party service providers, and minimizing the need for them to collect personal data:
+Read More: Interview With Alexandre Debecker, Chief Growth Officer – Ubisend
+Drivers get full transparency about the data that will be shared with a particular mobility service as they grant consent through a mobile app or website operated by their OEM.
+Drivers can quickly grant consent for specific services to access their automotive data. They can revoke this consent at any time through the app or website.
+Service providers connect to the Otonomo Platform to get access to automotive data. Each time the service requests access to personal data, the Otonomo Platform automatically validates the existence of consent for the requested data.
+Amir Freund
+The Otonomo Consent Management Hub uses a networked architecture that connects multifaceted information flows between drivers, OEMs, and service providers. For example, in-vehicle delivery from retailers may require drivers to provide consent to both the retailer and a third-party courier service. By serving as a central point for these information flows, the Otonomo Consent Management Hub simplifies integration and delivers high scalability for automotive OEMs as well as all of the service providers in the network. As new partners join the network, all parties benefit from their services with no additional integration effort.
+Read More: How Citizen Health Is Redesigning Healthcare With An Open & Transparent Marketplace
+  “A single point of integration for diverse mobility services is the key to scale,” said Amir Freund, Chief Product Officer at Otonomo. “Consent management information flows for mobility services can get quite complicated. We believe that both OEMs and service providers will save a huge amount of development effort by taking advantage of a single integration to the Otonomo platform. We’re excited at the opportunity to break down the barriers to innovation and open up new opportunities to drivers and all organizations in the ecosystem.”
+
+

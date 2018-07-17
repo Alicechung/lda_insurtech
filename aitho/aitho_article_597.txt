@@ -1,0 +1,13 @@
+EXFO Solution Automates Network Troubleshooting
+
+14 May 2018
+
+Delivering a key missing link to operations automation and laying the groundwork for NFV and 5G
+EXFO, the network test, monitoring and analytics experts, launched the industry’s first solution that automatically links performance measurements to network topology to enable service degradation diagnosis in record time. EXFO Ontology’s automated common cause analysis module uses insights from EXFO’s network/service topology and real-time performance analytics solutions to automate the most labor-intensive steps of the troubleshooting process. Communications service providers (CSP) can find the source of severe service disruptions quicker than ever—even those that arise from obscure network transmission problems that are otherwise difficult to pinpoint.
+CSPs have flagged the deficit of automation in service assurance applications and lack of integration of assurance across services and infrastructures as important roadblocks on the road to network operations automation, even in advance of preparations for NFV and 5G. Diagnosing issues that simultaneously affect multiple services, cells or subscribers can take weeks and pinpointing the common root cause requires a multidisciplinary team. Creating that temporary team of highly skilled and valued subject matter experts is extremely disruptive to operations. In addition, escalation of support requests are also often the result of a lack of automated diagnostic tools. Customers need to contact support for service issues that a proactive automated system could have already found and solved.
+Automation is an essential way to both speed up resolution and keep many complaints from happening in the first place. Automated common cause analysis is the first solution to automatically detect both multiple and distributed KPI violations and then trigger a topology-driven analysis to determine the common cause and dramatically speed up troubleshooting. The use of an accurate, real-time topology is a unique central enabler; the ability to compute impacts of both alarms and KPIs violations across all network layers is a game changer.
+Claudio Mazzuca
+“EXFO is the only organization with a product portfolio of service assurance testing and performance metrics strong enough to create such an ambitious solution as automated common cause analysis,” said Claudio Mazzuca, EXFO’s Vice-President, Systems and Analytics. “Our solutions, covering everything from fiber to active and passive testing, make us uniquely positioned to turn this aspirational concept into a reality.”
+Learn more about the solution: visit EXFO’s booth (329) during Digital Transformation World (formerly TM Forum Live!) happening now through May 16 in Nice, France.
+
+

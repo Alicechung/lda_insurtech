@@ -1,0 +1,63 @@
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+
+March 07, 2017
+
+By Jennifer Bresnick
+March 07, 2017 - Interoperability and seamless data exchange are all the rage among regulators and vendors looking to give providers every decision-making advantage they can. 
+From meaningful use and MACRA to 21st Century Cures, CommonWell, and Carequality, the industry has thrown itself into a number of public and private efforts intended to make big data flow uninterrupted through pipelines connecting every provider in the nation.
+In theory, the more information available to a clinician, the better they can treat their patients. 
+But it’s very easy to give clinicians too much of a good thing, says Dr. Michael Blackman, Chief Medical Officer at McKesson Enterprise Information Solutions – and large-scale data dumps without a way to extract truly actionable information may produce the opposite of the outcome intended.
+Dr. Michael Blackman, CMO at McKesson Enterprise Information Solutions
+Source: Xtelligent Media
+Physician burnout is an epidemic issue, especially for the worryingly large percentage of organizations still struggling to nail down the basics of electronic health record workflows. 
+READ MORE: Incomplete Population Health Data Exacerbates Care Disparities
+In February of 2016, a survey by Studer Group found that a whopping 90 percent of physicians felt burned out at some point during their careers – two-thirds considered leaving the profession all together due to regulatory burdens, documentation requirements, and frustrations with the healthcare system.
+Organizations themselves aren’t doing that much better.  Seventy percent of hospitals participating in a Black Book Research poll are unable to integrate external data into their electronic health records, mirroring ONC data from 2016 that found only a limited proportion of organizations can import and integrate EHR data without manual entry.
+Unfortunately, the situation may be even worse for those who have managed to overcome the technical obstacles and now face a fire hose of unfiltered data that can overwhelm clinicians and paralyze decision-making.
+“The initial complaint about interoperability was that providers weren’t getting any information at all,” said Blackman to HealthITAnalytics.com at HIMSS17 in Orlando.  “There was simply no exchange of data, which left them completely in the dark.  So we started to open up connections and they started to have access to data.”
+“But now we’re moving on to the second complaint, which is that they have information, but don’t know what to do with it – or they have information, but it’s just not useful.”
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+In the Black Book poll, more than twenty percent of physicians said that they can’t trust the accuracy of the patient data they do receive. 
+And a separate survey by CHIME and KPMG found that 38 percent of CIOs are planning to focus on the fundamentals of EHR optimization over the next three years, because they still haven’t gotten it quite right.
+The foundational idea of document-based exchange is contributing to the issue, Blackman believes. 
+“Interoperability between health systems is mostly about moving documents,” he explained. “If the formatting and integration are well done, then those lab results, pathology reports, and other documents could be very useful.”
+“But if it’s not done well, or if the documents are particularly voluminous…well now you’ve just dumped too many things or the wrong things into this provider’s lap.”
+READ MORE: CIOs Focus on EHR Optimization for Population Health, Analytics
+For patients with long medical histories, these documents could stretch into the hundreds or thousands of pages, many of which could be duplicates or no longer relevant. 
+“No one is going to read all of it,” said Blackman simply.  “It’s just impossible.”
+“Yet somehow you’re expected to have read every single piece of data just because now it’s digital.  In the old days, if you asked for a paper record, someone sent up a stack of manila envelopes three feet high and if you were lucky, you could find the one sheet of paper you were looking for.”
+Health Information Governance Strategies for Unstructured Data
+“But no one expected you to have read the whole thing.  All of a sudden, now that the data is in the computer, there is a mysterious expectation that you’ve seen all of it.  It’s not any more reasonable now than it was back then.”
+And the expectations, coupled with increasing pressures on providers to see more patients and deliver more comprehensive, data-driven care in the same short window of time, are driving some clinicians into denial.
+“There is a very strong temptation just to ignore all of it, especially given the time constraints most clinicians face,” said Blackman.  “But then if something goes wrong, the question becomes, ‘Well, you had access to 5000 pages of information.  How come you didn’t read them in the ten minutes that you had with the patient?’”
+“It may seem absurd, but from a legal standpoint, it’s not unreasonable.  And it makes some physicians think that they’d rather not have access to any of it.”
+“If everyone knows they didn’t have the information, they can’t be held liable for not using it to make a decision.  In their eyes, it might be better than being responsible for some nebulous bad thing that’s floating around in the data even though they don’t have the time or the tools to find it.”
+McKesson and other EHR vendors are working furiously to streamline displays and leverage innovative technologies to tailor insights at the point of care. 
+Natural language processing and machine learning are becoming viable methodologies for extracting specific pieces of relevant information, and application programming interfaces (APIs) and data standards like FHIR are helping the industry move away from the basics of document-based interoperability.
+But even as technology improves, the pressures keep growing – and at a faster rate than the coping strategies.  Value-based purchasing and risk-driven population health management initiatives are making physicians increasingly responsible for socioeconomic health factors that have not traditionally been under the clinical umbrella.
+“Lifestyle issues like smoking, medication adherence, and the vast majority of other determinates of health exist outside of the usual clinical system,” said Blackman.
+“For a certain type of patient, you can bring some of those things into line with a care coordinator and some outreach.  Increasingly that will involve home monitoring devices and the Internet of Things, so that your congestive heart failure patient can step on a Bluetooth-connected scale every morning.”
+Those measurements can certainly help clinicians make care decisions, predict downturns, and enact interventions before a patient lands in the emergency room or the inpatient ward. 
+“If you give me the weight of a CHF patient every single day, I can every likely tell you three days in advance that she’s headed for a hospital admission, assuming no one intervenes,” Blackman said.
+The information can be extremely useful, he added, but it opens up a new pipeline that could just drown physicians in more and more raw data.
+Preventing Big Data Pain Points During a Healthcare Encounter
+“It’s hard work to develop the algorithms that will flag the changes most pertinent to that patient and send that data to a provider in a manner that will allow for an appropriate intervention,” he asserted.
+“Then you’ve got to enact that intervention – and the fact of the matter is that patients won’t do things that they don’t want to do.  It’s not always easy to understand what will make a difference and what is going on in the patient’s environment that may be preventing positive change.”
+The solution is to develop tailored clinical decision support tools and truly intuitive EHR interfaces that draw providers’ eyes to the most pertinent data without forcing them into a prescribed clinical pathway that may or may not align with the patient’s individual circumstances and needs.  
+
+“If we can present data to clinicians in a way that is clear, helpful, and intuitive, we will be in a better place to drive change,” said Blackman.  “Decision support has to be somewhat passive.  It should provide suggestions for next steps based on what’s going on with the patient without forcing you to drop everything and pick from a list.”
+“Not every suggestion for what a physician ‘should’ do next will match up with the patient’s wishes or situation, so it has to encourage collaborative decision-making without driving the provider into a choice that doesn’t make sense.”
+Achieving that goal is, of course, easier said than done.  Clinical decision support tools are often full of glitches and inconsequential alerts, poorly integrated into the workflow, and not robust enough to provide meaningful information for a broad spectrum of patient concerns.
+Datasets that are incomplete or exhibit low levels of data integrity can compound accuracy issues, and insufficient integration with a wide enough range of data can limit the usefulness of decision support technology.
+“If we can mix claims data with clinical data and other datasets, then we can start getting a better picture of patients and their risks,” Blackman suggests.
+Solutions for Addressing Health Information Exchange Challenges
+“For example, you may do blood cultures on a patient with an infection, and the clinical decision support tool might pop up with three different antibiotics that would all work.  But what if we added the costs of each one and the efficacy along with it?  Then you’ve got something to work with, because the choice with 98 percent efficacy could be $10,000 a dose, and the one with 92 percent efficacy is $100 a dose.” 
+If the less expensive drug can produce similar outcomes without adverse effects, “even the patient is likely to agree that’s a reasonable tradeoff,” he said. 
+“But without that information at the point of care, I’m spending $10,000 on an outcome that I could have achieved for a fraction of that price.”
+Blackman would like to see health IT vendors continue to work towards improving decision-making by fine-turning data and EHR workflows instead of limiting the amount of available information.  And he would very much prefer that providers do not bury their heads in the sand and ignore the potential to change patient care for the better.
+Instead, they should work with developers to make EHRs more intuitive, helping them to leverage big data insights as they rise to the challenges of value-based care, population health management, and emerging regulatory requirements.
+“I think having more information is better than having none, because at least it gives you the potential to solve the problem,” he said. 
+“We still need to make that process much, much easier, and we need to do it in a way that doesn’t exacerbate the epidemic of burnout that we’re dealing with.  But the potential is there.  That’s a promising thing.”
+Tagged Analytics InfrastructureClinical Decision SupportHealth Information ExchangeHealthcare Data GovernanceInteroperabilityInterviewsPopulation Health Management
+
+

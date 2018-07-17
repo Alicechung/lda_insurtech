@@ -1,0 +1,17 @@
+ICD-10 will be the foundation of “exciting” data analytics
+
+August 28, 2013
+
+By Jennifer Bresnick
+August 28, 2013 - Without a solid foundation of clear, accurate, detailed data, analytics is more or less useless.  Among the many reasons to move from ICD-9 to ICD-10 is the fact that ICD-10 provides higher quality information to work with.  The detail and specificity that might plague providers is a godsend for researchers and health information management (HIM) professionals seeking answers to financial, clinical, and organizational problems within the databases and indices that ICD-10 will produce.
+While medical coding is primarily seen through the lens of reimbursements, there’s much more to ICD-10 than just getting paid, Bonnie Cassidy, MPA, RHIA, FAHIMA, FHIMSS, 2011 AHIMA President and Senior Director of HIM Innovation for Nuance reminds the industry.  “You don’t just want to do coding for the sake of transactions.  When ICD-9 was introduced, there were no DRGs.  You weren’t coding for reimbursement.  You were coding so you’d have the medical indices and surgical indices so people could do research.  You wanted to have information for the future to be able to evaluate your population.  We’re starting to realize once again that coding is for a lot more than reimbursement,” she told HealthITAnalytics.
+“It’s very good to have detailed information for DRG assignment and identifying quality metrics and all of those things that are all totally in the reimbursement model,” Cassidy continues.  “But the other track of coding going into medical information databases is really going to be moving forward to be used and blended with other information, whether it’s from finance, quality, or demographics.  It might be used for comparative analytics to gauge your hospital against other facilities in the region, or for predictive analytics, to target populations at risk for certain diseases.”
+The major feature of ICD-10 is the explosion of highly granular data that will result from having 141,000 possible codes to choose from, giving providers the ability to drill down in specificity to a surprising depth.  Population health management can benefit tremendously from this detail by allowing researchers to pinpoint outbreaks of certain conditions, predict the rise of chronic diseases in certain segments, and figure out how to maximize and allocate financial resources based on popular procedures or common ailments among a specific organization’s patients.
+Dig Deeper
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+21st Century Cures Act Passes House, but Faces Senate Critics
+Cancer Mortality Rates See 20% Drop, but Disparities Remain
+“Whatever the case might be, it makes it more exciting to realize that the coding we’re doing today is going to lead us into the future with a lot more of the comparative analytics, predictive analytics, and behavioral analytics,” Cassidy says.  “I think it’s going to be a very exciting time for coders to see that we’re moving into ICD-10, and there will be a new use for all of this data.  There are going to be so many secondary databases using the original information coded by the coders based on the clinical documentation that we’ve been focusing on the integrity of all along.  It really connects the dots on the value chain.”
+Tagged Big DataEHR UseHealthcare Data AnalyticsICD-10Medical Research
+
+

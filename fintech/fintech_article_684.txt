@@ -1,0 +1,23 @@
+Artificial Intelligence Learns The Stock Market
+
+July 26, 2017
+
+MIAMI, Sept. 28, 2016 — It was an accidental discovery. Miami based start up, Premonition, was set up to do legal analytics. They assembled the World’s largest litigation database and trained an artificial intelligence system to read it. The results were unexpected.
+
+ While primarily focused on finding the performance of individual lawyers before specific judges to determine potential relationships, they noticed that a particularly prolific foreclosure attorney produced an 83% win rate for one of his bank clients, while another was only winning 16% of their foreclosures, essentially the same case types.
+
+ “We couldn’t figure it out and had all kinds of foolish theories why,” Premonition co-founder and inventor, Toby Unwin confides. “A litigator visiting the office took one look at the numbers and told us “It’s the clients”. One client had solid chains of title, good documentation and was responsive to the lawyers handling their cases, the other, just the opposite, they were a disorganized mess. One company’s cases were can’t lose, the other’s couldn’t be won. A light bulb went off,” he continued.
+
+ Premonition concluded that courtroom results must eventually reflect in the company’s balance sheets and then in their stock prices. Selling a basket of soon to be under performers short and buying a basket of out performers should produce significant, market-neutral stock market returns. Being outside Premonition’s expertise, they turned to Desai Capital Management to build regressions and quantitative models around the data.
+
+ 
+
+ “It took several months to produce a final model because the amount of litigation data they had was so overwhelming. It really wasn’t possible to do this from any other data provider, because, amazingly, legal data suppliers like Thomson Reuters and LexisNexis don’t actually track litigation winners and losers,” Ashish Desai remarked. “The briefest overview of the data showed the best litigation performers outperforming the litigation losers with high levels of statistical significance amongst the mortgage concentrated stocks. Essentially we’re able to calculate relative stock market performance 9 to 24 months in the future; the courts are a crystal ball.”
+
+ Premonition and Desai believe the same approach can be applied to other litigation areas in addition to foreclosure. They’re training the artificial intelligence system to seek correlations in other investment areas. “It’s an exciting new area and we’re interested in talking to potential partners,” CEO, Guy Kurlandski said.
+
+ Guy Kurlandski, Premonition
+
+ Original CNBC: https://premonition.ai/artificial-intelligence-learns-stock-market/
+
+

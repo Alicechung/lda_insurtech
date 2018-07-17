@@ -1,0 +1,33 @@
+Patient Safety Errors are Common with Electronic Health Record Use
+
+April 21, 2017
+
+By Jennifer Bresnick
+April 21, 2017 - Electronic health record users are highly prone to making medication errors that negatively impact patient safety, says the Pennsylvania Patient Safety Authority in a recent report.  Close to 70 percent of all medication errors reach the patient, with approximately one-third of mistakes occurring during the administration process.
+Health IT glitches, incorrect CPOE use, hybrid paper-electronic workflows, and EHR documentation issues are among the top technology problems that contribute to medication prescription, dosing, and administration mistakes which can cause harm to patients.
+While EHRs and other technologies are intended to reduce errors and improve the safe, standardized, and well-documented delivery of care, some stakeholders believe that digital tools can simply serve to swap one set of mistakes for another.
+Poor implementation and lackluster user training can leave patients just as vulnerable to medication errors as they were when providers used paper charts, commented Staley Lawes, PharmD, BCPS, Patient Safety Analyst, and Matthew Grissinger, RPh, FISMP, FASCP, Manager of Medication Safety Analysis in the brief.
+“Patient safety is not improved by merely implementing health IT.  The technology is part of a larger sociotechnical system, which relies not only on hardware and software functionality but also people, workflow, and processes,” they said.
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+“For this reason, it is important to design a system with an intuitive user interface to minimize the risk for human error. Users should be able to easily enter and retrieve data and share information with other healthcare professionals.  When systems are designed without these considerations in mind, patients are subject to undue risk.”
+Those risks, which may be massively underreported across the industry, can produce serious patient harm. 
+The report examined 889 reported events from January 1 to June 30, 2016.  Errors occurred during every step of the medication cycle, including 38.1 percent during prescribing, 27.6 percent during transcribing, 8.8 percent at dispensing, and 32.2 during administration.
+Source: Pennsylvania Patient Safety Authority
+Thirty-five percent of incidents involved “high alert” medications, including insulin, anticoagulants, and opioids. More than 16 percent of events involved antibiotics.
+Dose omissions, wrong dosage or over dosage, and extra dosages made up one third of the mistakes. 
+READ MORE: HHS: Patient Safety Efforts Save 125K Lives, $28B in Spending
+“According to an analysis of the event descriptions, the most common cause of omissions was that the system did not work as expected or was unavailable due to downtime,” the report says.  Eight percent of omissions are attributable to health IT downtime or access issues. 
+Improper documentation of medication instructions in health IT tools also resulted in a high number of errors. 
+“Prescribers free-texting instructions as either a communication order or as a component within a medication order describing when to hold or discontinue a medication (11.6 percent, n = 11 of 95) was the most common cause of patients receiving extra doses of medication,” states the report.
+Source: Pennsylvania Patient Safety Authority
+Fifty-six errors were identified as communication issues stemming from the EHR.  More than two-thirds of those were related to prescribers entering free-text instructions in the order comments field, which were subsequently overlooked by a pharmacists or nurse. 
+More than a third of those comments included directions about holding or discontinuing medications, even though those instructions should have been entered by modifying the end date of the order in the CPOE module.
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+The study points out that modern medication errors tend to occur at the same point of the process as they did in 1993, when the vast majority of providers were using paper charting.
+A study from that time found that “most errors occurred during the ordering (49 percent) and administration (26 percent) stages, which is what was found in this analysis,” said Grissinger and Lawes.
+The similarity lends weight to the notion that human error and poorly designed processes are significant contributors to patient safety shortcomings, regardless of whether or not these processes are supported by paper charts or electronic health records.
+“The interaction between clinician and software is a key component that is to be taken into consideration when trying to improve the safety of health IT,” the report says. “Incident reports can provide valuable information about the types of HIT-related issues that can cause patient harm, and ongoing HIT system surveillance can help in developing medication safety interventions.”
+“It is clear that ongoing health IT system surveillance and remedial interventions are needed.  Efforts to improve health IT safety should include attention to software interoperability, usability, and workflow. The relationship between clinician and software includes complex interactions that must be considered to optimize health IT’s contribution to medication safety.”
+Tagged Care QualityEHR DowntimeEHR UseHospital QualityPatient Safety
+
+

@@ -1,0 +1,36 @@
+PGHD, Genomic Data Predicted to Power Clinical Decision Support
+
+March 13, 2017
+
+By Jennifer Bresnick
+March 13, 2017 - Patient-generated health data (PGHD) and individualized genomics are expected to become two of the most impactful data sources for clinical decision support, population health management, and care coordination over the next five years, according to a survey by NEJM Catalyst.
+Healthcare executives and clinicians both believe that these novel data sources will become increasingly important as the industry continues to develop its analytics competences, while claims data, pure clinical data, and pharmaceutical information are likely to decrease in importance over the next five years.
+“Over the past few years, physicians and provider leaders have been frustrated with the limitations of health care data,” wrote Amy Compton-Phillips, MD, Executive Vice President and Chief Clinical Officer at Providence St. Joseph Health.
+Insufficient data integrity, significant interoperability barriers, and the high costs of implementing advanced analytics infrastructure have left many organizations wondering how to rescue investments that have not produced quality returns on investment.
+Nearly three-quarters of respondents flagged interoperability as one of their biggest barriers to using patient data effectively.  Sixty-two percent said data collection is just too difficult, and 60 percent added that the time required to work with big data was prohibitive. 
+READ MORE: Health Data Interoperability Requires Patience, Persistence
+Just nineteen percent of participants in the survey believe that their organization is using data very or extremely effectively for patient care, while 40 percent are disappointed with the ability to access and leverage meaningful insights.
+“Much like the anticipation over EMRs in the early days, providers expected big data to solve all of health care’s problems,” said Compton-Phillips. “When it didn’t, disillusion set in.”
+But provider attitudes may be on the upswing, the poll revealed.  Participants largely agreed that the industry has significant opportunities to address some of healthcare’s most critical goals.  Some historically challenging issues, including physician resistance, appear to be on the way out. 
+Eighty-one percent believe data analytics will improve care coordination, and 79 percent said the same of clinical decision support. 
+Source: NEJM Catalyst
+Sixty-eight percent are looking forward to more accurate predictive analytics, but only 45 percent said that precision medicine was an important aim, despite the growing interest in leveraging genomics and personalized patient data for decision-making.
+READ MORE: 73% of Orgs See ROI from PGHD, Healthcare Big Data Analytics
+While just 17 percent of participants believe that genomic data is valuable right now, the five-year outlook for DNA testing results is bright.  By the end of the decade, 40 percent of respondents believe that genomics will be one of the top three most useful sources of health information.
+Patient-generated health data, including information from wearables, mHealth apps, and home monitors, will see a similar bump in usefulness.  Thirty percent think PGHD has a meaningful place in the current care process, but 40 percent believe it will produce meaningful results five years from now.
+Interestingly, however, not all providers who think PGHD is important are very keen on letting patients see how clinicians are using that information. 
+Just 63 percent of respondents would want patients to see outcomes information related to individual physicians, although 73 percent are happy to reveal hospital-related outcomes data and more than 90 percent think direct access to the patient’s own medical records is acceptable.
+“There is real concern that individualized outcomes information will result in ‘cherry-picking’ — dissuading physicians from treating the highest risk, most vulnerable members of society,” Compton-Phillips pointed out.
+READ MORE: Can Healthcare’s Internet of Things Move from Froth to Function?
+In contrast to the rise in PGHD and genomics, some mainstays of big data analytics and clinical decision support might lose their pride of place. 
+Clinical data, claims data, and pharmaceutical data may all see reductions in value over the next few years, although analytics tools will still rely heavily on clinical and cost data to feed their algorithms.
+Source: NEJM Catalyst
+“This rejiggering of the top useful sources of health care data tells us that people realize cost matters,” said Compton-Phillips. “What’s more, they expect that personalized medicine, powered by data, will reduce the costs of care while simultaneously improving patient outcomes.”
+“Combining information from devices, patient feedback, and patient biomarkers will be powerful and will catapult care forward in a way we can’t attain today.”
+In order to providers to achieve these successes, however, health IT developers will need to create more intuitive and reliable methods for aggregating, analyzing, and presenting big data to users at the point of care.
+The survey revealed only tepid approval of electronic health record functionality and usability, and only 32 percent of respondents said that they believe there are useful big data applications available on the marketplace today.
+Forty-four percent said it will likely take several years before healthcare organizations have access to clinical decision support, predictive analytics, and data-driven care coordination technologies that will truly raise quality and outcomes.
+“We have entered an exciting era where big data has the potential to become a game changer for health care,” stated Compton-Phillips. “Providers are poised to put data into the hands of consumers and payers to drive a value-oriented care delivery system that enlightens patients about their health and the path to affordable care.”
+Tagged Analytics InfrastructureCare CoordinationClinical Decision SupportGenomicsPatient Generated Health DataPopulation Health Management
+
+

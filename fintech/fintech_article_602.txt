@@ -1,0 +1,25 @@
+eWise Introduces Free Trial Of Categorisation-as-a-Service API For Developers
+
+September 20, 2017
+
+September 19th, 2017: eWise, a leading international provider of financial data aggregation and data analytics APIs, is now giving free access to Categorisation-as-a-Service (CaaS) API, allowing early stage developers to quickly test their business solutions. eWise CaaS automatically categorises users’ financial transactions.
+
+ It is available as a standalone API that can be integrated directly within the developer’s app or can be connected with eWise Aegis data aggregation platform. eWise CaaS is a truly international service, understanding transaction descriptions in a variety of languages.
+
+ The categorisation process is independent of where the transaction comes from and applicable in any country around the world. A personalised experience through user assisted categorisation eWise understands through experience that auto-categorisation can never be 100% accurate using a fully automated Artificial Intelligence tool.
+
+ Machine learning models have a degree of error, spend attribution can be extremely personal and eWise CaaS turns these attributes into a powerful feature. “Assisted Categorisation” allows users to control their preferences and works in collaboration with auto-categorisation, to maximise categorisation accuracy. Free testing environment to build innovative Solutions and Proof of Concepts.
+
+ The eWise CaaS FREE package will give 3 months live access to the eWise CaaS API and comprehensive API documentation. No setup fee and transaction fees are applicable during the trial period. To qualify for this FREE program, businesses have to be in the process of developing a product that has not gone live.
+
+ After the free trial period of 3 months, businesses can upgrade to the PRO or ENTERPRISE plan, details are available on eWise website.This package is designed to allow early stage developers to quickly gain momentum before building their solution.
+
+ eWise CaaS is part of a global strategy at eWise, opening up an ecosystem of API services and SDKs to developers, leveraging eWise expertise in data aggregation, transaction categorisation, cash flow forecasting, spend and income analysis.
+
+ About eWise
+
+ A leading international provider of Financial Data Aggregation API and Money Managementsolutions. eWise has delivered award winning solutions to many of the world’s most innovative financial services brands including Retail Banks such as HSBC and Westpac, and to wealth management firms and FinTechs. Founded in 2000 and headquartered in Switzerland, eWise has operations in the US, Europe, Asia and Australia. eWise holds patents in the United States, the Asia-Pacific and Europe.
+
+ eWise http://www.ewise.com/ 
+
+

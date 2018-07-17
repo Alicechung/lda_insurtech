@@ -1,0 +1,21 @@
+Broadridge, J.P. Morgan, Northern Trust and Banco Santander Successfully Complete Pilot of Blockchain-Based Proxy Vote Solution
+
+April 17, 2017
+
+Companies successfully complete blockchain proof of concept to enhance transparency in the proxy voting process. Broadridge Financial Solutions, Inc. (NYSE:BR), J.P. Morgan, Northern Trust and Banco Santander today announced the successful completion of a pilot which employs a blockchain technology to enhance global proxy vote transparency and analytics.
+
+ The pilot, Broadridge’s first application of blockchain technology, provides transparency by adapting distributed ledger technology capabilities to provide daily insight into vote progress throughout the issuer’s proxy voting period, from meeting announcement date to the annual general meeting. The application ensures role-based access to voting data through use of cryptography and smart contract technology and is built on an Ethereum blockchain platform.
+
+ “This pilot demonstrates Broadridge’s commitment to developing innovative technology solutions to enhance transparency in the global proxy voting process for the mutual benefit of all stakeholders, ultimately improving corporate governance for all,” said Vijay Mayadas, Senior Vice President and Global Head of Corporate Strategy at Broadridge. “We believe blockchain will drive increased quality and efficiency in the voting chain by reducing complexity that exists within the process today,” he added.
+
+ “We are pleased to partner with Broadridge in undertaking this innovative endeavor as we explore the use of blockchain to drive efficiencies across the custody space,” said Chris Rowland, Global Head of Custody at J.P. Morgan.
+
+ “Corporate Governance is a key focus for our custody clients and we are pleased to collaborate with Broadridge on this important initiative,’’ said Justin Chapman, Global Head of Market Advocacy & Innovation Research at Northern Trust. ‘’Providing end-to-end vote transparency using blockchain as an enabler has the potential to significantly improve the proxy voting process.”
+
+ Julio Faura, head of the Blockchain Lab at Banco Santander, said “After piloting this blockchain-based platform with Broadridge, we see that proxy voting makes an interesting case where distributed ledgers and smart contracts can add transparency and efficiency to financial services, to the benefit of our corporate and institutional clients.”
+
+ “The success of this pilot program reflects Broadridge’s unique ability to leverage our domain expertise and deliver blockchain innovation to all industry participants,” said Patricia Rosch, senior executive managing Broadridge’s international proxy business.
+
+ The pilot was run in support of a corporate issuer’s annual general meeting (AGM) and included participation of Santander Investment, the issuer’s agent.  The pilot was run in parallel of the AGM, with the blockchain being utilized to produce a “shadow” digital register of the proxy voting taking place in the traditional model.
+
+

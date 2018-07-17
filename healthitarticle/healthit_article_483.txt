@@ -1,0 +1,45 @@
+Bidirectional Health Data Exchange Key to Behavioral Healthcare
+
+May 03, 2017
+
+By Jennifer Bresnick
+May 03, 2017 - As more and more healthcare providers start moving into value-based care models that prioritize patient outcomes, they are quickly realizing that the current generation of health data exchange tools is not up to the task of coordinating care for patients with substance abuse disorders, chronic diseases, and behavioral healthcare needs.
+Organizations are eagerly seeking the health IT tools that can enable transparent, timely, and complete communication between clinical care providers, the world of behavioral healthcare, and the community service providers who support patients in their daily lives. 
+But deeply entrenched technical and workflow barriers are preventing a truly collaborative care ecosystem from delivering necessary treatment to a growing number of complex patients, says David Conejo, CEO of Rehoboth McKinley Christian Health Care Services, a non-profit hospital near Gallop, New Mexico.
+“Interoperability is one of the biggest technical barriers preventing care coordination,” he said.  “As we all know very well, most electronic health records don’t exchange patient data seamlessly.  And most health information exchanges are only one-way.”
+David Conejo, CEO of Rehoboth McKinley Christian Health Care Services
+Source: Xtelligent Media
+“For example, my hospital can only push data to our HIE right now.  It’s great that other care providers can retrieve patient data from us.  But after we refer a patient to another provider, we have no clue what treatment, procedure, or medication the other facility delivered to our patient.  That makes it extremely difficult to collaborate at the level we need to.”
+READ MORE: Why HIE Data Analytics are Critical for Behavioral Healthcare
+Unidirectional health information exchange does not enable the level of communication and conversation required to treat patients with behavioral health and physical health needs, said Thanh Tran, CEO of Zoeticx Inc., to HealthITAnalytics.com.
+“If a patient shows up at an urgent care facility and receives treatment, that data doesn’t get back to the primary care provider,” said Tran.  “The only way the primary care provider knows about that is when the patient decides to give them that data, because the PCP can’t pull information from all of the possible business partners in the area to know when there’s been a change.”
+Behavioral healthcare patients with substance abuse disorders, including addictions to opioids and alcohol, often require attention from a vast array of different providers.
+“When a substance abuse patient shows up, they need a physical and mental examination before they can check into the behavioral health center,” explained Tran.  “The intake coordinator starts that process, then the patient sees a nurse, and then a counselor.  But the person also has depression and needs to see a psychiatrist; and they also need to go to the detox center at the hospital.”
+“Chances are they also have social problems to worry about.  Maybe they have to fight in the courts for child support, or they’re in the middle of a bankruptcy case, or they’re headed to jail.   Most of the patients in that mode are very stressed, and they simply can’t carry their paperwork to every clinic and remember to give the right information to the correct provider.”
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+Patients in this difficult situation are often unable to receive the comprehensive care they need to address any physical or mental health comorbidities that may be contributing to their poor health status. 
+Mental, behavioral, and physical health are inextricably linked, the World Health Organization noted in a 2014 report. 
+In one study from Scotland, more than three quarters of patients with a diagnosis of depression also suffered from at least one other chronic disease.  Fifty-six percent of patients with anxiety and 46 percent of those with schizophrenia or bipolar disorder also experienced three or more chronic conditions.
+“Even assuming that the patient completes the full cycle of behavioral health and addiction services, they still have to contend with their hypertension, diabetes, and depression,” Conejo pointed out. 
+“Without addressing those conditions as well, the patient can easily fall back into drug addiction and alcoholism – and then they will end up right back in the addiction clinic.  We refer to this as the ‘revolving door’ care environment.  Without a collaborative aspect, it would be a never-win situation for care providers.”
+Thanh Tran, CEO of Zoeticx Inc.
+Source: Xtelligent Media
+READ MORE: Maine’s HIE Analytics Cut ED Visits, Integrate Behavioral Care
+It may be largely ineffective to simply treat a single condition in isolation from a patient’s other needs, but the collaborative tools required to comprehensively treat a patient’s multifaceted requirements “simply aren’t there,” added Tran, due to shortfalls in the health data interoperability landscape.
+“And unless you address the entire problem – social, behavioral, and physical – you can’t achieve better outcomes.  In order to create that environment, we need bidirectional health information exchange.”
+“What if, instead of calling patients time and again to make sure they show up to their appointments, we sent the patient an email or a text message telling them where to be, and only follow up manually if we don’t get a confirmation that they received the information?  That would save a lot of effort on the part of the providers and social workers.”
+Healthcare organizations are starting to adopt care coordination and population health management tools that will help them alter their workflows, but the process of integrating these health IT modules with existing EHR infrastructure can challenge organizations without expansive coffers.
+“Adding new components into our IT infrastructure shouldn’t be a burden on our budget,” Conejo stated. 
+“We want to look for tools that are innovative enough to challenge the status quo without causing a financial issue.  Can we leverage cloud technology and a web interface to allow a quick roll-out and avoid burdens on our data center?  How about a tool that can be deployed quickly to our staff without months of training?  These requirements seem simple, but in reality can be almost impossible to fulfill.”
+More health IT vendors are now venturing into the population health management and care coordination market in response to a growing demand for value-based care tools, and organizations like Rehoboth McKinley Christian Health Care Services may soon find it easier to acquire the health data exchange tools they need to support a collaborative care ecosystem.
+Yet even with the most sophisticated, innovative, and affordable health data exchange platform, providers will need to pay close attention to their workflows and patient care processes if they wish to succeed with holistic, collaborative care.
+“We need to develop the right touchpoints and the right flow of data to make sure that we’re enabling care coordination without overwhelming providers,” said Tran.  “We want to build an integrated community across the board, and we’re going to need a lot of different providers to come together if we’re going to do that.”
+“The goal is to create an ecosystem centered on physicians but with the social and community care systems around that, and bidirectional health information exchange to connect every single point in that system with every other.”
+Architecting standardized and streamlined workflows will allow care providers to focus on their top priority: building meaningful and effective relationships with the patients they serve, said Conejo.
+“Care providers want to care for patients,” he said simply.  “What I have observed over the years is the lack of any IT support environment to assist care providers with process and workflow. Providers have been burdened with tasks such as coordination, collaboration and tracking medical activities among them.”
+“Every provider likes the idea of the right information in the right place at the right time, but we won’t be able to get there if we keep requiring providers to be the ones searching out the information they need to do their jobs.”
+Without a seamless, bidirectional health data exchange infrastructure to serve up critical patient information to all members of the care team in a meaningful, intuitive manner, he added.
+“Bidirectional communication allows everything else to fall into place: the economics, the smarter use of a physician’s time, and ultimately better patient outcomes,” he said.  “What would it be like to try to talk to a colleague in person if they just stare at your but don’t respond to you? You couldn’t get anything done.”  
+“A streamlined process and workflow are the key elements to removing obstacles from the path of providers so that they can direct their focus on patient care.”
+
+

@@ -1,0 +1,21 @@
+Apply Financial to allow Corporates and Financial Institutions to save £1m’s in operational costs
+
+November 15, 2017
+
+London 14th November 2017, Apply Financial have announced today that Corporates and Financial Institutions can use their new self-service website to easily validate digital bank payments at the point of entry using Validate API, allowing Corporates and Financial Institutions to save £1m’s in operational costs and stop the time wasted and hassle of dealing with failed payments and unhappy clients.
+
+ A payment entered incorrectly becomes a missing or late payment that costs money, hurts relationships and causes frustration between customers, suppliers, banks – in fact all involved in the payment process.  Bank payment validation has always been an arduous job, if a payment is not entered correctly it will bounce back or even go missing and will need manual intervention and lots of time to sort out the problem.
+
+ Validate API takes the ‘arduous’ out of bank payment validation.  ‘Our customers tell us that on average, in time and resource, it costs £50 to fix a bank payment that is entered incorrectly, so if just 8 payments need to be fixed per working day that amounts to over £100,000 per annum wasted on fixing payments, which, with Validate API can be entered correctly first time,’ comments Mark Bradbury, Founder of Apply Financial.
+
+ Validate API plugs into existing systems and processes for single payment or bulk file based validation to ensure the correct account number and bank code are entered, and the bank payment has all the supporting information to make sure a global digital bank payment can be made on time.  If the bank payment is not entered correctly and does not have all the correct supporting information, such as in country payment codes and holiday data this leads to delays, Validate API will prompt the user to make changes. ‘Validate API is best used at payment entry rather than later on in the process when it is time consuming and costs more to fix, so only clean payment information is entered’ adds Mark Bradbury.
+
+ The new website www.applyfinancial.co.uk enables our clients to trial, integrate, test and go live with Validate API and Validate Data Manager API in a self-service environment and we only charge once live with our solution. ‘In many cases our clients, have told us that when choosing technology, they require the solution to be up and running in weeks rather than projects running into months even years and disrupting other areas of the business’ comments Martin Eves, CTO, ‘We have taken this on board. Validate API and Validate Data Manager API can be incorporated seamlessly into existing systems and workflows and in addition our comprehensive set of reporting tools can track how much money Validate is saving them in real-time’.
+
+ Even if payments are made on a regular basis for example direct debits the bank payment details may change, for example the branch has closed, the bank has been acquired, had to change due to regulatory requirement etc, the bank data needs to be kept compliant so should be checked at regular intervals, with Validate Data Manager clients can do regular checks of all their beneficiary and D/D client details to make sure these accounts are current and compliant just by loading a payment file.
+
+ Validate API and Validate Data Manager come with a full suite of real time reports, so a CFO or Corporate Treasurer can look in real time at the amount of payments that are being made and where any errors occur, this information can then be used to streamline payment entry, educate the clients customers or used for inhouse training.
+
+ Apply Financial solutions have been helping banks, NBFI’s and corporates since our incorporation in 2010.  We have helped reduce operational costs by increasing the STP rates of payments for around 700 clients. Our solutions are a combination of a cloud based comprehensive global payment reference data, which is updated on a daily basis and a functionally rich API with stops the need of any coding.  For further information or if you would like to talk to us about how Validate API and Validate Data Manager API can help with Realtime payments and save you time and money visitwww.applyfinancial.co.uk email us at sales@applyfinancial.co.uk  or call +44 333 012 4618.
+
+

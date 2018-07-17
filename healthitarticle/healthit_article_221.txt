@@ -1,0 +1,33 @@
+New Automated System Prevents Medication Administration Errors
+
+January 29, 2018
+
+By Jessica Kent
+January 29, 2018 - A real-time automated system showed significant improvement over current practices in identifying medication errors, according to a study published in JAMIA.
+Ni et al. developed a real-time medication administration error (MAE) detection system within a neonatal intensive care unit at Cincinnati Children’s Hospital Medical Center (CCHMC). The research team sought to evaluate the automated system prior to its integration into clinical workflows.    
+Physicians identified 116 MAEs from 10,104 medication administrations between January and April 2017. The automated system detected MAEs with a sensitivity of 85.3 percent, compared to current practices with a sensitivity detection of 4.3 percent.
+Dig Deeper
+Patient Safety Errors are Common with Electronic Health Record Use
+Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+6 EHR Patient Safety Strategies for Medication Orders, CPOE
+In addition, the automated system had a positive predictive value (PPV) of 78 percent and is likely to decrease the duration of patient exposure to potential harm from 256 minutes to 35 minutes.
+Of the 116 MAEs observed in the study, 72 percent were clinical errors that would adversely affect patients. Thirteen percent involved substantial overdose or underdose. The automated system detected 86.7 percent of clinical errors that would reach patients and 100 percent of substantial overdose or underdose errors.
+Although organizations have implemented technology to combat MAEs (e.g., electronic health records, smart infusion pumps), these errors remain common in healthcare settings.
+“As indicated by a recent systematic review of 91 studies, approximately 20% of hospital errors were MAEs, a significant proportion of which were associated with harmful effects such as adverse drug events,” Ni et al. wrote.
+According to researchers, current error detection practices are often too resource-intensive or have low PPVs and are apt to cause alarm fatigue, with physicians receiving an overwhelming number of alerts throughout the day and possibly overlooking critical notifications. As a result, patients may not receive immediate response to serious concerns.
+A 2016 study found that physicians spend approximately 66.8 minutes each day addressing EHR notifications. Of the 76.9 notifications providers received on average daily, only 15.5 were related to patient test results.
+Recent dose systems report a PPV of less than 18 percent in real-time settings, researchers noted. The 78-percent PPV achieved by their automated system shows promise for guarding against alarm fatigue.
+“The system triggered approximately one error notification per day for all medications in aggregate during the study period, suggesting a minimal increase in staff workload for a potentially large safety benefit,” they wrote.
+In addition, Ni et al. note that the automated system demonstrated an improved capacity to analyze the many dose adjustments made during dynamic medication processes, which is when clinicians are more likely to make errors.
+“The automated system captured all rare but substantial dosing errors, for which early recognition is most critical,” they wrote.
+“By leveraging real-time messaging technology, the system has the potential to reduce harm exposure significantly for all medications,” Ni et al. continued, “and the most substantial reductions were realized for long-time intravenous medications and infusions.”
+The automated system made 45 errors when detecting MAEs. Twenty-nine percent occurred due to the system relying on clinician-documented feeding rates, which caused errors when the rates weren’t updated. To improve this, researchers plan to integrate real-time feeding information directly from smart infusion pumps.
+Twenty-seven percent of these errors occurred because the system’s natural language processing (NLP) component failed to identify the correct information when free-text communication contained similar medications or temporal expressions.
+Ni et al. contend this problem could be mitigated through the system’s learner module, which is designed to actively incorporate new NLP expressions during periodic system improvement.
+Finally, researchers noted they will need to deploy the system into clinical workflows in order to fully evaluate its performance as a result of studying the system’s performance prior to its implementation in clinical practice.
+Despite these limitations, researchers claimed the use of an automated system has the potential to improve clinical practices.
+“The system demonstrated good capacity for identifying MAEs while guarding against alert fatigue. In particular, the system could significantly reduce patients’ exposure to potential harm following MAE events,” Ni et al. wrote.
+“We hypothesize that the automated MAE detection system, once fully deployed, holds great potential to significantly mitigate medication safety events among neonatal patients,” they concluded.
+Tagged mHealth and Alarm FatiguePatient CarePatient OutcomesPatient Safety
+
+

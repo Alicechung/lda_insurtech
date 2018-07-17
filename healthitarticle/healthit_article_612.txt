@@ -1,0 +1,24 @@
+FDA Unveils Patient Safety Analytics Tool for Medical Research
+
+January 19, 2017
+
+By Thomas Beaton
+January 19, 2017 - Healthcare stakeholders will be able to engage in patient safety research projects by connecting to Sentinel, the FDA’s electronic monitoring system, Commissioner Robert M. Califf, MD, announced this week.
+The new Innovation in Medical Evidence Development and Surveillance System (IMEDS), will allow researchers to access big data within the Sentinel System, opening new opportunities for evaluating the safety and effectiveness of FDA-regulated products.
+“The IMEDS framework specifically provides governance that allows private-sector entities to gain access to the system with appropriate oversight,” Califf said in a blog post. “As a result, the FDA Sentinel System’s distributed data as well as scientific methods and tools will now be available for entities outside of FDA who want to conduct important research to advance patient safety.”
+Dig Deeper
+Real World Evidence, Big Data Can Speed Clinical Innovation
+FDA Eager for Precision Medicine Under 21st Century Cures Act
+FDA: Big Data Standards, Interoperability Needed for Analytics
+IMEDS was launched on January 1st through a partnershipby the Reagan-Udall Foundation for the Food and Drug Administration, a non-profit organization to advance regulatory science.
+The distributed database underpinning IMEDS offers privacy-protected information about medical products used by patients. The data has already been quality checked and formatted to FDA standards.
+IMEDS is the FDA’s latest effort to modernize medical research. The agency has previously encouraged stakeholders to establish a national platform for interoperability, and will continue its work by taking advantage of the funding and pharmaceutical development provisions within the 21st Century Cures Act.
+Health data interoperability is a top priority for other organizations outside the FDA, including the ONC and CMS, because of the benefits it has in the field of precision medicine as well as the potential to implement real-world evidence in clinical trials.
+Infrastructure models that promote data transparency and incorporate real-world evidence provide opportunities to repeat studies and research with positive outcomes, but also limit the time and resources put into studies that are non-useful, and potentially harmful to patients.
+The FDA believes that collaboration with the private sector on projects such as IMEDS will accelerate evidence-based research.  
+"At the core of IMEDS’ innovative approach is the fact that it embraces and enables a long term partnership between FDA and the public and private sector," Califf said. "As new tools and methods leave the development pipeline and enter production for FDA use, they also are incorporated into IMEDS.”
+“For example, FDA is working to incorporate patient-provided data as well as randomization into Sentinel infrastructure to support clinical research in a real world setting. Such work could be accelerated through support from sponsors working through IMEDS."
+Organizations can partner with IMEDS by emailing IMEDS@reaganudall.org for more information.
+Tagged Analytics InfrastructureClinical AnalyticsPatient Safety
+
+

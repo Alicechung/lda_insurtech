@@ -1,0 +1,38 @@
+Building the Team for Big Data Analytics, Population Health
+
+March 04, 2015
+
+By Jennifer Bresnick
+March 04, 2015 - Healthcare organizations are becoming increasingly aware that the future of financial sustainability and care quality will rely on a robust health IT infrastructure that enables big data analytics and population health management.
+Providers must develop core competencies in data governance, health information management, and the deployment of actionable insights to the point of care if they wish to get ahead in a changing reimbursement landscape.
+But leveraging clinical and administrative data analytics to provide up-to-the-minute clinical decision support for physicians and proactively manage patient populations requires a highly coordinated and competent team of healthcare professionals working towards a common goal of distilling large and complex data sets into meaningful information delivered where and when it’s needed.
+For healthcare organizations who are just starting on this journey, acquiring the necessary resources and securing staff members with the right expertise can be a difficult task.
+Who needs to be involved in the process of developing a big data analytics infrastructure, retooling an organization’s workflows to take advantage of new health IT abilities, and ensuring that the resulting insights are properly, securely, and effectively applied for the improvement of quality care?
+READ MORE: The 7 Step Plan to Success with Big Data Analytics in Healthcare
+The executive suite
+Even the smallest physician organizations usually have to get someone’s approval to purchase technology or implement major programs. While a solo practitioner may be able to sign the checks herself, larger providers, hospitals, and health systems often have to jump through additional hoops, most of which are held by the C-suite.
+But executive leaders aren’t the enemy of clinical analytics and HIM improvement. In fact, they are most often the ones leading the charge.
+According to a recent market report, C-level executives are significantly more likely than other hospital leaders to voice strong intentions to purchase data analytics software. Even a quarter of Chief Financial Officers are eager to engage in analytics as awareness of the potentially positive revenue impacts of the investment continues to grow.
+READ MORE: Tech Giants Give Healthcare Artificial Intelligence Start-Ups a Boost
+While many cash-strapped organizations staring down ICD-10 implementation, Stage 2 meaningful use, and quality penalties may question the wisdom of splashing out on new technologies for population health management, big data analytics, and revenue cycle management, analytics advocates may wish to present skeptical executives with a quickly growing body of evidence showing that analytics infrastructure can produce cost savings, higher patient satisfaction, fewer costly hospital readmissions, and smarter resource management.
+Health information management and informatics professionals
+With the board room behind the idea of bolstering an organization’s health IT infrastructure, providers must turn to experts in data governance who can help to formulate an analytics strategy, deploy technologies into the workflow, assess and ameliorate problems, and do the heavy lifting of data analysis.
+Health information management professionals, informaticists, quality improvement officers, and data scientists are among the most necessary members of the big data analytics team.
+HIM professionals aren’t just experts in ICD-10 and billing. They are playing a critical role in the development of data governance principles and analytics strategies as electronic information takes over the healthcare industry. The HIM department can serve as project leaders by assessing an organization’s data governance maturity, pinpointing areas for improvement, and putting big data analytics programs into action with a focus on ensuring information integrity and the delivery of actionable insights.
+READ MORE: Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+Informaticists can have a variety of different backgrounds that lend unique expertise to their employer. Nurse informaticists often spend years in the trenches of patient care before transitioning into data science roles, which gives them a deep understanding of clinical workflows and the needs of their peers.
+Physicians can now become board-certified clinical informatics sub-specialists, bringing a high level of training and expertise to the problems at hand, while data scientists from a wide variety of non-clinical backgrounds are highly sought-after as problem solvers that can cross industry lines.
+Finding and hiring an appropriate data scientist isn’t always an easy task, and the industry is experiencing a shortage of qualified professionals. But providers who may not be able to fill an opening from the outside may consider helping an interested staff member move into an information management role in order to maximize existing resources.
+The information technology experts 
+No health IT analytics program could get off the ground without staff members who understand the implementation of infrastructure. From the creation of data warehouses to the installation of natural language processing software that shuttles data from free-text EHR inputs into predictive analytics algorithms, big data analytics has to start with the nuts and bolts of information technology.
+The IT department should be intimately involved in the creation and deployment of any analytics strategy, contributing input on how to develop a flexible infrastructure that delivers value in the short term and maturity over time.
+IT experts may have important insights into choosing vendors, developing time tables, replacing aging in-house products with commercial options, or integrating health IT systems into a single, interoperable network of seamless technologies.
+Clinical and administrative champions
+Once the building blocks are in place, healthcare providers can move into securing organizational buy-in. Not everyone in every role will be willing to accept changes to their workflow, additional tasks, or more technology to learn, and winning over these resistant staff members could be the difference between success and failure for a health IT implementation.
+Organizations that have undergone traumatic EHR implementations may already be aware of the value that a physician or nurse champion can bring to a transformational project, and those undergoing ICD-10 preparation may be learning the same lesson now.
+Steering an organization towards a greater reliance on big data analytics and population health management is a similarly Herculean task, even if it can be conducted piece by piece on the provider’s own schedule.
+Healthcare staff members are most likely to listen to their peers about the benefits that little changes or new interfaces can bring, and may be more likely to accept advice, constructive criticism, and encouragement from fellow employees who know the ins and outs of their daily routines.
+Enlisting clinical and administrative champions at several levels throughout the organization can also provide highly valuable feedback from these end-users to the project leaders, which will help to smooth the way towards the adoption of new technologies that promise improved efficiencies, higher quality patient care, and better insights into the importance of data-driven healthcare.
+Tagged Analytics InfrastructureBig DataBig Data Analytics
+
+

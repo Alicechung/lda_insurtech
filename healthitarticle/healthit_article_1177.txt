@@ -1,0 +1,30 @@
+mHealth Apps are Common, but Patient Engagement Isn’t Sustained
+
+November 06, 2015
+
+By Jennifer Bresnick
+November 06, 2015 - Can mHealth apps be useful tools for patient engagement and population health management if patients lose interest in using them? 
+A new study from the Journal of Medical Internet Research (JMIR) shows that even patients who do see value in smartphone and tablet apps tend to stop engaging with the tools due to complaints about hidden costs, unwanted data sharing, insufficiently useful features, and an inability to sustain their attention for longer periods of time.
+More than eighty percent of US residents between the ages of 18 and 49 currently own an app-enabled mobile phone, the study says, and 15 percent of the population have purchased wearable devices, like smartwatches, that connect to their phones and add functionality, tracking capabilities, and novel interfaces. 
+Researchers from New York University developed a survey that attracted responses from more than 1600 eligible smartphone users.  The team made sure to collect data from a wide variety of mHealth users, including respondents of different ethnic backgrounds, ages, income levels, and educational achievements.
+Just over half of the participants considered themselves in “very good” or “excellent” health, and the majority said they exercised at least somewhat regularly.  Sixty-two percent were overweight or obese, and approximately a third smoked cigarettes with some frequency. 
+READ MORE: Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+Twenty-two percent of patients said they had been diagnosed with hypertension.  Similar numbers reported high cholesterol and depression, while just over ten percent said they suffered from obesity or diabetes.
+Fifty-eight percent of respondents had downloaded an mHealth app in the past to track some metric related to their health.  Forty-one percent said they had downloaded five or more mHealth apps.  Exercise, diet, and weight loss tracking apps were the most popular tools.  Approximately two-thirds of patients initially opened and used these apps every day.
+While two-fifths of patients who used mHealth believed that the apps kept their private data appropriately secure, fifteen percent of non-users cited privacy and security as one of the top reasons why they would never engage with these applications. 
+The cost of downloading and using apps was another sticking point for users and non-users alike.  Even respondents who had gotten some health-related value from the use of these tools weren’t very keen on paying for them.  Forty-one percent of participants said that they would never pay anything for an mHealth app, while a further twenty percent said they would be willing to invest up to three dollars. 
+Thirty-six percent of participants who had discontinued use of an mHealth app cited a dislike of hidden costs, such as micro-purchases that unlock desired features.  More than forty percent said that tracking and monitoring apps required too much time to input necessary data, while a similar number simply said that their interest faded over time.
+READ MORE: Allscripts Buys Practice Fusion to Bulk Up on Big Data, EHR, Life Sciences
+mHealth apps are just not mature enough to provide a number of functionalities desired by their users, the survey found.  Patients wanted the tools to draw on health data collected by their providers, make predictive suggestions, deliver more robust reminds, and tailor their capabilities to their individual needs.
+“A major theme was that participants wanted apps to provide more specific and personalized recommendations, regarding exercises/activities and what to eat than are currently available,” the authors write. “For instance, a number of respondents noted they wanted an app to assess their health history, and for the app to tell them what exercises they should do and what they should and should not eat.”
+“Generally, they wanted apps that helped them reach specific exercise and nutrition goals rather than just ‘lose weight,’” the study continued. “Tracking was also an important theme, with participants wanting more accurate and easier-to-use methods of showing how many calories they consume and burn daily,” such as being able to take a picture of a meal and have the app count up the calories automatically.
+Others wanted motivational tools, like reminders for when to begin exercising, or distractions that might take their minds off of food cravings.
+They also wanted to be able to communicate with their healthcare providers more effectively.  Appointment-making tools and secure messaging capabilities were high on the user wish-list, while others expressed a desire to have a centralized place to store all their vital signs, which could be integrated into their provider’s EHR to inform their clinicians about trends over time.
+READ MORE: PGHD, Genomic Data Predicted to Power Clinical Decision Support
+“App developers need to do more to promote the value and worth of their apps if they are to sustain a viable business model,” the researchers suggest.
+“This will likely necessitate increased openness to partnering with researchers to conduct well-designed trials examining the efficacy of health-directed apps. The state of the evidence for health apps is significantly lacking, limiting enthusiasm and perceived value among both consumers and health care professionals.”
+If mHealth apps are to become truly effective tools for population health management and sustained patient engagement, they must offer functionalities that connect patients with trusted resources, encourage communication with providers, and deliver the rich functionalities that patients are beginning to expect from their mobile tools, the researchers add.
+“The potential in this use of apps is great,” the study concludes, “and health care systems must embrace this technology and work through privacy and regulatory barriers to supply the services that patients are already requesting.”
+Tagged mHealthPatient EngagementPatient Generated Health DataPopulation Health Management
+
+

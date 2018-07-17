@@ -1,0 +1,40 @@
+CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+
+January 25, 2018
+
+By Jennifer Bresnick
+January 25, 2018 - Healthcare CIOs are proceeding cautiously with their health IT innovation projects as they balance industry hype around emerging technologies like blockchain with the promises of FHIR and big data analytics, according to a late 2017 survey of CHIME members conducted by Impact Advisors.
+The small survey of 56 executives revealed a landscape of uneven investment and varying levels of skill and commitment to big data analytics. 
+Close to half of respondents are not making any concerted effort to drive innovation within their organizations, and less than 20 percent have defined portions of their budget allocated to health IT improvements.
+A third are relying on an internal committee or workgroup to meet regularly and discuss the organization’s needs, but only 14 percent have a dedicated department or “innovation center” to attack the IT maturity curve.
+CIOs are split on their current and future directions, as well.  Increasing operational efficiency is their top goal, with 46 percent prioritizing internal improvements as they consider how to succeed in a challenging financial environment. 
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Just over a quarter are focusing more on enhancing the patient experience, while 14 percent are working on enterprise analytics and a slim 10 percent are putting interoperability with external stakeholders at the top of their list.
+But consensus does start to emerge when asked what technologies will get them to their goals – and which ones definitely won’t.
+Blockchain clearly won the title of “most overblown technology” when CIOs were asked which strategies would have the biggest measurable impact within the next two years.  Forty-eight percent of participants said blockchain was too futuristic to merit immediate attention.
+Only 1.8 percent of respondents said that blockchain will have a major impact on healthcare by 2020.
+Interestingly, 23 percent of CIOs said that cloud computing was one of the most overrated strategies, despite the rapid adoption of cloud-based tools in the consumer sphere and growing pressure from companies like Amazon, Google, and Microsoft to turn their cloud storage offerings and analytics environments into the foundations for healthcare IT.
+Source: Impact Advisors
+READ MORE: FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+However, CIOs do see the promise in other technologies that have received a great deal of industry attention in recent months.  Fifty percent of respondents said that FHIR, along with similar application programming interface (API) strategies, had the most potential to make a positive impact on healthcare by the end of the decade.
+FHIR is a data standard that enables interoperability using modern, internet-based protocols.  Instead of requiring providers to exchange whole documents that have to be broken down into their component pieces afterwards, FHIR can allow applications to access individual packets of information the same way a web browser allows a user to access a specific URL.
+This approach makes it easier to develop applications that can present targeted information to a user – just a patient’s allergy information, for example, instead of an entire C-CDA – while enabling more reliable interoperability between different EHRs or other health IT systems.
+FHIR has received major commitment from many of the top electronic health record vendors and other health IT stakeholders, including the ONC, and CIOs appear to believe that these efforts will continue to pay off in the near future.
+They are slightly less certain, yet cautiously optimistic, about the utility of machine learning and natural language processing to extract enhanced insights from their data assets. 
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Sixteen percent of participants said natural language processing would be a significant help in the next two years, while 12.5 percent tapped machine learning as a promising emerging technique.
+Only seven percent said each of these technologies are overhyped, indicating that most CIOs are taking a “wait and see” stance towards machine learning and NLP with few strong feelings as to whether or not they will truly prove their value in the short term.
+The participants were much more willing to express firm opinions on what barriers are standing in the way of adopting any type of health IT innovation. 
+Competing priorities are a problem for 68 percent of the survey respondents, while 59 percent cited insufficient resource capacity as a major obstacle.  Fifty-five percent added a lament over lack of funding.
+A third said that they were missing formal sponsorship from their operational leaders and 27 percent said they didn’t have the skills, but a mere 25 percent identified a lack of governance or organizational structure to support robust innovation.
+Participants were asked to select all issues that apply – only 3.6 percent of respondents chose “none of the above,” indicating that the vast majority of CIOs are facing at least one significant barrier to progress.
+More than half of CIOs chose more than two of the options, the report noted, while a third chose more than three.
+Healthcare leaders will need to overcome these challenges if they are to succeed with their forward-looking goals.  While only two-thirds of respondents who have concrete plans around innovation in the next 24 months, expanding budgets and securing more staff are high priorities for many.
+A quarter will be recruiting talent over the next two years, and just under 20 percent will try to squeeze more funding out of their organizational budgets.
+Despite only a quarter of CIOs identifying governance as a major barrier, close to 36 percent will have their sights set on improving their internal organizational structure during the next two years.
+Above all, however, forty-two percent of CIOs will dedicate their time and effort to forging new strategic partnerships with health IT vendors, other provider organizations, and health payers.
+Ideally, additional partnerships and more resources will help organizations identify the potential in their data assets and deploy technology strategies like FHIR or machine learning to address their operational and clinical concerns.
+While the survey revealed significant differences in how organizations are planning to tackle their innovation objectives, a general recognition that innovation is a high priority – and that internal processes and external partnerships are both critical components of success – bodes well for organizations that device time and money to health IT improvements.
+Tagged Analytics InfrastructureBlockchain in HealthcareFHIRHealthcare Business IntelligenceHealthcare Data GovernanceInteroperabilityMachine Learning
+
+

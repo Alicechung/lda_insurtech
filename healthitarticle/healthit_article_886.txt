@@ -1,0 +1,36 @@
+Real World Evidence, Big Data Can Speed Clinical Innovation
+
+June 09, 2016
+
+By Jennifer Bresnick
+June 09, 2016 - Well-designed and properly executed clinical trials are often used to gain the stamp of approval for new drugs, therapies, or guidelines, but the process of developing a new treatment protocol should not end with this initial study period. 
+What happens when the product or procedure enters general circulation is just as important – if not more so – than the conclusions drawn by researchers. 
+However, there are few industry standards that govern the collection, analysis, and use of this real world evidence (RWE) in further development of healthcare innovations.
+In a new issue brief, the Network for Excellence in Health Innovation (NEHI) explains that gathering and utilizing big data generated after the initial clinical trial period is critical for ensuring patient safety, boosting outcomes, and fostering continued discovery of treatments that may require more than a single trial to meet their full potential.  
+“Typical clinical trials focus on short-term endpoints, enroll a very narrow selection of patients, and are conducted in a controlled setting that does not reflect the practice of medicine outside of clinical trials,” the report says.
+READ MORE: Is Gene Therapy a False Trail for Precision Medicine Research?
+“In contrast, RWE is developed using data that reflects use by broader, more heterogeneous populations, such as data obtained from health insurance claims, patient registries, or electronic health records.”
+This big data can be incredibly useful for helping providers apply new innovations to patients more appropriately, especially as the industry enters the era of precision medicine.  
+But a lack of consensus around the right data standards and governance procedures makes it difficult for researchers and providers to collaborate as they collect and share this critical information.
+“Real world evidence, which is often gathered through observational studies, can be an extremely useful complement to the traditional ‘gold standard’ evidence – especially at a time when we understand more than ever the complexities of patients’ individual makeups and the use of therapies in the day-to-day world,” said Susan Dentzer, President and CEO of NEHI in a press release.
+“If we harness the potential of real world evidence, we can shape health care decisions in ways that can help customize care to individual patients, improve health care outcomes, avoid unnecessary or even harmful care, and lead to greater value in health care spending.”
+READ MORE: All of Us Precision Medicine Network Expands with $13.8M in Grants
+The healthcare industry must create a “culture of high quality RWE,” the report states, founded on data transparency, patient access to information, and data standards that allow the movement and exchange of information across settings.
+The first step is to follow in the footsteps of traditional clinical trials by fostering an environment that promotes data transparency.  The NIH and FDA provide a positive model for information sharing by requiring researchers to register their results on ClinicalTrials.gov, and many pharmaceutical companies have also adopted open data sharing principles.
+Increasing the public availability of clinical trial data and real world evidence will not only make it easier for researchers to validate and repeat promising studies, but may also limit the dissemination of studies that are “inadequate, misleading, or even falsified,” the report points out.
+If stakeholders commit to a standard methodology for sharing appropriate data related to healthcare innovations, researchers may be able to utilize the data more quickly and efficiently to translate big data into practice.
+Patient access to real world evidence will also play a role in this process, NEHI says.  Patients provide the majority of RWE during routine clinical encounters, and must be equipped with the education and tools required to understand how this information is being used and how they can better understand studies and projects that may impact their choices.
+READ MORE: Six Pediatric Hospitals Create Personalized Medicine Coalition
+“The principle ‘nothing about me, without me’ will loom larger as RWE becomes a greater factor in decision-making about health care,” says the report.
+Real world evidence must also be “fit for purpose,” NEHI states.  This means that RWE studies must be designed and executed so that their findings will be relevant, meaningful, and actively contribute to improving the ability to make clinical decisions and provide safe, effective patient care.
+“Depending on its design, an RWE study might not be ‘fit for the purpose’ of FDA approval of a new drug or medical device if it did not meet the ‘gold standard’ design of a [randomized clinical trial],” the report explains.
+“However, it might be well ‘fit for the purpose’ of a provider’s decision to target use of drugs and devices to specific patients or groups of patients. For example, RWE derived through an observational study of the use of a drug or device in patients might pinpoint particular sub-groups of patients most likely to derive the greatest benefit.”
+While real world evidence research will never replace the controlled, randomized clinical trials as a primary means of generating knowledge about new drugs or therapies, adding RWE to the discovery process may enhance and expedite investigators’ ability to understand the real impact of novel treatments on actual patients in a typical clinical environment.
+“An essential perspective of this NEHI statement conveys how RWE can expedite innovation,” said Cliff Goodman, Senior Vice President and Director, Center for Comparative Effectiveness Research at The Lewin Group.
+“Not only does RWE complement the internal validity of traditional evidence sources with the external validity of heterogeneous community-based evidence, it provides multi-stream empirical feedback to compile target user experience, identify unmet needs, and inform technology redesign. It’s market research for innovation.”
+Dig Deeper
+65% of Patients Unlikely to Volunteer for Clinical Research
+IOM Outlines Best Practices for Clinical Data Sharing
+Tagged Healthcare Data GovernanceMedical ResearchPrecision Medicine
+
+

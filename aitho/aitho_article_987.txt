@@ -1,0 +1,12 @@
+TSO Logic Cloud Migration Planning Platform Adds Software Licensing For Significant Savings
+
+03 Apr 2018
+
+Analytics platform company helps businesses increase savings and optimize cloud planning across all major public and private cloud providers
+TSO Logic, a leading analytics platform for discovery and cloud planning, today announced its platform now lets customers easily compare costs of bringing their existing licenses to the cloud versus buying the license from the cloud provider to determine which one will yield the biggest returns. With the new enhancement to the TSO Logic platform, companies can eliminate time-consuming, manual processes and stay up to date on the latest cloud catalogs to maximize savings in dynamic cloud environments.
+Understanding which licenses can move to Amazon Web Services (AWS), Microsoft Azure or other cloud providers is nuanced because not all licenses are supported by all cloud server and instance types. Using advanced algorithms and machine learning, the TSO Logic platform automatically parses all possibilities against the most recent cloud catalogs. Customers can evaluate a wide range of license portability scenarios for AWS, Azure and other public clouds. TSO Logic partners with the leading software licensing system integrators and uses data that already exists in software asset management systems.
+Aaron Rallo
+“When planning a move to cloud, infrastructure is only one component of the cost equation. This is especially true when moving Microsoft based workloads,” said Aaron Rallo, CEO of TSO Logic. “In fact, in many cases, such as with SQL Server, the infrastructure will make up only 15 percent of the annual cost and the remaining 85 percent will be licensing. If you don’t include licensing in your cloud planning process, you could be off by a substantial margin and your ROI could be at risk.”
+Cloud migration and transformation is a continual process. In addition to factoring license portability, TSO Logic’s platform also factors in millions of data points into cloud projections, such as compute, storage proximity and utilization. With TSO Logic’s platform, customers gain a clear view into their current compute along with transformational options that will save time and money.
+
+

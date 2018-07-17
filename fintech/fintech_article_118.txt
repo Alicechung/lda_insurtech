@@ -1,0 +1,39 @@
+“Making insurance sexy again”
+
+June 1, 2018
+
+Interview with Nikolaus Suehr, CEO and Co-founder of KASKO.
+
+ 
+
+ Who forecasted this? They certainly must see different data than I do.
+
+ It depends. There are already subsegments, like first time rental insurance buyers in NY going to Lemonade (around 20k customers), massive amount of micro insurances being purchased in China through embedded insurance on Alibaba offered by Zhong An, good uptake by digital brokers WeFox (250k customers) and Clark (100k customers) in Germany and recent success by insurance pure plays FRI:DAY (15k customers) and Nexible (20k customers), all of which show early signs of take off.
+
+ However, the wave is yet to come and this has everything to do with customer inertia. I myself have dedicated most of my waking hours over the past 3 years to finding new products and services with insurance companies to respond to changing customer demand and increasing competitive pressures. In order to win, insurtechs need to focus on getting to the right customers at the right time, as Lemonade does for first time buyers, Zhong An by integrating into Alibaba, WeFox and Clark getting a broker mandate so existing contracts are assigned to them as well, and FRI:DAY and Nexible buying customers from the aggregators.
+
+ This one is easy: Insurtechs are definitely able to service B2C clients. The question is whether they and their investors are patient enough to figure out how best to attract customers. Going direct is nearly impossible, as incumbents will outspend you, so you have to go into niches and mix direct with content and community management. This can work well for pets (like with Bought by Many, who have done a terrific job), classic cars, hobbies (e.g hunting, biking, travel) and different SME industries (e.g. freelancers, dentists, lawyers). However, these niches are by definition small and thus require investors with some patience as you scale through the different sub-segments. Alternatively, you go head-to-head – most startups use aggregators here to scale fast, but then you get the sweet poison of cost-conscious, quick to change aggregator customers, who can go as fast as they came. Personally, I believe that collaborating with incumbents is a much faster route to sustainable scale, as they not only have an existing customer base, but strong ties to distribution partners within aggregators, brokers, banks, retailers and OTAs to capture more new business. Finally, whilst incumbents still struggle to truly up and cross-sell to their customers (due to lacking technical infrastructure and products that are modular, so that you can pull different micro-insurances such as smartphone, travel, etc. into one cohesive multiline framework, holding all the relevant risks – both personal and SME commercial – in one central contract), at least they have the products in place and the required licenses. Insurtechs, on the other hand, will need to build these up at a time where their low customer base won’t warrant the business case yet, and they will need to show their investors a higher CLV, so they might take brazen bets on higher CLV which might never materialise.
+
+ So, yes, they can scale, but they need to make sure that CAC and CLV stay in line with investor expectations, especially when CLV is very tricky with insurance, as some customers stay 25 years, whilst others stay only one year or even a couple of months with daily/ monthly cancellations.
+
+ Insurers don’t need to re-invent their existing business model, but update their distribution and product models, move into a bi-modal IT operating model and inject an entrepreneurial function.
+
+ Customers will increasingly follow platform and ecosystem providers that offer holistic premium services and low cost enabled by technology around topics such as wealth, health, mobility, travel, hobbies, work, home/ family, etc. This means that insurers will need to open up their digital product inventory to interact with these platforms through REST APIs and widgets where onboarding and negotiation to participate is reduced to hours and days instead of months and years. Due to the nature of these platforms and the massive amounts of data that customers share with them, insurers will need to be able to mass customise these products to ensure insurance fits like a glove. In order to achieve this, insurers will not only have to upgrade their existing IT systems to lower operational costs on the existing book of business, but they will have to invest into a new more flexible meta-layer (or partner with companies such as KASKO, Instanda etc.) that allows insurers to serve the customers end-to-end in a separate system (to overcome initial integration challenges into the old systems, which will soon be replaced) geared towards openness, connectivity and low time and cost, to market, design and launch new products to figure out just how the changes in consumer behaviour impact insurer products.. Finally, all of this will only be feasible if insurers move away from a top-down command and control waterfall approach to digital transformation, and enable the product and market managers to react to market opportunities unencumbered by someone else’s IT-pipeline or marketing plan, and define different phases from MVP to scale, where new opportunities can be tested quickly, and, once they pick up scale, be integrated into the larger corporate body.
+
+ Working with 17 insurers in 5 countries, having created more than 40 insurance products (and >100 variants) in over 40 distribution channels, we see the challenges that insurers face but also how the change makers in the organisation increasingly get the upper hand. And players like KASKO will hugely speed up the change process – the flywheel is already in motion.
+
+ When we engage with insurers we focus on 10 aspects:
+
+ We are already seeing that insurers like to buy distributors or enablers that can help them digitally transform parts of their value chain.
+
+ Down the line this will largely depend on the perception of the company. For example: Lemonade positions itself as a tech company doing business. This will mean that acquirers ultimately can include tech companies, as well as insurers and banks, whereby the target price will be determined more by the efficiencies in the operating model than gross written premium and underwriting profit.
+
+ Inside-out digital transformation in our fastpaced environment, ridden with uncertainty, simply doesn’t work anymore. These multi-million Euro change programmes are probably some of the largest shareholder value destroyers in the industry. There are several reasons for it:
+
+ Firstly, insurers have no IT capacity, and what they have is focussed on regulatory compliance and usually works with outdated technology frameworks.
+
+ Secondly, normal IT vendors and integrators earn too much money on the current waterfall model. Moreover, I suspect that most CIOs and IT architects actually come from these vendor companies, so this way of doing things is learned and thus hard to dismiss.
+
+ At least, digital accelerators and innovation departments labs also failed to deliver any meaningful results. These entities are usually so far detached from the business units that they fail to deliver actual value to them. However, the business units are central to these efforts being validated and scaled. Allianz recently closed down their acceleration efforts, repurposed Allianz X, in an investment vehicle only. If these guys can’t do it, who can?
+
+

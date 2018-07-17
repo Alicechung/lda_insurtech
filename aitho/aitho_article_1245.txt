@@ -1,0 +1,22 @@
+Talkdesk Launches The Enterprise Contact Center Platform
+
+13 Mar 2018
+
+Industry Demand for a Next-Generation Cloud-Native Platform Fuels the Rise of New Enterprise Capabilities and Partnerships for Talkdesk
+In response to rising demand from an enterprise-class customer base, Talkdesk today announced the Enterprise Contact Center Platform, a cloud-native solution for contact centers with over 500 seats. Whereas first-generation cloud communications systems struggle with frequent downtimes and limited scalability, Talkdesk’s new enterprise-ready platform is inherently reliable, global and scalable with a microservices architecture and advanced security certifications, foundation for attribute based routing, visual flow designer, omni-channel agent state and integrations to popular enterprise applications.
+Tiago Paiva
+“Enterprises are demanding cloud-native solutions that legacy and first-generation cloud vendors are still scrambling to build. Talkdesk is a proven cloud-native solution with over 1,400 customers globally,” said Tiago Paiva, Talkdesk CEO. “We collaborated with Fortune 500 companies to develop our roadmap. We are able to quickly deliver the capabilities that large companies need because we have the agility and speed that legacy cloud players are still engineering.”
+The Talkdesk Enterprise Contact Center Platform comes after a series of successful deployments with large companies like Acxiom, a global marketing data, technology and services company, Keysight Technologies’ Ixia Solutions Group, a provider of testing, visibility and security solutions for governments, service providers and enterprises and Zumiez, a leading specialty retailer with hundreds of stores. Many customers, including a global software company and a high-growth food delivery company, have thousands of agents globally using Talkdesk.
+The key reasons enterprise customers report choosing Talkdesk include:
+Proven cloud-native solution in use by over 1,400 customers
+Modern microservices architecture that is inherently scalable, highly available, agile, global and API driven
+API driven CPaaS communication layer that provides global on-demand voice, SMS and omni-channel services
+Modern agent experience and integrations designed to work with Salesforce, ServiceNow and 50+ other business systems
+SOC 2 Type II certification and security support for GDPR, HIPAA and PCI-DSS
+“A major issue for enterprise customers is the siloed nature of legacy and first-generation cloud contact center systems. Talkdesk solved this problem with out of the box integrations and APIs across every aspect of the platform. Now we are expanding our ecosystem with integrations to best-of-breed enterprise applications,” added Paiva.
+In addition to the new platform, Talkdesk announced several new enterprise partners including Afiniti and Clearview. These partners help create a robust platform of best-in-class features and experiences for digital companies looking to unlock the full potential of cloud-based services.
+Paul Liljenquist
+“Afiniti’s AI delivers commercial value to our clients by improving the quality of human interactions. Talkdesk’s native integration of Afiniti across their product offering will allow our mutual customers to achieve a measurable increase in sales performance, together with a broad range of other metrics, in record time,” said Michael Portenier, Executive Vice President at Afiniti.
+“ClearView is a revolutionary workforce optimization solution engineered by operators for operators. We are excited to bring our solution to innovative Talkdesk customers,” said Paul Liljenquist, President of Clearview. “Talkdesk is taking enterprise contact centers by storm and we are excited to join forces with Talkdesk to move enterprise contact centers to cloud.”
+
+

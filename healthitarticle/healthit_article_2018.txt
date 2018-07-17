@@ -1,0 +1,19 @@
+Twitter provides big data for adverse drug event identification
+
+May 02, 2014
+
+By Jennifer Bresnick
+May 02, 2014 - With millions of messages posted worldwide every day, ranging from mundane moaning about the weather to incredibly personal details, few data sources are bigger than Twitter.  Researchers have been interested in tapping this deep pool of unfiltered information for quite a while, delving into tweets about drug use and HIV or sleep disorders and insomnia.  Now, a team of scientists from Harvard Medical School, the FDA, Boston Children’s Hospital, and other research centers are mining Twitter for clues about the adverse effects of common drugs that may go unreported in a more formal setting.
+“Traditional adverse event (AE) reporting systems have been slow in adapting to online AE reporting from patients, relying instead on gatekeepers, such as clinicians and drug safety groups, to verify each potential event,” says the study. “In the meantime, increasing numbers of patients have turned to social media to share their experiences with drugs, medical devices, and vaccines.”
+While tweets certainly lack the structure and standardized reporting that comes from identifying adverse events in a clinical setting, the stream-of-consciousness missives may also contain important details that patients might forget when speaking to their clinicians. In order to test the theory, the research team collected nearly 7 million tweets from November 2012 to May 2013, which were filtered according to mentions of 23 medical products and translated from internet vernacular to a standardized ontology through a specially developed dictionary.
+The team then whittled the tweets down to around 60,000 posts with identifiable pharmaceutical material, flagging 4,401 as adverse event related.  The majority of the tweets were related to ibuprofen, with zolpidem, acetaminophem, oxycodone, and prednisone also forming significant portions of the sample.
+Dig Deeper
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+70% of Orgs Planning Precision Medicine Will Deploy Within 2 Years
+Mount Sinai Creates Imaging Data Warehouse for Precision Medicine
+While the researchers found the sample to be extremely “noisy” due to the differences between internet speech patterns and standardized clinical data, they were able to establish a general sense of how users take to Twitter to express their health concerns.  “Even within 140 characters, some tweets demonstrate an understanding of basic concepts of causation in drug safety, such as alleviation of the AE after discontinuation of the drug,” the study says.
+“Consider the tweet: Humira never really worked for me. Orencia was good. Xeljanz was the best but ate a hole in my stomach. #RABlows,” the researchers write. “In this example with rheumatoid arthritis medicines, the first product could be reported as ineffective, but there is also a more serious event. The last product mentioned what could be an exaggeration: ‘ate a hole in my stomach.’ However, the medication guide for this product states ‘XELJANZ may cause serious side effects including: tears (perforation) in the stomach or intestines.’ The example illustrates that context is required to interpret the findings, a task that humans inherently perform better than machines.”
+Manual interpretation is still a critical part of identifying trends in social media, the study concludes, but tweets shared similar patterns with more official adverse event reporting and the translational dictionary developed by the team is an important step towards better automation of social media data scraping. “Future directions for research include assessing severity of events, differentiating unlabeled events, time series modeling, incorporation of patient and health Web sites, and potentially search history data,” the study concludes.
+Tagged Big DataClinical AnalyticsClinical IntelligenceMedical ResearchPatient Safety
+
+

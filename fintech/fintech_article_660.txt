@@ -1,0 +1,49 @@
+On the way to invisible authentication
+
+August 8, 2017
+
+Speaking at Money 20/20 Europe to Philippe Vallee, CEO of Gemalto, we were inspired on a connection of PSD2 with behavioral biometrics. The last one is the whole science that brings to customers and corporate clients unbelievable opportunities
+
+ Philippe, please share your thoughts on how PSD2 will influence customer experience?
+
+ The European Commission’s revised Payment Service Directive (PSD2), which will come into force next year, makes it mandatory for banks to adopt strong customer authentication (SCA) as the next step to improve security in the industry. However, beyond the technical complexity of deploying greater security, the challenge here for banks is really about finding a way to secure these online services without diminishing the consumer experience.
+
+ Financial service providers cannot sacrifice convenience in order to deliver robust security that complies with necessary regulations. If they do, they’ll find that their customers are looking for alternate ways to manage their funds. Indeed, a survey conducted by Gemalto last year amongst 11,000 digital and mobile banking users in 14 countries found that almost 40% said they would leave their bank if another provider offered a better service or rates.
+
+ By using these mechanisms to create a new set of customer experiences that is not just more secure, but without adversely affecting convenience or customer experience, banks can further differentiate themselves from their competitors. This is where the opportunity for innovation in the sector lies and of course, it goes without saying that fintech start-ups are already making an effort in this vein, offering new transaction options to customers.
+
+ What opportunities and challenges PSD2 brings to corporate sector and financial institutions?
+
+ PSD2 brings plenty of opportunities to financial institutions. Banks choosing to behave as third party providers (TPPs) can gain a deeper understanding of their own customers by, for example, accessing their customers’ accounts held at different banks (with the customer’s consent). Imagine the opportunities this would open: new and innovative services, new revenues streams, and deeper customer ownership. The main challenge is the need for greater security.
+
+ A crucial element of PSD2 is the mandatory implementation of strong customer authentication (SCA) and dynamic linking of transaction data. Banks or any third party service providers will need to review their security systems to make sure they are compliant. PSD2 also requires banks to provide dedicated open API (Application Programing Interface) hubs to allow TPPs to access the account information they need. Such access will also have to be secured, implementing strong authentication to securely access the data as well as encryption technology to ensure that the data itself is protected.
+
+ What is the role of behavioural biometrics in PSD2?
+
+ In a multi-layered security and risk management context, behavioural biometrics bring an extra layer of security to help determine the probability that the user is who he or she claims to be, hence allowing banks to fine-tune their authentication policy and only trigger strong customer authentication when it makes sense, and as far as exemptions are allowed by the Regulatory Technical Standards. Since behavioural biometric technology is based on invisible security for the end user, it offers a smooth enduser experience – meeting the crucial challenge of balancing greater security with greater convenience.
+
+ How behavioural biometrics can help (assist) in risk management and clients’ identification processes?
+
+ Behavioural biometrics monitoring, when combined with other technologies such as geo-localization and device profiling, can become a very powerful tool for risk assessment and clients’ identification, and help detect potential fraudsters in realtime. To optimize the digital banking experience, Gemalto combines those technologies in its Assurance Hub, which is designed to collect and analyse in real-time a broad range of signals coming from both the digital banking user and their device (geo-location, device profiling, IP address as well as behavioural biometrics such as keyboard stroke patterns, mouse movement analysis, etc.).
+
+ Such data will help define the level of risk and trigger the appropriate security measure. For example, device profiling technology will help confirm if a customer is using a personal phone or tablet by checking the device fingerprint. It can also check that the device security mechanisms have not been broken and that it hasn’t been infected by any malware. Geo-location features and IPintelligence can locate where a customer is in the world. The system also knows whether travelling around Europe is pretty normal behavior for them. The meta-data can also attest that a user hasn’t changed country in the couple of minutes between different orders.
+
+ Behavioural biometric analysis also comes into play, since each person has a unique rhythm when interacting with a web page or a mobile device. Nobody can steal your ‘moves’ because they are largely second-nature behaviours that are impossible to mimic. Behaviours biometrics uses measurable data created by user behavior to verify that the person using an account is the authorized individual. It gathers this data passively during the actions the user is already performing, such as swiping, pressing keys or entering a PIN code, and compares this to previous sessions.
+
+ Within seven to 10 sessions, the solution builds up a user profile and is able to evaluate consistency. Based on those combined technologies, if it’d be unusual for someone to be using a credit card in Ho Chi Minh City at midday on a Tuesday, then the Gemalto Assurance Hub might flag up a second or third level authentication check to permit the payment. But if the card had been authenticated to purchase plane tickets to Vietnam and the card was last used at Heathrow airport to buy a coffee, then perhaps it wouldn’t require it. This is an illustration of how machine-learning can help assess the level of risk posed by a transaction by dynamically combining different signals. It can help to eliminate the need for strong authentication when the system is confident that it is dealing with the true user. The beauty of it is that such systems operate by maintaining user privacy, mainly though the anonymization of data.
+
+ How Gemalto’s solution can help to improve customers’ experience?
+
+ The newly launched Gemalto Assurance Hub is powered by machine learning, processing millions of transactions built from thousands of attributes (such as device profiling, location, behavioral biometric data) to analyze the behavior of digital banking users in realtime and trigger appropriate authentication checks when, and only when, needed. For example, if someone makes a high-value transfer from an unusual location, then additional biometric authentication – such as fingerprint or facial recognition – will be requested to validate the transaction. The solution enables banks to distinguish genuine users from potentially fraudulent ones, thereby giving legitimate customers a hassle-free service, since the platform will only activate additional authentication measures when required.
+
+ Now banks can tailor the authentication to individual users’ profiles to provide an optimal customer experience for each digital banking transaction with nonintrusive security.
+
+ What are the key trends to you in identification and biometric?
+
+ As banks compete for customer acquisition, they need to offer a smooth customer experience. To enable this, the key trend in biometrics is to request authentication that is invisible to the end user – or, at least, a natural gesture that will not turn the user off. Fingerprint recognition is one example: users have become so used to the simple gesture of touching the screen that this is completely non-intrusive. But no single authentication method is 100% secure by itself.
+
+ This is why we need layered security: a combination of different security measures at different points in the transaction. With the activation of PSD2 and the introduction of risk management, we expect the trend to evolve further; to gather as much data as possible to enable greater security through multiple layers of authentication, while maintaining a seamless user experience. This is why we see huge potential for an open hub such as the Gemalto Assurance Hub. We are starting to work with a certain number of technology partners, and will be extending this to include even more inputs to better refine our risk assessment and the results of the hub’s machine-learning process.
+
+  
+
+

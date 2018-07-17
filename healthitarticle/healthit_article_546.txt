@@ -1,0 +1,38 @@
+Point of Care Diagnostics Usher in Era of Personalized Medicine
+
+March 10, 2017
+
+By Jennifer Bresnick
+March 10, 2017 - Even before the advent of value-based care, healthcare providers have always faced pressure to do more, do it better, and do it faster while using fewer resources and producing high quality results. 
+As reimbursement changes tighten the screws and the rise of chronic diseases makes it more important to engage in holistic, personalized medicine, clinicians are being forced into finding innovative ways to trim minutes from the care process while improving the patient experience.
+Understandably loathe to sacrifice the last remnants of the patient-provider relationship, organizations are turning instead to point of care (POC) diagnostics, which can dramatically shorten the time between question and answer for a range of common concerns.
+In 2016, healthcare providers spent $18.4 billion on quick-read pregnancy tests, complete blood counts, and endocrinology concerns, as well as testing for illnesses including influenza, mono, and strep, says a report by Kalorama Information.
+"The driving force behind point of care innovations in the health arena is to provide expedited diagnosis where the patient is seen or in the patient's home," said Bruce Carlson, Publisher of Kalorama Information. 
+READ MORE: How Precision Medicine Will Shift from Research to Clinical Care
+"New technologies are allowing POC devices to produce quantitative lab-quality test results that can be transferred automatically to an information system, a remote caregiver service for consultation, or an electronic medical record."
+Technological advances that are turning smartphones and microchips into mobile laboratories are furthering the trend in remote areas, the report added, and the growing popularity of home monitoring equipment, wearables, and telehealth is helping to connect vulnerable patients with more comprehensive care. 
+At the same time, the rise of machine learning is enabling faster diagnostics that can return results in minutes or hours instead of days.  Coupled with the precipitous drop in time and cost for genetic testing, diagnostics developers are seizing upon the potential to bring an incredibly robust range of tests and analytics tools right to the bedside.
+Clinicians are extremely eager to take advantage of point of care analytics that can personalize care, found a 2016 survey by Quest Diagnostics and Inovalon. 
+Close to two-thirds of participants in the poll said they do not have access to enough patient data within the existing workflow, and 88 percent said they are actively seeking out analytics tools that can deliver insights to them while they are sitting with their patents.
+READ MORE: Genomics, Clinical Decision Support Combo Cuts ED Visits by 42%
+As precision medicine finds its way into more and more hospitals and physician offices, quick access to genetic test results could speed the identification and treatment of cancers, cardiac conditions, and gene mutations that impact a patient’s responses to certain medications.
+The University of Pittsburgh Medical Center’s catheterization lab, for example, is using a blood test to identify gene variants that can make certain blood thinners less effective.
+“We know that some of our patients do not have an optimal response to clopidogrel so their arteries could become blocked again, which puts them at risk for heart attack and hospitalization,” said A.J. Conrad Smith, MD, director of UPMC’s cardiac catheterization laboratories.
+“Now, with our pharmacist colleagues, we can analyze the pharmacogenomic test results along with other clinical data to choose a medication that will reduce a patient’s chance of recurrent clots and a return to the hospital.”
+At the University of Florida, a similar project helped reduce complications from stent procedures by 50 percent after providers used a genetic test to find patients unresponsive to clopidogrel.
+READ MORE: Next-Gen Genomic Testing a Focal Point for Precision Medicine
+“We saw significantly fewer adverse events among patients who were switched to an alternative drug,” said Larisa Cavallari, PharmD, director of the Center for Pharmacogenomics at the UF College of Pharmacy and associate director of the UF Health Personalized Medicine Program.
+“There was prompt genotyping and the patients were quickly given the drug we thought would work best for them.” 
+Point-of-care testing to identify a specific issue can be of great benefit in specialty situations as well as in the primary care environment, but health IT developers have not yet figured out the best way to present critical information to clinicians within the electronic health record.
+Speedy data access is one thing, but workflow optimization that leads to actionable insights is quite another. 
+In the Quest and Inovalon survey, 88 percent of providers said they need better tools to help them match patients with appropriate services – a process complicated by the pressing need to meet clinical quality measures for risk-based contracting arrangements.
+Intuitive and meaningful data visualizations will likely be the key to making point of care diagnostics worth the investment.
+One prototype application, developed by researchers Vanderbilt University, MIT, Boston Children’s Hospital, China’s University of Science and Technology, and Harvard Medical School, uses the FHIR data standard to create a tablet-friendly interface for oncologists.
+Using interactive visualizations, the app displays the patient’s results and demographics along with links to research and detailed information on specific genetic issues flagged in the test.
+“Providing contextually useful patient population comparisons may be a ‘nice to have’ for traditional clinical tests,” the research team said.
+“However, for the complex and highly differentiating results associated with genomic testing, such information is essential for any type of diagnostic/prognostic support, since more active clinical decision rules may depend entirely upon the particular evidence base for the clinical condition of the patient.”
+Health IT vendors looking to support the growth of personalized medicine and point of care insights may wish to follow the app’s example of using widely adopted data standards, easily accessible visualizations, and connections to supporting materials as a way to present meaningful data to clinicians.
+Doing so will allow the point of care diagnostics market to continue its rapid growth while harnessing complementary advances in machine learning, EHR optimization, genomics, and precision care.  Taken all together, these advances are likely to combine into a highly effective strategy for delivering speedy, high quality, data-driven care to patients with complex needs.
+Tagged Analytics InfrastructureGenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

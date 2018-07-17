@@ -1,0 +1,27 @@
+Big Data Analytics Fuels Penn State Precision Health Research
+
+February 12, 2018
+
+By Jessica Kent
+February 12, 2018 - Penn State researchers recently announced their plan to create a Digital Collaboratory for Precision Health Research that will leverage big data analytics to boost individualized care.
+Project collaborators hope to develop a secure health IT platform that will analyze disparate data sets and allow researchers to better understand why different health problems occur in different demographics.
+Giving providers the ability to better analyze big data may help prove that certain medical conditions are a result of both genetic and environmental factors.
+Dig Deeper
+Big Data Analytics Link Economic Wellness to Population Health
+Turning Healthcare Big Data into Actionable Clinical Intelligence
+Precision Medicine Flourishes with Healthcare Big Data Analytics
+“We are a product of our genes, behavior and environment,” said Vasant Honavar, professor and Edward Frymoyer Chair in the College of Information Sciences and Technology (IST) and the project lead.
+“In order to improve health, we need to look beyond treating individuals who are sick and need to understand the underlying genetic, environmental and behavioral factors so we can develop effective interventions.”
+The team plans to make patient information protection a top priority by ensuring researchers adhere to data access and use policies.
+Only research teams with approved projects will be allowed to analyze data using reproducible and shareable workflows, so personal information never leaves the secure platform.
+“We plan to build this infrastructure and share it with other institutions,” Honavar said. “They could receive similar data from different sites. While Institution A doesn’t have to access Institution B’s data, the researchers can conduct similar analyses across multiple sites.”
+This collaborative project offers an opportunity for researchers in diverse disciplines to derive actionable insights from large data sets, including data held in electronic health records.
+“It’s important to understand the relationships between disparate risk factors,” Honavar said. “You can’t do that if you don’t tie them to the health information that sits in electronic health records.”
+Academic collaboratives have become more common as access to big data has increased and precision medicine efforts have progressed.
+In October 2017, nine academic institutions, including Northwestern University and Johns Hopkins School of Medicine, received a five-year, $25 million grant to develop a national health data analytics and informatics center aimed at coordinated research activities across the country.
+Other academic efforts include the University of Michigan’s recent campus-wide precision medicine initiative, which is focusing on integrating clinical factors with social determinants of health to identify risks for opioid dependence and addiction, and Louisiana State University’s research into cancer care disparities.
+The Penn State team’s platform will add to these efforts. Collaborators expect that it will enhance secure data sharing among researchers and advance personalized health.
+“We will build this infrastructure once, and we’ll do it right, so as to enable interdisciplinary teams of researchers across the university to focus on using the data effectively to answer important research questions, and ultimately, improve population and individual health outcomes,” Honavar concluded.
+Tagged Health Data AccessHealth Data PrivacyHealthcare Big Data AnalyticsPatient CarePatient DataPersonalized MedicinePrecision Medicine
+
+

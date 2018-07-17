@@ -1,0 +1,39 @@
+Combating Fraud with Tokenised Identities
+
+April 15, 2018
+
+ by Suresh Rajagopalan, President Software Products, FSS for The Fintech Times
+
+ Secure national identity infrastructure is foundational to delivering the benefits of a digital economy, where the bulk of transactions involve online interactions between remote entities. Whilst citizens in developed countries take identity for granted, in emerging markets governments are investing in building identity infrastructure that can be deployed to open bank accounts, order goods and services, file tax returns, receive government subsidies, and more. For example, Aadhaar, India’s National Identification Program, which covers 99% of the adult population, is an open identity verification system that a range of applications can access. Likewise, in Nigeria, the National Id Program links customers’ biometrics-enabled bank verification numbers (BVN) with their national identity card and can be used for a range of payments including ATMs and money transfers.
+
+ With an exponential growth in identity-dependent digital transactions, safeguarding identity credentials and preventing unauthorized access becomes exceedingly important to secure public trust. Identity theft can be used to create synthetic identities to enable account takeovers, a severely damaging experience for the victim, especially when the identity is linked to financial instruments. In fact, compromised biometric data presents even greater difficulty as it is unique and, once lost cannot be re-issued or reclaimed like traditional identification such as a PIN. It is easier to change a bank account or get a new credit card number, but issuance of a new national identity number is difficult.
+
+ Identity issuers have adopted a multi-layered security model to secure a citizen’s identity. Current measures to safeguard identity include basic access controls to advanced encryption techniques and use of HSM for key management, backed by stringent risk monitoring, management and governance frameworks
+
+ Typically, an identity exchange takes place between three parties:
+
+ The growth in the number of relying parties means individual identity information is scattered across different databases, devices, platforms and networks, creating potential points of infiltration and interception for data breaches to occur.
+
+ The challenges are compounded by varying levels of security and enforcement and all it requires is a single slip at one of the companies holding the data for information to be compromised.
+
+ Across enterprises common security related vulnerabilities include:
+
+ Several incidents have come to the fore. For instance, Equifax, one of three main companies that monitors people’s credit in USA, was compromised by hackers, exposing data of 143 million people, including people’s social security numbers. In November 2017, 200 government sites in India, had exposed Aadhaar numbers and names and addresses of citizens, stoking worries that private information is vulnerable to hackers. In yet another incident in October 2017, an approximate 30M identity numbers and other personal and financial information of South African citizens had been hacked and leaked on the internet
+
+ Tokenization in Action
+
+ Given the growing number of breaches and sophistication of attack vectors, existent fraud prevention measures need to be enhanced. In response to concerns from consumers, issuers are formulating regulations that require businesses to take appropriate care when handling personal data. The Unique Identification Authority of India, for example, has recently mandated all organizations to store Aadhaar numbers with a referential key to facilitate the broad adoption of consistent data security measures.
+
+ Substitution techniques like tokenization isolate data in a Vault, providing an additional layer of defense against data breaches. The concept is not new, having been successfully advertised by Apple Pay and Samsung Pay for mobile commerce transactions and can be extended to national identities. The ID Vault can be hosted off-premise to mitigate costs for enterprises.
+
+ Tokenization deidentifies sensitive information, replacing underlying value with a unique equivalent. So, if someone weasels into the enterprise’s system, all they see are randomly generated tokens. Further, any fraud attempt, or specific data breach, impacts a specific token (or domain), meaning re-issue is only required for that specific token (or domain). There is no impact on the underlying identity credentials and other associate tokens, resident at different service provider sites, mitigating the risk of fraud. In addition to end-to-end security, tokenization reduces compliance overheads, bringing the impact of a data breach within acceptable risk tolerance levels.
+
+ Transforming data using tokenization however presents challenges in the context of the national identity numbers. Unlike card Personal Account Numbers (PANs), national identity numbers, do not follow a standard global format. For instance, unlike the first six digits of the PAN, which indicate the BIN globally, the first 11 digits of the Aadhaar number are random numbers and the last digit is a checksum. A South African citizen’s identification number is a 13-digit number containing only numeric characters, and no whitespace, punctuation, or alpha characters. The Nigerian National Identity Number consists of 11 non-intelligible numbers, randomly chosen and assigned to an individual on enrolment.
+
+ Also like EMV standards for card tokenization, the absence of a standard for national identity renders it important that companies chose token service providers with care. As an example, if digital identity tokens are used a payment instrument in the future, the underlying technology must be able to scale to support new use cases encompassing data in transit.
+
+ Outsourced tokenization systems such as FSS Token Vault are designed to give companies access to sensitive data when they need to, and not store data that is at rest. The solution supports format-preserving and non-format-preserving options for most data types, including personally identifiable information enabling companies to efficiently address objectives for securing and anonymizing sensitive assets.
+
+  
+
+

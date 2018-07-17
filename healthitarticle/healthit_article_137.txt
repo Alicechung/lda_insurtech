@@ -1,0 +1,77 @@
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+
+March 23, 2018
+
+By Jennifer Bresnick
+March 23, 2018 - The healthcare industry may be going through a seemingly endless period of flux, but there are a few unchanging truths about big data analytics that can help guide executive leaders through troubled times.
+Planning, preparation, and a firm grasp on how to communicate measurable value are critical components of any successful big data analytics program, says Soyal Momin, Vice President of Data and Analytics at Presbyterian Healthcare Services (PHS).
+Soyal Momin, Vice President of Data and Analytics at PHS
+Source: Xtelligent Media
+The integrated delivery system, which includes eight hospitals in New Mexico, also serves about half a million Medicaid, commercial, and Medicare Advantage beneficiaries through its health plans.
+Integrating delivery and reimbursement at such a scale while keeping costs under control requires PHS to take a cohesive, carefully developed approach to big data that starts with a solid foundation and a clear direction, Momin told HealthITAnalytics.com at HIMSS18 in Las Vegas.
+“You need to build a great foundation so that your analytics programs are scalable and sustainable,” he said. 
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+“Oftentimes, organizations just do enough to get some analytics up and running, and then they hope and pray that it’s going to serve their needs for a while.  But when you treat analytics as a short term fix, it very often fades away.”
+Momin has developed what he calls the “seven-fold path” for ensuring that the health system’s data assets are being used to their greatest advantage without data siloes or organizational conflicts.
+“Everything starts with sponsorship at the top,” he said.  “We have major support from the CEO and his executive leadership team.  They drive a data-rich culture throughout the entire organization, which is essential for seeing any type of success.”
+“The data analytics group is the only initiative in the enterprise that has its own advisory board – that’s how seriously we are taking it.” 
+Momin and his executive leadership team meet once a month for at least an hour and a half. 
+READ MORE: Understanding the Many V’s of Healthcare Big Data Analytics
+“If you think about the cost per hour, it’s worth an investment of around $20,000 every month just by taking up these people’s time,” he said.  “That shows serious commitment to what we’re doing.”
+The second step is ensuring that the organization has concrete goals in mind surrounding opportunities that will make a measurable impact on a specific area of clinical, operational, or financial function.
+“Within my first six months at Presbyterian, we came up with 172 requirements during our value creation and discovery process,” said Momin.
+“It’s very important to understand the parameters of what you’re doing, because as soon as you open up the candy shop, everyone is going to come to you and say, ‘I need this and this and that and this other thing on the side.’  If you don’t classify your opportunities into ‘crawl, walk, and run,’ you’re going to get lost in those one-off demands and you’re not going to be systematic in the way you develop your programs.”
+Momin advises organizations to stay focused and be mindful of where their expertise truly lies.  Trying to do too much or overextend in-house capabilities will only lead to failure, he warned.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+“PHS is in the business of financing and delivering care.  We are not in the business of developing software,” he said.  “While we have to do a little of the latter to enable the former, development is not our goal.  Patient care is the goal, and we need to keep that in our sights at all times.”
+“For the things you can’t do in-house, you need to surround yourself with someone who can operate at that larger development scale and bring some solutions to your organization faster and more comprehensively than you can do yourself.”
+For PHS, a key partner is MedeAnalytics, said Momin.  “They operate in both the payer and the provider spaces.  We do both, so we needed a partner with that level of experience on both sides of the equation,” he said.
+A number of other health systems have recently tried to join PHS in becoming both a provider and a payer, but most have failed to achieve financial sustainability. 
+Only four out of the 37 provider-sponsored health plans founded since 2010 have withstood the extreme pressures of a volatile consumer marketplace, said the Robert Wood Johnson Foundation in a 2017 report.
+Many of these initiatives failed due to a lack of visibility into their financial opportunities, insufficient data access to support truly coordinated care, and the inability to achieve scale.
+PHS has the benefit of long experience and a unique patient population to serve, said Momin, enabling the health plan component of the enterprise to complement the delivery of quality care. 
+“We’ve been in the care delivery business for 109 years and the health plan business for 31 years,” he said.  “So we’re not just a delivery system that is investigating being a payer – we’ve been doing this for quite a while, and we’ve been doing it at scale.”
+“In addition, the people who live in New Mexico tend to stay here, and there isn’t a lot of movement into the state from the outside,” he added.  “From an analytics and population health management perspective, that is a major benefit.  We can track people longitudinally for a long time, which creates a very fertile ground for analytics.”
+That brings PHS to its third step in the big data analytics process: the creation of an integrated enterprise data warehouse (EDW).
+“Bringing the data into the integrated data warehouse is a challenge,” Momin acknowledged.  “We have been wrestling with it for three years, and we’re not there yet.  But it’s made easier by our fourth fold in the roadmap, which is information management and governance.”
+Most data scientists and analytics aficionados are familiar with the phrase “garbage in, garbage out,” but not enough healthcare organizations devote the time to developing the data governance skills required to prevent garbage from getting in, said Momin.
+“Our approach is to profile the data and address data quality issues in the source system, not once after it enters the EDW,” he said. “Data quality and integrity is the foundation for everything else going forward, for both clinical and financial applications.”
+“You can’t report on any of those metrics if you can’t trust your data to begin with.  And if you don’t extend that trust to the end-users, so that they understand what they’re seeing and believe it’s an accurate reflection of reality, you can’t create that data-driven culture.”
+Trust flourishes in an environment where cooperation and collaboration are top priorities.  In order to create this atmosphere, Momin recommends centralizing as many analytics initiatives as possible.
+“When I joined the organization, we had pockets of business analysts in various parts of the organization, and there wasn’t as much communication or synchronization as there could have been,” he recalled. 
+“So as part of the fifth step, I would suggest bringing everything under one umbrella so you can see what you have, what you need – and perhaps most importantly, what you don’t need.” 
+Most organizations are still searching for the right tools to support an evolving roster of initiatives, which can lead to some unintentional software hoarding, he continued.
+“Everyone has a toy box when it comes to data analytics.  They’ll come to a conference like HIMSS and they’ll leave with another new collection of toys,” he said. 
+“Maybe they put the old ones on the shelf, or maybe they just add the new ones in with what they have.  Either way, they tend to just bring in more and more without really evaluating what the impact will be, especially when it comes to ongoing spending.”
+Slimming down that collection of systems to better reflect current and future needs can help organizations generate some serious savings.
+PHS trimmed around $600,000 in 2016 by decommissioning some of its contract modeling tools, and projected savings of $1.3 million by the end of 2017. 
+The system saved another $724,000 in 2016 by shutting down a series of data analytics tools that were no longer serving the organization’s needs.
+None of these achievements would be possible without ensuring that the entire data analytics process is wrapped in effective, efficient, and forward-looking change management, said Momin.
+“A lot of organizations think that you bring in a technology vendor, you implement a data warehouse, and voila – you’re done,” he said.  “But if you don’t think about everything that goes along with it – training your people, engaging them to use the tools correctly, optimizing the workflows – then how are you going to integrate the technology into your organization?”
+“Change management is observing, measuring, and making appropriate changes to all of those aspects of a deployment.  Without that, you’re not going to generate any type of long-term value.”
+Defining that value and communicating the gains back to the organization’s leadership is the final step along the pathway to big data analytics success. 
+Closing the loop helps to encourage ongoing support from top executives, said Momin, and ensures that the entire enterprise understands why investment in data-driven care is so important for financial and clinical success.
+“I’ve had a board member say that the investment they put into analytics is equivalent to building a whole new hospital,” he said.  “In the hospital, they can touch the walls of the OR; they can see the beds in the recovery unit.” 
+“What can they touch in terms of analytics?  What are they getting for the money that they’re spending? It’s a very valid question, and one that not a lot of organizations can answer succinctly.”
+To ensure that PHS can always reply positively to that question, Momin requires his staff to share their “value story” at the end of every year. 
+The reports, which he calls his Christmas present, must articulate the value each staff member’s work has delivered for their specific area of the organization over the past 12 months.  “I compile these stories and share them with the leadership,” he explained. 
+“It allows me to say, ‘you invested this much, and this is what we’ve brought back because of it.’  It makes it extremely clear what the ROI is for everything that we do, and it makes sure that the support stays strong, the funding stays strong, and that everyone is on the same page.”
+The impact of these stories is being felt across the clinical, financial, and operational domains of the health system. 
+In 2016, new disease registries helped identify an additional 40,000 patients with asthma, heart failure, or complex needs. 
+A clinical targeting model is helping to identify substance use disorder, and measurement tools designed to improve patient satisfaction help to support PHS’s Stroke Center of Excellence designation.
+Enhancing the health system’s big data competencies have also helped to prevent revenue leakage and identify more opportunities to save. 
+Encounter dashboards created the ability to recapture an additional $12 million in revenue in 2017, while analyzing revenue cycle denial optimization saw the return of $8 million to the organization.
+Efforts to streamline pharmacy spending and improve CMS star ratings for the pharmacy combined to produce a savings of around $40 million in 2017.
+Momin believes there are even more opportunities to be innovative about big data analytics.  Unstructured data is PHS’s next frontier, he said.
+“We’re analyzing speech data from our call centers, as well as complaints and survey data from patients, including on social media,” he said.  “That is helping us identify new opportunities to serve our patients’ needs and improve their satisfaction.”
+Small irritations during an inpatient stay can add up to big impacts on HCAHPS scores.
+“We found some low marks that were coming primarily from the mother/baby unit,” he explained.  “That unit had a bed which was squeaky, and the noise was waking up the babies.”
+“Anyone who has dealt with a newborn knows that’s a big problem.  The facility fixed it, and our scores went back to what we expected.”
+There are no standard data elements that collect specific feedback on squeaky beds or broken TV remotes, he said.  That requires the health system to look at comments sections and other unstructured feedback formats to glean insights into what is truly bugging patients and their families.
+“If you’re not able to analyze unstructured data, you can’t integrate those small but critical patient satisfaction issues into your improvement projects,” said Momin.  “And you might be missing some very simple, low-cost fixes that can significantly change the way patients perceive their experiences.”
+Applying the same planning and management techniques to unstructured data analytics projects as to more traditional big data analytics will help to ensure that the health system will see similar gains from its new explorations, Momin said.
+“When you are systematic and surround yourself with good people, good processes, and a comprehensive strategy, you will get the value you’re looking for out of your data,” he asserted. 
+“How you implement your analytics is just as important as what tools you choose, so don’t spend all your time on the technology without thinking about how you’re going to extract value from those systems.”
+Tagged Analytics InfrastructureBig Data AnalyticsClinical AnalyticsHealthcare Data GovernanceHealthcare Data StrategyHealthcare Information GovernanceHIMSS18Interviews
+
+

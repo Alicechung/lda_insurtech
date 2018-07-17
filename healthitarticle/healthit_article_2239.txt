@@ -1,0 +1,32 @@
+What’s the foundation for managing big data in healthcare?
+
+October 16, 2013
+
+By Sponsored Content
+October 16, 2013 - It is clear in today’s healthcare industry that big data is becoming more than just a buzzword. According to IBM, 90 percent of the data in the world today has been created in the last two years alone. Regardless of whether that claim is accurate, the amount of data we generate — both structured and unstructured — is accelerating rapidly.
+The healthcare industry is in the thick of this data explosion. We can attribute some of the profusion of data to the HITECH Act and EHR Incentive Programs (i.e., meaningful use), but plenty of other factors contribute as well. Consider these trends that should prove to make big data even more of a reality in healthcare:
+• Increasingly detailed clinical documentation will be required to derive accurate codification from the expanded ICD-10 diagnosis codes;
+• Continued expansion of biomedical, bedside and mobile technology devices will result in increasing amounts of streaming data;
+Dig Deeper
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+• Recent advances in medical and human genetics, foundation objects for personalized medicine and where genomic sequencing will be applied to the medical care of individual patients will result in tremendous amounts of sequenced data;
+• Natural Language Processing (NLP) and other technology advancements are resulting in even the spoken word being captures as a data asset;
+• Secure clinician to clinicians messaging and between clinicians and patients will continue to produce growing amounts of unstructured data.
+Feeling overwhelmed by the potential influx of data? The key to handling this tsunami is to develop a plan proactively that transforms this mountain of data into a manageable and powerful strategic asset.
+Building a foundation for big data
+New business intelligence (BI) tools are entering the market to help make better use of the growing wave of data. But tools alone won’t make a BI project successful. Success lies in the effective use of these tools to derive actionable information from the data. And this requires culture and process change.
+One prerequisite fundamental to launching a big data initiative is the establishment of a data-driven culture. This often necessitates changes to an organization’s strategic goals and core business processes as well as the key skills needed by its employees. Establishment of such a culture is a “top-down” process requiring ongoing support from the executive team to implement two important programs: data governance and master data management.
+Data governance
+Data Governance establishes the roles, responsibilities, and workflow for managing an organization’s enterprise-wide data. An effective data governance strategy assigns accountability to individual data for one or more types of master data. Data stewards are then established to support data owners by preparing definitions and metrics used to manage and measure data quality and performance.
+Appropriate data governance ensures the consistency of an organization’s data definitions, metrics, and performance indicators — an important requirement in the management of information as a strategic corporate asset. Data governance gives stakeholders confidence in the data that they can then rely on to make more informed decisions.
+Master data management
+Master data management is the technical infrastructure for data governance. It enables data owners and stewards to easily maintain the organization’s master data assets. Without master data management strategy, many data governance initiatives fail to achieve their objectives. Why? Because without master data management the sheer amount of effort required to maintain the master data is too great.
+Please note that big data environments are as dependent on master data as enterprise data warehouses or data marts. A single source of truth for patient and provider data is every bit as important in a big data environment — and data governance and master data management provide the requisite organizational structure, workflow, and tools.
+According to a report by the McKinsey Global Institute, if healthcare in the United States were to use big data in a creative and efficient manner in their efforts to drive efficiency and quality, we could create more than $300 billion in value every year. Two-thirds of this value would be recognized in an estimated 8 percent reduction in overall healthcare expenditures.
+That’s an impressive payoff for the organizational effort required to establish a data-driven culture.
+Michael Garzone is Solutions Director of Technology Services at CTG Health Solutions.
+  Tagged Analytics InfrastructureBig Data AnalyticsClinical AnalyticsEHR AnalyticsHealth Information ManagementHealthcare AnalyticsHealthcare Business Intelligence
+
+

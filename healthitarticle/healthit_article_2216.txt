@@ -1,0 +1,17 @@
+EHR analytics identify delays in kids eight months earlier
+
+October 31, 2013
+
+By Jennifer Bresnick
+October 31, 2013 - An EHR-based analytics system developed by researchers from the Indiana University School of Medicine can help physicians detect developmental delays in young children eight months earlier than they could through conversations with caregivers alone.  The Child Health Improvement Through Computer Automation (CHICA) program, presented by lead researcher Dr. Stephen Downs at the American Academy of Pediatrics 2013 National Conference and Exhibition, has been used to screen approximately 36,000 infants through a tailored health questionnaire targeted at parents.
+While the use of the algorithm didn’t raise the number of disabilities identified in children, it did allow physicians to detect the delays much sooner, a significant factor in the effective treatment of issues in young patients.  “For some of these kids, 8 months is about a third of their lives,” Dr. Downs says.  “That’s big.  It’s not surprising that clinicians in the intervention group were about three times more likely to do developmental screening in eligible kids.”
+The CHICA system uses standard care guidelines encoded in logic rules to generate two tailored questionnaires, called adaptive turnaround documents (ATD), presented to parents as paper forms.  The first contains twenty questions for the caregivers to fill out in the waiting room, and asks yes or no questions about risk factors, concerns, or health problems the child may be experiencing.  That survey is then scanned back into the system, which reads the input in real-time and produces the second form, containing dynamically generated recommendations for continued care.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+“All of Us” Precision Medicine Program Enters Beta Testing
+“We developed adaptive turnaround documents to address longstanding challenges inherent in acquiring structured data at the point of care,” writes the research team in an article on PubMed.gov. “These computer-generated paper forms both request and receive patient tailored information specifically for electronic storage.”  The system was able to accurately extract all the data from the form in 56.6% of cases without the need for additional human verification, which “suggests that ATDs can serve as an inexpensive, workflow-sensitive means of structured data acquisition in the clinical setting” for a variety of applications.
+“CHICA is only in our hospital now, but we hope to deploy it to other centers nationwide,” Downs said. “In the long term, we want to build a Web server that can be connected to any commercial electronic health record nationwide.”
+  Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsMedical ResearchPopulation Health Management
+
+

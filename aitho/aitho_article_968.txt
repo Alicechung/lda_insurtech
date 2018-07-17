@@ -1,0 +1,15 @@
+Amazon Web Services (AWS) And Anitian Are Bringing Security Automation To The Cloud
+
+05 Apr 2018
+
+The Cloud has Become the Place for Scalable, Strong, and Stable Security. To Emphasize This Trend, Amazon Web Services (AWS) and Anitian Will Host A Series Of Talks On Security And Automation In The Cloud During The RSA Conference This Year
+The cloud has become the place for scalable, strong, and stable security. High performance companies are moving not only their data and applications to the cloud, but also their security. To emphasize this trend, Amazon Web Services (AWS) and Anitian will host a series of talks on security and automation in the cloud during the RSA Conference this year.
+Featuring talks from leading cloud and security firms, including Barracuda, Splunk, Cloudpassage, Allgress, Puppet, and the Center for Internet Security, the AWS Cloud Security and Automation Pop-up will take place just outside the RSA Conference on April 18. Attendance in not limited to RSA Conference attendees, anyone passionate about cloud security is welcome to attend.
+“The success of cloud computing relies on cloud security,” said Tim Sandage, Senior Security Partner Strategist at AWS. “Our security partners are proving this every day, and we’re excited to drive that discussion forward with the pop-up at RSA.”
+Topics will include how DevOps will drive the future of secure code in the cloud, and the difference between baking security into code and adding security as an afterthought. Presentations will take place from 11:30am to 5:30pm at Jamber Wine Pub near the Moscone Center.
+Andrew Plato
+“Today’s cloud platforms, like AWS, are what security professionals have wanted for decades,” said Anitian CEO Andrew Plato. “The cloud provides the foundation to create, deploy, automate, and scale security in ways that no on premise solution can offer.”
+The event will showcase examples of cloud security automation, including the Sherlock Cloud Security platform developed by Anitian. Sherlock is a Managed Detection and Response service that uses a fully virtual Security Operations Center (SOC) deployed in the AWS cloud. The Sherlock platform builds on the native automation and machine learning of the cloud to dramatically accelerate detection, identification, and response to attacks.
+Sherlock will be available to demo for interested parties at the AWS Cloud Security and Automation Pop-up during RSA.
+
+

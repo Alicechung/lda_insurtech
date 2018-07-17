@@ -1,0 +1,43 @@
+Da Vinci Project Brings HL7 FHIR to Payers for Big Data Analytics
+
+March 15, 2018
+
+By Jennifer Bresnick
+March 15, 2018 - In just a few short years, HL7 FHIR has exploded in popularity to enable unprecedented connectivity across the healthcare ecosystem.   
+The internet-based data standard has started to hit its stride at a pivotal moment for providers and payers: at the intersection between risk-based reimbursements, more comprehensive population health management, and the genesis of AI.
+All of these tasks require access to big data from as many sources as possible – and access is exactly what FHIR enables. 
+By bridging the interoperability gaps between disparate systems, FHIR has the potential to improve the seamless communication required between business partners who wish to engage in value-based care.
+Electronic health record vendors kickstarted FHIR’s rise to prominence by embracing the standard as a way to overcome their data differences.  Most of the major companies now have at least some features that integrate FHIR to enable connectivity, allow apps to hook into the system, or share data between business partners.
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+A handful of leading names, including Cerner, Epic, athenahealth, MEDITECH, and McKesson, have also pledged their support to the Argonaut Project, a private sector initiative to develop FHIR-based APIs and promote the standard as a way to solve many of the provider community’s most challenging use cases.
+Now, HL7 International is taking on the challenge of crossing the payer-provider divide with the Da Vinci Project.
+Charles Jaffe, MD, PhD, CEO of HL7 International
+Source: Xtelligent Media
+“Argonaut spurred the DaVinci Project specifically to enable access to granular clinical data for payers,” said HL7 International CEO Charles Jaffe, MD, PhD, to HealthITAnalytics.com at HIMSS18. 
+“It’s very important to add clinical data to claims data, especially as we get deeper into value-based care and start tying those claims to outcomes.”
+The project began in late January of 2018 as a way to bring stakeholders into alignment around what payers need to improve access to big data to support better analytics and the reduction of administrative burdens. 
+READ MORE: FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+Payers, providers, and vendors are all involved in charting the course of the initiative and developing the governance required to create transparent, collaborative solutions.     
+FHIR is simply the best candidate to become the industry-wide standard for enabling value-based care, asserted Wayne Kubick, Chief Technology Officer at HL7 International.
+“You don’t have to sell the idea of FHIR anymore,” he said.  “People get it.  It has become part of the infrastructure – an accepted part of the world of healthcare. The technology isn’t so much the problem anymore.”
+“Now our problems are around change management, adoption, and developing the business rules that will help us address regulatory concerns, privacy, and security.  Those are difficult challenges, but they represent the fact that we have taken the first big leap towards getting the data where it needs to go.”
+The synthesis of clinical and claims data is crucial for gaining meaningful insight into patients and their outcomes, said Jaffe, especially when analyzing data to identify risk or manage populations.
+READ MORE: How FHIR Offers a New Approach to Working with Healthcare Data
+“Claims alone are notoriously misleading,” he said.  “It’s too slow and too inherently skewed by the payment needs of the provider rather than the needs of the patient.  If you were to predicate your predictive modeling on claims alone, you would probably come up with some questionable ideas.”
+Wayne Kubick, CTO of HL7 International
+Source: Xtelligent Media
+Small discrepancies between clinical documentation and claims generated from that encounter can create major problems for population health management, risk scoring, and outcomes-based reimbursement, continued Jaffe, citing an example he has encountered more than one as a physician.
+“A child goes into the pediatrician and has asthma symptoms and asthma clinical findings, and walks out with asthma medication, but the insurance claim says the child has bronchitis, because the pediatrician doesn’t want to upset the parents – or before the ACA, prejudice a payer against that child,” he explained. 
+“If you only use that claim for your predictive analytics, you are completely missing a member of a population that represents the most expensive childhood disease.  That means you’re also missing a chance for a potentially necessary intervention.”
+Improving population health management and reimbursement arrangements by enhancing data sharing is just one component of the initiative.
+Through the Da Vinci Project, payers may also be able to reduce the administrative burdens inherent in working with providers on patient care, said Jaffe.
+“Streamlining preauthorization is a particularly high-value use case.  It’s an anathema for clinicians,” he stated. “Clinicians do their best to get preauthorized for every prescription or procedure, but the rules may be different for every payer, and they don’t even know the criteria upon which that authorization is judged.”
+“When they care for the patient in the normal course of events, FHIR can enable a preauthorization algorithm to simply say ‘yes, you can do that’ or ‘no, you haven’t met these five criteria yet.’  The burden and frustration of preauthorization is solved inherently.” 
+Participants in the project will be examining a number of other use cases, as well, including medication reconciliation and data exchange to support HEDIS and STARS ratings.
+And once the connections between these stakeholders are well established, more applications are bound to come to light. 
+The key will be creating the pipelines that will overcome the differences between how clinical and claims datasets are formatted, stored, and shared, said Kubick.
+“FHIR is about making the relevant data more available and more usable directly,” he said.  “When you make data more available, you create opportunities to inform better clinical and administrative decisions.  Everyone wins when you enable that.”
+“It’s going to take a long time to get where payers and providers need to be in order to really succeed with value-based reimbursement at scale, but FHIR provides a solid platform to work from.  We’re making very good progress towards many of these goals, and it’s an exciting time to be involved with FHIR and all of the really important problems we’re starting to solve with it.” 
+Tagged Analytics InfrastructureClinical AnalyticsFast Health Interoperability ResourceFHIRHealthcare PayersHIMSS18HL7InteroperabilityInterviews
+
+

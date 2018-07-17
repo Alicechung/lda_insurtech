@@ -1,0 +1,60 @@
+Which Healthcare Data is Important for Population Health Management?
+
+June 08, 2017
+
+By Jennifer Bresnick
+June 08, 2017 - From claims to electronic health records to input from the Internet of Things, healthcare organizations have a whole lot of data on their hands. Big data has become one of the industry’s most precious business assets, but it can often be difficult to know which of these data types are most valuable for specific strategic tasks.
+After all, providers don’t rely on the same information for trimming supply chain costs as they do for identifying diabetics – each objective calls for a different view into the clinical and administrative functioning of the organization.
+Population health management crosses the divide between the clinical and financial realms, requiring providers to gather a variety of data types from a number of different sources, including payers, hospitals, primary care providers, specialists, pharmacies, public health organizations, and patients themselves.
+While every piece of information can, theoretically, add a new dimension to the detailed tapestry of a patient’s health, not all data is created equal – and not all of it is equally accessible.  Providers who wish to succeed with population health management might benefit from focusing their initial data-gathering efforts on the following types of information.
+CLAIMS DATA
+Claims data is often considered the starting point for healthcare analytics due to its standardized, structured data format, completeness, and easy availability. 
+READ MORE: Population Health Management Requires Process, Payment Changes
+Claims include patient demographics, diagnosis codes, dates of service, and the cost of services, all of which allow providers to understand the basics of who their patients are, which concerns they are facing, and how much they cost to treat.
+And since patients typically use one payer for the vast majority of their clinical care needs, providers can trust that an individual’s claims history will likely represent the entire scope of their utilization for as long as they are customers of that insurance company.
+This can help providers leapfrog interoperability issues that prevent them from accessing complete and longitudinal clinical data from external organizations along the care continuum.
+However, claims have their limitations.  The data is retrospective – sometimes months or years old – which reduces its usefulness for proactive population health monitoring.  Claims do not include many important clinical details, and do not directly illuminate the process of care, only its billable aspects.
+While providers can use claims to answer certain very important questions about patients, such as how many have a diagnosis of type 2 diabetes or how often a specific group of patients visits the ED each month, they cannot enable true population health management on their own.
+ELECTRONIC HEALTH RECORD (EHR) DATA
+READ MORE: Population Health Management Starts with Flagging High Costs
+EHR data provides many of the clinical clues that claims data leaves out.  In addition to all of the information that is later coded for reimbursement, EHRs contain details about the process of care, provider impressions of their patients, and volunteered patient concerns that may not have resulted in diagnoses.  They also include vital signs, medications, allergies, imaging reports, lab data, and immunization dates.
+With these datasets, providers can answer a wealth of important population health management questions, such as:
+Which patients have blood pressure readings that have been trending upward at a worrisome rate?
+How many patients are taking multiple medications that may be contraindicated?
+Which diabetic patients have missed their latest foot and eye health screenings?
+Are pediatric patients receiving their immunizations according to schedule? Which have missed recommended dosages?
+How many patients are tobacco users? Have they been offered access to smoking cessation resources?  How many quit after completing classes or counseling?
+EHRs have their downsides, however.  These systems often include a high number of free-text fields, which means they are filled with unstructured data that can be incomplete, difficult to extract, and even more difficult to analyze. 
+Unintuitive and overly-complex workflows may encourage users to take shortcuts, copy and paste data from visit to visit, and incorrectly enter values or leave default values in place, further weakening the integrity of the data.
+EHRs may also store lab results, imaging reports, notes from specialists, and other documents as static PDF files, which cannot be analyzed without additional processing.
+READ MORE: How Population Health in Med School Preps Docs for Value-Based Care
+Optimization efforts that make EHR data friendlier for population health management are ongoing among a large segment of the industry. 
+In one recent survey, close to 40 percent of stakeholders are making EHR optimization a top budget priority over the next three years.  More than 20 percent are also planning to focus specifically on accountable care and population health management technology improvements.
+SOCIAL AND COMMUNITY DETERMINANTS OF HEALTH
+Socioeconomic data and information about the social determinants of health are extraordinarily rich resources for population health managers, yet much of the data remains uncollected or scattered in inaccessible formats. 
+Community and social traits, such as average incomes, English proficiency, local healthy food choices, violence rates, transportation access, unemployment rates, and education levels can all be important predictors of patient outcomes – if providers could access and analyze such data.
+Unfortunately, few EHRs have fields that allow providers to collect information on these determinants at the point of care.  And even if the data is available from patients themselves or public health resources, interoperability barriers often prevent providers from getting access to it.
+Without environmental, social, and community data, providers will be unable to tell the full story of their patients, wrote Donna Zulman, MD, MS, Nigam Shah, MBBS, PhD, and Abraham Verghese, MD in a JAMA article in 2016.  As a result, healthcare organizations will be unable to develop population health management programs that address the full spectrum of their patients’ holistic needs.
+There are a number promising efforts aimed at collecting and disseminating socioeconomic data for population health, however.  In November of 2016, CMS detailed its Equity Plan for Improving Quality in Medicare, which prioritizes the collection and analysis of social determinants of health.
+Other initiatives from payers, providers, and academic researchers have resulted in interactive dashboards outlining community challenges, such as interpersonal violence, drug use, and economic disparities at the state, county, and city levels.
+As the industry continues to embrace the important role of socioeconomic data in population health management, these available datasets are likely to become more robust and easily accessible to help providers make better decisions.
+PATIENT-GENERATED HEALTH DATA (PGHD)
+PGHD takes many forms, from satisfaction surveys and patient-reported outcomes (PROs) to communications through a patient portal and data streaming from wearable fitness trackers and other Internet of Things (IoT) devices.  As the interest in personalized healthcare rises in concert with consumer adoption of wearables and home monitoring tools, providers are starting to face a brand new big data tsunami full of both challenges and opportunities for population health.
+Making use of these largely unstructured datasets can be difficult, not least because the sheer volume of available information can be off-putting to providers who question how to integrate an endless stream of real-time IoT data into their workflows.
+While some high-risk patients may benefit from around-the-clock monitoring, most individuals will not require constant attention to their sleep patterns, heart rate data, and exercise regimes in order to remain healthy.
+Many EHR developers and care management vendors are currently working on innovative ways to integrate PGHD monitoring and alerting into their software products.  Intuitive and streamlined workflows for the clinical end-user will be critical for ensuring that IoT data does not overwhelm providers on a daily basis.
+For data analytics teams taking a broader view of population health, the value of PGHD is still being explored. 
+mHealth applications that collect PGHD on lifestyle choices and mental health, have started to prove their worth for bolstering wellness, raising adherence rates, and informing providers about the need for targeted interventions.
+And as value-based care spurs a greater emphasis on patient satisfaction and outcomes, PROs are becoming crucial information for providers who are seeking ways to adjust their processes to produce the best possible long-term results.   
+PRESCRIPTION AND MEDICATION ADHERENCE DATA
+Medication non-adherence, intentional or otherwise, is at the root of many chronic disease management issues, which makes pharmacy and prescription data highly valuable for population health managers. 
+Patients may not be able to afford their prescriptions in an era of skyrocketing drug costs, they may not understand how and when to take their medications, or they may be experiencing side effects that lead them to discontinue the therapy without instruction from their providers.
+Patient safety is also at stake, especially when complex patients are taking half a dozen or more prescriptions every day – and may have just as many different providers prescribing new medications without adequately communicating with one another.
+EHRs and claims data both contain information on which medications are prescribed, and the rise in e-prescribing is making even more digital data available for analytics. But on their own, none of these sources are able to follow up with whether or not the patient fills the prescription regularly and takes the medications as prescribed.
+Medication adherence data is really an amalgamation of several of the aforementioned data types: socioeconomic data that predicts financial issues, pharmacy access, and educational needs, patient-generated responses to the impact of prescribed therapies, and the EHRs and claims that provide hard data about prescription rates and associated diagnoses.
+The industry is still developing health IT tools that can bring together these disparate data types reliably and consistently for risk scoring, population assessments, and targeting interventions.
+In order to leverage this data alongside other types of available information, healthcare organizations will need to invest in comprehensive population health management platforms that can generate actionable insights from multiple data sources across the care continuum.
+Doing so will allow providers to understand the risks their patients are facing and design effective, interventions that best meet their diverse and individualized needs.
+Tagged Care QualityChronic Disease ManagementClinical AnalyticsEHR Data AnalyticsPopulation Health ManagementPrimers
+
+

@@ -1,0 +1,27 @@
+Making time for Hunting
+
+April 6, 2016
+
+You need to be a special kind of person to be a security analyst. Of course, you need expertise across a range of technologies, as well as understanding best practice around protecting data against a range of threats. But you also need to be able to spot the causal needle in a haystack of data, from a variety of servers, firewalls and other security devices; and quickly.
+
+ Above all, however, you need resilience. Security is relentless: rarely a day goes by without some potential threat emerging. You’re well aware that the privacy of your customers, your company’s reputation and, potentially, its business, depend on you. It weighs on your shoulders. You might just about be good with it, but for one other factor: the relentless routine of chasing your tail with too much data and too little time.
+
+ An unnecessarily large number of ‘security issues’ once investigated turn out to be nothing of the sort. A badly configured email server, a mistyped address, a home working executive can all trigger what appears to be a security event. You identify the innocuous cause after some investigation of another false alarm that has wasted valuable time, time that could have been expended on a threat that really mattered. That wasted time can often be weeks and even more.
+
+ Why does security investigation still work this way? The answer lies in a dilemma, the result of a series of false promises made by the security industry over the years. “There’s a bad moon rising, there’s trouble on the way,” goes the mantra “But never fear – our product will resolve the issues”. Today’s new technologies that might solve elements of the threat management process, and all too often ‘rip and replace’ whole security solutions, are wrongly seen as the answer. Cyber resilience requires a truly integrated and flexible approach that delivers easily actionable intelligence from across the enterprise.
+
+ Complexity also means that many automated capabilities cannot provide solutions that scale — data volumes are too large and situations too complex for algorithms to cope. The result is bottlenecks — analysts spend 30-50% and more of their time dealing with a backlog of alerts the majority of which turn out to be false positives.
+
+ Automating the processes of pattern analysis in security alerts, and in related data, is a game-changer for analysts. Recent advances in automation by Huntsman Security now mean that a seamless process of collating intelligence, relevant to the alert, is initiated so analysts can deliver rapid investigation and threat resolution.
+
+ Beyond delivering faster and more streamlined SOC processes the automation of key parts of the Incident Management Process free up time for security analysts to go ‘hunting’ for undetected threats, active attacks, vulnerabilities, insiders or signs of misuse or compromise.
+
+ The importance of hunting is gaining wider recognition as a key cyber defence strategy. By hunting, analysts can uncover stealthy, long-dwell time attacks and early stage external threats. With their time freed up, and routine analysis simplified with automated machine-based learning and threat verification, analysts can now decide the best plan of defence – whether it’s to watch and observe to gain a better understanding, gather concrete evidence, heighten scrutiny, or act swiftly to remediate a live risk.
+
+ Looking at the bigger picture, with the assistance of automated analyses and verification, analysts can devote more of their time to hunting. They can achieve higher success rates, increase their job satisfaction and, indeed, gain an edge in the ongoing cyber war.
+
+  
+
+ 
+
+

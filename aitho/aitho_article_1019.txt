@@ -1,0 +1,17 @@
+Adobe And NVIDIA Announce Partnership To Deliver New AI Services For Creativity And Digital Experiences
+
+29 Mar 2018
+
+Collaboration Will Optimize Adobe Sensei for NVIDIA GPUs
+At Adobe Summit, Adobe and NVIDIA today announced a strategic partnership to rapidly enhance their industry-leading artificial intelligence (AI) and deep learning technologies. Building on years of collaboration, the companies will work to optimize the Adobe Sensei AI and machine learning (ML) framework for NVIDIA GPUs. The collaboration will speed time to market and improve performance of new Sensei-powered services for Adobe Creative Cloud and Experience Cloud customers and developers.
+The partnership advances Adobe’s strategy to extend the availability of Sensei APIs and to broaden the Sensei ecosystem to a new audience of developers, data scientists and partners.
+Shantanu Narayen
+“Combining NVIDIA’s best-in-class AI capabilities with Adobe’s leading creative and digital experience solutions, all powered by Sensei, will allow us to deliver higher-performing AI services to customers and developers more quickly,” said Shantanu Narayen, President and CEO, Adobe. “We’re excited to partner with NVIDIA to push the boundaries of what’s possible in creativity, marketing and exciting new areas like immersive media.”
+Jensen Huang
+“AI is the ultimate assistant – delighting artists with magical capabilities to further their creativity, and helping businesses of every kind to gain insights and efficiencies,” said Jensen Huang, founder and CEO, NVIDIA. “Our work with Adobe brings AI within reach for millions of individuals working in the creative and marketing fields, providing them with tools offering performance that was unimaginable just a short time ago.”
+Adobe and NVIDIA have worked together for more than a decade on enabling GPU acceleration for a broad set of Adobe’s creative and digital experience products. This includes Sensei-powered features, such as auto lip sync in Adobe Character Animator CC and face aware editing in Photoshop CC, as well as cloud-based AI/ML products and features, such as image analysis for Adobe Stock and Lightroom CC and auto-tagging in Adobe Experience Manager.
+The companies also plan to work on optimizing Sensei AI services for NVIDIA hardware in the cloud and at the edge, for improved performance and new capabilities. In addition, they plan to explore packaging and delivering easy-to-use Sensei AI services to NVIDIA’s ecosystem of developers. This includes services targeted at creative mediums, such as mixed reality, next-generation rendering like NVIDIA’s new RTX real-time ray-tracing technology, and other new immersive experiences.
+CEOs Discuss Future of AI
+Adobe president and CEO Shantanu Narayen will be joined on stage by NVIDIA founder and CEO Jensen Huang at Adobe Summit in Las Vegas today. The executives will discuss details of the new partnership and share their thoughts on the future of AI for consumers and the enterprise.
+
+

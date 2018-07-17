@@ -1,0 +1,31 @@
+World’s First Blockchain Platform For Marine Insurance Now In Commercial Use
+
+26 May 2018
+
+— EY, Guardtime and industry participants launch the world’s first marine insurance blockchain platform
+–Technology will support more than half a million automated ledger transactions and help manage risk for more than 1,000 commercial vessels in the first year
+–Plans to expand platform to other types of business insurance including marine cargo, global logistics, aviation and energy sectors
+EY, Guardtime, A.P. Møller-Maersk, Microsoft and insurance industry leaders Willis Towers Watson, XL Catlin, MS Amlin and ACORD announce members of the marine industry are using Insurwave, a blockchain platform to support marine hull insurance. In an increasingly complex and ever evolving risk landscape, global businesses will use the platform to transform how they manage risk across their organization, and how they work with brokers and (re)insurers.
+Insurwave, built by a joint venture between EY and Guardtime, leverages blockchain and distributed ledger technologies Microsoft Azure infrastructure and ACORD data standards. It will support more than half a million automated ledger transactions and help manage risk for more than 1,000 commercial vessels in the first year. By connecting participants in a secure, private network with an accurate, immutable audit trail and services to execute processes, the platform establishes a first of its kind digital insurance value chain.
+Read More: Tech For Good Summit In Paris: All You Need To Know From Day 1
+A.P. Moller – Maersk contributed to the development of the blockchain technology as a pilot client and is continuing on the platform with its marine hull portfolio.
+Lars Henneberg
+Lars Henneberg, A.P. Møller-Maersk A/S Head of Risk and Insurance, says: “Our ambition is to drive the digital transformation of the transport and logistics industry and we see this platform as a testament to the value that can be extracted from streamlining areas of our industry that still rely on manual and often complex procedures. Operating around 350 owned container vessels across the world, marine insurance takes up considerable resources for us. Moving it to this platform is helping us automate manual processes and alleviate a range of inefficiencies and frictional costs in the way we have used to trade marine insurance.”
+Shaun Crawford
+Shaun Crawford, EY Global Insurance Leader, says: “It is a proud moment for a number of heavy weight industry participants to be live with a genuine end-to-end blockchain platform in the specialty insurance market. All parties have worked extraordinarily hard, as a closely knit team, to get to this exciting milestone. To move from proof of concept just a year ago to a fully functioning platform that is delivering immediate value to clients feels exceptional.”
+The first phase of Insurwave rollout is focused on marine insurance, and EY, Guardtime and Microsoft plan to roll it out to other types of business insurance for the marine cargo, global logistics, aviation and energy sectors.
+Read More: Meet 20 Of The Most Powerful Women In The Tech World
+Mike Gault, Guardtime CEO, says: “We are very proud of the work we have done with EY in developing this platform, beginning with a proof of concept a year ago and then all the way through to this production release. This represents an important milestone not only for the insurance industry but also for blockchain technology, proving it can deliver real value to enterprise customers.”
+Blockchain set to disrupt the insurance industry, say industry participants
+Bill Pieroni
+Bill Pieroni, President and CEO at the global insurance industry organization ACORD, says: “This solution represents a true innovation for insurance and demonstrates the potential of blockchain for transforming our industry. We are happy to be part of this initiative as it makes an impact across all insurance stakeholders and the entire value chain.”
+Dr. Paul Taffinder
+Dr. Paul Taffinder, Director of Strategy and Innovation, MS Amlin, says: “MS Amlin has long championed a culture of innovation and investing in new technologies. As a business, we are continuously looking to find new ways of doing things to further improve our client proposition. The success of the marine blockchain platform is a concrete example of where this innovative technology is being deployed to drive positive change in the insurance industry.”
+Matthew Kerner
+Matthew Kerner, general manager, Azure blockchain engineering at Microsoft, says: “Blockchain is opening up new possibilities for how enterprises do business with one another, turning complex processes into cost-saving business efficiencies. Microsoft is thrilled to work alongside EY, Guardtime, Maersk and marine insurance industry leaders to bring this platform into production on Azure, proving the enterprise value of blockchain.”
+Alastair Swift, CEO, Willis Towers Watson GB, says: “We are delighted to be at the forefront of blockchain technology which has the potential to revolutionize the insurance industry. This is the first insurance transaction that has been undertaken through blockchain, simplifying and streamlining the transactional process and creating added value for our clients. We strongly believe this is an industry dynamic and that all carriers and brokers should engage in blockchain to drive improved transactional efficiency and innovation for our clients.”
+Read More: How Do You Close The Diversity Gap In Technology Companies?
+Martin Henley
+Martin Henley, Chief Information Officer, XL Catlin, says: “With this blockchain, we are bringing together — for the first time — all the parties of the insurance value chain on a single platform. Ultimately, through the use of IoT and smart contracts, policies will be updated automatically to reflect the risks covered; and this combination of technologies will help improve efficiency in claims assessment and payment. Those are tangible wins for our clients, no matter their industry. And with the platform going live, we are now ready to start working on opening it up to other insurance segments.”
+
+

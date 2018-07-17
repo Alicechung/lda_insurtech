@@ -1,0 +1,17 @@
+Wearable device data is a “privacy nightmare” for patients
+
+August 15, 2014
+
+By Jennifer Bresnick
+August 15, 2014 - While patient-generated health data provided by wearable wristbands and other devices holds great potential to change the way healthcare is delivered, patients may not be aware that they aren’t just transmitting private information straight to their mHealth apps or provider EHRs.  The companies that manufacture the gadgets are not yet bound under any sort of privacy laws, warns Senator Chuck Schumer (D-NY), and are free to sell their data to third parties, such as employers or payers, without the user’s consent.
+“Personal fitness bracelets and the data they collect on your health, sleep, and location, should be just that – personal. The fact that private health data – rich enough to identify the user’s gait – is being gathered by applications like FitBit and can then be sold to third-parties without the user’s consent is a true privacy nightmare,” said Senator Schumer in a public statement.
+A FitBit spokesperson refuted Schumer’s claims, Business Insider says. “Fitbit does not sell user data,” the company stated. “Our privacy policy prevents us from doing this. We are committed to our users’ privacy and welcome the opportunity to work with Senator Schumer on this important issue.”
+Wearable devices are becoming more and more popular with consumers, and are poised to explode into the market as large companies like Apple and Google position themselves to enter the fray.  For patients, the devices can help them in the daily struggle to get enough sleep or eat a balanced diet, connecting them with motivation, educational resources, and visualizations of their progress.  The passive collection of health data is one of the most attractive features of wearable sensors, and providers are starting to seek ways of leveraging PGHD for their own population health management needs.
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Deep Learning, Big Data Fuel Medical Device for Predicting Seizures
+All of Us Precision Medicine Network Expands with $13.8M in Grants
+Schumer has called on the Federal Trade Commission (FTC) to take action and address the loophole in federal regulations that allows vendors to sell their data without consent. “If companies of fitness devices have the ability to sell personal health data to insurers, employers and others, users should be alerted and given the opportunity to decline,” Schumer says. “The FTC should require fitness devices and app companies to adopt new privacy measures that will help conceal the identity of individuals and develop policies to protect consumer information in the event of a security breach.”
+Tagged Healthcare AnalyticsHealthcare Data StrategyPatient Data
+
+

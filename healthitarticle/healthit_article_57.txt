@@ -1,0 +1,30 @@
+EHR Data Fuels Accurate Predictive Analytics for Suicide Risk
+
+May 30, 2018
+
+By Jessica Kent
+May 30, 2018 - Combining electronic health record (EHR) data and results from a depression questionnaire can support a more accurate predictive analytics model that predicts suicide risk in the 90 days following a mental health visit, according to a new study.
+The study, conducted by the Mental Health Research Network and led by Kaiser Permanente researchers, combined questionnaire data with a variety of EHR data from patients receiving care within five Kaiser Permanente regions.
+The team found that in the 90 days following an office visit, suicide attempts and deaths among patients in the highest 1 percent of predicted risk were 200 times more common than among those in the bottom half of predicted risk.
+Dig Deeper
+Predictive Analytics, Big Data Underpin Episodes of Care
+For Predictive Analytics, Not All Data is Created Equal
+Challenges of Applying Predictive Analytics to Population Health
+The strongest predictors included prior suicide attempts, mental health and substance use diagnoses, medical diagnoses, psychiatric medications prescribed, inpatient or emergency room care, and scores on a standardized depression questionnaire.
+The study also showed that patients with mental health specialty visits who had risk scores in the top five percent accounted for 43 percent of suicide attempts and 48 percent of suicide deaths, as did patients with primary care mental health visits.
+Patients with primary care mental health visits who scored in the top five percent accounted for 48 percent of suicide attempts and 43 percent of suicide deaths.
+Previous models developed in other health systems have used fewer data elements as predictors. When using those models, researchers found that patients in the top five percent of risk accounted for only a quarter to a third of subsequent suicide attempts and deaths.
+Traditional suicide risk assessment, using only questionnaires or clinical interviews, is even less accurate.
+The results of the Kaiser Permanente study show that EHR data could build better predictive models.
+"We demonstrated that we can use electronic health record data in combination with other tools to accurately identify people at high risk for suicide attempt or suicide death," said first author Gregory E. Simon, MD, MPH, a Kaiser Permanente psychiatrist in Washington and a senior investigator at Kaiser Permanente Washington Health Research Institute.
+Finding a more accurate method of predicting suicide risk is increasing in importance. Suicide rates are on the rise, with nearly 45,000 Americans dying by suicide in 2016 – 25 percent more than in 2000.
+Simon noted that other health systems could replicate Kaiser Permanente’s approach to suicide risk management, including how to follow-up with patients, refer them to intensive treatment, and reach out to them after missed or cancelled appointments.
+More accurate predictive analytics could also help providers identify whether or not they should help patients develop a personal safety plan or counsel them about reducing access to means of self-harm.
+This study builds on Kaiser Permanente’s previous efforts to emphasize the impact of mental health on overall wellness. The organization’s national public health awareness effort, Find Your Words, aims to end the stigma surrounding mental health by encouraging people to engage in honest discussions about depression and other conditions.
+Kaiser Permanente has also taken steps to increase patient access to mental healthcare. In 2017, California’s Kaiser Foundation Health Plan expanded its telehealth platform for behavioral health services, an effort that was also designed to boost outcomes and patient engagement.  
+With the development of this new risk prediction model, leaders at Kaiser Permanente expect to further improve suicide prevention and confront mental health issues.
+"It would be fair to say that the health systems in the Mental Health Research Network, which integrate care and coverage, are the best in the country for implementing suicide prevention programs," Simon said.
+"But we know we could do better. So several of our health systems, including Kaiser Permanente, are working to integrate prediction models into our existing processes for identifying and addressing suicide risk."
+Tagged EHR Data AnalyticsEHR Patient DataMental HealthPredictive AnalyticsRisk Management
+
+

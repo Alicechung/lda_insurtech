@@ -1,0 +1,25 @@
+VA, DOD, NCI Partner for Precision Medicine Tumor Screening
+
+August 26, 2016
+
+By Nathan Boroyan
+August 26, 2016 - A new precision medicine partnership between the Department of Veterans Affairs (VA), the Department of Defense (DoD) and the National Cancer Institute (NCI) will create the nation's first system that routinely screens tumors for gene and protein information in hopes of providing targeted, individualized therapies.
+The new program, the Applied Proteogenomics Organizational Learning and Outcomes consortium (APOLLO), is part of the Cancer Moonshot Initiative. APOLLO will initially focus on lung cancer patients at VA and DoD medical centers, with plans to include other forms of cancer down the road.
+“APOLLO will create a pipeline to move genetic discoveries from the lab to VA clinics where Veterans receive cutting-edge cancer care,” said VA Secretary Robert McDonald in a press release. “This is an example of how we are striving to be an exemplary learning health care system. We are proud to join our federal partners in this exciting initiative, and we expect it will lead to real improvements in the lives of those affected by cancer.”
+APOLLO program researchers and clinicians will classify Veterans' lung tumors based on changes in genes in the tumors and the levels of proteins. Their findings will be used to recommend targeted therapies or refer patients to appropriate clinical trials.
+Dig Deeper
+NIH to Bring Precision Medicine Data Collection to Patient Homes
+FHIR Can Move Genomics from Prediction to Precision Medicine
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+As the program grows and more information is acquired, the data will be shared widely with clinicians and the global cancer community such as through the NCI's Genomic Data Commons, with the goal of learning how to provide precision medicine therapies to cancer patients in the future.
+In addition to APOLLO, the VA and the Department of Energy (DoE) are in talks about a partnership known as the Million Veteran Program Computational Health Analytics for Medical Precision to Improve Health Outcomes Now (MVP CHAMPION).
+The MVP CHAMPION will have researchers working with the DoE's high-capacity computing network to help analyze data from the MVP program, which, in its early phases, will focus on health conditions such as prostate cancer.
+Recently the MVP became the largest genomic database in the world with the addition of its 500,000th enrollment in the program. The MVP is part of the larger Precision Medicine Initiative (PMI), which looks to gain a deeper understanding of the causes, development, and potential treatments for common and rare diseases.
+“To get to the future, what we need to do is have a large – very large – database that includes as many as a million people in it,” said MVP principal investigator J. Michael Gaziano, MD, MPH, in a video interview.  “Luckily, we’re close to halfway there.  This is really cutting-edge, and the VA is on the forefront.  The VA is leading the way.”
+Eventually, the APOLLO program could make it easier to match cancer patients with clinical trials.
+During the program, VA medical centers will expand their participation in NCI's network of clinical trial sites, and partner with other sponsors of clinical trials testing targeted therapies to bolster Veterans' access to new therapies.
+Another benefit of the APOLLO program is the potential for early detection or gene prevention, added VA Under Secretary for Health David Shulkin.
+"As researchers and clinicians learn more about which gene and protein signatures are associated with cancer, they may be able to do blood tests to screen at-risk patients," he said. "Early detection would help ensure treatment is given as soon as possible."
+Tagged Clinical AnalyticsGenomicsPersonalized MedicinePrecision Medicine Initiative
+
+

@@ -1,0 +1,31 @@
+IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+
+May 23, 2017
+
+By Jennifer Bresnick
+May 23, 2017 - IBM and Rensselaer Polytechnic Institute have announced a five-year collaboration centered on applying advances in cognitive computing and machine learning to healthcare.
+The Center for Health Empowerment by Analytics, Learning, and Semantics (HEALS) will explore how cognitive computing can enhance the understanding and treatment of chronic diseases. 
+“This collaboration between Rensselaer and IBM, which combines our significant research strengths in cognitive computing, could generate insights which will aid clinicians with more effective treatments for individual patients and overall efficiencies in the health care system,” said Shirley Ann Jackson, President of Rensselaer.
+“In this expansion of our long-standing research partnership with IBM, I am pleased that HEALS will advance preventive health care.”
+Research will focus on developing tools that can predict the development of long-term conditions and educate patients and providers about gaps in care or suggested pathways for prevention and treatment.
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+HEALS will also work on collecting and integrating multiple sources of data, including patient-generated health data, as well as information from wearables, Internet of Things devices, and even social media. Researchers plan to create new methods of communication and clinical decision support that can deliver personalized health and lifestyle recommendations for individuals.
+“Our goal now is to use Watson to help clinicians prevent people from developing chronic conditions by providing them with health information customized for their specific medical, environmental, and work/life situations,” said James Hendler, director of the Rensselaer Institute for Data Exploration and Applications (IDEA) and the Tetherless World Professor of Computer, Web, and Cognitive Sciences at Rensselaer.
+“Doing this requires big data analytics, state-of-the art machine learning, and the technologies of the semantic web, allowing us to combine and process data from many different sources and use that information to help clinicians improve the quality of life for people who are at risk for diabetes, hypertension, and other chronic diseases."
+The center will bring together faculty members from a variety of areas, including biology, computer science, engineering and social sciences to create a comprehensive collaboration that leverages the full range of expertise required to address complex, multifaceted patient care concerns.
+“We now have powerful computational and experimental tools that drive personalized health risk predictions,” said Jonathan Dordick, vice president for research at Rensselaer.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+“HEALS will exploit innovative capabilities in cognitive computing coupled with human behavior, smart device development, and semantic data analytics aimed at identifying patients at risk of chronic diseases for clinicians before the disease becomes difficult to treat. This approach has the potential to revolutionize health care, reduce cost, and enhance the quality of life.”
+The HEALS center is part of IBM’s Cognitive Horizons Network, which establishes and coordinates partnerships with academic research centers across the country.  In addition to Rensselaer, other members of the consortium include MIT, the University of Michigan, the University of Illinois at Urbana-Champaign, the University of Maryland Baltimore County, and the University of Montreal. 
+“Through the Cognitive Horizons Network, we are teaming with leading universities like RPI to explore and expand the societal impact of cognitive computing technology,” said Henry Chang, program coordinator of HEALS, IBM Research.
+“The HEALS research center will study and work to advance the understanding of chronic condition identification in the pre-disease stage by identifying and analyzing actionable personal-risk determinants via a coupling of the knowledge of lifestyles risks and data-driven health causal and correlational factors.”
+IBM has established itself as a leader in the machine learning field, and particularly in healthcare research, through extensive investments in its Watson Health division. 
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Ongoing partnerships with top healthcare research and provider organizations such as the Cleveland Clinic, Atrius Health, and the Mayo Clinic – as well as health IT developers including Epic Systems – have expanded the industry’s ability to apply cognitive computing to some of healthcare’s toughest problems.
+Other competitors are keeping pace, however, as machine learning and the concept of artificial intelligence quickly take root in the healthcare environment.  Notable names such as Google and Microsoft are pouring resources into research and development of algorithms that can perform diagnostic and clinical decision support tasks with accuracy that rivals human clinicians.
+As the use cases for machine learning and cognitive computing continue to expand, collaborations between tech giants and academic researchers are likely to keep growing in number. 
+“Cognitive computing is poised to transform every profession, industry, and economy,” said Dr. John E. Kelly III, Senior Vice President, Cognitive Solutions and Research at IBM.
+“We are excited to collaborate with Rensselaer on the development of the HEALS research center to advance precision medicine with the help of Watson technologies and to help improve the quality of care clinicians can deliver to individuals."
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareChronic Disease ManagementHealthcare Internet of ThingsMachine LearningPopulation Health ManagementSemantic Computing
+
+

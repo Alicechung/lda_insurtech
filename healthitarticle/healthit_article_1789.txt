@@ -1,0 +1,17 @@
+Study: Fewer blood transfusions mean better patient outcomes
+
+October 17, 2014
+
+By Jennifer Bresnick
+October 17, 2014 - Using EHR prompts to help physicians pay closer attention to blood transfusion habits produced better patient outcomes and reduced mortality rates at Stanford Health Care, a new study in Transfusion says.  After reducing the number of transfusions by nearly a quarter between 2009 and 2013, Stanford found that patient length of stay decreased and overall mortality rates dropped despite an increase in patient volume and a trend towards more complex cases.
+Transfusions rank among the most overused therapies in the nation, a John Hopkins study found in 2012, and can raise healthcare costs while producing little measure benefit when improperly administered.   “Over the past five years, studies have supported giving less blood than we used to, and our research shows that practitioners have not caught up,” said Steven M. Frank, an associate professor of anesthesiology and critical care medicine at the Johns Hopkins University School of Medicine. “Blood conservation is one of the few areas in medicine where outcomes can be improved, risk reduced and costs saved all at the same time. Nothing says it’s better to give a patient more blood than is needed.”
+The study examined 3,622 patients who received transfusions before the quality control initiative and 10,500 patients who needed blood transfusions after the change.  Dr. Lawrence Goodnough, a professor of pathology and medicine who is also director of the transfusion service, helped to develop an algorithm that used the organization’s EHR to prompt physicians about their transfusion habits.  The program required physicians to explain the reason for ordering a transfusion, which led to a drop in overall transfusion rates from 21.9 percent of patients in 2009 to 17 percent in 2013.
+Mortality rates among the cohort dropped from 5.5 percent to 3.3 percent, while patient days in the hospital decreased from 10 days to 6.2 days, and 30-day readmissions dropped accordingly.  The hospital added that it saved about $1.62 million in costs over each one of the four years in the study period.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+EHR Data, Machine Learning Create Cost-Based Clinical Pathways
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+“For health care institutions, improved blood utilization is accompanied by improved quality of care as measured by decreased patient exposure to unnecessary red blood cell transfusions, decreased blood transfusion-related costs and improved patient outcomes,” the authors said.
+Tagged Applied AnalyticsClinical AnalyticsEHR Analytics
+
+

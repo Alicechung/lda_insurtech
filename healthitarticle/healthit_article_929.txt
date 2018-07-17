@@ -1,0 +1,23 @@
+CMS Publishes Medicare Payment Info to Promote Data Transparency
+
+May 06, 2016
+
+By Jacqueline LaPointe
+May 06, 2016 - In an attempt to increase data transparency within its Medicare programs, the Centers for Medicare and Medicaid Services (CMS) has released the 2014 Physician and Other Supplier Utilizations and Payment data and updated its policies on publishing claims data, according to a recent press release.
+“This week’s announcements underscore CMS’ ongoing commitment to releasing data and information to promote a vibrant health information economy,” said Niall Brennan, CMS Chief Data Officer.
+The third annual release of the Medicare payments data includes information on Part B services and procedures that Medicare beneficiaries received in 2014. The dataset contains payments, submitted charges, and bills, which were provided by healthcare staff and suppliers.
+The 2014 claims data derives information from $91 billion in Medicare payments from over 986,000 healthcare providers. CMS also reported that the amount of Medicare payments has increased by $1 billion since 2013.
+Dig Deeper
+Changing Leadership at CMS, ONC as New Administration Moves In
+Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+Unique Device Identifiers in Claims Could Aid Healthcare Analytics
+Through the publication of claims data, CMS aims to reduce Medicare claims fraud by increasing data transparency. The dataset provides individuals with the tools to compare physicians, specialty practices, locations, services and procedures delivered, Medicare payments, and submitted charges.
+Notably, CMS added the Medicare standardized payment amount to the 2014 claims dataset to further promote data transparency. The new feature intends to make it easier for consumers to compare Medicare payments from across the nation by eliminating differences in payment rates based on geographic location. Specifically, CMS removed the influence of local wages and input prices from each geographic area.
+In addition to the publication of Medicare payments, CMS has also announced that it expects to periodically release claims data for the Limited Data Sets.
+“Historically, researchers have only been able to request annual extracts of Medicare data under the LDS [Limited Data Sets] request process,” explained the press release. “With the changes announced today, researchers will be able to request updates to their LDS claims files as frequently as quarterly, making it easier to do the important research that will continue to result in better quality and lower costs in the healthcare system.”
+As the healthcare community transitions to value-based care, it is crucial that patients and healthcare providers have access to “timely, privacy-protected data,” CMS pointed out.
+Through the recently announced updates, CMS expects to improve value-based care, reduce healthcare spending, and encourage patients to engage with their healthcare decisions.
+The full dataset can be found on the CMS website.
+Tagged CMSFinancial AnalyticsHealthcare TransparencyMedicare Claims
+
+

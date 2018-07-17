@@ -1,0 +1,29 @@
+WH Trading leverages QuantHouse for global market access
+
+May 22, 2018
+
+QuantHouse, an independent global provider of end-to-end systematic trading solutions including innovative market data services, algo trading platform and infrastructure solutions, announced that WH Trading, a global proprietary trading firm, has selected QuantHouse in order to leverage the QuantLINK and QuantFEED suite of advanced solutions.
+
+ WH Trading, the Chicago-based firm, trading the futures and options market across the US, Europe and Asian markets, is using QuantLINK, QuantHouse’s ultra-low latency, fully redundant 40G network to enable market access and delivery of market data at low latency speeds. The connectivity performance of the QuantLINK network is continually expanded upon to ensure the latest and fastest routes are available with new exchanges and alternative trading venues being constantly added to ensure that firms have access to the most extensive range of venues to enhance their trading strategies. QuantFEED handles all the upgrades and updates to ensure optimum connectivity routing to required markets at the lowest possible latency.
+
+ Salloum Abousaleh, Managing Director Americas, QuantHouse, said: “WH Trading is one of the largest market makers trading on the global markets. They have also led the field in terms of using only the latest and most advanced technology, whether built in-house or outsourced to third parties. We are therefore delighted to have been selected by WH Trading to handle some of their most critical applications,” Salloum continues, “We are seeing increasing demand for quantitative trading tools not only with innovative proprietary trading firms, but also with alternative investments, Hedge Funds, CTAs and asset managers looking to follow in the footsteps of firms such as WH Trading.” 
+
+ Mike Madigan, CTO, WH Trading LLC, said: “We look to only deploy technology excellence and believe that trading performance can be mapped to the quality of trading infrastructures in place. We use QuantHouse raw exchange connectivity at a number of global exchange venues, and are very pleased with the performance of their direct connectivity offerings. From sales, to engineering, to operations, to support, QuantHouse has supplied us with high quality customer service.”
+
+ About QuantHouse
+
+ QuantHouse provides end-to-end systematic trading solutions. This includes ultra low latency market data technologies with QuantFEED, algo-trading development framework with QuantFACTORY and proximity hosting and order routing services with QuantLINK.
+
+ QuantHouse help hedge funds, market makers, investment banks, brokers and trading venues achieve optimal trading performance, develop and integrate new trading strategies, comply with regulatory requirements, test existing and new trading infrastructure tools and rationalise operating costs. 
+
+ The “QuantHouse API Ecosystem” is a unique global initiative with the objective to provide the framework within which capital markets participants can quickly and easily gain access to multiple trading venues, technologies or applications through standard APIs. The QuantHouse API Ecosystem has developed over time to what is now the largest API ecosystem community of buy- and sell-side participants, exchanges, prime brokers, trading venues, hedge funds, market makers and other financial services partners and vendors.
+
+ About WH Trading 
+
+ WH Trading is a global proprietary derivatives trading firm. They provide liquidity to a wide range of global futures and options markets including Interest Rate, Foreign Exchange, Agricultural Commodity and Energy products. As a proprietary trading firm, their revenue comes from trading profits generated on physical open outcry exchange floors in Chicago and electronic markets globally. WH Trading do not serve customers and their risk capital is provided exclusively by the firm’s partners.
+
+ WH Trading is a member of all major global derivatives exchanges including CME, CBOT, NYMEX and ICE. They maintain direct electronic connections to all major global derivatives exchanges.
+
+ WH Trading has its roots in the open outcry markets of the Chicago Mercantile Exchange. Will Hobert founded the firm in 1994 in a small office above the CME trading floor. Since that time, WH Trading has grown and developed to keep pace with the markets we trade. Today the firm has over 70 employees including trading, technology and administrative staff. All are based in their office on Wacker Drive in the Chicago Loop.
+
+

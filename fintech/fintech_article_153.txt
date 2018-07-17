@@ -1,0 +1,133 @@
+Supermoney – A new era of digital payments?
+
+May 18, 2018
+
+On the Thursday before Easter, in the sophisticated surroundings of ‘M’ Threadneedle Street, deep in the heart of the City, we were privileged guests to an investor event hosted by Supermoney, an ambitious UK digital payments start-up.
+
+  
+
+ Supermoney is the brainchild of Joel Smalley, 47, an experienced polymath and Dean’s List MBA from Rotman School of Management in Toronto where he studied under the stewardship of renowned integrated thinker, Roger Martin
+
+ The event was hosted with the intention of illustrating to those in attendance why Supermoney represents the future of blockchain-based digital payments. We listened through Joel’s presentation and then had a chance to talk to the rest of their team.
+
+ Cryptocurrency has been heralded as an attempt to address all of the deficiencies of the current banking and payments systems. However, downsides of these cryptocurrencies like Bitcoin, are both numerous and very well documented by the media and industry insiders.
+
+ The premise behind Supermoney is to take everything that is good about blockchain tech and apply it to ‘real world’ money and assets. It is part of a nascent economic model known as ‘tokenomics’ – transactions based on digital tokens that are issued, sold and traded in blockchain-based markets and services.
+
+ The goal is to neatly sidestep the downsides of cryptocurrencies, namely high volatility, incompatibility with financial regulations, and low mainstream acceptance, and by doing so, they will be able to satisfy the customer demand for convenience, without compromising value or security.
+
+ This seems like an ambitious goal, so how are they going to do this? They plan to take fiat money deposits under an e-money licence, place them into a bank account in the name of the customer and then generate a crypto token that represents this value. This token will then behave, and be used, in a similar manner to a normal crypto token. This presents a clear divide when compared with other typical cryptocurrencies in that the ‘Super’ token is collateralised with physical assets and does not reside on a public network.
+
+ Free of these usual cryptocurrency burdens, the Supermoney team claim, their customers would then be able to conduct instant global payments, at low costs and with high levels of security. These are all, in principle, well known benefits of participating in a decentralised blockchain network, over conventional payment solutions.
+
+ The adoption of tokenisation also conveniently supports the next biggest asset class after money – namely gold. One of Supermoney’s biggest investors and supporters is Claudio Fioresta who represents Resonor Gold. Claudio explains why he is a passionate supporter of the business – “Money was born as a financial instrument reflecting the value of an asset. That asset was gold. Supermoney is using new technologies for creating safe, stable, revolutionary financial structures and procedures that most likely will become standard practices in the future. We need to start re-thinking what money really is and Supermoney is already two steps ahead.”
+
+ We also asked Joel about the commercial viability of their project – “we will charge our customers a tiered monthly recurring fee, dependant on the volume of their transactions and other premium services. In addition, we will derive revenue from other partners accessing and utilising our network and its members.”
+
+ So, they have a sustainable model, and are harnessing blockchain and cryptocurrency technology but why does this industry need their new solution?
+
+  
+
+ Payments Systems – in need of a shake up
+
+  
+
+ For most people, their main priority is for things to be fast, safe, and easy. When we think historically about payments, the past 50 years or so have led to many improvements in this regard, but many of these have been superficial and not without additional risk.
+
+ Joel had strong opinions around what has (and hasn’t) improved when it comes to the banking system and, in particular, how the back-end operates: “in the 1950s we had the introduction of cards, which allowed customers to get instant settlement at the point of transaction but this still required time, capital, and human resource to move the funds from bank to bank behind the scenes…
+
+ “Then in the 90s, with digital wallets and mobile phones, we witnessed further improvements due to pioneering companies such as PayPal but again this was only really changing the front-end experience. Ultimately, what you find is that you are just alternating between different veneers over the legacy banking systems, adding cost for superficial convenience.”
+
+ To a certain extent, Bitcoin and other cryptocurrencies have highlighted that there is a clear desire from the public, startups, and corporations for up-to-date digital solutions that can solve the current inefficiencies and outdated practices that our modern banking and finance systems still face. But what has also become clear is that cryptocurrencies do not have all of the answers to these problems. Supermoney, however, believe that they do.
+
+ It comes back to the ease of use, the value, and the security that they propose to offer. For instance, they will provide 24/7 instant payments and the convenience of choosing whatever interface the user prefers – mobile, web, card or even API (application programming interface).
+
+ Subsequently, they picture this system as having the potential to be completely automated and intuitive, using the latest developments in ML and AI.
+
+ What Supermoney wanted to repeatedly emphasise to us was that their solution works seamlessly for consumers, corporates, and financial institutions. To this end, Supermoney illustrated how they also aim to make things easier for corporate customers by easily integrating with their legal, accountancy and payroll systems for example.
+
+ Following on from that, Supermoney aims to provide value for their customers by giving them access to wholesale rates and costs for aspects of payments – foreign exchange, bank transfers, card issuance and acceptance. They aim to accomplish this by passing all their internal efficiency gains to their customers, earning the bulk of their revenue from monthly subscription.
+
+ Finally, and possibly most importantly for many of their potential clients, they are attempting to address the issue of security, an area where a decentralised ledger solution such as blockchain technology really comes into its own.
+
+ Supermoney will be utilising standards and tools such as asymmetric cryptography (the fundamental public/private key security of blockchain networks), optional multi-signature (where two or more keys are required to authorise a cryptocurrency transaction), hardware wallets (like Trezor or Ledger), and HSMs (hardware security modules – physical computing devices that safeguard and manage digital keys for strong authentication and crypto-processing) for their institutional partners.
+
+ They will also provide autonomous escrow – a smart contract (that automatically controls binding agreements between separate parties under predetermined conditions) will take the place of a third party within an escrow arrangement. This solution facilitates so called ‘atomic swaps’ where the exchange of money and product or service occur simultaneously, eliminating counterparty risk and lowering costs.
+
+ The Supermoney system also allows members to interact without having to share sensitive personal data – a hot topic at the moment thanks to Facebook – staying well onside of the new GDPR data regulations but also complying with KYC and AML requirements. Documents can also be stored in the ‘Supervault’ and linked to transactions, making them easily referenceable and shared using push technology allowing access to be easily revoked.
+
+ Supermoney also have a plan in place to deal with their other client-type – financial institutions. Since the core operating system is a distributed ledger, it is naturally easier and more efficient to collaborate with these institutions, without having to be tightly integrated at the commercial level.
+
+  
+
+ Distinguishing themselves from other blockchain technologies.
+
+  
+
+ Supermoney intends approach their ledger solution in a different way when compared to those who have gone before. This is because Supermoney will be using a private (or permissioned) decentralised ledger, with financial institutions and other trusted authorities acting as nodes on their ‘Superledger’ network. This network is initially being built on a private fork of Ethereum in collaboration with industry leader, Applied Blockchain, but is designed to be chain agnostic and therefore being future-proof. According to Joel, they are pursuing this solution in order to achieve improvements in network trust, resilience, and robustness, something which could be a potential win-win for everyone.
+
+ The underlying philosophy of most cryptocurrencies is often anarchist in nature, attempting to circumvent and eliminate the need for banks and the wider banking system. This has, however, created a situation where these blockchain-powered companies and currencies are not being supported and accepted by UK banks. This manifests itself in the current situation of general lack of mainstream confidence in crypto.
+
+ The Supermoney team were able to convince those in attendance that they will not succumb to these mistakes, however, because they are not like other crypto solutions. According to them, this is because they are providing a system that recognises the importance and relevance of the banking system and fiat currency. As Heath Jamal said: “We don’t want to pursue the disregard of banks that others in crypto do, as this increases risks and regulatory costs, and barriers to mainstream acceptance.”
+
+ That doesn’t mean, however, that they will be cosying up to all the major banks. They will focus on working with just the ones that suit their principles, banks that are switched on to new developments. For example, in the UK they are using Clearbank, the first clearing bank for 250 years. They only clear transactions, storing money overnight at the Bank of England and don’t lend commercially (relevant to Supermoney’s obsession with mitigating risk). Joel was the very first contractual customer of Clearbank when they opened for business last year
+
+ Both Supermoney and the investors that we spoke to were very enthusiastic about the fact that their project is backed up by a solid team and has a realistic use case – something that they believe truly sets them apart. Unlike most fintech startups, it is a team full of individuals with financial services backgrounds, deep experience within the industry. As Richard Jones says – “bankers solving banking problems with technology”. It could well be the case that this traditional know-how materialises into a clear advantage over the competition.
+
+  
+
+ So, who is in the team, and what is their background?
+
+  
+
+ The composition of their team does give some weight to their claim that they have people onboard with a great amount of experience working in the relevant traditional industries.
+
+ Supermoney is an interesting concept but it’s part of a growing trend, in that you are seeing more and more blockchain startups who are either being conceived by, or hiring, traditional bankers and financiers. It seems that this approach, marrying traditional industry experience with new technological solutions, may in fact be the perfect ingredients in a recipe for success.
+
+  
+
+ How does a relatively new start-up access this historically traditional market, and how are they going to compete with the relatively new big players?
+
+  
+
+ Joel and his team have been working on these twin challenges for some time now. Their plan is to take their existing relationships in verticals such as in the travel industry and ecommerce and offer the benefits of their system to them and their customers.
+
+ They are able to do this because their network is backwards compatible, in the sense that it comprises a multi-currency bank account and debit card. Supermoney can offer merchant accepting as well as issuing so it fits perfectly within the existing payments networks from end to end.
+
+ Once these early customers see how this new technology has improved their experience, Supermoney then expects them to convert to full Supermoney members, growing the network virally for the benefit of all members. Over time, more and more transactions will be completed wallet to wallet rather than using conventional bank and card payment rails.
+
+ As Nick explains further, for example: “using regtech, we can employ digital on-boarding that allows us to get these customers onto our systems in a very short period of time, which makes a better user experience as well as exceeding the requirements for regulatory compliance.”
+
+ So, if they have managed to get some traction and a foothold in the market, how will they deal with the fierce competition? Whilst this particular niche of the wider industry is a relatively new one, there are already several indirect competitors out there such as Monzo, Revolut, Transferwise, and perhaps even Ripple.
+
+ These companies have already raised significant capital and experienced massive growth, reaching over 500k users in record-setting times. When speaking with the Supermoney team, they actually saw these impressive numbers in a positive way, as they indicate, with the right product, large and rapid growth in this area is not unprecedented. The market is already enormous, yet has the potential to grow even larger, and therefore the mere existence of competitors should not act as a barrier to entry.
+
+ Joel expects growth in the market to come as a result of the 4th Industrial Revolution – the expansion of the autonomous Internet of Things. Supermoney is perfectly positioned for that, an advantage over even the most recent digital banks.
+
+  
+
+ Why have people been investing in them?
+
+  
+
+ To get a flavour of why this company is likely to be successful in what they are doing, we took some time to chat with someone who has put their money where their mouth is – an investor, Sarah Abuljadayel from Let’s Deal.
+
+ First, Sarah spoke about why they had got involved with blockchain companies: “You know, sometimes it’s about financial return and then maybe sometimes you just want to learn from these new companies. We know the future is technology and we want to be part of this. Everyone is talking about fintech!”
+
+ So, what about Supermoney in particular drew Sarah to them? “Their experience was a big factor – each with over 20 years working in related industries they definitely know what they are doing. I believe in them being able to carry out things in the long term – I have complete faith in them. They have the know-how to go the distance!”
+
+ As for Supermoney itself, what excited her the most about this company and their products? “From day one I will be paying less in transactional costs, the tech is ready to go, and they are using their banking experience to make the whole system better with a better customer experience. They are not just looking at changing little things, making marginal changes.”
+
+  
+
+ What’s going to happen next?
+
+  
+
+ Supermoney have been preparing to launch in this area for the last 4 years, with most of the team behind Supermoney running a wholesale international payments business, in order to demonstrate the viability of their core model. With £60k in monthly net revenue, and a month-on-month growth rate of 10% they are suitably convinced of it its viability and they are now ready to develop their ideas further, building a completely new payments network.
+
+ To do that, of course, they need investment. Their seed round of investment has just closed, raising £602k at a pre-money valuation of £4 million. This was 20% overfunded and allows them to move to the next stage of their expansion. But as they do, costs are likely to increase as their network grows, requiring regulatory and working capital, and funds to develop, support, and market a beta and then finished product. It is, therefore, likely that they will be looking for further investment later this year. We hear reports that there are already some distinguished banks that have expressed potential interest.
+
+ We will be sure to look at them again in the near future, to find out how close they have come to making the same impact on payments as PayPal did 20 years ago. In the meantime, you could discover more information on their website – supermoney.co – or by seeking out the team on LinkedIn.
+
+

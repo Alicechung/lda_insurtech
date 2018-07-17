@@ -1,0 +1,32 @@
+Data Governance, Transparency Required for Patient-Centered Care
+
+February 19, 2018
+
+By Jessica Kent
+February 19, 2018 - In order to deliver high-value patient-centered care, healthcare stakeholders need to establish policies to improve data governance, data transparency, and access to key information within health IT systems, according to a white paper from the American Medical Informatics Association (AMIA).
+Participants in a recent AMIA roundtable event agree that the industry is in need of a policy framework that would address these gaps between the current and idealized state of healthcare while facilitating a more patient-centered, integrated system.
+“As we can see from the involvement of consumer giants like Apple, Inc. in the healthcare space, we are at or very close to the tipping point where patients and health care professionals become co-producers in the healthcare data ecosystem,” said Jeremy Warner, MD, MS, Vice Chair of the AMIA 2017 Policy Invitational (API17).
+Dig Deeper
+Data Governance, More Attention Required for Patient Safety
+How Patient Safety Organizations Encourage Data Collection, Quality Care
+The Role of Healthcare Data Governance in Big Data Analytics
+“This is the time to lay out clear and crisp policies to ensure that data ownership is clearly delineated, that data production is equitable, and that research can benefit from motivated and technology-enabled participants.”
+DATA GOVERNANCE AND TRANSPARENCY DEVELOPMENT
+As healthcare becomes increasingly digital and tools like mobile apps, wearables, and patient portals become more widespread, data sources for research and care will continue to multiply.
+These developments have accelerated the need for data governance and transparency. A coordinated framework to collect and manage personal data from various sources, as well as to enforce data openness and availability, could improve the way organizations manage their data, suggested the API17 participants.
+Attendees recommended a framework that recognizes diverse data from home and community sources. This framework should also allow for data source identification, registration, and production of relevant metadata for appropriate re-use.
+The group also suggested that federal agencies involved with digital health, including the ONC and CMS, should develop a framework to support trust, safety, and transparency across information resources.
+PATIENTS AS PARTNERS IN DIGITAL HEALTH EXPANSION
+Participants identified the need to engage patients in digital health development and in defining personal health outcome measures. Public policies and programs designed to support digital health should include patients as integral partners to ensure a more person-centered healthcare system.
+To accomplish this, the group recommended that the Patient-Centered Outcomes Research Institute (PCORI) or other major funder develop research methods that engage and empower community members as active partners in health governing bodies.
+They also suggested that CMS and the National Institute of Health (NIH) fund the development of person-driven outcome measures and support demonstrations and pilot studies. In addition, CMS and NIH should fund new methods that will allow populations to integrate patient-defined outcomes that are relevant to their own health outcome measures.  
+INCLUSIVE POLICY DEVELOPMENT AND IMPLEMENTATION
+As technology becomes increasingly important to healthcare, it is essential that all users can access and benefit from these advancements regardless of their culture, health literacy, or socioeconomic status.
+The group suggested that federal stakeholders identify ways to evenly distribute health-related resources, recognizing that social determinants play a significant role in health disparities at the individual and community level.  An open infrastructure that supports shared access to social and behavioral determinants of health data should be a top priority.
+Additionally, the API17 attendees proposed the establishment of a US Federal Government Interagency Ethics Working Group that can consider the social and ethical dimensions of emerging technologies, and their applications to population and individual health.
+The API17 participants hope that these recommendations lead to the development of a more patient-centered healthcare infrastructure.
+“We believe that the patient should always be the guiding star in the development and refinement of health informatics policy,” said AMIA President and CEO Douglas B. Fridsma, MD, PhD, FACP, FACMI.
+“The recommendations that emerged from this Policy Invitational are just some of many potential actions the federal government could take to enhance the role of the patient.”
+Tagged Health Data AccessHealthcare Data GovernancePatient Centered CarePatient Outcomes
+
+

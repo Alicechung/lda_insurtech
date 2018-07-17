@@ -1,0 +1,22 @@
+Final ICD-10 End-to-End Testing Week Sees 87% Success Rate
+
+August 28, 2015
+
+By Jennifer Bresnick
+August 28, 2015 - With just over one month until the ICD-10 transition, CMS has released the latest statistics from its July ICD-10 end-to-end testing week.  Eighty-seven percent of submitted claims were accepted, mirroring results from earlier in the year.  As with previous testing events, relatively few of the claims were rejected solely based on improper ICD-10 codes.  
+“This final end-to-end testing week demonstrated that CMS systems are ready to accept and process ICD-10 claims,” CMS said in an email update to providers. “Approximately 1,200 providers and billing companies participated, and testers submitted over 29,000 test claims.”
+“Overall, participants in the July end-to-end testing week were able to successfully submit ICD-10 test claims and have them processed through Medicare billing systems. The acceptance rate for July was similar to the rates in January and April, but with an increase in the number of testers and test claims submitted.”
+In July, CMS received 29,286 test claims from approximately 1400 different National Provider Identifiers (NPIs), compared to 23,138 claims submitted in April.  Just twelve percent of these participants were repeats from previous testing events, indicating that clearinghouses taking part in multiple events chose different providers to test each time.
+Dig Deeper
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Google DeepMind: Blockchain Can Ensure Health Data Integrity
+AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+Of the 29,286 claims submitted, 25,646 were accepted, producing an 87 percent acceptance rate.  April saw an acceptance rate of 88 percent, which is significantly higher than the 81 percent acceptance rate from January of 2015.  With no more testing weeks before the October 1, 2015 deadline, the healthcare industry may have to reconcile itself to the fact that the Medicare claims acceptance rate has reached a plateau, and might be as good as it’s going to get.
+While ICD-10 opponents may feel that anything less than 100 percent success bodes ill for the healthcare industry’s revenue cycle, CMS points out that some of the rejected claims may be the result of “negative testing,” in which providers purposely submit documents containing errors in order to ensure that the system will properly recognize invalid claims.
+Only 1.8 percent of test claims were rejected due to invalid ICD-10 codes, CMS says, while 2.6 were rejected because of improper ICD-9 coding.  
+“Additional rejections were from non-ICD-10 related errors, including incorrect NPI, Health Insurance Claim Number, or Submitter ID; dates of service outside the range valid for testing; invalid HCPCS codes; and invalid place of service,” the results state. “These types of errors also occurred in the January and April end-to-end testing weeks. Most rejects were the result of provider submission errors in the testing environment that would not occur when actual claims are submitted for processing.”
+CMS adds that its systems experienced no ICD-10 related testing issues during this final testing period.  There were no rejects due to front-end CMS systems problems, and all issues identified during previous events had been resolved prior to the July test.
+Providers may still conduct acknowledgement testing up until October 1, 2015, and still have time to take advantage of CMS resources on its Road to 10 website.  
+Tagged Health Information ManagementHealthcare Data GovernanceICD-10
+
+

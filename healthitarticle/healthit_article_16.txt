@@ -1,0 +1,29 @@
+Artificial Intelligence Tool Passes UK Medical Diagnostics Exam
+
+June 28, 2018
+
+By Jennifer Bresnick
+June 28, 2018 - An artificial intelligence tool from a company in the United Kingdom has scored higher than the average human trainee on an exam designed to test new doctors’ clinical diagnostic skills.
+The offering from Babylon Health achieved a score of 81 percent on “a representative sample set of questions” from the MRCGP exam, the final test for students before receiving their General Practitioner (GP) license from Royal College of General Practitioners. 
+The five-year average score for human clinicians on the capstone exam is 72 percent.
+Dig Deeper
+Artificial Intelligence Promises a New Paradigm for Healthcare
+Artificial Intelligence to Make More Health Jobs Than it Eliminates
+Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+The AI also performed well when asked to provide health advice for common conditions seen in primary care practice, achieving rates of accuracy and safety comparable with top-performing human clinicians.
+The company teamed up with experts at Stanford Primary Care and Yale New Haven Health to compare the AI’s skills against seven experienced primary care providers. 
+The AI scored 80 percent for accuracy when presented with simulated sets of patient symptoms, compared to a range of 64 percent to 94 percent for the human participants.  The AI achieved a score on 97 percent on the safety of its recommendations, while the human physicians averaged 93.1 percent.
+The performance was live-streamed from London’s Royal College of Physicians, illustrating that the tool has the potential to function in real-time to provide support and advice to patients who may not otherwise be able to access basic primary care.
+With a looming shortage of healthcare providers across the globe, chatbot diagnosticians backed by sophisticated AI may help to close gaps in care and expand access, says Dr. Ali Parsa, Founder and CEO of Babylon Health.
+“Even in the richest nations, primary care is becoming increasingly unaffordable and inconvenient, often with waiting times that make it not readily accessible,” he said.
+“Tonight’s results clearly illustrate how AI-augmented health services can reduce the burden on healthcare systems around the world.  Our mission is to put accessible and affordable health services into the hands of every person on Earth. These landmark results take humanity a significant step closer to achieving a world where no one is denied safe and accurate health advice.”
+The accomplishment follows a similar success in China, where a robot from iFlytek Co Ltd passed the written test of China’s national medical licensing exam with room to spare.  The AI entity achieved a score of 456 points on the test, 96 points higher than the passing score.
+In that case, too, the company behind the achievement noted AI’s potential to combat a lack of providers in key areas.
+"General practitioners are in severe shortage in China's rural areas,” said Liu Qingfeng, Chairman of iFlytek, to China Daily. “We hope AI can help more people access quality medical resources. It is not meant to replace doctors. Instead, it is to promote better people-machine cooperation so as to boost efficiency."
+Despite these assertions, both offerings raise questions about the quickly evolving relationships between artificial intelligence, human practitioners, and patients seeking advice and treatment. 
+Using artificial intelligence to fill in gaps in provider shortage areas would likely still require some type of oversight or referral structure involving human experts, especially when patients present with symptoms of a high-risk disease that could be confused for something simpler.
+Resolving ethical and liability concerns around the use of AI will take time and concerted effort from across the spectrum of policymakers, regulators, and technology developers.
+In the meantime, Babylon Health stresses that its AI tool should be classified as an “informational service,” not a diagnostics platform, to conform with regulatory guidelines. 
+Tagged Applied AnalyticsArtificial Intelligence in HealthcareMachine LearningPopulation Health ManagementPrimary Care Services
+
+

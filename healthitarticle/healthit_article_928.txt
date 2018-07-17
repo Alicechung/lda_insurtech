@@ -1,0 +1,33 @@
+Will Personalized Medicine Hit Its Stride Within Two Years?
+
+May 06, 2016
+
+By Jennifer Bresnick
+May 06, 2016 - Two years may be all it will take for personalized medicine, also known as precision medicine, to achieve critical mass, according to a new report by SAP and Oxford Economics. 
+The big data analytics ecosystem is poised to mature to the point of supporting larger-scale personalized medicine programs as providers continue to invest millions in predictive analytics, data storage, and information sharing tools.
+Diabetes, cancer, neurological diseases, and cardiovascular conditions are among the top targets of healthcare providers, who expect to significantly increase the amount of attention they focus on developing tailored treatments based on genomics, detailed analytics, and individualized therapies.
+“Personalized medicine offers better and more efficient ways to address a wide range of challenging medical issues,” said Edward Cone, Deputy Director of Thought Leadership and Technology Practice Lead at Oxford Economics in a press release.
+“At the same time, there remains a lot of work to be done on the details of governance, culture, and information technology.”
+READ MORE: Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+The report includes responses from 120 North American and European research, life science, and healthcare professionals. 
+Sixty-eight percent of respondents said that personalized medicine programs are already impacting patient outcomes. Within two years, 74 percent expect that patients will receiving direct benefits from precision approaches to care. 
+When asked about their areas of focus between now and 2018, sixty-three percent of providers said diabetes was squarely in their sights.  Fifty-eight percent will tackle neurological diseases, while 44 percent will try to make common cancers obsolete.  Just under 30 percent will turn their attention to rare or orphan cancers.
+The rapid pace of innovation is already prompting the majority of healthcare organizations to make changes to their data governance policies and procedures, the survey added. 
+More than sixty percent of respondents have overhauled their privacy and security policies to prepare for the precision medicine era, while 47 percent are making a concerted effort to steer their organizations towards a culture that prioritizes good data use practices.
+READ MORE: Predictive Analytics, AI for Lyme Disease Gets $800K NSF Grant
+Providers and research organizations will need to have detailed conversations about how to appropriately collect, use, and share patient information as precision medicine changes attitudes across the care continuum. 
+Patients are generally willing to contribute their genetic information to research efforts, as evidenced by the large number of consumers enrolled in biobanking projects overseen by some of the larger healthcare systems, but may also view their identifiable genetic information as incredibly private and sensitive.
+Current legislation, including HIPAA and the Genetic Information Non-Disclosure Act (GINA) may not cover all of the use cases that will enter mainstream practice in the next two to five years, so healthcare organizations may wish to develop strategies that are flexible enough to adapt to the lightning speed of innovation.
+Such organizational change management efforts will become increasingly important as organizations cultivate the big data analytics infrastructure that will support personalized care. 
+“Personalized medicine leverages broad data sets including clinical data and genomics to move beyond the one-size-fits-all model into more individualized care, says Dr. David Delaney, Chief Medical Officer, Head of Healthcare Industry North America, SAP.
+READ MORE: Henry Ford to Apply Data Analytics to Pancreatic Cancer with $20M Gift
+“To reach the full potential of personalized medicine however, industry stakeholders must take definitive steps to invest in advanced technologies and workforce talent, adjust to new governance models, and accept significant cultural shifts around data sharing and standards that foster easy interoperability of information.”
+Over the next two years, big data analytics will be the largest area of investment for 44 percent of organizations.  A similar number will prioritize predictive analytics.  Just 19 percent will focus on clinical decision support features and only 11 percent on data visualization, but collaboration tools and interoperability capabilities are a top priority for more than a third of respondents.
+Despite conventional wisdom which indicates that qualified healthcare data scientists are in short supply, three-quarters of organizations believe they already have the data science expertise required to succeed with personalized medicine. 
+However, fewer organizations are confident that they have their health IT programs in hand.  Just 51 percent said they feel mostly or fully equipped with the skills and talent to develop their precision medicine IT strategies and infrastructure.  A mere 33 percent said they had the programming know-how to make the most of emerging technologies.
+While there may be plenty of open jobs to fill across the research, clinical and life science sectors, these organizations are banking on some huge payoffs for their investments.  Sixty percent of participants said they are committing to precision medicine tasks in order to improve the efficacy of treatments, and more than half are anticipating that personalized care will help them slash costs.  Approximately forty percent expect increases in profitability and market share.
+In order to best leverage the growing interest in precision medicine, the report suggests that the healthcare industry should pay careful attention to improving communication and collaboration between physicians, researchers, and pharmaceutical developers, as well as emphasizing the important role of the patient in personalized care.
+Organizations should also prepare themselves for continuing shifts in attitudes around data sharing and create strategies for adapting to the changing regulatory environment.  Remaining open and responsive to the possibilities of precision medicine will allow the healthcare industry to make significant strides towards personalized care in the next two years and beyond.
+Tagged Analytics InfrastructureMedical ResearchPersonalized MedicinePrecision Medicine
+
+

@@ -1,0 +1,19 @@
+Quick facts: How healthcare analytics can help your patients
+
+October 04, 2013
+
+By Jennifer Bresnick
+October 04, 2013 - Analytics is one of those things that sounds great but often takes a backseat to things like clearing the waiting room within a few hours and making sure medical students don’t accidentally kill anyone.  It might seem like something that the IT department is fussing with in a back room somewhere, but there are real and immediate applications for predicting risk, monitoring population health, and crunching the numbers to identify gaps in a patient’s care.  Here are some quick facts to rattle off at your next cocktail party when someone asks what’s the big deal about big data.
+Fact: There are more than 49 million Medicare beneficiaries.  Two thirds of them suffer with two or more chronic conditions.  The average cost for these patients is five times higher than someone who does not manage more than one chronic condition.  Three-quarters of all the money spent on healthcare is directed towards people with chronic diseases.
+How data can help: Analytics can identify diabetes earlier by scanning EHR data for keywords.  Quicker diagnoses means quicker treatment means fewer long-term complications if a patient successfully keeps her condition under control.  That not only saves money, but as more baby boomers age into the risk category and 14 million American gain access to insurance under the ACA, it saves time spent in hospital beds, too.
+Fact: Your financial health depends on your quality.  Eligible providers may lose up to 10% of their Medicare reimbursements if they don’t meet federally mandated quality measures.  Forty-nine million times ten percent each?  You do the math.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+How data can help: Quality measures for programs such as the Physician Quality Reporting System (PQRS) and meaningful use have to be reported digitally anyway.  That means your organization is sitting on a gold mine of information about how you’re doing and how your patients end up.  Wouldn’t it help to take a look once in a while?  Using analytics to produce physician scorecards can help pinpoint what needs improvement, which can keep more money in the bank while making sure your patients stay well.
+Fact: Only 20% of a clinical record is available as standardized data elements.  All those EHR templates you’re using are still leaving the vast majority of pertinent information locked in free-text produced by narrative documentation.
+How data can help: It can’t – unless you can get to it!  By building an analytics infrastructure that incorporates natural language processing and data mining, you can do so much more than just look at claims.  Patient modeling needs to take every aspect of a person’s health into account, not just what was billed during a particular session.  By building a solid foundation with a data warehouse and a data governance policy, you can use all the information buried right under your feet to solve the biggest problems facing patients and providers alike in today’s healthcare landscape. 
+Tagged Analytics InfrastructureBig DataClinical AnalyticsEHR AnalyticsHealthcare AnalyticsHealthcare Data ManagementHealthcare Data Strategy
+
+

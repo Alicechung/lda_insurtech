@@ -1,0 +1,25 @@
+SWIFT shares industry insights from annual Business Forum London event
+
+May 18, 2016
+
+On 20 April 2016, 1,200 financial services professionals gathered at the Tobacco Dock in London for SWIFT’s annual Business Forum London (BFL). Focused on ‘Building the Future of Financial Services’, the event featured keynote presentations and interactive panel sessions, with live audience polling that addressed some of the key challenges facing the industry,  such as the application of distributed ledger technology (DLT) in financial services.
+
+ With DLT discussions prominent on the agenda, BFL attendees were asked the following questions:
+
+ Where do you think blockchain will make the biggest impact in the next five years?
+
+ 31% of delegates believed that Blockchain and DLT can make the biggest impact in securities settlements and reconciliation in the next five years. Current reconciliation processes suffer from latency and require significant human intervention, which could be optimised through DLT.
+
+ What is the key benefit of DLT?
+
+ 31% of delegates believed the key benefit of DLT is transparency and the ability to track and trace transaction and information flows across the lifecycle of a trade. With DLT, entries can be added, but not deleted from the ledger.
+
+ What are the key industry requirements for DLT adoption?
+
+ 25% of delegates identified compliance as the most significant industry requirement for DLT adoption, followed by the need for an identity framework with 20% of the vote.
+
+ In conjunction with the BFL, SWIFT and Accenture released a new paper analysing the opportunities and challenges of DLT within financial services. The paper, which is based on an in-depth technology assessment by SWIFT of DLT usage across financial institutions, shares similar views to the BFL attendees. The paper highlights the opportunities for DLT, but also notes the challenges, namely eight critical factors that need to be addressed for industry wide adoption of the technology. These eight critical factors identified by SWIFT, include: strong governance; data controls; compliance with regulatory requirements; standardisation; an identity framework; security and cyber defence; reliability; and scalability.
+
+ For further information on the many discussions that took place at the event, please click herefor the SWIFT Business Forum London 2016 report. For more information about SWIFT’s position on DLT, please click here to download the SWIFT and Accenture distributed ledger technology paper.
+
+

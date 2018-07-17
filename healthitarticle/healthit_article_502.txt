@@ -1,0 +1,41 @@
+Physician Portal Aids Data Exchange for Stand-Alone Hospital
+
+April 17, 2017
+
+By Jennifer Bresnick
+April 17, 2017 - While much of the healthcare industry is turning to mergers, acquisitions, and economies of scale to combat the financial challenges of value-based care, there are still more than a few organizations that have committed to operational independence.
+Stand-alone hospitals face a number of financial, administrative, and clinical challenges, especially when the facility is the only available option for acute care within a given community. 
+Despite their independent status, these organizations are still deeply intertwined with the rest of the care continuum, and are just as responsible for what happens to patients when they leave the acute care setting as any of their integrated, networked peers.
+Henry Mayo Hospital, a 238-bed nonprofit community hospital that serves more than 275,000 people in northwest Los Angeles County, doesn’t even own any physician offices or other groups, which complicates the question of care coordination even further.
+Data exchange and interoperability are extremely important competencies for this pillar of the community, and a modern suite of health IT tools is critical for ensuring that patients receive the services they need from the full spectrum of providers operating within the region.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+By ensuring that the hospital remains connected to its care partners through a physician portal and an open approach to data sharing, Henry Mayo is actually aiming to safeguard its independence, said Interim Chief Information Officer Adnan Hamid. 
+“Because we are independent and plan to stay that way, and because we’re the sole source of acute care for many people, we occupy a unique position in the competitive hospital market,” he told HealthITAnalytics.com.  “Interoperability is key to giving us the advantage we need to hold our own against a number of other major players in the area, like Kaiser Permanente and UCLA Health.”
+“We would like to partner with them to improve the care we can all deliver to our patients, and data exchange plays a significant role in that.”
+Just like every other acute care hospital in the nation, reducing readmissions and improving care coordination post-discharge are high priorities for Henry Mayo. 
+“We’re doing our best to use technology to reduce readmissions rates wherever possible – and to do that, we need to be connected not just to other hospitals, but also to the physician community,” Hamid explained. 
+READ MORE: How to Choose the Right Healthcare Big Data Analytics Tools
+“As an acute care facility, we don’t just take care of patients when they come through our doors.  We need to take care of them after they leave, too, and that means providing the right information to our partners while allowing them to provide important information to us.”
+Instead of building one-to-one connections between each and every local physician office and Henry Mayo’s MEDITECH electronic health record, the hospital chose to take a more efficient and less time-consuming approach to sharing key reports and other patient data: a physician data portal.
+“We couldn’t share all the reports we wanted when using our previous aging system, so we needed a tool that would work well with our EHR and provide the right data to our physician partners.  We partnered with Summit Healthcare to put a new physician office portal in place.”
+The system, which leverages the same concept as a consumer-facing patient portal, helps users leapfrog many of the interoperability issues that often plague providers.  The tool requires little training and financial investment from physicians while simultaneously ensuring that patient privacy is respected.
+“We now have more control over who has access to records,” said Hamid.  “We want to make sure that we are providing the right information to the right people, especially because we are dealing with non-staff physicians.  Physicians who are credentialed at our hospital have access to our EHR, but we needed a way to maintain patient privacy while making sure that everyone who needs access can get it.”
+READ MORE: Data Exchange, Analytics Remain Out of Reach for Many Providers
+Physicians can share certain patient information with other providers or send over data when making a referral, but the portal only allows users to see information they have been authorized to view, Hamid said.
+Providers within the community have quickly taken to the upgrade, he noted, with few of the usability complaints and productivity shortfalls that have historically made health IT users wary of adopting new technologies.
+“If you had asked me about usability problems ten years ago, I’d probably have a different answer. But at this point, I think people are getting used to portals and pulling information off the web,” he said. 
+“Their interactions with these systems have improved over time.  But that doesn’t mean we want to stop focusing on creating a user-friendly experiences.  You shouldn’t need a lot of training for these tools.  You should be able to get in and get out with the data you need and then move on with your day.”
+Not only does the physician portal protect patient privacy and smooth the data exchange process, but it also saves time and effort for Henry Mayo’s health information management department, he added.
+“Our HIM department has ownership of the process, because they’re the ones that handle requests for records,” he said.  “It’s in their best interest to promote the use of the portal, and they’ve done a great job of that.”
+“Anecdotally, we have seen a reduction in phone call requests from physicians for paper records.  The HIM department encourages providers to use the portal instead, which reduces everyone’s workload.”
+The portal will also make it easier for the hospital to work with other business partners on care coordination and population health management initiatives.
+“We’ve started to get some requests from our health plan partners and other major parties who want access to our EHR data for case management or other reasons, which is a great development.   We’re working on how to enable that most effectively so we can leverage our health IT infrastructure for these tasks on a broader scale.”
+Eventually, the hospital hopes to leverage the portal’s reporting capabilities for quality measurement purposes, but organically growing participation from local partners is still a work in progress.
+“Our focus for the moment has been on adoption,” said Hamid.
+“Right now, we’re making sure of our privacy and security protocols and ensuring proper access to the right data at the right time.  Then we’ll explore more comprehensive analytics and how to optimize our health information exchange to improve quality.  That is our ultimate goal.”
+The physician portal is just one piece of Henry Mayo’s efforts to use health IT as a way to retain its independence in a challenging financial environment, and the early success of the data exchange tool has taught the hospital some valuable lessons about how to build on its achievements and generate meaningful results.
+“You won’t find a solution that solves all your woes, but you want to make sure that your investments are producing as much return as possible,” advised Hamid.  “If you try to do everything all at once, you’re going to run into a lot of frustration and a lot of problems.”
+“It’s a daunting prospect to build infrastructure in the healthcare world.  If you don’t start with a very firm grasp on the basics, nothing you create on top of a shaky foundation will succeed. But once you secure those early wins and get that wind in your sails, everything will get easier and you’ll start seeing great results.”
+Tagged Health Data ExchangeHealth Information ExchangeHealth Information ManagementHealthcare InteroperabilityInterviews
+
+

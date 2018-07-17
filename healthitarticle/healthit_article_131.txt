@@ -1,0 +1,75 @@
+Medical Imaging is Healthcare’s Artificial Intelligence Bellwether
+
+March 29, 2018
+
+By Jennifer Bresnick
+March 29, 2018 - The healthcare industry has innumerable opportunities to leverage artificial intelligence and machine learning in pursuit of more accurate, proactive, and comprehensive patient care. 
+From reducing administrative burdens to supporting precision medicine, AI is showing promise across clinical, financial, and operational domains.
+Medical imaging is one of the fastest-moving areas of discovery, offering radiologists, pathologists, ophthalmologists, and practitioners in other image-rich disciplines the opportunity to augment their workflows with algorithms that are getting better every day.
+But being on the leading edge of innovation often means solving problems that no one in the industry has encountered before. 
+Partners Healthcare is used to being in the pole position when it comes to health IT innovation.  Extensive investment in infrastructure, data governance, and internal software development means that artificial intelligence is just the next step on a long journey towards new and improved strategies for delivering quality care.
+READ MORE: Partners Sets the Tone for Artificial Intelligence in Healthcare
+At the World Medical Innovation Forum on Artificial Intelligence this April, Partners and a number of leading industry voices will be sharing their progress and visions with the rest of the healthcare system.
+Yet even organizations with industry-leading analytics competencies in hand are facing intriguing new challenges when it comes to applying artificial intelligence to clinical care.
+Keith Dreyer, DO, PhD, Chief Data Science Officer, Corporate Director of Enterprise Medical Imaging at Partners Healthcare
+Source: Xtelligent Media
+“There are so many moving pieces when it comes to artificial intelligence,” said Keith Dreyer, DO, PhD, Chief Data Science Officer and Corporate Director of Enterprise Medical Imaging at Partners Healthcare. 
+“Imaging analytics is a good example of the complexity involved in all different disciplines, as well as the pace of progress that we’re seeing in AI development at large.  We’re really leading the way in the imaging world, which is a very good place to be.”
+The science behind artificial intelligence has been in active development for more than half a century, but the rapid increase in high-power computing capabilities has only recently started to allow researchers to apply their theories to real-world use cases.
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+“When I started in AI in the early 2000s, computation was just too slow and there wasn’t enough data available,” Dreyer recalled. 
+“But right around 2012 and 2013, some of the large internet companies started spending large amounts of capital on trying to make search and ad placement much smarter, and that reopened a lot of the research opportunities into artificial intelligence.”
+Some of that work was focused on the ability to identify faces, patterns, and objects in photographs and other images, but companies like Google, Facebook, and Microsoft were largely concerned with making their products more engaging and relevant.
+“Healthcare has always borrowed from other industries, and that work had applications for medical imaging as well,” pointed out Dreyer.  “Around that time, the healthcare AI world was largely fueled by the learnings from those other industries with more resources.”
+Over the past few years, however, healthcare has made numerous investments of its own, especially around analyzing images in pathology and radiology for diagnostics and clinical decision support. 
+READ MORE: ONC: Artificial Intelligence Has Potential to Reshape Healthcare
+Early results have been highly promising, even outperforming humans in some instances.  But many of these successes have been confined to small pilots and studies, said Dreyer.
+“The question we’re facing now is how we can turn these experiments and studies into widely-adopted reality in a field as complex as healthcare,” he said.  “In addition to all the questions of FDA regulation and approval, there are infrastructure concerns.”
+“Do you put it in the cloud?  Do you put it on premises?  If it’s in the cloud, how do you transfer data in and out of the hospitals?  If it’s on your own servers, how do you manage the storage needs when you’re working with tens of thousands of images and all the other data needed to support the training and validation of an algorithm?”
+Different models need different amounts of data to function, explains Mark Michalski, MD, Executive Director of the MGH & BWH Center for Clinical Data Science.  But all models require infrastructure solutions that allow seamless access to large volumes of data in order to produce trustworthy results.
+“If you’re trying to classify features in a CT scan, for example, you could need anywhere from 100 images to millions of images,” he said. “That means you need a lot of storage and a lot of processing power at your disposal.”
+Mark Michalski, MD, Executive Director of the MGH & BWH Center for Clinical Data Science
+Source: Xtelligent Media
+“Our capabilities are growing exponentially, but so are our needs.  We’re moving from 2D data to 3D data in some cases, and everyone is using larger and more complex datasets.  One of the grand challenges is creating the infrastructure that can support that work.”
+Partners Healthcare has developed a combination of on premise and cloud resources to train their AI models. 
+“We have over a petaflop of GPU-based computing power on premise, and we’re growing the size of our cluster by about twofold by the end of 2018 to meet the demand,” said Michalski.
+Working with imaging data at such a scale can be somewhat easier than with other types of datasets due to the wide adoption of DICOM, a standard that has been in place for medical imaging for more than twenty years.
+“For imaging, DICOM fills the role of connecting all the modalities in the hospital.  The printers, displays, MRI machines, and other acquisition devices all communicate using DICOM standards,” said Dreyer.
+“But for the industry at large, there’s an entire ecosystem that’s missing right now.  There’s no infrastructure for AI platforms and the standards still need a lot of work.  That kind of fragmentation is going to be a real problem for hospitals or health systems that are trying to purchase and implement clinical decision support tools that aren’t native to their current systems.”
+Infrastructure shortcomings, such as an electronic health record that doesn’t lend itself to interoperability, can make it difficult to access the specific data elements required to develop and train artificial intelligence models, said Michalski.
+“Identifying the images you want to use to create the model is the first step, and that requires you to build a cohort,” he explained.  “That means going through the EHR and identifying patient characteristics that make the cohort useful for your model.  If your EHR is not designed to let you do that detective work and extract what you need, that step can be difficult to accomplish.”
+“Once you’ve found the data, you have to find ways to bring that data to your servers, parse it, and normalize it so you can actually use it for model creation.  You also need to annotate it, which means having someone identify the features in the images that are most important for the model.”
+Annotation of data is a critical step in the AI process, stressed both Dreyer and Michalski.  Human experts must label the images and define which elements are normal and which should be flagged.
+It can be extremely time-consuming.  And because it involves fallible and opinionated human experts defining what the algorithm will be looking for, it’s also an opportunity for unconscious bias to creep in.
+“There’s nothing in the data that inherently says this particular structure is definitely a nodule and it’s right here, or that the nodule turned out to be non-cancerous,” said Dreyer.  “Some of it may be contained in the free-text reports, but that data doesn’t typically exist in a structured way.”
+“If you’re going to start to train algorithms, you need to go through the data integrity, the annotations, the training sets, and the validation sets – that’s a lot of data engineering work and it forms a considerable part of the challenge of creating algorithms.”
+Another challenge is defining the scope of an algorithm in such a way that it can actually answer a useful question in a meaningful manner. 
+“Let’s say you’re looking at chest x-rays and you decide you want to classify them as ‘normal’ versus ‘abnormal,’” said Dreyer.  “Well, there could be 500 different things that would make an x-ray abnormal.” 
+“You would need a corpus of data that shows all the possible representations of all those 500 states compared to something that would be classified as totally normal.”
+That could add up to hundreds of thousands or even millions of images, all of which need to labeled and annotated in a consistent manner. 
+And even if the algorithm could be reliably trained to sort images into such broad categories, there isn’t much direct value to handing a clinician a pile of abnormal x-rays just because they were flagged that way by AI instead of a human, he added.
+“You need to find the right balance between utility and focus,” said Dreyer.  “In mammography, for example, you’re typically only looking for one thing: breast cancer.  Within that, you’re looking for nodules, architectural distortion, or microcalcification.” 
+“You might need thousands or tens of thousands to train for each one of those.  But compared to the idea of accurately identifying and differentiating 500 different general ‘abnormalities,’ it’s a relatively well-defined and limited task.”
+Algorithms will always be data-hungry, said Dreyer.  “I haven’t seen anyone say that we have the exact amount of data that we need, and that we don’t need any more.  Everyone wants as much data as they can get their hands on because more data means better accuracy.” 
+More data moving more freely into and out of new health IT systems also means more privacy and security concerns, pointed out Michalski.
+“There’s a very low threshold for failure when it comes to securing that data and protecting the privacy of the individuals involved,” he said.  “We are doctors first, and preserving that trust is typically the number one priority.”
+
+“Partners has been a leading force in balancing safety and security with the raw potential of marrying this technology to large datasets.  They’ve created governance structures that have been creating case law around how you deal with the demand or desire for data from both internal and external parties.”
+Allowing disparate organizations to share data and enabling developers to reuse labeled training datasets for multiple applications is an important part of being a member of artificial intelligence research community.
+However, as data diffuses through the ecosystem, the privacy and security risks rise.
+“As time goes on, there is a higher and higher likelihood of that data becoming identifiable again, or there being some sort of breach,” said Michalski.  “Because we know that more access equals more risk, healthcare organizations have to think very carefully about the way data is shared.”
+Organizations also have to think about the financial and reimbursement implications of artificial intelligence, added Dreyer.
+“How is all of this going to get paid for?  How does it integrate into the rest of the health system’s activities, particularly around value-based care?  We haven’t even figured out a standardized way to communicate AI recommendations for action in a way that will change the course of care for the better.  How long will it take before we figure out the payment mechanisms behind it, too?” 
+Imaging analytics may be slightly ahead of other domains in terms of AI maturity, but it will still be a slow and difficult process to bring artificial intelligence into the everyday workflow, said Dreyer.
+“Medical imaging is just one out of a thousand use cases for AI in healthcare, and look how complex it is and how long it is taking to prove out,” he said. 
+“And because every discipline and every data type is different, we might have to adapt the structure and methodology significantly to see similar gains in another area.  That is going to extend the time and investment required to bring AI into healthcare more broadly.”
+Nevertheless, Partners Healthcare is enthusiastic about cultivating the processes and technologies required to make AI a reality in imaging disciplines and elsewhere.
+“Partners is right at the bleeding edge of this,” said Dreyer.  “We have invested tens of millions of dollars into this domain, and we’ve partnered with industry very aggressively to deploy tools at our own institutions, but also to provide for commercialization elsewhere.”
+“We have made a very significant commitment to structuring our data for a long time, which puts us in an excellent position to deploy AI on a platform.  The maturity of an organization’s infrastructure and their commitment to informatics will determine whether they’ll see success with this, and how quickly that success will come.”
+Attendees of the World Medical Innovation Forum will get a first-hand look into how Partners is addressing the multitude of infrastructure, data governance, and workflow concerns that come along with being a pioneer in a new area of development.
+Overall, optimism is high and interest in AI will only continue to grow as breakthroughs in imaging analytics lead the way to discoveries in other areas, says Dreyer.
+“We don’t want to overhype this by saying it’s going to take over everyone’s job, because it won’t,” he said.  “But we also don’t want to under-hype it, or say it’s too hard or too futuristic, because we don’t want people to stop trying.”
+“It’s really more about spreading a sense of reality and making sure that everyone is patient but still committed to working to make AI a force for good in healthcare.  If we can solve these puzzles in the imaging world, we’ll be able to make very swift progress elsewhere, and that is extremely exciting.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportImaging AnalyticsInterviewsMachine LearningWorld Medical Innovation Forum
+
+

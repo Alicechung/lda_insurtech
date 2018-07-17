@@ -1,0 +1,128 @@
+EHR Data Integrity Not Robust Enough for Clinical Trial Use
+
+July 19, 2016
+
+By Sara Heath
+July 19, 2016 - EHR data is not strong enough to support research and clinical trials, says the American Medical Informatics Association.
+In a letter commenting on the FDA’s draft guidance on the use of EHR data in clinical trials and research, AMIA says that researchers and industry professionals should not rely on electronic health records for accurate, complete, and meaningful information when conducting medical research and clinical trials.  
+“We strongly caution FDA from assuming that most EHRs are readily configurable for clinical investigations, even among more advanced institutions,” wrote the organization’s president, Douglas B. Fridsma, MD, PhD, FACP, FACMI, and board chair, Thomas H. Payne, MD, FACP, FACMI.
+The FDA has overemphasized the use of EHR data in the research setting, the pair said, assuming that the technology is able to collect accurate data that is up to the standard necessary for quality clinical research. However, there are several reasons why EHRs may not be the best path forward for research.
+Google using big data to find what a “healthy human” looks like
+Western NY Beacon shares lessons for diabetes management
+Using medical malpractice litigation for healthcare analytics
+Clinical quality, patient engagement kick off Health IT Week
+EHR Satisfaction Rises, Usability Complaints Drop for Nurses
+Shifting Healthcare Business Intelligence Market Offers Opportunities
+RWJ to Explore How Big Data Can Build a Culture of Health
+Walgreens clinics integrate analytics into patient care
+Accountable Care Organizations Still Face Interoperability Woes
+Groups Urge $34.1B NIH Budget for Precision Medicine, Research
+Big Data on Patient Transfers Raises Quality, Snags Revenue
+US, 26 countries to build disease monitoring infrastructure
+EHR data boosts link between celiac, coronary artery diseases
+Deep Learning, Big Data Fuel Medical Device for Predicting Seizures
+Online colorectal cancer risk score helps streamline screenings
+OIG Seeks Cloud-Based Big Data Analytics, Visualization Tools
+Poor Medication Adherence Impacts Close to Half of Diabetics
+Safety net leads the way in population health management
+4 Basics to Know about the Role of FHIR in Interoperability
+5 Test Cases to Prove the Value of Population Health Management
+Clinical decision support, care coordination fight hepatitis C
+IBM Bets Big on Blockchain for Value-Based Care, Data Exchange
+ONC Exploring Use of Blockchain in EHRs, Healthcare IoT Devices
+Texting may be the key to urban population health management
+Medicaid Savings Require Integrated Physical, Mental Healthcare
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+OIG to Review Hospital Quality, Population Health in 2015
+6 Success Factors for Pediatric Patient-Centered Medical Homes
+Nurses Play Collaborative Role in Care Coordination, Planning
+Ore. Accountable Care Organizations Continue to Boost Quality
+Interoperability, Internet of Things First Tasks for Precision Medicine
+IBM Watson Expands Role in Imaging Analytics, Population Health
+Partnership Ups Medication Adherence with Predictive Analytics
+CMS Seeks Providers for Comprehensive Primary Care Initiative
+Pew: EHR Usability Concerns May Still Impact Patient Safety
+How Can Healthcare Big Data Analytics Bust Data Silos?
+PCORI to Spend $42M on Patient-Centered Comparative Research
+Video Analytics, Machine Learning Can Aid Mental Healthcare
+Growing NLP Marketplace Drives Healthcare Machine Learning
+EHR use, patient portal outreach increase shingles vaccine rate
+39M Medicare Patients Received Free Preventative Care in 2014
+ONC Taps Boston Children’s for $275K FHIR, API Innovation Award
+Predictive Risk Score Targets Highest Cost Patients
+How Does the ONC Define HIE, Value-Based Care, Population Health?
+Advanced EHR Use Brings 27% Decline in Patient Safety Errors
+Stage 2 MU e-Prescribing Improves Diabetic Patient Safety
+ONC Views APIs as Key to Health Data Exchange, Interoperability
+Genetic tests for breast cancer could bring cost reductions
+Medication adherence study scrutinizes pharmacies, packaging
+Which Healthcare Data is Important for Population Health Management?
+Accountable care extends Medicare hospital funds to 2030
+AMIA Advises PCORI on Sharing Big Data for Health Research
+21st Century Cures Act for Precision Medicine Set for House Vote
+Georgia, Alabama Make Health Information Exchange Connection
+Can Healthcare Effectively Measure Patient Engagement?
+Most Payers Target Population Health Management, Outsourcing
+Outsourcing Computer Assisted Coding, CDI Brings 93% of Hospitals Revenue
+Docs Seek Health Information Management Pros for ICD-10 Prep
+Struggling hospitals hold off on population health, analytics
+Patient Engagement Key to Being Named a “Most Wired” Hospital
+CMS Seeks Participants to Take the Million Hearts Challenge
+Population Health Management Requires Moving Beyond the EHR
+New CancerLinQ Partnership Expands Big Data Analytics Platform
+70% of Residents Feel Prepared for Population Health Management
+Roche Buys Flatiron Cancer Analytics, EHR Tools for $1.9B
+Understanding the Many V’s of Healthcare Big Data Analytics
+Surescripts Ups Patient Safety, Savings with Interoperability
+AMA, CDC Launch Joint Type 2 Diabetes Prevention Effort
+Mayo Clinic latest to leverage IBM Watson’s data analytics
+Nurse Informaticists Can “Triage” EHR Optimization Problems
+ICD-10 Implementation is Just the Beginning for Coder Education
+HP, Inovalon Bring Healthcare Big Data Analytics to Georgia
+CMS Offers $157M to Fund Community Population Health Management
+Academic, Research Orgs to Form Health Data, Informatics Center
+Payers Starting to Tie Precision Medicine to Value-Based Care
+Gates Foundation Grants $279M to UW Population Health Program
+Care Quality Tops Expenses for Patients Seeking Physicians
+Five Core Competencies for the Healthcare Internet of Things
+CMS Issues Last Call for ICD-10 End-to-End Testing Volunteers
+Healthcare Big Data Analytics Confuses Half of Providers
+A Mere 3% of LTPAC Orgs Have Healthcare Data Analytics Tools
+PA Partners Will Use EHR Data Analytics to Improve Care Quality
+IBM Watson, Mount Sinai Launch New Precision Medicine Projects
+Leveraging the Patient-Centered Medical Home for Older Adult Care
+Three HIEs Connect to Create “Patient-Centered Data Home”
+Data Analytics, Agile Implementation Speed Healthcare Quality Improvement
+Is healthcare set for a big data revolution with IBM Watson?
+At-home risk score can reduce appointments for strep throat
+Hospital Acquired Conditions, Patient Safety Hold Steady in 2014
+mHealth Closing Knowledge Gaps for Chronic Disease Management
+API-Based Genomics Databank Facilitates Personalized Medicine
+Patient Engagement, Population Health Are Key to ACO Success
+CHIME: Patient Matching Crucial for HIE, Care Coordination
+Clinical Decision Support App May Cut CTs for Head Injuries
+Machine Learning Can Quiet “Building Crescendo” of EHR Dissatisfaction
+CMS Offers New Accountable Care Payment Model for Oncologists
+CMS Appoints Chief of Big Data for New Analytics Office
+21st Century Cures Act Passes House, but Faces Senate Critics
+What Will 2017 Bring for Healthcare Analytics, Interoperability?
+PCORI Grants $64 Million to Population Health Research Projects
+“Specifically, we perceive an over-reliance on the assurances resulting from ONC’s Health IT Certification Program related to data reliability and interoperability,” Fridsma and Payne wrote.
+“Further, we discuss ways FDA could improve the likelihood of data integrity when using EHR source data and we raise a number of additional issues for FDA to consider when finalizing this guidance.”
+These issues are ultimately rooted in the fact that the EHR’s central purpose is to advance the care of patients in a clinical setting, not to serve as data repositories for investigative projects.
+“Ensuring data integrity and tracking data provenance in clinical settings is incredibly complicated because multiple, authorized individuals contribute to the EHR and the specificity of audit logs varies widely,” AMIA commented.
+“If the FDA is interested in which data populated the electronic data capture (EDC) system or electronic case reporting form (eCRF) and where they originated along the continuum of care, the answer could prove extremely difficult and burdensome.”
+Further, the organization says FDA overestimates the effectiveness of ONC’s Health IT Certification Program. This is potentially problematic because certified EHR technology does not necessarily equate to high quality health data.
+“ONC’s Health IT Certification Program is not designed to ensure data ‘reliability’ or integrity,” Fridsma and Payne explained. “Indeed, such integrity and reliability is generally the result of the policies, procedures and actions of the EHR users rather than the technology itself, and we see this guidance overstating the ability of certification to deliver clinical investigation-quality data as a byproduct of care delivery.”
+To account for the potentially lacking data integrity, AMIA recommends that the FDA explore the use of data warehouses. These warehouses use data standards that could make research data more usable and interoperable for the purpose of a clinical investigation.
+Going forward, AMIA recommends that the FDA should work with ONC to determine appropriate health IT certifications, and to specify the ways in which CEHRT could be reliable enough to improve clinical trial data.
+In spite of these two issues, AMIA generally praised FDA’s efforts to boost EHR data usage in clinical research, saying that it  marks a path forward for health IT. Because health IT is so ubiquitous across the industry, Fridsma and Payne said, it is important that leaders begin to acknowledge its peripheral uses.
+“With more than 96 percent of US hospitals and 83 percent of US office-based physicians using EHRs to deliver clinical care, we have an unprecedented opportunity to utilize digitized healthcare data for supplemental uses, such as clinical investigations, especially for prospective controlled clinical trials,” they wrote.
+“We believe this guidance is well-timed and can serve as a valuable signal to industry, and other stakeholders, on how to orient technical functionalities and organizational policies to capitalize on this opportunity.”
+Going forward, however, the agency will need to reconsider how to ensure the highest quality of data coming from the EHR, helping to produce the most effective and precise results in a clinical investigation.
+Dig Deeper:
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+Top 5 Basics to Know About the Precision Medicine Initiative
+Tagged Clinical DataEHR Data QualityPrecision Medicine Initiative
+
+

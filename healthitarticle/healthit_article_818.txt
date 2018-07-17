@@ -1,0 +1,30 @@
+FHIR App Provides Precision Medicine Support at Point of Care
+
+August 08, 2016
+
+By Jennifer Bresnick
+August 08, 2016 - Two of the most intriguing trends in healthcare may be able to work together to bring advanced clinical decision support directly to the point of care, suggest researchers who developed a FHIR-based precision medicine application that integrates with electronic health records.
+The prototype application, described in a study published in JAMIA, is aimed at oncologists who are increasingly relying on genomic information to diagnose and treat complex patients.  Using the Substitutable Medical Applications and Reusable Technology (SMART) and FHIR data standards from HL7, the app presents visualizations of genomic variants to help providers target personalized care to patients.
+“The definition of cancer and the care of cancer patients are increasingly being driven by tumor genomics, aka molecular profiling,” writes a team of authors from Vanderbilt University, MIT, Boston Children’s Hospital, the University of Science and Technology in Hefei, China, and Harvard Medical School.
+But the sheer volume of data involved in identifying promising treatments through genomics can overwhelm even the most talented clinician, the authors added. 
+“As the number of clinically relevant findings with prognostic implications rapidly expands, human cognitive capacity, as predicted in 1989, will no longer be able to keep up.”
+READ MORE: ONC, NIH Pilot Adds Genomic Data Specifications to HL7 FHIR
+Genomics is taking on an increasingly prominent role in cancer care as providers and researchers get closer to unlocking the causes of cancer within the human genetic code, yet the vast majority of commercially available electronic health records do not currently allow for the analysis or display of genomic data within the routine workflow.
+The idea of creating add-on applications that increase EHR functionality is not a new one, but the study notes that there are few existing tools that fill the need for point-of-care clinical decision support when it comes to precision medicine.
+As with many other missing EHR capabilities, SMART on FHIR may provide the answer.  The ONC, as well as many EHR developers themselves, believe that the interoperable data standard will play a central role in the future of interoperable electronic health record technology, allowing third-party developers to enhance and expand the basic features of the foundational tool.
+“SMART on FHIR provides an app platform for health applications that integrates with EHRs, patient portals, personal health records, and data warehouses,” the JAMIA team explained. “SMART on FHIR apps can be integrated into the context of an existing EHR or patient portal session, conveying the current patient, encounter, and other details of the host environment, or they can launch independently, such as on a mobile phone or device.”
+The prototype app harnesses these capabilities to display critical data to the user such as patient demographics, primary cancer diagnosis, and molecular profile results.  Using existing genomic data resources and information from approximately 3800 patients who had previously had their DNA sequenced at Vanderbilt University, the researchers mapped their background data to FHIR reference markers.
+READ MORE: FHIR Can Move Genomics from Prediction to Precision Medicine
+Software developers from the Vanderbilt-Ingram Cancer Center (VICC)’s Research Informatics Core created an iOS app primarily geared towards iPad users.  Called the SMART Precision Cancer Medicine (PCM) app, the tool authenticates users by their standard Vanderbilt University Medical Center login credentials, then presents a basic query interface that allows providers to search for their patients.
+Users can then access the results through a series of interactive visualizations.  The app also includes access to external research sources, such as Gene Wiki, that allow providers to dig deeper into information on specific genes or other items.  The authors note that this educational component is not typically available through an EHR system.
+After piloting the app with fourteen oncology clinicians, including nine fellows and five attendings, the researchers conducted a user survey to collect feedback on the tool.
+Reactions were generally positive.  When asked about potential enhancements to the system, the majority of respondents said they would like to see decision support functionalities.  Other requested items included more external knowledge links, patient outcome data, cost information, and data on broader populations.
+Overall, the test group believed that the application had potential for helping them to navigate the complicated diagnostic and treatment tasks involved in cancer care, and the researchers agree.
+READ MORE: Precision Medicine, Genomics Partnership Boosts Big Data Sharing
+“Providing contextually useful patient population comparisons may be a ‘nice to have’ for traditional clinical tests,” the study said. “However, for the complex and highly differentiating results associated with genomic testing, such information is essential for any type of diagnostic/prognostic support, since more active clinical decision rules may depend entirely upon the particular evidence base for the clinical condition of the patient.”
+The authors suggest that the SMART PCM app, and other standards-based applications like it, demonstrate how health IT tools can keep up with the rapid pace of innovation in medical research and clinical care.
+“Our prototype demonstrates how to achieve end-to-end integration with a data warehouse operating in near–real time with the accompanying EHR system,” they concluded. “The SMART on FHIR components enable role-based authentication and authorization for obtaining patient context and population-level data within a firewalled and audited environment.”
+“Apps such as SMART PCM can evolve quickly and nimbly, and offer a new and innovative resource for precision medicine.”
+Tagged Application Programming InterfacesClinical Decision SupportFHIRGenomicsMedical ResearchPrecision Medicine
+
+

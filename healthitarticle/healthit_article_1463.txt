@@ -1,0 +1,33 @@
+CMS Highlights Need for ICD-10 Preparation as Deadline Nears
+
+May 01, 2015
+
+By Jennifer Bresnick
+May 01, 2015 - ICD-10 preparation is taking on an increasing sense of urgency as October 1, 2015 steamrolls towards the industry with little hope of another delay.  With many providers still lagging behind recommended benchmarks and testing opportunities producing mixed results, healthcare organizations will need to step up their ICD-10 programs if they wish to meet the increasingly tight deadline.
+In a pair of email newsletters providing helpful facts for providers, CMS stresses the importance of understanding the basics of the ICD-10 preparation process while dispelling some common fears about the new code set’s increased detail and specificity.
+ICD-10 will go ahead on October 1, 2015
+“The ICD-10 transition date is October 1, 2015,” CMS states plainly.  The SGR repeal included no mention of additional time to get ready, and Congress seems likely to forgo the chance to stir up more anxiety and frustration by pushing the compliance date into the future yet again.  “Get ready now for ICD-10,” CMS warns, because providers who do not sufficiently prepare for the new coding requirements will be subjecting themselves to possible claims denials and reimbursement delays.
+It’s not as complicated or different as it seems
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+ICD-10 may contain significantly more codes than the current standard, but that doesn’t mean coders will need to know or use them all.  “Your practice does not use all 13,000 diagnosis codes available in ICD-9,” CMS points out. “Nor will it be required to use the 68,000 codes that ICD-10 offers. As you do now, your practice will use a very small subset of the codes.  
+“Increasing the number of diagnosis codes does not necessarily make ICD-10 harder to use,” the email adds, but providers may wish to investigate available computer assisted coding (CAC) tools or the ICD-10 alphabetic index to help with code selection.
+Certain aspects of the coding process won’t be changing much with the advent of ICD-10, either.  The use of CPT or HCPCS codes for outpatient and office procedures will not be affected by the ICD-10 switch.  “However, ICD-10-PCS codes will be used for hospital inpatient procedures, just as ICD-9 codes are used for such procedures today,” CMS reminds providers. “Also, ICD diagnosis codes are sometimes used to determine medical necessity, regardless of care setting.”
+Testing opportunities are still available
+Providers can conduct acknowledgement testing with their local Medicare Administrative Contractor (MAC) at any time up until the October 1 implementation date.  CMS will also host a dedicated acknowledgement testing week in June, which will give providers access to real-time help desk resources.   
+READ MORE: Change Healthcare Plans Payer, Provider RCM Blockchain Tool
+Many other payers and clearinghouses have affirmed their readiness to engage in external testing with the provider community.   Organizations who are ready for external testing should contact their private payers to seek out opportunities to make sure claims can be accepted and adjudicated. 
+There are alternatives to electronic claims submission
+Having trouble submitting electronic claims?  Still using paper?  There are options to help with ICD-10 preparation.  Free billing software is available from every MAC, and about half of MAC jurisdictions provide Part B claims submission functionalities through their internet portals. 
+“If you take this route, be sure to allot time for you or your staff to prepare and complete training on free billing software or portals before the compliance date,” CMS reminds the industry.
+Providers that are planning to submit paper claims, even if they meet the Administrative Simplification Compliance Act waiver provisions, must be able to code in ICD-10 in order to have their claims adjudicated.
+READ MORE: AHIMA: Information Governance is Key for Trusted Healthcare Analytics
+ICD-10 preparation is cheaper than previously projected
+Despite earlier predictions that ICD-10 preparation would cost the average providers tens of thousands of dollars, real-life compliance programs have been significantly less expensive than feared.  Training and system upgrades cost as little as $3400 per provider, one recent study found, and many EHR vendors are even providing ICD-10 compliant software to their clients for free, CMS says.
+Providers who have already secured their infrastructure improvement should turn to clinical documentation improvement programs and training for their physicians and coders.  Time is running out to help clinical staff overcome their fears of the new code set and adequately prepare them for the increased specificity required of their patient documentation.
+ICD-10 is the future, and failing to prepare will have consequences
+“It’s time to transition to ICD-10,” CMS proclaims.  The new code set will have a significant impact on the future of clinical analytics and healthcare big data, not to mention having the potential to improve care coordination, diagnosis and research, and help public health organizations respond more nimbly to emergencies and patient safety events.
+ICD-10 will also support new value-based reimbursement models and improve fraud detection.  Providers are likely to receive more accurate reimbursements thanks to increasingly detailed documentation of services rendered and conditions treated. 
+But providers who fail to complete their ICD-10 preparation programs are putting themselves at risk for serious revenue cycle consequences.  While the industry as a whole has a motivation to keep revenue flowing smoothly, providers who cannot master ICD-10 will be in line for denials and delays.  Using the next five months to jumpstart education, training, and documentation improvement will help to ensure that ICD-10 is a smooth transition to an improved method of coding and compliance.
+Tagged Health Information ManagementICD-10Revenue Cycle Management
+
+

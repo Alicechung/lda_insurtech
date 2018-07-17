@@ -1,0 +1,22 @@
+Ochsner Adopts Artificial Intelligence Tool from Epic Systems, Microsoft
+
+February 28, 2018
+
+By Jennifer Bresnick
+February 28, 2018 - Louisiana-based Ochsner Health System has adopted a new artificial intelligence technology that provides early warning alerts for patients experiencing adverse health events.
+The predictive analytics platform, powered by cloud and AI technologies from Epic Systems and Microsoft, aims to reduce adverse events and improve patient safety across the 473-bed health system.
+“At Ochsner, patients are at the center of everything we do,” said Laura Wilt, System Vice President and Chief Information Officer, Ochsner Health System.
+Dig Deeper
+Epic Systems: Machine Learning Is the EHR Usability Solution
+Epic Systems Leads Mindshare for Population Health, EHR Tools
+Artificial Intelligence in Healthcare Gets Cheaper and Quicker
+“By utilizing Epic’s machine learning platform and Microsoft Azure, we can detect health patterns, learn from these insights and develop a more aggressive treatment plan as a preventative measure. It is about delivering a higher quality of care to change and save more lives.”
+A 90-day pilot of the technology, which deploys a predictive model through Epic, allowed Ochsner’s Rapid Response Team (RRT) to reduce adverse outside of the ICU, according to a press release.  The model is powered by Microsoft Azure.
+“Leveraging our machine learning platform and Azure, Epic’s team of data scientists, clinicians, and engineers are delivering important insights to Ochsner where it matters most – directly into workflows,” said Seth Hain, Director of Analytics and Machine Learning at Epic.
+“Whether it is saving lives through early detection of adverse events, saving money through accurate staffing models, or simply summarizing key aspects of a patient’s chart, Epic’s machine learning platform allows organizations to focus on outcomes, rather than administration. We’re proud to see Ochsner lead the way with the first implementation and look forward to others in the Epic community taking advantage of this functionality now available to all customers.”
+Ochsner will begin to roll out the platform across other clinical specialties to help target patient safety issues such as pressure ulcers and hospital acquired infections.  The health system and its technology partners all see significant potential for using artificial intelligence to solve these common but costly issues of quality and safety.
+“Cloud and AI technologies are helping health organizations around the world deliver better outcomes for patients,” said Joseph Sirosh, corporate vice president, Cloud AI Platform at Microsoft.
+“Microsoft Azure and AI technologies, working together with Epic, help deliver more proactive, precise care. We’re thrilled to work with Epic and Ochsner to make the health system a unique place to receive care.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsEpic SystemsMachine LearningPredictive Analytics
+
+

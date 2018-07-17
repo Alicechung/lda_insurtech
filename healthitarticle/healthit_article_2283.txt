@@ -1,0 +1,29 @@
+Three real use cases for healthcare analytics working today
+
+September 10, 2013
+
+By Kyle Murphy, PhD
+September 10, 2013 - Many in the healthcare industry from providers participating in forms of accountable care to vendors developing new EHR and health IT systems are optimistic that big data and analytics have tremendous potential for supporting healthcare reform which should in turn lead to higher-quality care at an improved cost. This belief, however, gives the impression that healthcare analytics isn’t already showing benefits for healthcare organizations, providers, and patients.
+It’s important that optimism for big data and analytics doesn’t get in the way of realistic adoption and use of healthcare analytics currently in place. Here’s a look at several examples of healthcare analytics already making or poised to make an impact on healthcare delivery:
+Quality improvement
+In Michigan, healthcare analytics company ArborMetrix is working with Michigan collaboratives to identify trends in clinical performance among general surgeons.
+Dig Deeper
+Project to Develop EHR Toolkit to Stem Readmissions
+EHR Sample Size Matters in Machine Learning, Predictive Analytics
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+“We have 54 hospitals where they have all their surgeons in general surgery that are giving us data electronically from their EMRs and cases — every episode that goes through their system comes to us — and in turn we rationalize the things about that episode that allows us to provide good benchmarking,” notes the company’s CEO Brett Furst.
+The opportunity and ability to aggregate, normalize, and analyze data is giving these providers the opportunity to identify which procedures or instruments lead to the right result and which do not. And considering the costs associated with surgical procedures and post-surgical complications, surgery represents one area of healthcare that can benefit in the more immediate future. “It’s still the majority expenditures, and I would submit to you that there are going to be more surgeries next year than this year just from demographics alone,” adds Furst.
+Medication non-adherence
+An estimated $290 billion is wasted annually by healthcare on medication non-adherence because it is tied to readmissions and other unnecessary services. Medication adherence plays an important role in EHNAC certification for providers with pharmacies and the HEDIS score of health insurers.
+Clifford Jones, CEO of Allazo Health specializing in predictive analytics for medication non-adherence, emphasizes that there’s a direct correlation between improving adherence and driving down future healthcare costs. “First of all, improving medication adherence helps reduce future healthcare costs because each diabetic patient that you get adherent to their medication who wasn’t saves a little under $4,000 per year in healthcare costs, which is a huge benefit,” he says.
+By targeting methods for patient interventions based on the characteristics of the patient, providers prevent conditions from becoming a problem to begin with.
+Admissions and readmissions
+Reducing readmissions is a cornerstone of the work on the part of the Centers for Medicare & Medicaid Services (CMS) to reduce healthcare costs. And it’s one measure that the agency is using to penalize healthcare organizations and providers for failing to address.
+The Frontier Medicine Better Health Partnership is working with the healthcare analytics company Vree Health to identify breakdowns during transitions of care and discharges that lead to preventable admissions and readmission down the road.
+“Continuity of care is truly built around those discharge care plans,” explains Christopher Ellis, Director at Vree Health. “If that care plan, that information and communication, is not appropriately disseminated to those individuals and if they not only lack the ability to get it but also aren’t committed and compliant with taking that information and utilizing it as the basis, then that’s where a lot of the issues initiate.”
+Another organization working with a healthcare analytics firm is Carolinas HealthCare System in Charlotte, NC, which has contracted with Predixion Software to assign risk scores to patients based on the likelihood of them having to return to the hospital.
+“We did a deal with them to implement predictive readmissions management,” says Simon Arkell, CEO of the company, “and what that means is that through their different data sources — clinical, claims data, pharmacy, etc. — you’ve got information coming in so that once a patient is admitted into a hospital they’re immediately given a risk of readmission score.”
+Putting useful information in the hands of clinicians, caregivers, and patients in the right format at the right time is the embodiment of preventive care.
+Tagged Applied AnalyticsBig Data AnalyticsClinical AnalyticsEHR AnalyticsHealthcare AnalyticsPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,24 @@
+Why do providers need to integrate analytics into the EHR?
+
+September 30, 2013
+
+By Kyle Murphy, PhD
+September 30, 2013 - How long will it take to get healthcare analytics solutions into the hands of healthcare organizations and providers? According to Keith Dunleavy, MD, President and CEO of Inovalon, it depends on the partnerships formed by stakeholders in the industry. The healthcare analytics firm recently entered into a strategic agreement with EHR vendor Allscripts to integrate its analytics platform into its EHR platform.
+“It’s a natural partnership for us to be working with Allscripts,” says Dunleavy. “The combination of our analytics and interconnection with that EMR system allows for us to better support their providers and the payers that work together with those providers.”
+While Allscripts is bringing a tremendous amount of providers to the table, Inovalon is bringing its data repository of close to seven billion medical events from as many as 92 billion unique individuals, information that comes from roughly a quarter of a million clinical facilities and half a million providers and touches roughly 120 million individuals in the United States. That’s a lot of petabytes.
+“This is a truly innovative combination of capabilities,” explains Dunleavy. “A quote I heard from a provider/hospital facility in New York through one of our clients was that they believe this kind of integration is five to ten years off and we were able to tell them, you will have it within five to ten months, if not sooner. So, it is something the market place has not seen yet.”
+Dig Deeper
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+According to Dunleavy, the ability to reduce that time to market has everything to do with infrastructure, in this case the open architecture in place at Allscripts which is enabling this combination of EHR systems and analytics services.
+“The open architecture, the cloud based nature of its characteristics, the interconnection with it a much more streamlined process — it’s easier for the provider to initiate this handpicking if you will and makes the time to impact a much shorter period of time,” he adds.
+This is in sharp contrast to the way analytics has been traditionally approached in healthcare:
+The issue at the end is the timeliness of access information and the timeliness of the analytical guidance and insights that systems can provide. Historically, systems require a lot of number crunching, which takes time and then getting the results of that number crunching to the right audiences for them to act upon it. This works the analytical outputs in near real-time right into the workflow so there isn’t this sequential process of different steps, but rather workflow seamlessness from day one.
+A simple look at what’s ahead for the healthcare industry reveals just how pressing and not far off is the need for them to have solutions to grapple with their data effectively as well as integrate data from other sources, such as information captured by payers:
+Today these providers are subjects to things like HEDIS, quality scores, the NCQA measurement system. They are subject to the downstream impacts of that through the start ratings, the GMS star ratings. And the individual state Medicaid programs, they are subject to very specific quality and outcomes and performance measurements in the commercial exchange which comes online obviously open enrollment in October with members online January 1, they are subject to a very strict focus on risk score accuracy as well as the importance of quality outcomes performance.
+A combination of a well-implemented analytics and cooperation with other stakeholders holds the key to success in this new era of care. In many ways, accountable care in the form of accountable care organizations (ACOs) or patient-centered medical homes (PCMHs) is a microcosm of a much larger taking place in healthcare and which requires a unique kind of approach.
+“All of these you are seeing get intertwined into unique agreements between the payer and the provider community, both inpatient and outpatient,” Dunleavy continues. “So these tool sets better enable for those providers to successfully participate in this program — be it ACOs, be it share risk model agreements, be it just large practice agreements.”
+Tagged Applied AnalyticsBig Data AnalyticsClinical AnalyticsEHR AnalyticsHealthcare Analytics
+
+

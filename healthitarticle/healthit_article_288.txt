@@ -1,0 +1,41 @@
+47% of IT Pros Say Their Executives are Big Data “Illiterate”
+
+November 20, 2017
+
+By Jennifer Bresnick
+November 20, 2017 - The healthcare industry may be in the midst of some of the biggest changes in its history, but close to half of executive leaders may not be entirely sure about the details of the digital revolution raging around them.
+According to a new poll from ISACA, a global non-profit offering IT governance leadership and resources, only 53 percent of surveyed IT professionals across multiple industries believe their board rooms have a firm grasp on big data analytics and data-driven business intelligence principles.
+Organizations with digitally literate leaders are more likely to report that technologies such as cloud computing, artificial intelligence, the Internet of Things, and blockchain are essential to succeeding in a competitive environment – and are also more likely to report that adoption decisions are made jointly between the C-suite and the IT department.
+Hands-on involvement from leadership is a key component of successful organizations, says ISACA CEO Matt Loeb.
+“To lead effectively, senior leaders have be able to articulate the vision for the future of their companies in the context of the technologies that will get them there,” he said.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+Forty-four percent of tech-savvy leaders frequently take a hands-on approach to evaluating new technologies, compared to just 14 percent of executives who do not consider themselves digitally literate.
+Overall, 31 percent of organizations habitually evaluate opportunities arising from emerging technologies, while 22 percent of respondents rarely seek out innovations or new products to add to their IT suites.
+Technically literate enterprises tend to undertake more pilot projects, which may lead to promising avenues of development that, in the healthcare industry, can increase care quality, reduce errors and patient safety concerns, guide population health management programs, and lower costs.
+Forty-six percent of digitally aware organizations are currently piloting big data analytics projects compared to just 35 percent of others.
+Source: ISACA
+Artificial intelligence and machine learning pilot programs showed a similar gap: 25 percent of tech-savvy organizations were experimenting with advanced algorithms, while just 15 percent of organizations with digitally illiterate leadership were doing the same.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+“Organizations with digitally literate leadership are more open to taking risks, more clearly see the benefits of emerging technologies, and are more likely to initiate pilots to thoroughly vet these technologies,” said Loeb.
+Resistance to emerging strategies is also much higher among enterprises with leaders who lag in technical knowledge.
+Fifty-nine percent of organizations without forward-thinking leadership are still anticipating resistance to strategies like putting data in the public cloud – due to the sensitive nature of patient data, healthcare respondents were among the most likely to feel averse to this technique.  
+Source: ISACA
+Thirty-eight percent of digitally illiterate enterprises are highly wary of blockchain, while a similar number remain leery of artificial intelligence and machine learning.
+“The resounding message from our research is clear: senior leadership needs to invest in increasing its digital fluency,” said Loeb. “Organizations with digitally fluent leadership are more clearly recognizing the benefits and risks of emerging technologies.”
+READ MORE: “Basic Science” of Healthcare Big Data Analytics Still Needs Work
+The survey mirrors many other recent industry polls that identify big data analytics as a major transformative force while stressing the important role of the skilled executive. 
+Thirty-eight percent of ISACA respondents said that big data analytics had the most potential to deliver transformational value to their market segments – a sentiment already firmly established among healthcare providers, payers, and developers.
+Healthcare organizations have largely embraced the idea that integrating clinical, financial, operational, and patient-generated data is the key to developing actionable insights into cost-cutting efforts and quality improvement programs, even if providers tend to struggle with putting those beliefs into action.
+A recent Teradata poll found that 96 percent of business leaders are certain that big data is critical to their future success, but big data analytics is still the Achilles’ heel of many. 
+Just 60 percent are satisfied with the way they handle their data assets, and nearly half are struggling to secure the talent required to turn data into meaningful action.
+As far back as 2015, healthcare organizations were actively seeking out board room denizens with quality analytics skills, says a Black Book poll from October of that year.  Eighty percent of hospitals participating in the survey said that analytics skills were more important than clinical experience for top leaders. 
+Clinical leadership roles, such as Chief Nursing Officers and Chief Medical Officers, expected both a rich background in healthcare and the ability to actively participate in vendor selection, informatics, and data governance decision-making.
+Finding highly trained executives with these skillsets still isn’t easy, and the underlying uncertainty over fundamental analytics competencies may be why fewer organizations in the ISACA survey are pinning their success to advanced artificial intelligence and machine learning.  Just 20 percent of respondents said that AI will be their top driver of transformation in the next few years.
+Source: ISACA
+Even fewer saw a major role for the Internet of Things (14 percent) or blockchain (7 percent), both of which require a fundamental rewrite of an organization’s vision for how data is generated, shared, stored, and analyzed.
+Overall, the survey reveals an ongoing need for executives to take an active role in the IT development of their organizations.
+“The key lesson learned from the ISACA’s 2017 Digital Transformation Barometer is that there is a direct correlation between the digital literacy of an organization’s leadership and that organization’s overall appetite to examine, test and implement new emerging technologies,” the report concluded.
+“Digitally literate leadership is vital for any organization to succeed in its digital transformation journey. And that transformation, increasingly, is essential when it comes to responding to the challenges and opportunities in our fast-changing world.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareHealthcare Business IntelligenceHealthcare Executives
+
+

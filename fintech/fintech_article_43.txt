@@ -1,0 +1,21 @@
+Yandex.Checkout extends its cybersecurity system opening it for all businesses
+
+June 30, 2018
+
+Yandex.Checkout is introducing a multipurpose fraud and scam protection product for all businesses – FraudDetector. It detects both behavioural and payment fraud, scam attempts, and abnormal patterns.
+
+ Initially, FraudDetector was used as an internal system to protect 90,000 Yandex.Checkout partners from payment fraud while reducing their financial risks and maintaining payment conversion. The same system was then extended to 35 million Yandex.Money users, protecting them against wallet scams, account hacks, and theft. Now this service is widely available, with no installation or investment in IT infrastructure required.
+
+ FraudDetector can be applied to different business sectors, including e-commerce platforms, online games, payment and financial services, telcos, e-travel, logistics and subscription services, among others. It is based on big data collected by Yandex and powered by its machine learning algorithms, with unique fingerprints for each user. The program automatically analyses risks and detects fraudulent behaviour and suspicious patterns, and assigns a FraudDetector score to help users take action. FraudDetector was designed to customise the learning process, triggering to monitor specific scenarios relevant to individual businesses. It is capable of detecting everything, from in-game currency theft and loyalty program account hacks to taxi ride scams.
+
+ In one of these cases, FraudDetector caught users taking unfair advantage of a bonus program. These users were creating fake accounts with disposable payment cards to get first-purchase bonuses. In another case, FraudDetector reduced stolen card fraud on an airline aggregation platform by dividing its customers into tiered risk groups, each with a customised authentication process.
+
+ Yulia Gorelova, Head of Payment Business at Yandex.Checkout, says: “Online business in Russia is rapidly evolving, while simultaneously becoming more vulnerable to fraudsters. FraudDetector has been successful in protecting a considerable number of Yandex’s users and partners. Now that we have opened up the platform, anyone can leverage FraudDetector to prevent online fraud, scams, or hacks in all their different forms, and we can adjust the product to meet the demands of any business, in any sector.”
+
+ About Yandex.Chekout
+
+ Yandex.Checkout is a service for accepting online payments in Russia. Yandex.Checkout received the Emerging Payment Award at the Merchant Payments Ecosystem conference (Berlin) in 2017. With this payment solution, merchants from all over the world can offer Russian consumers the online payment methods most popular among Russians and CIS-citizens: bank cards, e-wallets, mobile phones, cash via mobile retailers and payment kiosks (there are over 250 thousand cash-acceptance points all over CIS). Currently, more than 90,000 online stores across the globe use Yandex.Checkout.
+
+ Yandex.Checkout was launched by Yandex.Money in 2013. Yandex.Money is the joint venture of search engine Yandex (NASDAQ: YNDX), and Sberbank, the largest bank in Russia. Yandex.Money also offers consumers easy, safe, and reliable methods of paying online on its own site and mobile app. The service hosts about 35 million user accounts.
+
+

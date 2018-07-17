@@ -1,0 +1,29 @@
+ONC Offers $80K for Tools to Improve EHR Reporting for Patient Safety
+
+May 31, 2018
+
+By Jessica Kent
+May 31, 2018 - ONC is offering $80,000 in prize money to developers who can create a simple, intuitive method for reporting patient safety concerns through the electronic health record.  
+“Reporting on the safe use of health IT – especially the use of EHRs – continues to be a challenge to many healthcare providers,” Andrew Gettinger, MD, wrote in a blog post announcing the Easy EHR Issue Reporting Challenge.
+“Stakeholder feedback – and our own experiences – show that there is a need for more efficient and user-friendly mechanisms that allow EHR end users to report concerns quickly and easily, with little or no disruption to their workflow.”
+Dig Deeper
+ONC Updates EHR Usability, Health IT Patient Safety Guides
+Patient Matching, Health IT Standards Critical for Interoperability
+How Big Data Velocity Informs Population Health, Patient Safety
+Health IT adoption has increased significantly, and clinicians have come to rely on these systems to retrieve patient information, assist with complex decisions, and improve care quality and efficiency.
+However, health IT systems can also bring usability risks and challenges that can be detrimental to care quality. EHR usability and ease-of-reporting concerns remain prevalent among clinicians.
+“The vast majority of EHRs currently in use in physician offices and hospitals require the end user to either log out of the EHR system entirely or leave the current workflow process to report a problem, Gettinger said.
+“Some EHRs even include a separate error reporting module, but others require the end user to fill out a report through a totally separate mechanism.”
+These burdens are so disruptive to clinical workflows that many users simply avoid reporting errors altogether.
+“We as an industry have less data about potential health IT safety issues and are ill equipped to determine root causes, provide feedback to EHR developers, and produce best practice guidance,” Gettinger said.
+To alleviate this problem, ONC is asking software developers to produce an application that will integrate with an EHR’s workflow and minimize the time and effort needed to create a report.
+Additionally, the new application should allow the clinician practice, hospital, or end user to choose the parties to whom it reports.  It must also be EHR platform-agnostic.
+ONC expects that the development of this kind of application will allow providers to quickly report a problem and improve the use of health IT.
+“The goal of ONC’s Easy EHR Issue Reporting Challenge is to help EHR users identify, document, and report a potential health IT safety issue when it happens,” Gettinger wrote.
+The Easy EHR Issue Reporting Challenge adds to ONC’s ongoing efforts to promote health IT safety.
+ONC released the Safety Assurance Factors for EHR Resilience (SAFER) Guides to allow healthcare organizations and EHR developers to address EHR safety for all users in a variety of areas, including infrastructure and clinical processes.
+ONC is asking that Easy EHR Issue Reporting Challenge submitters perform user testing or co-design the device with end users, preferably a mix of physicians, nurses, and other clinicians. Submitters must also report on direct feedback received during the development of the application.
+Submissions are due Monday, October 15, 2018.
+Tagged Clinical workflowsEHR ChallengesEHR UsabilityHealth IT UsePatient SafetyPhysician EHR Use
+
+

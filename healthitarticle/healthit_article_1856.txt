@@ -1,0 +1,12 @@
+Mayo Clinic latest to leverage IBM Watson’s data analytics
+
+September 09, 2014
+
+By Jennifer Bresnick
+September 09, 2014 - The Mayo Clinic is the latest healthcare epicenter to enlist Watson for some heavy lifting when it comes to data analytics and medical research.  Watson will help Mayo fill up its clinical trials more quickly by improving the patient matching process to identify candidates for studies on rare diseases, starting with oncology projects.
+“In an area like cancer, where time is of the essence, the speed and accuracy that Watson offers will allow us to develop an individualized treatment plan more efficiently so we can deliver exactly the care that the patient needs,” said Steven Alberts, MD, chair of medical oncology at Mayo Clinic during the Transform 2014 Symposium, CIO reports.
+“If you have cancer, what you really want to do is get into a clinical trial,” Steve Gold, Vice President of the IBM Watson Group, told EHRintelligence in March.  “You don’t want conventional treatment.  But getting matched to a clinical trial is really hard.  Much harder than I ever envisioned.  Turns out, Watson’s really good at finding needles in haystack patterns, and it’s been very effective for patient matching.”
+Watson has had a bustling career after its breakout debut as a Jeopardy! champion, turning its attention to clinical decision support for heart disease, medical school training, and powering several big data offerings from IBM.  The supercomputer may also play a role in the Pentagon’s EHR and health IT transformation as IBM partners with Epic Systems to bid for an $11 billion modernization contract.
+Tagged Applied AnalyticsBig DataMedical Research
+
+

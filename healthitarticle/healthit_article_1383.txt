@@ -1,0 +1,21 @@
+EHR Predictive Analytics Flag 32% of Nursing Home Patient Falls
+
+June 26, 2015
+
+By Jennifer Bresnick
+June 26, 2015 - Incorporating EHR data into predictive analytics algorithms increases the accuracy of identifying patients at high risk of harmful falls, according to a study published this month in the Journal of the American Medical Informatics Association (JAMIA).  Adding frequently updated EHR data to CMS’ standardized Minimum Data Set (MDS) for nursing home patients increased the accuracy of a predictive analytics algorithm by more than ten percent, researchers said, making it easier to reduce or prevent the costs and impacts of falls among elderly patients.
+Falls are the most frequently reported adverse event experienced by nursing home patients, the study says, with rates as high as 3.6 falls per bed per year in some care facilities.  The direct expenses related to falls, which can produce long-term disability, reduced functioning, and complications from necessary treatments, can total more than $7300 for a non-fatal event.  This makes fall prevention both a quality of care and revenue cycle management issue that big data and predictive analytics may be able to mitigate.
+While the CMS Minimum Data Set, an event-based assessment for nursing homes, does collect information that can be used to flag patients at high risk for falls, the data contains certain gaps that may not account for all important factors, write the researchers from AHRQ and Abt Associates. 
+The MDS does not include information on events like the addition of many new medications to a prescription regimen or a change in location that could disorient a patient.  Data is collected relatively infrequently and certainly not in real-time, which leaves providers without the ability to accurately assess a patient’s ongoing risk.
+Dig Deeper
+Duke Health Achieves Stage 7 Maturity Score from HIMSS Analytics
+Healthcare Business Intelligence, Big Data Tools Spark Investment
+How Big Data Analytics Underpins Every Healthcare Trend
+“These studies identify resident fall risk factors at a baseline, and use those baseline risk factors to estimate likelihood of a fall during a subsequent follow-up period. None of these studies consider a time-variant risk profile as risk factors change over time,” the authors point out. “MDS data are intended to be used for resident care planning, Medicare and Medicaid payment, and for ongoing monitoring and quality improvement purposes,” not for predictive analytics, the study adds.
+EHRs, however, can supplement this data set by adding regularly updated clinical information to the mix.  After sorting patients into risk deciles, a predictive analytics algorithm using only MDS data was able to confirm that 28.6 percent of observed falls involved patients in the highest ten percent of risk.  When EHR data was incorporated into the model, the algorithm improved its accuracy by 13 percent, refining the top decile to include 32.2 percent of observed falls. 
+The researchers attribute the higher success rate “almost entirely” to the fact that EHR data is updated more frequently than the Minimum Data Set, not necessarily to the inclusion of additional data elements.
+“This study provides useful evidence on potential applications of EMR data for quality improvement,” the authors write. “Because falls are so frequent and so costly, a back-of-the-envelope computation implies that even small improvements in identification of high-risk residents may result in large potential cost savings.
+“If the program were 100% successful in preventing falls among targeted high-risk residents, assuming a direct cost per fall of $7307, incorporation of EMR data into risk-prediction procedures would then result in prevention of 6 additional falls, translating into $43 842 in cost savings per year,” the study calculates. “Even if the program prevented only one-third of falls among the high-risk cohort, annual cost savings would be $14 614. Particularly in nursing homes that have already adopted EMR systems, it seems likely that cost savings of this magnitude would readily justify the additional incremental cost of incorporating EMR information into targeted clinical decision support systems.”
+Tagged Analytics InfrastructureBig Data AnalyticsPredictive AnalyticsQuality Of Care
+
+

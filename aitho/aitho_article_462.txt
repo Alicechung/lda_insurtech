@@ -1,0 +1,21 @@
+DMI And Information Builders Deliver IoT Accelerators For Asset Tracking, Fleet Management, And Predictive Maintenance
+
+25 May 2018
+
+Fuel Management Solutions Provider Veeder-Root Taps Into Companies’ IoT and Analytics Offering to Boost Predictive Capabilities
+DMI, a global IT services leader and pioneer in connected solutions, and Information Builders, a leader in business intelligence (BI), analytics, and data management solutions, announced today three pre-built IoT Accelerators. The new offerings, which provide pre-configured analytical capabilities for Asset Tracking, Fleet Management, and Predictive Maintenance, will give organizations, such as Veeder-Root, an unprecedented ability to speed time-to-value for critical business initiatives.
+DMI provides connected solutions that bridge the gap between business and technology. The company brings together the design thinking of a digital agency with the lean-agile delivery of a modern IT services partner to deliver comprehensive mobile-first solutions for the connected world. A pioneer in connected car solutions, DMI has more than 15 years of experience leveraging real-time sensor data to support new business models, customer experience, and operational efficiencies. DMI has translated this proven expertise into the development of three pre-configured IoT Accelerators, built on top of Information Builders’ WebFOCUS BI and analytics platform.
+Information Builders provides organizations with the advanced analytics capabilities they need to process structured and unstructured (Internet of Things) IoT data, and make it actionable. WebFOCUS is also the industry’s most scalable BI and analytics platform and has received industry recognition for its ability to manage high volumes of data without impacting processing speed – a characteristic critical to supporting investments in IoT and other emerging data sources.
+Designed in close collaboration by the companies, the IoT Accelerators are pre-configured for Asset Tracking, Fleet Management, and Predictive Maintenance use cases.
+Accelerator for Asset Tracking – This Accelerator provides organizations with real-time asset location and tracking, featuring the ability to define a geo-fence and receive custom notifications and alerts for better asset utilization
+Accelerator for Fleet Management – Organizations can employ this offering to optimize fleet routes and condition-based maintenance to improve fuel economy, minimize unplanned stops, and reduce accidents across their fleets
+Accelerator for Predictive Maintenance – With this Accelerator, organizations can predict maintenance in advance, detect anomalies, and advise on the remaining useful life of an asset to reduce downtime, maintenance costs, and improve efficiency
+DMI and Information Builders officially unveiled these Accelerators at Information Builders’ annual Summit User Conference today.
+Erin Childress, director of Software Engineering at Veeder-Root, said:
+“Throughout our rich history of manufacturing computing devices, we have continually helped our customers improve their products and processes by providing critical information when it’s needed most. The IoT Accelerators from DMI and Information Builders improve the ease and speed at which we can integrate IoT data into our existing business models.”
+Jay Sunny Bajaj, founder and CEO of DMI, said:
+“Running IoT solutions in production requires analytics and data management to be running at an incredible scale. Together, with Information Builders’ platform and our expertise in engineering IoT solutions, we can deliver on these requirements to give businesses greater connectivity and insight into physical assets and operations while enabling the development of new digital product offerings and improving customer experiences.”
+Frank J. Vella, chief operating officer, Information Builders, said: 
+“IoT is beginning to have a profound impact on the supply-chain and logistics sector, but many organizations are grappling with the complexity of IoT technologies. Information Builders and DMI are helping to alleviate that burden. The new IoT Accelerators give executives, operations, and front-line personnel the ability to immediately derive answers and analysis to critical questions that can transform supply-chain management and ultimately, revolutionize their businesses.”
+
+

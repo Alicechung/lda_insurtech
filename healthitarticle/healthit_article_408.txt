@@ -1,0 +1,61 @@
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+
+July 17, 2017
+
+By Jennifer Bresnick
+July 17, 2017 - The healthcare industry is known for its overreliance on snappy-sounding buzzwords – and perhaps even more infamous for ever-so-slightly misusing them. 
+In the clinical environment, the correct interpretation of tiny subtleties could be the difference between life and death for vulnerable patients.
+But there is still a concerning amount of confusion over what, exactly, some of the most common technology terms really mean.
+Whether it’s EMR versus EHR or machine learning against artificial intelligence, the differences may be small in many cases, but the semantics do matter for more than just grammatical pedantry. 
+Healthcare organizations are wading deeper into the big data analytics and clinical decision support environments to support population health management and value-based care.
+READ MORE: Understanding the Many V’s of Healthcare Big Data Analytics
+As they do so, they should be aware of what vendors are saying when they use one term or another to describe their offerings, or whether the resumes of potential hires truly meet the right needs.
+The search for truly actionable data-driven intelligence continues with defining the difference between two very similar terms: data mining and data analytics. 
+WHAT IS DATA MINING?
+At first blush, the term “data mining” sounds like it should mean “the act of finding and extracting data from disparate systems” in the same way that coal, gold, or diamonds are found and extracted from the earth.
+But data mining may actually presume that the data extraction step, if not necessarily the cleaning and normalization of the information, is already complete. 
+Data scientists or informaticists must already have access to a relevant and meaningful dataset – even if it is large and messy – in order to begin mining it.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+Knowledge discovery in data (KDD), an alternate phrase sometimes used interchangeably with data mining, reinforces the notion that some sort of data dataset must already present and accessible before any processing of the information begins with the ultimate goal of creating a new insight.
+Knowledge discovery in data, as defined by the American Association for Artificial Intelligence in 1996, places the specific act of data mining somewhere in the middle of the data processing cycle, after selection, cleaning, and normalization but before interpretation, evaluation, and subsequent refinement of the original query or model, if required.
+The life cycle of big data in healthcare
+Source: Xtelligent Media
+Instead of referring exclusively to the initial data gathering, data mining is better defined as the act of using automated tools to discover patterns within large datasets. 
+These patterns can then be used to frame queries digging deeper into why and how those patterns occur, what they mean in relation to a particular use case or decision-making need.  Mining, in this case, refers to the process of looking for seams of meaning, not precious metals, in an otherwise uninteresting data landscape.
+“Data mining is accomplished by building models,” explains Oracle on its website. “A model uses an algorithm to act on a set of data. The notion of automatic discovery refers to the execution of data mining models.”
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“Data mining methods are suitable for large data sets and can be more readily automated. In fact, data mining algorithms often require large data sets for the creation of quality models.”
+The emphasis on big data – not just the volume of data but also its complexity – is a key feature of data mining focused on identifying patterns, agrees Microsoft.
+“Data mining uses mathematical analysis to derive patterns and trends that exist in data. Typically, these patterns cannot be discovered by traditional data exploration because the relationships are too complex or because there is too much data,” the company says.
+The healthcare industry is overflowing with examples of how mathematical and statistical data mining is required to address pressing business cases in the clinical, financial, and operational environments.  Some of these uses cases include:
+Identifying unnecessary utilization of high-cost services such as imaging tests or emergency department use
+Understanding patient flow through a clinic or call volume to an after-hours nursing hotline
+Tracking the prescription rate of a certain opioid by provider
+Tallying the number of patients in a given population with a diabetes diagnosis
+Measuring provider performance on a given process measure, such as delivering colonoscopies or influenza vaccinations
+Data mining is becoming more closely identified with machine learning, since both prioritize the identification of patterns within complex data sets.  Machine learning is one technique used to perform data mining.  
+SO WHAT MAKES DATA ANALYTICS DIFFERENT?
+The definition of data analytics, at least in relation to data mining, is murky at best.  A quick web search reveals thousands of opinions, each with substantive differences.
+On one hand, data analytics could include the entire lifecycle of data, from aggregation to result, of which data mining is a small part.
+On the other, both data analytics and data mining could be considered the process of bringing data from raw state to result, with the main difference being that data mining takes a statistical approach to identifying patterns while data analytics is more broadly focused on generating intelligence geared towards solving business problems.
+But perhaps the most valuable distinction is between what is known and not known.  Data mining is about the discovery of patterns previously undetected in a given dataset. 
+Once those patterns are discovered, they can be compared to other patterns in order to generate an insight.  That is big data analytics.
+For example, a hospital may use data mining techniques to learn that Dr. Walker prescribes an average of 30 antibiotics every day, and has stayed at that steady rate for six months. 
+But unless the organization also knows that his colleagues only prescribe an average of 20 antibiotics each day for a similar number of patients with similar complexity, complaints, and age, the initial pattern of Dr. Walker’s prescription habits is not a very meaningful piece of information, even if it was not known before.
+Is Dr. Walker overusing antibiotics, or are his peers being too stingy?  Are the providers achieving similar outcomes, or is one strategy correlated with more rapid recoveries, fewer complications, and lower costs?
+Whichever is the case, the organization has now equipped itself with the facts required to support a specific change that will ensure its patients can receive the optimal level of care.
+Data mining and big data analytics combine for business intelligence
+Source: Xtelligent Media
+Both the process of mining for Dr. Walker’s prescription rates and the process of analyzing that piece of information in comparison with other identified patterns can contribute to the ability to make a decision.  With the addition of analyzing big data, the organization has created business intelligence. 
+The use cases for big data analytics in healthcare are nearly limitless, and build very quickly off of the patterns identified by data mining, such as:
+Developing a patient risk score by matching abnormally high utilization rates against medical complexity and socioeconomic factors
+Providing early warning for severe sepsis by predicting sudden downturns due to changes in multiple real-time vital signs
+Reducing supply chain inefficiencies by correlating expiration dates with utilization rates of high-cost drugs and therapies
+Ensuring proper staffing for busy departments or offices by comparing patient flow to clinician productivity rates
+Data analytics and data mining are equally critical competencies for business intelligence, and neither can exist without the other. 
+Whether they are two halves of a single process or two similar ways to describe the same activities, both work to inform organizations of concrete, meaningful steps they can take to change a specific facet of their activities.
+As the healthcare industry moves deeper into value-based care, organizations must utilize these strategies to improve transparency into their business and clinical processes. 
+While the challenges of data mining and analytics are many, organizations that successfully leverage big data for to improve quality, cost, and outcomes will gain an edge on their peers in a highly competitive environment with low margins for error.
+Tagged Analytics InfrastructureClinical AnalyticsHealth Information ManagementHealthcare Business IntelligenceHealthcare DefinitionsMachine Learning
+
+

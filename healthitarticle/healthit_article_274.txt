@@ -1,0 +1,25 @@
+ONC, NIH Pilot Adds Genomic Data Specifications to HL7 FHIR
+
+December 04, 2017
+
+By Jennifer Bresnick
+December 04, 2017 - HL7 FHIR is getting a precision medicine upgrade thanks to a partnership between the ONC and National Institutes of Health.  The Sync for Genes pilot program plans to support the integration of genomics into big data analytics and patient care by adding clinical genomics specifications to the latest iteration of FHIR.
+“Rapid advances in the genomics field and the lack of standardized approaches to data collection, coding, and exchange have resulted in incompatible infrastructures and nomenclatures,” wrote ONC Chief Scientist Teresa Zayas Caban, Public Health Analyst Tracy Okubo, PMP, and Health Scientist Administrator Kevin Chaney, MGS, in an ONC blog post. 
+“A standards-based approach was needed to ensure that genetic data is interoperable among health information technology (health IT) systems and can be integrated easily with other clinical information.”
+Dig Deeper
+Interest in Genetic Testing Brings Precision Medicine Challenges
+FHIR Can Move Genomics from Prediction to Precision Medicine
+NIH, Pharma Orgs Launch $215M Precision Medicine, Cancer Project
+The Sync for Genes initiative will help bridge the gaps by enabling the sharing of genomic data from next-generation sequencing (NGS) labs with researchers, healthcare providers, and patients through FHIR-based applications.
+“Five pilot sites, including representation from laboratories, providers, government, health IT developers, patients, and academia, participated in the testing and validation of the FHIR resources, through the Sync for Genes pilot program’s efforts,” the authors added.
+Pilots took place at Intermountain Healthcare, Vanderbilt Medical Center, the National Marrow Donor Program, Illumina, and the FDA.
+“In addition to testing the FHIR resources, the pilot programs covered core scenarios highlighted as important next steps in establishing the role of health IT in clinical genomics innovation.”
+“Different pilot programs focused on specific technical implementations of FHIR, and work was done to map from their internal formats to FHIR resources. All pilot programs successfully created functioning FHIR-conformant code for their use cases, a huge accomplishment and important step forward.”
+Researchers and developers working with the All of Us Research Program, the patient data collection effort within the national Precision Medicine Initiative, will continue to align genomic data with tools that can be used at the point of care.
+“The updated clinical genomics resources and profiles from HL7 FHIR, along with the program results, are important steps towards enabling genomic data from next generation sequencing (NGS) laboratories to be shared in a consistent and interoperable manner with researchers, providers, and patients,” said Zayas Caban, Okubo, and Chaney.
+“Based on the advances made by the Sync for Genes pilot programs, ONC, in partnership with NIH, will continue this important work to help advance genomics standardization in FHIR in a second phase of this project.”
+The second phase of the collaboration will focus on continuing to integrate genomic and clinical data in a standardized, effective manner, the blog post concluded.
+“ONC looks forward to continue its role as a coordinator to advance the underlying standards necessary to support precision medicine and All of Us Research Program.”
+Tagged FHIRGenomicsMedical ResearchONCPrecision MedicinePrecision Medicine Initiative
+
+

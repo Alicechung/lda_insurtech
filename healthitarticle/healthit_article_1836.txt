@@ -1,0 +1,18 @@
+Small providers can achieve engagement through patient portals
+
+September 19, 2014
+
+By Jennifer Bresnick
+September 19, 2014 - Patient engagement isn’t just a key feature of Stage 2 meaningful use: it’s a crucial piece of population health management, chronic disease care, care coordination, and healthy decision-making for patients who are increasingly being required to take on the burden of self-care.  While the 5% patient engagement threshold embedded in meaningful use is alternately seen as completely attainable and a total stretch, new research from the Annals of Family Medicine comes down on the positive side, claiming that even small or medium-sized providers have the potential to meet online engagement goals.
+Researchers examined patient data from eight small primary care practices for three years from 2010 to 2013 and found a steady increase in the number of patients who signed up for a patient portal account on a month-by-month basis.  Signups increased by 1% per month during the length of the study, and users logged on to their portal accounts 3.7 times on average over the study period.  In the eight practices, patient engagement rates ranged from 22.1 percent to 27.9 percent, well above the Stage 2 requirement, even though it took an average of 59.5 days after the initial office visit for patients to make portal accounts.
+Providers who adopted a team-based approach to notifying patients of their online access options saw the highest levels of success in the trial, while uptake levels dipped as soon as providers refocused their efforts on other health IT initiatives.  “In general, interactive preventative health record (IPHR) uptake was lower among smaller practices and practices that relied primarily on clinicians to notify patients about the IPHR, that sent IPHR clinical summaries to the clinician rather than medical records or nursing staff, and that did not use the IPHR to inform patients of laboratory results,” the study explains.
+Dig Deeper
+Using Risk Scores, Stratification for Population Health Management
+CIOs Focus on EHR Optimization for Population Health, Analytics
+AMIA: Consider Broadband Access a Social Determinant of Health
+While older patients are generally seen as averse to new technologies and uncomfortable with internet-based tasks, the study found that senior citizens were actually the most likely to log in.  One in three seniors used the portal compared to just 20% of patients aged 18 to 39.  Interestingly, clinician comfort with the portal technology was a significant predictor of patient uptake.  Older clinicians and those who did not describe themselves as “early adopters” were less likely to recommend the online tool to their patients.
+“Small to medium-sized primary care practices can effectively engage patients to use patient portals such as the IPHR by integrating promotion into routine care,” the study concludes. “This approach appears to be more effective than mailing invitations and to match the results of more elaborate promotion efforts by large integrated health systems.”
+“Decisions made at the practice level appear to explain inflection points in uptake, underscoring the importance of system and workflow redesign. The steady growth in uptake of this resource argues for further investigation of its capacity to promote preventive care and engage patients in self-care outside the practice.”
+Tagged Accountable CarePatient EngagementPopulation Health Management
+
+

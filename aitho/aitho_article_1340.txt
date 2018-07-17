@@ -1,0 +1,16 @@
+TouchPal Introduces The World’s First AI Keyboard At The Mobile World Congress 2018
+
+28 Feb 2018
+
+The TouchPal AI Keyboard is The First Keyboard To Combine An Artificial Intelligence Engine and a Personal Assistant
+TouchPal, one of the MWC award winners, today announced the release of the world’s first AI keyboard app at the Mobile World Congress 2018. The TouchPal AI Keyboard is the first keyboard to combine an artificial intelligence engine and a personal assistant. With this innovation, the AI keyboard will understand context and scenarios of the users’ conversation to offer best input experience through AI technology.
+“We’re extremely excited to release our AI Keyboard!” said Qiaoling (Susan) Li, TouchPal’s Chief Marketing Officer. “With the latest AI technology, our keyboard will offer users a completely new experience when communicating with others.”
+Traditional virtual keyboards relied on the n-gram language model to predict next words based on a limited number of preceding words. Generally, predictions did not make sense with the sentence as a whole.
+The new AI engine uses the Neural Language Model (NLM) to analyze more words previously used to understand the semantic relationship between words.
+Based on the state-of-the-art AI technology, TouchPal’s AI assistant, named Talia, has gone through deep-learning over a hundred million language patterns to understand the meaning within conversations. Talia is not activated manually through voice command, rather she will activate herself under certain scenarios. Talia also doesn’t need to be asked questions since she will perceive questions and provide answers based on the context. For example, if dinner plans are being discussed in a conversation, Talia will automatically provide dining recommendations based on the conversation.
+In addition, Talia is also equipped to offer swift paste, GIF predictions, weather forecast, currency conversion and calculations.
+By helping users interact with their smartphones more efficiently, the affiliated Talia has made the TouchPal Keyboard the world’s first AI keyboard and will soon be available for download on Google Play.
+TouchPal was founded on the principle of improving the usability of mobile devices for everyone through innovative software and AI technology. TouchPal was the winner of the Global Innovation Mobile Award at the MWC 2009 and is rated the No.1 keyboard in product-user experience and number of users. TouchPal has also launched a series of popular apps for fitness, eye protection, hydration assistance and VoIP calling.
+ 
+
+

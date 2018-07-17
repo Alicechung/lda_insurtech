@@ -1,0 +1,25 @@
+Can Healthcare Use Google Trends for Big Data Analytics?
+
+October 29, 2014
+
+By Jennifer Bresnick
+In order to harness big data effectively for population health research, studies must better document their search results in tools like Google Trends.
+October 29, 2014 - Google is the ultimate name in big data analytics, with billions of searches performed each and every day, so it comes as no surprise that healthcare organizations may be interested in harnessing this monumental source of data for their own population health management purposes.  When providers can understand what patients are looking for and how they are treating themselves at home with the help of questionable internet know-how, they can help guide behaviors and provide better guidance.
+A new study in PLOSONE indicates that Google Trends data may help providers with population health research, but better documentation and transparency is required before it can be a truly effective tool.
+“New tools are emerging to facilitate health care research in the Big Data era,” write the authors of the study. “One form of Big Data is that which accumulates in the course of Internet search activities. Internet search data may provide valuable insights into patterns of disease and population behavior.”  Google data has previously been used to track influenza outbreaks, and a recent New York Times report examined search data as a means of identifying population health disparities by correlating search topics with socioeconomic data.
+Google Trends is a free tool provided by the search engine giant that allows users to browse popular search topics and manipulate data to produce tailored insights.  The researchers conducted a review of academic studies based on Google Trends data, finding seventy papers that used the information for surveillance, description, or casual inference.  Thirty-four percent of the studies used Trends information for surveillance, 92% of which were also validated against a standardized reference data source.
+Dig Deeper
+Population Health Management, Big Data Markets Set to Grow
+HHS Doles Out $87M to Promote Health IT, Analytics Adoption
+Finding the Value in the IoT, Patient-Generated Health Data
+While 67% of the articles overall provided some details on how the authors generated their data from Google Trends, the researchers found that the results were reproducible only 7% of the time.  The original authors did not, on the whole, provide enough information on their Google search methods to allow for subsequent researchers to produce the same results in their “methods” sections.
+“Different selections of terms to address a common question with Google Trends can produce disparate results and conclusions, and providing the rationale behind these selections is necessary for a reader to better understand the study methods and to increase the face validity of the study,” the authors said.  Yet, studies often provided no rationale for their search input.”
+In order to increase the level of reliability for reproducing Google Trends searches and validating results, the authors created a checklist for future researchers:
+• Include search variables such as the dates when Google Trends was accessed, when the data was retrieved, and which query categories were used for the search
+• Provide full search inputs used for the query, along with documentation on the syntax of search terms and any notations, such as quotation marks, used to modify results
+• Provide the rationale behind the choice of search input and the variables chosen to specify the search results
+“Google Trends holds potential as a free, easily accessible means to access large population search data to derive meaningful insights about population behavior and its link to health and health care,” the study concludes. “However, to be reliably utilized as a research tool, it would have to be more transparent, which will increase the trustworthiness of both the results generated and its general applicability for health care research.”
+“Furthermore, researchers must make efforts to clearly state their rationale and document their experiments to ensure the reproducibility of results. The lessons gleaned from this review are also instructive for other tools not intrinsically designed for research that may emerge in an era of Big Data to ensure that they are used appropriately by the scientific community.”
+Tagged Big DataPopulation Health Management
+
+

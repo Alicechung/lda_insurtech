@@ -1,0 +1,30 @@
+EHR Analytics Advance Population Health Management of the Flu
+
+May 12, 2016
+
+By Jacqueline LaPointe
+May 12, 2016 - Many healthcare providers and researchers often wonder how to leverage large volumes of big data to improve population health management programs, such as flu surveillance initiatives.
+A recent study published in Scientific Reports found that population health scientists can use EHR analytics in conjunction with historical influenza datasets to develop systems for monitoring influenza-like illnesses in real-time.
+Researchers developed the AutoRegressive Electronic Health Record Support vector machine (ARES), which uses EHR and predictive analytics to identify peak weeks for the flu.
+ARES was able to accurately pinpoint the timeframe and severity of national peak weeks for the three total flu seasons that were studied. The program was also able to correctly predict at least two peak flu weeks for six out of the 10 regions in the study.
+Dig Deeper
+Project to Develop EHR Toolkit to Stem Readmissions
+How Big Data Analytics Underpins Every Healthcare Trend
+Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+“Accurate real-time monitoring systems of influenza outbreaks help public health officials make informed decisions that may help save lives,” explained the authors of the study. “We show that information extracted from cloud-based electronic health records databases, in combination with machine learning techniques and historical epidemiological information, have the potential to accurately and reliably provide near real-time regional estimates of flu outbreaks in the United States.”
+While most people expect to get the flu at least once a season, about 50,000 individuals die from influenza-like illnesses each year. It is considered a leading cause of death in the US.
+The Centers for Disease Control and Prevention has developed an influenza surveillance system, which collects data from reports on patients who have sought medical attention for influenza-like illnesses. However, there can be a one to two week lag in processing the information and translating it into actionable measures for population health management.
+Other healthcare stakeholders have attempted to create programs that can use real-time information to predict clinical outcomes for influenza-like illnesses. For example, Google established the Google Flu Trends, a web-based disease detection tool that used an individual’s Internet search habits to determine if they might be suffering from the flu.
+Researchers acknowledged that many of the population health management tools for the flu lacked comprehensive data to accurately estimate flu season. Without an accurate and reliable real-time surveillance system, healthcare providers have found it challenging to transform information into measures that can improve patient outcomes for one of the nation’s leading killers.
+Through the study, researchers developed a monitoring system that gathered data from athenahealth’s cloud-based EHR system. The EHR data included how many patients visited a practice between June 2009 and October 2015 for the flu, a flu vaccine, an influenza-like illness, or an unspecified viral infection.
+Using predictive analytics, ARES accurately estimated peak weeks for the flu with 0.148% error on the national level, and an average 0.445% error at the regional level.
+While the system was able to correctly predict the peak week for the majority of regions, ARES only found the right timing of one peak (out of three) for two regions and it did not find it at all for one region. In cases where ARES could not estimate the right timing, it was only off by 1.4 weeks on average.
+The study noted that the monitoring system may not have been able to capture the timing for one region because athenahealth did not have many facilities within the geographic area.
+By using EHR analytics, researchers were able to identify national seasons for influenza-like illnesses with a ten-fold reduction in the average error rate compared to the Google Flu Trends program.
+Researchers aimed to establish a real-time flu surveillance system that would improve population health management strategies for healthcare providers. By monitoring infectious diseases at the national and regional level, federal agencies as well as physicians are able to develop preventative measures at the right time.
+Dig Deeper:
+• How to Turn EHR Data into Actionable Big Data Insights
+• How Big Data Leads to Precision Population Health Management
+Tagged EHR AnalyticsMedical ResearchPopulation Health ManagementPredictive Analytics
+
+

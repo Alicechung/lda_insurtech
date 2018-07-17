@@ -1,0 +1,31 @@
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+
+July 25, 2017
+
+By Jennifer Bresnick
+July 25, 2017 - Big data analytics and the implementation of clinical decision support guidelines can help hospitals and health systems reduce unnecessary blood use and associated spending, according to a pair of new studies released this week.
+At a cost of more than $1000 per unit, blood transfusions are a costly part of caring for surgical patients and represent an opportunity to accrue financial savings while lowering the risk of patient safety events and inadvertent harm, says a report from Premier, Inc.
+“Today’s healthcare providers face constant pressures to improve quality and reduce total costs. Given this reality, more providers are looking to optimize blood use, a very expensive resource that can lead to adverse events if not properly managed,” said Leigh Anderson, Premier’s chief information officer.
+“However, managing blood use can be a challenge without strong data and analytics to measure total utilization rates, compare against peer benchmarks and spot areas for improvement. Leveraging our data to pinpoint opportunity areas, this analysis proves that with consistent data and measurement, providers can greatly enhance their blood stewardship.”
+An analysis of 645 hospitals found that the use of big data analytics helped to reduce blood utilization by 20 percent across the 134 diagnoses that are associated with 80 percent of red blood cell usage, Premier says.
+Source: Premier, Inc.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+Enhanced stewardship, access to data and benchmarks, and more stringent adherence to standardized clinical guidelines helped reduce blood use by nearly half for patients undergoing the ten procedures with the highest utilization rates. 
+“From the data, any two patients receiving the same surgery may or may not have received a transfusion, depending on a provider’s understanding of appropriate blood use – which can compromise quality of care,” said R. Bruce Wellman, MD, Medical Director of Transfusion Service, Coagulation and Laboratory Information Systems at Carle Foundation Hospital based in Urbana, Ill.
+“Understanding evidence-based practices gave us a powerful motivator to drill deeper and educate the high utilizers, to improve outcomes.”
+The Carle Foundation Hospital saved $2 million by decreasing their blood transfusion rates by 35 percent over two years.
+Mercy Health in Cincinnati saw even greater savings, with a $6.2 million reduction in costs associated with blood transfusions over three years.
+READ MORE: Care Quality Tops Expenses for Patients Seeking Physicians
+Overall, orthopedic surgical cases at the 645 sample hospitals experienced some of the most dramatic reductions, with nearly 75 percent fewer blood transfusions recorded during major joint replacement surgeries.  Close to 30 percent fewer hip and femur surgery patients received transfusions, as well.
+The Premier study was quickly followed by a separate report published in The Joint Commission Journal on Quality and Patient Safety, which found that one urban academic medical center was able to save more than $1 million by implementing real-time clinical decision support to supplement providers’ choices.
+With education, a best practice advisory program, and enhancements to the computerized provider order entry (CPOE) system, the health system decreased the percentage of multiunit red blood cell transfusions from 59.9 percent to 19.7 percent post-intervention.
+“The overall rate of inpatient RBC transfusion (units administered per 1,000 patient-days without exclusions) decreased from 89.8 to 78.1 during the intervention period and to 72.7 during the post-intervention period,” explained lead author  Ian Jenkins, MD, SFHM, clinical professor, Department of Medicine, and chair, Patient Safety Committee, Hospital Medicine, University of California San Diego Health.
+Combined, the two studies indicate that clinical decision support, enhanced care quality guidelines, and the use of big data analytics to monitor costs and quality can significantly improve blood utilization practices in the hospital setting.
+READ MORE: Care Coordination Technique Reduces Medical Errors by 30%
+“Use of data is crucial to assess and inventory current practices in blood utilization, as well as transfusion rates for certain procedures,” the full Premier brief states. “Data can also provide comparative benchmarks that systems can use to evaluate their utilization and outcomes performance relative to peer systems. By leveraging data, providers can monitor the number of transfusions that fall outside evidence-based guidelines and physician compliance.”
+Clinical decision support tools can then translate these data points into actionable suggestions for providers at the point of care, bringing cost savings and potential safety improvements to surgical patients.
+“As physicians and providers become more aware of the costs and adverse patient outcomes associated with blood transfusions, we can only expect sustained progress in reducing unnecessary blood use,” the report concludes.
+“While there remain opportunities for improvement, the staggering declines in blood use in a little over five years is a major step in encouraging all hospitals and health systems to enhance blood use and foster an effective hospital transfusion culture.”
+Tagged Clinical Decision SupportHealthcare QualityHealthcare SpendingHospital QualityPatient Safety
+
+

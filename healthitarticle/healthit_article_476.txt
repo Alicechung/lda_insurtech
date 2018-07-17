@@ -1,0 +1,23 @@
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+
+May 10, 2017
+
+By Jennifer Bresnick
+May 10, 2017 - A population health analytics dashboard that brings big data to the point of care has secured the ECRI Institute’s 11th Health Devices Achievement Award for the Penn Medicine Center for Health Care Innovation.
+The health IT tool, called Agent, improves providers’ ability to engage in care coordination while enhancing patient safety.  The web-based platform accomplishes a number of population health management goals, including prompting providers to conduct screenings and identifying patients who use the emergency department frequently.
+"This platform allows us to continually make improvements to the applications, be sensitive to clinical workflow, and meet the needs of our patients," says Yevgeniy Gitelman, MD, clinical informatics manager and a developer on the team.
+Dig Deeper
+Web-Based Health Risk Assessments Accurately Flag Depression
+Clinical Analytics, EHR Alerts Increase Drug Safety by 80%
+Will Risk-Based Population Health Management Take Off in 2017?
+"If clinicians need to know when a specific action is required for a targeted patient population, we can quickly and efficiently add applications to test new interventions, using the infrastructure we've put in place.”
+The platform extracts data from electronic health records (EHRs) and other complementary data sources to flag a patient who may be experiencing a gap in care or an individual who requires a certain intervention. 
+The tool is currently integrated with EHRs from Epic Systems, Cerner, and Allscripts, as well as a number of secure messaging, predictive analytics, and clinical analytics applications in use at the health system.
+Providers can receive the information through a secure text, an email, or a dashboard accessible at the point of care.  Customized alerts and notifications allow providers to manage the data they need to improve decision-making.
+“Options include discrete alerts (e.g. safety reminders, expiring or uncollected medications and labs, where and when patients arrive on the floor), and decision support algorithms (e.g. heart failure management and early warning systems for sepsis) that aim to reduce forgotten tasks, reduce time delay to clinical awareness, and improve clinician efficiency,” the tool’s website states.
+Care teams can also use the platform’s “workboard” function to collaborate by tracking patient interventions in a single, shared space, reducing confusion and improving communication across the care continuum.
+"We understand the importance of helping healthcare providers know when action is needed for patients they are responsible for, and this platform makes that possible," said Katherine Choi, MD, clinical innovation manager, Penn Medicine Center for Health Care Innovation.
+ECRI Institute also recognized three finalists for the prize, including Norton Healthcare for its “Strategic Planning in the Clinical Engineering Realm” initiative, Service New Brunswick’s IPM completion rates project, and Idaho’s St. Luke’s Health System for “A ‘Role Model’ Approach to Creating a Highly Reliable Recall Management Program.”
+Tagged Care QualityChronic Disease ManagementClinical AnalyticsEHR Data AnalyticsPatient SafetyPopulation Health ManagementPredictive Analytics
+
+

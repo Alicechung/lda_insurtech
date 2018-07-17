@@ -1,0 +1,56 @@
+Nurses Play a Critical Role in EHR Optimization, Data Governance
+
+May 23, 2018
+
+By Jennifer Bresnick
+May 23, 2018 - Most healthcare organizations have now celebrated at least a handful of anniversaries with their electronic health records, and are now coming to the realization that implementation was only the start of a long and often difficult optimization and data governance journey.
+Even when health IT tools are well-suited to the organization right out of the box, maintaining a high degree of data integrity while keeping workflows smooth, intuitive, and streamlined for physicians and nurses is one of the industry’s greatest challenges.
+When that software requires some tweaks and adjustments to meet the needs of a specific type of provider, such as a pediatric health network, optimization and ongoing governance can become even more complex, says Lisa Grisim, RN, MSN, Associate Chief Information Officer at Stanford Children’s Health.
+Lisa Grisim, RN, MSN, Associate CIO at Stanford Children's Health
+Source: Xtelligent Media
+“Implementation is just the beginning,” she told HealthITAnalytics.com. 
+“It’s a journey that evolves over time as you become more sophisticated users of the system.  How you govern that journey is key for increasing the effectiveness and efficiency of the EHR.”
+READ MORE: EHR Satisfaction Rises, Usability Complaints Drop for Nurses
+Stanford Children’s started its latest EHR expedition with an Epic implementation in 2014. 
+The software brought many benefits, but also left Stanford Children’s with the task of developing necessary pediatric-specific content on its own before it could make the most out of its new toolkit.
+“There was not a lot to support pediatrics, particularly in the specialty areas,” Grisim recalled.  “Fortunately, we had a fairly large group of physician informaticists as well as physician champions to support us during our implementation.” 
+“Not only did they have the specialty content knowledge that we needed, but they also helped to engage and represent their colleagues from various disciplines to make sure we had the breadth and depth of knowledge we needed.  That in-house knowledge has let us do some wonderful things.”
+One of those accomplishments is a clinical decision support tool for the treatment of newborns with jaundice. Preemie Bili-REC guides clinicians to order best-fit treatments for infants based on their lab results, Grisim explained.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+“This is something that is obviously specific to pediatrics, so it’s a big benefit that we’ve been able to develop a tool that can address it,” she said.
+Stanford Children’s was able to architect Preemie Bili-REC and other pediatric-focused features it needed by enlisting the help of clinicians from across the organization.
+These contributors included “a huge contingent of nurses,” said Grisim.  “We had nurses representing every area and every unit of the hospital to help bring their unique knowledge and workflows into consideration as we implemented the EHR.”
+“We have a group of nurses that are clinical informatics managers, and they work full time in our IS department.  We also have a team of bedside nurses that have a percentage of their FTE dedicated to EHR optimization efforts.  These nurses are paid for out of our nursing department budget, not the IS budget.”
+These nurses, as well as their clinical colleagues in other roles, have continued to share their expertise with the rest of the organization as implementation turned into ongoing optimization.
+READ MORE: Four EHR Optimization Steps for Healthcare Data Integrity
+Every organization must carefully consider how to best allocate its limited resources when fielding commentary from its EHR users, especially because the number of requests and suggestions will almost always outweigh the resources and time available.
+“Prioritization is an incredibly important part of the process,” Grisim stressed, and nurses are extremely well-positioned to handle the task of triaging incoming demands.
+“Our nurses will vet requests and bring them forward if they’re high priority,” she continued.  “We have a scoring system in place that helps us remain objective about the value every request will provide.”
+“These nurses help us test optimization changes, and they’re the super-users on their particular units when the changes go live.  That allows them to go back and train their colleagues in the unit on how to use the new functionalities, and they will be resources for those clinicians if they have questions.”
+Integrating the nursing perspective is key to ensuring that both physicians and nurses can work efficiently and effectively with their health IT tools, said Grisim, who has an extensive background in nursing herself. 
+The needs of nurses can sometimes get lost if an organization focuses exclusively on their MDs without considering the other users of the system.
+“When you talk about the EHR, physicians do tend to get more air time than nurses, despite the fact that it’s critical that they can both use the EHR easily and efficiently,” Grisim acknowledged.  “In the hospital, nurses have their own workflows that rely heavily on the EHR, and they’re different from the workflows the physicians are completing.”
+“You need people who understand each of those processes if you want to figure out how to make them more efficient.  You’re not going to achieve that goal if you have the physicians trying to tinker with the nurses’ work, or vice versa.  The nature of their work is different, and the way they interact with health IT tools is different, too.”
+The balancing act can be tricky, especially if a change request from one type of provider conflicts with an idea from the other.
+“To make sure these workflows don’t conflict or diverge too much from one another, we have an interdisciplinary team called the Inpatient Clinical Workflow Committee,” Grisim explained. 
+“This committee includes both nurses and physicians as well as staff in other roles, such as pharmacists and respiratory therapists.  That’s where we discuss requests that might impact multiple roles.  It allows us to make sure that everyone who’s a player in a particular workflow has some input into how it is going to function for them.”
+The Inpatient Clinical Workflow Committee is one of three data governance groups that report to an executive governing body, said Grisim. 
+The second is a similar clinical workgroup that focuses on optimization in the ambulatory setting, and the third is responsible for revenue cycle issues, such as registration, scheduling, and billing.
+“All of these groups report to the EHR Oversight Group, which includes our Chief Nursing Officer, the Chief Administrative Officer over the ambulatory space, and our Chief Revenue Cycle Officer,” she said.  “There are physician representatives as well: our Chief of Staff is in the group, too.”
+“They are responsible for things that impact the entire organization, such as charging and admissions.  They’re the final governing body that helps decide how to allocate resources or take a look at why people are deviating from a specific workflow.”
+This tiered approach allows clinicians at Stanford Children’s to bring their EHR optimization requests to peers and leaders who have experience in related fields while also providing for a clear and structured pathway to discuss disagreements or settle debates.
+“Even though we have a very robust governance structure, we’re not perfect and we do experience hiccups every now and again.  There is always going to be someone who disagrees with something, or is unhappy about the way something works,” Grisim said. 
+As an academic medical center that encourages research and innovation, “we attract some very passionate people who feel strongly about what they’re doing and how important it is,” she added. 
+“It helps to have multiple layers of review so that you can escalate issues when necessary and have an ultimate destination for final decision-making.”
+Establishing procedures for how to submit requests – and ensuring that all members of the team are aware of how and why veto or approval rules function – is a critical component of creating a robust governance program that can achieve its goals, Grisim asserted.
+“There are certainly times when someone starts running with an idea and we have to pull them back a little bit so that they’re staying within the guidelines we’ve set in our governance programs,” she said. 
+“When that happens, the key is to explain to them why the guardrails are there without making them feel as if their needs are not being met.  You have to give people a way to be heard, even when you end up saying ‘not now’ to their request.”
+“If you spend the time investing in a governance structure that people can understand and a prioritization process that is clear and easy to follow, that eliminates a lot of friction.”
+The approach has been highly successful for Stanford Children’s, which is the Bay Area’s only network exclusively devoted to pediatric and obstetric care.
+With a growing number of ambulatory locations and an increasing focus on community-based care, a reliable electronic health record with trustworthy, accurate data is essential for coordinating care and delivering quality services to children who often have high-acuity needs.
+Involving nurses, physicians, and executives in a governance process that includes multi-layer review and clear escalation opportunities should be a target for any organization looking to strengthen its EHR optimization programs, advised Grisim.
+“Governance is a shared opportunity and a shared responsibility,” she stated.  “Make sure that you’re being interdisciplinary in terms of job function in addition to bringing together different specialties.” 
+“If you can create a space where all stakeholders can share ideas and be heard by their peers, you are going to be able to create workflows that are much more suited to the needs of users across your organization.”
+Tagged Change managementEHR OptimizationEpic EHRHealth Information ManagementHealthcare Data GovernanceHealthcare Information GovernanceInterviewsNurse Informaticists
+
+

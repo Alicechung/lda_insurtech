@@ -1,0 +1,32 @@
+Imaging Analytics Get Big Data Boost from New Partnerships
+
+June 24, 2016
+
+By Jennifer Bresnick
+June 24, 2016 - Diagnostic data from imaging studies such as x-rays, MRIs, and CAT scans is usually locked away in the images themselves, or in accompanying free-text reports attached as PDFs to electronic medical records. 
+However, a series of new partnerships and initiatives bringing together leading vendors, providers, and start-ups, will attempt to free the big data tied up in these tests to improve informed clinical decision-making.
+IBM is making good on its previous investments in imaging analytics acquisitions by forming a new Watson Health medical imaging collaborative, the company announced this week, which will include a number of healthcare providers and vendors from across the country and around the world.
+The collaboration will focus on leveraging IBM Watson’s unique cognitive computing capabilities to identify ways to improve radiology efficiency and accuracy, reduce costs from repeated or unnecessary tests, and further integrate big data analytics strategies into the workflow.
+“There is strong potential for systems like Watson to help to make radiologists more productive, diagnoses more accurate, decisions more sound, and costs more manageable,” said Nadim Michel Daher, a medical imaging and informatics analyst for Frost & Sullivan.
+READ MORE: UCSF to Develop Machine Learning for CDS, Imaging Analytics
+“This is the type of collaborative initiative needed to produce the real-world evidence and examples to advance the field of medical imaging and address patient care needs across large and growing disease states.”
+Provider partners include Anne Arundel Medical Center, Baptist Health South Florida, Eastern Virginia Medical School, Radiology Associates of South Florida, Sentara Healthcare, Sheridan Healthcare, UC San Diego Health, University of Miami Health System, University of Vermont Health Network.
+On the vendor side, vRad, Agfa HealthCare, ifa systems AG, inoveon, and Topcon will pool their expertise alongside Merge Healthcare, which was purchased by IBM last year for $1 billion.
+“With the ability to draw insights from massive volumes of integrated structured and unstructured data sources, cognitive computing could transform how clinicians diagnose, treat and monitor patients,” said Anne Le Grand, the new Vice President of Imaging for Watson Health.  “Through IBM's medical imaging collaborative, Watson may create opportunities for clinicians to extract greater insights and value from imaging data while better managing costs.”
+Microsoft is also getting into the imaging analytics game with a new partnership with MEDIAN Technologies, a French precision medicine corporation that will help to identify biomarkers from medical images using advanced analytics.
+READ MORE: Mount Sinai Uses Machine Learning for Heart Imaging Analytics
+“Precision medicine is about to revolutionize how diagnostic and biological data is used to pinpoint and deliver care that is preventive, targeted and effective” said Fredrik Brag, Chief Executive Officer at MEDIAN Technologies. 
+“Extracting biomarkers of disease from medical images is at the core of the precision medicine effort. Big data computing and analytics will allow efficient processing and analysis of imaging biomarkers which is essential for early detection of cancer and monitoring of new targeted cancer treatments. Our collaboration with Microsoft will allow us to deliver these solutions into routine clinical practice on a global scale on the Azure Cloud Computing platform.”
+The imaging biomarker phenotyping system effort, named IBIOPSY, will be rolled out to customers across the US, Europe, and Asia to meet the growing demand for precision medicine analytics in cancer care and elsewhere.
+“We are proud to collaborate with MEDIAN on the IBIOPSY project and to bring innovative technologies at the service of cancer research”, said Bernard Ourghanlian, Chief Technology and Security Officer at Microsoft France. 
+“Indeed, we are, more than ever committed to addressing the biggest challenges in cancer detection, diagnosis and monitoring, by offering access to the latest and most innovative technologies.”
+READ MORE: Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+Precision medicine is also on the mind of Intermountain Healthcare, which doled out $12 million in start-up funding to Israel-based Zebra Medical Vision to further development of the company’s big data imaging analytics algorithms. 
+“We are excited by the opportunities that machine learning and computer vision algorithms can provide. These tools will help us improve patient care, by analyzing imaging data at a large scale for the first time, in addition to textual data,” said Bert Zimmerli, InterMountain Healthcare’s Chief Financial Officer.
+“When we researched this field and the various technologies available, the Zebra platform approach stood out in its proven ability to digest millions of imaging files and create new algorithms rapidly.”
+Zebra has seen early success with its machine learning analytics focusing on bone health, cardiovascular issues, liver problems, and lung conditions.  The company also has ties to Dell Services, which will help to take Zebra’s products to market.
+“We are privileged that one of the top healthcare systems in the US has placed such confidence in our team and our platform,” added CEO Elad Benjamin.
+“In an environment where computing power and machine learning frameworks are becoming a commodity, the ability to quickly and efficiently curate large quantities of data from a world class integrated healthcare provider can make the difference between simplistic tools and insights that can truly add clinical value and positively impact patient care.”
+Tagged Clinical AnalyticsClinical Decision SupportImaging AnalyticsMachine LearningMedical Research
+
+

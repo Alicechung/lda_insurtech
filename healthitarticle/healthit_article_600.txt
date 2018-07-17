@@ -1,0 +1,29 @@
+AMIA Advises PCORI on Sharing Big Data for Health Research
+
+January 26, 2017
+
+By Thomas Beaton
+January 26, 2017 - The American Medical Informatics Association (AMIA) has suggested that the Patient-Centered Outcomes Research Institute (PCORI) should adopt new policies that focus on expanding grant opportunities and funding data collection efforts to improve the sharing of big data for clinical and biomedical research.
+“Data access and sharing is foundational to advance scientific discovery,” said AMIA President and CEO Douglas B. Fridsma, MD, PhD, FACP, FACMI. “PCORI’s data access and sharing plan will help ensure that comparative effectiveness research adds to our corpus of evidence-based medicine, while also tearing down the data silos that have come to characterize too many research efforts. We commend PCORI for placing a focus on the need for improved data sharing.”
+The comments are a response to PCORI's open invitation for suggestions on its draft policy. PCORI sought input on fields such as restrictions on the use of PCORI research data and guidelines for research applications and awards.
+While AMIA agreed with several of the pre-drafted conditions of the Data Sharing and Access Policy, they made it very clear that there should be no limitations/qualifications for third party and public access to the data.
+AMIA highlighted four specific topics and high-priority recommendations in their Request for Comment document they submitted to PCORI, including:
+Building data sharing plans as part of pre-award applications
+In order to address fundamental deficiencies in biomedical and clinical research, a preliminary data sharing plan should be required based on the relative value of a proposed research project.  
+"Data sharing has become such an important proximal output of research that we believe the relative value of a proposed project should include consideration of how its data will be shared,” AMIA said. “Requiring a pre-award description of intended data sharing of federally-funded research could address fundamental deficiencies in biomedical and clinical research."
+Funding data preparation and curation
+While AMIA fully supports PCORI's intention to provide funding for costs associated with maintaining and depositing fully analyzable data sets in a repository, they believe that data preparation and curating data should have dedicated funding as well.
+Based on evidence previously gathered, AMIA suggests this dedicated funding helps to sustain research ecosystems.
+"By including data sharing costs in proposed budgets, and by providing guidance regarding best practices, PCORI creates incentives to share, collaborate and advance data sharing capabilities. This would further underscore the need for quality data sharing plans to be considered as part of the application process."
+Supporting data originators and consented use
+Continuing on the theme of contributing to sustainable research ecosystems, AMIA noted that it is important to ensure that people who create or contribute to public datasets and software are credited.
+AMIA also suggested that anyone applying for PCORI funding should establish plans that allow consented data reuse as part of their application.
+"Applicants for PCORI funding should be required to include detailed plans for obtaining consent for data reuse as part of the data sharing plans submitted with each application,” the organization said. “PCORI could make a significant contribution to the research community by preparing standard text for this aspect of informed consent."
+Defining specific metadata on all datasets
+When accessing shared data, AMIA believes that emerging community metadata models could improve and add consistent metadata throughout shared data plans. Therefore, they suggest to PCORI that research metadata is defined with clear terminology so that it can be standardized across the Data Sharing and Data Access Policy.  
+"Specifically, this would include attributes describing the data and specification of allowable values of those attributes, including accepted vocabularies and terminologies describing key biomedical concepts. Emerging community metadata models could be useful towards improved, more consistent use of metadata and should be promoted as standards for data sharing plans," AMIA said.
+AMIA showed clear support and enthusiasm for developing better policies for improved data access and sharing.  The organization hopes its input will help PCORI's efforts.
+"We hope our comments are helpful as you undertake this important work,” the association told PCORI.
+Tagged Analytics InfrastructureHealthcare Data GovernanceHealthcare InformaticsMedical Research
+
+

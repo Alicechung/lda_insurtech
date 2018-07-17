@@ -1,0 +1,33 @@
+Google Using FHIR, Deep Learning for Healthcare Predictive Analytics
+
+May 18, 2017
+
+By Jennifer Bresnick
+May 18, 2017 - As part of Google’s ongoing quest to enhance the accuracy and usefulness of machine learning, researchers from the tech giant are expanding their partnerships with leading healthcare organizations to create more advanced predictive analytics.
+Collaborations with the University of Chicago, Stanford University, and UC San Francisco are leveraging deep learning alongside innovative data standards like FHIR to tackle some of healthcare’s most intractable problems of cost, quality, and patient safety.
+The discipline of machine learning – which can also be known as deep learning, cognitive computing, or artificial intelligence – has advanced rapidly, even in just the past few months, as developers from all industries throw resources into their data science divisions.
+Healthcare has been an early beneficiary of this trend.  Numerous projects from Google and others have highlighted the value of machine learning for diagnostics and predictive analytics.
+In March, Google researchers published a paper explaining how machine learning could play an important role in pathology by identifying metastasized cancer tissue nearly as accurately as a human pathologist.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Deep learning algorithms produced “heat maps” of extremely large images of biopsy slides to identify the presence of tumor cells.  The algorithm achieved 89 percent accuracy when identifying breast cancer that had spread to lymph nodes, compared to just 73 percent accuracy from a human pathologist spending 30 hours on the task.
+Researchers at Stanford University have also harnessed the power of Google’s machine learning to identify skin cancers.  In a paper published in Nature this year, the team noted that an artificial intelligence algorithm matched the diagnostic performance of 21 traditional dermatologists.
+Katherine Chou from the Google Brain team believes that these initiatives are just the beginning of what machine learning can do for providers and patients.
+“We’re ready to do more: machine learning is mature enough to start accurately predicting medical events—such as whether patients will be hospitalized, how long they will stay, and whether their health is deteriorating despite treatment for conditions such as urinary tract infections, pneumonia, or heart failure,” Chou wrote in a Google blog post announcing the company’s latest healthcare research partnership with the University of Chicago.
+“Advanced machine learning can discover patterns in de-identified medical records (that is, stripped of any personally identifiable information) to predict what is likely to happen next, and thus, anticipate the needs of the patients before they arise.”
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+The need for these big data analytics tools is “urgent and immense,” she added.  While the industry has made significant progress with improving patient safety and reducing avoidable hospital readmissions in recent years, much more work remains.
+“Each year in the US, healthcare-associated infections lead to 99,000 deaths, problems with medications cause more than 770,000 injuries and deaths and unplanned hospital readmissions cost as much as $17 billion,” Chou pointed out. “There are also pressing global issues: every year 43 million people worldwide are affected by medical errors, most in middle- to low-income countries.”   
+Machine learning may be the key to developing algorithms that provide more proactive alerting, comprehensive clinical decision support, and predictive analytics that allow providers to forestall expensive crisis events. 
+But not even Google can escape the relentless enemy of data analytics: a lack of information governance, interoperability, and data integrity that makes it challenging to collect and work with large volumes of data from disparate organizations.
+“Each clinic has its own way of recording data, which makes gathering insights from multiple clinics difficult,” Chou acknowledged. “And the lack of data interoperability and standardization makes resolving these differences a time-consuming manual process.”
+READ MORE: Deep Learning Network 100% Accurate at Identifying Breast Cancer
+Google is overcoming these roadblocks by combining its deep learning technology with FHIR, the internet-based protocol that smooths the movement of data across organizational and technical barriers.
+Earlier in 2017, Google announced its commitment to FHIR by partnering with the HL7 FHIR Foundation.  The FHIR Foundation and Google Cloud will work together to support the FHIR development ecosystem, said Greg Moore, VP HealthCare at Google Cloud, and “pave the way for data interoperability in the healthcare ecosystem.”
+“This collaboration as an important step in helping the developer community quickly build important FHIR-based experiences without the need to worry about the underlying infrastructure - a key advantage of the cloud,” he added.
+These efforts, combined with Google’s ongoing partnerships with academic research centers, will likely lead to numerous new advances in the coming months and years, Chou said. 
+The key to developing algorithms that can use EHR data, claims data, patient-generated health data, imaging data, and other sources of information for predictive analytics and diagnostics will be sharing knowledge, data, and ideas across the care continuum.
+“We believe clinical breakthroughs using machine learning will come only when the medical community and deep learning experts collaborate closely,” she stated.
+“Most of us at Google are not doctors, but everyone has been touched by an illness or injury, or even lost a loved one. We have something unique at Google that we can contribute to make care better—so we must try. We look forward to growing our healthcare partnerships in the hopes that together, we can improve the health of many millions of people worldwide.”
+Tagged Analytics InfrastructureEHR AnalyticsFast Health Interoperability ResourceFHIRMachine LearningPredictive Analytics
+
+

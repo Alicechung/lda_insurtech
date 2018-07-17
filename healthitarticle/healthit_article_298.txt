@@ -1,0 +1,35 @@
+Humana: Can Artificial Intelligence, NLP, Voice Tools Revamp EHRs?
+
+November 08, 2017
+
+By Jennifer Bresnick
+November 08, 2017 - Electronic health record (EHR) developers and consumer tech companies aren’t the only ones who believe that healthcare’s big data could use a massive makeover with the help of artificial intelligence, machine learning, and personal digital assistants.
+Humana, one of the nation’s largest health insurance providers, is also looking for cutting-edge ideas about how to use emerging technologies to revolutionize health records, and is putting up almost $20,000 in prize money for the best solutions through its new Innovation Challenge in California.
+The payer is expecting applicants to leverage artificial intelligence or machine learning, natural language processing, web-based interfaces and apps, and voice tools such as Alexa, Google Home, and Siri to streamline the process of interacting with complex medical data.
+“Traditionally, the health care industry has stored digital health records - medical claims, pharmacy claims, calls, letters, hospital stays, and health program participation - in disparate places across different systems,” Humana said in a press release.
+“But with advanced data processing and analytics, it is now possible to assemble these data sources into a chronological ‘story,’ with all the different elements stitched together into a logical time order. Now that the data is organized, the opportunity is to present the data through a tool simple enough to allow users to make sense of even the most complex chronic history.”
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Physicians, care managers, customer service associates, patients, and families all need access to a trusted and complete health record, Humana added, that is accessible and intuitive to navigate.
+Many of the industry’s early artificial intelligence pilots and tests have focused on the highest end of medical and technical complexity, such as diagnosing cancer, analyzing imaging tests, and offering clinical decision support for precision medicine applications.
+These test cases have produced impressive results on a small scale for very targeted applications, but many stakeholders believe that AI will truly prove its value when it travels out of the lab and onto the patient’s smartphone or clinician’s tablet.
+Even without prompting from payers, EHR vendors and health IT developers have quickly pushed forward with new ideas for bringing machine learning into their products to better organize data, improve workflows, and reduce fatigue and physician burnout.
+Epic Systems is one of many vendors that have made machine learning and virtual personal assistants a key part of their ongoing strategy.  
+READ MORE: IBM: Blockchain, Artificial Intelligence Combo to Alter Healthcare
+At the company’s annual User Group Meeting in 2017, executives unveiled a number of new functionalities that will drive artificial intelligence, natural language processing, ambient computing, and advanced data analytics throughout the process of interacting with a patient’s data.
+“You'll be able to do a lot more with voice,” said Epic Systems CEO Judy Faulkner before a demonstration of how Alexa and Google Home will allow users to place orders and sign off on notes – skills that will be released to customers by the end of 2018.
+NLP will extract meaning from unstructured text and algorithms will crunch the data to suggest next steps for patient care to users, the company added.  Machine learning will harness the growing influx of socioeconomic and environmental data on patients to identify rising risks and personalize care.
+“Maturing technology holds a promise to help unlock practical solutions to complex problems,” said Sumit Rana, Senior Vice President of Research and Development. “Through time, care processes have evolved from being primarily driven by intuition, to also being driven heavily by data synthesis and algorithmic assistance.”
+Providers appear eager to adopt and test these innovative approaches in the real-world.  At Anne Arundel Medical Center in Maryland, natural language processing tools already allow providers to query the organization’s big data stores in an intuitive way.
+READ MORE: Artificial Intelligence in Healthcare Gets Cheaper and Quicker
+“With the EHR integration we built on top of Collibra, you can ask something like ‘how many denials did we have last month?’ or ‘how many patients do we have with a particular cancer diagnosis?’” said David Lehr, Executive Director of Analytics at AAMC to HealthITAnalytics.com.
+“It draws on the sources of information that include data about denials, and then puts the appropriate source in front of the user to answer that question.  If it can’t find a specific answer, it can still identify where the answer might be so that the user can dig into the data and find out what they want to know.”
+As payers become more involved in driving value into the care continuum through pay-for-performance arrangements, it is little surprise that they are just as eager as providers, developers, and patients to see the industry harness the potential of its big data assets.
+Cutting costs requires providers to become more efficient, deliver more effective and less wasteful services, and access insights into upcoming risks or gaps in their care. 
+Applying machine learning to EHRs in an effort to illuminate hidden answers to these challenges could significantly reduce spending and help healthcare organizations meet their value-based quality measures.
+For payers like Humana, sponsoring development challenges may be a shrewd investment in the health IT ecosystem that produces big financial rewards for relatively little investment. 
+Whether more payers will take a similar hands-on approach remains to be seen, but it would not be surprising given the huge amount of interest in the burgeoning AI field.
+Students, individuals, and early stage start-ups based in California will be eligible for the Humana competition, which will welcome submissions until December 3, 2017.  Humana will provide simulated patient records and data sets to use during development and testing.
+Six finalists will have the opportunity to present their creations to a panel of judges, which will select three winners eligible for a $10,000 first prize and smaller amounts for second and third place. 
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR AnalyticsEHR UsabilityHealthcare PayersMachine Learning
+
+

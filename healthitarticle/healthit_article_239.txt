@@ -1,0 +1,34 @@
+Does Social Determinants Data Enhance Population Health Analytics?
+
+January 09, 2018
+
+By Jessica Kent
+January 09, 2018 - Adding social determinants data to more traditional clinical data analytics did little to enhance the accuracy or precision of predictive population health analytics, according to a study published in JAMIA.
+When directed to predict the need for mental health, social work, dietary education, or other social services, a predictive analytics model based solely on clinical data performed nearly equally to a model that added socioeconomic data to the mix.
+Researchers examined data from 84,317 adult patients who had at least one outpatient visit between 2011 and 2016 at Eskenazi Health, the public safety-net health system in Indianapolis, Indiana.
+Dig Deeper
+How the Social Determinants of Health Impact Population Wellness
+Do EHRs Improve Population Health Management, Data Analytics?
+What Are the Social Determinants of Population Health?
+The team collected data primarily from Eskenazi Health’s EHR and the local health information exchange (HIE). From these sources, researchers abstracted patient diagnoses, demographics, and counts of healthcare encounters (outpatient visits, inpatient admissions, emergency department visits).
+The patients in the study were ethnically diverse, with only one out of four patients being white and non-Hispanic. They also had high chronic disease burdens, and those who had referrals for any social service had a greater illness burden than those who did not.
+Researchers split the patient population into two randomly selected groups. Ninety percent of the patient population was used as training data, while the other ten percent was used as test data.
+Of the training data group, 53 percent of patients had been referred to at least one social service. The most commonly referred service was dietitian at 33 percent. Mental health services followed at 19 percent, and social work services at nine percent.
+. For each record in the test data group, each decision model produced a predicted outcome of either “needs referral” or “does not need referral.”
+Each decision model also produced a predicted probability score. Researchers calculated the sensitivity, specificity, accuracy, and positive predictive value (PPV) for each model.
+In terms of predicting the need for any type of social service referral, the clinical data-only model had a sensitivity of 67.6 percent, specificity of 69.6 percent, accuracy of 68.6 percent, and PPV of 71.2 percent.
+In comparison, the model using clinical, socioeconomic, and public health elements in addition to the clinical dataset reported a sensitivity of 67.7 percent, specificity of 67.7 percent, accuracy of 67.7 percent, and PPV of 70 percent.
+In terms of predicting the need for specific social services, the models did not show a significant difference for mental health referrals, social work referrals, dietitian referrals, or other miscellaneous service referrals.
+While adding social determinants data did not significant enhance the predictive models, the researchers stressed that the increasing number of diverse, readily available data sources, including EHRs and HIE, can still improve health services delivery and overall health system performance.
+“Predicting the need for social services referrals is responsive to recent calls for analytics that better match patients to services based on need, and also to match patients to services that address the upstream determinants of health,” the researchers wrote.  
+“More importantly, services such as social work, mental health, dietitian counseling, medical-legal partnerships, and others are of growing importance to healthcare organizations that, under changing reimbursement policies, are incentivized to prevent illness and promote health,” they added.
+Ensuring that patients receive referrals to services that can improve their chronic disease management capabilities and support better outcomes is crucial for providers and patients alike.  
+“Because [primary care] physicians are not trained to provide these services, patient receipt of the services depends on referrals to partner organizations or other care team members,” said the study.  “Accurate stratification by risk is critical for the efficient and effective delivery of such services.”
+However, providers and researchers have struggled to create analytics algorithms that can deliver accurate and reliable clinical decision support for this purpose, the study points out.
+“While one may hypothesize that additional social determinants data can augment predictive models, the literature has been mixed, and this study does not help to resolve that ambiguity,” the researchers said.
+More exploration may be needed to pinpoint a solution, they added.
+“The lack of significant model performance improvement when adding socioeconomic and public health data may be due to the study population, which reflects patients seeking care within a relatively constrained safety-net geography.”
+“While incorporating socioeconomic and public health data into predictive risk modeling is feasible, more study is needed to elucidate the specific risks identified by these new data sources and to understand the implications for health care intervention.”
+Tagged Big Data AnalyticsClinical AnalyticsHealthcare Big Data AnalyticsPatient DataPopulation Health Management
+
+

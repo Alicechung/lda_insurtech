@@ -1,0 +1,111 @@
+Real Risk for fintech: The Growth in the Occurrence of Cyber Attacks
+
+December 28, 2016
+
+According to Elizabeth Denham, the new Information Commissioner at the Information Commissioner’s Office (ICO), “Cyber Security is not an IT issue, it is a boardroom issue”.
+
+ She was speaking in the aftermath of one of the most significant and high profile cyber-attacks in UK history, where the communications company TalkTalk was hit with a record £400,000 fine and costs of £45m in managing the event, along with a £15m trading loss. 28,000 customer card details were leaked and 95,000 subscribers were lost during the months after the hack.
+
+ This sends out a very strong message to businesses, around where the responsibility lies for cyber security and the potential damage that can be done in the event that a cyber-attack should occur. Interestingly, had TalkTalk been hacked under the forthcoming GDPR regulations the potential fine could have been £73m!
+
+  
+
+ Real Risk: The Growth in the Occurrence
+
+ The demand for technological development within business is growing, both from inside and outside the organisation. While customers are demanding a seamless cross platform experience through their phone, laptop and in person, employees are increasingly looking for connectivity to their work from remote locations by using a combination of personal and work devices.
+
+ With this increase in demand for an ever connected workplace, the risk of cyber-attack is also increasing, as the following facts demonstrate:
+
+ 
+
+  
+
+ 
+
+  
+
+ The Paradox
+
+ These facts give us as much of an insight into the attitude of organisations to cyber risk as they do to its rising cost and occurrence, namely:
+
+ There are a number of ways to read these figures. It’s possible that companies aren’t committing to increase spend on security as they think they have sufficient protection, but the increase in occurrences of cyber-attacks proves otherwise.
+
+ It would also appear that companies haven’t considered a full security risk assessment and aren’t investing in areas that will manage the risk if they are hit by a cyber-attack.
+
+ This could be a dangerous strategy that would leave companies critically exposed in the event of an attack.
+
+ Threat Actors
+
+ A threat actor, also called a malicious actor, is an entity that is partially or wholly responsible for an incident that impacts – or has the potential to impact – any business’ security.
+
+ 
+
+ In threat intelligence, actors are generally categorised as external, internal or partner.  With external threat actors, no trust or privilege previously exists, while with internal or partner actors, some level of trust or privilege has previously existed. The actor may be an individual or an organisation; the incident could be intentional or accidental and its purpose malicious or benign.
+
+ Each business regardless of its type, size and areas of operation will attract at least one form of threat actor if not several.
+
+  
+
+ The Worst is Yet to Come?
+
+ Changing Legislation
+
+ Although it seems like an increasing number of cyber attacks are making the headlines, the statistics are telling us that in fact this should be a far more frequent occurrence. If 90% of large organisations suffered a security breach in 2015, why aren’t they all making the headlines?
+
+ Part of the mystery is due to current legislation. Under the existing UK Data Protection Act 1998 (DPA), companies that suffer data breaches or cyber-attacks are under no obligation or requirement to notify regulators, however there are 3 exceptions to this rule:
+
+ 1. If the company is a service provider (which triggers The Privacy and Electronic Communications (EC Directive) Regulations 2003 (PECR))
+
+ 2. If the breach is likely to adversely affect the personal data or privacy of the company’s subscribers or users
+
+ 3. If a company cannot demonstrate that the data was encrypted (or made unintelligible by a similar security measure)
+
+  
+
+ So what does this mean in real terms?  If a firm does not make the breach public then:
+
+ But all of this is due to change.
+
+ In 2018, new EU wide legislation called the EU General Data Protection Regulation (GDPR) is going to change the game in terms of how cyber attacks are reported and policed.
+
+ Among the headline changes due to be enforced as part of this legislation are:
+
+  
+
+ Of course, further complexity is added with the UK voting to leave the EU.  However, as the ICO are the supervisory authority of the UK, and have spent several years contributing and preparing the DPA to be updated to the new EU regulation, it is likely that regardless of exiting the EU, the ICO will ensure the new DPA will be in line with that of the GDPR. It is also expected that the ICO will bring in a similar legislation to GDPR in order the UK can easier negotiate new trade deals post-Brexit. This has been further ratified by the UK Government’s announcement on the 2nd October stating that a new Bill will convert existing EU law into UK law at time of Brexit.
+
+ A recent statement was released by the UK Government confirming  the UK will be implementing the General Data Protection Regulation (GDPR). The Secretary of State Karen Bradley MP used her appearance before the Culture, Media and Sports Select Committee to say:
+
+ Full article can be seen here.  Clearly, UK firms must now move fast to implement the necessary changes to ensure compliance by 2018 deadline.
+
+  
+
+  
+
+ Summary and Takeaways
+
+ As businesses continue to develop and implement systems which collect and store customer data, the risk of cyber attack will continue to rise. It is the responsibility of the company to safeguard vulnerable systems and ensure every measure has been taken to prevent a successful breach from occurring, and where cyber attacks have been successful, the results have often been devastating.
+
+ As organisations continue to embrace online systems and move increasing amounts of data to the cloud, it’s more important than ever for members of the board to understand the scale of the risks that they are vulnerable to and put in place a plan to manage and transfer as much of this risk as possible to guard against the worst effects of a cyber attack.
+
+ Takeaways
+
+ FinTech Insurance, FinTech Insurance, Review, FinTech Deposit Insurance, FinTech FCA Insurance, FinTech FSCS Insurance, FinTech Cyber Insurance, FinTech Directors and Officers Insurance, FinTech Professional Indemnity Insurance, FinTech Insurance Broker, FinTech Insurance Broker London
+
+  
+
+ About the Author
+
+ 
+
+ Simon Gilbert, Founder and Managing Director of Elmore
+
+ Simon Gilbert has 15 years of experience working in the heart of the insurance industry throughout the world’s leading business centres. Simon’s appearance on CCTV America advising on cyber insurance and his expertise in this rapidly growing area of risk, coupled with more than a decade at the fore of the insurance industry make him a formidable force and partner in securing clients bespoke insurance for their needs.
+
+  
+
+ About Elmore Insurance Brokers (Elmore) 
+
+ Elmore is a City of London based brokerage firm with partnerships in place to offer world leading insurance and re-insurance for customers. Providing best value to clients is our cornerstone value, upheld by our promise to be forward-thinking specialists, providing a global perspective through our international network and advising on the risks of today for the challenges of tomorrow. We offer advisory, broking and claims management services under one roof, with particular expertise in the rapidly growing field of cyber insurance.
+
+

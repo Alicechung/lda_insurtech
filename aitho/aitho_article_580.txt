@@ -1,0 +1,12 @@
+BC Platforms Partners With Google Cloud To Offer Transformational And Scalable Genomic Solutions Worldwide
+
+15 May 2018
+
+BC Platforms, a world leader in genomic data management and analysis solutions, today announced it has partnered with Google Cloud to deliver its highly scalable integrated genomics and clinical data solutions to hospital and industry partners worldwide. In addition to storage, archiving and calculation capacity, Google Cloud genomics and AI tools, including DeepVariant, will be supported.
+Jonathan Sheffi
+BC Platforms offers a unique technology capable of processing thousands of genomes per day, produced using either genotype arrays or next generation sequencing. The introduction of BC Platform’s capabilities on Google Cloud will enable better access for pharmaceutical companies to identify biobank data sources across the globe for research and development. With BC Platforms on Google Cloud, healthcare institutions wishing to deliver on the promise of precision medicine on population scale will be able to provide cost effective and actionable patient reports based on genotype array or NGS data.
+Tero Silvola
+Jonathan Sheffi, product manager for Biomedical Data at Google Cloud commented: “We are excited to collaborate with BC Platforms to provide their highly scalable and fully integrated service offering in Google Cloud. We expect the integration of our technology capabilities to facilitate the adoption of genomics both in clinical and research settings.”
+Tero Silvola, CEO of BC Platforms, commented: “We are delighted to be partnering with Google Cloud to expand our genomic and clinical data offering in the Google Cloud ecosystem. We are committed to providing highly scalable and integrated solutions to our customers and partners. Our goal is to transform the future of research and clinical practice worldwide in order to drive precision medicine on a population scale.”
+
+

@@ -1,0 +1,33 @@
+AMIA: Health Informatics Can Help Overcome the Big Data “Deluge”
+
+July 13, 2017
+
+By Jennifer Bresnick
+July 13, 2017 - Organizations that wish to avoid drowning in the big data deluge should turn to the life raft of health informatics, which can help providers and researchers better use data to produce meaningful quality improvements, says the American Medical Informatics Association (AMIA).
+In commentary on the draft Federal Health Information Technology Research and Development Strategic Framework created by the Health IT Research and Development Interagency Working Group (HITRD IWG), AMIA CEO and President Douglas B. Fridsma, MD, PhD, FACP, FACMI urged federal stakeholders to keep informaticists top of mind as they develop best practices for handling healthcare big data.
+“Health informatics is the 50-years-plus branch of study concerned with data collection, analysis, and application within broad domains of health, including healthcare delivery, public health, consumer health, clinical research, and translational research,” Fridsma wrote.
+Informatics is key for ensuring that the healthcare industry can meet the Framework’s goals for fostering innovative research and development of new health IT tools and strategies, the letter asserts.
+Among these goals are the reduction of data siloes, the development of safe and effective patient-centered health IT solutions, and the opportunity for stakeholders to accelerate interoperability, analytics, and systemic knowledge across a collaborative research ecosystem.
+READ MORE: Nurse Informaticists Can “Triage” EHR Optimization Problems
+The Networking and Information Technology Research and Development Program (NITRD) working group brings together a number of entities intimately involved in the creation and maintenance of health IT initiatives, regulations, and standards, including AHRQ, the ONC, the National Institutes of Health, NIST, several offices within the Department of Energy, and the National Science Foundation.
+“These kinds of interagency efforts are tremendously important,” Fridsma said. “Federal R&D support is necessary to help the private sector achieve the promise of a networked, connected health ecosystem.”
+“Funding efforts meant to make sense of the oncoming deluge of data in the service of care delivery and wellness represents one of the largest opportunities faced by the federal government.”
+The working group should collaborate with other members of the industry to accelerate the development of clinical decision support tools that will allow providers to extract and leverage actionable insights from big data, AMIA suggests.
+In order to bring clinical decision support to scale, the industry will need to focus on improving health data exchange and interoperability as well as cultivating a workforce skilled in informatics and data science.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+To create a generation of healthcare professionals with “informatics literacy,” federal agencies should encourage informatics training and support educational programming for those interested in applying data science to real-world problems in the patient care environment.
+AMIA has previously made similar recommendations in response to requests for comment issued by other industry leaders.
+Improving interoperability, creating shared data standards, and streamlining the creation, movement, and analysis of EHR data are all high on the organization’s agenda. 
+By improving data quality, curation, and exchange at a foundational level, the industry could bolster patient engagement and collaboration between disparate stakeholders, AMIA asserts.
+“We lack a formalized approach to combine discrete data elements for specific use cases – e.g. quality measurement,” Fridsma said in the letter to NITRD.
+READ MORE: AMIA: Consider Broadband Access a Social Determinant of Health
+“Were EHRs, for example, able to provide full digital exports that maintained computability for all patients who ask for them, then we expect a dramatic proliferation of tools and applications would arise to help patients utilize their data.”
+Because patient records to not include a “digital, computable ‘print all’ button,” individuals are unable to share their personal health records easily or completely when visiting multiple providers, AMIA says.
+“Likewise, clinicians complain about the usability of their systems, but they are unable to export their patient data from one system and import it into another without tremendous cost – indeed, they will likely never get all the data from one system to another, but only summary records.”
+Informaticists can help to bridge these gaps by offering their analytics and data governance expertise to developers, federal agencies, healthcare organizations, and other necessary stakeholders.
+The working group’s research and development framework is an important first step towards crafting an interoperable health system driven by big data and supported by policies that encourage innovation.
+“We appreciate HITRD IWG’s work in this important area, and we are excited about the possibilities this new paradigm will have for bringing new and innovative therapies to American consumers,” the letter concludes.
+“We look forward to working closely with NITRD and the HITRD IWG to bring the expertise of health informatics professionals to our exciting and shifting paradigm for health and healthcare.”
+Tagged Applied AnalyticsClinical InformaticsEHR UsabilityHealthcare Data GovernanceInteroperability
+
+

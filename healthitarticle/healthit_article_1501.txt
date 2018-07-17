@@ -1,0 +1,117 @@
+WEDI to Examine Data Analytics Backbone of Bundled Payments
+
+April 10, 2015
+
+By Jennifer Bresnick
+April 10, 2015 - The Workgroup for Electronic Data Interchange (WEDI) has announced the formation of a new committee focused on assessing the data analytics and health information exchange underpinnings of bundled payments and other value-based reimbursement initiatives.
+A project team spun out of the Payment Models Workgroup will dig into the health IT infrastructure necessary to support bundled payments and reimbursement based on concrete episodes of care, an increasingly popular structure for payers seeking to control the skyrocketing costs of diseases like cancer while reducing negative variations in care quality.
+“As the healthcare industry continues to evolve payment from fee-for-service to fee-for-value, WEDI is taking the initiative to lead industry efforts to ensure that the new models are effectively leveraging technology to make the movement of payment-related data as efficient as possible,” said Devin Jopp, EdD, president and CEO of WEDI. “With the gaining momentum of the bundled payments, WEDI is convening leading healthcare organizations to help develop industry guidance on how to streamline the exchange of clinical and administrative data in these forms of payment models.”
+Both private payers and CMS are actively pursuing bundled payments as a cost containment measure, and their experiments have quickly borne fruit.  Last year, UnitedHealthcare revealed that its bundled payment program for oncologists reduced costs by more than a third before quickly expanding enrollment to additional organizations.  CMS followed suit with its new accountable care options for cancer patients, while providers like the Cleveland Clinic’s Heart and Vascular Institute are embracing the bundled payment trend to reduce overutilization of services, standardize treatments, and receive adequate compensation for acute episodes of patient management.
+UPMC Wins Award for Healthcare Big Data Analytics Excellence
+ICD-10, Population Health Management Atop Hospital Budgets
+AMGA Launches Chronic Disease Management Goals for Diabetes
+ONC Releases Final 2016 Health Data Interoperability Advisory
+Smart Pillbox Produces 80% Diabetic Medication Adherence Rate
+IBM Patents Machine Learning Model for Pharmaceutical Discovery
+New Medical Scribe Exam Keeps an Eye on EHR Data Integrity
+Debate, concern over AHA cardiac risk calculator grows
+Health Information Exchange Data Scarce, Inaccurate, Incomplete
+ACOs recognize role of big data, but analytics remain elusive
+CMS: Help us reform payments to better manage chronic disease
+Why are EHR Alerts, Clinical Decision Support So Ineffective?
+Predictive Analytics Market Set to Grow at 24.5% CAGR
+Blue Button Makes Progress with Patient Engagement, PHRs
+Top quality Joint Commission hospitals nearly double in 2012
+Humana Pins Social Determinants of Health to Better Quality of Life
+How does population health management meet social media?
+Broader Availability of Genetic Testing a Boon for Precision Care
+Population Health Management New Focus for Retail Clinics
+Stage 7 “Most Wired” Cancer Hospital Leverages EHR, mHealth
+Poor Data Governance Practices Restrict Usefulness of EHRs
+UCSF Takes Aim at Health Data Interoperability with New Platform
+FDA Drafts Docs on Next-Gen Sequencing for Precision Medicine
+VA Lighthouse API Platform with FHIR Enables Health Data Access
+Big Data, Clinical Analytics Will Produce Quality Improvement
+United cuts more Medicare doctors to control costs in MA
+How to Avoid the Five Biggest Risks of ICD-10 Implementation
+Risk of Heart Attack Jumps with Non-Obstructive Heart Disease
+EHR Scribes Save Time, But Do They Produce Accurate Health Data?
+DOD Awards $77M Healthcare Big Data Analytics Contract to CACI
+Will Risk-Based Population Health Management Take Off in 2017?
+Next-Gen Genomic Testing a Focal Point for Precision Medicine
+Cancer Patient Care Coordination Key to Medical Home Program
+EHR analytics, financial reform will change pharmacy practice
+Big Data Analytics Cuts Medicaid Opioid Abuse, Ups Patient Safety
+Optum Risk Management Analytics Cut Opioid Use by 14%
+Why do providers need to integrate analytics into the EHR?
+Can Providers Overcome Vendor Inattention to EHR Usability?
+Former Telemedicine Leader Founds Artificial Intelligence Group
+US ranks last in international care access, quality report
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+Why have hospitals stopped buying data analytics infrastructure?
+CMS Eases Medicaid Barriers to Substance Abuse, Opioid Treatment
+EHR Use, Population Health Lessons from a Davies Award Winner
+Docs “uncomfortable” testing, treating kids with genetic issues
+Mismatched Symptoms Call EHR Data Integrity into Question
+CMS Seeks Participants to Take the Million Hearts Challenge
+ONC Exploring Use of Blockchain in EHRs, Healthcare IoT Devices
+Humana, UC San Diego enter accountable care agreement
+FDA Eager for Precision Medicine Under 21st Century Cures Act
+Is ICD-10 Dual Coding Proposal Even a Feasible Alternative?
+Mostashari raises $4.5M for new accountable care startup
+Microsoft Places Bid in the AI Gold Rush with New Healthcare Team
+Artificial Intelligence, Genomics Combo Boosts Precision Medicine
+What are the obstacles that prevent good healthcare analytics?
+Medicaid Gets a Big Data Boost with Funding, Analytics Tools
+What role will CMS play in healthcare big data, analytics?
+Poor Medication Adherence Impacts Close to Half of Diabetics
+Value-Based Care Fuels Healthcare Big Data Analytics Market
+Accountable care requires outreach and a commitment to change
+CMS Urges Providers to Tackle Minority Health Disparities
+Home-Delivery Meds May Be Solution to Medication Non-Adherence
+AMA: Real EHR Data in Med School Will Boost “Informatics IQ”
+Healthcare Looks to Real-Time Big Data Analytics for Insights
+84% of EHR Replacements Focus on Big Data, Population Health
+Healthcare Internet of Things, EHR Markets to See Rapid Growth
+Using Machine Learning to Target Behavioral Health Interventions
+UMass professor receives $500K grant for mHealth big data
+EHRs, IoT, Revenue Cycle Bring Opportunities for Healthcare APIs
+ECRI: “Most If Not All” Patient Identification Errors Preventable
+Demographic Data Quality Key in Improving Patient Matching
+EHR Documentation Burdens Bring Usability, Satisfaction Declines
+Apple Explores Medical Data with Health Records API, Patents
+Developing a Health IT, Big Data Analytics Strategy for 2015
+Patient Navigators Shave Hours from Hospital Discharge Times
+Depression screenings for diabetics improve self-management
+AMA, AHA Applaud Providers for Blood Pressure Control Successes
+North, South Carolina Partner for Chronic Disease Management
+FDA using EHR data analytics to monitor drug safety
+Amazon Scoops Up PillPack in Possible Population Health Play
+6 EHR, Big Data Issues Impede Patient Safety, Cut Quality
+Health Information Management Pros Need Security, EHR Data Skills
+Greenway Adds CommonWell Interoperability Services to EHR
+Population Health Management Starts with Flagging High Costs
+EHRs Should Collect Behavioral Data for Population Health
+Foundation Funds $5.7M Population Health Management Playbook
+Clinical Analytics, EHR Alerts Increase Drug Safety by 80%
+EHR Big Data, Lab Specimens Enable Precision Medicine Research
+How Patient Safety Organizations Encourage Data Collection, Quality Care
+Evidence for PCMH success builds with lower costs, ED visits
+WI Hospitals Partner for Accountable Care, Population Health
+ONC: Don’t Let HIPAA Errors Hinder Population Health Management
+Bringing the Patient Voice into an Accountable Care Organization
+The Sequoia Project Updates Patient Matching Framework
+CMS: 1% of docs account for 14% of Medicare billings
+FDA: Drug Development Transparency Key for Precision Medicine
+Mental Health, Primary Care Integration Cuts Depression Scores
+Machine Learning Can Flag Adverse Drug Events in Unstructured Data
+Philips, GE dive into clinical informatics with new businesses
+Using Business Intelligence, KPIs for Revenue Cycle Management
+“Bundled pricing is something that patients and care providers want, and this is our first opportunity to better understand how we can manage costs without sacrificing quality care and patient outcomes,” said Thomas W. Feeley, MD, head of Anesthesiology and Critical Care at the MD Anderson Cancer Center and leader of its Institute for Cancer Care Innovation.  MD Anderson joined the UnitedHealthcare bundled payments pilot in December to measure the impact of standardized care paths for certain head and neck cancers.
+In an accompanying issue brief, WEDI explains that bundled payments are about more than just controlling costs.  When providers receive payment for a limited number of services, they must be significantly more conscious of care coordination and have an increased financial incentive to deliver preventative care that may preclude more serious conditions that could lead to complications that fall outside of the scope of their bundled payments.
+To make the reimbursement scheme truly effective for providers, they must rely on clinical data, health information exchange, predictive analytics, and historical claims data in order to target services appropriately for an individual patient within a given episode, as well as gain insight into the potential needs of the population at large.
+The WEDI workgroup will help providers predict their future revenue streams and take full advantage of current accountable care arrangements by developing guidance related to the data analytics and health information exchange capabilities required to participate in this form of population health management.
+Its first mission will be to craft and release a white paper entitled “The State of Technology to Support Payment Bundles in 2015,” which will break down the reimbursement landscape and associated health IT requirements by stakeholder type.  The report will include examples of health IT use, information on data standards that must be adopted in order to further industry-wide interoperability, and illustrate how health IT adoption can impact the entire care continuum.
+Tagged Accountable CareAnalytics InfrastructureRevenue Cycle Management
+
+

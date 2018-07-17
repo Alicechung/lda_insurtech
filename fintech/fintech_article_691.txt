@@ -1,0 +1,29 @@
+ESMA Talks About Blockchain
+
+July 25, 2017
+
+Drum roll ladies and gentlemen, it finally happened! We finally saw a long awaited milestone in the European Blockchain regulatory scene and it just might become another kick start factor for the further development in the field. The European Securities and Markets Authority (ESMA) released a report called Distributed Ledger Technology Applied to Securities Markets build on the discussion paper released last year in June. The main European Union securities authority notes that Distributed Ledger Technology (DLT) also known as Blockchain technology could bring huge cost efficiency savings “notably, more efficient post-trade services, enhanced reporting and data management capabilities.”
+
+ More specifically, ESMA who provides supervision over Europe’s financial market and infrastructure foresees DLT as having a profound effect on CCPs and CSDs, but regulatory grey areas still remain grey. On one hand, there needs to be less on some regulatory regimes, but on the other, there needs to be new legislation to mitigate potential emerging risks when applying Blockchain technology to financial markets. The authority states that beyond financial regulation, other areas of law such as competition, contract and company law may hinder the immediate scalability of DLT.
+
+ The main highlights of the report were:
+
+ ESMA also brought to light that the consolidation of date across multiple asset classes, would allow for better transaction reporting and risk management strategies. This would tie into better KYC and AML procedures as one can store information in one ‘golden’ entry of information on your customer. However, this is not new.
+
+ BlockEx Digital Asset Exchange Platform (DAXP), brokerage software and bespoke Blockchain based software solutions provide all of the above. Its digital asset issuance tool can create, customise and issue traditional securities such as bonds. The issuance process creates a token or in the words of ESMA a ‘golden record’ of ownership, which when in the investor’s wallet infrastructure, can be programmed with the help of smart contracts and automate post trade services, i.e. coupon payments.
+
+ The fact that the security has been issued on top of a Blockchain leads to the additional efficiency gains such as single step reconciliations and almost instantaneous clearing and settlement. This smashes the target of the EU to have clearing and settlement completed in at most T+2.
+
+ This would decrease a number of counter party and credit risks for users of DAXP. Not to mention the fact that cost would be significantly cut as clearing, settlement, reporting and compliance services will be automated.
+
+ BlockEx has also developed other services that bridge the gap between assets in the current capital markets infrastructure to be transferred into DAXP, however, this will be revealed later on.
+
+ Among many benefits ESMA claims that there are a number of downsides. This is inherent to financial markets and not DLT itself. For example, ESMA claims cyber-security issues are not fully addressed by DTL. Has ESMA forgotten about the Bangladeshi bank heist in 2016? Was this because the technology was not robust enough? Cyber security is always going to be an issue regardless of the technology used. ESMA also states that KYC and AML procedures may not be adequate. Again this is an issue of the existing system not the technology itself.
+
+ Another complaint is that implementing DTL to existing market structures could lead to a decrease in competition as market operators will have monopolies. They could charge high entry fees, not too dissimilar to the London Stock Exchange, especially if you consider the merger attempts with Deutsche Borse. ESMA says this could have a negative impact of the cost and quality of the service.
+
+ To conclude, ESMA has reiterated that the financial services industry is going to be disrupted by Blockchain start-ups or collaborations, as the benefits and cost savings are too great. Blockchain technology is here to stay. The potential risks of Blockchain technology implementation into financial markets infrastructure are risks that are inherent to any financial infrastructure regardless of the technology. The incumbent entities have everything to lose if they fail to take advantage of this new technology.
+
+ Adam Leonard, BlockEx CEO
+
+

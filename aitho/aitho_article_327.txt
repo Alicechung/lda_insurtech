@@ -1,0 +1,26 @@
+AI Global Launches The World’s First Open AI Marketplace
+
+13 Jun 2018
+
+Leading organizations, including CognitiveScale, data.world, HyperGiant, IEEE, USAA, and UT Austin collaborate with non-profit to advance Responsible AI
+A broad alliance of leading data, technology, and digital services organizations today joined forces with AI Global, a non-profit organization focused on advancing the responsible design, development, and use of artificial intelligence (AI) technologies, to launch the AI Global Marketplace, the world’s first open AI marketplace.
+Read More: Do You Have A Response Plan In Case Of A Data Breach Under GDPR?
+This alliance includes CognitiveScale, data.world, HyperGiant, IEEE, USAA, and The University of Texas at Austin, and will advance the common goal of greater collaboration around the adoption of Responsible AI. AI is expected to redefine almost all aspects of how we work and live leading to an explosion in AI-enabled business applications. However, many AI projects are struggling due to a lack of a clear understanding of which business processes to improve; a lack of easy access, ensured authenticity and audit trails; and a lack of expertise and tooling between data science workflows and the software development lifecycle.
+To address these challenges, AI Global developed the AI Global Marketplace, designed to accelerate enterprise adoption of Responsible AI. A first-of-its-kind initiative, the AI Global Marketplace is an online AI collaboration hub that brings together high-value AI building blocks and digital professional services to accelerate best practices in practical and responsible applications of AI technologies.
+Read More: How Your Small Business Can Tackle GDPR And Comply Today
+Tom Meredith
+“The future of AI is critically dependent on stakeholders working together to create best practices, share findings and insights, and drive hands-on innovation,” said Tom Meredith, Chairman of AI Global. “Unlike traditional think tanks, this marketplace provides an open ‘do-tank’ environment that furthers our mission at AI Global to advance adoption of digital intelligence to benefit humanity.”
+An App Store for AI
+The AI Global Marketplace will host more than 2,000 high-value AI assets focused on customer engagement and process intelligence problems for the banking, insurance, healthcare, and digital commerce markets. With the AI Global Marketplace, data scientists, software developers, researchers, and business experts can rapidly and securely discover, collaborate, and consume AI building blocks with ensured authenticity and audit trails to build AI systems that increase user engagement, improve decision-making, and deploy self-learning business processes.
+Read More: Autonomous Vehicle Sensors Conference Comes To San Jose In June
+Matt Sanchez
+“Partnering with AI Global is vital to simplify the significant data, infrastructure, tooling, and skills requirements in building Responsible AI systems,” said Matt Sanchez, Founder & CTO of CognitiveScale. “Together we are building a new, standards based global AI innovation ecosystem that will explore how AI and cognitive technologies transform industries and our daily lives.”
+All the software assets in the AI Global Marketplace are based on the beta version of an open interface called the Cognitive Agent Modeling and Execution Language (CAMEL) and can be thought of as a language for programming cognitive agents. CAMEL is a standard, language-agnostic, and platform-agnostic specification that describes the composition and orchestration of skills, data, and machine learning models to define and execute a cognitive agent that is used to augment human intelligence. It is aligned with IEEE 7000 standards for Addressing Ethical Concerns During System Design and leverages standards such as the Open Neural Network Exchange (ONNX) for representing deep learning models that can be transferred between frameworks. CAMEL is being released as a family of open specifications and is available immediately at https://camelai.org and on GitHub.
+Read More: Kraken Joins NVIDIA Inception Program
+Jon Cholak
+Using CAMEL, data owners, model developers, and skills owners have the choice to connect, upload, and enrich their work in the AI Marketplace—for instance, an insurance claims data set or a pre-trained machine-learning skill that identifies the extent of car body damage from a photo—and get paid if another person or company uses their marketplace contribution.
+“As a founding member of AI Global, we’re delighted to see this innovative offering,” said Jon Cholak, Investment Director, USAA. “The AI Global Marketplace will really help software developers, data scientists, AI researchers, and product managers share high value assets, best practices, and enable the industry to innovate at a faster pace.”
+Read More: NVIDIA Introduces HGX-2, Fusing HPC And AI Computing Into Unified Architecture
+Future developments to the AI Global Marketplace will include blockchain based mechanisms to securely enhance data ownership assurance. It will also include a new digital token-based micropayment marketplace to help securely transfer, buy, and sell fine-grained data, models, skills, and agents allowing a business-to-business AI economy, as well as allowing researchers and hobbyists to participate.
+
+

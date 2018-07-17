@@ -1,0 +1,49 @@
+Chatbots May Be Healthcare’s Artificial Intelligence Entry Point
+
+April 02, 2018
+
+By Jennifer Bresnick
+April 02, 2018 - Chatbots and virtual assistants may offer healthcare organizations a low-cost entry point into the burgeoning world of artificial intelligence, indicates a new cross-industry survey conducted by Spiceworks.
+By 2019, up to 40 percent of large businesses are likely to integrate virtual assistants like Microsoft Cortana, Apple’s Siri, Amazon Alexa, or Google Assistant into their day-to-day workflows.
+About a quarter of smaller and mid-size companies are planning to do the same as they search for more efficient ways to keep productivity high and engage in an increasingly tech-focused workplace.
+Voice recognition tools are nothing new for the healthcare industry – many clinicians already rely heavily on voice tools for dictation – but chatbots and ambient computing devices offer a new level of interaction with entities that do more than record documentation.
+Chatbots and virtual assistants, which are generally low-cost and widely available, may soon find their way into the clinical environment as medical scribes, ordering assistants, and patient engagement aids.
+READ MORE: Medical Imaging is Healthcare’s Artificial Intelligence Bellwether
+On the administrative side, organizations are already using Alexa, Siri, Cortana, and others to staff their help desks, take on customer service duties, and help teams collaborate, the survey says.
+Microsoft Cortana is currently the most population option among entities that have already implemented AI services, with 49 percent of organizations relying on the tool. 
+Native integration in Windows 10 may be giving Cortana the edge over other devices and services like Siri (47 percent), Google Assistant (23 percent) and Amazon Alexa (13 percent).
+Fourteen percent of organizations are using chatbots in concert with team communication and instant messaging tools, such as Slack and Microsoft Teams. 
+Few organizations (2 percent) are building their own chatbots from scratch, but an additional 10 percent will investigate or commit to doing so over the next twelve months.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+Voice recognition and AI chatbot functions are being used to support both internal and external communications. 
+Forty-six percent of current users are leveraging voice-to-text functionalities, while 26 percent are helping their teams collaborate more efficiently through virtual assistants and communication features.  Only 10 percent are engaging in data analytics tasks using these tools.
+Source: Spiceworks
+Perhaps surprisingly, only 14 percent of companies are currently using chatbots for customer service, although 20 percent said they are using them to “support their customer service departments” in some way.
+Most organizations are deploying these tools and services in their IT departments instead.  More than half (53 percent) of current users are letting their IT professionals take the lead, while 23 percent are using virtual assistant tools in their administrative divisions.  Just 16 percent are employing AI chatbots and assistants in sales and marketing.
+Reluctance to commit to wider deployments is driven by a number of familiar concerns, including privacy and security and insufficient use cases. 
+READ MORE: Will Clinical Decision Support, Health IT Cut Diagnostic Errors?
+Twenty-nine percent of organizations are worried about the privacy and security of the data transmitted through these platforms, while 50 percent simply do not see an immediate application for the toolset.
+Only 25 percent stated that the costs of these services are prohibitive, perhaps reflecting the speed and ease with which they have found their way into the consumer technology landscape.
+Adoption numbers are expected to rise as artificial intelligence becomes more and more aligned with the needs of healthcare providers and other businesses, but many organizations feel unprepared to expand the role of AI in their workflows and processes.
+More than three-quarters think AI will help to automate routine tasks that take up unnecessary time and manpower – up to 19 percent of these mundane jobs could eventually fall under the purview of AI, respondents said. 
+Interestingly, 19 percent of organizations have held off on implementation due to the belief that these tools would actually distract their workers and reduce productivity rates.
+Either way, just 20 percent of participants think their organizations are prepared to handle this major shift.
+A mere 5 percent of survey respondents said their companies value AI skillsets when making hiring decisions, which could imperil their eventual success in an increasingly AI-driven world.  Even fewer organizations have developed usage policies or training programs for employees already engaged with these tools.
+The mismatch between interest and investment is common when it comes to artificial intelligence. 
+In late 2017, the Center for Connected Medicine found that AI ranked lower as a priority for healthcare organizations than cybersecurity and precision medicine.
+And early adopters responding to a recent HIMSS Analytics poll expressed ambivalence or disappointment in some of their cutting-edge deployments, noting that many AI tools are simply not ready for prime time, despite their promises for population health, clinical decision support, and patient diagnosis.
+Forty-three percent of participants in that survey also cited unclear or unproven business cases as a reason to defer deployment, echoing the 53 percent of respondents to the Spiceworks poll who thought the same about chatbot tools.
+The lack of maturity may also play a role in deciding whether ambient computing and voice recognition tools have meaningful applications in the business environment.  Errors in communication are common, and may be particularly frustrating or even dangerous in the patient care environment.
+Source: Spiceworks
+Fifty-nine percent of respondents to the Spiceworks survey said their virtual assistants or chatbots have misunderstood their requests or misinterpreted the nuances of human dialogue.
+Thirty percent said these AI companions have executed inaccurate commands, while 14 percent said they supplied inaccurate information.
+Since most of the devices and services in use are commercial products that have not been developed in-house, there is little that these organizations can do to improve their interactions on their own. 
+That could be why only 7 percent of respondents are planning to spend more than $10,000 on AI technologies in 2018.  Sixty percent of companies are not seeking to devote any budget at all to AI this year.
+Voice-assisted artificial intelligence may become more popular as technology vendors integrate these interface options into their products more completely. 
+Especially in the healthcare space, where privacy and security are closely governed and patient safety is of paramount concern, ensuring that these tools are adequately developed and adapted to the clinical environment will be crucial.
+If ambient computing devices can prove their benefits, they may offer an easier on-ramp into the world of artificial intelligence than is currently on offer with clinical decision support and diagnostic tools. 
+With a consumer-friendly focus and inherent integration into existing, familiar platforms and services, chatbots and virtual assistants could find a place in healthcare relatively quickly.
+However, use cases for these devices and services must be clearly articulated and tested before most healthcare providers are likely to pursue large-scale adoption, putting the onus on vendors to put AI through its paces to ensure that they can support quality care, better patient interactions, and higher levels of provider productivity.
+Tagged Ambient computingArtificial Intelligence in HealthcareClinical DocumentationMachine LearningNatural Language ProcessingSpeech recognition
+
+

@@ -1,0 +1,36 @@
+Health Data Exchange, Interoperability Can Aid Antibiotic Stewardship
+
+February 06, 2018
+
+By Jessica Kent
+February 06, 2018 - To effectively implement antibiotic stewardship programs, hospitals should boost operations with health IT tools, improve data interoperability and data resources, and expand beyond traditional stewardship organizational models, according to a study published in The Joint Commission Journal on Quality and Patient Safety.
+Improper antibiotic stewardship can lead to antibiotic resistance in patients, which negatively impacts mortality, morbidity, and length and cost of hospital visits. However, many hospitals struggle to implement successful antibiotic stewardship programs (ASPs).
+“As of 2014, only 39 percent of hospitals in the United States reported having an ASP that met all recommended elements of stewardship programs, and only 55 percent had any ASP infrastructure,” the researchers wrote.
+Researchers conducted interviews with 12 program leaders at four health systems with effective ASPs in place to determine the characteristics and innovative strategies driving their success.   
+All participants said that implementing various health IT tools had improved operations and communication within their programs. Each of the ASPs had installed software that would generate numerous alerts for clinicians. These alerts could include opportunities for intervention and communication between members of the stewardship team.  
+READ MORE: FDA Antibiotic Stewardship Tool Offers Centralized Data Resource
+While one respondent noted the potential for these alerts to cause alarm fatigue for providers at the point of care, participants generally viewed these alarms as an invaluable tool when directed at ASP leaders. One pharmacist called software alerts aimed at ASP leaders “game-changing.”
+Technology also played an important role in helping ASP leaders identify patients in need of targeted interventions. New microbiological methods rapidly identified bacterial species and genetic resistance markers. Clinical systems would then send a real-time alert to an ASP leader, who could advise the treating physician on antibiotic selection and use.
+One ASP developed an interactive, online database of antibiotic susceptibility information that providers could access from their smartphones. The program saw a dramatic increase in clinician use of the new tool over the previous static database.
+“In addition to facilitating communication, programs also used technology-based approaches to augment traditional strategies to control prescribing,” the researchers wrote.
+ASPs would previously order antibiotics to be automatically discontinued after a predefined number of days, a practice that had great potential for error if antibiotics were discontinued prematurely.
+READ MORE: Clinical Analytics, Antibiotic Stewardship Boost Patient Safety
+To alleviate this issue, one program offered a separate long-term antibiotic order set if longer duration was necessary. The order set included elements to select antibiotic duration and laboratory monitoring.
+Another program created a daily list of patients whose antibiotic prescriptions were stopped without being discontinued and allowed ASP leaders to review it for errors.
+One ASP planned to implement an antibiotic time-out technology that would automatically pull in laboratory, culture, and radiology results, and would require providers to reassess antibiotic appropriateness and duration in a structured way.
+Despite the fact that health IT tools have improved antibiotic stewardship so far, there is room for improvement.  Many respondents saw a lack of interoperability within institutions as a barrier to health IT efficiency.
+“Lack of integration between stewardship software and the electronic health record (EHR) was viewed as a particularly important barrier because of poor communication of recommendations and the additional effort needed to duplicate documentation in multiple places,” the researchers wrote.
+READ MORE: Are Health Data Interoperability Standards the Same in Theory as Practice?
+Participants voiced concerns with stewardship software containing inaccurate antibiogram data, because the systems failed to accurately reflect susceptibility results reported from a microbiology database.
+“One of the biggest challenges is linking improved antibiotic utilization to improvement in resistance trends,” an ASP leader added.
+To combat this problem, ASPs were working to provide unit-based pharmacists and individual prescribers with more customized data feedback. Although more difficult to obtain than aggregate hospital data, unit-specific or individual prescriber data is viewed as a more effective way to link prescriber performance and outcome measures.
+Many interviewees said that involving pharmacists and physicians with no specialized infectious disease training in stewardship activities had improved their programs.
+Traditionally, ASPs are conducted only by small groups of specially trained pharmacist and physician leaders. Expanding ASP training extends the reach of stewardship, the respondents noted, and could effectively influence physicians who are resistant to changes in workflow due to stewardship intervention.
+“If prescribers within a given specialty are involved in coming up with something, then they're more likely to sell it to their colleagues,” said one ASP leader.
+In addition, respondents also stressed the need for ASPs to use the structure of infection control programs as a model guide, but to also distinguish themselves as separate entities.
+Although these two programs overlap, respondents stated that failing to make ASPs structurally independent could result in poor allocation of resources for stewardship.
+The researchers’ findings demonstrate that utilizing IT strategies, improving software interoperability, and changing the traditional ASP model can drive successful ASP implementation and help combat antibiotic resistance.
+“These perspectives will help ASPs in setting program priorities in an era in which quality metrics and regulatory and accreditation requirements are linked to successful ASP implementation,” they concluded.
+Tagged Health Data ExchangeHealth IT InteroperabilityHealth IT UsePatient OutcomesPatient Safety
+
+

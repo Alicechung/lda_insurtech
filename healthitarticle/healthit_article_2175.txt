@@ -1,0 +1,17 @@
+UPenn EHR analytics tool predicts risk of 30-day readmissions
+
+December 02, 2013
+
+By Jennifer Bresnick
+December 02, 2013 - Researchers from the University of Pennsylvania have successfully deployed a predictive analytics tool that can be integrated into an EHR in order to identify patients at high risk of being readmitted to the hospital within 30 days.  The team found that the best way to predict readmissions was to look at prior inpatient activity over the last year, and can now add a simple alert to the EHR noting a patient as a high risk for quick return to the facility.
+“The results we’ve seen with this tool show that we can predict, with a good deal of accuracy, patients who are at risk of being readmitted within 30 days of discharge,” said lead author Charles A. Baillie, MD, an internal medicine specialist and fellow in the Center for Clinical Epidemiology and Biostatistics at Penn Medicine. “With this knowledge, care teams have the ability to target these patients, making sure they receive the most intensive interventions necessary to prevent their readmission.”
+The hospital system also uses patient education, follow-up phone calls, and medication reconciliation techniques to keep vulnerable patients on the path to wellness after discharge.  However, the added help of the real-time predictive algorithm gave physicians an edge when trying to pay extra attention to patients with frequent hospitalizations.  Hospitals are already being penalized for high rates of unnecessary readmissions, and simple, EHR-integrated tools can help keep patients healthier and facility finances more stable.
+Researchers looked at retrospective data of all admitted patients from August 2009 to September 2012 to find that the best predictor of readmission was prior admission two or more times within twelve months.  While the new algorithm has not yet shown quantifiable results on the readmission rate, Baillie hopes that as use of the alert becomes more routine, physicians will be able to keep patients out of the hospital more often.
+Dig Deeper
+Nutrition Risk Assessment Saves $4.8M, Cuts Hospital Readmissions
+New Collaboration to Support Diabetes Prevention, Management
+Will Risk-Based Population Health Management Take Off in 2017?
+“By automating the process of readmission risk prediction, we were able to provide risk assessment quickly and efficiently in real time, enabling all members of the inpatient team to carry out a coordinated approach to discharge planning, with special attention paid to those identified as being at the highest risk for readmission,” added senior study author Craig Umscheid, MD, MSCE, Assistant Professor of Medicine and Epidemiology, and Director of the Penn Medicine Center for Evidence-based Practice.
+Tagged Accountable CareHospital ReadmissionsPatient CarePopulation Health ManagementQuality Of Care
+
+

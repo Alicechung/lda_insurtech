@@ -1,0 +1,48 @@
+APIs Boost Care Coordination, Data Exchange at Northwell Health
+
+March 20, 2017
+
+By Jennifer Bresnick
+March 20, 2017 - Northwell Health, the largest hospital system in the most populous metro region in the country, has a lot on its plate when it comes to conducting care coordination activities for more than 8 million people.  
+With 21 hospitals, over 2700 employed physicians, a medical school, and an extensive long-term care and rehab network under its umbrella, smooth and seamless data exchange is a must to ensure that providers have access to the most current, complete, and useful information available about their patients.
+Vish Anantraman, MD, MS, Chief Information Architect at Northwell Health
+Source: Northwell Health
+But traditional document-based information exchange loosely tethered to the electronic health record simply won’t cut it in such a complex environment, said Northwell Health’s Chief Information Architect Vish Anantraman, MD, MS.
+As healthcare organizations like Northwell implement population health management and care coordination programs to help them combat value-based reimbursement changes, they should start to invest in new methods of data exchange, Anantraman said, starting with the application programming interface (API).
+“As payments start to change, it has become an imperative to track and manage patients across different venues,” he told HealthITAnalytics.com during HIMSS17 this February in Orlando. 
+READ MORE: APIs, Population Health Take Central Role in MACRA Implementation
+“Northwell is also a large organization that’s been going through a number of acquisitions and other changes, so it’s becoming more important than ever before to make sure that we know exactly what is happening with our patients no matter where they are seeking care, if it’s within the system or not.”
+In order to achieve that goal, the health system must find a way to integrate true interoperability directly into the workflow – a perennial challenge for providers who have traditionally struggled with data siloes, a lack of standards, and proprietary EHR architecture that resists meaningful information exchange at every turn. 
+The first generation of interoperability was about messaging between systems,” Anantraman explained.  “We were basically moving documents back and forth, like sending an email with an attachment.  CCDs and HL7 methodologies have their value, but they can only get you so far.”
+Northwell’s solution is to employ APIs to “augment the existing functionalities of our EHR with features that not every EHR has right now,” said Anantraman.
+Can Application Programming Interfaces Inspire a Better EHR?
+READ MORE: Blockchain, APIs Take a Stab at the Healthcare Revenue Cycle
+“Some of these care coordination tasks may actually be outside of the domain of what EHRs traditionally do.  That is where the next phase of our health IT development is going to take us.  We need to think about applications in a modern way that doesn’t limit us to what we used to believe technology could or should do.”
+APIs provide data systems with standardized ways to connect to one another, allowing developers to leap over lingering technical barriers to making data flow between disparate applications. 
+For the healthcare industry, the sudden interest in APIs has the potential to revolutionize the way third-party developers interact with mainstream EHR “operating systems,” turning the fragmented health IT environment into a plug-and-play ecosystem that mirrors how everyday consumers use smartphones to access apps that add new functionalities to their core capabilities.
+“The next generation of health IT will be about starting a workflow in one application and continuing that workflow seamlessly in another – sharing data between those systems so that everyone is seeing the same information at the same time,” Anantraman predicted. 
+“That is where APIs come in to bring much deeper and more integrated functionality to the central systems we are currently using.”
+READ MORE: EHRs, IoT, Revenue Cycle Bring Opportunities for Healthcare APIs
+Admission, discharge, and transfer (ADT) notifications are a perfect pilot to illustrate how APIs can help providers overcome the deeply entrenched data exchange barriers of traditional technologies, he continued.
+“Our first-generation solution could create an ADT message and generate it into an email that went to the provider,” he said.  “But there were a few problems with that.  First of all, it isn’t always easy to identify who the right PCP is.  If the data is not well captured in the system, then you have to ask the patient.  They might say, ‘Oh, it’s Dr. Smith out in Levittown.’”
+“Well, which Dr. Smith is it?  There could be half a dozen, or the person entering the data could get the name wrong, or the patient might not even be able to tell us who their PCP is if they come to the emergency room unconscious.”
+Why Application Programming Interfaces are Key for Healthcare
+With an API, system developers can connect a tool that automatically extracts data from the patient’s visit history instead.
+“We can identify the five active providers in their record,” said Anantraman.  “Only one of them is likely to be a PCP, so that makes it a lot easier to get the notification to the right office.  We can target that specific provider instead of sending an email blast to everyone who is likely to be related to this patient, which saves a lot of aggravation all around.”
+The next step is to create a delivery method that is not disruptive to the intended recipient.
+“We were still working with an email, and that was problematic, too,” he said.  “Most physicians don’t want to have to check some separate system to see if there are any messages waiting for them.  They want the data in their EHR.  It has to be easily accessible or they aren’t going to make an extra effort – they don’t have the time.”
+Using an API provided by Allscripts, Northwell’s EHR vendor, the health system developed a way to place a detailed, customized ADT notification directly into the recipient’s workflow.
+“When the patient is admitted or discharged, we send out a message that says, ‘Mrs. Jones has been admitted to this unit in this hospital for this problem.’  It makes it much easier for the PCP to know they have to follow up – and what they’re following up about.”
+“We can also customize that message to make it more intuitive.  We can put a header on it that says if the message is a reminder, if it’s just informational, if there’s a document attached, or if it’s talking about a task that needs to be completed in a timely way.”
+After a patient leaves the hospital, the system appends the discharge summary to the ADT notification so that the primary care provider has that information easily accessible during follow-up activities, Anantraman added.
+Solutions for Addressing Health Information Exchange Challenges
+“It streamlines the workflow and improves patient satisfaction.  Patients like it because the physician or their nurse actually calls them within a reasonable time period to do care coordination and follow-up with them, or maybe the PCP even stops by to say hello when they’re in the hospital the next day for whatever reason.”
+Raising provider satisfaction with their EHR workflows is also an important goal for Northwell.
+“It is very tricky to make providers happy with their health IT tools, but we can make that happen when we put really relevant data and capabilities into their workflow without making them dig through different interfaces and inboxes and systems for simple pieces of information,” said Anantraman. 
+“That is always very time consuming and they get very little reward for the amount of effort they put into it.  It’s our job as technical experts to use the tools we have available to change that.”
+While a great many healthcare organizations have successfully deployed ADT notifications and other care coordination tools without using APIs, Anantraman believes that an API approach can significantly speed and simplify development while opening up new opportunities for creating even more sophisticated architecture.
+“We could certainly do some of those things with HL7, but APIs offer a lot more prospects to embed information right into the workflow,” he asserted.  “APIs can also allow the user to complete associated tasks, like referring that discharged patient to a cardiologist because they were originally admitted for a previously unknown heart issue.  With an API, it just takes one click to do that.”
+“APIs can make all these processes simpler and help get all this data where it needs to go without relying on that email structure that is becoming very outdated for the needs we have.  If we are going to succeed with the type of interoperability we have to enable for our providers, we’re going to have to keep investing in APIs and all of the next-generation functionalities that they can bring to us."
+Tagged Application Programming InterfacesCare CoordinationEHR WorkflowHealth Information ExchangeHIMSS17InteroperabilityInterviews
+
+

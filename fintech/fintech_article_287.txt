@@ -1,0 +1,41 @@
+Major Financial Industry Players Rally Around FDC3 To Provide Universal Technology
+
+March 30, 2018
+
+OpenFin brings together leading capital markets participants to power industry application interoperability and desktop connectivity. 
+
+ A newly formed group of major finance industry players announced that they have joined an OpenFin-led initiative to bring universal connectivity and standards to all of the financial industry’s desktop applications. The group, known as the Financial Desktop Connectivity and Collaboration Consortium or FDC3, is committed to addressing the increasingly fractured software landscape of capital markets.  FDC3 standards will enable faster decision-making, improve productivity and streamline workflow. OpenFin, the first operating system created specifically for finance, and the industry’s only technology designed to be unifying and application-agnostic, has contributed the open-source code that serves as the cornerstone for this new initiative.
+
+ The financial industry is powered by thousands of desktop applications for trading, market data, order management, analytics and productivity.  End users at banks and hedge funds use a combination of these in-house and vendor applications to do their work. Because these applications are difficult or impossible to connect to one another, end users are required to continuously re-key information, hampering productivity and creating operational risk.  The FDC3 initiative will solve the problem by creating common software and standards across industry applications.
+
+ Members of the FDC3 include Algomi, AllianceBernstein, Barclays, BGC Partners, BNP Paribas, ChartIQ, Citadel, Cloud9, FactSet, Fidessa, GreenKey, IHS Markit, J.P. Morgan, Morgan Stanley, OpenDoor, OpenFin, OTAS Technologies, RBC, RSRCHXchange, Trumid, TP ICAP, Wellington Management Company, and others.
+
+ Cyril Cottu, Global Head of Digital and eCommerce, Global Markets at BNP Paribas said: “Interoperability is a core pillar of our digital strategy; it has the potential to allow us to capture efficiencies through the creation of better workflows while freeing our teams to focus on innovation rather than re-invention. We are happy to be part of this initiative and excited about the possibilities.”
+
+ Bhupesh Vora, Managing Director, Markets Technology at Barclays said: “Communicating and sharing context between multiple apps without the huge overhead of bespoke integration will be a massive boost to productivity for both the development community and ultimately our salespeople and traders to get more done.  FDC3 will give us on the desktop what FIX gave us for server side interoperability between venues and clients.”
+
+ Michael Herskovitz, Co-Head of Operations and Technology at AllianceBernstein said: “We are committed to innovation, and excited to partner with OpenFin in creating solutions that could dramatically enhance the efficiency of firms and become a standard technology for the industry.”
+
+ Kim Prado, Global Head of Client Insight, Banking & Digital Channels Technology at RBC Capital Markets said: “We are delighted to join the FDC3. Together we will address the issues inherent within our fractured software landscape, enhance productivity through desktop interoperability and simplified workflow, and advance solutions that will drive efficiencies for the long-term.”
+
+ Christopher McGuire, Manager, User Interface Design and Development at Citadel said: “Integrated communications between financial firms is crucial to the efficiency of capital markets. We are excited to partner with OpenFin on this initiative and look forward to the benefits that it will bring to all market participants.”  
+
+ Jim Adams, Managing Director, CIB Technology at J.P. Morgan said: “Our Corporate and Investment Banking staff can use anywhere between 5-15 applications in their daily workflow.  Interoperability would allow this workflow to become seamless across applications and platforms, ultimately making our employees more productive and informed when talking to internal and external clients.”
+
+ Brad Levy, Managing Director at IHS Markit and CEO of MarkitSERV said: “This is the rare opportunity for the financial services community to create true interoperability across complex and varied desktop environments. Standardization of application identity and discovery, among other technical innovations, will improve how we distribute and integrate our products.”
+
+ Usman Khan, CTO of Algomi said: “The FDC3 is a strategically important global initiative, that will greatly help our industry standardise the integration of desktop applications in an efficient and scalable way. The FDC3’s strategy takes into account the vast investments, in top of stack desktop application suites, already made by the institutions and vendors in our space. It is therefore well positioned to make recommendations around how these applications can leverage each other, ultimately creating a very powerful user experience.”
+
+ Steve Grob, Director of Group Strategy at Fidessa said: “The FDC3 aligns perfectly with our broader outreach to top-tier firms.  In particular, the OpenFin messaging bus resonates with our own approach to provide customers with better levels of innovation and control.  This is important because all banks need to move faster than ever before, but without breaking what they have in place already.”
+
+ Borre Wessel, Managing Director, Technology at BGC Partners said: “Innovative technology is at the core of our vision, and we are delighted to expand our strong partnership with OpenFin through the FDC3. Interoperability and standardisation on the desktop will bring client experience in financial services to the next level.”
+
+ Josh Holden, CIO of OpenDoor, LLC said: “As a startup, OpenDoor has experienced first-hand the challenges of a Balkanized desktop. In order for innovation to thrive, there needs to be a way to easily integrate and open up existing workflows. To that end, OpenDoor is proud to support FDC3, not just for ourselves, but also for all the innovators to follow.”
+
+ As part of this initiative, OpenFin is open-sourcing and making freely available its state-of-the-art desktop connectivity technology which is already being used by most of the largest banks and many buy-side and vendor firms in the space.  OpenFin is also providing a central app directory which will be freely accessible and allow applications to identify one another safely and securely.
+
+ Mazy Dar, CEO of OpenFin said: “Today, the humans sitting at desktops are the integration layer between their applications. We believe the time has come to enable financial desktops with the same app interoperability that we take for granted on our iOS and Android devices.”
+
+ Paul Walker, OpenFin Independent Board Member said: “Open interoperability standards are vitally important for efficient workflow, great end-user experiences, and the creation of innovative applications. I’m thrilled that FDC3 takes the standards-based lessons we have seen work in so many sectors and brings them to open, interoperable desktop applications which users will love to use and developers will love to deliver in Capital Markets.”
+
+

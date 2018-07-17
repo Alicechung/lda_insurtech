@@ -1,0 +1,24 @@
+Online Map Reveals Geographic Disparities in Care for Autism
+
+May 16, 2017
+
+By Thomas Beaton
+May 16, 2017 - Research from the Journal of Medical Internet Research used crowdsourcing and data scraping methods to create an online map that revealed significant geographical disparities in care for individuals with autism.
+The interactive GapMap, created by a team from Stanford Medicine, showcases the US’s autism spectrum disorder (ASD) populations.  The resource reveals that the average person lives approximately 50 miles from the nearest autism diagnostic center.
+However, individuals who were actually diagnosed with ASD live an average of 20 miles from a diagnostic center, suggesting that patients who live farther away from ASD care are less likely to be diagnosed with the condition.  Alarmingly, the researchers also found that people with ASD can live upwards of 1130 miles from a diagnostic center.
+Dig Deeper
+FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+Wearable Devices, Machine Learning Detect Signs of Stroke
+“This study confirmed that individuals closer to diagnostic services are more likely to be diagnosed and proposes GapMap, a means to measure and enable the alleviation of increasingly overburdened diagnostic centers and resource-poor areas where parents are unable to diagnose their children as quickly and easily as needed,” the researchers said.
+“GapMap will collect information that will provide more accurate data for computing resource loads and availability, uncovering the impact of resource epidemiology on age and likelihood of diagnosis, and gathering localized autism prevalence rates.”
+Source: Stanford Medicine - GapMap
+GapMap not only highlighted what parts of the country are underserved, but also revealed which areas and diagnostic centers are overburdened with patients.
+On average, diagnostic centers had 18 times more demand for ASD diagnosis and treatment than their resources could handle. The data also revealed that 18 percent of ASD diagnostic centers in the US experienced 25 times more demand for ASD diagnosis and treatment than they could handle.
+The highest recorded demand-to-service ratio a single center experienced equated to 118-to-1.
+To alleviate the stress on some of these centers, the team suggests that more resources need to be invested into facilities, and that more specialists are required in order to close these disparities in care access.
+“There is a growing imbalance between the number of people who need autism care and the number of places that can provide care,” said the study’s senior author, Dennis Wall, PhD, and associate professor of pediatrics and biomedical data science at Stanford. “It’s a geographic distance problem. We need to quantify, in real numbers, the geographic disconnect between people and treatment options so that we can see where the gaps are.”
+“We really need to see where the imbalances are and how big they are as the first step to creating change in the health care system,” he said.
+Tagged Big Data AnalyticsPatient Access to CarePatient Centered CarePopulation Health
+
+

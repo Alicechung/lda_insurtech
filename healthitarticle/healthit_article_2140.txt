@@ -1,0 +1,17 @@
+Real-time data analytics accurately predicts local flu activity
+
+December 26, 2013
+
+By Jennifer Bresnick
+December 26, 2013 - A research team from Columbia University is doing its part to tackle the winter aches and sniffles by using real-time data from Google and the CDC to forecast influenza trends in an increasingly reliable way.  Jeffrey Shaman, PhD, and colleagues are now able to time the peak flu season up to nine weeks before the illness spreads to its greatest extent, giving patients and providers time to prepare with vaccines and other preventative measures.
+Seasonal flu costs the US healthcare system anywhere between $2.9 and $17.7 billion dollars a year, and can often exacerbate costly and difficult chronic cardiovascular and respiratory diseases among the elderly.  Annual deaths can range from 3,000 to 49,000, with up to 90% of those fatalities occurring among senior citizens.  The yearly rise of the flu is usually charted through historical data by CDC surveillance programs, but Shaman believes that weekly forecasts of flu activity using predictive trending data is far more accurate and useful.
+Using information from Google Flu Trends, which tracks the number and location of search terms associated with the disease, to supplement the CDC database, Shaman was able to accurately predict flu activity in 63% of the 108 cities involved in the project after only four weeks.  A few weeks later, the algorithm was able to raise its accuracy to seventy percent.  “Our method greatly outperformed alternate schemes,” he said.  “Having greater advance warning of the timing and intensity of influenza outbreaks could prevent a portion of these influenza infections by providing actionable information to officials and the general public.”
+Researchers are constantly seeking ways to bring disease predictions down to a very local level in order to provide the most detailed information for providers and patients.  Other disease tracking projects using real-time data include an effort to pinpoint strep throat outbreaks at Boston Children’s Hospital, and a series of efforts from researchers in Indiana to create block-by-block portraits of community health needs in order to better allocate resources and serve critical needs.
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+University of California Forms Big Data, Precision Medicine Network
+Clinical Analytics Studies, Partnerships Target Personalized Care
+“On the whole, the [flu tracking] system performed very well,” Shaman says of his works.  “We were able make better predictions in smaller cities.  Population density may also be important. It suggests that in a city like New York, we may need to predict at a finer granularity, perhaps at the borough level. In a big sprawling city like Los Angeles, we may need to predict influenza at the level of individual neighborhoods.”
+  Tagged Applied AnalyticsMedical ResearchmHealth and Population HealthPopulation Health ManagementPredictive Analytics
+
+

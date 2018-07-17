@@ -1,0 +1,19 @@
+NatWest Teams Up with Vocalink Analytics to Protect Corporate Customers from Fraudsters
+
+April 9, 2018
+
+NatWest has further strengthened its fraud protection systems with the adoption of a sophisticated machine learning solution. Corporate Fraud Insights from Vocalink Analytics detects and alerts on corporate payments. The system is designed to detect and prevent invoice redirection fraud – where businesses are duped into paying money into a fraudster’s account rather than to their intended supplier.
+
+ Vocalink Analytics and NatWest worked together to develop, test and launch Corporate Fraud Insights, which identifies and flags suspicious non-real time payments. Following its introduction last year, the solution has prevented losses of over £7 million to customers, with individual attacks often worth hundreds of thousands of pounds.
+
+ Lee Fitzgerald, Head of Fraud for Commercial and Private Banking at NatWest, said: “Detecting Invoice Redirection fraud is akin to finding a needle in a haystack, as there are tens of millions of legitimate non-real time payments every day. While the volume of fraud is relatively low, the values are typically large amounts, so the business impact of this type of fraud can be crippling. Corporate Fraud Insights is part of our on-going commitment to fighting payments-related fraud on behalf of our customers, helping businesses to stay safe and secure.”
+
+ Gary Kearns, Executive Vice President for Vocalink Analytics added: “We apply sophisticated analytical techniques to vast amounts of payments data to build models which identify suspicious activity.  Every time a business pays an invoice, a behavioural signature is left behind. By analysing these signatures, and the signatures of historical frauds, we are able to identify and flag suspected incidents of fraud. It has been a great experience working with NatWest to take live Corporate Fraud Insights. Most importantly, we are delighted to see how successful it has been in protecting business customers from payments-related fraud.”
+
+ Vocalink Analytics’ 2017 Small Business Fraud Report showed that the problem of business-related payments fraud is widespread, with a quarter (24%) of SMEs surveyed saying that fraudsters have attempted invoice fraud against their organisation. For small and medium-sized businesses, invoice redirection fraud can have devastating implications; between 2015 and 2016, Action Fraud cited a 66% increase in the number of reported cases of payments-related fraud in the UK.  CIFAS and Action Fraud warned small businesses to be on high alert for fake invoices earlier in 2016 after figures revealed a substantial increase in scams in the first six months.
+
+ The Small Business Fraud Report also found that, where business-related payments fraud has occurred, 23% of businesses lost money with 26% stating that they suffered losses of thousands of pounds while 9% lost millions of pounds. Nearly one quarter (23%) of the organisations impacted had to cut jobs or scale back the business as a direct result, and 11% recognised that they had to tighten up their invoice payment processes.
+
+ Vocalink Analytics advises that businesses should also adopt a more proactive approach when it comes to identifying and preventing payments-related fraud. Although financial institutions, such as NatWest, are adopting data-driven solutions and approaches such as Corporate Fraud Insights to help protect their customers, businesses themselves can also provide an extra layer of protection:
+
+

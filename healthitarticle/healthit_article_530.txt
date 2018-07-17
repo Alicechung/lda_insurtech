@@ -1,0 +1,24 @@
+SAP Joins Hyperledger, Building Healthcare Blockchain Momentum
+
+March 23, 2017
+
+By Jennifer Bresnick
+March 23, 2017 - Hyperledger, the cross-industry collaboration focused on operationalizing blockchain technology, is welcoming SAP to its ranks of “Premier” members, setting up an opportunity for another major companies with healthcare interests to invest in the secure distributed ledger technology.
+SAP is already a significant player in the healthcare space, with interests ranging from semantic computing to cloud storage to precision medicine.  Adding blockchain to the mix seems like a natural next step for the company – not to mention many of its biggest competitors – as consumers seek innovative ways to collect, store, analyze, and leverage big data.
+IBM, NTT Data, and Intel are also Premier members of the collaborative community, and all have made recent moves deeper into the healthcare space.
+Dig Deeper
+Blockchain Will “Change the Physics” of Health Data Sharing
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Google DeepMind: Blockchain Can Ensure Health Data Integrity
+"We believe blockchain is a transformative technology for enterprise businesses. We are committed to advancing its adoption via the creation of new standards, use cases, platforms and open applications," said Juergen Mueller, Chief Innovation Officer, SAP.
+"In joining Hyperledger, we plan to share our expertise and knowledge to help bring open distributed ledger technology to all businesses."
+For its part, Hyperledger is excited about the opportunities inherent in blockchain technology for the healthcare industry, and is pleased to continue growing its membership.
+"Having support from an enterprise software and cloud leader like SAP is an important step in the right direction," said Brian Behlendorf, Executive Director of Hyperledger.
+"The diversity of our members is a real strength, as we look to advance open blockchain technology POCs, pilots and production deployments across many industries this year. I couldn't be happier to see the level of collaboration and progress that is happening among our community right now."
+At HIMSS17 this year, Behlendorf told HealthITAnalytics.com that blockchain could fundamentally revolutionize how providers and patients interact with health data by providing a tamper-proof information sharing environment that allows users to set up sensitive controls and permissions that ensure patient privacy.
+“There’s an opportunity to capture the holy grail of health IT, which is to put the patient back in the center of their care,” he said.  “We can provide much more transparency balanced against confidentiality.  We can change the landscape of that by adopting blockchain – and hopefully cut the costs of bureaucracy and overhead that make healthcare so expensive.”
+Dominik Heere, Vice President of Innovation Engineering at the SAP Innovation Center Network will act as the company’s representative on Hyperledger’s board.  The collaboration currently boasts more than 120 members across multiple industries, including finance, engineering, and healthcare.
+“[Blockchain adoption] is not going to work if it’s just one company saying that we should all get on board,” Behlendor said.  “But if it’s a collection of companies brought together by a consortium, a professional society that embraces blockchain as a standard, or a shared pilot project across the whole continuum, then it could really gain some traction.  I’m optimistic that we’ll see that very soon.”
+Tagged Analytics InfrastructureBlockchain in HealthcareClinical AnalyticsSemantic Computing
+
+

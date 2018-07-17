@@ -1,0 +1,16 @@
+SQream Raises $26.4M In Strategic Series B Funding Round Led By Alibaba Group
+
+30 May 2018
+
+Funding Will Be Used To Cement SQream’s Position As The Leading GPU Database Of Choice For Enabling Enterprises To Maximize And Leverage Their Big Data Analytics
+SQream, developer of SQream DB, the leading GPU database for analyzing massive data stores at a fraction of the cost, announced today that it has raised $26.4 million in Series B funding. The latest round was led by Alibaba Group with participation from existing and new investors including Hanaco Venture Capital, Sistema.vc, World Trade Ventures, Paradiso Ventures, Glory Ventures, and Silvertech Ventures.
+SQream DB, a powerful SQL analytical database, enables companies to analyze up to 20 times more data, up to 100 times faster, at as little as 10% of the cost and administration. SQream DB harnesses the power of thousands of parallel processing cores in NVIDIA GPUs. The solution allows users to easily ingest, store and analyze tens to hundreds of terabytes of data and more with significantly reduced infrastructure and manpower resources. The result is unparalleled power and flexibility to explore and analyze massive amounts of data. The latest investment reinforces the rising challenge facing enterprises to take full advantage of rapidly growing data stores.
+Read More: Interview With Sam Kim, CEO, Lucidity
+“SQream is uniquely positioned to provide enterprises with the solution they require to lower the barrier for accessing and analyzing rapidly growing, large-scale data stores in the cloud. We are pleased to expand our relationship with SQream, and work together to accelerate the growth of the cloud industry,” said Chaoqun Zhan, Director of Alibaba Database Business.
+This strategic investment deepens the relationship between Alibaba Cloud and SQream. In February, the companies announced a collaboration agreement to provide Alibaba Cloud’s customers with a cost-effective way to set up, access and analyze data in the cloud, enabling more comprehensive analytics and previously unobtainable business intelligence.
+Ami Gal
+“We are very gratified with the vote of confidence we have received from this round’s lead investor, Alibaba Group, and our other key investors,” said Ami Gal, CEO and Co-founder of SQream. “The financing enables us to accelerate technological integration with ecosystem partners, and to grow our global sales and marketing team as we help enterprises worldwide meet the challenges of accessing and analyzing data from exponentially growing massive data stores.”
+SQream develops and markets SQream DB, a GPU database designed to enable unparalleled business intelligence from massive data stores. Global enterprises use SQream DB to analyze more data than ever before, while achieving improved performance, reduced footprint, significant cost savings and the ability to scale the amount of data they analyze to hundreds of terabytes and more. SQream DB is available both on-premise and in the cloud.
+Read More: How Virtual Nurses Are Elevating Patient Care
+
+

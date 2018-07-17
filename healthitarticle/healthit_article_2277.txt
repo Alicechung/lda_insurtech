@@ -1,0 +1,17 @@
+Privacy is the biggest concern in healthcare analytics, says poll
+
+September 18, 2013
+
+By Jennifer Bresnick
+September 18, 2013 - Nine out of ten data scientists agree: patients should be very concerned about their privacy when it comes to the enormous amount of data healthcare providers are collecting.  In a poll conducted by Revolution Analytics during the Joint Statistics Meetings Conference in Montreal this summer, 88% of the 865 attendees surveyed believe that consumers should worry about where their information is going and how it’s being used.
+Despite the concern, 92% of participants who work in the life sciences and healthcare believe that there should be an ethical framework for collecting and using patient data, and 64% noted that they already adhere to codified ethical standards when conducting data analytics.
+“With more organizations able to collect, store and explore their data for operational and market insights, we are seeing increasing demand for even more data and faster ways to derive insight from that data. From this survey we see that the people who are the most hands-on with the data – the statisticians – feel ethics should play a large part in data science and that an industry standard is desired to provide a professional, ethical framework,” said David Smith, vice president of marketing and community at Revolution Analytics. “Consumers have weighed in on this topic and it is important to know that statisticians share this concern.”
+As analytics becomes more integrated into hospitals and health systems, Deborah Peel, Founder and Chair of Patient Privacy Rights and Adrian Gropper, Chief Technology Officer of Patient Privacy Rights say that paying attention to patient privacy can help produce better analytics and keep patient trust in a hospital’s brand intact.  Following the Focus on Fair Information Practice Principles (FIPPS), which include transparency with data practices, data use limitations, quality and integrity, security, and accountability, can provide a robust framework beyond the basics of HIPAA to keep patients feeling comfortable and secure with the uses of their information.
+Dig Deeper
+Big Data Analytics Fuels Penn State Precision Health Research
+Does Social Determinants Data Enhance Population Health Analytics?
+Illinois to Use Blockchain for Healthcare Credential Management
+The results of the survey are “really a confirmation of what we would have expected to see,” Smith told InformationWeek. “These are people who have their hands working with data in and out every day. They understand the power of data and the importance of it being used in an appropriate fashion. You can put data to very powerful and good uses, and you can put data to nefarious uses.  And that’s something that statisticians and data scientists recognize.”
+Tagged Big Data AnalyticsHealth Data PrivacyHealthcare AnalyticsHealthcare Data AnalyticsHealthcare Data ManagementPatient Data
+
+

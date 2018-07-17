@@ -1,0 +1,37 @@
+Has Google Cracked EHR Speech Recognition for Medical Conversations?
+
+December 27, 2017
+
+By Jennifer Bresnick
+December 27, 2017 - Healthcare providers ready to throw their laptops out the window rather than spend another minute documenting care in their electronic health records may be pleased to know that Google is taking on the challenge of developing unobtrusive speech recognition tools specifically designed to record medical conversations.
+In a new research paper, a team from Google describes a system that doesn’t just capture after-the-consult dictation by a single clinician, but can capture a natural, casual conversation between providers and patients in a typically noisy clinic setting.
+Two different natural language processing models achieved respectable word error rates (WERs) of around 20 percent when applied to conversations involving drug names, clinical diagnoses, and other common elements of a medical consult.
+“Good documentation helps create good clinical care by communicating a doctor's thinking, their concerns, and their plans to the rest of the team,” wrote Katherine Chou, Product Manager and Chung-Cheng Chiu, Software Engineer, Google Brain Team, in an accompanying blog post.
+“Unfortunately, physicians routinely spend more time doing documentation than doing what they love most — caring for patients.”
+READ MORE: What is the Role of Natural Language Processing in Healthcare?
+A recent, widely-cited study from the University of Wisconsin and the American Medical Association found that primary care providers spend close to six hours of their 11.4 hour workdays on EHR-based documentation, and may add an average of 1.5 evening hours in the office to cope with their workloads.
+The study was merely confirmation of a long-standing truth for many providers who are facing epidemic levels of burnout: a separate survey from health IT vendor athenahealth in October found that close to half of physicians feel burnout coming on due to unsustainable workloads.
+Many industry players have suggested that natural language processing, speech recognition, and the growing sophistication of ambient computing devices may be a solution for the time-consuming burdens of clinical documentation.
+Others have turned to human medical scribes as a way to enable more natural patient-provider interactions while still accurately recording patient data. 
+Scribes have become increasingly popular – the American College of Medical Scribe Specialists predicts that there will be 100,000 of these professionals by the end of the decade.
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+However, said Chou and Chiu, “the number of doctor-patient conversations that need a scribe is far beyond the capacity of people who are available for medical scribing.”
+
+“We wondered: could the voice recognition technologies already available in Google Assistant, Google Home, and Google Translate be used to document patient-doctor conversations and help doctors and scribes summarize notes more quickly?”
+The study, coauthored by Chou, Chiu, and a number of other Google researchers, seems to indicate that the answer may be “yes.”
+“While most of the current automatic speech recognition (ASR) solutions in medical domain focus on transcribing doctor dictations (i.e., single speaker speech consisting of predictable medical terminology), our research shows that it is possible to build an ASR model which can handle multiple speaker conversations covering everything from weather to complex medical diagnosis,” the blog post says.
+Using 14,000 hours of anonymized training data, the team created and tested two types of speech recognition tools: a Connectionist Temporal Classification (CTC) phoneme-based model and a Listen Attend and Spell (LAS) grapheme-based model.
+Each model takes a slightly different approach to identifying the building blocks of language, but both are suitable for working through “messy” data such as conversations between multiple people in uncontrolled settings, the study explains.
+READ MORE: Natural Language Processing Could Translate EHR Jargon for Patients
+“Medical conversations between patients (and possibly a caregiver) and providers have several distinguishing characteristics from normal dictations: (1) it involves multiple speakers (the doctor, patient, and occasionally caregiver) with overlapping dialogue at different distances from microphones and varying quality, (2) it covers a range of speech patterns, accents, background noises, and vocabulary from colloquial to complex domain-specific language.”
+Variable accents, noises, and recording qualities usually lead to high error rates with traditional speech recognition tools, which may frustrate clinicians nearly as much as having to type out documentation.
+But when the two models were applied to a subset of the training data annotated by professional medical scribes, they produced lower error rates and high levels of precision and recall.  The CTC model achieved 92 percent precision and 86 percent recall on important phrases in unidirectional models.
+The LAS method achieved 98.2 percent recall when asked to recognize drug names included in the conversations.
+Overall, the LAS model was better able to cope with noisy recordings, and the CTC method required more data cleanup before it could produce its results.
+Both models performed well when identifying medical terms and clinical jargon – most of the errors were related to more casual parts of speech that may have less of an impact on creating meaningful and accurate clinical documentation.
+“Using this technology, we will start working with physicians and researchers at Stanford University, who have done extensive research on how scribes can improve physician satisfaction, to understand how deep learning techniques such as ASR can facilitate the scribing process of physician notes,” said Chiu and Chou.
+A pilot study will investigate what types of clinically relevant data can be extracted from conversations in an effort to reduce the need to interact with the EHR.  The recordings come from consenting patients, they point out, and the data will be fully de-identified to protect the privacy of the individuals involved.
+“We hope these technologies will not only help return joy to practice by facilitating doctors and scribes with their everyday workload, but also help the patients get more dedicated and thorough medical attention, ideally, leading to better care,” they concluded.
+Tagged Analytics InfrastructureClinical Documentation ImprovementEHR BacklashMachine LearningNatural Language Processing
+
+

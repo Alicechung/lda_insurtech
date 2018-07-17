@@ -1,0 +1,20 @@
+Google using big data to find what a “healthy human” looks like
+
+July 31, 2014
+
+By Jennifer Bresnick
+July 31, 2014 - All good science experiments have one important thing in common: a control group that establishes a foundation with which to compare the effectiveness of any other interventions.  Participants who haven’t developed a certain disease yet may be easy to find, but medical researchers are missing a very important piece of that foundation.  What exactly does a healthy human being look like?  Google is attempting to answer that difficult question with big data and its new Baseline Study, an effort to collect anonymous genetic and molecular data to flag biomarkers for common diseases earlier than ever before.
+“With any complex system, the notion has always been there to proactively address problems,” says Dr. Andrew Conrad, a molecular biologist who will be heading up the study at Google X, the data giant’s research division. “That’s not revolutionary. We are just asking the question: If we really wanted to be proactive, what would we need to know? You need to know what the fixed, well-running thing should look like.”
+Baseline will be collecting and analyzing massive amounts of anonymized information, including sequencing a participant’s entire genome and adding data on everything from metabolic rates to how the heart functions under stress, reports the Wall Street Journal.  Using wearable devices, including a new contact lens developed by Google engineers to detect glucose levels through the eyes, researchers will amass an unprecedented level of data on volunteers who are basically healthy and disease-free, crafting a portrait of what good health actually looks like on a molecular level.
+Most studies focus on identifying biomarkers in people with relatively late-stage disease development, says Dr. Sam Gambhir, Chair of the Department of Radiology at Stanford University Medical School and a collaborator on the Baseline project.  This produces mixed results for researchers who have little to compare their findings to.  Stanford and Duke University will help collect data for the project once it moves past its initial, small trial phase involving just 175 participants.
+Dig Deeper
+EHRs, Value-Based Care Constrain Personalized Medicine Progress
+Geisinger Announces New National Precision Health Initiative
+Cancer Moonshot Report Showcases Precision Medicine Progress
+The ambitious study may seem like the first step towards a science fiction universe where babies (and their health insurance providers) are born with the knowledge of how and when they will die, and not everyone is comfortable with the idea that Google, a corporate behemoth that is known for its data mining and questionable privacy tactics, is leading this particular charge.
+But Gambhir reassures skeptics that Baseline will be appropriately monitored by review boards that oversee human research, including organizations from Duke and Stanford that will control how the information they collect will be used. “That’s certainly an issue that’s been discussed,” Gambhir said. “Google will not be allowed free rein to do whatever it wants with this data.”
+The project is a long-term one, Google says, that will evolve as the data is collected and analyzed.  The company’s previous forays into the lucrative healthcare data industry have been less than successful: Google Health, a personal health record app that saw only desultory interest from consumers, shut down at the end of 2012, although its efforts to carve out a piece of the mobile health market look much more promising in the era of wearable devices, smartphones, and tablets.
+The company is thinking long-term about its investments in health, Gambhir says, which includes a certain degree of trial and error.  “This is not a software project that will be done in one or two years,” he says.  “We used to talk about curing cancer and doing this in a few years. We’ve learned to not say those things anymore.”
+Tagged Big DataClinical AnalyticsGenomicsMedical Research
+
+

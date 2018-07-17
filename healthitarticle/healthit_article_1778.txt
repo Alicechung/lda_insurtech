@@ -1,0 +1,22 @@
+Can Analytics Help False Hand Hygiene Reporting to Come Clean?
+
+October 24, 2014
+
+By Jennifer Bresnick
+Electronic hand hygiene compliance can provide better data analytics to tackle a constant threat to patient safety.
+October 24, 2014 - Reported hand hygiene rates are notoriously much higher than the actual rate of compliance, but data analytics and electronic technologies are hoping to prompt more clinicians and staff members to wash away the stigma of untruthful reporting along with their germs.  A new survey from DebMed shows that healthcare providers are well aware that hospitals are using faulty methods of data gathering to judge compliance, and believe there are better options for scrutinizing staff habits.
+Two-thirds of the 400 infection specialists, nurses, and healthcare leaders who took part in the survey said that their organizations report hand hygiene compliance rates of 81% or greater, but 89% of those professionals admit that they believe their true compliance rates are significantly below what’s being reported.
+While 63% teach staff members to follow advanced WHO and CDC guidelines on hand hygiene, only 44% actually follow the recommendations, which direct staff members to clean their hands before and after they touch a person, and every time they contact an object that may create the opportunity to spread infection.  More than half of providers will only wash their hands when entering and exiting a patient’s room.
+Hospitals generally use direct observation to measure hand hygiene compliance, which is highly subjective and prone to false positives.  When an employee knows she’s being watched by an auditor, she’s much more likely to run her hand under the gel dispenser than if she was on her own.  This is called the Hawthorne effect, and 88% of the survey participants are well aware that they themselves would change their behaviors when they are under scrutiny.
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Unique Device Identifiers in Claims Could Aid Healthcare Analytics
+6 EHR Patient Safety Strategies for Medication Orders, CPOE
+Seventy-eight percent of survey participants acknowledge that electronic compliance monitoring is the superior choice, but few hospitals have the technology installed.  Since 2012, there has only been a 2% increase in the number of facilities using electronic data.  Sixty-two percent still use manual observation by familiar staff members, and a further 34% use the “secret shopper method.”
+Neither method is particularly effective, says Dr. Tom Diller, who helped conduct a compliance study at Greenville Health System in South Carolina.  “There are some clear advantages to using electronic monitoring systems instead of these manual processes,” he told HealthITAnalytics in June.  “It’s much less resource intensive, because you don’t have to recruit somebody to follow people around, watching them.   Secondly, it’s not intrusive in the patient care at all. And third is that you can get much more real-time results.”
+“With the old way of doing it, we compiled reports on a monthly basis.  We’d send out what their hand hygiene rate was in the last month,” he added.  “Well, that doesn’t really help drive change, but in these electronic monitoring systems you can get it by day or by week, and you can make changes more quickly.”
+With the rate of hospital acquired infections (HAIs) becoming an increasingly important factor for reimbursements and quality penalties, hospitals are starting to direct their attention towards implementing more sophisticated systems that will better measure hygiene activity.  Forty-three percent of survey participants said their facilities are considering electronic monitoring, and a third added that their hospitals are planning the purchase of systems within the next year.
+More sophisticated methods of collecting data on hand hygiene may reduce the bias inherent in the common practice of direct observation and help to reconcile what’s being reported with how staff members actually behave.  With better data and faster reporting, infection prevention specialists will have a better opportunity to address the root causes of non-compliance and ensure that potentially deadly hospital acquired infections from poor hand hygiene happen as little as possible.
+Tagged Clinical AnalyticsPatient SafetyQuality Of Care
+
+

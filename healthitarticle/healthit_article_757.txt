@@ -1,0 +1,31 @@
+Big Data, Artificial Intelligence, IoT May Change Healthcare in 2017
+
+September 21, 2016
+
+By Jennifer Bresnick
+September 21, 2016 - Artificial intelligence programs, the Internet of Things, and next-level big data analytics tools are likely to start producing a significant impact on healthcare delivery as early as 2017, say participants in a new Silicon Valley Bank survey. 
+The poll, which includes responses from 122 health IT company founders, executives, and investors attending a recent event, indicates a general belief that big data will continue to be a primary driver of innovation in the healthcare industry, but may run into adoption challenges and regulatory hurdles in the near future.
+Forty-six percent of participants said that big data will have the greatest impact on healthcare over the next year, followed by 35 percent who believe artificial intelligence (AI) will be a major game-changer.
+AI tools may have a broad range of applications across the healthcare spectrum, including patient engagement and customer relations, chronic disease management, clinical decision support, and sophisticated big data mining and analytics for diagnostics, population health management, and financial modeling.
+Many current attempts to develop artificial intelligence for healthcare are based on semantic computing or cognitive computing techniques that require vast stores of big data to fuel algorithms that try to mimic the complexity and predictive capabilities of human thought.
+READ MORE: UCSF, Intel Partner for Healthcare AI, Deep Learning Project
+These technologies, along with the Internet of Things (14.75 percent), augmented or virtual reality (2.46 percent), and healthcare robotics (1.64 percent), will be the major segments to watch as the industry enters the new year, the survey said.
+Forty-five percent of respondents believe healthcare delivery and IT projects will see the most growth in 2017. Eighteen percent think telemedicine is ripe for a boost in the next twelve months, and 13.93 percent are betting on the growth of biopharma.
+Perhaps surprisingly, fewer participants are seeing much potential in the technologies underpinning the IoT.  Just 8.2 percent chose mobile health apps as their primary area of growth, while only 6.56 percent see a bright future for wearable devices.
+This may be because 36.89 percent of participants believe that consumer and patient adoption will be the biggest challenge for the big data industry in the next year. 
+Despite significant ongoing interest in consumer-grade wearables like FitBit and the Apple Watch, providers and patients have both struggled to integrate IoT tools into the clinical decision making process. 
+READ MORE: AI, Big Data, IoT Bring Growth to Multiple Healthcare Markets
+A July survey by Strategy Analytics found that more than 40 percent of industry experts believe the IoT produces “data overload” that prevents them from extracting actionable information from internet-connected devices. 
+The reliability, security, and speed of IoT data also came under fire, and respondents expressed uncertainty about how to ask meaningful questions and get useful replies.
+Instead of betting on unproven technologies like wearables and the broader IoT, respondents to the Silicon Valley Bank survey believe that existing tools that address current challenges are likely to hit their stride over the next year.  Over a third of participants said that promising big data tools are likely to bear fruit for during 2017, and will have the largest impact on how investors divvy up their available funds.
+In contrast, just 17.21 percent said that the development of new technologies will drive healthcare investment decisions.  Approximately 22 percent believe that regulatory and policy issues, like the anticipated start of MACRA, will sway the investment community.
+However, optimism on the vendor side may not be mirrored by action within the provider community.  Healthcare organizations are finding it difficult to make a case for investing in big data tools, such as predictive analytics and care coordination solutions, due to financial constraints and deeply entrenched challenges.
+READ MORE: 47% of IT Pros Say Their Executives are Big Data “Illiterate”
+Health Catalyst found that the number of providers interested in predictive analytics tools far exceeds the implementation rate.  While the second half of the decade is likely to produce growth in this area, providers are worried about finding the time, budget, and data analytics skills to turn desire into action.
+A study in the American Journal of Managed Care this month also found that providers may not have a very clear idea about how to integrate big data tools, like care coordination offerings, into their daily workflows.  Interoperability issues, usability constraints, and provider shortages are all contributing to stagnation in the care coordination arena.
+This lull in enthusiasm may start to dissipate as providers steel themselves for the effects of MACRA, which will prioritize the use of big data analytics for population health management and quality care improvements.  Whether or not the technology investment landscape picks up as early as 2017 remains to be seen, but big data is likely to play a major role in the healthcare IT landscape for the foreseeable future.
+Can Healthcare’s Internet of Things Move from Froth to Function?
+What is the Role of Natural Language Processing in Healthcare?
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareHealthcare Business IntelligenceHealthcare Internet of ThingsPredictive Analytics
+
+

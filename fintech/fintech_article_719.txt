@@ -1,0 +1,51 @@
+Regtech: expert thoughts and insights
+
+July 14, 2017
+
+The Fintech Times asked the leading experts in regtech about the key challenges and opportunities
+
+ About regtech domination
+
+ Hussayn Kassai, CEO and Co-Founder Onfido
+
+ Regtech has been on the rise for some time, and in 2017 it will really begin to dominate the market. By 2020, there will be 300 million pages of regulations, and it’s likely that fines for non-compliance will rose accordingly. Regtech can help people to compete. The name ‘Regtech’ has only come about recently, but the concept has existed for a while. Adding tech and removing paper processes can offer a competitive advantage, as well as lowering overheads as the costs of increased compliance soar. Where FinTech has exploded over the last few years, regtech is now emerging as its enabler. There are only around 150 regtech companies at the moment, but I expect to see that number increase significantly in 2017. One potential blocker, however, is that the need for regtech solutions is outstripping awareness and trust within financial services. Much of the law and guidance around financial services predates their automation, meaning businesses are slow to switch to technologies that could be saving them time and money, while providing a better user experience for their customers. As regtech continues to make its presence felt, I’d hope to see that attitude change so its full potential can be realised.
+
+ On collaborations
+
+ Evgeny Likhoded, CEO & Founder ClauseMatch
+
+ The regtech ecosystem is all about collaborating or losing. That’s why advocates of collaboration in the regtech space are becoming more and more prevalent. As JWG’s CEO, PJ Di Giammarino commented at a regtech conference in February 2017, “If the regtech industry is a mountain, we are now only at basecamp. Serious cooperation and collaboration between technology companies, regulators and financial institutions is necessary to drive the innovation in the timeframe required.” For instance, ClauseMatch and JWG are partnering to develop a unique regtech solution to simplify and better structure how regulatory changes are driven through internal banking policies. The prototype of this solution was first developed at the FCA tech sprint. Regulators are encouraging the development of innovative solutions as there are few off-the-shelf tools that can ease compliance processes. While financial regulation in the UK and in many other countries continues to change rapidly, the joint solution offered by JWG and ClauseMatch ensures a streamlined response to regulatory updates and performs gap analyses between policies and regulatory obligations on a real-time basis.
+
+ On the influence of regtech
+
+ Jane Walshe, CEO & Co-Founder Enforcd
+
+ Lots of innovative regtech solutions focus on KYC, client onboarding and the mitigation of client, counterparty and supply chain risk. Ever slicker solutions are being brought to market that can be used by firms to quickly onboard clients in a more frictionless way than has been seen in the past. Firms such as Onfido deploy identification technology that can aid the unbanked to get access to financial services and so regtech can do it’s bit to help the vulnerable and disenfranchised. Some of the more cutting edge regtechs are focusing on mapping of behaviours, with a view to providing accurate red flags when a trader or advisor is about to do something unexpected. This technology is starting in financial services but could be used in other industries also. Sybenetix is active in this space – and is a firm that uses behavioural science to monitor investment managers’ decisions. My own regtech firm which is focused on global enforcement activity aims to help firms identify and manage conduct risk, and to improve culture. We use regtech to aid qualitative, rather than quantitative, compliance – again, a new direction for regtech.
+
+ On the benefits of regtech
+
+ Alex Viall, Head of Regulatory Intelligence behavox
+
+ Regtech is just beginning, its widespread adoption will probably take a decade as institutions recognise the value and efficiency that it lends and the new process/technology is embedded and becomes acceptable market practice in the eyes of the auditors and regulators. First though the institutions need to migrate from their ancient legacy systems and approach and this requires energy, investment and a new approach/ competency and there are very divergent appetites for this from one institution to another. Regtech is having an impact in almost every sector of financial services – it is being adopted in wholesale and retail, across product verticals (banking, insurance, asset management etc) and types of institution (regulator, regulated, exchange, consultant). Regtech can make the investment process much more efficient, clear and painless for the consumer (eg cloud-held ID verification for KYC/AML purposes); it can also create checks and balances in the advisory chain to ensure that consumers are protected and mis-selling is reduced (eg PPI in the UK).
+
+ About regtech in practice
+
+ Philip Creed, Director, Head of RegTech fscom
+
+ Our product KYC-Pro is a regtech use case. We focus on AML onboarding and risk assessment of our client’s customers. A classic example I have encountered with my clients who operate in international remittance: migrants who are sending funds back to family or friends in another jurisdiction. The standard method of onboarding remotely in the UK is to use electronic verification, this hits the clients personal details against credit data, electoral and more to decide if this person is who they say they are. Migrants tend to have very low pass rates for electronic verification as they may not have lived in the UK long enough to have built up a solid credit profile, as such if you still wish to automate your onboarding for individual what should you do next, facial recognition, social media screening, both, more, the decisions to be made are endless. Our solution understands what the financial services client is looking to achieve. How they want to onboard their clients is critical. We match them to the most appropriate solution for their needs, advising on and implementing other regtech solutions we have trialed and tested, and know are fit for purpose. We can funnel these solutions through our API to allow our client one point of integration and add our compliance expertise to our technology. This ensures the process is efficient and their developer’s time is spent productively on the product rather than the back-end.
+
+ On the regtech’s future
+
+ Susanne Chishti, CEO & Founder of FINTECHCircle
+
+ Regtech will grow enormously as Regtech companies often offer compliance solutions which are both more cost-effective and of better quality. Furthermore Regtech can support regulators to deal with the risks of false data models (which would lead to false predictions), discriminatory practises which might be coded into systems and the requirement of more transparency by Tech giants moving into Financial Services.
+
+ On the role of technology in changing regulatory landscape
+
+ Wendy Brooks, Director, Global Compliance of Western Union
+
+ At Western Union, we processes 31 transaction every second, 365 days a year. As you can imagine, to manage such sheer volume and scale it’s critical we have a robust compliance programme in place – and to do so efficiently and effectively we have to rely heavily on technology. More broadly, in the backdrop of an evolving financial system, with new technology and innovation emerging all the time, it’s important that the compliance function not only keeps pace with change – but also innovates itself. A collaborative dialogue between business functions will ultimately increase visibility and usefulness of such new technology. Given the complexities around regulatory compliance – and variances between different jurisdictions around the globe – technology is an important tool to help our teams be accurate, effective and proficient in their roles. In terms for the specific ways we use technology, there are two sides to the coin. We have customer-facing platforms which continually update. But there’s also the back-end compliance side of things, where we apply new technology to existing compliance functions and data processes. We’re seeing vast swathes of new innovation so the question is not necessarily whether the technology is available, rather it’s how we should use it. At its core, compliance is human-thought processing – so we shouldn’t seek to automate the process entirely. But instead, we can examine ways in which new technology can enhance and support the skills of compliance experts, and help be successful in their jobs. That’s really the key.
+
+  
+
+

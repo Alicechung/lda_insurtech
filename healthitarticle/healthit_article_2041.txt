@@ -1,0 +1,17 @@
+Pressure ulcer predictive risk score may be inaccurate
+
+March 28, 2014
+
+By Jennifer Bresnick
+March 28, 2014 - A three decade old tool used by nurses to predict patients at risk of pressure ulcers in the ICU may be significantly inaccurate, says a new study from Ohio State University Wexner Medical Center.  While nurses have long suspected that the Braden scale may be inaccurate, recent research seems to confirm their suspicions that the bed sore assessment leads to over- or under-treatment for critically ill patients at risk for the painful and largely preventable condition.
+After reviewing the EHR data of more than 7,700 patients, researchers found that the scale simply wasn’t sensitive enough to account for the conditions of critically ill patients. “The scale told us that every single patient in the ICU was at high risk for a pressure ulcer. But we knew that not every single patient went on to get an ulcer,” said Brenda Vermillion, DNP, RN, an ICU nurse specialist who participated in the study. “Going by the score means that most ICU patients would either be under – or over treated for ulcer prevention – and neither is optimal.”
+The deep tissue damage of bed sores will affect up to 39% of all ICU patients, costing hospitals nearly $11 billion a year.  In conjunction with the research, Ohio State Wexner Medical Center’s Chief Quality and Patient Safety Officer, Susan Moffatt-Bruce, MD, PhD, had been leading a hospital-wide initiative to monitor patients and reduce pressure ulcer rates, succeeding in dropping the incidence of ulcers by 40% over four years.
+“This research is such a good example of how research can positively contribute to improving clinical care,” said Moffat-Bruce. “While the study and our improvement efforts were running in parallel, it made us all more sensitive to the fact that ICU patients need more scrutiny, and that there are probably other clinical signs we need to find that could help us prevent ulcers in those patients.”
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+Geisinger, Baylor Granted $3.5M for Patient Safety Learning Lab
+“Before, we had experience telling us that the Braden didn’t fully meet our needs,” added Vermillion. “Now we have the data confirming that. Armed with this information and by continuing to use the EMR, we’re beginning to identify factors unique to ICU patients, such as ventilator status, that can help us better predict which patients are really at risk.”
+Tagged Clinical AnalyticsHealthcare AnalyticsHospital QualityPatient CareQuality Of Care
+
+

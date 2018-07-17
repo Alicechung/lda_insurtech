@@ -1,0 +1,37 @@
+Online Population Health Tool Illuminates Socioeconomic Factors
+
+January 20, 2017
+
+By Jennifer Bresnick
+January 20, 2017 - Healthcare stakeholders looking for insight into the socioeconomic and environmental factors impacting the wellbeing of their populations can now turn to the City Health Dashboard, an online tool detailing the challenges of urban patients.
+Developed by researchers from NYU and the National Resource Network, and supported by the Robert Wood Johnson Foundation, the big data dashboard currently includes twenty-six socioeconomic measures for a starting set of four cities across the nation.
+"We created the City Health Dashboard in response to local demand for more accurate data about the health of our cities' citizens," says Marc Gourevitch, MD, MPH, chair of the Department of Population Health and principal investigator for the City Health Dashboard.
+"City leaders know that 'what gets measured is what gets done.' They want accurate, actionable data so they can improve their population's health, bring down health care-related costs, and focus on community wellbeing. We're excited to be the first to provide this important information at the city level in a uniform format across a wide range of health conditions and health determinants."
+The tool allows users to explore key health behaviors, outcomes measures, clinical care factors, social and economic traits, and physical environment features in Flint, MI, Kansas City, KS, Providence, RI, and Waco, TX.  Data is available at the city level for all metrics, and at the neighborhood level for certain others.
+READ MORE: Identifying Care Disparities for Population Health Management
+The National Resource Network, a federally-funded collaboration between public and private stakeholders, chose the four cities after a competitive application process.
+"In our work with nearly 50 cities across the nation, we have learned that city governments want to improve the physical health of their residents as much as the economic and fiscal health of their cities. But most health data in the US is simply unavailable at the city level," says David Eichenthal, executive director of the National Resource Network.
+"Now, through the City Health Dashboard, local decision makers in these four cities have the data that they need to work to create healthier communities."
+Socioeconomic disparities, including lack of access to healthy food choices and transportation, housing and utility insecurity, and risk of interpersonal violence, have taken center stage in the population health management debate over the past few years. 
+As healthcare providers begin to tackle the enormous influence of the patient environment on ultimate outcomes – accounting for up to 80 percent of a patient’s health in some estimates – the integration of non-traditional data sources into patient management programs has become a top priority.
+READ MORE: EHR Socioeconomic Data a Must for Population Health Management
+Accessing, normalizing, and presenting these data streams in a meaningful way at a local level is a challenge, however, that interactive online tools may help to solve.
+The City Health Dashboard provides a visual breakdown of each city’s socioeconomic circumstances.  In Providence, Rhode Island, for example, Medicare-aged patients receive preventive clinical services at a rate just 1.4 percent below the national average, compared to a 6.7 percent deficit for Kansas City residents. 
+A physician shortage may be responsible for the low rates of preventive care delivery in Kansas City.  The region has only 42.4 primary care providers per 100,000 residents, while the national average is just over 91 physicians per 100,000 patients.
+Source: City Health Dashboard
+Flint and Providence are also being hit particularly hard by the opioid abuse epidemic, with deaths due to opioids significantly above the national rate of 13.4.  In Providence, 21.4 people per 100,000 residents die due to misuse of opioids.  In Flint, the number is 22.8. 
+Flint has made national headlines for its water crisis, but also suffers from extremely high rates of unemployment – 26.3 percent – and housing expenses 41.7 percent above the national average.  Violent crime rates are nearly four times the average for the rest of the country, while the vast majority of city residents are living within the 20th percentile of income distribution.
+READ MORE: How to Get Started with a Population Health Management Program
+Physical inactivity rates are 13 percent higher than other regions, and the teen birth rate is close to triple that of the rest of the nation.
+These difficult circumstances are likely to contribute to an overall poor physical health rate that is 6.7 percent above the national average and a premature death rate nearly double that of the rest of the country.
+Source: City Health Dashboard
+Having access to this type of information, tailored to a specific region, can help to influence policy and public health initiatives. 
+In Baltimore, city officials are using data about the region’s socioeconomic disparities to guide the Healthy Baltimore 2020 program, which aims to reduce income inequality and change detrimental lifestyle choices through partnerships with civic leaders, healthcare organizations, and community groups.
+And in Philadelphia, an online tool similar to the NYU City Health Dashboard provides open access to more than seventy urban health metrics, flagging racial, ethnic, and economic disparities that may inform the city’s future population health strategies.
+Leaders in the four cities featured by NYU and the National Resource Network are eager to take on the challenge of integrating socioeconomic challenges with their efforts to improve health and wellness for citizens.
+"We are very fortunate to have this incredible resource available to us. As the mayor of a city whose residents face numerous health challenges, it is essential that we have access to data that gives us a better understanding of what those challenges are. Just as important, we need to know where in our city those challenges exist," says Mark Holland, Mayor/CEO of the Unified Government of Wyandotte County and Kansas City, Kansas. "I'm very excited at the possibilities this opens up for our government and the residents of Kansas City, Kansas."
+Dale Fisseler, city manager in Waco, expressed similar enthusiasm about having access to innovative data sources. "I have been trying for a long time to get a better handle on the role of the healthcare sector and the potential for broader impact from the resources in that system,” he said.
+“Already I can see that policy alternatives are illuminated by the dashboard, including relationships between spending by hospitals and by our city and county governments and inequities we need to tackle, which we long suspected but just didn't have any data on before."
+Tagged Analytics InfrastructureChronic Disease ManagementHealthcare QualityPopulation Health Management
+
+

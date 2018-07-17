@@ -1,0 +1,23 @@
+Mount Sinai Creates Imaging Data Warehouse for Precision Medicine
+
+June 20, 2017
+
+By Jennifer Bresnick
+June 20, 2017 - Mount Sinai Health System has created a centralized imaging research warehouse (IRW) able to integrate clinical images with deidentified electronic health record (EHR) data.
+The project, developed by Mount Sinai’s Translational and Molecular Imaging Institute (TMII) and supported by the National Institute of Health, will allow researchers to access imaging and other clinical data on more than 1 million of the health system’s patients. 
+The integrated big data will open up new avenues for translational research, precision medicine, and the growing field of imaging analytics.
+Dig Deeper
+Top 4 Machine Learning Use Cases for Healthcare Providers
+Precision Medicine Partnerships Foster Promises of Breakthroughs
+Precision Medicine, Big Data Analytics Intersect for Better Care
+“This imaging warehouse is uncharted territory for our scientists, and we are excited to give our imaginations free rein to explore imaging for the first time and think without boundaries,” said Zahi Fayad, PhD, Director, TMII, Professor, Medical Imaging and Bioengineering, Radiology, and Medicine (Cardiology), Icahn School of Medicine at Mount Sinai.  
+“By having this imaging data available, we can find new patterns of disease and new ways to diagnose and develop new treatments.”
+The availability of the clinical imaging repository and corresponding EHR data for projects may be particularly exciting for machine learning and artificial intelligence researchers, who seek out large volumes of complex data that can feed pattern recognition algorithms and other innovative tools.
+Project leaders envision that the data could supplement explorations related to mammography, prostate cancer, neuro-degenerative diseases, bowel disease, spine injuries, and genomics, among other high-priority fields.
+Mount Sinai and its research divisions are already deeply involved in precision medicine and machine learning initiatives that can harness the large volumes of structured and unstructured health data at the organization’s disposal.
+Since 2007, the health system has been collecting patient DNA samples for its BioMe biobank.  In 2016, Mount Sinai and the Regeneron Genetics Center announced that they would be conducting whole exome sequencing on 33,000 of the DNA and plasma samples held within the repository. The project also involved correlating the sequencing results with EHR data.
+“The Imaging Research Warehouse is a unique resource that will provide large volumes of de-identified images to the research community” said David Mendelson, MD, Vice Chair, Radiology, Mount Sinai Health System; Professor, Radiology, Icahn School of Medicine at Mount Sinai.  
+“This model fills a gap in the new world of healthcare big data,” he added. “The data contained within patients’ radiological images is hard to make use of, and this warehouse is the solution to expose this information for analysis.”
+Tagged Clinical AnalyticsGenomicsImaging AnalyticsMachine LearningMedical Research
+
+

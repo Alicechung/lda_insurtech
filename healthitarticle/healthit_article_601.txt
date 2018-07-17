@@ -1,0 +1,36 @@
+IBM Bets Big on Blockchain for Value-Based Care, Data Exchange
+
+January 25, 2017
+
+By Jennifer Bresnick
+January 25, 2017 - Blockchain may be one of the newest terms to join healthcare’s pantheon of big data buzzwords, but it is quickly becoming one of the most important.  The decentralized approach to data sharing could have profound impacts for the ongoing value-based care transition and the thorny problems of secure, interoperable, and trusted data exchange.
+IBM is one of several companies moving quickly to develop the underlying principles and architecture required to bring blockchain out of the shadows as the technology powering BitCoin and into mainstream industry use.
+“Blockchain is a major focus area for IBM as a whole,” Shahram Ebadollahi, Vice President for Innovations and Chief Science Officer at IBM Watson Health, told HealthITAnalytics.com. 
+“It’s a big investment for IBM – and of course, Watson Health thinks blockchain could have a major impact in healthcare and life sciences, especially around how data is being stored, shared, and used for its various applications.”
+The company has already made a number of forays into the burgeoning world of blockchain.  In addition to being an active member of the open-source Hyperledger collaboration run by the Linux Foundation, IBM was one of seventy entries to the Office of the National Coordinator’s blockchain challenge – and ended up as one of the fifteen noted winners.
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+On top of that, a recently announced collaboration between Watson Health and the Food and Drug Administration aims to grow the healthcare industry’s knowledge and experience with blockchain as a methodology to address the big data management conundrums of large-scale precision medicine, population health management, and the Internet of Things.
+“The FDA has the mission of promoting public health, among other things, and we believe that our work on blockchain in healthcare could have broad applications that align with their goals,” said Ebadollahi. 
+“The formation of our collaboration with the FDA is about defining those use cases and seeing how the two of us can study those opportunities together.  As we go forward into 2017, we will publish the results so the industry can take a look at them.”
+Blockchain uses a distributed node structure – like a hub-and-spoke structure minus the hub – to create an authoritative ledger of events controlled by the chain as a whole.  Each new transaction is compared to previous transactions and is only approved if every entity agrees that the change is valid. 
+Because only recognized members of the chain can make changes or access sensitive data, the structure is viewed as a highly secure alternative to traditional data storing and sharing techniques.
+READ MORE: Could Blockchain Control Population Health Management Costs?
+In the healthcare environment, this has a number of important implications.  It may reduce the number of errors that creep into patient documentation due to careless duplication, copy-and-paste problems, or conflicting data provided by multiple entities. 
+It could reduce hacking rates and data breaches significantly.  And it may ensure that patients, who would be able to control sharing permissions for every member of a private chain, remain at the center of their own care.
+Blockchain might also smooth over some of the care coordination issues that arise when unaffiliated entities try to collaborate to treat the same patient, Ebadollahi said.
+“Healthcare data resides in many different places – the primary care provider, the hospital, or the lab where their results are processed – but if you have the patient’s consent to share the data, you can pull together these different elements for use within a particular application or service that they need,” he explained.
+“A permissioned blockchain brings together trusted collaborators.  Each of them can join the chain, or run their own chains, and the distributed ledger will keep track of all the events that are of importance for that particular iteration of providers within a patient’s care team for whatever task they’re trying to accomplish.”
+READ MORE: Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+This tailored approach to data sharing could help providers leverage their existing data assets more effectively, Ebadollahi added.
+“Everyone has their own health data repositories and their own electronic health records – the proposal here is not to replace those existing systems, but to supplement them with new exchange capabilities,” he said.  “If they want to increase the fluidity of data between different institutions, they can connect their existing repositories to the chain and improvement the movement of data while being sure they are doing so with the desires of the patient in mind.”
+Engaging in this “patient-mediated electronic health exchange” approach could help to develop a truly longitudinal record of a patient’s journey along the care continuum – something that has remained elusive for the majority of healthcare providers thus far, and something that is critical for success when value-based reimbursements are on the line.
+“In order to provide services that fall in line with value-based care, one has to be able to access that comprehensive, trusted view of the patient,” said Ebadollahi.  “Doing that means addressing privacy concerns and interoperability issues – and then there’s the matter of trust.”
+“Which version of the data are you going to trust and use to take action?  Which are you going to use for quality reporting?  If you have a blockchain-based mechanism, there’s no question about which dataset is most up-to-date or what the patient has approved.  It puts the patient in the middle, which is exactly what value-based care is about.  And it will help providers engage in broader relationships, such as those between providers and payers, or providers and medical device companies.”
+IBM is predicting that the shift towards blockchain will happen very quickly indeed.  In a survey released at the start of the New Year, the company found that 16 percent of healthcare stakeholders have plans to implement blockchain-based tools by the time 2017 is over. 
+By 2020, just under three-quarters of healthcare entities are likely to be relying on the innovative data sharing approach.
+Low-cost infrastructure options, such as “blockchain-as-a-service” offerings, could hasten this rapid transition to the distributed environment, Ebadollahi noted.
+“We believe that the threshold to entry for healthcare providers will be relatively low,” he said.  “If someone chooses to participate in a network, they can use the ‘as a service’ strategy to get off the ground without a large infrastructure investment.” 
+“Whatever network they choose to develop, they will be able to see the benefits from the trust they can have in the datasets that will be generated collectively as part of their community.”
+Tagged Analytics InfrastructureBlockchain in HealthcareCare CoordinationHealth Data ExchangeInteroperabilityInterviewsValue Based Care
+
+

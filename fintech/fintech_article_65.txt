@@ -1,0 +1,31 @@
+New Positive Technologies Report: How Hackers Rob Banks
+
+June 22, 2018
+
+Positive Technologies released a new report, Bank Attacks 2018, detailing that banks have built up formidable barriers to prevent external attacks, yet fall short in defending against internal attackers. Whether by puncturing the perimeter with social engineering, vulnerabilities in web applications, or the help of insiders, as soon as attackers access the internal network, they find friendly terrain that is secured no better than companies in other industries.
+
+ With access to the internal network of client banks, Positive Technologies testers succeeded in obtaining access to financial applications in 58 percent of cases. At 25 percent of banks, they were able to compromise the workstations used for ATM management—in other words, these banks fell prey to techniques similar to ones used by Cobalt and other cybercriminal gangs in actual attacks. Moving money to criminal-controlled accounts via interbank transfers, a favorite method of the Lazarus and MoneyTaker groups, was possible at 17 percent of tested banks.
+
+ Also at 17 percent of banks, card processing systems were poorly defended, which would enable attackers to manipulate the balance of card accounts. Such attacks were recorded in early 2017 against banks in Eastern Europe. The Carbanak group, notorious for its ability to attack nearly any bank application, would have been able to steal funds from over half of the tested banks. On average, an attacker able to reach a bank’s internal network would need only four steps to obtain access to key banking systems.
+
+ The new report notes that banks tend to do a better job than other companies of protecting their network perimeter. In the last three years, penetration testers could access the internal network at 58 percent of all clients, but only 22 percent of banks. However, this number is still concerning, considering the high financial motivation of attackers and failure of many banks to audit code security during the design and development stages. In all test cases, access was enabled by vulnerabilities in web applications (social engineering techniques were not used). Such methods have been used in the wild by such groups as ATMitch and Lazarus.
+
+ Banks are at risk due to remote access, a dangerous feature that often leaves the door open to access by external users. The most common types are the SSH and Telnet protocols, which are present on the network perimeter of over half of banks, as well as protocols for file server access, found at 42 percent of banks.
+
+ However, the weakest link in bank security is the human factor. Attackers can easily bypass the best-protected network perimeter with the help of phishing, which offers a simple time-tested method for delivering malware onto a corporate network. Phishing messages can be sent to bank employees both at their work and personal email addresses. This method for bypassing the network perimeter has been used by almost every criminal group, including Cobalt, Lazarus, Carbanak, Metel, and GCMAN. In tests by Positive Technologies, employees at 75 percent of banks clicked on links in phishing messages, and those at 25 percent of banks entered their credentials in a fake authentication form. Also at 25 percent of banks, at least one employee ran a malicious attachment on their work computer.
+
+ The report also describes the organizational arrangements of these groups, with examples of announcements on hacker forums offering the services of bank insiders. Experts state that in some cases, the privileges of an employee with mere physical access to network jacks (such as a janitor or security guard) are enough for a successful attack. Another method for infecting banks is to hack their business partners and contractors, who may poorly secure their networks, and place malware on sites known to be visited by bank employees, as seen with Lazarus and Lurk.
+
+ After criminals obtain access to the bank’s internal network, they need to obtain local administrator privileges on servers and employee computers. To continue their attack, the criminals rely on two key “helpers”: weak password policies and poor protection against recovery of passwords from OS memory.
+
+ Almost half of banks used dictionary passwords on the network perimeter, but every bank had a weak password policy on its internal network. Weak passwords are set by users on roughly half of systems. In an even larger number of cases, testers encounter default accounts left behind after use for administrative tasks, including installation of databases, web servers, and operating systems. A quarter of banks used the password “P@ssw0rd”. Other common passwords include “admin”, keyboard combinations resembling “Qwerty123”, blank passwords, and default passwords (such as “sa” and “postgres”).
+
+ Once inside the network, attackers can freely roam about by using known vulnerabilities and legitimate software that does not raise red flags among administrators. By taking advantage of flaws in protection of the corporate network, attackers quickly obtain full control of the bank’s entire digital infrastructure.
+
+ Leigh-Anne Galloway, Cyber Security Resilience Lead at Positive Technologies outlined recommendations for banks: “The good news is that it’s possible to stop an attack and prevent loss of funds at any stage, as long as the attack is detected in time and appropriate measures are taken. Attachments should be scanned in a sandbox, without depending on endpoint antivirus solutions. It’s critical to receive and immediately react to alerts with the help of an in-house or contracted 24/7 security operations centre. In addition, SIEM solutions substantially simplify and improve the effectiveness of incident management.”
+
+ About Positive Technologies
+
+ Positive Technologies is a provider of enterprise security solutions for vulnerability and compliance management, incident and threat analysis, and application protection. Commitment to clients and research has earned Positive Technologies a reputation as one of the foremost authorities on Industrial Control System, Banking, Telecom, Web Application, and ERP security, supported by recognition from the analyst community.
+
+

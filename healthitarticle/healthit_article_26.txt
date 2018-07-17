@@ -1,0 +1,43 @@
+Clinical Decision Support from Dana-Farber Powers Cancer Care
+
+June 22, 2018
+
+By Jessica Kent
+June 22, 2018 - Experts at Dana-Farber Cancer Institute are partnering with Royal Philips to provide improved clinical decision support for cancer care.
+The incredibly complex nature of cancer, coupled with its many available treatment options, has long made this set of diseases a major point of focus for healthcare stakeholders seeking to improve clinical decision support and develop more personalized care plans for patients.
+From national initiatives like the Cancer Moonshot to smaller-scale efforts at individual organizations, the healthcare industry has taken many steps on its journey to advance precision medicine for cancer.
+David M. Jackman, MD, Medical Director of Clinical Pathways, Dana-Farber Cancer Institute
+Source: Xtelligent Media
+However, treating cancer is becoming increasingly difficult as oncologists must consider new data sources and information in order to find appropriate treatments for patients, says Dr. David Jackman, Medical Director for Clinical Pathways at Dana-Farber Cancer Institute.
+“Cancer care is just getting more complex, as a clinician has to factor in genomic data and think about all these new drug approvals that are coming fast and furious,” he told HealthITAnalytics.com.
+READ MORE: The Difference Between Clinical Decision Support, Big Data Analytics
+“And especially for community oncologists, who are tasked with trying to stay up to date with 30 different diseases, it's incredibly challenging and nearly impossible.”
+Experts at Dana-Farber developed the Clinical Pathways tool to take some of the complexity out of cancer treatment and provide oncologists with evidence-based best practices.  The tool acts as a data-driven road map of the best treatment options currently available for each cancer type at every stage of disease.
+“We've had the Pathways program in place for a little over four years now,” Jackman explained.
+“We decided that it makes sense for us to sit down at regular intervals, determine the best care for a patient in a given situation, try to capture all that expertise, and then disseminate it throughout our network so that a patient, no matter where he or she is seen, will get the same answer instead of ten different answers.”
+With the Pathways program, the organization has been able to capture and share best practices for over 30 different diseases within medical and radiation oncology, said Jackman.
+READ MORE: Transparency is Key for Clinical Decision Support, Machine Learning Tools
+As cancer treatment continues to change and advance, Dana-Farber experts regularly update and refresh the Clinical Pathways.
+These updates help oncologists keep up with new research and treatment protocols that have the potential to significantly improve cancer care.
+A primary goal of Pathways is to help oncologists navigate the intricacies of genomic data, which can overwhelm providers when they have to consider it along with other information.
+“A big part of Pathways is providing decision support with these extremely complex genomics. We want to help clinicians distinguish between what's important and what isn’t, and then help them decide what they want to do about it,” Jackman said.
+In addition to offering decision support, Clinical Pathways helps providers understand which clinical trials may be relevant and appropriate for each patient.
+READ MORE: Natural Language Processing, AI to Foster Clinical Decision Tools
+At every stage of disease, providers can see a list of pertinent and currently open clinical trials, allowing oncologists to guide their patients along a more personalized treatment path and offer them opportunities to participate in cutting-edge research that might improve their care.
+“In one study, only 16 percent of patients knew what their clinical trial options would be at the time they had to make a treatment decision,” Jackman said.
+“We’re also trying to put clinical trials in front of providers. We would be able to tell them, ‘At Dana-Farber, these are some of the trials that would be appropriate for these specific patients.’ We think that that's important, too.”
+However, experts at Dana-Farber don’t stop at simply recommending care paths and clinical trials. A third component of Pathways, Jackman said, is capturing oncologists’ treatment decisions and using this information to further advance cancer treatment.  
+“It's not just about telling people what to do, or suggesting what they should do,” he said. “It’s about seeing what they actually do, and then studying those decisions and learning from them.”
+“How often did the doctors do what we recommended? And when they didn't do it, what else did they do and why? And then what happened? It is only with that sort of feedback learning system that we can truly improve care.”
+Through its collaboration with Philips, Dana-Farber will now offer Clinical Pathways to oncologists in its own network and beyond, allowing oncologists to deliver innovative, evidence-based care.
+“We have been looking for a new partner to help us capture this expertise and deploy it better - not just throughout our own network, but potentially to other places as well,” Jackman said.
+Providers across different hospital networks can now access Clinical Pathways through the Philips IntelliSpace Oncology Platform, a cloud-based system that integrates radiology, pathology, genomics, and EHR data, and can be delivered through the EHR.
+“The idea is to try to bring all this information together – genomics, radiographic data, and past treatment methods.  Then, based on all of that information, Dana-Farber experts will recommend the best pathway to treat individual patients,” Jackman said.  
+“Anybody in any hospital system can now gain access to Clinical Pathways if they wanted to participate in this.”
+The collaboration between Dana-Farber and Philips aims to combine distinct capabilities and create a future of cancer treatment that is increasingly simplified and patient-centric.
+“This partnership is really about both clinical content and technology coming together to develop a new solution, which will help oncologists make better decisions for their patients,” said Louis Culot, General Manager of Oncology Informatics and Genomics at Philips.
+Both Dana-Farber and Philips expect that their innovative approach will allow providers to make more informed decisions and improve treatment for patients with cancer.  
+“We think this represents a marriage of two world-class institutions with expertise in cancer care and health informatics, and we think that this partnership has the potential to help a lot of patients and the providers that take care of them,” Jackman concluded.
+Tagged Clinical Decision SupportGenomicsHealthcare Big Data AnalyticsInterviewsPrecision Medicine
+
+

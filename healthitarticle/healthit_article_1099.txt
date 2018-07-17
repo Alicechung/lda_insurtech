@@ -1,0 +1,31 @@
+Just 8.3% of Safety Net Patients Receive Hepatitis C Screenings
+
+January 06, 2016
+
+By Jennifer Bresnick
+January 06, 2016 - Only 8.3 percent of eligible patients seen at safety net community health centers receive appropriate screenings for the hepatitis C virus, according to a new study published in the Journal of the American Osteopathic Association (JAOA), with female patients significantly less likely to be screened than their male counterparts.
+The study, conducted among more than 60,000 patients at fourteen community health centers, also highlights concerning disparities in preventative screenings between ethnic groups, as well as decreased screening rates among older patients.
+Even though nearly three million people in the United States are living with a chronic HCV infection, the virus does not often receive recognition in population health management programs, largely due to its asymptomatic nature. 
+However, between 20 and 25 percent of patients with the virus will develop cirrhosis of the liver within 20 to 30 years of infection, and a proportion of those cases may progress to liver cancer or end-stage liver disease.
+A recent study published in a separate journal found that up to seventy-five percent of patients living with HCV are unaware of their condition, and fewer than 20 percent of infected patients ever receive appropriate treatment.
+READ MORE: HHS Targets Population Health, Big Data with $36M in Grants
+“The inadequacy of screening programs has made it difficult for state health departments to accurately determine the extent of HCV and the rate of transmission within the community,” explained Kendra Viner, PhD, MPH, from the Philadelphia Department of Public Health in 2014.
+JAOA researcher Erica Turse, DO, MPH, from the University of Mississippi Medical Center, agrees that low screening rates may be contributing to the scope and impact of this “silent epidemic.” 
+"HCV screening can reduce health inequities due to undiagnosed, untreated infection," she said in a press release. "Diagnosing this disease is a public health imperative and, as an osteopathic physician, I know that swift intervention is the best shot these patients have to avoid cirrhosis, carcinoma and end-stage liver disease." 
+While the US Preventative Services Task Force (USPSTF) now recommends a screening for all patients born between 1945 and 1965 eligible for a hepatitis C screening, EHR data from community health center patients included in the study found that fewer than ten percent of patients within the target cohort are receiving the service.
+Of the 8.3 percent of patients who were screened, 48.7 percent were female and 51.3 percent were male.  Patients who identified as white and non-Hispanic were more than twice as likely as those who identified as a Caribbean islander or Haitian to be tested for the virus.
+READ MORE: Payers, Providers Make Dental Care a Population Health Issue
+Black Hispanic patients were 1.73 times more likely to be screened than white Hispanic patients, while men were 1.79 times more likely to be screened than women across ethnic groups.
+ The data also shows that with every one-year increase in a patient’s age, their likelihood of receiving a screening decreased by 4.2 percent.
+Even when patients do receive a diagnosis, effective treatment can be a lengthy and expensive proposition.  Pricy therapies like Sovaldi may be extremely effective, but their high costs may lead nearly one in ten patients to discontinue their therapy before it produces results.
+Researchers at the University of Michigan are using predictive analytics to try to identify the highest risk hepatitis C patients in order to provide targeted interventions and reduce the five-fold spending levels associated with living with the virus.
+“Offering immediate treatment to patients identified as high risk for poor health outcomes would allow these patients to benefit from highly effective treatments as other patients continue to be monitored and their risk assessment updated at each clinic visit,” said lead study author Monica Konerman, MD, MSc, a fellow in gastroenterology at the University of Michigan Health System.
+READ MORE: Population Health, Big Data Strategies Could Reduce $2B Waste
+“Ideally we would treat all patients,” she said. “Until logistic and financial barriers are solved, clinicians and policy makers are faced with trying to target these therapies to patients with the most urgent need.”
+Turse and her colleagues point out that there are “numerous opportunities” to improve screening rates within the primary care and community safety net settings.  Educating providers about the US Preventative Services Task Force birth cohort recommendations is a first step to ensuring that clinicians understand when screenings are appropriate.
+Point-of-care reminders integrated into electronic health records could also boost screening rates, while adding HCV preventative care requirements to national-level clinical quality measures and programs like meaningful use could significantly raise the profile of the chronic disease.
+“Fostering discussions on how to improve HCV infection screening rates, particularly among underserved populations, is important for future cost savings and optimal patient care,” the study concludes. “Early identification of infected patients allows for earlier treatment, thereby potentially reducing costly health care expenses associated with advanced disease.”
+“Further research should include identifying and assessing testing strategies to improve screening in primary care, as well as understanding barriers to implementation of USPSTF birth cohort screening guidelines for HCV infection. As community health centers (CHCs) are the frontline of primary care for populations that may be at increased risk of HCV infection, improving screening rates in CHCs can support earlier treatment for patients with HCV infection, which can contribute to reducing the burden of morbidity and mortality caused by the disease.”
+Tagged Big Data AnalyticsChronic Disease ManagementPopulation Health ManagementSafety Net Patients
+
+

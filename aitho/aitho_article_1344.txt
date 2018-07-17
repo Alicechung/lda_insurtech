@@ -1,0 +1,13 @@
+IAR Systems Enhances Amazon FreeRTOS Integration For Full Control Of Arm Cortex-M-Based IoT Applications
+
+27 Feb 2018
+
+Together with Amazon Web Services, IAR Systems Provides Developers With Easy Access To High-Performance, Pre-Integrated Development Tools
+IAR Systems, a leading supplier of software tools and services for embedded development, has released a new plugin for the Internet of Things (IoT) Microcontroller Operating System Amazon FreeRTOS, providing a high level of control and visibility within IAR Embedded Workbench® for Arm®. The new plugin adds task awareness for all Arm Cortex®-M devices, providing developers with full control of the execution at the task level and enabling display of the local execution context for each individual task within the IAR Embedded Workbench IDE.
+Together with Amazon Web Services (AWS), IAR Systems provides developers with easy access to high-performance, pre-integrated development tools for developing and debugging embedded and IoT-connected applications based on Amazon FreeRTOS. Amazon FreeRTOS provides tools developers need to quickly and easily deploy a microcontroller-based connected device and develop an embedded or IoT application without having to worry about the complexity of scaling across millions of devices.
+Enabled by IAR Systems’ C-SPY® RTOS Awareness plugin, the integration with IAR Embedded Workbench gives developers a high level of control and visibility over an application built on top of Amazon FreeRTOS. It displays the position in the code, the register content, call stack information and local variables of the selected task. Task-specific breakpoints and task-specific stepping make it easier to debug tasks. Task-specific breakpoints and task-specific stepping make it easier to debug tasks.
+Lotta Frimanson
+“Many of our customers are already using FreeRTOS and the abilities of the new plugin in IAR Embedded Workbench will enable them to further enhance their development of IoT applications based on Arm Cortex-M,” says Lotta Frimanson, Product Manager, IAR Systems. “With the full task awareness, they will be able to pinpoint issues in their application and become more efficient throughout the debugging process.”
+The new integration is being showcased at IAR Systems’ booth 4-216 at embedded world in Nuremberg, on February 27–March 1.
+
+

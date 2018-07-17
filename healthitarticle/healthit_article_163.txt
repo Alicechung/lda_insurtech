@@ -1,0 +1,31 @@
+VA Lighthouse API Platform with FHIR Enables Health Data Access
+
+March 16, 2018
+
+By Jennifer Bresnick
+March 16, 2018 - The Department of Veterans Affairs (VA) has announced the beta version of its Lighthouse Lab initiative that allows health IT developers to connect to data assets through application programming interfaces (APIs).
+The platform, unveiled at the annual HIMSS conference in March, aims to make it easier for app developers to access the VA’s large-scale data stores and create new tools for streamlining workflows, managing populations, and engaging in big data analytics.
+“One of my top five priorities is to modernize our systems, and the announcement of the Lighthouse Lab supports VA’s move toward adopting commercial off-the-shelf products,” said VA Secretary David Shulkin.
+Dig Deeper
+Da Vinci Project Brings HL7 FHIR to Payers for Big Data Analytics
+CMS Announces Patient-Centered Data Sharing Initiative
+VA, DeepMind Partner for Machine Learning, Predictive Analytics
+“Lighthouse represents VA’s commitment to providing a digital experience in line with what Veterans are getting from the private sector by rapidly bringing cutting-edge solutions into VA that can help us accommodate our Veterans’ unique needs.” 
+Lighthouse is committed to open APIs that leverage widely used data standards within the healthcare industry, including HL7 FHIR.  
+“The VA’s Lighthouse gateway is using the FHIR platform to enable direct patient care, but also to meet the kinds of needs specific to the Veteran population around access to medical information and other important objectives and services,” said HL7 International CEO Charles Jaffe, MD, PhD, to HealthITAnalytics.com in a separate interview.
+“Veteran healthcare is one of the few things upon which both sides of the aisle in Congress can agree.  Not only is it well-funded, but there’s a lot of motion around the legislative issues that are needed to support Lighthouse.  We’re very pleased to see that happening and be a part of it.”
+A number of healthcare stakeholders have already committed to developing new tools with open APIs through the platform, said Shulkin during his keynote speech at HIMSS.
+“We thank the health-care providers who have already signed this [open API] pledge, including University of Pittsburgh Medical Center, Mayo Clinic, Cleveland Clinic, Rush Health Systems, Geisinger Health System, Thomas Jefferson University Health, Fairview Health Services, Intermountain Healthcare and Partners HealthCare.”
+The VA intends to begin building out the platform by making the common clinical data set available, but will also work concurrently on other FHIR resources, including elements that will enable applications related to scheduling, patient encounters, patient feedback, and clinical documentation.
+The platform will grow in alignment with another major data sharing effort announced at HIMSS: the MyHealthEData initiative spearheaded by CMS.
+“We need more clinical and payment data being exchanged via APIs, and that data sent to both the provider and consumer,” said CMS Administrator Seema Verma during the conference. 
+“The administration is serving as a convener – joining with patients, clinicians, and innovators to develop more open source APIs for use across the entire digital health information system. And, in addition to APIs, our vision of interoperability by this administration includes not only EHRs, but the entire digital health information ecosystem.”
+Blue Button, a popular API that has enabled patients to download copies of their health records from patient portals and other locations, will play a role in expanding data access for both VA beneficiaries and Medicare members.
+“[CMS and the VA] partnered on the original Blue Button, and are partnering on Blue Button 2.0,” Shulkin said. “This will further allow a patient to access and share their healthcare information, which will be of great value to Veterans and other citizens.”
+The VA is planning to expand the Lighthouse developer community by offering the opportunity for organizations to bid on short-term projects through “micro-purchasing” transactions. 
+These miniature consulting projects will offer modest payments to developers who can build out critical components of the programming architecture needed to support new functionalities.
+“We cannot do this alone,” Shulkin said.  “To be successful in this critical mission, VA will do our part, and we invite you to join us to accelerate the mapping of health data to industry standards, including the current and forthcoming versions of the Argonaut specifications of FHIR.”
+Interested developers can learn more about Lighthouse from the project’s website by clicking here.
+Tagged Analytics InfrastructureApplication Programming InterfacesBlue Button InitiativeDepartment of Veterans Affairs VAFast Health Interoperability ResourceFHIRHIMSS18
+
+

@@ -1,0 +1,49 @@
+Navigating Value-Based Payment and Population Health Management
+
+November 02, 2015
+
+By Karen Handmaker, MPH
+November 02, 2015 - Healthcare organizations navigating the transition to value-based care are faced with a dilemma: They must invest in the infrastructure for population health management (PHM) even as their fee-for-service (FFS) revenue drops.
+The key strategy is to take advantage of new revenue opportunities created by healthcare reform.
+The following new and existing programs generate revenue streams that can finance a good part of the infrastructure required for population health management:
+Fee-for-service income from follow-up visits resulting from patient outreach
+The automation of patient communication offers a way for healthcare organizations to get their feet wet in population health management while increasing their FFS revenues.
+READ MORE: AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+At the same time, bringing back noncompliant patients for needed preventive and chronic care promotes better health.
+Health plan incentives for patient-centered medical homes
+Many commercial and Medicaid plans offer certified patient-centered medical homes (PCMHs) real incentives—higher payment rates, care coordination fees, pay for performance, and shared savings opportunities.
+While building PCMH practices across an enterprise is a long-term undertaking that requires new health IT capabilities and a reengineered care delivery model (care teams, patient engagement, expanded access, and care coordination), the good news is that PCMH practices are the foundation for many of the other revenue opportunities in this article in addition to the health plan incentives.
+Medicare’s chronic care management program
+READ MORE: Population Health Tool Using EHR Data Reduces HIV Impact in MA
+CMS’ chronic care management (CCM) program may be worth more to physicians each year than the entire Meaningful Use EHR incentive program. Under the CCM program, eligible providers are paid an average of $41.92 per month for each eligible Medicare fee-for-service patient for whom they perform the requisite services.
+Using certified EHRs coupled with other technologies, including telehealth, practices can get paid for spending at least 20 minutes each month coordinating care for Medicare patients with two or more chronic conditions.  These revenues can bolster and sustain important care team resources.
+CMS’ Comprehensive Primary Care Initiative
+In 2012, CMS launched the Comprehensive Primary Care Initiative (CPCI), a four-year program designed to improve primary care. CMS partnered with private health plans in seven regions throughout the country.
+Together, the public and private payers paid care management fees to each practice. In return, the practices were expected to improve care delivery across multiple categories. Early results from the initiative, announced Oct. 7, 2015, were promising, with some significant quality improvements but relatively small cost savings.
+READ MORE: How the Search for Smart Data Drives Healthcare IT Investment
+If the CPCI program is deemed successful after further study, CMS might expand it to more areas of the country and perhaps to all primary care physicians who care for Medicare beneficiaries.
+Upside adjustments in Medicare’s value-based modifier program
+CMS’ new value-based modifier (VBM) program, though often viewed with trepidation, offers real revenue opportunities to physicians and their healthcare systems. Health IT will prove key to meeting VBM’s quality and efficiency measures.
+Health IT can help physicians deliver care efficiently by keeping track of their patients’ health status, identifying high-risk patients who need care management, and reminding physicians and care managers about care gaps. Automation software can be used to reach out to noncompliant patients and to launch campaigns that enable patients with certain conditions to better manage their own care.
+Improved transitions of care to avoid readmission penalties
+Improved transitions of care can prevent avoidable 30-day readmissions and the associated CMS penalties. New automation tools can greatly facilitate the use of best practices designed to improve post-discharge care and reduce readmissions.
+Among the areas where automation can pay off in higher quality and lower costs are:
+• Risk stratification of patients
+• Post-discharge communications with patients
+• Patient education and engagement
+• Closure of provider communication loops
+Bundled payments from CMS and private health plans
+Bundled payments aren’t new, but in the past they were confined to hospitals’ inpatient charges, known as DRGs. The new types of bundled payments that CMS and some private payers are testing involve not only acute-care facilities, but also physicians and post-acute care (PAC) providers. They may also include durable medical equipment suppliers, medical devices, and prescription drugs.
+Success in payment bundling will therefore require significant care redesign—no easy task. However, bundled payments are still a potential source of costs savings for healthcare systems that can work effectively with their physicians on redesigning care and purchasing cost-effective supplies.
+In addition, a healthcare system that owns or can influence PAC facilities and home health agencies stands a good chance of reducing costs enough to create significant savings.
+The Medicare Shared Savings Program for ACOs
+More than 400 accountable care organizations are now enrolled in the Medicare Shared Savings Program (MSSP). Initially, these ACOs could choose between two options: upside risk only (sharing savings 50-50 with Medicare) or upside and downside risk (with upside at 60 percent and maximum downside at 10 percent).
+CMS recently finalized its proposal for a third track: ACOs can keep 75 percent of their savings, but are liable for 15 percent of the losses.
+If an ACO is not prepared for risk contracting, it can still share savings in the MSSP and reinvest that money in the infrastructure and care management it needs in order to move forward. When the ACO has reached the level where it can handle downside risk, it can re-enroll in track 2 or 3 of the program.
+Private insurers’ programs for ACOs and integrated delivery networks (IDNs)
+According to a 2014 report, about half of all ACOs have contracts with private payers. The report found that these contracts used shared savings (with or without downside risk), capitation, or global budgeting as their payment mechanism, with the most common contract being an upside-only shared savings model (41 percent).
+Commercial health plans are steadily delegating more and more risk to providers. Many healthcare organizations have a long way to go before they will be ready to assume this much financial risk. But if private payers don’t cut capitation rates and allow providers to share in the savings as they reduce waste and take better care of patients, everyone will benefit.
+Karen Handmaker, MPH, is vice president of population health management strategies for Phytel, an IBM company that is part of Watson Health.
+Tagged Chronic Disease ManagementHealthcare Data GovernancePopulation Health ManagementValue Based Payments
+
+

@@ -1,0 +1,11 @@
+AI Pioneers Appear Together In Exclusive Panel Discussion: Yoshua Bengio, Yann LeCun & Geoffrey Hinton
+
+31 Oct 2017
+
+For the first time ever, RE•WORK brought together the ‘Godfathers of AI’ to present not only at the same event, but on a joint panel discussion. Earlier this month the Deep Learning Summit in Montreal saw Yoshua Bengio, Yann LeCun and Geoffrey Hinton come together to share their most cutting edge research progressions as well as discussing the landscape of AI and the deep learning ecosystem in Canada
+With Montreal dubbed as the ‘Silicon Valley of Deep Learning’, and after discussing with Yoshua Bengio as well as the Montreal Tourism Board, RE•WORK’s decision to host the first Canadian Deep Learning Summit in Montreal was finalised.
+The Panel of Pioneers featuring Bengio, LeCun and Hinton was moderated by the head of the new Facebook Lab in Montreal and Associate Professor of Computer Science at McGill University, Joelle Pineau.
+As well as appearing on stage together, all three AI pioneers gave their own presentations where they shared their most cutting edge research.
+Bengio shared some recent use cases of neural networks in deep learning with the use of rectifying nonlinearities (ReL), which enable training deeper networks as well as the use of soft content-based attention. This allows neural nets to go beyond vectors and to process a variety of data structures and led to a breakthrough in machine translation. He spoke about ongoing research that’s now suggesting that brains may use a process similar to backpropagation for estimating gradients and new inspiration from cognition suggests how to learn deep representations which disentangle the underlying factors of variation, by allowing agents to intervene in their environment and explore how to control some of its elements. He explained how “we have an internal model that allows us to generalize to completely new worlds… we need models that can predict the future and the consequences of their actions”.
+
+

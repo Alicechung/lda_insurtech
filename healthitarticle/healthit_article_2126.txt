@@ -1,0 +1,17 @@
+ECRI: Big data among top health IT issues for execs in 2014
+
+January 07, 2014
+
+By Jennifer Bresnick
+January 07, 2014 - Hospital executives have their hands full these days trying to keep their facilities financially viable while maintaining high quality care and the best possible outcomes for an increasingly complex patient population.  While leveraging health IT to accomplish lofty goals is no new concept, it can be hard to keep up with the changing landscape of data analytics tools and clinical technologies.  ECRI Institute’s 2014 Top 10 Hospital C-Suite Watch List compiles some of the hottest trends in hospital tech, and big data figures largely throughout as hospital board rooms seek solutions to the intractable problems of providing care.
+EHR adoption and the mass digitization of the healthcare industry have led to the perfect conditions for big data to take hold, the report says.  From monitoring patient flow to flagging adverse events, participating in outcome registries and reducing costs, analytics of big data “opens the door to a new approach to making decisions in healthcare.  Executives [can] better leverage their information to improve care, control costs, and ready their organizations for the advent of outcomes-based reimbursement,” the report states.  But “if big data has so much potential, why is its use taking so long in healthcare?”
+Data fragmentation and a lack of interoperability remain the culprits long after the rise of the Office of the National Coordinator started to urge stakeholders to work together on data standards and the removal of information siloes.  Organizations still need to develop the ability to gather data and clean it up before they can produce valuable insights from their information, and that is a slow and complicated process.  “Each clinical site, from an outpatient lab to a hospital to a nursing home, has an individual repository of data. With data residing in individual silos, data sharing can be a seemingly insurmountable challenge, but survival requires strategic planning for big data aggregation and analysis,” the report explains.
+ECRI suggests that providers partner with larger organizations that may have more muscle and more financial resources to spend on data analytics.  Banding together in accountable care organizations could be the key to sharing and streamlining data for smaller providers, too.  The use of natural language processing tools, machine learning, and predictive algorithms will become easier as EHR data elements become more structured, and providers will be able to extract important information about population health, operational efficiency, and patient safety.
+Dig Deeper
+Desire for Predictive Analytics Outpaces Hospital Investment
+The Difference Between Clinical Decision Support, Big Data Analytics
+Early Adopters Question Usefulness, Maturity of AI in Healthcare
+“Healthcare big data is very much in its infancy. it is a powerful tool that holds tremendous potential to solve some of the most critical issues in the United States and elsewhere,” but “administrators are beginning to grasp the idea that data analytics can reduce costs and improve patient care. Big data provides the opportunity for facilities to generate new information in hopes of improving both systems of care and patient outcomes.”
+Tagged Analytics InfrastructureBig DataClinical AnalyticsFinancial AnalyticsHealthcare Business IntelligenceHealthcare Data Analytics
+
+

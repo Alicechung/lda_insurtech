@@ -1,0 +1,80 @@
+Top 5 Questions for Payers about Population Health Initiatives
+
+May 29, 2018
+
+By Jennifer Bresnick
+May 29, 2018 - Value-based reimbursement is slowly but surely increasing its footprint in the healthcare industry as payers look to control costs while rewarding providers for improved prevention and management of chronic disease. 
+Targeted population health management initiatives play an important role in helping both providers and payers meet those goals.
+But providers often voice concerns about how they will be adequately compensated for changing their care models to include services that tend to fall outside of the traditional fee-for-service reimbursement structure.
+Sending reminder messages or making follow-up phone calls, taking steps to address the social determinants of health, or spending extra time with patients to deliver chronic disease management or medication adherence education are all vital components of prevention and health maintenance.
+Understanding exactly what payers expect from their providers in exchange for performance bonuses or bundled payments – and clearly communicating what data, resources, and support healthcare organizations need from their financial partners – is a vital first step towards success for any population health program.
+READ MORE: How to Get Started with a Population Health Management Program
+How can providers start those important conversations with their payers, and what are some of the questions they should be asking before they embark on the journey towards value-based care?
+WHAT ARE YOUR GOALS AND HOW WILL YOU MEASURE THEM?
+“Population health management” is an extremely broad term that encompasses projects as diverse as dietary coaching for diabetics, getting children to wear their seatbelts, and working with public safety departments to ensure access to naloxone for opioid overdose cases.
+While all of these have the potential to positively impact patient lives, most healthcare providers do not have the time, resources, or skillsets to take on every single potential improvement across every possible domain.
+Instead, they must pick an area of care that corresponds to their patient characteristics, their core strengths, and their community needs.
+Payers, too, must carefully pick their battles, and will often focus on developing programming that can produce the highest financial returns with the least possible investment from themselves and their partners.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+These goals can be clinical, financial, or a combination of the two.  Common population health management goals may include:
+Reducing the number of diagnosed diabetics with uncontrolled blood sugar (A1C greater than 9)
+Increasing exercise rates among children and adolescents with higher BMI measurements
+Reducing costs of avoidance emergency department utilization
+Increasing the number of weekly “Healthy Days” experienced by patients diagnosed with depression
+Improving the number of adults who receive vaccinations for pneumonia, shingles, and other preventable diseases
+Encouraging smoking cessation and reducing any type of tobacco use among adolescents and adults
+The immediate impact of many of the goals may be clinical, but the downstream effects are also financial, leaving patients with healthier lives and payers with fewer high-cost claims to reimburse.
+However, each one of these programs must include detailed goals and methods of measuring if a provider has achieved them.
+If a payer simply required a provider to “reduce the number of diabetics with blood sugar greater than 9,” the provider could claim success after getting one single patient to record a reading of 8.9 during one solitary visit. 
+Clearly, that is not the intention of the program, but without agreeing upon the details of the arrangement, payers and providers could find themselves at odds.
+READ MORE: Population Health is Top Data Analytics Challenge for Providers, Payers
+Goals should be specific in order to give providers and payers as much common ground as possible.  A strong, detailed goal will include:
+The patient population involved (adults between 18 and 65 with a recorded A1c >9 within the past six months)
+The clinical goal to be attained (achieve A1c <7.0 at three consecutive screenings)
+The timeframe for achieving the goal (the measurement period will last for 24 months)
+Any caveats or exceptions (A1c of <8.0 for patients with certain complex comorbidities is acceptable)
+How the goal will be measured (results must be recorded by a healthcare provider or approved lab; no at-home tests)
+Ensuring that both parties understand the metrics being employed – and how to measure and report on them – is a challenging task.
+There are dozens of different methodologies and frameworks available, including those that mix process measures and outcomes measures, and few organizations have yet agreed upon a core set of metrics that constitute success with value-based care.
+While the National Quality Forum (NQF) and other organizations are working with stakeholders across the care continuum to reduce duplicative measures and develop shared benchmarks, many private payers still use their own unique mix of metrics to define “value” for the purposes of their pay-for-performance programming. 
+These frameworks may vary from payer to payer, leaving providers with the challenge of figuring out exactly what data they need to report for every arrangements.
+Providers should be completely certain that they agree upon all definitions, metrics, data points, activities, and benchmarks before they sign an agreement with a payer. 
+WHAT ARE THE REIMBURSEMENT OPTIONS FOR SUPPORTING THIS WORK?
+The financial aspect of population health management is just as important to providers as it is to their payers.  As alternative payment models become more popular, the options for receiving compensation are proliferating.
+Payers are offering numerous types of incentives, payment adjustments, bundles, and bonuses for achieving quality goals related to preventive care and resource utilization.
+The most common payment structures include upside and downside risk models.
+Upside risk models provide bonuses when an organization hits certain clinical or financial goals.  These arrangements do not require providers to pay back any losses, should they exceed their spending targets or miss their clinical benchmarks.
+Downside risk models do put some revenue at stake, and are often seen as most appropriate for mature value-based organizations.   
+Bundled payments or episodic payments straddle the line by offering providers a flat rate for a given set of procedures, like a knee replacement and accompanying after-care.  The organization can make money by trimming the actual cost of providing good outcomes for a standard procedure.  If the patient experiences complications, however, they are liable for all costs exceeding the pre-paid rate.
+Because population health management is often centered on preventive care or long-term chronic disease management, bundled payments apply less often than upside or downside risk arrangements that reward coordinated care and proactive patient management.
+At the moment, the majority of organizations participating in value-based care arrangements are only interested in upside risk, and are not prepared to put their revenue streams on the line if they fail to meet their goals.
+Providers entering into a new population health arrangement with a payer must understand what the thresholds for failure will be, what penalties or rewards are at stake, and whether payments will be made prospectively or retrospectively.
+WHAT DATA OR ANALYTICS TOOLS WILL BE PROVIDED, AND HOW CAN WE ACCESS THEM?
+Data is the lifeblood of any population health initiative, but this valuable resource is often fragmented and difficult to assemble into an actionable portrait of risk and opportunity.
+Payers tend to hold the financial component of the puzzle, which they can assemble through a patient’s claims, while providers have easier access to clinical data.
+Data sharing is key to help providers understand the characteristics of their attributed patients, including the services they may be receiving at external organizations.  Analytics are also crucial for risk scoring and stratification, monitoring the impact of interventions, and gauging financial savings.   
+However, more than a third of respondents to a recent survey by Change Healthcare said that insufficient access to health IT tools was slowing their ability to transition away from fee-for-service care structures, and a quarter stated that their current analytics efforts have not been effective for improving population health.
+Engaging more closely with payers – and the robust analytics infrastructure most have developed – can help providers succeed in a risk-based financial environment. 
+Some will offer analytics tools and services to support participation in cost-cutting efforts, and providers should ask to make sure they are aware of any potential services available to them.
+Organizations should also request access to key data sets that might not be available internally, such as pharmacy and medication data, claims from other organizations such as skilled nursing or LTPAC providers, any socioeconomic data collected by payers as part of their broader management initiatives, and any risk scores developed by the payer or other providers.
+WHAT DO YOU NEED FROM US?
+Value-based care is a two-way street, requiring open collaboration between all parties.  Providers will likely be required to share detailed reports on their efforts at regular intervals – but as mentioned above, these reports may look slightly different for every payer who asks for one.
+Clarifying the structure, content, frequency, and transmission of quality and financial reporting will be an important step for ensuring that all participants are communicating effectively.
+In addition to clinical and financial metrics, providers may also be asked to share feedback on what strategies are working for their patients and which may need to be reevaluated.  Collecting patient experience data through surveys or electronic communications may help delivery organizations and their payers develop best practices for future initiatives.
+Healthcare providers must also be aware that their payers may require patience from them.  Some organizations may need to restructure their care teams, add staff, or implement new technologies – none of which is reimbursable according to the typical terms of a value-based agreement.
+Frustration often builds at this point as providers see expenses pile up without a clear pathway to a financial return.  Providers may have to commit to giving their payers the benefit of the doubt for a time as they optimize their processes before they can achieve their long-term goals.
+WHAT COMES NEXT AND HOW CAN WE GET THERE TOGETHER?
+Hitting a clinical or financial target is an admirable achievement, but it doesn’t represent the end-point of population health management.  Continuous improvement should be the goal for every payer and provider, and a successful pilot or contract period should serve as a springboard for future success.
+Three or five years may seem like a long-term commitment at the beginning of an accountable care arrangement or pay-for-performance contract, but sustaining those gains after the terms of the agreement have come to a close can be a challenge.
+Many payers will urge their successful providers into taking on financial risk once they have laid the groundwork for success.  While this seems like a natural progression, the path towards increased financial responsibility hasn’t been a smooth one for many value-based care participants.
+In the Medicare Shared Savings Program, for example, seventy-one percent of participants would rather quit the program than take on the challenge of shouldering downside risk, according to a 2018 survey from the National Association of ACOs (NAACOS).
+A separate poll from Numerof & Associates in April of 2018 found that despite placing significant importance on embracing population health management, provider organizations are moving more slowly than planned into risk-based financial arrangements.
+While payers would no doubt like to see speedier progress into the risk-bearing arena, providers appear extremely unwilling to oblige them.
+This leaves both parties with the need to have a frank and honest discussion about the future of their collaborative relationships, and how to continue to make gains in quality and outcomes without sacrificing financial welfare on either side.
+Both payers and providers will need to be creative about trimming additional inefficiencies, working with partners across the care continuum, developing more impactful interventions, and encouraging engagement among their patient populations.
+Whether those activities are based on the lure of bonuses or the threat of revenue losses may vary from contract to contract and provider to provider.
+Ultimately, however, all participants in a population health management must be in agreement about the current and future course of their work. 
+With the right framework for measuring outcomes, adequate data to support improvement, and a shared vision for what constitutes success, providers and payers can see meaningful impacts on quality, outcomes, and costs.
+Tagged Analytics InfrastructureChronic Disease ManagementChronic Disease PreventionListsPay for PerformancePopulation Health ManagementValue Based Care
+
+

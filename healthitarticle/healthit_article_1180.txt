@@ -1,0 +1,27 @@
+Precision Medicine, Predictive Analytics to Flag PTSD Risks
+
+November 05, 2015
+
+By Jennifer Bresnick
+November 05, 2015 - A new study from Geisinger Health hopes to engage precision medicine principles to predict mental and behavioral health risks for an oft-overlooked subset of the veteran population: National Guard and members and Reservists, who experience high rates of post-traumatic stress disorder (PTSD), substance abuse, and depression without accessing the resources devoted to other military service members.
+The study will identify specific genetic risk factors that may predispose these patients to developing these serious conditions, and is the first research project of its kind conducted among military service members seen in non-VA facilities, researchers said.
+"Generally we've found that individuals with 'at risk' genes are more likely to develop PTSD, depression and substance abuse, especially when associated with a higher exposure to traumatic events or greater exposure to childhood adversity," explained Joseph Boscarino, PhD, MPH, a senior scientist at the Geisinger Center for Health Research.
+In conjunction with providers from across the health system, Boscarino will use electronic health record data, along with patient interviews, to screen National Guard and Reservist members for genetic markers that may indicate a need for further observation or treatment.
+Dig Deeper
+How Big Data Analytics Underpins Every Healthcare Trend
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+VA, DOE Launch Healthcare Big Data, Machine Learning Project
+Boscarino, a US Army combat veteran, has worked for more than a decade with a national team of researchers to use predictive analytics to flag patients likely to develop PTSD after traumatic incidents.
+"Until now, there hasn't been an easy-to-use tool to help clinicians rapidly identify PTSD in patients in routine practice or after a traumatic event," said Boscarino. "We think we now have a basic tool that can quickly identify PTSD cases and facilitate appropriate therapy.”
+The Department of Veterans Affairs has invested billions in similar research and the development of tools that can both proactively identify and help patients cope with mental health issues after deployment. 
+In 2013, active military and veteran suicide rates overtook combat deaths in Iraq and Afghanistan, prompting VA researchers to explore the use of predictive analytics and natural language processing to uncover clues to potential self-harm in free-text EHR data. 
+The following year, the Department also initiated a big data analytics project using technology from IBM’s Watson supercomputer, which aims to pinpoint patients at higher risk of suicide by uncovering patterns and highlighting insights most human clinicians might miss.
+Telehealth and mHealth apps have also become critical lifelines for veterans and their caregivers unable to access regular care at VA facilities.  Using iPads, the 2013 Family Caregiver Pilot engaged veterans suffering from chronic pain or PTSD in their own health, allowing them to communicate with providers, record symptoms, and receive coaching to help them through their conditions. 
+By allowing clinicians to review this data in the patient’s EHR, the program not only encouraged patient engagement and constant monitoring, but also integrated providers into the daily care management process, to keep patients on track and raise queries should the data reveal a sudden negative change.
+“We want to empower better self-management of health,” said Dr. Neil Evans, Associate Chief of Staff of Informatics and Co-Chief of Primary Care at the Washington, D.C. VA Medical Center during the pilot program. 
+“Reviewing their own personal data, that’s really part of self-management, to be able to see their data from the EHR.  It’s not just about seeing the data.  It’s also about generating their own patient-generated data to help inform the care team.  We don’t want to produce patient-generated data just to generate it, but also to help empower the relationship with their care team.”
+Boscarino believes that emerging precision medicine applications like genetic screenings should also be a standard element of care for National Guard and other veterans returning from overseas.  Bringing deeper insight into the mental healthcare process for these patients may help to stem the shocking rise in suicide, substance abuse, and debilitating PTSD symptoms that afflict so many veterans and their families.
+“I wish my generation of warfighters had these tools available when we returned from Vietnam,” said Boscarino. “Because we didn't, that is why I have been pursuing this research for the past 35 years."
+Tagged Big Data AnalyticsPopulation Health ManagementPrecision MedicinePredictive Analytics
+
+

@@ -1,0 +1,18 @@
+Allot Telco Security Trends Report Reveals CSP Security Services Prove Highly Effective In Protecting Consumers From Mobile And IoT Threats
+
+13 Jun 2018
+
+Allot Communications Ltd. (NASDAQ: ALLT) (TASE: ALLT), a global provider of leading innovative network intelligence and security solutions for service providers worldwide, released findings from its Telco Security Trends Report, revealing a dynamic and automated threat landscape in which consumers lack the security expertise to effectively protect themselves. Mobile and Internet of Things (IoT) continue to be primary attack vectors, contributing to a spike in cryptojacking, adware, and distributed denial of service (DDoS) attacks.
+Read More: GameFace Labs Opens Pre-Orders For Android-Based VR Headset Powered By NVIDIA Jetson TX2
+The Telco Security Trends Report is based on anonymous data gathered from four communications service providers (CSPs) across Europe and Israel, who between them, protect seven million customers. It found that during the period from November 2017 to February 2018, nearly two billion mobile security threats were blocked – an average of two each day per mobile device. Of those security protections:
+Almost one billion were triggered by cryptomining malware, the leading security threat, corresponding to the rise in cryptocurrency valuation in late 2017/early 2018
+Over one hundred million threats were triggered by adware only
+Forty thousand threats were triggered by direct attacks in the form of ransomware and banking trojans
+Read More: Major German Brands Turn to Salesforce to Navigate Fourth Industrial Revolution
+The escalating IoT Threat Landscape?
+As part of this study, Allot set up honeypots simulating consumer IoT devices and exposed them to the Internet. Results showed immediate successful attacks, peaking at a rate of over one thousand per hour, with findings revealing that a device can get infected within 42.5 seconds of being connected to the Internet. There was also an increase of unique IP addresses attacking the honeypots over time, from 44 per day to a peak of 155 per day in less than a month of exposure.
+Connected devices are forecast to grow to almost 31 billion worldwide by 2020. To help combat rising threats across this expanding mobile and IoT attack surface, the Telco Security Trends Report found that CSPs are best positioned to deliver a unified, multilayer security service delivered at the network level to the mass market. By merging value-add network-based security with built-in customer engagement capabilities, CSPs can simultaneously achieve rapid customer acquisition and high adoption rates of 40 percent, while generating incremental revenue.
+Read More: Embrace Agility, Confidence and Coaching for ‘Sales Mastery’
+“Cybercrime has become rampant across the growing mobile and IoT attack surface due to the financial motivation it provides” said Ronen Priel, VP Product Management at Allot. “CSPs can differentiate themselves from the competition by offering value-added security services to subscribers who are constantly under attack, while generating incremental revenue. It’s a win-win for both the CSP and subscriber.”
+
+

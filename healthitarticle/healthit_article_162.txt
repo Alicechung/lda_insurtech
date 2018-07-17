@@ -1,0 +1,51 @@
+Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+
+March 19, 2018
+
+By Jennifer Bresnick
+March 19, 2018 - The few electronic health record vendors that have risen to dominance in the past decade have done so by creating strong brand identities and targeting their offerings to specific segments of the health IT marketplace.
+Names like athenahealth, Allscripts, MEDITECH, and Practice Fusion each conjure up visions of particular types of customer organizations with well-defined needs – and perhaps no EHR brands have a stronger correlation with the customers they serve than two of the industry’s best-known players: Cerner Corporation and Epic Systems.
+In recent years, both have put significant effort into embracing interoperability as their motto, albeit in slightly different ways. 
+While Cerner has emphasized its ability to play very well with others, Epic has forged ahead with the idea that it can – and should – provide almost everything that a healthcare organization needs to become a fully digital, data-driven enterprise. 
+That creates interoperability by default, says Epic founder and CEO Judy Faulkner.
+READ MORE: Faulkner Guides Epic Systems from EHR to Comprehensive Health Record
+“I know there are people who say that Epic is only focused on Epic.  But when we first built the system in the early 2000s, well before meaningful use, we had to invent the whole thing,” Faulkner said to HealthITAnalytics.com at HIMSS18 earlier in March.  “We’re treating everything as one system. It’s the first step towards making one unified record for every patient.” 
+Faulkner coined the term “comprehensive health record” to describe this approach, adding a new acronym to plentiful health IT lexicon, and the “CHR” has quickly become a guiding principle for Epic’s new features and functionalities. 
+The company now allows organizations to access to Epic records through a web portal that does not require specialized software installations, and Epic users can draw in data from nearly anywhere with a new suite of workflow tools aimed at streamlining interoperable workflows.
+But not everyone is convinced that a system like Epic is creating should become the center of the health data universe. 
+Comprehensiveness in such a fragmented, fast-paced, multifaceted industry should not be the goal, argues a team of experts from the University of California San Francisco (UCSF) Center for Digital Health Innovation. 
+READ MORE: Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+As patients move in and out of health systems, receive care in a growing number of organization types that may or may not be digital yet, and start to generate valuable data through sensors and devices that are not yet integrated into the traditional EHR landscape, the “comprehensive” health record becomes more and more difficult to produce.
+Instead of focusing on centralizing data, EHR vendors and healthcare providers should work on fostering connectivity, wrote Aaron Neinstein, MD, Director of Clinical Informatics, Mark Savage, Director of Health Policy, and Ed Martin, Director of Technology in a blog post following HIMSS18.
+While the article never cites Epic by name, the response is clearly pointed in the direction of Verona, Wisconsin. 
+“EHR vendors have undertaken to refresh and rebrand the ‘electronic health record’ to a ‘comprehensive health record,’ which collects and manages additional data and use cases,” the team writes. “This concept misses the point.”
+“Interoperability is a national priority precisely because no single vendor EHR system is comprehensive, and there must be interoperability across myriad data types, sources, authorized users, and use cases,” stated the team. “Given this, we say ‘connected health record,’ not ‘comprehensive health record,’ and we are not alone.”
+READ MORE: 74% of Execs Say Interoperability is Critical for Value-Based Care
+Care plans, especially those developed as a way to treat patients under shared value-based care responsibilities, can change quickly and require input from providers across the care continuum, the article asserts. 
+Electronic records of these interventions and treatments must be similarly dynamic, adaptable, and collaborative – not to mention easy to use, said the UCSF team.
+“A chorus of physicians and patients is crying out that EHR systems are already cumbersome and inefficient,” they wrote.
+“Imagine how much worse this might become if EHR systems grow and grow to accommodate new use cases rather than focusing their energies on improving their core functions to be more user-friendly and to reflect the way modern healthcare is and will be practiced?”  
+Instead of requiring all providers to somehow contribute information to a specific single system, even if it is not their own, stakeholders should be able to input data where they want and be confident that the data will show up in their business partners’ health IT systems, too.
+“The connected health record does not continue to define relevance, information, and healthcare by what’s locked in—and out—of the record, by whether it is in or out of a single ‘comprehensive’ health record,” explain the UCSF experts.
+“Instead, the connected health record achieves true completeness by focusing on the dynamic conversation, teamwork, interconnections, and diverse data sources inherent in managing health and healthcare today.”
+Care is becoming much more team-based and much more decentralized as providers work to keep patients out of the hospital – and even out of the primary care office, in some cases.  This trend requires EHR systems to be similarly collaborative.
+“In the world of the connected health record, a patient at home with cancer who gets a fever will have her temperature data transmitted to her primary care physician, her oncologist, her homecare nurse, and her family caregiver.  Recommendations and changes in care plan from any one of those providers will be communicated to and accessible automatically for the entire care team.”
+Epic would be very quick to argue that its goal is not to become a data-gobbling behemoth that forces all providers to use its tools or perish. 
+Seamless and intuitive health information exchange with other systems has remained a top priority for the company, which touts its abilities to interoperate with other systems nearly as often as it promotes its internal functionalities.
+Faulkner makes a point to showcase Epic’s methods for exchanging standard data sets with other EHR vendors, and is excited about the growing use of application programming interfaces (APIs).  The company has also participated in a number of industry pledges, exchange networks, and consortiums focused on improving interoperability across competitive lines.
+But competing business incentives and the slow pace of provider adoption have made a truly connected health record difficult to develop. 
+And while health IT stakeholders wrangle over standards, exchange protocols, and data pipelines, patients and clinicians are still waiting for a useable, useful tool, says Faulkner.
+“We could just wait, or we could do something,” she shrugged.  “We decided to do something.  If we at least start doing what we can with what we have, it’s going to help millions of patients who are cared for using our software.”
+Connectivity is still the ultimate goal, but healthcare can’t wait until every organization gets all its ducks in a row before pursuing it, she believes.  The industry’s growing reliance on data, including information about the social determinants of health that comes from numerous disparate sources, demands swift and decisive action.
+Epic is in one of the best positions to take that action, due to scale of the company and the customers it serves.  It enjoys a lead in market share in many segments – though certainly not an insurmountable one – and is consistently ranked among the top vendors for consumer satisfaction.
+Perhaps the company can’t be blamed for trying to propel their dominance into an effort to mold the industry into its image.
+But Epic’s world isn’t everyone’s world, and those who chide Epic for sweeping this fact under the rug a little bit may have a point.  The health IT landscape remains highly fragmented for a number of very good reasons, and isn’t likely to change significantly for some time. 
+Vendors fortunate enough to be in a position to shape the market should continue to prioritize interoperability in the sense that lawmakers and regulators have codified in documents such as the 21st Century Cures Act and the Trusted Exchange Framework and Common Agreement (TEFCA).
+That means working internally to integrate APIs and other standards for data exchange into their product suites, and collaborating closely with competitors to ensure that data flows smoothly across barriers no matter what.
+Doing so may ensure that the connected health record and the comprehensive health record are not actually mutually exclusive. 
+A single health IT system can comprehensively address the needs of a particular organization or individual patient while still being highly connected and interoperable with the consolidated health IT platforms in other health systems.
+There is nothing preventing electronic health record vendors from morphing into comprehensively connected health record (CCHR) vendors, other than perhaps the minor annoyance of adding yet another a new acronym to the industry’s alphabet soup of abbreviations.
+Whether or not vendors like Epic and its many fierce competitors can balance both goals remains to be seen, but the opportunities to shape the future of health IT are still fluid as the industry matures into a data-driven, patient-centered technology market.
+Tagged Care CoordinationEHR InteroperabilityEpic SystemsHealth Information ExchangeHIMSS18InteroperabilityPopulation Health Management
+
+

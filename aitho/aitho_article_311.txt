@@ -1,0 +1,16 @@
+IQIYI Launches AI Competition To Promote Development Of Video-based Biometric Identification Technology
+
+14 Jun 2018
+
+The Competition Is Being Held In Partnership With The Chinese Conference On Pattern Recognition And Computer Vision
+iQIYI Inc, an innovative market-leading online entertainment service in China, today announced the official opening of applications for “Celebrity Video Identification Challenge”, an AI programming competition focused on video-based multimodal biometric recognition. The competition is being held in partnership with the Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2018). Between 200 and 1,000 teams drawn from China’s leading institutions in the field of scientific research and some of the world’s top universities will vie to make major breakthroughs in the field.
+In this unprecedented initiative, iQIYI will provide participants of the competition with the world’s largest data set of celebrity video materials (iQIYI-VID) containing over 500,000 video segments of 5,000 celebrities from the world of entertainment, totaling over 1,000 hours.
+Read More: Will Artificial Intelligence Bring An End To Stupid Meetings?
+Competitors will apply iQIYI’s colossal data set to develop biometric recognition algorithms which attempt to identify celebrities through multiple factors such as the individual’s face, voice, movement and clothing appearing in the video footage. The ability for biometric recognition through photographs has in some cases surpassed human capabilities, but considering variables such as different expression, pose, age, light conditions, makeup and obstructions to view, the effectiveness of recognition algorithms within the context of video footage is still not sufficient to meet the demands of practical use. Throughout the competition contestants will have the opportunity to compete against and interact with some of leading figures in the AI field.
+Liu Wenfeng
+“The combination of iQIYI’s massive digital video resources and leading AI technology means we are well positioned to take the field of video-based biometric recognition to the next level,” said iQIYI Chief Technology Officer Liu Wenfeng.
+“Through this competition we look forward to further enhancing the application of AI technology in the video industry, improving AI algorithms in partnership with leading programmers in the field and promoting the development of video-based biometric recognition technology in China and abroad.”
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+According to the competition’s schedule, from June 14 iQIYI will begin to release the iQIYI-VID training and validation datasets in batches, with the test dataset to be released on September 17. From this date iQIYI will begin to rank submissions, until the submission deadline on October 15. Competition winners will be announced on November 1, with iQIYI awarding the winning team a prize of 200,000 RMB. Second place will receive 100,000 RMB and third place 50,000RMB.
+
+

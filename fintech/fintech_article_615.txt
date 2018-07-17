@@ -1,0 +1,43 @@
+A short guide to EON blockchain
+
+September 12, 2017
+
+EON is a decentralized blockchain-based platform which is the infrastructure of the Exscudo Ecosystem services. The platform is designed to be flexible and rapid, with standard load three times bigger than the Bitcoin’s blockchain. Our platform addresses typical blockchain problems of low transaction per second bandwidth and extensive memory usage by the whole blockchain platform. The EON blockchain was created to overcome these difficulties.
+
+ You can find more detailed information about EON blockchain in our guide.
+
+ Consensus – Delegated Proof of Stake
+
+ EON blockchain works on consensus algorithm dPOS (delegated Proof of Stake). It means that transaction blocks are confirmed by delegate accounts. Nodes run by this kind of accounts are called masternodes. A certain deposit is frozen on the account which take part in transaction confirmation to guarantee block generation security. Such deposit corresponds to a sum of 25,000 eons. Each of the delegates can propose its block version for network validation. The probability of block acceptance by the net depends on the deposit amount.
+
+ Commissions
+
+ EON blockchain allows users to set commission amount by themselves. The only limitation – it can not be less than the established minimum. However, during the high network load there is a probability that a transaction with a small commission will not be able to enter a block. Then it will be waiting for the load to decrease. By default transaction lifetime is one hour.  If it does not enter the block within this time it is simply deleted. Therefore, when the network load is high the priority is given to transactions with bigger commissions, taking into account the time of their issuance. Later we will provide information on the recommended amount with regard to the network load.
+
+ Nodes
+
+ Primary technical requirements/recommendations for node installation:
+
+ Terminology.  EON has three types of nodes: nodes, masternodes and archive nodes. To avoid any confusion we decided to clarify what is behind these terms.
+
+ How nodes and accounts are connected?
+
+ Each node is connected to a particular account and is generating blocks on its behalf. A node needs account’s authorization data to participate in generation.
+
+ How to count the reward for delegate accounts?
+
+ The reward for block generation is equal to the total sum of commissions for all transactions in this block.
+
+ Blocks
+
+ On average a block includes 4000 transactions, but at the same time the size of the block can not exceed 1MB. The size of transactions size also plays a role: a block may have more than 4000 small transactions and fewer than 4000 big ones. The minimal block size is zero transactions.
+
+ Transactions
+
+ At the moment there are four types of transactions, and each of these types has its fixed size. The average transaction size is 260 bytes.
+
+ Types of transactions:
+
+ In an hour a maximum of 80,000 transactions can be processed. Each transaction has its “lifetime” which is one hour. After that transactions that did not enter the block are deleted.
+
+

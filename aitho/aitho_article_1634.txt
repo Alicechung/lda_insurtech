@@ -1,0 +1,19 @@
+Introducing Chronicle, A New Alphabet Business Dedicated To Cybersecurity
+
+25 Jan 2018
+
+Google Parent Company, Alphabet Inc, Announced The Formation Of A New Subsidiary Company Called Chronicle Focused On Cybersecurity
+Stephen G.
+CEO of Chronicle, Stephen Gillett, in his blog made the official announcement about a new independent business within Alphabet that’s dedicated to helping companies find and stop cyber attacks before they cause harm.
+‘X, the moonshot factory, has been our home for the last two years while we figured out where we had the potential to make the biggest impact on this enormous problem. Now we’re ready to unveil our new company, which will have two parts: a new cybersecurity intelligence and analytics platform that we hope can help enterprises better manage and understand their own security-related data; and VirusTotal, a malware intelligence service acquired by Google in 2012 which will continue to operate as it has for the last few years,’ he wrote in his blog.
+What will Chronicle do?
+They want to 10x the speed and impact of security teams’ work by making it much easier, faster and more cost-effective for IT security teams to capture and analyze security signals that have previously been too difficult and expensive to find. Chronicle is building intelligence and analytics platform to solve this problem.
+Chronicle has a significant asset: they’re building and running it on the same fast, powerful, highly-scalable infrastructure that powers a range of other Alphabet initiatives that require enormous processing power and storage.
+‘That gives us a couple of advantages,’ says Gillett.
+Here is his plan in his own words:
+We should be able to help teams search and retrieve useful information and run analysis in minutes, rather than the hours or days it currently takes.
+Storage — in far greater amounts and for far lower cost than organizations currently can get it — should help them see patterns that emerge from multiple data sources and over years.
+Add in some machine learning and better search capabilities, and we think we’ll be able to help organizations see their full security picture in much higher fidelity than they currently can. We hope that by making this mix of technologies available to more companies at affordable prices, we can give “the good guys” an advantage and help us all turn the tide against cybercrime.
+Chronicle was officially founded as an X project in February 2016. In his blog, Gillett wrote, ‘We’re excited about being an independent company, yet part of Alphabet. We’ll have our own contracts and data policies with our customers, while at the same time having the benefit of being able to consult the world-class experts in machine learning and cloud computing (among many other topics) that reside in other parts of Alphabet.’
+
+

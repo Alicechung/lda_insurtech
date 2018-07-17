@@ -1,0 +1,40 @@
+Opioid Prescriptions Dropped 12% in 2017 as Guidelines Change
+
+April 23, 2018
+
+By Jennifer Bresnick
+April 23, 2018 - In 2017, the volume of opioid prescriptions saw its biggest decline in 25 years, reflecting changing guidelines and more aggressive population health management techniques, according to a new report from the IQVIA Institute for Human Data Science.
+Dispensed opioid prescriptions dropped by 10.2 percent, while high-dose prescriptions saw a 16.1 reduction. 
+Overall, the nation saw a 12 percent decrease in the total volume of clinically prescribed opioids by morphine milligram equivalents (MME) in 2017.
+The trend extends a multi-year decline in prescription opioid volume across the nation, which may help to support broad efforts to curb the ongoing epidemic of opioid use.
+Prescription opioid volume was at its highest in 2011, the report notes, with 240 billion MME.  That volume has declined by 29 percent to 171 billion in 2017.   
+READ MORE: For Opioids and Substance Abuse, Big Data Analytics Is Just the Beginning
+“The US opioid epidemic is one of the most challenging public health crises we face as a nation, and our latest report provides novel insights and evidence as part of that ongoing societal discussion,” said Murray Aitken, IQVIA senior vice president and executive director of the IQVIA Institute for Human Data Science.
+Healthcare providers are becoming much more stringent about starting patients on new opioid prescriptions, the data revealed – and they are getting better at proactively addressing the signs of opioid addiction. 
+Source: IQVIA Institute for Human Data Science
+At the end of 2017, there were 2.9 million new therapy starts per month, representing a 7.8 decline.  At the same time, the number of medication assisted treatment (MAT) prescriptions nearly doubled.
+“This suggests that healthcare professionals are prescribing opioids less often for pain treatment, but they are actively prescribing MATs to address opioid addiction,” said Aitken.
+The report attributes the positive trends to changes in clinical guidelines, state laws, and federal actions to ensure that patients are only being prescribed opioids in cases of clear medical necessity with a limited timeframe in mind. 
+READ MORE: Addressing Opioid Abuse with Analytics, Population Health Strategies
+Twenty-four states now have limits on the duration or volume of opioid prescriptions, aligning with guidelines from professional societies that encourage judicious use of these powerful but highly addictive pain management options.
+States have also ramped up electronic monitoring of opioids through prescription drug monitoring programs (PDMPs) that use clinical data and pharmacy data to prevent doctor shopping or fraudulent prescription fills. 
+Source: IQVIA Institute for Human Data Science
+All 50 states now have electronic PDMP databases in place or plans to implement the tools within a defined timeframe.  States like New York can also exchange data across state lines, reducing the potential for residents of border areas to commit fraud or misuse prescriptions.
+The data should be encouraging for healthcare providers, payers, law enforcement agencies, and regulators that have been working to change attitudes towards the use of opioids among prescribers and patients.
+Payers have taken an especially strong role by altering therapeutic guidelines and implementing prescription limits that have produced notable results.
+READ MORE: Communities Tackle Opioid Abuse with EHRs, Population Health
+In one pilot program from Blue Shield of California Health Plan, education about narcotic safety and expanded access to alternative pain therapies produced a 32 percent decline in opioid use in just two years.
+AHIP, a large trade organization representing many in the payer community, has also pledged to help its members alter opioid prescribing guidelines through its Safe, Transparent Opioid Prescribing (STOP) Initiative, launched in 2017. 
+The initiative will promote prescribing resources and guidelines in alignment with existing protocols developed by the CDC.
+“Too many Americans are suffering from this epidemic, and too many families have lost loved ones because of it.” said Dr. Richard Bankowitz, Chief Medical Officer of AHIP, at the time.
+“That’s why health plans are doing everything in their power to attack this issue head on. The STOP Initiative is another way our health plans are coming together to improve patient care and reduce the risk of opioid abuse.”
+The efforts at the state and private industry levels align with federal investments in law enforcement, addiction and recovery resources, and data analytics projects.
+The 21st Century Cures Act, passed in 2016, allocated $1 billion over two years to help states and local agencies combat opioid abuse. 
+HHS distributed a large portion of the funding in April of 2017 to all 50 states and all US territories in an effort to increase access to substance abuse treatment, expand the PDMP network, and train providers to employ opioids more judicially. 
+On the law enforcement side, Attorney General Jeff Sessions announced a new Opioid Fraud and Abuse Detection Unit in August of 2017.  In addition to naming new regional opioid abuse prosecutors, the task force will employ data analytics strategies to understand and get ahead of opioid problems.
+“This sort of data analytics team can tell us important information about prescription opioids—like which physicians are writing opioid prescriptions at a rate that far exceeds their peers; how many of a doctor's patients died within 60 days of an opioid prescription; the average age of the patients receiving these prescriptions; pharmacies that are dispensing disproportionately large amounts of opioids; and regional hot spots for opioid issues,” said Sessions.
+The action followed a report from the President’s Commission on Combating Drug Addiction and Opioid Crisis which highlighted the importance of using data analytics and health information exchange to monitor and address medication abuse.
+These multifaceted efforts to prevent overexposure to opioids and reduce the potential for long-term abuse appear to be making an impact, the IQVIA report indicates. 
+While initial prescriptions and legitimate opioid use is only one small component of an extremely complex epidemic, reducing the chances of unintentional addiction that stems from the prescription pad is a promising step towards addressing this crisis-level public health concern.
+
+

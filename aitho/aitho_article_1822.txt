@@ -1,0 +1,12 @@
+Kenna Security’s Chief Data Scientist To Speak At The O’Reilly Security Conference
+
+31 Oct 2017
+
+Kenna Security, a vulnerability and risk intelligence platform that enables organizations to measure and monitor their exposure to risk, announced today that Michael Roytman, chief data scientist at Kenna Security, will speak at the O’Reilly Security Conference, held October 30-November 1, at the New York Hilton Midtown in New York City.
+Session Details:
+Predicting Exploitability with Amazon Machine Learning
+October 31, 2:10-2:50 pm, Sutton North
+In this session, Michael Roytman will discuss how to predict when an attacker will write an exploit, using only publicly available data. Roytman will explain how Kenna Security used the AWS Machine Learning platform to train a binary classifier for vulnerabilities, allowing the company to predict whether or not a vulnerability will become exploitable.
+Michael Roytman is the chief data scientist at Kenna Security, where his work focuses on cybersecurity data science and Bayesian algorithms. Michael is also a technical advisor in the humanitarian space, having worked with Doctors Without Borders, the World Health Organization, and the UN. He has spoken at some of the top security conferences in the world, including RSA, SOURCE, BSides, Metricon, and SIRAcon, and has been published in the Advanced Computing Association journal USENIX. Michael is the author of three patents. He holds an MS in operations research from Georgia Tech. His home in Chicago is a mess of broken-down espresso machines.
+
+

@@ -1,0 +1,25 @@
+Google Takes Aim at Diabetes with Big Data, Internet of Things
+
+August 31, 2015
+
+By Jennifer Bresnick
+August 31, 2015 - Freshly revitalized after Google’s much-discussed reorganization under the Alphabet umbrella, the tech giant’s life science team is once again planning to tackle diabetes with the help of big data analytics and innovative Internet of Things technologies. 
+With the formation of a new partnership that enlists the aid of the Joslin Diabetes Center and Sanofi, a multinational pharmaceutical developer, Google hopes to reduce the burden of Type 1 and Type 2 diabetes on both patients and providers.
+"With new technologies emerging to provide a more continuous and real-time view of a patient's health, we can see the promise for more proactive and effective ways to control diabetes," said Andy Conrad, CEO of the life sciences team at Google.  
+The company has previously explored the development of a contact lens that continuously measures a patient’s blood glucose with little active effort. 
+Dig Deeper
+How the Search for Smart Data Drives Healthcare IT Investment
+Finding the Value in the IoT, Patient-Generated Health Data
+IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+The lens would theoretically eliminate the need for finger-prick blood glucose tests while ensuring that patients are constantly monitored for dangerous fluctuations.  Google was granted a patent for the device in March of 2015, though representatives declined to state whether that meant the lens was approaching market readiness, Time reported.
+“Managing diabetes is like having a part-time job,” Google said in 2014 when announcing the project. “Glucose levels change frequently with normal activity like exercising or eating or even sweating. Sudden spikes or precipitous drops are dangerous and not uncommon, requiring round-the-clock monitoring. And, as a result, many people with diabetes check their blood glucose less often than they should.”
+By combining Google’s interest in miniaturized medical devices that contribute to real-time patient monitoring with Sanofi’s wide range of diabetes therapies and Joslin’s clinical expertise, the team plans to develop new tools that will revolutionize the way patients interact with their diabetes care.
+"As a global leader in diabetes care, we have both an obligation and a commitment to provide integrated solutions for people living with diabetes," said Olivier Brandicourt, MD, Chief Executive Officer, Sanofi. "This initiative combines Sanofi's strength and knowledge in diabetes with Google's leadership in technology and analytics to create a first-of-its-kind initiative with the potential to transform diabetes care.”
+"We have built expertise in providing holistic, integrated solutions that combine medicines, devices, technologies and services,” added Pascale Witz, Executive Vice President, Sanofi, who will lead the Global Diabetes and Cardiovascular Care Business Unit in the company's new organizational structure. "The life sciences team at Google can help us improve the patient experience, outcomes and manage healthcare costs more effectively.”
+The development and deployment of remote monitoring sensors for chronic disease management is still a young marketplace, but it is one that is ripe for explosive growth.  As healthcare technology vendors begin to craft the industry’s own particular Internet of Things, passive big data collection from implantable or wearable medical devices may have a major impact on population health.
+Biometic technologies, such as Google’s contact lens, may grow into a $12.5 billion market by 2024, a recent report predicts, and patients are already eager to embrace health IT tools that make management of their chronic diseases even a little bit easier.  As diabetes continues its progress into a full-blown epidemic, with millions of patients unaware that they are even suffering from the disease, these novel technologies will become increasingly important for providers charged with improving patient outcomes and quality of life while cutting costs.
+"We are experiencing a worldwide pandemic of diabetes, and it's very encouraging to see healthcare and technology innovators step up to the challenge of providing cutting edge tools and care advancing technologies to help people with diabetes manage their disease, 24/7," said John L. Brooks, III, President and CEO of Joslin Diabetes Center.
+"Technology, sensors, analytics, and digital solutions will revolutionize how blood sugars are managed, which will deliver improved quality of life, lowering the risk of complications and reducing the costs and barriers associated with diabetes care. Ultimately, I truly hope we're able to turn the Joslin Diabetes Center into a museum."
+Tagged Big Data AnalyticsChronic Disease ManagementHealthcare Internet of ThingsPopulation Health Management
+
+

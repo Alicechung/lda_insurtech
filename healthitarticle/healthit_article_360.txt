@@ -1,0 +1,69 @@
+Transparency is Key for Clinical Decision Support, Machine Learning Tools
+
+September 06, 2017
+
+By Jennifer Bresnick
+September 06, 2017 - Developers and vendors of clinical decision support tools, especially those based on machine learning, must be transparent about their methodologies, capabilities, data sources, and limitations if providers are to rely on their products, says new voluntary guidelines from the Clinical Decision Support (CDS) Coalition.
+Ensuring that the clinical end-user has a full understanding of how a CDS application has generated its recommendation can help to safeguard patients, address questions of liability for negative outcomes, and foster trust in a new generation of big data analytics tools currently poised to revolutionize the way providers make important care decisions.
+“Many companies are exploring the use of machine learning and other forms of artificial intelligence to power CDS software,” the Coalition says in its framework, which is designed to help non-regulated CDS products maintain a high industry standard.
+“But the adoption of those technologies brings with it the challenge of keeping the user in control of the decision making,” the document points out.  “These guidelines are intended to foster the design of software in such a manner that healthcare professional users will be able to independently review the basis for the recommendations the CDS software produces, such that the professionals will not need to rely primarily on the recommendations.”
+Healthcare decision making carries with it a “heightened responsibility for validation,” even if products do not meet the threshold required for FDA regulation under the 21st Century Cures Act, the Coalition asserts.
+READ MORE: The Difference Between Clinical Decision Support, Big Data Analytics
+In order to meet the high standards of providers and the patients they serve, developers of CDS products should strive to create health IT offerings that adhere to these key criteria for transparent, trustworthy, and supportive clinical decision making.  
+DISCLOSURE OF INTENDED USE
+Industry hype around the potential of predictive analytics, machine learning, and artificial intelligence is at an all-time high, leaving many potential consumers of health IT tools feeling a little fuzzy about where salespeople’s promises end and the real capabilities of their products begin.
+All applications and algorithms have their limits, which should be clearly explained and presented to the prospective buyer – and the everyday end-user – so as to make certain that the tool is being used within the confines of its realistic capacity, the Coalition says.
+Source: CDS Coalition
+Instructions for use should lay out the intended use setting for the application, the exact role in clinical practice the tool is intended to play, the amount of time it will take to receive a meaningful recommendation to support a decision, and whether that recommendation is meant to support immediate or long-term treatment planning.
+Developers should also try, to the best of their ability, to explain how their products integrate with electronic health record (EHR) systems that may act as the user interface for CDS tools, the document adds.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+“We recognize that much MR-CDS software is incorporated into EHRs, and therefore the users do not encounter the MR-CDS software in the same way that they would if they were to use a freestanding software program. It operates more behind the scenes.”
+Labeling information and intended use statements do not necessarily need to be displayed prominently within the EHR interface, but should be easily accessible to the end user within one or two clicks.
+“In other words, there may an initial user interface that contains very little information, but there should be a link that allows the user to directly access basic information about what the software is and what it does,” the organization suggests.
+DISCLOSURE OF DATA SOURCES, METHODOLOGIES, AND METRICS
+Machine learning and predictive analytics developers may be tempted to keep their algorithms, data sources, and methodologies secret in order to maintain a competitive edge in a crowded market, but black box applications may not attract as many customers as vendors might think.
+Data transparency is extraordinarily important to healthcare technology consumers, who are often legally required to justify their decision-making in malpractice suits and liability claims.  That’s not to mention their fundamental motivation to deliver the best quality care to their patients based on good science and evidence-based guidelines.
+Source: CDS Coalition
+READ MORE: Understanding the Many V’s of Healthcare Big Data Analytics
+As machine learning evolves into artificial intelligence that is meant to augment and enhance human decision making power, clarity around what exactly these tools are saying – and how they came to those conclusions – will become increasingly important.
+All CDS tools should make their data sources and methodologies abundantly clear through comprehensive metadata, the Coalition urges, so that users can evaluate the rationales behind the presented recommendations. 
+Disclosures of data sources and metrics should include:
+Commercial, academic, or proprietary databases used to supply information for analytics
+Written, published materials, such as journal articles and medical society guidelines, used to support recommendations
+Unpublished materials, such as proprietary clinical guidelines or research
+Content provided by humans, as well the qualifications and credentials of those individuals
+Content provided by machine learning, including metrics explained in plain language, validation mechanisms, and quantitative assessments of accuracy, or lack thereof
+“When the source is truly machine learning, the software needs to reveal that source, along with information that will help the user gauge the quality and reliability of the machine learning algorithm,” the Coalition says.
+“Through a page in the user interface that can be periodically updated, the developer could explain to the user the extent to which the system has been validated and the historical batting average of the software. That context helps the user understand the reliability of the software in general.”
+RELIABILITY, RATIONALE AND CONFIDENCE IN RECOMMENDATIONS
+In addition to providing enough information so that end-users understand the data sources supporting the recommendations, CDS tools should strive to make the reliability of the output abundantly clear, even if every technical detail of the algorithm’s functions is not fully revealed.
+“With machine learning, really what we are seeing is an association — something in the patient-specific information triggers an association to what the software has seen in other cases,” the guidelines explain. “Even though the software can’t articulate exactly what it is about the data that triggers the association or even what features it looked at, that doesn’t make it any different than a radiologist who points to a place on an image and says, ‘I’ve seen that before, and it’s been malignant.’”
+“Much of what we ‘know’ in medicine is really just associations without a deeper understanding of a causal relationship. Software built on machine learning needs to explain that it has spotted an association, and state as precisely as it can the details of that association.”
+It must also present some indication of how certain it is that the association is reliable.  By including numerical confidence intervals or visual indications of the strength of the recommendation, developers can ensure that end-users understand how to incorporate the system’s output into their care plans.
+To build a high degree of confidence in the reliability of the system, CDS tools should disclose most or all of the following:
+The full range of clinical recommendations reasonably derived from relevant source materials, ideally ranked by degree of confidence
+An assessment of the likely benefits and risks of following the primary or alternate recommendations
+An explanation of the guidelines or methodologies underpinning the recommendation, including the clinical decision pathways used to produce the suggestion
+Identification of specific source materials used to generate the recommendation and reasonably easy access to the full text of these materials
+A summary of any additional circumstances, sources, or deviations factored into the output
+The precise mathematical calculations or formulas used to produce the end result
+“If in fact there is little data to support the accuracy of the software, the software must clearly state that,” the Coalition added. “The software should provide a thorough explanation of the data sets used to feed and test the machine to provide important context and assurance to the clinician. The discussion should include any limitations or potential biases in the methods used to gather the data.”
+“Further, the software should explain if the machine learning model is designed to be adaptive, using both retrospective and prospective data inputs for incremental evolution of the decision algorithms for improving the accuracy. This page should be regularly updated as the software matures.”
+END-USER TRAINING REQUIREMENTS AND EXPECTATIONS
+Health IT companies may have a number of important responsibilities for making certain that their products and open and transparent, but end-users must also ensure that they are equipped to use the tools appropriately.
+Developers can help healthcare organizations with this process by clearly defining their intended end-users and the skills required by those individuals.
+CDS tools can be roughly divided into three major categories based on their intended use cases and end-users, the Coalition says. 
+Care management tools aid in population health management tasks, such as risk stratification, identifying intervention opportunities, and care coordination.  They are optimally used by care managers, primary care providers, or mid-level providers in a case management role.
+Primary care CDS applications help physicians or other general practitioners with selecting a treatment, therapy, or intervention for conditions that can be adequately treated within the medical home environment.  These tools can also be used to identify when referral to a specialist is warranted.
+Specialty clinical decision support systems are used for the diagnosis and treatment of complex diseases, including oncology, cardiology, genetic conditions, and other situations requiring a supplement to advanced clinical knowledge.
+Each type of application should only be used by a provider with the skillset and training required to best leverage the tool to its full capacity without causing harm to the patient.
+Source: CDS Coalition
+“To qualify as intended for use by people who can act as competent human intervention, the labeling should elaborate on the limits of what the software itself can do, and the need to go beyond the software in certain cases,” the guidelines state.
+“Further, if a decision informed by the recommendation of the software could lead to serious injury, permanent impairment or death for the patient, the labeling should also be clear about the necessary qualifications of the intended user.”
+Developers and vendors should be careful to market their products only to the intended category of end-user, the Coalition adds, to prevent unintentional misuse in the clinical setting.
+“In addition, manufacturers’ promotional practices should be consistent with the notion that the software is intended to be used within a certain time for reflection given the complexity of the decision,” the organization said. “This means that the sales and marketing activities describe the typical medical care setting where the software will likely be used, and the complexity of the decision-making.”
+By adhering to these transparency guidelines, machine learning and clinical decision support developers can work to safeguard patients while bringing enhanced clinical knowledge and decision-making abilities to the broadest possible range of organizations.
+The framework will undergo continued review as the marketplace for CDS and machine learning tools expand, the CDS Coalition concludes, so that vendors and users can both maximize the possibilities inherent in this rapidly growing category of promising health IT applications.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsClinical Decision SupportClinical Decision Support SystemsMachine LearningPredictive Analytics
+
+

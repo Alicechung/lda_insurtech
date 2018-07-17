@@ -1,0 +1,120 @@
+How will Stage 2 Meaningful Use impact clinical analytics?
+
+January 20, 2014
+
+By Jennifer Bresnick
+January 20, 2014 - 2014 is a game-changing year in healthcare, and will ask providers to contend with major adjustments including coding changes, new patient populations, new technology, and new ways of thinking about the art and science of medicine.  Among these changes is the beginning of Stage 2 of the EHR Incentive Programs, which will require providers to step up their data science know-how and integrate informatics into the workflow whether they realize it or not.
+While eligible professionals (EPs) and hospitals will take slightly different paths during this second phase of meaningful use, the goals remain the same for all participants: collect better data on patients, learn how to use it, and foster an environment that creates better overall health.
+Clinical quality measures
+At the heart of Stage 2 lie the clinical quality measures (CQMs), and a new rule that directs providers to submit their data electronically after 2014 if they are beyond their first year of participation. EPs must report on a relatively minimal nine out of 64 CQMs, and hospitals must pick 16 out of 29, spreading their choices throughout three of six major areas.
+Top 5 Questions for Payers about Population Health Initiatives
+Google Cloud Partners with HL7 to Support FHIR Development
+ONC: APIs Can Boost Interoperability, Healthcare Data Access
+VA Enlists Watson for Big Data Analytics, Decision Support
+Carolinas HealthCare System launches full analytics suite
+Machine Learning Predicts Leukemia Remission with 100% Accuracy
+California Gov. Establishes Precision Medicine Advisory Committee
+Google Pursues AI, Voice Recognition for EHR Workflows
+AMIA: Health Informatics Can Help Overcome the Big Data “Deluge”
+Obama Signs Sustainable Growth Rate Repeal, Ending an Era
+Hashed Health Launches Blockchain Provider Identity Tool
+751 Orgs Get Medicare Penalties for Hospital Acquired Conditions
+Artificial Intelligence Tool Passes UK Medical Diagnostics Exam
+Adopting Big Data Analytics, Precision Medicine Drives Quality Care
+CMS Unveils Interoperability, EHR Clinical Documentation Changes
+Top ten big data and healthcare analytics stories of 2013
+Can Big Data Analytics Improve Medication Non-Adherence?
+Big Data, AI Rapidly Transforming the CIO Role in Healthcare
+Kansas Medicaid program sees $72.6M loss so far in 2014
+ONC: Public health reporting relies on EHR infrastructure
+CHIME: Patient Matching Crucial for HIE, Care Coordination
+How can you come out on top with healthcare data analytics?
+Epic Systems Integrates Geisinger Population Health Toolkit
+CA providers can apply for data analytics tutorial program
+Survey: Big data analytics is just as important as the internet
+Limits of Big Data Analytics Pose Challenges to Patient Safety
+All of Us Precision Medicine Network Expands with $13.8M in Grants
+PCPs Lack Time, Tools to Address Social Determinants of Health
+Anthem ACOs Save $7.9M with Population Health Management
+EHR analytics identify delays in kids eight months earlier
+Machine Learning Can Quiet “Building Crescendo” of EHR Dissatisfaction
+Healthcare Big Data Analytics Helps Minn. Find $2B in Savings
+Stage 3 MU Steadily Loses Favor as EHR Usability Concerns Rise
+NIH Concludes In-Depth Genomic Data Analysis of 33 Cancer Types
+Will the Epic Systems “App Orchard” Grow EHR Interoperability?
+Balancing Access and Insight for Healthcare Big Data Analytics
+CancerLinQ Will Bring Big Data Analytics to Oncology Care
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+Can Senate Health Data Interoperability Proposals Improve HIE?
+Alabama Recruits for Statewide Population Health, Genomics Program
+Big Data Analytics Show More Sepsis Deaths in Large Hospitals
+Genetic tests for breast cancer could bring cost reductions
+Humana Pins Social Determinants of Health to Better Quality of Life
+Precision Medicine in Action Brings Rare Disease Cures Closer
+CMS Support Program Turns Safety Net Providers into Medical Homes
+CMS Releases Health Payment Info to Aid Data Transparency
+Predictive analytics, big data, HIS markets grow by 20% CAGR
+New CMS Accountable Care Organizations Raise Risk Sharing
+PCORI moves ahead with EHR, clinical analytics databank
+Population health management brings wellness to employees
+Patient decision support: How mHealth impacts positive behavior
+How Team-Based Care Management Improves Cardiovascular Health
+ICD-10 Allows Non-Physician Documentation of Social Determinants
+EHR Big Data, Lab Specimens Enable Precision Medicine Research
+Healthcare Big Data Analytics Keeps Small Hospitals Independent
+Preventable Hospital Readmissions Fall Dramatically Across US
+How Big Data Velocity Informs Population Health, Patient Safety
+ACP, Pfizer team up to increase community vaccination rates
+IBM, JDRF to Apply Machine Learning to Type 1 Diabetes Research
+Population health management will expand for 9% of diabetics
+Establishing the Basis for Accountable Care Organization Success
+ACOs Focus on Health IT, Population Health Management Plans
+Low-income patients much less satisfied with care quality
+Senate Committee Passes $34B NIH Budget for Precision Medicine
+SAMHSA Offers $142.9M in Grants for Substance Abuse Programs
+Data Overload May Impede Healthcare Internet of Things Growth
+Google Takes Aim at Diabetes with Big Data, Internet of Things
+Medicaid Raises Wellbeing, But Not Chronic Disease Management
+EHR analytics, financial reform will change pharmacy practice
+Three HIEs Connect to Create “Patient-Centered Data Home”
+How an REC Enables Population Health with Big Data Analytics
+How Healthcare Big Data Analytics Drives Systematic Improvement
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+Poor Care Coordination Raises Chronic Disease Costs by $4500
+Albert Einstein College of Medicine to Manage Clinical Data Registry
+IBM Watson, Mount Sinai Launch New Precision Medicine Projects
+Telehealth, education fight childhood obesity in rural CA
+Understanding the Growth, Value of Healthcare Big Data Analytics
+Big Data, Clinical Intelligence Markets to See Major Growth
+Collaboration, Big Data Help Phoenix Children’s Focus on Value-Based Care
+New Budget Bill Would Fund Precision Medicine, Eliminate AHRQ
+Accountable Care Takes New Forms as Fee-for-Service Fades
+Four Use Cases for Healthcare Predictive Analytics, Big Data
+2016 “Most Wired” Excel at Population Health, Big Data Analytics
+How Can Healthcare Big Data Analytics Bust Data Silos?
+Tech Giants Give Healthcare Artificial Intelligence Start-Ups a Boost
+Does Patient-Centered Medical Home Transformation Take Too Long?
+FDA: Education, Population Health Can Fight Opioid Abuse
+What Does “Flexible” ICD-10 Implementation Really Mean?
+AMA: Big Data Analytics is the Next Phase of Health IT Adoption
+Healthcare analytics and the promise of personalized genomics
+Leveraging the Patient-Centered Medical Home for Older Adult Care
+Aetna, Harvard Partner for Population Health Research Initiative
+Most States Lack Transparent Physician Quality Reporting Data
+Consumers Support AI in Healthcare More than Other Industries
+CMS Offers New Accountable Care Payment Model for Oncologists
+Online Patient Engagement Spikes When High Costs Are Involved
+Home Interventions Boost Asthma Chronic Disease Management
+Q&A: Analytics raised quality so much, the gov’t didn’t believe it
+Electronic collection and submission of quality data isn’t just a convenience for data processors in their cubicles at CMS.  It’s a core competency that all providers must have in order to move into analytics, whether as part of CMS incentive programs or not.  The data collected for CQMs has many applications – as long as hospitals and providers are sure that they are collecting enough of the right data in order to make it useful for further examination.
+Patient engagement
+Much has been made of the infamous 5% patient engagement threshold that has left many providers uncertain about their ability to successfully attest.  Offering an online patient portal is one thing, but getting people to use it is quite another.  Providers who serve low-income or non-English speaking patients, many of whom lack computer knowledge, have expressed a great deal of concern over the ability to grab patients in their homes or on their cell phones and persuade them to care about downloading their records.
+But for those with an eye towards retooling their organization to embrace the principles of population health management and accountable care, patient portal use might be the easiest part.  “First and foremost, things should be organized around the patient,” suggests Matt Mattox, VP of Products and Marketing at Axial Exchange “Ideally we would allow for a broader sense of a care community to include caregivers and family members that you as the patient can provision access to.  The long-term vision should include information and tools that enable a patient to manage whatever their health goal is.”
+Integrating patient portal use into an overall engagement and preventative care plan, including providing computer access and tutorials for those who might not have PCs at home, can satisfy both the Stage 2 requirement and the accountable care plans that many major payers are starting to demand in order for providers to receive reimbursements.
+Care summaries and health information exchange
+The third major hurdle of the Stage 2 roadmap is the emphasis on greater care coordination through data exchange.  From clinical care summaries to medication lists to proving the capability to exchange this data with other organizations, EHR aren’t just a data input tool anymore.  They are becoming data distribution hubs that will eventually allow providers to collect, share, and most importantly, to analyze large sets of data that will be able to predict high risk patients, flag drug interactions, and proactively address adverse events that are harmful and costly.
+While Stage 2 will certainly challenge providers to retool their workflows and implement more robust technological infrastructure, the impact for analytics, which will be a focus in Stage 3, will be huge. Stage 2 is when providers will learn how to adopt and wield the necessary tools that will bring data into the daily routine.  Meaningful use is slowly but surely setting the stage for an integrated, coordinated, data-driven healthcare system that will revolve around the patient’s need to achieve optimal health instead of just patching up problems after they occur.
+Tagged Clinical AnalyticsClinical DataClinical IntelligenceCMS Meaningful UseEHR AnalyticsEHR Use
+
+

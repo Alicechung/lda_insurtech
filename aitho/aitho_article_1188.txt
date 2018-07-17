@@ -1,0 +1,26 @@
+QuerySurge Adds BI Report Testing To Big Data Solution
+
+15 Mar 2018
+
+Testers can now Automate the Data Testing of their Business Intelligence & Analytics Reports
+QuerySurge, the premier automated data testing solution for big data & data warehouses, recently launched its new BI Tester add-on to provide a successful approach to solving the problem of testing the data embedded in Business Intelligence reports.
+The Challenge of Testing Business Intelligence Reports
+The use of Business Intelligence (BI) & Analytics is growing rapidly. According to analyst firm Gartner, by the end of 2020, the market for BI & Analytics is forecast to grow to $22.8 billion. But a loss of confidence in the data in a report can squash a whole project. And the validation and testing of data in these systems is challenging.
+“The typical approach is to validate calculations on the reports to the data in the data store,” said Matt Moss, a senior data testing expert on the QuerySurge team. “Many BI reports make use of Flash and other technologies that create problems for traditional test automation. So the testing process becomes a manual one, which increases the workload for testers and making it prone to mistakes. And most BI tools manipulate the source data, which makes it even harder to manually test.”
+QuerySurge, the premier automated data testing solution for big data & data warehouses, recently launched its new BI Tester add-on to provide a successful approach to solving the problem of testing the data embedded in Business Intelligence reports.
+The Challenge of Testing Business Intelligence Reports
+The use of Business Intelligence (BI) & Analytics is growing rapidly. According to analyst firm Gartner, by the end of 2020, the market for BI & Analytics is forecast to grow to $22.8 billion. But a loss of confidence in the data in a report can squash a whole project. And the validation and testing of data in these systems is challenging.
+“The typical approach is to validate calculations on the reports to the data in the data store,” said Matt Moss, a senior data testing expert on the QuerySurge team. “Many BI reports make use of Flash and other technologies that create problems for traditional test automation. So the testing process becomes a manual one, which increases the workload for testers and making it prone to mistakes. And most BI tools manipulate the source data, which makes it even harder to manually test.”
+The Solution is QuerySurge’s BI Tester add-on
+QuerySurge’s BI Tester add-on provides a successful approach to solving the problem of testing the data embedded in these BI tools.
+BI Tester supports:
+    Business validation of your reports
+    Full regression testing of your BI data
+    Migration testing from one BI vendor to another
+    Upgrade testing from one version to another
+    Comparison of reports between 2 servers
+    Passing of parameters to a report
+    Querying of report metadata
+QuerySurge’s BI Tester add-on compliments QuerySurge’s fully automated end-to-end solution for testing from data sources through the Big Data lake to the Data Warehouse/Data Mart to the BI and Analytics reports.
+
+

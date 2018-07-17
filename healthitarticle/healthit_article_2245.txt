@@ -1,0 +1,18 @@
+EHR data, analytics identify domestic abuse victims in minutes
+
+October 10, 2013
+
+By Jennifer Bresnick
+October 10, 2013 - Researchers from Boston University Medical Center and the Department of Veterans Affairs have developed a screening tool to identify women suffering from intimate partner violence (IPV), which often produces high incidences of depression and PTSD among its victims.  Using EHR data from 700 women in the Boston Veterans Health Administration system, the study found that nearly 29% of participants had experienced physical, sexual, or severe psychological abuse in the previous year.
+The study, published in the latest issue of the Journal of General Internal Medicine, found that a newly developed screening tool, named HITS (Hurt/Insult/Threaten/Scream) could be completed in less than four minutes to assess psychological and physical threats to the patient from a domestic partner.  “HITS has the potential to effectively and efficiently identify a high proportion of female VHA patients who have experienced past-year IPV,” explained lead author Katherine Iverson, PhD, assistant professor of psychiatry at BUSM and clinical research psychologist at the VA Boston Healthcare System.
+Of the 29% of respondents who reported experiencing IPV in the past year, 47% reported a combination of physical, sexual, and psychological abuse.  They tended to be younger, were more likely to be a racial or ethnic minority, and served in the military for a relatively short period of time.  Those who reported abuse within the past year were significantly more likely to be depressed and experience PTSD, and also reported lower levels of perceived health and wellness.
+“As expected, past-year IPV was associated with significantly higher levels of distress, including elevated symptoms of PTSD and depression, relative to veterans who did not report past-year IPV,” Iverson writes. “These findings further highlight the importance of detecting IPV because these mental health problems are often chronic in this population, and treatment of these symptoms may reduce women’s risk for subsequent IPV. Thus, detection is critical because it provides the opportunity to treat associated health problems and offer appropriate social and mental health interventions to increase safety and well-being.”
+Dig Deeper
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Clinical Analytics Aid Payers, Providers with Value-Based Care
+The authors suggest embedding a reminder about IPV screening as an EHR alert for providers, giving them a chance to screen patients on an annual basis for the symptoms of abuse.  “Use of electronic medical records to facilitate IPV screening is promising because scoring can occur automatically and prompt providers to engage in specific follow-up care (e.g., provide risk assessment and the domestic violence hotline number, request contract information for a safe relative or friend who may know the patients’ contact information in the event that patient has to move or change phone numbers, and place referrals).”
+“Successful IPV screening within the VA must include mechanisms for appropriate and comprehensive responses to positive screens, including validation, education, and risk assessment, as well as coordination of primary care, mental health, social work, legal services, and victim advocacy both within the Veterans Health Administration and in the community.”
+Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsPopulation Health Management
+
+

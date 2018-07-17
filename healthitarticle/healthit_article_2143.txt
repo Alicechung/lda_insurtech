@@ -1,0 +1,17 @@
+HARM score predicts colorectal surgery quality, outcomes
+
+December 23, 2013
+
+By Jennifer Bresnick
+December 23, 2013 - The routine data elements collected by EHR documentation are continually yielding new ways to measure the quality and predict the outcomes of patient interventions.  Colorectal surgeons at University Hospitals Case Medical Center recently published evidence of the effectiveness of the HARM score, a measurement tool based on the length and frequency of hospital stays.
+“There is a need for a metric that accurately and inexpensively measures patient outcomes, effectiveness, and efficiency of care,” said Conor P. Delaney, MD PhD, senior author of the study and Chief of the Division of Colorectal Surgery at University Hospitals Case Medical Center and Professor of Surgery at Case Western Reserve University School of Medicine. “The HARM score is easy to measure, derived from routinely captured data elements, applicable to a variety of procedures, and serves as an impetus for continuous improvement.”
+The acronym stands for (H)ospit(A)l stay, (R)eadmission, and (M)ortality, and measures risk and outcomes on a scale of 1 to 10.  The research team reviewed more than 81,000 colectomy patients from 324 facilities across the country who had elective and emergent procedures.  The scores were calculated by looking at common complications including unanticipated bleeding and infections of the surgical site.
+Hospitals that received a low rating of 2 on the HARM scale had a mean complication rate of 30.3% for emergent cases and 15.2% for elective surgeries.  For hospitals with scores above 4, those complication rates nearly doubled to 56.6% for emergent patients and 35.6% for elective procedures.  The strong correlation revealed by the study showed that the three variables used in the risk score are the most important predictors of hospital quality for colorectal surgeries, and is likely applicable to other procedures as well.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Clinical Analytics Studies, Partnerships Target Personalized Care
+“In addition to the HARM tool being easy to use, the tool uses routinely available administrative data without either capital investment for software, or ongoing costs for maintenance or personnel.  It is estimated that each readmission episode after colorectal surgery costs about $9,000, accounting for $300 million in readmission costs annually, The HARM score may decrease the administrative costs associated with quality care improvement programs, while being almost universally applicable regardless of the size of the hospital,” said Dr. Delaney.
+  Tagged Applied AnalyticsClinical AnalyticsHospital QualityMedical ResearchPatient CarePredictive AnalyticsQuality Of Care
+
+

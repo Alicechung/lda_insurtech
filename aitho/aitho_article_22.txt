@@ -1,0 +1,17 @@
+Splice Machine’s Data Platform For Intelligent Applications Now Available As A Fully Managed Service On Microsoft Azure
+
+13 Jul 2018
+
+Addition of Azure gives companies cloud independence while leveraging an open source, scale out SQL RDBMS, data warehouse & machine learning platform in one
+Splice Machine today announced the public release of its intelligent application platform on the Microsoft Azure cloud service.  This gives Splice Machine’s customers another way to use the data platform while having the independence to deploy on premise, on Amazon Web Services, and now, on Azure. With Splice Machine, companies can develop and deploy smarter, predictive applications designed to integrate fast data streaming, transactional workloads, analytics and machine learning, enabling business transformation at performance, scale and an affordable price point.
+The Splice Machine data platform enables customers to build and deploy predictive applications on a more simple architecture, requiring fewer infrastructure engineers to duct tape compute engines together and requires much less data movement so that analysis and machine learning is up-to-date. Unlike most data platforms, Splice Machine is a scale-out SQL data platform that can run fast OLTP and in-memory OLAP on the same platform, along with machine learning and streaming.
+Follow Us
+Jim Brisimitzis
+“We are excited to have the Splice Machine intelligent application platform now available on Microsoft Azure,” said Jim Brisimitzis, GM, U.S. Startups at Microsoft. “For today’s modern applications that need to make decisions in the moment based on data created just moments ago, Splice Machine offers an easy-to-use and powerful scale-out SQL RDBMS, data warehouse & machine learning platform in one that can be deployed on the Microsoft Azure cloud service.”
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+Monte Zweben
+“We fiercely believe in cloud independence and want to give our customers more choice in how they run their mission-critical applications,” said Monte Zweben, CEO, Splice Machine. “Splice Machine replaces or offloads traditional and cloud-based RDBMS and Data Warehouse solutions, simplifying architecture, reducing cost, and improving scalability and performance. Now, we have given customers the choice to deploy their applications on Splice Machine as a fully managed cloud service on Azure, AWS, or on premise using affordable Hadoop clusters, but without the complexity of operating Hadoop.”
+Splice Machine also allows companies to easily migrate on-premise relational database management system (RDBMS) applications at great scale to the cloud as a full ANSI SQL RDBMS and Data Warehouse in one. Customers already realize single record lookups and updates in a few milliseconds at petabyte scale. Additionally, Splice Machine’s analytical capabilities enable extreme analytical concurrency, even at billions of records, with standard connectivity to BI tools such as Tableau and MicroStrategy.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+
+

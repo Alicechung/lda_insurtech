@@ -1,0 +1,56 @@
+EHR, Lab Data Support Pediatric AKI Analytics Dashboard
+
+February 26, 2018
+
+By Jennifer Bresnick
+February 26, 2018 - At Phoenix Children’s Hospital, reducing the incidence and severity of acute kidney injury (AKI) is an exercise in elegant analytical simplicity. 
+Without extra funding, new vendors, or a massive organizational effort, Dr. Kanwal Kher, Division Chief of Nephrology, and a team of colleagues are using existing tools and readily available data to jumpstart a dramatic drop in the incidence and severity of kidney failure in children admitted to the facility.
+Rooted in the electronic health record and a secure messaging platform, a homegrown analytics dashboard delivers color-coded risk scores to providers overseeing patients entering one of the three stages of kidney failure.
+Dr. Kanwal Kher, Division Chief of Nephrology at Phoenix Children's
+Source: Xtelligent Media
+The solution allows physicians to easily monitor kidney function levels, make adjustments to nephrotoxic medications, and ensure that pediatric patients are getting the kidney care they need, no matter what brought them into the hospital to begin with.
+The project was inspired by a single patient who arrived at Phoenix Children’s just a few months after Kher joined the team, he told HealthITAnalytics.com.
+READ MORE: Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+“In early 2016, I was asked to review a chart for a patient who came in for what turned out to be a ruptured appendix,” he recalled.  “During his hospital stay, he developed acute kidney injury to the extent that he needed significant treatment for it.”
+“As I was reviewing his case, I started to wonder how often this happened.  But there is little information available on how commonly children sustain acute kidney injury while they’re admitted, and we certainly didn’t have good data for our own institution.”
+AKI is not typically included as a reportable patient safety event or hospital-acquired condition, which limits available data on how often and under what circumstances the condition develops.
+Patients can sustain acute kidney injury in a number of ways, Kher explained, often when certain antibiotics or other combinations of medications are involved in their treatment plan. 
+Between 60 and 70 percent of AKI cases can be attributed to medications, but the remainder may have other causes, making prediction and prevention an extremely complex task.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+“Phoenix Children’s has an excellent IT support team, and they really took this challenge and ran with it,” said Kher. 
+With Dr. Vinay Vaidya, the hospital’s CMIO, involved in the project, the IT department developed a way to leverage Phoenix Children’s Allscripts electronic health record.
+“Every six hours, we pick up the EHR laboratory data and scan it for patients who have been prescribed medications that can harm the kidneys,” said Kher.  “Then we check to see whether these patients have had kidney function tests ordered for them.”
+“If they have, we calculate their net kidney function in the background and determine whether the results indicate they are at risk of AKI or already experiencing one of the three stages of kidney failure.”
+If the patient is over the threshold, the results are color-coded using yellow, orange, and red to represent the three levels of severity.
+READ MORE: For Predictive Analytics, Not All Data is Created Equal
+“That is very useful information for providers to have available to them, but we wanted to get upstream even further and see if we could prevent those patients from entering kidney failure to begin with,” said Kher.
+Source: Phoenix Children's
+Monitoring kidney function in near-real time can be challenging, he pointed out, due to the nature of creatinine, which is of one of the most reliable markers of kidney health.
+“Unfortunately, creatinine levels don’t start to rise until you’ve already lost around 50 percent of your kidney function.  So it’s a delayed marker, and it rises relatively slowly,” he said.
+“We decided to bring in something called NGAL, which is a newer marker for AKI that can start to show as abnormal within just a few hours of kidney injury.  That will help our providers identify, at the earliest possible time, that something is going wrong with the patient’s kidney function.”
+Because these events are often related to medications, Kher initially believed that the pharmacy was a natural candidate for overseeing the daily data and connecting with providers to monitor patients.
+“We thought they could look at who is on nephrotoxins and make sure that the physicians for those patients were aware of what is going on,” he said.  “But it turns out they didn’t have the time or the personnel to take care of it, so after the first couple of months, nephrology started to run the initiative.”
+All of Phoenix Children’s nephrologists get a copy of the day’s dashboard pushed to them first thing in the morning, Kher explained.
+“Because it’s color-coded and very clear, we can quickly run through who needs attention and who is in good shape,” he said.  “If there’s a need to look into a patient further, we can go directly into their chart and figure out what is going on and whether or not we need to provide a specialty consult.”
+Stage I patients typically do not need immediate intervention, but for patients in Stage II or Stage III, a nudge from a nephrologist is usually warranted.
+“We use our existing secure messaging system to reach out to the provider with what nephrotoxins the patient is on and deliver a request for that physician to monitor the situation,” said Kher. 
+“It’s up to the attending physician’s discretion whether or not to call for a nephrology consultation at this point.”
+Kher and his team may make a consultation mandatory for higher-severity patients in the near future, but they wanted to introduce the analytics initiative more gradually to prevent rubbing colleagues the wrong way.
+“There can be a lot of politics involved in implementing these new protocols,” Kher acknowledged. 
+“There are people who don’t want to change their way of working, or might feel as if their judgement is being questioned if someone else comes in to tell them what they need to do. So we wanted to be gentle in pushing the concept and getting our physicians used to the idea.” 
+Even with this measured, gradual approach, the results have been immediately impactful.
+The number of cases of AKI dropped from 1065 in 2016 to 708 the following year, representing a 34 percent reduction. 
+During the same time period, the overall number of patients admitted to Phoenix Children’s increased by more than 34 percent, further highlighting the team’s ability to limit new cases of AKI.
+The analytics dashboard also helped to reduce the severity level  of injuries that did occur.  Before the intervention, 36 percent of AKI diagnoses were in the Stage II or Stage III categories.  After the analytics went live, just 26 percent of AKI patients had progressed past Stage I.
+Source: Phoenix Children's
+Kher credits the successes to a combination of making timely data more available and raising general awareness of how and why AKI occurs.
+“Naturally, it increases awareness when you get a text message every morning, and I have made a strong effort to talk to a number of different departments: the hospitalists, intensivists, bone marrow transplant experts – all of those places where there tends to be higher risks of kidney injuries,” he said.
+As the initiative rolls out across the whole organization, Kher hopes to improve communication and continue to ensure that the alerts are providing value to physicians and their patients. 
+“Not everyone responds back saying that they got the message, which can be something of a pain point,” he observed.  “We just have to assume, sometimes, that they received the alert and that they’re working on it.”
+“We would like to have some more information flowing both ways so that we can stay on top of the needs of these patients and ensure that our communication is effective.”
+The next step will be pairing these alerts with actionable next steps that providers should take in order to prevent or treat acute kidney injuries, he added.
+“We are working with our quality improvement folks and others to develop more standardized pathways for what happens after a patient is identified as having a problem.  What protocols and guidelines do we need to follow to keep slowing down or stopping that progression to more severe stages?  That is going to be our next focus.”
+“We’re very pleased with the progress so far, but we know there is a lot more we can do with the data we have and the tools that are going to allow us to continue improving prediction and prevention.”
+Tagged Care QualityClinical AnalyticsHospital QualityInterviewsPatient SafetyPredictive Analytics
+
+

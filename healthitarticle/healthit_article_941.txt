@@ -1,0 +1,39 @@
+APIs, Population Health Take Central Role in MACRA Implementation
+
+April 28, 2016
+
+By Jennifer Bresnick
+April 28, 2016 - The end of meaningful use is nigh for physicians, Acting CMS Administrator Andy Slavitt announced yesterday evening when introducing the proposed final rule for MACRA implementation, but the evolution of the healthcare information technology ecosystem isn’t slackening its pace.
+Starting in 2017, the industry will continue its journey towards interoperable, connected care under the Merit-Based Incentive Payment System (MIPS), which focuses on improving population health management and care coordination through health IT that relies on open application programing interfaces (APIs) and an app-based approach to technology.
+“As a nation, we’ve made significant advances in transitioning the healthcare system to one that pays for quality, encourages coordinated care and smarter spending, and focuses on better outcomes for people,” Slavitt said in a media call Wednesday night.
+While acknowledging that the EHR Incentive Programs did accomplish one of their primary goals – encouraging widespread EHR adoption – Slavitt also noted that the inflexible and often burdensome regulatory requirements could not keep pace with the lightning speed of health IT innovation.
+“These advances have created needs and uses for technology that simply didn’t exist when meaningful use was developed,” he said. 
+READ MORE: CMS: MACRA Will Improve Rural Care Access, Population Health
+Copious industry feedback on the future of meaningful use, not all of it positive, “has given us the opportunity to step back and conduct a full review of the meaningful use program so we can move to the next level of how technology can support us as we move to the world of the more mobile patient, and the need for connected and coordinated care,” Slavitt continued.
+The result of this reevaluation is the Advancing Care Information (ACI) framework, which will replace the EHR Incentive Programs as the technology adoption and attestation component of MIPS. 
+ACI will count for 25 percent of the MIPS attestation score in the first year of participation, while quality, cost, and practice improvement activities will comprise the rest of the program.
+Application programming interfaces (APIs) required for patient data access
+If finalized, the Advancing Care Information regulations will align with the previously-developed 2015 Certified EHR Technology criteria, which promote open, standards-based APIs as the basis for developing a flexible, modular health IT environment that enables the interoperable data sharing required for big data analytics and population health management.
+READ MORE: NCQA Revamps Patient-Centered Medical Home to Ease Adoption
+“Because this proposal is aligned with the 2015 CEHRT, physicians will be using technology with open APIs to allow analytics tools and devices easier connectivity,” said Slavitt.  “We urge developers and the technology community to take advantage of the proposed flexible regulations when they’re ultimately finalized so they can design around the everyday needs of users, rather than designing around the one-size-fits-all regulated approach.”
+The now-obsolete Stage 3 meaningful use requirements for physicians introduced the idea of using APIs to connect patients with their personal health information, but the prospect seemed daunting to developers who warned that the API ecosystem was simply too immature to support this type of data sharing.
+However, the mood of the EHR developer community has changed significantly since then.  Demand for interoperability has reached a fever pitch among unhappy customers, and the sudden popularity of FHIR has changed the perspective on what is possible in regards to standards-based data sharing.
+CMS is planning to take advantage of this shifting attitude by keeping the API requirement in the new MIPS rules.
+Just like in Stage 3 meaningful use, MIPS clinicians will be required to demonstrate that at least one unique patient per reporting period is provided “timely access to view online, download, and transmit his or her health information” and that at least one patient can access that data “using any application of their choice that is configured to meet the technical specifications of the Application Programing Interface (API) in the MIPS eligible clinician’s certified EHR technology.”
+READ MORE: How Does the ONC Define HIE, Value-Based Care, Population Health?
+Clinical decision support, CPOE get the chop
+But other hallmarks of meaningful use will be cut from the new MIPS structure.  In addition to reducing the number of quality reporting measures from 18 to 11 and removing the requirement to report on measures that cross-cut two or more NQF quality domains, participants will no longer be required to report on the clinical decision support or computerized provider order entry (CPOE) measures.
+“Given the consistently high performance on these two objectives in the EHR Incentive Program with EPs accomplishing a median score of over 90 percent for the last 3 years, we believe these objectives and measures are no longer an effective measure of EHR performance and use,” the proposed rule stated.
+“In addition, we do not believe these objectives and associated measures contribute to the goals of patient engagement and interoperability, and thus believe these objectives can be removed in an effort to reduce reporting burden without negatively impacting the goals of the advancing care information performance category.”
+Patient-generated health data will be incorporated into EHRs
+As the healthcare Internet of Things (IoT) starts coming into its own, providers and EHR developers will no longer be able to avoid the question of how to integrate patient-generated health data (PGHD) into the clinical workflow.
+Participants will be required to demonstrate that “patient-generated health data or data from a non-clinical setting is incorporated into the certified EHR technology for at least one unique patient seen by the MIPS eligible clinician during the performance period,” the proposed rule says.
+This measure will be required under the “coordination of care through patient engagement” portion of the program.
+CEHRT will remain at the core of systemic improvement efforts
+Meaningful use might not be the name of the game anymore, but the 2015 Edition CEHRT isn’t going anywhere any time soon.  Developers will still be held accountable to passing ONC tests that examine EHR usability, interoperability, care coordination, and data sharing capabilities.
+The ONC and other stakeholders have made their own proposals about how to ensure that CEHRT continues to meet high standards for data analytics, population health management, and personalized patient care, and the process is set to receive its own makeover in the near future to meet changing industry expectations.
+“MIPS eligible clinicians will be using CEHRT and other tools which leverage interoperable standards for data capture, usage, and exchange in order to facilitate and enhance patient and family engagement, care coordination among diverse care team members, and, in continuous learning and rapid-cycle improvement leveraging advanced quality measurement and safety initiatives,” the rule says.
+“Consistent use of certified EHR technology and clinical quality measurement in managing patient populations would help lead to substantial improvements in our health care system, by allowing clinicians to track and take care of their patients throughout the care continuum and to easily and securely access electronic health information to support care when and where it is needed.”
+Tagged Application Programming InterfacesCertified EHR TechnologyMACRAMerit Based Incentive Payment SystemPopulation Health Management
+
+

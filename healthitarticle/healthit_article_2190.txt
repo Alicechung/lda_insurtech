@@ -1,0 +1,17 @@
+HIMSS unveils DELTA score for healthcare analytics maturity
+
+November 20, 2013
+
+By Jennifer Bresnick
+November 20, 2013 - The widely cited statistic that only the top 5% of hospitals have a robust data analytics infrastructure will be tested with a thorough assessment and a new maturity score released by HIMSS Analytics and the International Institute for Analytics (IIA) this week.  The DELTA Powered Analytics Suite includes a survey-based assessment of the depth, breadth, and effectiveness of an organization’s analytics efforts, a maturity roadmap, and a certification that includes five levels of achievement.
+“New healthcare delivery models, such as accountable care and patient-centered medical homes, require the use of analytics to better understand patient populations, medication adherence and other types of patient-centered statistics and activities,” said James Gaston, Senior Director of Clinical and Business Intelligence at HIMSS Analytics. “The DELTA Powered Analytics Assessment allows healthcare organizations to better understand their analytics capabilities, and to plot a course to derive value from and advance them over time. This allows healthcare organizations to be more competitive and drive improved patient outcomes within the new healthcare world.”
+The framework measures an organization’s maturity across five key competencies: data, enterprise approach, leadership, targets, and analysts.  The assessment comprises a 15 to 20 minute survey distributed to key staff members who will be asked to rank the importance and effectiveness of 33 benchmarks designed to gauge progress and actionable results.  Participants will receive a free basic report after completing the surveys, and can access a more detailed assessment for a fee.
+The outcomes of the surveys can then be correlated to the maturity roadmap to show leadership where the organization is strong and where it is falling short.  The roadmap also forms the basis for the DELTA Powered Certification, which ranks organizations on a scale from “beginner” to “aspiring” to “leader” in the field.  The top two designations can be loosely correlated to Stage 6 and Stage 7 of the HIMSS EMRAM Adoption model, which focuses on EHR adoption, health information exchange, and other health IT initiatives intended to create an integrated, paperless environment.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+The introduction of the DELTA score shows that data analytics is becoming increasingly important to the everyday functioning and decision making of a well-equipped, technologically advanced hospital.  “Using this framework, we’ll work with healthcare provider organizations to measure and identify their analytical capabilities,” said IIA co-founder Thomas H. Davenport. “This assessment will show where they might need to improve going forward, and what areas to address to make their analytics capabilities better.”
+  Tagged Big DataBig Data AnalyticsHealthcare AnalyticsHealthcare Business IntelligenceHealthcare Data Strategy
+
+

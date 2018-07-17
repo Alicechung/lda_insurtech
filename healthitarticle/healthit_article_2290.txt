@@ -1,0 +1,19 @@
+Overlap of business, clinical intelligence lets analytics shine
+
+September 03, 2013
+
+By Jennifer Bresnick
+September 03, 2013 - It’s the basic lesson of Business 101: the financial health of a company depends on the quality of the services it provides.  Organizations that can’t bring in customers can’t bring in money, and will soon go down the tubes.  But healthcare is a necessity, and patients usually feel like they don’t have a choice about anything when they end up on the operating table.
+Hospitals have been relying on this endless stream of desperate customers to keep them in clover, but that’s all changing as the government focuses on cost transparency, accountable care, and payment for results instead of volume.  How can healthcare organizations stay profitable while ramping up the quality of their care to keep choosier consumers coming?  By employing healthcare analytics at the intersection of business intelligence and clinical care.
+Financial and operational intelligence overlaps with clinical quality in a number of ways for hospitals and health systems.  From deciding how many nurses are needed to keep the ICU safe for patients to what company should provide nutritious meals or how much to spend on diabetes education for the public, there’s no clear line between the business and clinical data that streams into an organization.  Hospitals track their big-ticket procedures and most expensive complex patients to see where preventative measures might save money down the line, and what patients they should entice to visit their surgeons when insurance companies pay big for certain conditions.
+Clinical intelligence can inform risk stratification strategies to allocate financial resources appropriately, as well.  By classifying patients based on their underlying conditions and potential for major adverse health events, organizations can provide different interventions for different populations, targeting the most pertinent education or services to the highest risk segments of their consumers.
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Desire for Predictive Analytics Outpaces Hospital Investment
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+“Part of risk stratification is an analytic technique known as predictive modeling or health forecasting,” explains Ken Terry in a white paper for the Institute for Health Technology Transformation. “For any organization that plans to bear financial risk, predictive modeling is very important, because high-risk patients generate the majority of health costs.”
+“If a health system is going to try to take on risk and do bundled payment, they need to know where their variation is in their service lines,” says Brett Furst, CEO of ArborMetrix. “For the smart and really leading-edge health systems or even health plans, good analytics to understand where the variation and opportunity are upon us.”  Quantifying patient populations and the investment of resources in higher risk patients is a key way to stay ahead of the financial risk involved in serving the public.
+While challenges to standardized EHR data collection and the processing of the information remain, the blending of clinical and business intelligence is one of the key features of truly useful and actionable analytics.  Without both sides of the coin informing each other, organizations will have no idea how to cut costs, because they won’t know where their money is being well spent and where it’s wasted on unnecessary clinical applications.  Performing comprehensive predictive and retrospective analytics can show hospitals how to close the gaps while keeping their patients happy, healthy, and coming back in the door.
+  Tagged Clinical AnalyticsClinical IntelligenceHealthcare Business IntelligencePredictive AnalyticsQuality Of Care
+
+

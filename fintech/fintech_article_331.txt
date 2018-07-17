@@ -1,0 +1,223 @@
+An ICO Glossary
+
+March 12, 2018
+
+Do you have hippopotomonstrosesquipedaliophobia, the fear of long words? If so, then the current ICO scene is a good place for you, with an array of acronyms and abbreviations. Are they confusing you? Do you want to sound a bit more intelligent and ‘in-the-know’? Then we have the guide for you, as we take you on a winding journey throughout all of the relevant terms that are useful when discussing ICOs, cryptocurrency, or blockchain.
+
+ Address
+
+ Once upon a time, ‘posting’ money to a practically anonymous address would be frowned upon. Nowadays, however, this is how cryptocurrency works. They are usually an alphanumeric string with a couple of common features depending on the currency,  that resemble the name of a small Polish town. Private key needed to access the funds.
+
+ You have a bitcoin address and a wallet address. A bitcoin address is used for dealing with your money, and a wallet address is used to for accepting and verifying a transaction.
+
+ Altcoin
+
+ Bitcoin too mainstream for you? Then perhaps you need an ‘altcoin’, such as Dogecoin (other altcoins may have more serious applications). Basically it is any cyrptocoin that isn’t Bitcoin, the one that started it all You can find a list here:
+
+ Bitcoin (BTC)
+
+ Records of bitcoin transactions are stored on a blockchain ledger. You’ve probably heard enough already about the various ins and outs of bitcoin, but here’s some extra detail: Bitcoin Subunits . These (like a real currency) include ‘millibitcoin; a ‘bit’; a ‘satoshi’ and ‘ittybittycoin’ (one of them being not completely accurate).
+
+ Bitcoin Cash (BCH)
+
+ Speaking of forks, a rather tasty new cyrptocurrency created in 2017 is Bitcoin Cash. Very similar to bitcoin, but with an increased block size capacity to help solve the scaling issue that standard Bitcoin faced, and also allowing low fees and fast confirmations.
+
+ Block/ Blockchain
+
+ A data store of a group of transactions, that can be processed for verification and then will form part of a blockchain.
+
+ Imagine a load of blocks holding hands in a line. Hard to picture? A better explanation may be that it is a decentralised, public database of cryptocurrency transactions, formed of data contained in blocks, but that is debatable. This database does not just exist on one central server and the transaction data can only be edited and updated by the owners.  
+
+ Bullish + Bearish
+
+ Opposite terms, used to describe prevailing trends in the market, in terms that your average Wall Street investor can understand. If a market is ‘bullish’ the trend is upwards, whereas with a ‘bearish’ market the trend is downwards. Its particular usefulness may be questioned when it comes to cryptocurrency, with the market often being simultaneously a bull and bear, in some kind of nightmarish hybrid. Questions also how -ish became a institutionally accepted suffix.
+
+ Cryptocurrency
+
+ If you have made it this far without knowing what cryptocurrency is, then that is pretty impressive. Impressive as it is, maybe this is not the right article for you. Key features are decentralised; utilisation of cryptography (easy to confuse the two!); digital currency; usually features a blockchain acting as a ledger.  
+
+ Dash
+
+ Who needs acronyms when you can have a portmanteau? Digital + Cash = Dash. A more accurate description, however, would be Digital Currency + Additional Privacy Features + Decentralised Governance and Funding + Instant Sending Features = Dash.
+
+ DAO
+
+ Decentralised Autonomous Organisation (or sometimes Corporation), is an organisation with no one central point of organisation, usually via a series of smart contracts. One of these organisations, the DAO was described by the New York Times as “A Venture Fund with Plenty of Virtual Capital but No Capitalist.” Currently exist in a bit of a legal grey area.
+
+ dApps
+
+ In case you hadn’t worked it out- decentralised applications. Software program running on a decentralised P2P network, but with a few differences 1) Any number of participants 2) Does not have to necessarily be financial. Ethereum is often used when making dApps.
+
+ ERC-20
+
+ Even the wild west world of cryptocurrency needs some standards and a bit of consistency. ERC-20 is a token standard that is utilised within the Ethereum currency. It is used as a standard for most tokens released via an ICO, and means that these tokens can be used with decentralised applications outside of the client who realeased these tokens.
+
+ Ether/Ethereum
+
+ Anyone these days can create a cyrptocurrency it seems, but there’s been a few that have been hanging around for longer than most. Ether is used to operate the Ethereum platform, and to pay for transaction fees and computational tasks. Transaction fees are calculated using both the ‘gas’ limit and the ‘gas’ price (see below). So then, I hear you ask what’s Ethereum? (or maybe not because it is pretty well-known by now).
+
+ It is a decentralised platform, based on the blockchain technology, and designed to be an improved decentralised platform when compared to bitcoin. It uses smart contracts in order to create things such as marketplaces on the blockchain itself.
+
+  
+
+ Fiat Money
+
+  
+
+ Fiat Money is money that lacks intrinsic value, apart from when used as a medium of exchange. Don’t feel too sorry for it though, as it is usually backed by a State/Government e.g. paper notes and coins. Significantly less exciting that digital currency, however, and more easily traced.
+
+  
+
+ Flipping
+
+  
+
+ Imagine, making a investment pancake, into which you pour your capital. Then, you flip it and someone else stands near by you ready to catch it into their pan. You check back in your pan, and there is a nice pile of cash for you to spend…on pancakes? What does that mean in terms of ICO? In an ICO , people will invest in a token before they are listed on any exchanges, and then re-sell them for a profit on one of the secondary markets.
+
+  
+
+ The Flippening
+
+  
+
+ Not to be confused with ‘the fappening’, The Flippening is a term coined to describe the event in the future where Ethereum’s Market Cap will overtake that of Bitcoin. Currently standing at around 50%, but having been around for a much shorter period of time- could we this happening in the not-too-distant future?
+
+  
+
+ Fork
+
+  
+
+ A surprisingly high number of mentions of forks in a non-cookery related article, but forks in crypto do matter. It is when there becomes a split in the blockchain, due to a change in the rules governing the system, or after an attack. Due to an incompatibility in decisions being made to go forward, such as with Ethereum and Ethereum Classic.
+
+  
+
+ FUD
+
+  
+
+ Fear, Uncertainty and Doubt. One of the cheerier entries on this list, this can apply to many things but has a specific application to the Fintech scene. ‘Fudsters’ spread negative information (often misleading or false), with the purpose of create negative moods and driving prices down.
+
+  
+
+ Gas + Gas Price
+
+  
+
+ Imagine being able to fill your car up with Ethereum… well that isn’t a possibility just yet but you still need to know the price of gas. Gas, in cryptocurrency, is the measure of processing power needed to process an Ethereum transaction. Simple transactions will require less gas, with more complex ones such as a smart contract require more. The cost of each gas ‘unit’ is set by the gas price.
+
+  
+
+ Hard Cap + Soft Cap
+
+  
+
+ Max amount an ICO will raise, and no longer receive any more funds. Soft Cap is the minimum amount that is needed, for the ICO to be a success, otherwise funds will be refunded to the investors.
+
+  
+
+ Hashrate
+
+  
+
+ The hash rate is the unit of measurement for the processing power of the Bitcoin network, in relation to a computer completing an operation. Bitcoin mining is based on solving mathematical equations to find a new block. The higher the hashrate, the faster you will be able to find a new block. When the network reached a hash rate of 10 Th/s, it meant it could make 10 trillion calculations per second.
+
+  
+
+  
+
+ HODL
+
+  
+
+ We will take a second here to appreciate a Meme, because it has become ubiquitous throughout the Bitcoin community. From a famous forum thread where someone misspelled ‘Hold’, ‘HODL’ is now used whenever someone is encouraged to Hold onto their currency, especially during one of the many sudden drops.  
+
+  
+
+ ICO
+
+ It’s like an IPO but with coins… ICO stands for Initial Coin Offering, it can be seen as investment version of Crowdfunding. Unlike Crowdfunding, where your money disappears and you will never see it again, your money will be anonymised and secured onto a hidden ledger and you may see it again. Early cyrptocurrency-based ventures will issue tokens (usually Ethereum) in return for raising investment. (investors send Ethereum say to a published Ethereum wallet address, and in return they receive custom tockets)
+
+  
+
+ IPO
+
+ It’s like an ICO but with less coins. Stands for Initial Public Offering, and was the previously most common way of publicly raising funds.
+
+  
+
+ Market Cap
+
+  
+
+ Or Market Capitalisation (less catchy). The Market value of a company, often used to rank relative size (see ‘The Flippening’). Usually takes the form of price x supply, in order to work this out.
+
+  
+
+ Multisignature
+
+  
+
+ Want to be involved with Bitcoin, but don’t trust who you are working with? Enter Multisignatures. A Multisignature, when used in relation to cryptocurrency, is an additional layer of security provided when accessing a wallet. The process is where more than one key is needed to approve a crypto-transaction. This provides a more democratic way of making financial decisions and handling cryptocurrency.
+
+  
+
+ Node
+
+  
+
+ A node, in its simplest terms, is an intersection point. Technically, any computer connecting to the bitcoin network can be a node. Nodes are a communications end-point, and form the backbone of any blockchain network, and in this case, making up the bitcoin network. A node downloads a copy of the blockchain and verifies it, helping to maintain the security. The more nodes present, the more secure the blockchain network will be.
+
+  
+
+ PoS + PoW
+
+ Proof of Stake and Proof of Work.
+
+  
+
+ What you have to do, when your boss checks in and asks what you have been doing all day. Generally, PoW is a protocol that was invented to deter distributed denial-of-service attacks. It has now been incorporated into the Bitcoin platform, enabling mining to verify transactions, and thereby prevent double-spending. See Mining.
+
+  
+
+ Recently, there has been discussion about rd about the idea to move from an Ethereum consensus based on the (PoW) system to one based on the so-called Proof of Stake. With PoS, there is no block reward, the miners just take the transaction fees instead, in the form of the digital currency. PoW is much more effective and has the potential to be more energy efficient as well.
+
+  
+
+ SegWit
+
+  
+
+ Short for segregated witness. Changes the way that data is stored, and used in litecoin and bitcoin. It removes the signature information from the transaction blocks, so that it can be altered without affecting the transaction ID.
+
+  
+
+ An initially unplanned benefit of this is that this makes the transactions ‘slimmer’, and thus you can fit more data into a transaction block. This will go some way to fixing the block size issue, and will help Bitcoin to scale-up, at least in the short term.
+
+  
+
+ Smart Contracts
+
+  
+
+ A smart contract is a mechanism involving digital assets and two or more parties, that relies upon completion of a task within certain parameters. These are the digital contracts that govern the cryptocurrency/blockchain world.
+
+  
+
+ Token
+
+  
+
+ Localised version of ‘coins’. Can be a blockchain version of holding a share, or merely a personalised currency for using within a network/system/application.
+
+  
+
+ Whitepaper
+
+  
+
+ Document that states the purpose, and motives behind a project, in this case an ICO. Usually provided just before an opening of an ICO (with a new coin and/or token).
+
+  
+
+

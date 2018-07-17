@@ -1,0 +1,16 @@
+AppSwarm To Develop Application Skills For Amazon Alexa With Programming Team
+
+17 Apr 2018
+
+The Company Plans To Develop A Suite Of Voice Recognition Applications For The Amazon Echo Focusing On Personal, Business, And Entertainment Utilizing the Amazon Skills Kit, and Video Skills Kit
+AppSwarm, Inc, a technology company specializing in the accelerated development and publishing of mobile apps, announces plans to develop suite of applications for Amazon Echo using Alexa Skills Kit.
+The Company plans to develop a suite of voice recognition applications for the Amazon Echo focusing on personal, business, and entertainment utilizing the Amazon Skills Kit, and Video Skills Kit.
+Applications will focus on such areas as ‘smart home’ and ‘smart office’ skills, while others will focus on games and entertainment podcasts users can activate in their home by simple voice commands.
+The Alexa Skills Kit (ASK) is a collection of self-service APIs, tools, documentation, and code samples that makes it fast and easy for you to add skills to Alexa. ASK enables designers, developers, and brands to build engaging skills and reach customers through tens of millions of Alexa-enabled devices. With ASK, you can leverage Amazon’s knowledge and pioneering work in the field of voice design.
+Amazon’s Video Skill API is a new addition to the Alexa Skills Kit (ASK) that enables developers to add capabilities, or skills, to Alexa. Alexa provides a set of built-in video content search and control capabilities. Examples of these skills include the ability to search for a TV show, play a movie or change a channel, among others.
+Development Team
+The Company is in the process of hiring and putting together a team of program developers skilled in not just Amazon Web Services (AWS), but Python, Java, and C++. The Company plans to leverage its current office space in Tulsa, OK, which is home to the University of Tulsa, to tap these resources to have its own in-house development team to bring these projects to market at a much more expedited pace.
+AppSwarm, in conjunction with AI VentureTech, Inc, has partnered to build a suite of voice recognition and Artificial Intelligent (A.I.) applications geared specifically for small business to help them streamline costs, and increase efficiencies. Virtual Assistants will assist smaller companies not just with scheduling and reminders, but also in customer and shareholder engagement to help facilitate sales and increase investor conversion.
+AppSwarm is a technology company specializing in the accelerated development and publishing of mobile apps and other software platforms for gaming and business applications and seeks to acquire symmetric business opportunities. AppSwarm partners with and assists other development firms in technology development, business management, and funding needs.
+
+

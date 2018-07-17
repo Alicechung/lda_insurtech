@@ -1,0 +1,17 @@
+Stelligent Chief Architect Named AWS Container Hero
+
+12 Jul 2018
+
+Casey Lee honored for contributions to AWS container services users around the globe
+Stelligent, a technology services company specializing in DevOps automation and managed services on Amazon Web Services (AWS), today announced that Casey Lee, chief architect and VP of engineering and delivery for the company, has been named an AWS Container Hero by AWS.  The award recognizes and honors the most engaged developers for their real impact on the AWS community.
+AWS Container Heroes are prominent trendsetters who are deeply connected to the ever-evolving container community. They possess extensive knowledge of multiple Amazon container services, are always keen to learn the latest trends, and are passionate about sharing their insights with anyone running containers on AWS.
+Lee has spent the past 20 years architecting, building, and supporting software systems for organizations ranging from startups to Fortune 500 enterprises while also obtaining five AWS certifications. In his current role, Casey’s organization designs and implements AWS-based continuous delivery solutions for some of the largest organizations in the world.  He is a frequent contributor to the open source community and most recently led the development of a tool called Stelligent mu that simplifies the creation of continuous delivery pipelines for container workloads on AWS. He is also a frequent public speaker and blogger.
+Follow Us
+Casey Lee
+“This is a great honor for me both personally and professionally,” said Lee. “As our customers know, all of us here at Stelligent are true AWS evangelists. We believe, without exception, that AWS is the most powerful and flexible cloud services platform available and that it provides users with the best possible engine on which to accelerate their software delivery and development automation efforts.”
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+Lee has contributed to the AWS Community on a number of levels including a recent blog post on Continuous Delivery Pipelines for AWS Elastic Container Systems (ECS);  a blog post on microservices on AWS with ECS, a webinar on the same topic; and a presentation at AWS re:Invent 2017 with 3M.
+The company has a long-standing relationship with AWS and is an Amazon Partner Network (APN) Premier Consulting Partner which recognizes the top APN Consulting Partners globally that have distinguished themselves by investing significantly in their AWS practice. Stelligent CTO and co-founder, Paul Duvall, was named an AWS Community Hero in 2016. In addition, Stelligent has attained AWS Financial Services Competency and was one of the first service providers to attain AWS DevOps Competency status back in 2015. It was also one of the first APN Consulting Partners to participate in the AWS Service Delivery Program.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+
+

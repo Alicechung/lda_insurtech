@@ -1,0 +1,30 @@
+How Advanced Genomics, Big Data Will Enable Precision Medicine
+
+September 08, 2015
+
+By Sid Nair of Dell Services
+September 08, 2015 - For decades, researchers have been seeking a cure for cancer. That goal has been elusive, mostly because, until recently, we had no way to identify the mutations that cause cells to go from normal growth to out-of-control-growth.
+With genome sequencing, however, we are beginning to identify the mutations that alter cell function and cause cancers to develop. That understanding will ultimately replace the “kill the bad cells” approach to chemotherapy with new therapies that repair the underlying dysfunction.
+An important key to making all this possible is the ability to rapidly and cheaply sequence a tumor cell’s genome, which allows us to compare normal to not-normal and find the mutations that cause the cancer. Just 12 years ago, the very first complete human genome was sequenced. It took 13 years and $3 billion. The time and cost have rapidly shrunk, and we can now do the same task in a few hours at a cost of about $1,000.
+That leap forward is the reason that we can now use genomics in treating cancer.  It has made possible research like that done by the Neuroblastoma and Medulloblastoma Translational Research Consortium (NMRTC). Led by pediatric oncologist Giselle Sholler, MD, this group is using genomics to better match therapies to young cancer patients.
+They worked with TGen and Dell to develop technology that could cut the time and cost of sequencing and analysis, which made it possible to use genomics in treatment decisions.
+READ MORE: Geisinger Announces New National Precision Health Initiative
+But we are still a long way from curing cancer. Until recently, the technology needed to sequence and analyze genomes was so expensive and required such a high level of technical expertise that its use was restricted to research and academic settings with budgets deep enough to afford the muscular processing power needed to handle the enormous amounts of data involved.
+Imagine how much faster cancer research would proceed if every hospital and every lab had the technology to handle genome sequencing and analysis. Imagine a world in which cancer was seldom fatal, because every patient – not just those lucky enough to be treated at a major medical center or in a research trial – had access to genomic-guided treatments.
+The challenge is finding a way to successfully manage and analyze the really big data sets associated with genomics, and to do so in a way that can be managed by organizations with modest resources. These organizations don’t have the hardware budgets for big high-performance computing systems nor staff with the advanced technical expertise to handle complex distributive computing systems.
+One method that looks to be very promising is something called fabric computing or unified computing, which involves constructing a computing fabric consisting of interconnected nodes of compute and storage which create compute “engines” that work together like a "weave" or a "fabric."
+This approach enables a self-organizing hive of computing engines to process very complex information like that of a high performance computer (HPC) when multiple of these hive engines are networked together. These hive engines can be configured to self-organize into a cooperative hive for performing computing of large complex data driven client jobs, with the cooperative hive working together.
+READ MORE: Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+The controlling software is cloud-based, and work can be done on commodity machines, so that expanding and extending the architecture is as easy as plugging in a new server. The analytics software is also cloud-based and does not require the organization to do detailed programming or to rewrite algorithms and tools, eliminating the need for staff with advanced analytics capabilities. 
+This is the kind of system that a mid-sized hospital could deploy for genomics-based diagnostic and treatment decision systems. It would allow the organization to focus on scaling its analytics and running them as is, rather than having to do the work to create the analytics.
+Such systems can be deployed quickly, efficiently, securely, and offer access to complex genomic compute locally for many. If widely deployed, it could connect physicians at local hospitals to researchers like Dr. Sholler and her NMRTC colleagues, making scarce intellectual resources far more widely available.
+As hospitals adopt this new technology, and as physicians around the country use it to connect their patients to advanced treatment centers and research trials, patients will have far more options for treatment.
+That will also broaden the patient cohorts available for research, which will increase the data available on how and why patients respond to treatment protocols. That will accelerate the pace of knowledge and give us a real shot at curing cancer.
+READ MORE: CancerLinQ Partners with FDA for Precision Medicine Studies
+And the use of genomics is not limited to cancer. There are thousands of diseases that we don’t yet understand, and drugs that we use routinely without knowing why they work for some people and not for others.
+Genomics could be the key to unlocking that knowledge, of finding cures for ALS, Alzheimer’s, multiple sclerosis and a host of other devastating diseases. It will also help physicians learn which therapy will work best for each patient, based on the patient’s genomic profile, even in more mundane diseases such as hypertension.
+Soon, you won’t have to imagine a world in which genomic data is used to cure cancer and a host of other diseases – you’ll be able to live in that world.
+Sid Nair is Vice President and Global General Manager of Dell Services Healthcare and Life Sciences.
+Tagged Big Data AnalyticsClinical AnalyticsMedical ResearchPrecision Medicine
+
+

@@ -1,0 +1,36 @@
+Do Providers Apply Population Health Management Inconsistently?
+
+May 20, 2016
+
+By Jennifer Bresnick
+May 20, 2016 - There is significant variation in the way individual practices select high-risk patients for participation in care management and population health management programs, according to a new study published in the American Journal of Managed Care, although most providers do tend to target the older, sicker, and more socioeconomically complex members of their attributed patient pools.
+The study reviewed more than 2600 Medicare beneficiaries receiving care within 35 practices of Partners HealthCare, a large Pioneer Accountable Care Organization (ACO) in the Boston area. 
+The researchers hypothesized that even though the practitioners within the ACO are incentivized to provide comprehensive population health management and chronic disease care services to meet quality goals and improve outcomes, there may be significant variation in the way patients are identified and chosen to enroll in care management services.
+Missed opportunities to capture eligible patients for management programs may arise when patient data is incomplete, socioeconomic and behavioral health factors are not appropriately considered, or inscrutable data analytics tools show their limits, the research team said.
+The researchers hailed from Partners HealthCare, Harvard Medical School, Massachusetts General Hospital, the University of California at San Francisco, and the Los Angeles County Department of Health Services.
+READ MORE: Leveraging the Patient-Centered Medical Home for Older Adult Care
+“There are a host of available case-finding tools and algorithms that can be used to identify individuals appropriate for care management; nevertheless, there is also increasing understanding that these tools have limitations,” the study says. 
+Partners HealthCare is currently in the middle of a lengthy transition to a new Epic EHR system that replaces its legacy technology suite.  In 2013, when the study took place, the health system was at the beginning of its five-year implementation plan.
+Even the most consolidated and optimized EHR systems can include “black box” risk score generators, the authors added.  Due to wide variations in EHR data integrity, the collection and use of socioeconomic data, and the integration of big data sources, these tools can struggle to apply consistent population health management guidelines to a complex patient cohort.
+Clinicians may also introduce natural human discrepancies into the process, the study says. “Often, there are no specific criteria that physicians are asked to consider when identifying appropriate patients, leaving the door open to unintentional biases.”
+“Appropriate clinician referral into care management programs (CMPs) requires that clinicians have a clear understanding of the characteristics that place patients at higher risk for poor health outcomes, as well as the benefits the CMP could provide.”
+READ MORE: CMS Seeks Providers for Socioeconomic Population Health Program
+Providers are generally aware of which patients are good candidates for population health management, the study acknowledges.  When the researchers examined six patient characteristics that are independently associated with being considered high-risk, they found that 86.3 percent of patients were identified as candidates for care management programs and 77.2 percent of these patients received referrals to a nurse-led program.
+The characteristics included advanced age, an increase in comorbidities or diagnoses, prior hospitalizations or admissions to skilled nursing facilities, an increase in primary care visits, and shorter relationships with their primary care providers.
+“When determining whether high-risk patients would benefit from care management, clinicians were also more likely to select individuals without prior hospice use and those living in lower-income areas,” the team said.
+“The adjusted proportions of high-risk patients 85 years or older selected for care management was 80.1 percent, and between 81.2 percent and 81.9 percent among patients residing in areas with more than 10 percent of individuals living in poverty.”
+Even though providers generally adhered to selection methods that incorporated known risk factors, individual practices used their own definitions of criteria such as what constituted advanced age or when to flag an increase in utilization as worrisome.
+READ MORE: CMS Picks Care Coordination Hubs for Accountable Health Program
+Many providers prioritized socioeconomic needs over clinical severity when referring patients to management programs, and may refer newer patients more readily than those with established relationships.
+“Patients with shorter relationships with their primary care physician were more likely to be identified as high risk, suggesting that PCPs might either have different thresholds for identifying patients who are new to their practice as high risk or may not have had the opportunity to establish necessary supports for their newer patients,” the researchers said.
+Providers are also more likely to suggest population health management programs to patients who show a willingness to adapt their behaviors or self-manage their care.  Primary care providers affiliated with larger delivery networks and non-community health centers appeared better able to identify and refer more of their high-risk patients than other types of organizations.
+“Some of this diversity in identification of high-risk patients may appropriately reflect unmeasured differences in practice resources and access to specialty care and services, such as behavioral health specialists and addiction counselors, for their patient population,” the researchers suggest.
+“Differences could also reflect variations in program implementation, such as nurse skill levels or comfort with different patient populations.”
+Although there are few industry-wide guidelines for identifying high-risk patients who could benefit from advanced care management strategies, primary care providers seem to be on the right track when it comes to flagging and referring potentially eligible patients.  
+As the healthcare industry invests more heavily in risk management tools and techniques, providers are likely to continue to develop best practices and care management guidelines that can be applied more consistently across organizations to prevent high-risk patients from slipping through current gaps in care coordination and management.
+Dig Deeper
+Examining the Challenges of Medicare Chronic Disease Management
+Breaking Down the Basics of Population Health Management
+Tagged Accountable CareCare CoordinationChronic Disease ManagementPopulation Health Management
+
+

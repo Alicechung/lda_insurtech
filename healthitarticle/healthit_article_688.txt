@@ -1,0 +1,117 @@
+Regenstreif EHR Developers Win AMIA Healthcare Informatics Award
+
+November 09, 2016
+
+By Jennifer Bresnick
+November 09, 2016 - The American Medical Informatics Association is honoring Burke Mamlin, MD, and Paul Biondich, MD, of the Regenstrief Institute and Indiana University School of Medicine with the 2016 Donald A.B. Lindburg Award for Innovation in Informatics for their work with testing and refining open source electronic health record software to support healthcare delivery.
+The award, which recognizes recipients for initiative that advance the field of biomedical informatics, is usually only awarded to a single individual, but Mamlin and Biondich’s work on OpenMRS, an electronic medical record system intended for use in developing nations, warranted an exception.
+"With amazing technical, organizational, and leadership skills necessary to make their dreams a reality, Drs. Biondich and Mamlin have helped create a movement that is supporting the care for the most vulnerable among us," said Shaun Grannis, MD, interim director of the Regenstrief Institute's Center for Biomedcial Informatics, associate professor of family medicine at IU School of Medicine and a fellow of the American College of Medical Informatics.
+"This recognition is well deserved," Grannis added.
+Survey: Patients embracing home health, data analytics, HIE
+89 Accountable Care Organizations Join Medicare Savings Program
+Cancer Moonshot Report Showcases Precision Medicine Progress
+Big Data Sorting Methods Can Change Picture of Population Health
+Ethnicity Plays Important Role in Population Health Management
+Top 10 Disruptive Companies to Watch in the Healthcare Space
+Standardizing data for analytics will be a challenge for HIEs
+New Healthcare Analytics Model May Improve Patient Satisfaction
+Care Coordination, Quality Care Can Increase Patient Loyalty
+EHR Chronic Disease Management Tool Boosts Prescriptions by 40%
+Patient Safety at Risk as 52% of Adults Misuse Prescriptions, Opioids
+CMS Diabetes Prevention Program Cuts Spending, Boosts Outcomes
+How Can Healthcare Ensure Its Big Data is Smart Enough?
+Many psychiatrists, providers haven’t moved to DSM-5
+PCORI will speed analytics with $93.5M in research funding
+FDA Unveils Clinical Decision Support, Medical Device Guidance
+EHR analytics identify delays in kids eight months earlier
+Clinical documentation needs quality assurance as well as CDI
+Geisinger Precision Medicine Biobank Hits 100K Participants
+Amazon is Exploring the Role of Alexa in Chronic Disease Care
+Senate Bill Might Bolster Medicare Chronic Care Management
+Hospital quality experts see fewer readmissions as top goal
+Slavitt: Affordable Care Act Uncertainty Threatens Value-Based Care
+FDA Urges Opioids Guidelines to Stem “Biggest Public Health Crisis”
+Healtheway Rebrands to Promote Health Data Interoperability
+Predictive risk analytics, HIE to help young asthma patients
+mHealth supports diabetes, heart health in rural populations
+Frequent 30-day readmission patients skew younger, study says
+NIH Launches Big Data Analytics Portal for Alzheimer’s Research
+Artificial Intelligence, Genomics Combo Boosts Precision Medicine
+Data analytics, care coordination vendors raise big bucks in Q1
+Study: Pancreatitis patients should be screened for cancer
+FDA using EHR data analytics to monitor drug safety
+PCMH model, EHRs provide better care for patients, study says
+Medicaid Gets a Big Data Boost with Funding, Analytics Tools
+Accountable care leader Geisinger announces CEO departure
+EHR Satisfaction Rises, Usability Complaints Drop for Nurses
+Foundation Funds $5.7M Population Health Management Playbook
+After CMS Tenure, Tavenner Takes Over Payer Relations at AHIP
+ONC: Artificial Intelligence Has Potential to Reshape Healthcare
+Chief Nurse Informaticists Tackle EHRs, Big Data Analytics
+AHA Precision Medicine Platform Offers Up Data for Machine Learning
+AHIMA, IHE Publish Draft Information Governance, Big Data Paper
+CMS Equity Plan Promotes Data Analytics, Population Health
+AHIMA: More Organizations Embrace Information Governance
+EHRs Can Aid Chronic Disease Management in Urban Settings
+NIH, 23andMe Crowdsource Precision Medicine Depression Study
+Hospital Acquired Conditions, Patient Safety Hold Steady in 2014
+EHR, Health IT Spending Rises as Provider Satisfaction Drops
+Healthcare Internet of Things, EHR Markets to See Rapid Growth
+Senate Passes SGR Repeal, Embraces Value-Based Reimbursement
+50% of Physicians Not Satisfied with Patient Data Access
+Why Value-Based Care Must Inspire Partnerships, Data Exchange
+Case Western researcher wins $2.3M big data award from NIH
+Challenges of Applying Predictive Analytics to Population Health
+Can Healthcare Informatics turn EHR Data into Phenotypes?
+NIH Releases Big Data Resources for Brain Development Research
+NCQA Revamps Patient-Centered Medical Home to Ease Adoption
+Evidence for PCMH success builds with lower costs, ED visits
+Joint Commission Hospital Quality Performance Dips in 2014
+Baltimore Population Health Plan Focuses on Racial Disparities
+Data Integrity Groups Rally for a National Patient Identifier
+What to Expect at AHIMA: ICD-10, Big Data, Population Health
+Groups Urge ONC, AHRQ to Support Health IT Patient Safety
+How Successful Hospitals Start to Tackle Big Data Analytics
+ONC Playbook Breaks Down Health IT, EHR Tasks and Buzzwords
+EHNAC Releases Practice Management Accreditation Criteria
+Concerned about tracking baby boomers? Sign them up online
+Home Interventions Boost Asthma Chronic Disease Management
+EHRs Should Collect Behavioral Data for Population Health
+Twitter provides big data for adverse drug event identification
+Open EHR Notes Improve Medication Adherence, Engagement
+NIH Seeks $1.1B to Fund Precision Medicine, Cancer Moonshot
+UCSF granted $6M to manage population health in South America
+KLAS Population Health Management Rankings Show Market Growth
+EHRs Must Be Integrated Tools for Chronic Disease Management
+Clinical analytics market to reach $12.26 billion in 2019
+Can Senate Health Data Interoperability Proposals Improve HIE?
+Health Data Analytics a “Competitive Differentiator” for Payers
+How Clinical Documentation Improvement Saved $550K in a Year
+Chronic Disease Management Costs 17 Times More than Average
+HIM, Healthcare Big Data Analytics Skills Increase in Demand
+EHR, Big Data Analytics Tech Support Key to Customer Loyalty
+NIH to Bring Precision Medicine Data Collection to Patient Homes
+3 Ways to Win the EHR, Health IT Argument on Thanksgiving
+EHR Adoption, Health IT Use Improve Patient Safety, ONC Says
+Substance Abuse Help Cuts Population Health Management Costs
+Social Media May Provide Big Data Insights into Drug Misuse
+Clinical Analytics, EHR Alerts Increase Drug Safety by 80%
+CMS Details Methods for Streamlined Quality Program Reporting
+Kaiser Permanente Program Reduces Cardiovascular Disease Risks
+How Team-Based Care Management Improves Cardiovascular Health
+Can FHIR Spark Health Information Exchange, Interoperability?
+Internet of Things for Healthcare May be Worth $410B by 2022
+Big Data Interoperability a Must for Precision Medicine Progress
+United cuts more Medicare doctors to control costs in MA
+HSPC Interoperability Project Tackles HIE with FHIR, App Culture
+Geisinger Connects to PennREN HIE for Big Data Analytics
+Real-time data analytics accurately predicts local flu activity
+Health IT Integration Leaders Key to EHR, Big Data Success
+OpenMRS is a customizable system that helps healthcare providers record and report anything from laboratory tests to public health data without the need for advanced programming knowledge.  The tool allows providers to reconfigure and optimize the system easily, a key advantage in situations where clinicians are working with few resources and high-pressure conditions.
+For example, OpenMRS helped healthcare providers in West Africa adapt to the unparalleled demands of the recent Ebola outbreak when commercial electronic health record options fell short.
+OpenMRS is the centerpiece of the world’s largest open source health IT development community for resource-constrained environments, a press release said.
+Mamlin and Biondich are both members of the Regeinstreif Institute’s Center for Biomedical Informatics, which helps to create and deploy health IT tools that aid clinical decision making and improve the healthcare system’s knowledge of patient experiences and outcomes.
+Dr. Biondich is also a professor of pediatrics at the Indiana University School of Medicine, while Dr. Mamlin serves as an associate professor of clinical medicine at the same institution.  The two award winners will be honored at the 2016 AMIA Symposium in Chicago later this month.
+Tagged Clinical InformaticsEHR AdoptionEHR UsePopulation Health Management
+
+

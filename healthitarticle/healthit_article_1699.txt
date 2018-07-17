@@ -1,0 +1,30 @@
+Big Data, Predictive Analytics among Top Reader Topics of 2014
+
+December 11, 2014
+
+By Jennifer Bresnick
+Big data, population health, and predictive analytics were among the most popular discussion topics on HealthITAnalytics in 2014.
+December 11, 2014 - Between the start of Stage 2 meaningful use, the uncertainty over ICD-10, and a sharp focus on interoperability, the role of big data, and the burgeoning ecosystem of clinical analytics, 2014 was a year of massive change for the healthcare industry.  As we look back over the past twelve months of healthcare reform, what topics were most likely to catch the eye of providers, health information managers, informaticists, and administrators seeking news and resources at HealthITAnalytics.com?
+Analytics infrastructure: Who’s buying what?
+Healthcare is an intensely competitive industry, so it might come as no surprise that providers are very nosy about what their peers are doing.  Who’s making big investments?  What are my neighbors spending their money on?  What new capabilities are they incorporating, and how will that affect my market share?
+Readers gravitated towards articles that revealed the answers to these questions, including data showing the popularity of Epic as a business intelligence platform and how hospitals with precarious finances are holding off on large-scale investments into population health management and clinical analytics.
+Dig Deeper
+Predictive Analytics, Accountable Care Markets to See Rapid Growth
+Project to Develop EHR Toolkit to Stem Readmissions
+Web-Based Health Risk Assessments Accurately Flag Depression
+How to accomplish organizational goals
+Both payers and government agencies have been stressing certain organizational transformations as a way to achieve the promise of the Triple Aim: lower costs, higher quality, and better patient satisfaction.  Whether assessing a provider’s readiness for accountable care or learning more about the Patient-Centered Medical Home (PCMH) designation, healthcare stakeholders were eager to read about actionable steps they can take towards revising their business and workflow processes.
+Other popular “how to” topics include getting started with population health and information on improving hand hygiene compliance in the hospital setting.
+Big interest in big data
+Big data may be everywhere, but the healthcare industry is still figuring out what exactly to do with it.  As EHRs exponentially multiply the amount of digital information available for clinical, financial, and operational analytics, providers must implement data storage, reporting, and visualization systems that turn petabytes of raw numbers into actionable insights.
+Despite the fact that the vast majority of executives believe big data analytics is a critical step for retaining and growing market share, even more of the C-suite isn’t quite sure they have the capability to deal with the big data conundrum.  Readers were eager to learn about how big data and the “Internet of Things” is going to affect the way their organizations operate as the industry moves into a complicated and contentious 2015.
+The journey towards predictive analytics
+Once providers manage to get their big data under control, they can start to move towards the promised land of predictive analytics.  As health IT systems become sophisticated enough to provide real-time data that can predict the flow of patients through an emergency room or catch non-adherent patients when they don’t fill their prescriptions on time, providers will have a new fleet of tools on hand to address problems quickly and efficiently.
+Predicting readmissions, a patient’s risk of self-harm, or the first stages of sepsis can help to appropriately allocate services, avoid costly mistakes, and improve quality scores for patient safety.  Predictive analytics is set to become one of the hottest topics of 2015 as pilot programs and new developers continue to innovate in the space.
+Engaging in population health management
+Ultimately, all of these areas of the analytics environment are intended to work together for data-driven population health.  Healthcare providers continue to puzzle over how exactly to bring population health management to bear in their own organizations, but there is a lively ongoing conversation about managing larger groups of people, stratifying patients by risk and health status, and targeting appropriate education, resources, and services to sufferers of chronic diseases.
+As the ONC continues to promote population health management as an important target for the healthcare system, the conversation will only get louder and more robust.
+Healthcare providers that wish to equip themselves for the new data-rich population health ecosystem should use 2015 to invest in data sharing partnerships, create relationships with public health departments and other organizations with similar goals, and establish reasonable benchmarks for themselves that can be used for motivation and tracking as they commit to viewing patients in a completely different light.
+Tagged Big DataPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,18 @@
+Pain monitoring database adds analytics to patient care
+
+March 14, 2014
+
+By Jennifer Bresnick
+March 14, 2014 - A database designed to personalize pain treatment may be effective in reducing costs while providing better care to patients with difficult conditions, said Sean Mackey, MD, PhD, President of the American Academy of Pain Medicine during the society’s annual meeting last week.  The Health Electronic Registry of Outcomes (HERO) system is capable of using algorithms to create an individualized pain assessment for patients, pinpointing the source, intensity, and lifestyle implications of painful conditions to ensure that patients receive the correct and most effective treatments.
+More than 100 million Americans, or a quarter of the adult population, suffer from chronic pain conditions, says the CDC, with about half of those patients reporting symptoms for more than a year.  Chronic pain costs the US economy more than $635 billion a year in treatment and loss productivity, added the Institutes of Medicine (IOM).
+The system was built with grant support from the National Institutes for Health Pain Consortium and the Stanford Center for Clinical Informatics, as well as funding from the Redlich Pain Research Endowment, Mackey explained. “This is a perfect example of a public-private partnership that is working,” he said.
+“We are using both NIH resources as well as our own to develop a flexible system that will be freely available and usable for multiple pain and other medical conditions.”  We expect this work will ultimately help clinicians target tailored treatments to a specific patient. And we hope this work will help persons suffering from pain get the right treatment that is safe and effective for them to ultimately improve their quality of life.”
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Cancer Mortality Rates See 20% Drop, but Disparities Remain
+Not only can HERO perform a quick assessment of a patient’s needs, it can also spawn learning systems that would provide clinicians with continuing information about outcomes and crunch the available data to report on the usefulness of certain therapies and treatments.  HERO utilizes the NIH Patient Reported Outcome Measurement Information System (PROMIS), a $100 million repository of clinical data.
+A pilot program is currently underway at the University of Florida to test the integration of the HERO database with EHR systems, bringing the analytics tool into the daily workflow of clinicians who need such information at their fingertips.
+  Tagged Applied AnalyticsClinical AnalyticsMedical ResearchPatient CareQuality Of Care
+
+

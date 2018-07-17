@@ -1,0 +1,27 @@
+Don’t Publish Stage 3 Meaningful Use Rule, Urge AMA and Others
+
+September 18, 2015
+
+By Jennifer Bresnick
+September 18, 2015 - The American Medical Association and forty other professional societies are strongly urging HHS and the Office of Management and Budget (OMB) not to publish the finalized rule for Stage 3 Meaningful Use. 
+Citing low uptake of Stage 2 attestation and conflicts with pending regulatory changes included in the Medicare Access and Chip Reauthorization Act (MACRA), the organizations believe that pushing ahead with Stage 3 may be seriously detrimental to the healthcare industry’s continued health IT progress.
+“The physician community is extremely dismayed by recent press reports that the Final Modifications Rule and the Final MU Stage 3 Rule have been combined and this rule is now under review at the OMB,” the societies say in a pair of letters addressed to Shaun Donovan, Director of the Department of Management and Budget and Secretary Sylvia Burwell of HHS.
+Fewer than ten percent of physicians have successfully attested to Stage 2 so far, they note, leaving the community “extremely concerned” with the direction of the EHR Incentive Programs.  Stage 3 will create more problems than it solves if the industry is required to sprint into the last stage of the framework without adequate time to prepare and adjust.
+Dig Deeper
+Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+A Mere 3% of LTPAC Orgs Have Healthcare Data Analytics Tools
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+“We believe Stage 3 takes a drastic step backwards from the proposed improvements of the Modifications Rule,” the letter says, referring to CMS’ attempt to refine certain requirements for EHR Incentive Program attesters between 2015 and 2017, including cutting the Stage 2 patient engagement threshold from 5 percent to one single patient.
+While the organizations reaffirm their support for the adoption of electronic health record technologies that are highly usable, interoperable, and beneficial for clinical care, they do not believe that rushing into Stage 3 will help to mitigate any of the challenges of the current EHR marketplace. 
+“Due to the inflexible MU regulations and certification requirements, vendors have created software products that are frequently unusable, administratively burdensome, and in many instances do not promote clinically relevant patient care,” they point out.
+Instead of fostering the development of more intuitive products that improve productivity and safeguard patients, “we are concerned that spreading poor performing systems may exacerbate the problem,” the organizations write. 
+“Importantly, pausing Stage 3 will not stop or delay progress with EHRs.  Instead, we believe key interoperability challenges need to be addressed first so that the systems entities adopt will be capable of facilitating the seamless exchange of data.”
+Putting Stage 3 on hold until current interoperability and health information exchange efforts have a chance to mature organically will give the maximum number of providers the best chance to prepare themselves for the myriad changes involved in moving the industry closer to accountable care, the groups argue.
+Many of these changes were codified in the MACRA legislation that introduced the concept of the Merit-Based Payment System (MIPS), an amalgamation of meaningful use, the Physician Quality Reporting System (PQRS), and the Value-Based Modifier (VBM).  MIPS is slated to radically change the current regulatory and reporting requirements for providers, potentially conflicting with Stage 3 principles.
+“We believe that pausing Stage 3 at this time will provide the opportunity to evaluate the environment as we work with the administration to implement the needed changes found in the Modifications Rule,” the letter states. “There are so many questions surrounding creation of MIPS and alternative payment models (APMs) that it is premature to proceed with MU Stage 3, especially since EHRs and MU will serve as a foundation for the success of these programs.”
+“The physician community is committed to working with the administration on the implementation of MACRA. We, however, strongly believe that moving forward with MU Stage 3 at this time will severely undermine the ability of the health system to support the implementation of this critical legislation.”
+In addition to the American Medical Association, the letter is signed by the American Academy of Family Physicians (AAFP), the American Academy of Pediatrics, the American College of Cardiology, and the Medical Group Management Association (MGMA).
+These groups, along with dozens of specialty societies, join the Senate Committee on Health, Education, Labor, and Pensions (HELP) in demanding that HHS reevaluate its timelines for Stage 3 Meaningful Use.  Chairman Senator Lamar Alexander (R-TN) has been a vocal proponent of hitting the breaks on the stringent requirements, noting that physicians and hospitals are experiencing a palpable sense of dread when faced with the prospect of meeting Stage 3’s difficult thresholds.
+Tagged Analytics InfrastructureEHR AdoptionInteroperabilityMeaningful Use
+
+

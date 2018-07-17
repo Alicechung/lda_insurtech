@@ -1,0 +1,38 @@
+Can Dr. Google’s New Symptom Search Change Healthcare Analytics?
+
+June 21, 2016
+
+By Jennifer Bresnick
+June 21, 2016 - Healthcare pundits may soon have to retire one of their favorite jokes about panicked patients scouring the web for answers thanks to a new effort by Google to refine its symptom search capabilities. 
+Patients who self-diagnose after a quick search for common ailments – a source of perennial frustration for highly trained physicians with a wall full of degrees – will now start to receive more tailored and accurate results to help them decide whether or not a visit to the clinic is warranted.
+“Roughly 1 percent of searches on Google (think: millions!) are symptom-related,” wrote Product Manager Veronica Pinchin on the official Google blog this week.
+“But health content on the web can be difficult to navigate, and tends to lead people from mild symptoms to scary and unlikely conditions, which can cause unnecessary anxiety and stress.  After 20 minutes digging through health forums, chances are you're overwhelmed by all the complicated medical terms and breaking out in a sweat—whether that’s related to the headache or the overdose of info is unclear!”
+Patients who tend to think the worst after a brief web consultation may be more likely to book appointments that end up being unnecessary – a key area of concern for providers attempting to cut costs and manage populations more effectively.
+READ MORE: Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+Providers who are hoping to free up their calendars for higher-level concerns may need to start focusing on new methods to triage patients before they even book an appointment. 
+While Google is pitching the update as a customer-focused effort to improve the experience of search users, the move could eventually have some interesting implications for clinicians. 
+With input from top provider organizations to back up the changes, Google may be opening up new opportunities for tracking health trends and engaging patients by leveraging the company’s massive big data analytics capabilities.
+“We create the list of symptoms by looking for health conditions mentioned in web results, and then checking them against high-quality medical information we’ve collected from doctors for our Knowledge Graph,” explained Pinchin.
+“We worked with a team of medical doctors to carefully review the individual symptom information, and experts at Harvard Medical School and Mayo Clinic evaluated related conditions for a representative sample of searches to help improve the lists we show.”
+READ MORE: Finding the Value in the IoT, Patient-Generated Health Data
+The update is far from the company’s first attempt to take advantage of its intimate positioning in consumers’ lives to help improve their health.  While not all of these efforts have been entirely successful, using web search data and social media postings to monitor trends, identify population health concerns, and even predict emergency department utilization is not a new concept.
+In 2014, Google’s research division, Google X, began to develop a portrait of what a “healthy human” looks like, using genetics and molecular data to understand the transition from health to disease.  The project, called the Baseline Study, is now under the purview of Verily, an independent spin-off company.
+Just a few months later, a study published in PLOSONE explored how the use of Google Trends, a web analytics product, could aid population health management research by giving healthcare stakeholders insights into popular search patterns. 
+Trends users could theoretically perform basic hot-spotting by examining how many patients within a metro area searched for “flu symptoms” during the past five days, which may indicate an uptick in influenza infections and a need for provider action.
+Google’s reorganization under the Alphabet umbrella has brought even more potential for its diversified activities to find a niche in the big data analytics space. Diabetes is a top priority for the life sciences team, and are the Internet of Things and predictive analytics.
+READ MORE: $335K Grant Supports Chronic Disease Management for Lupus
+In May, New Scientist shared documentation detailing the big data analytics agreement between the United Kingdom’s National Health Service (NHS) and DeepMind, a Google subsidiary focused on predictive analytics.
+Access to data on more than 1.6 million London patients will allow DeepMind to fine tune a clinical decision support and patient access application.  Its first target is the detection and appropriate treatment of acute kidney injuries, a significant cause of emergency department utilization and hospitalizations.
+The data sharing agreement gives DeepMind free rein to root around in the centralized big data repository for the NHS, as well as access to HL7 feeds, pathology and lab results, and admission, discharge, and transfer (ADT) data for patients at three NHS hospitals.
+Can millions of newly targeted symptom searches give Google even more fodder for its healthcare analytics ambitions?  Can the results, coupled with user feedback about their usefulness, eventually transition into a patient-facing decision support feature that providers can leverage to reduce unnecessary spending on unproductive consults?
+It may not be on Google’s immediate agenda, but it would certainly fall in line with the trend towards harnessing learning analytics and semantically-driven technologies on the broadest possible scale to create unprecedented access to hidden insights.
+And the opportunities for integration with patient-generated health data from Internet of Things devices creates an even more interesting proposition.  Imagine a patient is using one of Google’s pending contact lenses for diabetes monitoring, which shows that she has a history of poorly controlled blood glucose.  One day, the patient grabs her smartphone and searches for “numbness in foot.” 
+Could her search engine ever become be smart enough and personalized enough to immediately return the phone number of her primary care provider or endocrinologist with a message urging her to make an appointment instead of just presenting a Wikipedia page about neuropathy?
+It may be theoretical, but it’s not outside of the realm of possibility in the near future.  The growing interest in precision care, along with increasing confidence in the validity and usefulness of patient-generated health data in all its various forms, could give tech giants like Google an opening for turning everyday interactions with web-based products into a virtual concierge for healthcare.
+As of now, however, Google is well aware that it cannot replace the skill and knowledge of a physician, and that the upgraded search capability is nothing more than “a helpful place to start” understanding a potential health problem. 
+“Symptom search (like all medical information on Google) is intended for informational purposes only, and you should always consult a doctor for medical advice,” Pinchin stresses.
+Whether or not Google’s prolific range of divisions, spin-offs, and subsidiaries will turn their attention to creating some category of dedicated services from this burgeoning competency with health data analytics remains to be seen. 
+But providers may be able to hold out hope that Dr. Google could one day be more of an ally than an annoyance when it comes to delivering quality care. 
+Tagged EHR and Patient EngagementPatient Generated Health DataPopulation Health ManagementPredictive Analytics
+
+

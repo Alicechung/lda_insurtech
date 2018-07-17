@@ -1,0 +1,14 @@
+Epic Games Announces An Open Beta Of Unreal Studio
+
+14 Mar 2018
+
+Includes the Datasmith workflow toolkit, learning resources, assets and professional support for design, architecture and manufacturing industries
+Epic Games today launched Unreal Studio as an open beta, providing customers in architecture, design and manufacturing a shortcut to producing high-quality, real-time, fully immersive visual experiences. Unreal Studio introduces new learning tools, professional support and assets, along with the Datasmith workflow toolkit for streamlining transfer of CAD and 3ds Max data into Unreal Engine. Register for the Unreal Studio open beta today to explore the benefits that real-time and immersive workflows bring to design professionals.
+New Unreal Studio beta enables real time interactive visualization for users in archviz, design, and manufacturing
+Karen Hapner
+“Real-time engines have primarily been designed for the gaming industry, making them impractical to use for architectural and manufacturing visualization. Until now. Unreal Studio changes the paradigm by addressing needs specific to our industry, such as importing engineering models and easily achieving visual consistency,” said Karen Hapner, Senior Visualization Designer at Herman Miller. “With Unreal Studio, I can use Unreal Engine to efficiently create interactive, immersive experiences for our customers.”
+Marc Petit
+“The Unreal Studio open beta builds on the success of our Datasmith release. Datasmith simplifies bringing Unreal Engine into architecture and design pipelines with automatic lightmap and UV creation along with scripted workflows to organize, optimize and clean up geometry,” said Marc Petit, General Manager of Unreal Enterprise at Epic Games. “The feedback has been overwhelming—in just five months we had over 14,000 beta registrations, and a recent beta survey reported Datasmith productivity gains of 113 percent. We’re taking all the ‘boring’ work out of the process and giving users more time to be creative.”
+ 
+
+

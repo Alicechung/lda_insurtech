@@ -1,0 +1,26 @@
+HL7, ONC Seek Entries for C-CDA Data Visualization Challenge
+
+January 19, 2016
+
+By Jennifer Bresnick
+January 19, 2016 - Standard protocols that allow health information exchange EHR interoperability are all very well and good, but they do little to truly aid clinical care if the resulting data is unreadable to human providers. 
+While the Consolidated Clinical Document Architecture (C-CDA) framework has been instrumental in enabling healthcare organizations to communicate patient data more effectively in a vendor-agnostic manner, “many clinicians are frustrated with the usability of C-CDA documents because an overabundance of data is rendered by the EHR system based pm C-CDA documents that are being sent/received,” writes HL7 International, which manages the standard.
+To address this concern, HL7 and the Office of the National Coordinator are asking industry innovators for ways to improve the human readability of the complex documents.  As an enticing incentive, they are putting up $20,000 in prize money for the best solutions.
+The C-CDA Rendering Tool Challenge hopes to produce a visualization interface that will present patient data in an intuitive way that will allow users to easily view the most relevant information without sifting through pages and pages of irrelevant history, HL7 says.
+Dig Deeper
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“EHR vendors, for numerous and admirable reasons, typically render more information than clinicians want, sometimes including the patient's entire medical history,” the organization writes. “A viewer that makes relevant information easier to view would save clinicians' time and ensure they do not miss the information they need to make decisions.”
+The C-CDA is a key component of the EHR Incentive Programs’ emphasis on health data interoperability and information exchange, forming the foundation for much of the dialogue that takes place between disparate EHR systems.  Stage 2 meaningful use requires the use of the C-CDA format for exchanging clinical care summaries, and the standard also figures prominently in Stage 3 requirements.
+While the industry may be holding out hope that Stage 3, in its current form, will not materialize, the final rule for the 2015 Edition Certified EHR Technology (CEHRT) that must be used for attestation in 2018 places C-CDA’s potential – and its problems – on center stage.
+EHRs certified for Stage 3 meaningful use must be able to accept and transmit the C-CDA in both its current versions: Release 1.1 and Release 2.0, an updated standard.  EHRs will be forced to generate both types of documents in order to ensure that the data is receivable by products using either version of the protocol, and must be able to distinguish a valid C-CDA from an invalid one.
+The ONC has made error checking and data reconciliation a top criteria for its future certified products, but has left the actual mechanism for achieving these goals up to the individual developer.  That makes the availability of a best-of-class data visualization tool a high priority, HL7 and the ONC say.
+If developers are using less-than-perfectly-standardized methods of transmitting and accepting C-CDAs behind the scenes, they should at least have a “deterministic way for a recipient of an arbitrary C-CDA document to render the attested content,” the contest announcement says.
+Entries to the Rendering Tool Challenge must also be able to render the document’s title, if present, as well as the labels for each structured section.  If standardized data is extracted from free-text or national language input, or if standardized data fields are strung together into narrative form, the tool must identify which process was used to translate the data.
+Submissions must also be open source and must meet the minimum requirements for viewing C-CDA applications as laid out in the 2015 Edition CEHRT criteria.  Winning entries will be made freely available for industry use through the HL7 website and Github.
+The first prize winner will receive $15,000 for their efforts, while second place will be worth a $5000 prize.  The submission period closes on May 31, 2016.  Winners will be announced at the HL7 Annual Plenary Meeting in September. 
+For more information, and to apply for the challenge, please click here.
+Tagged Analytics InfrastructureHealth Information ExchangeHealthcare Data GovernanceInteroperability
+
+

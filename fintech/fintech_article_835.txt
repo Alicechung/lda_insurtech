@@ -1,0 +1,21 @@
+Dual Winners at the LuxBlockHackathon 2017: The DLTeam from Kiev and CryptoLux from Luxembourg share the 1st place
+
+May 12, 2017
+
+The first LuxBlockHackathon was held on 8th & 9th May 2017 at SnT Luxembourg. Organized by Melufina, a blockchain Think tank created by Radu State (SnT), Evan Schwartz (Ripple) & Frank Roessig (Telindus). Over 50 blockchain coders from Luxembourg, San Francisco, Kiev, London, Paris, Lisbon, Rotterdam, Cologne hacked away on Stellar, Hyperledger, Ethreum, Monero. During 36-hours, the teams worked on solving a challenge linked to a P2P Asset Exchange that is KYC-compliant by using innovative blockchain-based technology.
+
+ The jury composed of Gerard HOFFMANN (Telindus), Marco HOUWEN (InfraChain), David MAZIERES (Stanford University), Melinda ROYLETT (Paypal), Radu STATE (SnT) and Evan SCHWARTZ (Ripple) deliberated to determine two winning teams that developed original and realistic solutions. The president of the jury, Gerard HOFFMANN, stated “how impressed he was by the quality of the solutions presented”.
+
+ The winning teams are sharing a 1.5 million Stellar Lumens prize that has been donated by the Stellar Foundation in San Francisco. Distributed Lab leader Pavel Kravchenko “appreciated the impeccable organization and thoroughly enjoyed hacking with such strong competitors”; “those two days were an incredible learning experience” added the members of CryptoLux team.
+
+ “It was neck in neck competition. Two teams developed Stellar based solutions, two more – Hyperledger ones and four teams worked on Ethereum based solutions. Finally, our efforts aimed at a very good idea presentation, well developed architecture and deep analysis helped us to share the 1st place with Luxembourg based team,” said Pavel Kravchenko.
+
+ What was the real problem DLTeam worked on? “We realise that process of assets exchange is expensive, long and cumbersome. There are some reasons for such the situation: money & shares need to be deposited to Central Counterparty; brokers & intermediaries are involved; users need to learn how to use professional trading software; fund’s software is not designed for transactions between users. The approach offered by DLTeam to deal with this problem was built on the following: digital asset management platform is installed only in a Fund; banks and exchanges don’t need to participate,” Vladimir Dubinin, Founder and CEO of Distributed Lab (DL), explained. “Our criteria for ideal solution are user-centric that means: user’s wallet for blockchain-based assets can be connected to any bank or fund; funds and banks use their own accounting systems (private networks) that comply to regulation; rading can occur on any exchange; exchanges don’t hold assets, they only act as informational systems; KYC process is uniformed,” he added.
+
+ The Hack was followed by diverse blockchain demos by Quantoz, Tempo and Centaurus at which attendees could participate in effecting live blockchain transactions and claim Stellar Lumens.
+
+ The event was supported by supported by the SnT, Telindus, Stellar, Infrachain and Digital Lëtzebuerg.
+
+ It also should be mentioned that at the same time (on 9-10th May) Luxembourg hosted big tech event ICT Spring Europe 2017 that gathered more than 5K key decision makers in IT, finance, banking, space, web, manufacturing and marketing, as well as investors, entrepreneurs, and start-ups from over 70 countries.
+
+

@@ -1,0 +1,28 @@
+IBM Watson, Quest Launch Genomic Cognitive Computing Partnership
+
+July 28, 2017
+
+By Jennifer Bresnick
+July 28, 2017 - IBM Watson Health and Quest Diagnostics have announced a new partnership that will bring Watson’s cognitive computing and genomic sequencing capabilities to a larger number of patients nationwide.
+The launch of “IBM Watson Genomics from Quest Diagnostics” will allow oncologists and other clinicians to access insights from data supplemented by Memorial Sloan Kettering (MSK) Cancer Center’s OncoKB knowledge base. 
+The Broad Institute at MIT and Harvard will also provide genomic sequencing capabilities to support the initiative.
+Dig Deeper
+NJ Health System Pilots IBM Watson for Oncology Decision Support
+Cognitive Computing Use Grows in Precision Medicine for Cancer
+IBM Watson’s Cognitive Computing Rivals Human Oncologists
+Ideally, the tool will deliver clinical decision support to allow providers to identify and treat specific cancers more quickly and accurately.
+“Precision medicine is changing the way we treat cancer and giving new hope to people living with the disease,” said Jay G. Wohlgemuth, MD, chief medical officer and senior vice president of research, development and medical, Quest Diagnostics.
+“However, access to genomic sequencing and tumor analysis required to determine appropriate precision medicine treatments for a patient can be a challenge. This service combines Quest’s state-of-the-art tumor analysis and national access with the cognitive computing of IBM’s Watson and the deep cancer treatment expertise of MSK.”
+“This is a powerful combination that we believe it will leap frog conventional genomic services as a better approach for identifying targeted oncology treatments.”
+Clinicians with access to the service can send solid tumor biopsy materials to Quest Diagnostics, which already serves about half of the nation’s hospitals and physicians. 
+Quest will then use next-generation sequencing techniques to analyze the tumor and feed the data into Watson, which will compare the results against its massive data stores from MSK and elsewhere, and suggest potential options for targeted therapies.
+Pathologists from Quest will then review the findings, validate the results, and send a final report back to the treating clinician, who can decide which path to pursue alongside their patients.
+“We now know that genetic alterations are responsible for many cancers, but it remains challenging for most clinicians to deliver on the promise of precision medicine since it requires specialized expertise and a time-consuming interpretation of massive amounts of data,” said Paul Sabbatini, MD, Deputy Physician-in-Chief for Clinical Research, Memorial Sloan Kettering Cancer Center.
+“Through this collaboration, oncologists will have access to MSK’s expertly curated information about the effects and treatment implications of specific cancer gene alterations. This has the power to scale expertise and help improve patient care.”
+Watson for Genomics ingests around 10,000 scientific articles and data from 100 clinical trials every month, IBM says.  The service has already produced promising results in deployments from the United States and around the world.
+The supercomputer’s diagnostic capabilities mirror the accuracy of human oncologists, IBM announced in June, agreeing with clinicians around 90 percent of the time when suggesting treatment options for common conditions including lung, colon, breast, and rectal cancers.
+“The beauty of Watson is that it can be used to dramatically scale access to knowledge and scientific insight, whether a patient is being treated in an urban academic medical center or a rural community clinic,” said John Kelly III, PhD, senior vice president, IBM Research and Cognitive Solutions.
+“Through this collaboration with the cancer community’s leading clinical and pathology experts, thousands of more patients can potentially benefit from the world’s growing body of knowledge about this disease.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareGenomicsMachine LearningPersonalized MedicinePrecision MedicinePredictive Analytics
+
+

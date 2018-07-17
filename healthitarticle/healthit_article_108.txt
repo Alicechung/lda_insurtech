@@ -1,0 +1,29 @@
+Lean Methodology Boosts EHR Documentation Quality, Efficiency
+
+April 18, 2018
+
+By Jessica Kent
+April 18, 2018 - Applying Lean methodologies to an inefficient, first-generation electronic health record (EHR) system could enhance EHR documentation quality and efficiency, increase patient care time, and improve both provider and patient satisfaction, according to a study published in AHIMA’s Perspectives in Health Information Management.
+Led by Maryane M. Dinkins, MS, PT, the research noted that many healthcare professionals are concerned that EHR use is obstructing quality care although one of the primary goals of an EHR is to provide clinicians with timely, accurate, and complete patient data,.
+“A major concern among clinicians is that EHR adoption can interfere with practice productivity,” Dinkins et al. wrote. “Studies have shown that clinicians spend extra time entering data in the EHR, and it can negatively affect the time spent on patient care.”
+Dig Deeper
+EHR, Health IT Spending Rises as Provider Satisfaction Drops
+EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+Pew: EHR Usability Concerns May Still Impact Patient Safety
+Early adopters of EHR systems recognize that these products have inherent design and process limitations, and often seek to reevaluate or replace earlier versions of EHRs.
+Therapists at Mayo Clinic Rehabilitation Services identified persistent issues with their first-generation EHR system, primarily with its poorly designed documentation template.
+The template required therapists to choose from eight forms in the EHR, based on discipline (e.g., occupational therapy physical therapy) and location of services (e.g., hospital, clinic). Both the hospital and clinic templates included additional sections that went unused by providers.
+The research team set out to implement Lean methodologies to drive quality improvements within the system and streamline the documentation process, including efforts to reduce the content in the current template and incorporate input from Mayo staff.
+Researchers also met with a member of the IT department to create customized documentation templates based on discipline and location.
+After implementing Lean methodologies, researchers found that EHR use time decreased from 2.8 hours per day to 1.9 hours per day per therapist while patient care time increased from 53 percent to 71 percent.
+Overall improvements in therapists’ job satisfaction went from 17 percent to 97.4 percent. External stakeholders, including physicians, nurses, and case managers, reported an increase in satisfaction from 43 percent to 80.3 percent, related to improved readability of therapy documentation and better communication.
+The results show that it is beneficial to facilitate a collaborative environment and allow end users to provide their input on documentation content and design.
+“By engaging staff participation from the beginning of this project, we facilitated acceptance of the process and have not experienced resistance to change,” Dinkins et al. said.
+The team also pointed out that provider productivity increased due to the implementation of an electronic check of compliance with regulatory requirements. These requirements can be burdensome and distracting, and allowing therapists to check them electronically rather than manually saves them time and unnecessary effort.
+The team noted that the inefficient process of approval from the IT department posed a significant barrier to the project. Having a member of the IT department on the research team who could provide information on available resources minimized the issue.
+Still, researchers emphasized that this could be an effective strategy for organizations seeking to improve their inefficient EHR systems. Once the team had established the framework for the project, the programming changes required less than 60 hours of IT resources and minimal external resources.
+“This implementation of Lean methodology applied by Mayo Clinic Rehabilitation Services proved to be an effective approach to identify inefficiencies in the first-generation EHR documentation templates and processes,” Dinkins et al. concluded.
+“A similar quality improvement process may be applicable and relevant to other multidisciplinary clinical settings that are experiencing staff dissatisfaction and reduced productivity due to lengthy interaction with an EHR.”
+Tagged EHR Data QualityEHR functionalityEHR UsabilityPatient OutcomesPatient SatisfactionProvider Communication
+
+

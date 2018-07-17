@@ -1,0 +1,36 @@
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+
+September 08, 2017
+
+By Jennifer Bresnick
+September 08, 2017 - Healthcare data analysts frustrated by the lack of access to large volumes of clean, trusted, and complete patient data can now take advantage of an open source EHR data generator platform called Synthea.
+One million synthetic patient records are currently available within the free online system, which uses HL7 FHIR to allow access to standardized datasets that mimic real electronic health records. 
+The wealth of easily accessible data may be a boon for the growing fields of machine learning and artificial intelligence, which require access to significant amounts of big data in order to train for clinical decision support, predictive analytics, and other patient care applications.
+The repository of “realistic but not real” patient records aims to help researchers avoid data integrity issues, as well as the inherent privacy and security pitfalls of using real patient information, even when deidentified, said the development team leading the project in an article published in JAMIA.
+“There is an especially high risk of harm from public disclosure and identification of individuals resulting from the release or use of anonymized health records, and multiple examples of re-identification of these records have already been observed and publicized,” wrote a group of researchers from the non-profit MITRE Corporation and the HIKER Group, which includes members from University of Montana, Macquarie University in Australia, and Massey University in New Zealand.
+READ MORE: FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+“Backlash from these breaches reduces the number of anonymized datasets available for research and development both directly and indirectly, by ad hoc and perfunctory legal remedies that place unrealistic burdens on users to safeguard data. A minefield of legal concerns and policy frameworks effectively prevents research and learning.”
+Most existing methodologies for creating sample EHR data still rely on real patient information in some way or another, explains the team, and retain the theoretical risk of re-identification. 
+Instead of mixing and matching proprietary datasets or information extracted from protected health information (PHI) subject to HIPAA regulations, the team started with publically available datasets to create the Publicly Available Data Approach to the Realistic Synthetic EHR (PADARSER).
+Source: JAMIA
+“PADARSER emphasizes the use of publicly available health statistics, assumes that access to the real EHR is impossible, makes use of clinical guidelines or protocols in the form of care maps, and employs methods that guarantee inherent realistic properties in the resulting synthetic EHR, making them sufficient enough to replace real records for secondary uses that require realistic but not real EHRs,” the team says.
+Care maps are created based on accepted clinical pathways, and populated with data from medical coding dictionaries, backed by incidence and prevalence statistics, to flesh out realistic progressions through a lifetime of plausible conditions and events. 
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+The system relies on probability mathematics to determine whether each simulated individual will develop mild or severe forms of diseases such as diabetes.   
+“For example, the probability of a diabetic patient developing mild eye damage is determined by a ‘roll of the dice’ recurring at each timestep,” explains the study. 
+A “timestep” is a unit of time, defaulting to a seven-day period, that provide markers for events as the patient moves through his or her theoretical life.
+“Once mild eye damage occurs, nonproliferative retinopathy can develop based on a second probability distribution per timestep, which can develop into proliferative retinopathy based on a third probability distribution, eventually leading to macular edema and blindness – each with its own probability distribution per timestep,” the authors continued.
+“In general, each run of Synthea is different due to the probabilistic nature of the simulation – the dice rolls come out slightly different each time.”
+Source: JAMIA
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+This strategy allows for a realistic spread of severity – and a variety of appropriate clinical treatment choices – among patients experiencing each condition.
+Data can also be generated and sorted by eleven types of “clinical state,” which represent the start or end of an acute condition, the beginning or discontinuation of a medication, a clinical encounter, a procedure, or the end of life.
+The faux EHR is generated with coded entries in FHIR, which allows researchers and application developers to connect with the data easily for a variety of secondary uses.  Data can also be downloaded in other commonly used formats, including C-CDA and CSV.
+“We are aware of several academic researchers performing validation on the data, as well as analytics, in their student projects,” said the team. “We are also aware of several health IT vendors in the FHIR community using the data for development, testing, and public demonstrations of their FHIR-based apps.”
+The system is still undergoing some adjustments to ensure that the fictitious patients do not over- or under-represent common conditions, such as diabetes and the complications thereof. 
+Because the platform is an open source project that encourages collaboration from developers across the industry, the lead team has high hopes for future refinements and adjustments.
+“We hope to add more disease modules with collaboration within the health IT and clinical communities,” the developers said. “Our aim is to scale horizontally by positioning the clinical community to iteratively contribute care maps and knowledge (as generic modules) to help produce increasingly realistic patient data for their medical specialties and therapeutic areas.”
+“The quality of synthetic data will improve over time and become increasingly realistic with community contributions.”
+Tagged Analytics InfrastructureClinical AnalyticsEHR Data AnalyticsEHR Data MiningFast Health Interoperability ResourceFHIRMachine Learning
+
+

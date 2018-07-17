@@ -1,0 +1,30 @@
+How the Center for Diagnostic Imaging uses big data analytics
+
+November 07, 2013
+
+By Patrick Ouellette
+November 07, 2013 - Looking at how healthcare organizations use big data analytics through the lens of a specific technology such as imaging can help provide insight into that various ways in which these organizations not only collect and manage large data sets, but get great value out of them as well.
+iHT2′s recent “Big Data = Big Opportunities” webcast offered some big data analytics use cases as well as current industry trends. In addition to electronic health records (EHRs) as a whole, more and more imaging data is being collected and analyzed. Steve Fisher, CIO, Center for Diagnostic Imaging, which has 115 centers across 24 states and tries to concentrate on delivering actionable information back to customers. Fisher cited a few ways in which CDI takes advantage of big data analytics opportunities.
+Clinical decision support (CDS) – CDI is working with the American College of Radiology through their National Decision Support Group to implement CDS with the benefit of eliminating pre-certification with the exemption of having gone through CDS.
+Change from fee-for-service to quality value – CDI has participated in accountable care organizations (ACOs).
+Dig Deeper
+Value-Based Care Fuels Healthcare Big Data Analytics Market
+AMIA: NIH Should Focus on Data Exchange, Access in Science
+Epic EHR, Big Data Tools Bring 2016 HIMSS Davies Award to Mercy
+Optimization and tracking – Fisher said CDI is making more efforts to reduce costs and increase operational efficiencies by “doing more with less”.
+More data available to clinicians – He asked how an organization such as CDI can provide data that’s relevant to these clinicians in a timely fashion so they don’t have to go through screens and screens of information before getting to where they want to go?
+Image storage – Fisher said CDI is working with vendors on collecting computer-assisted diagnoses data, such as mammography computer-aided detection (CAD)
+Presentation opportunities – CDI may have the ability to do more work with server-side rendering and presentation though thin clients or Web-type applications.
+Revenue cycle management – The ability to forecast and ask questions about profitability is valuable to CDI and Fisher.
+At the end of the presentation, the presenters were asked what the major healthcare big data challenges were and Fisher and Chris Gough, Lead Solutions Architect, Intel Health & Life Sciences offered their perspective on a few of the big issues.
+Gough said to have a plan and ensure you have a robust data management policy
+Organizations need to start with a real business problem or use case that you want to solve. And many organizations have issues with how quickly their data volume is growing, but don’t delete or decommission data and instead keep every byte of data they’ve ever had stored in their system.
+Steve said two key roadblocks in his mind are data normalization and healthcare regulations.
+We have a lot of partnerships and there are great extract, transform, load (ETL) tools out there, but people still need to understand what the data is and we’re still talking apples to apples. And there are many regulations in healthcare that we’re in reactionary mode: Need to be proactive about the collection and best uses of big data to drive good outcomes. Need to decide if you have the resources to collect and use big data in the right way.
+Big data variety
+Gough added that it’s not just about volume of data, but also about the rapid pace in which these data sets are growing. Gough also referenced the famous big data three Vs – volume, variety and velocity – and focused on “variety” in relation to unstructured data.
+In most healthcare organizations, according to Gough, the analytics and business intelligence (BI) infrastructures know how to deal with structured information. And generally the same thing goes for applications such as EHRs, which are stored in a relational database. The software that runs on top and does the analytics knows exactly what each element is and where to find it. But some of the largest data growth areas are with unstructured data, such as images or other files that aren’t broken into well-defined fields.
+Another area is doctors’ notes, which can be a free-form text field in the EHR inside the relational database, which can be hard to extract value out of. Many analytics systems are “batch” in nature, used across a multi-organization network, which would likely be a day old. How can you do this faster and get information in real time?
+Tagged Big DataBig Data Analytics
+
+

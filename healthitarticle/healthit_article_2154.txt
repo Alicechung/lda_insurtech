@@ -1,0 +1,17 @@
+EHR algorithms are 87% successful in identifying MS patients
+
+December 16, 2013
+
+By Jennifer Bresnick
+December 16, 2013 - A combination of ICD-9 codes, natural language processing, and medication analysis has led researchers from Vanderbilt University to a series of algorithms with an 87% precision rate in identifying key clinical traits of patients with multiple sclerosis (MS).  Using the deidentified data of more than 5000 patients, the team was able to extract information on the clinical course of MS in individuals, which can be used for further study of the highly variable and unpredictable disease.
+While much time and effort has been devoted to discovering the genetic or environmental origins of MS, few studies have been able to draw on data during the progression of the illness due to a lack of analytics tools able to pull information from the EHR.  Using commonly available clinical documentation, including free-text data, billing codes, and prescribed medications, Mary F. Davis and colleagues were able to identify the clinical subtype of MS and the year of first symptoms and diagnosis with 87% precision and greater than 80% specificity.
+“Extracting data manually from medical records is tedious, time-consuming work that is prone to human error” the JAMIA study states. “The advent of EMR provides an opportunity to drastically shorten the time required to extract relevant medical information and decrease human error.  The advent of EHRs provides an opportunity to drastically shorten the time required to extract relevant medical information.”
+Data drawn from a record bank held by Vanderbilt University Medical Center was subjected to analysis using four previously published algorithms to identify key clinical terms within the documentation.  Information about the timed 25-foot walk, an important measure of MS-related disability, has been collected in a structured field since 2008, the study reports, but has also been available in the free-text narrative since 1999.  “To capitalize on the longitudinal aspect of timed 25-foot walks before structured values were available in 2008, we selected notes, then lines of text, from the clinical notes that mentioned ‘timed walk’, ’25 feet’, or ’25 foot’,” the study explains.  “Times were extracted and recorded in seconds.  The final output of this algorithm also noted if a walking aid (e.g., cane) was mentioned.”
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+The team used the same method of scanning surrounding characters for clues to important phrases to gather other data elements, as well, from a mix of structured and unstructured text.  The results were then reviewed independently by a neurologist, who confirmed the high degree of accuracy produced by the algorithms.  The researchers are confident that their method is applicable to other diseases and other EHR structures, and can help speed up medical research by providing automatic extraction of large volumes of highly accurate clinical data.
+Tagged Applied AnalyticsClinical AnalyticsMedical ResearchPatient CareQuality Of Care
+
+

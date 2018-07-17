@@ -1,0 +1,31 @@
+Bitswift to Join the Ardor Platform as a Child Chain
+
+July 12, 2017
+
+Ardor is a platform that allows organizations to create their own blockchain with processing and security provided by the parent Ardor chain. Bitswift is a combination of community and companies collectively working together to promote digital lifestyles in a manner that is beneficial to society as a whole. Jelurida is the company behind the Nxt and Ardor blockchain platforms.
+
+ Jelurida BV, the holder of intellectual property rights for Nxt software and the Ardor platform today announces that Bitswift will be added to Ardor, a blockchain-as-a-service platform that allows organizations to create a blockchain without worrying about development or network security.
+
+ The Ardor platform incorporates Nxt’s features and a unique architecture that prevents blockchain bloat through pruning where transaction records on child chains are removed from the parent platform when the information is no longer relevant to interested parties. Bitswift joins Ignis in the first batch of child chains to be launched when Ardor is released later this quarter.
+
+ To prepare for the launch of its child chain, Bitswift will be allowing users on their own blockchain to swap their coins for an equivalent amount of the Bitswift Asset to be created on the Nxt blockchain later this month. As part of the Ardor Genesis Snapshot, Jelurida will record the Bitswift asset balances and allocate Bitswift child chain coins at a 1:1 ratio, to the same accounts on the Ardor platform.
+
+ Bitswift users will be able to re-use their Nxt passphrase to access their account on Ardor. Additionally accounts with Ignis coins will also receive 10% of the supply of Bitswift coins relative to their Ignis holdings. Further details about the swap will be announced by the Bitswift team in the coming weeks.
+
+ Paul Busch, Founder of Bitswift: Bitswift wants to ensure the security and longevity of their tokens. By migrating them to a secure blockchain infrastructure such as Ardor, the Bitswift team can focus on utility applications for the Bitswift tokens rather than on blockchain infrastructure dealings which is a beast of its own.
+
+ Through migrating to the Ardor platform we inherit a wealth of options for our tokens, most notably a fully featured API from which we can build out applications to provide extended utility for our tokens.Lior Yaffe, Managing Director of Jelurida B.V.: We are excited to see more and more organizations interested in using Ardor.
+
+ With Bitswift taking the leap and being the first confirmed child chain to join Ignis, we are sure this will encourage others to use Ardor as infrastructure for their decentralized applications, whether as a child chain, an asset, or through one of the many features publicly available on the Ignis child chain. Jelurida and BitSwift are also expressing their gratitude to the Nxt Foundation for its help and mediation which made this collaboration possible.
+
+ About Jelurida
+
+ Jelurida sells licenses for private blockchains based on the Nxt and Ardor software, makes customized commercial versions of these blockchain platforms, and provides consulting services for customers licensing its software. Using a dual-license business model, Jelurida continues to support and maintain the decentralized public blockchains. You can learn more about Jelurida at jelurida.com
+
+ About Bitswift
+
+ Bitswift is a combination of companies and community working collectively together to promote healthy digital lifestyles. Bitswift Technology Solutions Inc deals with physical expansion and brand recognition through Bitswift.tech reps, while digital dealings are mostly token and online community related and handled by Bitswift Decentralized Applications Inc. In short Bitswift is a B2B / community token with physical presence. You can learn more about Bitswift at bitswift.info.
+
+ Press Contact: John Mcleod JEA Associates, Tel: 0044 7886920436 E-mail: john@jeaassociates.com
+
+

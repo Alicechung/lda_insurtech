@@ -1,0 +1,26 @@
+Machine Learning-as-a-Service Poised for Healthcare Growth
+
+December 22, 2016
+
+By Jennifer Bresnick
+December 22, 2016 - Healthcare organizations interested in engaging in the world of semantic computing may be able to do with less effort and lower costs as the Machine Learning-as-a-Service (MLaaS) market grows from $480 million in 2015 to nearly $5.4 billion by 2022.
+With a predicted compound annual growth rate of 41.2 percent, the MLaaS market may help providers access the natural language processing and artificial intelligence tools becoming increasingly important for advanced big data analytics, risk stratification, consumer engagement, and value-based care.
+The report by Statistics MRC identifies healthcare as an industry where machine learning is likely to take root, furthered by growing interest in the Internet of Things, cloud computing, and the need to drastically improve consumer relationships.
+Tight organizational budgets and limited talent pools will likely drive providers to engage third-party “as a service” partners across a number of infrastructure areas.  Healthcare organizations are likely to look for customized solutions that adhere to the strict privacy and security requirements that structure the healthcare landscape.
+Dig Deeper
+AI, Machine Learning as a Service Set to Overhaul Healthcare
+IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+Machine Learning in Healthcare: Defining the Most Common Terms
+The anticipated leading players in the Machine Learning-as-a-Service field are already familiar to healthcare stakeholders investigating the role and capabilities of big data analytics, semantic computing, and artificial intelligence tools. 
+Microsoft, IBM, Amazon Web Services, HP, and Google are among the companies predicted to offer the most attractive MLaaS tools.  Many of these companies are already heavily invested in the healthcare industry, addressing issues ranging from vision care and cardiovascular disease to kidney injuries and cancer.
+The development of machine learning will also play a role in the growth of the predictive analytics sector, which is likely to reach $19.5 billion by 2025, according to Research and Markets.  
+As the Internet of Things begins to bring more and more data into the healthcare environment, providers will start to be able to use this information to drive down costs and improve the patient experience.
+Predictive modeling based on these innovative sources of information will be critical for achieving these goals.  Due to the highly variable and unstandardized nature of IoT data, advanced machine learning capabilities will likely be required to synthesize multiple data streams and generate actionable insights that can be used to directly improve outcomes and streamline the process of delivering patient care.
+Key players in the predictive analytics market segment will include IBM, McKesson, SAS, Oracle, Cerner, Allscripts, MedeAnalytics, and Optum Health, the report forecasts. 
+Many of these companies operate almost exclusively in the healthcare industry, which may afford them an edge when attempting to apply machine learning techniques to the unique and highly fragmented environment of health data.
+Vendors that are able to deliver intuitive and interoperable insights in as close to real-time as possible are likely to find favor with busy healthcare providers seeking actionable data at the point of care.
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareMachine LearningSemantic Computing
+
+

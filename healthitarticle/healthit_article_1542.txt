@@ -1,0 +1,25 @@
+72% of Stage 2 Meaningful Use Hospitals Report on Public Health
+
+March 13, 2015
+
+By Jennifer Bresnick
+March 13, 2015 - Nearly three quarters of hospitals that have attested to Stage 2 meaningful use reported on all applicable public health measures in 2014, including sending data to patient immunization registries and syndromic surveillance programs as well as submitting electronic laboratory results to their local public health agencies.
+A new data brief from the Office of the National Coordinator shows that Stage 2 meaningful use hospitals are participating in data exchange and public health reporting programs at significantly higher levels than their Stage 1 counterparts.
+While Stage 1 of the EHR Incentive Programs was primarily focused on encouraging healthcare providers to implement and adopt electronic health record technologies, the second stage requires eligible organizations to make use of those technologies to improve interoperability and conduct health information exchange.  Public health data reporting was optional during Stage 1, but became mandatory in 2014 with the beginning of Stage 2 meaningful use.  Data exchange activities are particularly important for population health management, which requires a community-wide set of big data in order to perform clinical analytics and patient risk stratification.
+“Promoting electronic information exchange with public health agencies will enhance public health’s ability to monitor population health, identify disease outbreaks earlier, and facilitate better case management for individuals with diseases of public health concern,” the data brief says. “Prior to CMS’ EHR Incentive Program, exchange of public health information was not standardized and public health agencies received data from hospitals through automated and manual systems. By coupling incentive payments to the use of certified health IT, the Incentive Program increased uptake of certified health IT systems that used similar standards for information storage and exchange.”
+Dig Deeper
+Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+Predictive Analytics, Care Management Combine for Value-Based Care
+How Does the ONC Define HIE, Value-Based Care, Population Health?
+The ONC has released the following data points tracking the growth of public health reporting among eligible hospitals:
+• Seventy-two percent of hospitals attesting to Stage 2 reported on all applicable public health measures without exclusions in 2014.  Just 5 percent of hospitals attesting to Stage 1 during the same year completed the same reporting.
+• Seventy percent of hospitals that administer vaccinations reported that data to their local immunization registries electronically.  In Vermont, 100 percent of hospitals conducted electronic immunization reporting.
+• Only nine percent of local immunizations registries could not accept electronic data from Stage 2 hospitals.  Those hospitals were eligible to claim an exclusion from the measure.
+• Forty-eight percent of hospitals nationwide that provide urgent care services reported syndromic surveillance data to their local public health authority through their EHRs.  At least 75 percent of hospitals in New Jersey, Ohio, Hawaii, North Carolina, Wyoming, New Hampshire, and the District of Columbia were able to meet this measure.
+• During Stage 1, three-quarters of hospitals did not select electronic syndromic surveillance data as one of their optional reporting measures.  In Stage 2, three-quarters of hospitals did select and report on this data.  However, 20 percent of hospitals could not participate in this type of reporting due to the inability of their local public health agencies to receive the information.
+• Fewer than half of all eligible hospitals attesting to either stage could electronically submit reportable laboratory results to their regional public health agencies.  Massachusetts reported the highest proportion of hospitals able to complete this measure, at 86 percent, while no hospitals in Connecticut or the District of Columbia were able to participate in 2014.
+• Eight-five percent of Stage 2 meaningful use hospitals completed the electronic laboratory results requirement compared to just 14 percent of Stage 1 hospitals.  The 15 percent of Stage 2 hospitals that did not participate were limited by their public health agency’s inability to collect the data.
+“Public health agencies continue to make strides toward facilitating electronic reporting by hospitals,” the report concludes. “the data presented in this brief demonstrate a significant difference in hospital reporting trends when reporting is optional, as in Stage 1, to when reporting is required, as in Stage 2. As more hospitals shift to Stage 2 in coming years, it can be expected that electronic exchange between hospitals and public health agencies may increase.”
+Tagged Health Information ExchangeMeaningful UsePopulation Health Management
+
+

@@ -1,0 +1,20 @@
+“The future of identity is going to be far more pragmatic than people might think…”
+
+December 12, 2017
+
+NIGEL VERDON, CEO and founder of Railsbank
+
+ Ensuring identity safely and securely is a key topic for our sector, and there are going to be many changes over the next five years. But, when people ask how I see identity processes changing over the coming years, it’s really the wrong question.
+The question should really be re phrased ‘what technologies are the financial regulators happy with’ or, more precisely, ‘what technologies are banks and financial services firms happy with, that they feel they will comply with the regulator.’ This is the more pragmatic question and is based more on the realities of the environment in which we operate, as opposed to a possible wish list.
+As for which identity processes show the most promise, I would say that behavioural biometric technology has great promise for both authentication and also fraud detection, so it’s much more useful than others. And that includes voice recognition technology, which I’m not convinced that people like, to use unless they are alone. Which leads me to suggest that if I was given a choice between the different types of identification currently available (for example, IRIS scanning, finger prints, voice recognition, or behavioural methods), I would say that finger prints and behavioural are the best solutions which match how most people behave.
+Others are too intrusive and are simply not sensible in a public environment. And how this will be helped in emerging markets depends on the devices, in other words the smart phones, that are available at the moment. Moving on, when we’re asked how we are going to evaluate the upcoming changes in identity regulation (GDPR and PSD2) and what they mean for your business, we’re quite clear about our answer: “no comment.” We’re not being evasive, it’s just that the key issue for us is that the regulator is still issuing ‘consultation papers’ on the issues and has not yet given clear guidelines. Until we have clear guidelines, our answer will remain the same.
+If we switch for a moment on the top five trends that are driving the future of payments, I would say that they are, in this order:
+• instant bank transfer (e.g. SEPAinstant) and migration of e-commerce to this (e.g. via PSPI);
+
+ • free payment business models in exchange for the transaction data;
+• compliance data payloads embedded in payments (e.g. to comply with wire transfer regulations);
+• regulators opening up payment schemes to non-banks;
+• SWIFT network adopting blockchain.
+As a final word, the future of identity is going to be far more pragmatic than people might think. Fanciful solutions are out there and will continue to be developed, but at the end of day, it’s the solution that works across the mass market that will become finally adopted.
+
+

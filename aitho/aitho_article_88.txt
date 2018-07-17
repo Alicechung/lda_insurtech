@@ -1,0 +1,16 @@
+2ndQuadrant Announces Distributed Storage Platform For The Internet Of Things
+
+09 Jul 2018
+
+The IoT solution from 2ndQuadrant enables highly available PostgreSQL databases for on-premise, cloud, & edge devices
+2ndQuadrant today announced a distributed storage platform for the Internet of Things based on Postgres-BDR.
+Statista estimates that there will be 30 billion connected devices by 2020 (1). To capitalize on this opportunity, enterprises are increasing Internet of Things solution deployments. 2ndQuadrant offers a highly available, distributed storage solution for the Internet of Things to cater to common industry requirements. These requirements include scalable and flexible deployment models, powerful analytics features, and support, for complex data models such as Time Series and Spatial.
+The IoT Solution by 2ndQuadrant offers support for Time Series data, enabling fast reads & writes, real-time query performance, and database scalability to petabytes. Geo-Spatial data can also be stored, managed, and analyzed easily with the PostGIS extension.
+Follow Us
+Another notable feature of the 2ndQuadrant IoT Solution is the ability to run Machine Learning and Artificial Intelligence models for predictive analytics, anomaly detection, and efficiency improvements of products and services.
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+The IoT Solution guarantees up to 99.999 percent availability using geo-distributed multi-master replication and is backed by the world-renowned SLA-based Production Support from 2ndQuadrant. Additionally, it ensures data security, privacy and protection for business-critical data by complying with local data protection and privacy laws.
+2ndQuadrant will continue to evolve its Internet of Things platform to cover the requirements of customers as technology advances.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+
+

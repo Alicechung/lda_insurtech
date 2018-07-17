@@ -1,0 +1,37 @@
+Robo-advice tech, a ‘nightmare’ for FinTech
+
+September 7, 2016
+
+Gilbert Van Roon, chief executive officer of Fintech Compliance, believes that chasing the robo-advice dream can be a regulatory nightmare for financial technology entrepreneurs.
+
+ Picture a world where the first thing you hear each morning is the voice of Siri calmly informing you that your investment portfolio has increased by 10% overnight. Siri then asks if this has changed your risk appetite, informs you of specific investments you might be interested in and adjusts your portfolio according to your wishes. You then have coffee and think that the Maldives might be a nice place to retire.
+
+ This is the perfect robo-advice dream and at the moment a very distant one. Those developing automated investment advice offerings – even with more modest ambitions – face more than just an ingenuity challenge: they also have to overcome some serious regulatory hurdles. One example is whether suppliers of robo-advice are providing regulated advice or merely guidance. Financial advice in the UK is a regulated activity under the Regulated Activities Order 2001 (RAO) and the Markets in Financial Instruments Directive (MiFID).
+
+ Under the Regulated Activities Order, financial advice is defined as offering an investor advice on the merits of dealing in a particular investment. If I tell you to buy shares in BP, I have given you advice. If I tell you to sell shares in oil, this is not specific to a particular investment and so is guidance. So far, so good.
+
+ In contrast, the definition of advice under MiFID is much narrower. If I tell you that it would be a good idea to buy shares in BP tomorrow then this is advice under the RAO.  However, under MiFID, I have not presented these shares as suitable for you or made any consideration of your circumstances.
+
+ So we have a situation in the UK where there are two pieces of regulation defining the same concept in very different ways. This presents an issue for robo-advice providers as the same standards apply whether a human or a machine is providing the service and there are criminal sanctions for providing financial advice without permission from the FCA.
+
+ Most models of robo-advice today are based on algorithms whereby the customer answers questions on matters such as their risk appetite and income. The algorithm, like a decision tree, then produces what it sees to be an appropriate portfolio.
+
+ The FCA takes a view that a decision tree is a tool for providing advice. Therefore, whether a robo-adviser is giving benign guidance or regulated advice depends on context. Algorithms that recommend a list of shares to suit the customer’s criteria are likely to be defined as advice under the RAO, even if the choice is left entirely up to the customer and the algorithm is effectively acting as a glorified search engine. This is because the act of narrowing down the selection to shares that could be suitable for the customer can be deemed to be advice on the merits of particular shares over another.
+
+ All very well for a human to state this and emphasise it appropriately but when was the last time you read the terms and conditions for iTunes or a similar service? Start-up robo-advice services are therefore faced with a stark choice. Either pursue authorisation from the FCA, or face the serious risk that the robo-advice will be deemed regulated advice rather than guidance.
+
+ Fortunately, the Financial Advice Market Review, released in March, highlighted two ways to improve the situation.
+
+ Firstly, the report recommended that the definition of advice in the RAO be changed to be closer to the definition under MiFID. This would mean advice would universally require a personal recommendation to be regulated.
+
+ Secondly, the report recommended that the FCA create a specialist unit to assist robo-advice providers to navigate regulation on a case-by-case basis. This unit opened in May 2016 so my dream of financial advice from Siri could become a reality after all.
+
+ That said, I am cautious about stating that robo-advice’s regulatory problems are over given that technology can move faster than regulation.
+
+ When Google’s DeepMind artificial intelligence program AlphaGo beat 18-time world Go champion Lee Seedol in March this year, it was a watershed for artificial intelligence and the power of machine learning. This has implications for financial modelling, robo-advice and the legal and regulatory issues related to liability.
+
+ If a program is capable of producing outcomes its programmers do not predict, who bears the cost if something goes wrong? The programmers, the operators, or the client? It reminds us that the regulatory challenges for robo-advisers will be ongoing.
+
+ By Gilbert van Roon, CEO of FinTech Compliance
+
+

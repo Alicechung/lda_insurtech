@@ -1,0 +1,17 @@
+Online predictive analytics simulator tackles ED bottlenecks
+
+June 12, 2014
+
+By Jennifer Bresnick
+June 12, 2014 - While the emergency department exists primarily to handle the unexpected, healthcare organizations don’t have to rely on a wait-and-see approach in order to properly allocate staff members, open beds, and other resources.  Researchers at the University of Florida have developed a predictive analytics simulator to target the primary causes of inordinate wait times: a lack of free beds, a glut of low-acuity cases, and busy physicians who are not always available where they are needed most.
+Available online for free and requiring nothing more than a laptop and a web browser, the simulator models the flow of patients through a virtual emergency department that can be configured to the user’s specifications.  The research team used data from a 2012 Academy of Academic Administrators in Emergency Medicine (AAAEM) study to establish parameters for an average setting, but users can add or subtract nurse and physician availability, the number and types of beds, boarding and discharge times, and other key features of a typical facility.
+“Emergency department crowding is a complex problem affecting more than 130 million patient visits per year in the US,” writes lead author Joshua E. Hurwitz in the study, published in BMC Medical Informatics and Decision Making.  “As expected, when the model is equipped with realistic parameters, we see pervasive ED crowding. In the current world of scarce resources and little margin for error, it is essential to rigorously identify the speciﬁc causes of crowding, so that targeted management interventions can have maximal effect. Our model can predict and quantify how a particular ED will respond to a given ‘what if’ scenario.”
+After running the simulation, a user can browse statistics such as arrival-to-exit time per patient, revenue generated per patient, patients per physician per hour, average expected wait times, admission percentages, and a slew of other metrics that can help administrators pinpoint staffing problems and shift resources towards areas of higher need.
+Dig Deeper
+93% of Payers, Providers Say Predictive Analytics are the Future
+Clinical Analytics Studies, Partnerships Target Personalized Care
+EHR, Lab Data Support Pediatric AKI Analytics Dashboard
+“One of the recurring observations in our investigation is that each simulated environment has its own dominant resource bottleneck,” the study points out. “Further highlighting the importance of quantiﬁed predictions, we found that adding a suite of resources is no more effective than adding a single, well-targeted resource.  Simulation of EDs does more than confirm management institutions.  Having a comprehensive view of patient flow can help construct a system-wide understanding of what given management interventions actually accomplish.”
+Tagged Applied AnalyticsBig DataClinical AnalyticsPredictive Analytics
+
+

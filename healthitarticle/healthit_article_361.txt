@@ -1,0 +1,33 @@
+Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+
+September 05, 2017
+
+By Jennifer Bresnick
+September 05, 2017 - A machine learning algorithm using protein biomarkers to identify Alzheimer’s disease was able to accurately identify imaging studies of patients progressing into dementia 84 percent of the time, according to a new study published in the journal Neurobiology of Aging.
+The algorithm, developed by a team from the Alzheimer's Disease Neuroimaging Initiative (ADNI), extends the typical prediction range by several months, reliably predicting cognitive decline up to two years in the future.
+A working sample of how the algorithm functions is available online, allowing users to dynamically change input parameters and view expected results.
+In addition to giving patients, caregivers, and providers more lead-time to plan for long-term care needs, more accurate predictive analytics around the development of dementia could be a boon for clinical trials.
+“Given the high prevalence of cognitively normal elderly individuals carrying the Alzheimer's disease pathophysiology, accurately identifying individuals who are in the early stages of Alzheimer's disease has been a significant challenge,” explain the researchers.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+Mild cognitive impairment (MCI) is common among older adults, and often – but not always – acts as the first clinical indicator of the development of Alzheimer’s or other forms of dementia.
+“Not all MCI individuals carry Alzheimer's disease pathophysiology and progress to Alzheimer's disease in an optimal time frame for clinical trial,” the article points out.
+“Thus, identification of biomarker signatures of MCI individuals on the verge of progression to dementia and predicting the likelihood of conversion has immediate application in disease-modifying clinical trials by including those individuals with high likelihood to progress.”
+Rapid progress in the field of machine learning has opened up valuable new opportunities for researchers and developers looking to diagnose patients with health changes as quickly as possible or route patients into appropriate clinical trials that may be hard to fill.
+The algorithm was trained to look for differences between elderly patients with expected, age-related stable MCI (sMCI) and those with progressive MCI (pMCI) based on the regional information from a single amyloid positron emission tomography (PET) scan.
+Source: Neurobiology of Aging
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+The tool used big data from the ADNI databank to look for certain levels of a protein called brain amyloid-β in each patient.  Build-up of the protein, visible in PET imaging studies, can indicate the progression of individuals from MCI to full dementia.
+The ADNI team used a random forest classifier alongside a data sampling technique called “random undersampling,” which compensates for unevenness in the dataset by ensuring that both the majority and minority classes of patients are equally represented in the training data. 
+Because just 15.75 percent of the 273 patients included in the study were diagnosed by human clinicians as having progressive cognitive impairment after a 24-month period, it was important to ensure equal representation in the analytics for this group.
+The machine learning tool agreed with the human diagnoses in 84 percent of cases, which is a higher performance rate than other similar algorithms, the authors said.
+“With its high accuracy, this algorithm has immediate applications for population enrichment in clinical trials designed to test disease-modifying therapies aiming to mitigate the progression to Alzheimer's disease dementia.”
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Machine learning is quickly becoming the go-to technology for predictive analytics, diagnostics, and clinical decision support applications.  From more accurate sepsis prediction and ICU decision support to the accurate interpretation of cardiology tests and faster, cheaper pharmaceutical discovery, highly sophisticated analytics are starting to become valuable partners for clinicians, researchers, and pathologists.
+Imaging analytics, such as the PET scan analysis in the ADNI study, are proving particularly fruitful.  Machine learning algorithms have become more and more adept at identifying subtle changes in pathology slides and imaging studies, offering the ability to analyze data on a pixel-by-pixel basis with higher reliability and increasing speed.   
+Studies and research initiatives from top organizations including UCSF, the Icahn School of Medicine at Mount Sinai, and Case Western Reserve University have produced algorithms that approach the diagnostic accuracy of human radiologists, cardiologists, and pathologists, while vendors and developers such as IBM, Microsoft, and Google are pouring vast resources into being the first to create true artificial intelligence for the healthcare industry.
+The team from ADNI envisions that its work could be used as a diagnostic aid for patients exhibiting signs of cognitive decline. 
+“By evaluating the performance of the prediction model based on a completely independent testing set, we can retrieve the true expected performance of the model when used in a clinical environment as an early diagnostic tool,” the study concludes.
+“Identifying the relative importance of amyloid-β deposition in various brain regions provides many benefits to research studies of anti-amyloid agents to evaluate the treatment's effect in preventing or slowing the progression to Alzheimer's disease.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsClinical Decision SupportImaging AnalyticsMachine LearningPredictive Analytics
+
+

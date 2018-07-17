@@ -1,0 +1,26 @@
+NQF Proposes Guiding Principles for Health IT Patient Safety
+
+March 08, 2016
+
+By Sara Heath
+March 08, 2016 - Although health IT has the power to enhance how healthcare is delivered, says the National Quality Forum, it also raises several concerns when it comes to patient safety.
+In an effort to improve the way healthcare providers address patient safety concerns and prevent adverse events, the National Quality Forum has released a series of recommendations to help organizations develop more robust guidelines.
+“While the use of health IT presents many new opportunities to improve patient care and safety, it can also create new hazards and opportunities for error,” the report explained. Providers often face challenges associated to health IT, including patient matching issues, technological glitches, and proper care coordination.
+“HIT will fulfill its potential only if the risks associated with its use are identified and a coordinated effort is developed to mitigate those risks,” NQF added. “Accordingly, there is a need for measures to help identify the nature, scope, and prevalence of HIT-related safety issues and to assess how well providers, vendors, and others are preventing and/or mitigating HIT-related safety concerns.”
+Dig Deeper
+How Patient Safety Organizations Encourage Data Collection, Quality Care
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+Machine Learning Offers Timely Predictive Analytics for AKI
+NQF’s HIT Safety Committee set out to ensure that providers can achieve three goals:
+that clinicians and patients have a foundation of safe HIT;
+that HIT is properly integrated and used within healthcare organizations to deliver safe care; and
+that HIT is part of continuous improvement processes to make care safer and more effective.
+The Committee also developed a list of nine measurement areas, all of which contribute to the overall goal of better patient safety. Among those measurement areas are clinical decision support, system interoperability, patient identification, user-centered design, system downtime and data availability, feedback and information sharing, use of health IT for timely and quality documentation, patient engagement, and health IT risk management.
+In addition to providing these benchmark measurement areas, the Committee sought to point providers in the right direction for patient safety. Although adhering to and meeting these measurement areas is important, it is equally vital that healthcare organizations keep patient safety in mind and begin an industry-wide dialogue on the subject.
+These measurement areas may also serve as a launching pad for further discussion, and should be seen as a catalyst for more regulation rather than be taken as a fully-developed guideline.
+“The Committee intends the conceptual framework and measurement concepts presented in this report to serve as the groundwork for future efforts by measure developers, researchers, and others in the healthcare community as they advance measurement and quality improvement efforts around HIT safety,” the Committee noted. “By identifying some of the highest-priority areas, this report may serve as a basis for future efforts to develop measures that can be incorporated throughout the HIT lifecycle as part of an iterative development process.”
+Improving patient safety will be an industry-wide process, the Committee concluded, one that may take time. Implementing new standards and new ideas may also take a considerable cultural shift, and providers and healthcare organizations, as well as field experts, will need to move swiftly and flexibly toward better solutions as health IT continues to evolve.
+“Advancing the safety and safe use of HIT will require stakeholders to share responsibility and accountability for patient safety. This may require a substantial cultural shift for the many groups involved in the development and use of HIT systems,” the Committee concluded. “However, these challenges should not prevent the field from moving forward with meaningful efforts to measure and improve the safety of HIT; indeed, the changing landscape offers a significant opportunity to ensure that patient safety considerations are incorporated into all phases of the HIT lifecycle.”
+Tagged Analytics InfrastructurePatient SafetyQuality Of Care
+
+

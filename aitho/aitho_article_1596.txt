@@ -1,0 +1,21 @@
+New SAS Division Focuses On IoT Analytics
+
+31 Jan 2018
+
+Manufacturing, Energy, Government and Health Care Among Industries To Benefit
+A modern locomotive emits a stream of more than a billion data points per second as it rolls down the tracks. The data tells the operator about the health and location of the equipment and, if handled properly, can help the rail company operate more efficiently and save money. The business opportunities in that locomotive’s data – like the data streaming from billions of other connected devices around the world – are the reason analytics leader SAS has created a new global division devoted to the Internet of Things (IoT).
+Companies applying SAS analytics to IoT challenges include GE Transportation, Lockheed Martin and Octo Telematics. The IoT division will offer strategic industry expertise in manufacturing, energy and utilities, government, retail, insurance and health care.
+SAS takes a comprehensive approach to IoT
+Jason Mann
+Jason Mann, 14-year SAS veteran, will lead the new division as Vice President of IoT. Mann previously was the director of product management for industry solutions and IoT. The IoT Division reports directly to SAS COO/CTO Oliver Schabenberger.
+“The potential for IoT analytics is tremendous, as hinted at by our 2017 IoT revenue growth of 60 percent,” said Mann. “The new SAS IoT division brings together R&D, marketing, product management, enablement, and channel sales. Its goal is to continue to develop, deliver and support powerful IoT Analytics software that covers the entire analytics lifecycle – batch, streaming and edge – all designed to help customers create value from their IoT investments.”
+Companies use IoT analytics in myriad ways including:
+Manufacturing – Manufacturers use IoT analytics to improve uptime on the factory floor, enhance product quality, and track raw materials and finished goods as they move through the operation.
+Smart Cities – IoT analytics help connected cities improve traffic flow on congested streets, and guide citizens whether they’re parking a car, looking for a government office, or paying their water bill.
+Retail – Retailers customize interactions with connected consumers and improve inventory transparency using IoT analytics.
+Health Care – Connected health care devices deliver customized care plans to patients, track medication use, and automate communication between patient and physician.
+The SAS IoT division will develop new partnerships and expand existing ones to bring together best-in-class technology and expertise. For example, in 2017, SAS and Cisco unveiled the Cisco SAS Edge-to-Enterprise IoT Analytics Platform. It brings together all the hardware and software needed to analyze IoT data so customers do not need to build an IoT platform from scratch. SAS brings similar benefits to customers through long-standing partnerships with Hewlett Packard Enterprise and Intel.
+The central technology for the new IoT division is SAS® Event Stream Processing, software that analyzes high-velocity data while it’s still moving, so action can be taken immediately. SAS Event Stream Processing is scalable, embeddable and distributable, and strengthens SAS’ position in the growing edge-analytics market. Forrester pointed to SAS Event Stream Processing as a Leader in its report, The Forrester Wave™: Streaming Analytics, Q3 2017.
+SAS is the leader in analytics. Through innovative software and services, SAS empowers and inspires customers around the world to transform data into intelligence.
+
+

@@ -1,0 +1,41 @@
+AI and Machine Learning: Expert Opinion
+
+March 15, 2018
+
+Omar Khalid Ahmed, Knowledge Broker at Capital Enterprise
+
+ Financial markets and AI is a particularly interesting debate, the fundamental, statistical processes which guide some AI algorithms have been adopted by financial firms since the mid 90’s. For many firms, the fundamentals of statistical inference, forecasting and prediction have been practiced for several years by economists and quants and I guess in this sense for these firms it’s business as usual.
+
+ However, legacy systems, IT infrastructure and costly digital transformations have limited financial firms’ ability to adopt new evolving technology from an operational and infrastructure stand point. The current utilisation of AI, data science and machine learning in financial institutions is quite low – that being said most of these firms are now on board with enough resources to power AI innovation and to create change.
+
+ On the other hand, we have seen a tremendous increase in fintech startups in more recent times and these companies are built ground up with a centric focus around AI. They are currently not equipped to tackle large scale challenges hence they offer modular services and products to more central financial institutions. Financial regulators also make it increasingly difficult for disruptive AI technologies to take over without the need of human intuition.
+
+ Financial market institutions have a competitive advantage as they have been collecting valuable data for 30+ years on their customers, markets and competitors. New startups often have to work with large institutions to use this data to train and power their algorithms. Their knowledge, expertise and established credibility makes it difficult for disruption.
+
+ In the short term, we can expect more sophisticated tools and technologies which help interpret and report on financial activity in various markets, we can start to adopt a multitude of computational techniques to understand and interpret financial activity but we’re far from fundamentally changing the current structure of a market. We have noticed several finance and insurance products, which rely on computer vision algorithms to analyse satellite images to infer production volumes from large production facilities, measure risk in globally unstable regions etc. This all provides better forecasting accuracy, risk calculation etc., but doesn’t fundamentally change the basis in which we choose to interact with a market.
+
+ These are some examples of what we can expect to see in the short term, but long term I think there’s a much larger question around the framework in which we choose to do business and carry out financial transactions/activity. With evolutions of blockchain powered technologies and decentralised systems – we are effectively recreating the idea of a decentralised market where we potentially question the role of a bank for example in handling certain transactions. The argument here is that are societies going to trust decentralised solutions with no long-term credibility, regulatory practices in place which help protect our money? If societies begin to absorb the idea of decentralised distributed ledgers – this can totally disrupt the way we conduct and report on business activity  globally, but this is dependent on a societal shift in tech and several advances in blockchain technology.
+
+ Jonathan Drechsler, Head of Business Development at Recordsure
+
+ The UK is currently in a huge transitional phase and establishing the country as the centre of technological development, specifically around AI and Machine Learning will be vital in contributing the UK’s future economic growth and success.
+
+ No industry is immune from the potential impact of machine learning and AI and a significant majority are already looking to leverage the benefits of both. Many AI solutions within the financial services market have been embraced as a way of enhancing human capabilities, reducing costs, meeting regulatory requirements and driving efficiencies. Speech analytics technologies, for example, can improve the quality and efficiency of compliance monitoring activities. Such solutions can flag examples of good and bad interactions, but ultimately, it is down to the organisation to decide how best to utilise this information to reduce risk and maximise customer outcomes.
+
+ Certainly in the markets we operate in we are already seeing AI/machine learning complementing or redirecting attention, rather than explicitly replacing roles or individuals. Particularly in the financial services compliance space, the existing model of throwing more people at an ever-growing problem, and an increasing regulatory burden, is unsustainable. AI and machine learning solutions are providing better controls and oversight, allowing humans to focus their attention on the most at risk areas of a business or alternatively focus more on the customer experience. This is generally a much more rewarding approach for employees and, perhaps more importantly, will significantly benefit customers as well.
+
+ As technology continues to develop in response to the changing regulatory landscape and customer needs, we’ll see AI bolstering the human workforce and improving customer outcomes. This will lead to financial services job roles shifting to more specialised, technology-enabled positions.
+
+ Phil Bindley, Managing Director, The Bunker
+
+ Machine learning has the potential to positively impact all sectors from Manufacturing, Life Sciences, Healthcare and Financial Services. Manufacturing have the opportunity to make more data driven decisions than ever formerly possible. Potentially saving on huge actual costs. Perhaps in preventative data driven maintenance on plant equipment, either preventing costly failures and subsequent replacement costs and losses of productivity, or more simply maintaining systems based on actual use rather than periodic plans based around worse case scenarios of mean time to fail. Healthcare is perhaps one if not the most obvious beneficiary from advances in machine learning.
+
+ Financial services businesses are already and have been for some time at the forefront of the adoption of machine learning to improve services to customers, reduce risk and ultimately impact positively the bottom line. Whether that be through improvements in combatting fraud, algorithmic trading alongside the health warnings that go hand in hand with that particular technology and more recently Robo Advice and real time transaction analysis.
+
+ The world of financial services and financial technology is driven by data, and with such advancements in regulation such as the Payment Services Directive (PSD2) will undoubtedly further expand the reach for incumbents and fintech businesses to make better use of this now shared data. Ultimately the goal has to be to create a better more personalised experience for customers, increase productivity, positively impact the bottom line and perhaps decentralise the payments system. All of these improvements, and their associated pitfalls need to be understood and a clear strategy developed at a business level to ensure the maximum possible benefits are achieved and the risks, as far as possible, mitigated. This cannot be left in the hands of the technologists, the business must own this agenda and drive these debates to their conclusion.
+
+  
+
+  
+
+

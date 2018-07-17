@@ -1,0 +1,12 @@
+Tethr’s AI-based Platform For Phone Conversations Achieves PCI Level 1 Certification Using Unique Redaction And Sentence Detection Technology
+
+19 Apr 2018
+
+Company’s communications intelligence platform for enterprise contact centers and financial services organizations is HIPAA-compliant, HiTrust-certified and now PCI-V3.2L1-certified
+Tethr, the first and only AI-powered communication intelligence platform for enterprise contact centers and financial centers has further extended its security standards with the achievement of PCI V3.2 L1 security certification. The combination of HIPAA compliance, HiTrust certification and new PCI standards for the cloud-based communications intelligence platform reflect the company’s unwavering commitment to data security and compliance on behalf of its customers and partners.
+Mike Mings
+“PCI V3.2 is one global standard by which the market measures maturity and industrialization of a company’s security processes, while HiTrust is considered the global, gold-standard for security in the healthcare industry,” said Tethr Co-Founder and Chief Executive Officer Mike Mings. “Together with the security standards of Microsoft Azure, our world-class customers and partners benefit from this powerful trifecta.”
+Tethr not only securely delivers content to and through its platform, but actually makes customer data more secure with its AI-enabled redaction capability.  “Most service providers simply mask data or don’t have the capability to eliminate it from both audio and transcript. The existing market is highly dependent upon manual agent interventions in the hope of adequately securing PCI and PII relevant content,” said Mings. “Tethr automatically redacts that content from audio and transcription, completely eliminating the information from both forms of media.” A white-paper on Tethr’s approach to redaction in the marketplace is available for download. https://tethr.com/wp-pci-redaction/
+The market for analyzing voice conversations is largely underserved. The balance of the market consistently struggles to gain timely value from past investments, mostly attributed to antiquated technical and outdated commercial approaches to the challenge. Tethr approaches the opportunity from the perspective of creating enterprise value with speed, transforming the contact center to an insight center. Companies are able to identify sustainable transformation opportunities within days or weeks, vs. quarters or years.
+
+

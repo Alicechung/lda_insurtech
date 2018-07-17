@@ -1,0 +1,17 @@
+Report: Healthcare analytics market is still “finding its way”
+
+August 29, 2014
+
+By Jennifer Bresnick
+August 29, 2014 - The healthcare industry might finally be waking up to the possibilities of big data and clinical analytics, but the marketplace for analytics solutions is still finding its feet, says a new report from Chillmark Research.  While the shift to pay-for-performance reimbursement models is driving interest and investment in population health management tools and tighter management of the revenue cycle, a fragmented market and provider confusion over the most effective analytics strategies may be keeping the vendor community treading water.
+While EHRs are firmly entrenched in the provider consciousness, and most healthcare organizations have figured out how to leverage the technology to improve care, they are less certain about the right path to take when it comes to supplemental software such as clinical decision support, analytics dashboards, and patient management suites.  While the report found more than a hundred vendors offering solutions for these problems – a dizzying array of choice for cost-sensitive customers – few of those vendors are successfully addressing the long-term needs of healthcare providers.
+“Vendors can be roughly divided into two categories: best-of-breed and platform-play vendors depending on their particular products and marketing strategies,” writes analyst Cora Sharma in the report. “It is currently a best-of-breed market, with providers adapting vendor solutions to meet a particular need created by a specific payment contract. Vendors aspiring to be become enterprise-wide platforms find ‘enterprise-thinking’ healthcare organizations in short supply.”
+Some EHR vendors are finding opportunities to sell more technology to existing customers by developing integrated population health management and patient engagement products that are already interoperable with the existing EHR, the report adds.  Other surveys and studies have found that providers are generally eager to embrace these fully integrated offerings that allow for clinical documentation, risk identification, and patient management all in one place.
+Dig Deeper
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+93% of Payers, Providers Say Predictive Analytics are the Future
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+But EHR vendors with viable analytics packages form only a small piece of the healthcare analytics marketplace, Sharma points out.  Best-of-breed vendors are taking the lead, but healthcare organizations don’t have to fall into the trap of spending exorbitant amounts of money cobbling together specialized solutions.  By examining the scope and quality of their data before investing in technology, healthcare organizations can devise far-seeing strategies that encourage accountable care while choosing health IT that meets long-term goals across the continuum of care.
+Tagged Analytics InfrastructureBig DataClinical Analytics
+
+

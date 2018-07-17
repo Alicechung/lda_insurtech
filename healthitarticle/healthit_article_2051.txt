@@ -1,0 +1,19 @@
+Will meaningful use overwhelm public health reporting system?
+
+March 12, 2014
+
+By Jennifer Bresnick
+March 12, 2014 - While more data is usually a good thing when it comes to analytics, a group of researchers from Indiana is worried that that the avalanche of information heading towards public health agencies under Stage 2 of meaningful use may overwhelm an already fragile infrastructure.  Electronic laboratory reporting (ELR) for diseases like E. coli, tuberculosis, and Lyme disease will be mandated for all successful attesters to the second phase of the EHR Incentive Programs, but how the recipients of this information will handle the influx of extra work remains less clear, says Brian Dixon, Assistant Professor of Informatics at Indiana University and the Regenstrief Institute.
+By preparing estimates of the increase in workload associated with the Stage 2 requirements, Dixon and his colleagues hope to prepare state and local public health departments for what they might expect.  After gleaning data from the Indiana Network for Patient Care (INPC), which processes more than half a million lab reports a day, Dixon divided the data into individual disease categories and tallied the associated man-hours and paperwork for each case.
+They found that there are approximately 20 unique cases of reportable diseases per 1000 patients, more than double the national average of CDC-confirmed diseases.   Dixon notes that regional rates may increase even more due to local disease conditions, further stressing the system.  Previous findings from the Regenstrief Institute found that ELR might quadruple the number of public health case reporting when compared with paper-based methods.
+“An increase in suspected notifiable disease reports would significantly impact local and state health departments’ workload,” the report says. “Recent downsizing and budget cuts in health departments across the nation implies that an increase in reports would likely place pressure on departments to do more with less.”
+Dig Deeper
+Online Population Health Data Dashboard Grows to Include 500 Cities
+ACP: Use Population Health to Combat Opioids, Substance Abuse
+MIT Works to Align Pharmaceutical Development, Public Health Needs
+“Even a modest increase in overall reporting will necessitate a substantial increase in health department staff effort to validate, investigate, confirm and close cases,” the study adds. “Thus the potential increased reporting from meaningful use may not only translate into an increase in overall case volume, but an increase in disease reports for which health departments currently allocate few resources.”
+The report suggests that public health agencies consider revising their investigation protocols and administrative codes to increase specificity in reporting and shift the majority of resources to the most frequently spotted conditions.  Refining strategies to appropriately triage incoming data and weed out false positives will help diffuse the burden and allow agencies to process larger volumes of information appropriately.
+“Public health informatics competencies, including analytics and data management methods, are likely to become increasingly important as they can support epidemiologists’ need to incorporate automated methods for validating, classifying, and prioritizing reports to focus limited staff time on high-value case follow-up and data use,” the report concludes.  “Such prioritization of cases is currently a manual process in most agencies. These competencies are further important to implement and optimize receipt of ELR data from various clinical informatics systems.”
+Tagged Clinical DataPatient CarePatient DataPopulation Health ManagementPublic Health
+
+

@@ -1,0 +1,18 @@
+Artesian Solidifies Position As A Market Leader In Sales Intelligence
+
+08 Mar 2018
+
+25x Increase In The Amount Of Historical Content For Advanced Analysis And Research
+Artesian Solutions, the powerful Artificial Intelligence driven service that equips client facing teams with the resources they need to succeed in a modern commercial environment, has launched a range of new capabilities. Taking advantage of recent advances in technology and distributed processing techniques, Artesian’s customers are achieving:
+25x increase in the amount of historical content for advanced analysis and research
+5x increase in raw speed of news query engines, ensuring they get complex results faster than ever
+The new capabilities and resulting performance improvements have come to fruition following a complete overhaul of the core of Artesian’s product, including:
+Search Performance Improvements– Artesian has migrated its core news and social-media storage technology to ‘Elasticsearch’. This has enabled it to dramatically scale up server capacity, boost the performance of its advanced architecture, and provided the ability to analyse, filter and deliver results from raw unstructured data. Search results that previously took 10 seconds now take just 10 milliseconds
+More Accurate Sales Triggers– New scoring and ranking algorithms enable customers to fine-tune their sales-trigger results even further. This improves the accuracy and relevance of results and ensures customers never miss an opportunity
+Improved capacity– Alongside the core platform changes Artesian has also implemented some improved caching and load-balancing technology. This has resulted in the technology being capable of handling 10x the number of concurrent users, whilst ensuring performance remains snappy – a vital step as Artesian continues to grow its business.
+Steve Borthwick
+Speaking about the performance improvements, Steve Borthwick, Chief Technology Officer at Artesian said: “We constantly feed back into our engineering team the learnings, preferences and needs of our customers, and in return they always deliver robust, superior performance enhancements that not only accelerate our R&D programme, but solidify our position as the market leader in sales intelligence software. We’ve boosted the performance and accuracy of the Artesian platform across the board, improving raw speed and our ability to handle a significant number of simultaneous users, as well as optimising their ability to uncover those all-important golden nuggets of sales insight.”
+Artesian is a powerful AI driven service that equips client facing teams with the resources they need to succeed in a modern commercial environment. Apps that drive action. MI that measures impact. A service that inspires and coaches. Artesian provides the data, real-time insight and context needed to find customers, create meaningful engagements, sell more and create long-lasting business relationships.
+With the use of AI technology layered on top of company information, data and news, Artesian helps you uncover opportunities, build relationships and accelerate deals. Artesian continually scans millions of online sources for data on markets, organisations, individuals and topics, and uses sophisticated algorithms to filter and transform that information into commercially valuable insights.
+
+

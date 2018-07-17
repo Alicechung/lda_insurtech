@@ -1,0 +1,19 @@
+UPenn plans real-time analytics to prevent antibiotic overuse
+
+February 13, 2014
+
+By Jennifer Bresnick
+February 13, 2014 - The University of Pennsylvania is taking a stand against the misuse of antibiotics by planning to implement real-time data analytics that can held shed light on patterns of drug resistance, over-prescribing, and patient vulnerabilities.  The collaboration with analytics provider Teqqa, LLC, will produce a software platform and mobile app to provide instant information to clinicians with the aim of fostering better decision-making.
+A growing problem in hospitals continually plagued by resilient and deadly microbes like MRSA, CRE, and clostridium difficile, antibiotic resistance kills at least 23,000 of the two million patients it sickens each year, the CDC says.  Hospital-acquired infections (HAIs) are being singled out for financial penalties from Medicare quality care programs, and can pose a threat to the organization’s bottom line as well as the health of its patients.
+While some organizations are addressing the problem by tracking and increasing hand hygiene and other cleanliness efforts, the blanket use of antibiotics to treat everything from skin conditions to minor colds has left the patient population vulnerable to bacteria that have evolved to dodge common antibiotics that have been widely effective in the past.
+“The appropriate use of antibiotics to treat infections depends on knowing what antibiotics kill which bacteria,” says Keith Hamilton, MD, associate director of healthcare epidemiology, infection prevention and control and director of antimicrobial stewardship at the Hospital of the University of Pennsylvania. “Predicting and understanding the trends and patterns of resistance allows clinicians to choose appropriate medications to treat a patient’s infection, and provides the health system real, actionable data to make broad recommendations for use of these life-saving drugs.”
+Dig Deeper
+Geisinger, Baylor Granted $3.5M for Patient Safety Learning Lab
+How Big Data Velocity Informs Population Health, Patient Safety
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+The project will provide real-time microbiology data analysis to clinicians through a mobile app, identifying prescription and resistance patterns at a hospital-specific level.  The app will allow instant access to information that is currently only released every nine to twelve months, a pace which renders the data useless long before it arrives in the hands of prescribing clinicians.
+“This innovative software has the potential to improve patient outcomes and resistance patterns in hospitals across the country by allowing practitioners to understand the behavior of infections locally, regionally and most importantly, within their healthcare facilities,” says Patrick J. Brennan, MD, chief medical officer for the University of Pennsylvania Health System. “This is an important step in more effectively designing interventions to control and treat these infections.”
+“We are thrilled to be working together with Penn Medicine, a leader in antibiotic stewardship and innovation in health care delivery, to develop this novel solution to the growing problem of antibiotic resistance,” added Dan Peterson, MD, CEO of Teqqa. “It’s a great opportunity to work with Penn to develop applications for Penn Medicine and for use more broadly with other health systems.”
+Tagged Applied AnalyticsBig DataClinical AnalyticsHospital QualityPatient SafetyPopulation Health
+
+

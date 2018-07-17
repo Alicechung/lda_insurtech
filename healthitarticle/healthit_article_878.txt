@@ -1,0 +1,126 @@
+Quality Metrics, Big Data Woes Make Value-Based Care Difficult
+
+June 15, 2016
+
+By Jennifer Bresnick
+June 15, 2016 - Overly complex clinical quality measures, inadequate health information exchange, and poorly designed EHR interfaces are just some of the challenges providers face when trying to make decisions about an individual’s care or meet value-based care requirements, according to a new survey by Quest and Inovalon.
+Clinicians are searching for big data analytics tools to support accountable care arrangements and population health management at the point of care, but the majority are unable to work through a maze of metrics, fill in the gaps left by insufficient interoperability, and access the actionable insights required to make informed decisions.
+Despite believing that quality metrics are important for systemic improvement in theory, seventy-four percent of physicians and health plan executives participating in the survey believe convoluted quality measures impede their ability to achieve the goals set for them by value-based care contracts or regulatory guidelines.
+Only 47 percent of participants feel that they have a clear understanding of how to apply quality measures to their patient care decisions. 
+Big Data Analytics Fuels Penn State Precision Health Research
+EHR Documentation Burdens Bring Usability, Satisfaction Declines
+The Sequoia Project Updates Patient Matching Framework
+Visualizing a User-Friendly Future for Healthcare Data Analytics
+Incremental Effort Can Craft the Patient-Centered Medical Home
+Regional Variation Points Out Value of Antibiotic Stewardship
+CMS Finalizes Annual List of Value-Based Care Quality Measures
+Clinical decision support, care coordination fight hepatitis C
+EHR Big Data Analytics Uncovers New Aid for Hypertension
+HL7, ONC Seek Entries for C-CDA Data Visualization Challenge
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Data Governance, Transparency Required for Patient-Centered Care
+Navigating Value-Based Payment and Population Health Management
+Machine Learning Can Flag Adverse Drug Events in Unstructured Data
+Google Cloud Partners with HL7 to Support FHIR Development
+Partners, Samsung Team Up for Chronic Disease Management
+Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+Can Healthcare Effectively Measure Patient Engagement?
+Healthcare Big Data, IoT, Cognitive Computing Markets Set to Grow
+ONC: Don’t Let HIPAA Errors Hinder Population Health Management
+AHA revamps LDL guidelines with predictive risk stratification
+How can predictive data analytics improve medication adherence?
+How can you come out on top with healthcare data analytics?
+Evidence Grows for the Effective Patient-Centered Medical Home
+Obama Asks for $1.2B to Fight Hospital Acquired Infections
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+Bariatric Surgery Drops Chronic Disease Drug Spending by 22.4%
+Big Data Analytics Vendors and Products: Who’s Using What?
+Using the Healthcare Internet of Things for Better Patient Care
+Patient safety is key with Ebola, but are nurses safe, too?
+ACP: Use Population Health to Combat Opioids, Substance Abuse
+Hospital quality experts see fewer readmissions as top goal
+Humana Refines Diabetes Risk Stratification Tool Using ICD-10
+Population Health Cuts Native American Kidney Disease by 54%
+RWJ to Explore How Big Data Can Build a Culture of Health
+Historical NYC Data Boosts Population Health, Precision Medicine
+Performance analytics for residents help quality benchmarking
+EHR Interoperability, Data Standards Vital for DOD, VA Success
+NY launches research partnership for healthcare analytics
+AMIA: Consider Broadband Access a Social Determinant of Health
+AMA, Intermountain Form Real-Time Data Partnership for Diabetes
+Alarm Fatigue, Health IT Woes Top ECRI 2017 Patient Safety List
+EHR Interoperability, HIE Criteria Prompt Stage 3 MU Concerns
+UT establishes patient-centered research center with $5M grant
+Precision Medicine Test for Bacteria May Aid Antibiotic Stewardship
+Google, Stanford Partner for Genomics, Precision Medicine Project
+Ochsner Adopts Artificial Intelligence Tool from Epic Systems, Microsoft
+Wake Forest, Cornerstone Health partner for data analytics
+Academic, Research Orgs to Form Health Data, Informatics Center
+Big Data Analytics, Value-Based Care Hot Topics for HIMSS16
+United cuts more Medicare doctors to control costs in MA
+Healthcare Analytics Market Sees Shakeup Early in 2015
+How to Gather Good Data for Healthcare Claims Accuracy Testing
+Maine HIE Expands Real-Time Healthcare Big Data Analytics
+Is healthcare ready to get SMAC-ed around?
+HSPC Interoperability Project Tackles HIE with FHIR, App Culture
+Hospitalized seniors need significant decision-making help
+Precision Medicine, Predictive Analytics to Flag PTSD Risks
+How Effective is mHealth for Chronic Disease Management?
+Kaiser Permanente safety net reduces risk of adverse events
+Yale, Epic Partner to Boost Healthcare with Big Data Analytics
+Medical Device Integration a Key Concern for Patient Safety
+Precision Medicine Must Be a “Team Effort,” White House Says
+Mental Health, Primary Care Integration Cuts Depression Scores
+Health Information Management Pros Need Security, EHR Data Skills
+$28 Million ONC Grant to Foster Health IT Interoperability
+CMS Begins the Search for a Chief Health Informatics Officer
+Definitive Healthcare Acquires Provider Database Publisher
+HHS gives $35.7 million to patient-centered medical homes
+Private Payers Driving Value-Based Payment, Accountable Care
+PA Partners Will Use EHR Data Analytics to Improve Care Quality
+30% of EHRs lack population health, reporting capabilities
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+HIM, Revenue Cycle Management Metrics to Watch before ICD-10
+Illinois to Use Blockchain for Healthcare Credential Management
+Blue Button Codeathon winners track disease, financial data
+ONC: Just 28% of patients have online access to health data
+CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+87% of Patients Want Health Information Exchange Without Fees
+UCSF, Intel Partner for Healthcare AI, Deep Learning Project
+10% of ED visits are avoidable and could save $3.8B a year
+5 Questions to Prep for Healthcare Big Data Analytics in 2016
+CMS Innovation Award funds EHR care coordination pilot
+FDA Unveils Patient Safety Analytics Tool for Medical Research
+Patient Engagement Starts with Providers Talking about Portals
+Northwell Health Launches Precision Medicine, Cancer Biobank
+What’s in the 21st Century Cures Act for Precision Medicine?
+Predictive Analytics Flag Patient Medication Adherence Patterns
+GAO Eyes Population Health, Big Data with HIT Advisory Committee
+Six Ways to Foster an Environment of Patient-Centered Care
+CMS Publishes Medicare Payment Info to Promote Data Transparency
+Lasting Patient Engagement Begins with Tailored Access to Care
+Risk score roundup: How EHR analytics are changing healthcare
+Healthcare Quality, Cost Data Websites Fall Short for Consumers
+25% of Physicians Won’t Be Ready for ICD-10 Implementation
+How Clinical Documentation Improvement Saved $550K in a Year
+Study: Automating healthcare imaging access helps cut costs by 39%
+PCORI to Spend $42M on Patient-Centered Comparative Research
+Big data analytics, population health combine to improve quality
+Chronic Care Management Improves Pediatric Outcomes by 20%
+Eighty-eight percent said that they are in need of additional tools and education to help them navigate the process of matching patients with the most appropriate services while meeting the demands of their accountable care arrangements.
+They also need better data – and more of it.  While 87 percent of respondents acknowledged the importance of having access to a patient’s entire medical record, sixty-five percent said that they do not routinely have all the data they need about their patients at the point of care.
+Nearly 80 percent of participants said that they do not receive adequate information from their patients’ other providers, while 74 percent blame a lack of interoperability for being unable to access complete records. 
+Only 36 percent of providers are satisfied with their ability to access patient data within the workflow.
+The survey also included responses from health plan executives, who largely agreed with providers about the problems they are facing, but were more eager to embrace the principles and practices of value-based care.
+Payers tended to make more faith in the usefulness of quality measures and their potential for driving down costs.  Eighty-six percent of payers think they are useful for improving care compared to just 69 percent of PCPs. 
+Payers are also more likely than providers to have value-based care metrics at the top of their to-do lists.  Fifty-nine percent of payers think clinicians should keep value-based quality measures at the forefront of their minds when consulting with patients.  Just 46 percent of providers feel the same.
+The payer community also seems more equipped with the knowledge and health IT tools to overcome the obstacles of the shift to value-based reimbursement, which may be one reason while they feel more comfortable with the idea of utilizing metrics for routine care.
+When asked if they were aware of existing solutions that address the gaps between quality metrics, value-based care requirements, and realistic patient care workflows, only 44 percent of providers were sure that such health IT tools exist.  In contrast, sixty-seven percent of payer respondents expressed confidence that technical help was available.
+However, the majority of respondents who think the right health IT tools are out there do not believe that the electronic health record, on its own, will be a solution.  Instead, respondents are looking towards separate big data analytics offerings that integrate into the EHR to give them visibility and actionable insights at the point of care.
+Forty-four percent of payers said that they already have the tools required to succeed in the value-based world, while just 29 percent of primary care providers are equipped with the analytics and health information exchange infrastructure that is necessary to manage populations and hit quality targets.
+Not surprisingly, payers are more enthusiastic about the transition to value-based reimbursement in general.  Fifty-seven percent of health plan participants believe that value-based care is a necessary movement, compared to just a third of primary care providers.
+"This study shows that physicians and health plan executives differ in their perceptions of how effectively the nation's healthcare system is progressing toward value-based care," said Harvey M. Kaufman, MD, Senior Medical Director at Quest Diagnostics.
+"It also reveals that complexity and incomplete access to patient information may be greater obstacles to adoption than previously realized. We hope the study's findings spark greater collaboration by providers and health plans and dialogue about new solutions to improve quality outcomes and reduce overall costs."
+Tagged EHR InteroperabilityPopulation Health ManagementQuality Of CareValue Based CareValue Based Reimbursement
+
+

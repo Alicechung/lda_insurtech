@@ -1,0 +1,30 @@
+Epic EHR, Big Data Tools Bring 2016 HIMSS Davies Award to Mercy
+
+January 25, 2017
+
+By Thomas Beaton
+January 25, 2017 - Mercy, a large Catholic health system headquartered in Missouri, is the winner of the 2016 Nicholas E. Davies Award of Excellence, HIMSS announced.  Mercy has developed big data analytics dashboards within its Epic EHR to help providers standardize care pathways, reduce costs, and improve patient outcomes.
+“Mercy has long been laser-focused on bringing together all aspects of health care – including clinical, operational, technological and analytical functions – so we can collaborate and determine our best way forward for our patients and our organization,” said Gil Hoffman, Mercy’s chief information officer. “The Davies Award demonstrates how we’ve been able to blend the best of technology, talent and teamwork to bring better care and better health to our patients.”
+By implementing new strategies to address four problematic use-cases, Mercy improved patient care and their bottom line.
+Dig Deeper
+The Role of Healthcare Data Governance in Big Data Analytics
+EHR Big Data Analytics Aid Cancer Screenings, Follow-Ups
+EHR Analytics Advance Population Health Management of the Flu
+Perioperative administration  
+Mercy took aim at perioperative care, creating an analytics-based strategy that allowed the health system to better determine best practices, prices, and supplies for specific surgical procedures.
+By benchmarking performance against key cost and quality indicators, Mercy achieved a $9.42 million cost reduction while minimizing unnecessary variations in care and inefficient use of resources. Their median cost-per-case for knee surgeries fell from $7045 in 2014 to $5527 in 2016.
+Cost and outcome analysis helped Mercy eliminate the use of blood autotransfusion drains, which reduced the risk of postoperative infection in patients. They also saw a reduction in the use of ultrasonic devices which helped saved patient costs and organizational resources.
+Other improvements included a 16 percent increase in on-time starts for surgeries, improved patient satisfaction, and a reduction in physician turnover time from 45 minutes to 30 minutes.
+Treating patients with heart failure
+Previously, mortality rates of Mercy patients with heart failure equaled the national average of six percent. So Mercy established a technological pathway with the purpose of improving mortality reduction.
+Not only did heart failure mortality dip down to one percent, but Mercy also reduced cost per patient by $800 when using the new pathway. The technology decreased the average time it took to administer a diuretic by three hours.
+Improving antibiotic treatment of pneumonia patients
+Mercy also noted that their methods for standardizing pneumonia treatment could be improved, as their pneumonia patient mortality rate was at or above the national rate.
+By employing an electronic monitoring and alert systems for antibiotics, Mercy reduced the door-to-antibiotic delivery time by three hours for patients.  
+Mercy's technology helped lower pneumonia mortality rates down from the national average to three percent, and decreased patient costs by $800 per patient.
+Engaging in clinical documentation improvement
+Another large part of the program included clinical documentation improvement efforts, which aligned "people, processes, and analytics" to improve the documentation system. CDI specialists were able to review more patient cases per day and increased patient coverage by 40 percent, helping Mercy capture an additional $65 million in revenue.
+“As a Davies Award recipient, Mercy clearly exemplifies how collaborative teamwork, effective planning, use of health information technology and standardized clinical process changes can result in sustainable improvements in patient care,” said Jonathan French, senior director of quality and patient safety and Davies program director with HIMSS.
+Tagged Big Data AnalyticsEHR AnalyticsHIMSS
+
+

@@ -1,0 +1,18 @@
+Genetic research, data analytics face privacy, ethics concerns
+
+September 09, 2013
+
+By Jennifer Bresnick
+September 09, 2013 - Sometimes, too much data can be a bad thing – or at least a puzzling one.  Genetic researchers analyzing DNA for cancer markers are facing some ethical quandaries and serious patient privacy concerns as digitization and electronic storage of genomic information becomes routine.  While targeting cancer genomes to improve the accuracy of personalized medicine, researchers are constantly coming across “incidentalomes”, or other medically important genomic variations that are not related to their direct area of study, raising questions about how or if to notify patients and keep this information secure.
+Genetic cancer studies are typically conducted by sequencing a cell from an identified tumor and a normal cell from the same patient for comparison.  “However, the process of decoding the genome of a patient’s tumor may incidentally reveal information about inherited predispositions to cancer and other diseases,” says Yvonne Bombard, PhD, a clinical geneticist at Memorial Sloan-Kettering Cancer Center in New York and lead author of a recent viewpoint essay published in JAMA. “There is a need to establish approaches to decision making with respect to the return of these incidental results.”
+“The problem with genomics is that it is information. Once I sequence your genome, I can throw the test tube of your blood away and put it on a computer chip. Genomic information immediately becomes electronic information.  Just as people can hack into any system and take information, there are problems of privacy,” Robert Klitzman, MD, professor of clinical psychiatry and director of the masters of bioethics program at Columbia University, told Medscape Medical News.
+Additionally, researchers now have a question of ethical responsibility on their hands.  If they find a patient is pre-disposed to some other disease, should that information be shared with their physician?  If it goes in their medical record, would insurance companies take that as an opportunity to raise premiums or deny coverage?  Does the ability to catch a serious illness before it causes significant harm outweigh the risk of genetic discrimination?
+Dig Deeper
+Big Data Analytics Fuels Penn State Precision Health Research
+Does Social Determinants Data Enhance Population Health Analytics?
+Google, Stanford Partner for Genomics, Precision Medicine Project
+As clinical analytics becomes more and more prevalent, and the demand for trend predictions and population health management rises, the questions will become even more pressing.  “This is a challenge for everyone involved in medicine. We are going to get this tsunami of genetic information in the next few years. Doctors don’t understand it. Patients don’t understand it. There is a huge need for education of everyone about it. There is a huge shortage of genetic counselors. The technology is driving the ship here. We are going to have all this information and not know how to process it, how to interpret it, what to give to patients, or how to explain it to them,” Dr. Klitzman said.
+“For prospective research and clinical translation, the path forward depends on approaches that better define actionable variants and the development of the evidence base and clinical infrastructure to support preference-based disclosure of incidental findings,” Dr. Bombard writes. “This will require the creation and evaluation of decision tools and the clinical capacity to provide genomic counseling for which no standards of care exist.”
+Tagged Applied AnalyticsBig Data AnalyticsHealth Data PrivacyHealthcare AnalyticsPatient Data
+
+

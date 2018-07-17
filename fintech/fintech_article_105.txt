@@ -1,0 +1,25 @@
+Organisations struggling with cyber security should learn from NHS guidance, suggests Databarracks
+
+June 7, 2018
+
+Organisations struggling to improve cyber security defences, should take note of the recommendations proposed by a select committee report into last year’s WannaCry ransomware epidemic. This is according to Peter Groucutt, managing director of Databarracks.
+
+ During the months which followed the WannaCry ransomware attack, the House of Commons’ influential Public Accounts Committee (PAC) issued a report outlining 22 clear and concise recommendations for the NHS to undertake to improve its cyber security practices. While it has recently been reported that the NHS is yet to implement a single recommendation, Groucutt believes that other organisations, notably small businesses, can use the findings to improve their own cyber defences: “The NHS’s failure to implement any of the recommendations provided by the select committee, is indicative of wider struggles which still exist amongst organisations, when it comes to good cyber security.
+
+ “Recently, the Government published findings from its Cyber Security Breaches Survey 2018. The data revealed that a lot of organisations remain in the dark when it comes to finding trusted advice for improving cyber security. This was further emphasised by the fact that from a sample of over 1,500 businesses, only nine per cent were aware of initiatives such as the Cyber Essentials Scheme. It’s imperative that firms take advantage of these free and easily-accessible resources to improve their cyber security.”
+
+ The select committee report into the WannaCry attack is an excellent source of information and advice, for firms wanting to improve their cyber security defences. Looking at these findings, Groucutt has picked out several key recommendations which firms can and should act on: “The report highlighted that the NHS was not prepared for WannaCry and that there is a long way to go before agreed, prioritised and costed plans for improving cyber security are put in place. For smaller businesses, however, this can often be a much easier exercise. When it comes to prioritising and costing your plan, this should include preventative measures and technologies such as anti-spam / anti-virus software, patching and software upgrades, user awareness training, and a backup and recovery plan that is fit to protect against modern threats, such as ransomware. If you’re unsure about your priorities, testing – carried out by an external, third party – can identify where weak spots within the business lie.”
+
+ Groucutt continues: “Arguably, one of the biggest concerns highlighted by the select committee, was the NHS’ use of legacy software. As far back as April 2014, NHS trusts had been warned to migrate over from old software such as Windows XP. Yet at the time of WannaCry, five per cent of the NHS IT estate was still using Windows XP. There were further warnings in 2016 and even in March and April 2017, just before the attack, as NHS Digital issued warnings to trusts to secure their Windows operating systems. While it is easy for organisations to become confused by the choice of security options available, it’s vital to not neglect the basics. This starts with reviewing and auditing existing IT infrastructures and updating software accordingly.
+
+ “Finally, the report detailed that communication during the attack was not coordinated, with no alternative communication methods in place after email was switched off. This is a common issue faced by SMEs – the key though, is to plan ahead. Emergency or Mass Communication plans do not have to be complex but do require thought and planning to make sure that you have determined an alternative method to communicate and also provide alternative contact information. For firms looking to do this on a budget, we have actually created a guide to address this very issue.”
+
+ Groucutt concludes: “A lot of organisations do not get the opportunity to have a complete review undertaken of their security practices. While the NHS has come under scrutiny for not making the necessary reforms needed to its cyber security practices, that’s not to say that others can’t. This is an incredibly detailed report – and for those struggling with cyber security, a lot of useful advice can be taken and applied to their own businesses.”
+
+ About Databarracks
+
+ Databarracks is the UK’s specialist business continuity and IT disaster recovery provider.
+
+ From the launch of the UK’s first managed online backup services over 15 years ago, to our leading Disaster Recovery as a Service, we’ve been making enterprise-class continuity, security and resilience accessible for organisations of all sizes.
+
+

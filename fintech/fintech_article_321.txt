@@ -1,0 +1,69 @@
+RegTech 2.0: A New Era of RegTech
+
+March 15, 2018
+
+by Kate Goldfinch
+
+ RegTech 2.0 is at an inflexion point for a new era of efficient and effective compliance powered by technology. Most RegTech firms launched within last year deal with upcoming regulations like PSD2 (Open Banking), MIFID II, 4MLD and GDPR. The vast majority of the solutions delivered utilise models around SaaS and Open APIs.
+
+ In January 2018, Burnmark published a report that focuses on the emerging trends within the RegTech space. “We have looked at all the things that have worked well with RegTech in the past, as well as the challenges, and have tried to predict what could be some of the challenges and trends in the next phase of RegTech,” the researchers note.
+
+ They have approached the report “Regtech 2.0” in three ways:
+
+ Researchers collected data on 401 RegTechs including 352 startups, focusing on those with traction in terms of sales to banks, or funding. The paper is focused on the compliance RegTechs rather than the KYC/Identity RegTechs which form a large category by themselves.
+
+ They also handled data in a way that was never seen before. Data collection, monitoring, analysing and reporting in the space evolved into an entirely new industry. This was primarily driven by developments in big data technologies and the wider FinTech ecosystem. 
+
+ AI VS DLT in Regtech
+
+ According to the research results, AI technologies are far more popular with RegTech startups than DLT.
+
+ Considering the underlying technologies in Regtech solution it should be noted the biggest percentage (more than 60%) for Data Analytics and Artificial Intelligence (AI). Robotics Automation share consisted less than 30% and Distributed Ledger Technology – approximately 20%.
+
+ 
+
+ Source: Burnmark
+
+ 
+
+ Source: Burnmark
+
+ If to carefully consider the most popular use cases for DLT-based Regtech solutions, they include Compliance management and Digital Identity (per 44% each) and Cyber Security (12%).
+
+ “We asked our respondents about the underlying technologies to their RegTech products and solutions. Almost all of RegTech is based on analysing data for KYC or onboarding or fraud or crime or reporting, so data analytics featuring as the top response was not surprising. However, we also see a wide adoption of technologies supporting AI (machine learning, NLP) within the RegTech firms. Distributed Ledger Technologies (DLT) like blockchain were far less involved in their solutions. For the firms offering DLT solutions, we found that the most popular use cases were around digital identity and compliance solutions,” researchers explain.
+
+ How to scale faster
+
+ $100 bln – it is a figure that has been used to estimate the global costs of compliance with new regulations within financial services. “At the heart of this $100 billion challenge and opportunity is the failure of legacy thinking, technology and processes to scale with breadth, depth and speed of new regulatory requirements across multiple jurisdictions,” Richard Maton, International RegTech Association, clarifies.
+
+ RegTech solutions apply core new technologies with lower-cost models to people and processes that disrupt legacy approaches. The impact includes a reduction in costs, improved regulatory effectiveness and better revenue generation, customer engagement and capital allocation.
+
+ To faster the Regtech development, a collaborative model (that means multi-disciplinary teams creation) is needed, International RegTech Association believes. This emerging approach gives RegTech companies the opportunity to co-create and scale solutions faster in partnership with financial institutions, regulators and other solution providers. “RegTech is a global opportunity, requiring both global and local facilitation and support,” Richard Maton stresses.
+
+ The power of data
+
+ Harnessing the power of data to optimise regulatory compliance, there are some insights could highlighted. “In 2018, GDPR (General Data Protection Regulation) and PSD2 (Payments Services Directive) will prompting a complete overhaul of the way banks approach their customer data. MiFID2 and 5th AML directive will also impact on how banks monitor and report the transaction data,” it is mentioned in the “Regtech 2.0” report. First of all, data forms the cornerstone for regulatory compliance and banks will need to deploy powerful technology solutions that gather, structure, analyse and present data for regulatory review. Secondly, in RegTech 2.0, banks will manage their data resources holistically, incorporating proprietary internal data complemented by external data sources to fill logical gaps. This big data resource will form the basis for data-driven analytics that support judgement based compliance with all upcoming regulations. So as a conclusion, developments in big data technologies will enable global banks to create and handle new RegTech use cases.
+
+ RegTech deployed by the regulators (SupTech) will enable them to take a data-driven and predictive approaches to supervision and potentially facilitate a shift from retrospective review to more forward-looking supervisory approaches
+
+  
+
+ SupTech meets RegTech
+
+ SupTech (supervision tech) is a new raising trend in Regtech, that means stronger collaboration between regulators and RegTech startups. Initially the regulators’ involvement with Regtechs was minimal except accelerators. SupTech, the emerging segment of RegTech, can enable regulators to take a data-driven approach to supervisory process and shift from a retrospective to a forward looking approach. RegTech deployed by the regulators (SupTech) will enable them to take a data-driven and predictive approaches to supervision and potentially facilitate a shift from retrospective review to more forward-looking supervisory approaches.
+
+ David Lawton, Co-Head of Regulatory Advisory Services, Alvarez & Marsal and Former FCA Director of Markets, Market Policy and International, explains from a regulatory point of view, why regulators are interested in RegTech. “I think there are two drivers for regulators to be interested in RegTech. The first is guilt. Over the past 5-7 years, legislators and regulators have introduced a swathe of regulations in the industry that is costing firms huge amounts of money. Regulators feel guilty about the burden. The second driver is competition, particularly from a UK angle, i.e. regulators have an explicit operational objective to promote competition in the interest of consumers. Unlocking the dynamics of the market is an important element for getting a better outcome for consumers, and is heavily dependent on new entry and innovation,” he says.
+
+ 
+
+ Source: Burnmark
+
+ And, finally, there are some insights around global regulators. The first one is that regulatory sandboxes are one of the most common initiatives from regulators around the fintech space, which have helped them successfully observe and understand the boundaries of fintech solutions. This has also been one way of encouraging and supporting innovation in the industry, making data and banking/regulatory APIs readily available for interested fintechs – mostly those interested in getting regulated. The second insight is about RegTech has
+
+ not been a popular entrant into the sandboxes as they tend to work directly with banks rather than through regulatory channels. • The first RegTech firm to get into a sandbox (FCA UK) was Tradle, a DLT-based identity firm. There are more entrants into FCA’s 2017 programme like nViso and Saffe, as well as in 2017 programmes of regulators across Asia. And among the research findings is that regulatory sandboxes are most popular in Asia.
+
+ As a key conclusion on what to expect in the future are wider-ranging and more value-adding collaborations between different Regtech stakeholders: bank-bank, bank-regulator, bank-startup, bank-vendor, bank-regulator-startup, startup-startup, regulator-startup, regulator-regulator.
+
+  
+
+

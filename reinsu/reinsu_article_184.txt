@@ -1,0 +1,47 @@
+Blockchain will do for re/insurance what the internet did for information: IBM interview
+
+12th October 2017 - Author: Staff Writer
+
+With the Blockchain Insurance Industry Initiative (B3i) in the market-beta testing phase of its reinsurance blockchain prototype and due to be deployed into production next year, Reinsurancene.ws spoke to IBM’s Insurance Industry Global Managing Director, Sandip Patel, about which areas of the re/insurance value chain he expects will see real blockchain-driven improvements in the near-term future.
+
+As some of these experiments like AIG and B3i start to move into production, Patel said; “this is a wave which will take off very quickly and basically maintains that blockchain is going to do for transactions what the internet did for information and I do believe that in the insurance and reinsurance industry.”
+
+“Within the insurance space, we really do see blockchain as being a gamechanger.
+
+“I want to underscore that we shouldn’t take a hammer looking for a nail approach, right, using blockchain, I think that where it becomes relevant in insurance, the way the insurance industry’s been built over the years it lacks transparency, and particularly when you get into complex contracts and that gets written across multiple parties across geoboundaries, that’s the area where blockchain becomes most effective.”
+
+Some early examples of successful blockchain use across complex multi-national, multi-party processes have been a tribute to smart contracts’ ability to not only materially impact efficiency, but also drive deals through improved transparency – factors which could lead to firms seeing credit rating improvements.
+
+Patel offered the example of a blockchain initiative that it enacted together with AIG and Standard Chartered Bank, that was a multi-national, multi-party contract where the primary contact was written in the UK, and with local policies in New York, Kenya, and Singapore.
+
+He said; “There were efficiencies in the process because there were certain local jurisdictions that required certain things to happen before the contract became valid, and payment could be made.
+
+“For example in Kenya, there’s a jurisdiction of cash before coverage, the ability to ensure that certain premium payments have been made in Kenya before the policy was put in force trigger broker payments and so on, the blockchain enabled smart contract enabled the insurer and the insured to do that rather than having multiple manual interventions to get that piece completed and when you multiply that across the number of contracts that get written in the space, that actually starts to drive the multiples of process efficiencies.”
+
+The other benefit that came out of that particular case, he said, is transparency “that was being afforded not just to brokers, insurers and the insured, but also to regulators, that particular case where we actually offered know-based and need-to-know based transparency to regulators.
+
+“Moody’s as a rating agency when they saw the level of transparency that complex contract was providing, they said they would probably provide a more favourable credit rating to AIG because of what they were driving with transparency across these complex contracts.
+
+“It not only drives process efficiencies, but it also drives a level of transparency that creates a lot more trust in these smart contracts that get written within our industry, so I think that that’s the domain or the characteristic of insurance and reinsurance where blockchain will continue to gain a lot of popularity.”
+
+In addition to blockchain enabled contracts’ impact to firms external underwriting value chain, it brings the promise of revolutionising the outdated re/insurance internal administration space.
+
+Lloyd’s new Chairman, Bruce Carnegie-Dale, recently commented on the urgent need for this aspect of the industry to be modernised; “I don’t think the industry is doing enough to innovate,” he said, “insurance has been writing property cover for hundreds of years.
+
+“If you look at the largest companies by market cap now they are mostly characterised by intangible assets rather than tangible assets and we’ve got to make sure the industry is innovative enough to respond to those opportunities,” Carnegie-Dale told the Financial Times.
+
+Patel notes that smart contracts may just be the answer to the industry’s modernisation struggle, as they stand to revamp the industry’s outdated reliance on manual and paper based processes; “A lot of these processes today in the absence of different systems between the entities talking to each other, are often done manually.
+
+“A lot of these processes usually take the form of multiple phonecalls, that happen between the parties to make sure …. There’s manual faxes, emails that are scanned and get sent back and forth to make sure the goods have shipped.
+
+“The intent of using blockchain for these complex multi-party reinsurance contracts is to automate some of those event triggers, and activities that are required for the administration of that contract, so at the base level that’s one area where a lot of these process efficiencies, get triggered.
+
+“The other component and this is true across any blockchain enabled smart-contract, is the ability to provide rule-based, and need-to-know based visibility and transparency of the contract to interested parties.
+
+Now not every interested party needs to see the entire contract, or have visibility around what’s happening with the entire contract, but if you are a broker and your commission is predicated on the policy getting bound or a certain part of the contract getting executed, having visibility into that and that transparency to ensure you see that trigger you get transparency into when that event actually happens, prevents cycles of phone calls and follow-ups that tend to happen.
+
+“This is where I believe that how we pick the use cases for using blockchain and really move them into production becomes really important, said Patel;  “And where do we really see the greatest value?
+
+“I think where we will see the greatest value is where you’ve got more multiple parties involved with a fair number of manual interventions because of systems not talking to each other.”
+
+

@@ -1,0 +1,21 @@
+Beazley partners with Risk Cooperative and Bitfury on blockchain registry
+
+2nd May 2018 - Author: Matt Sheehan
+
+Beazley has partnered with Lloyd’s coverholder Risk Cooperative and blockchain technology company Bitfury to develop a blockchain-based risk registry for crisis re/insurance and risk management.
+
+The blockchain based-system aims to provide a single source of accurate, real-time information on a policy so that re/insurers and service providers can react more quickly and effectively in crisis situations and better support impacted communities.
+
+This project is believed to be the first of its kind, and will begin with the creation of a permissioned blockchain that allows all entities to share policy information in real-time, while protecting a contract’s historical accuracy.
+
+Following this, the partnership will develop smart contracts, event logs, and notification services using innovative threat intelligence technology.
+
+Chris Parker, Political Violence Underwriter at Beazley, said: “Creating a technology-enabled approach for our physical security coverage is the first step in transforming the way that Beazley supports its clients in times of crisis. It creates a virtuous circle of transparency and accountability for all parties over the lifetime of an insurance policy. It has enormous potential to be truly transformative.”
+
+Dante Disparte, Chief Executive Officer (CEO) of Risk Cooperative, also commented: “Our clients trust us to protect them against risk and act swiftly when required. A blockchain-based risk registry will allow many processes to be streamlined and automated, and, more importantly, we can respond in the most effective way possible to the critical needs of individuals, organizations and communities.”
+
+Valery Vavilov, CEO of Bitfury, added: “Blockchain is synonymous with trust. It can digitize trust in a process, trust in a system and trust between parties. By building a ‘digital oracle’ for insurance policies, we can prioritize the needs of policyholders, while making the insurance process much more efficient.”
+
+The partnership will also be supported by the innovation team behind Emercoin, a provider of distributed blockchain business services.
+
+

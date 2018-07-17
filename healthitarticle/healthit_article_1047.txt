@@ -1,0 +1,28 @@
+UPMC Gene Test Brings Personalized Medicine to Cardiac Care
+
+February 11, 2016
+
+By Jennifer Bresnick
+February 11, 2016 - Clinicians at the University of Pittsburgh Medical Center are bringing personalized medicine into the routine care process for cardiac patients in need of stents for clogged arteries by using a simple blood test to identify gene variants that may impact their treatment.
+The test for patients at the UPMC Presbyterian catheterization lab identifies individuals with a gene variation that reduces their ability to respond to a commonly used blood thinning medication, explains A.J. Conrad Smith, MD, director of UPMC’s cardiac catheterization laboratories.
+“We know that some of our patients do not have an optimal response to clopidogrel so their arteries could become blocked again, which puts them at risk for heart attack and hospitalization,” he said.
+“Now, with our pharmacist colleagues, we can analyze the pharmacogenomic test results along with other clinical data to choose a medication that will reduce a patient’s chance of recurrent clots and a return to the hospital.”
+Dig Deeper
+California Gov. Establishes Precision Medicine Advisory Committee
+Broader Availability of Genetic Testing a Boon for Precision Care
+Next-Generation Genomics, Precision Medicine to Top $100B
+The precision medicine project, called PreCISE-Rx (Pharmacogenomics-guided Care to Improve the Safety and Effectiveness of Medications), is one of the first of its kind to be deployed in the hospital setting, and involved a multidisciplinary effort to integrate the gene testing data into the electronic health record.  The information is also collected in UPMC’s big data analytics systems to inform future research efforts.
+“Increasingly we are able to pinpoint gene variations and other factors that affect how patients metabolize drugs, allowing us to more precisely target the right drug for the right patient,” said Philip Empey, PharmD, PhD, assistant professor of pharmacy and therapeutics at the University of Pittsburgh School of Pharmacy, and the leader of this program.
+“Our intent is to select the best medication for each patient based on their genes,” he continued. “Most drugs, such as antibiotics, psychiatric medications and painkillers, don’t work for everybody. As we learn more about the genetic, environmental and other factors that shape drug metabolism, the current one-kind-fits-all approach will give way to personalized and more effective treatments.”
+The University of Pittsburgh (UPitt), along with several other academic organizations in Pennsylvania, are making personalized medicine a top priority for their research cadres. 
+UPitt one of the recipients of a $5 million state grant to explore the role of genomics in the treatment of breast and lung cancers, a project that utilizes big data analytics and machine learning to combine clinical outcomes and genetic information.
+“Once we have the methods that tell us what we should focus on for a patient’s specific needs, then it’s relatively easy to profile the sample that the patient providers in order to recommend the ideal line of treatment,” said Ziv Bar-Joseph, PhD, professor of computational biology at Carnegie Mellon, to HealthITAnalytics.com when discussing the Big Data For Better Health (BD4BH) project.
+“With cancer, there are often multiple options, and one of the big questions precision medicine is trying to answer is which one should be assigned to an individual.”
+The Children’s Hospital of Philadelphia is also getting into the business of operationalizing precision medicine with its newly founded Center for Data Driven Discovery in Biomedicine.  The Center is one of the first organizations focused exclusively on pediatric personalized medicine research, and will take an open-source approach to its activities.
+"We are encouraged by examples of how other data-driven industries are entirely transforming sectors of the economy simply by harnessing the power of data through connectivity," said founding director Adam Resnick, PhD.
+"Our center aims to apply this approach to biomedicine and use secure open-source, open-access models of discovery and information-sharing to streamline collaboration among national networks of clinicians and scientists, and facilitate new precision medicine approaches in pediatric treatments."
+The catheterization lab program at UPMC also intends to leverage its big data analytics work for the greater good, added Steven Shapiro, MD, Chief Medical and Scientific Officer at UPMC.
+“This effort could greatly help patients while reducing the costs of hospital readmissions and recurrent illness,” said Steven Shapiro, MD, chief medical and scientific officer of UPMC. “It also holds the promise of revealing insights into the genetic basis of disease and treatment response because we can warehouse and analyze the collected data in ways that were never possible before.”
+Tagged Medical ResearchPersonalized MedicinePrecision MedicineQuality Of Care
+
+

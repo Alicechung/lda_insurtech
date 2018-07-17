@@ -1,0 +1,17 @@
+Care coordination pilot will create clinical analytics dashboard
+
+July 22, 2014
+
+By Jennifer Bresnick
+July 22, 2014 - Chronic disease patients in upstate New York will get a little extra help staying out of the hospital from the University of Buffalo School of Nursing after a $300,000 grant to explore methods of improving care transitions through the use of health information exchange, data analytics, and follow-up phone calls.  The Agency for Healthcare Research and Quality (AHRQ) grant will allow nurses to study how using a clinical analytics dashboard can improve follow-up after discharge and reduce preventable 30-day readmissions.
+“Our project will use the electronic health record to exchange health information across settings in real time and provide decision support to nurse care coordinators in primary care offices to proactively prevent re-hospitalization,” says grant author Sharon Hewner, PhD, RN, Assistant Professor of Nursing at the University of Buffalo and an informatics specialist. “Our study will try to improve the identification of patients who are at-risk for being readmitted by using the COMPLEXedex, a hierarchical algorithm which divides the population into healthy, at-risk, chronic and complex cohorts based on nine prevalent chronic conditions.”
+Hewner believes that arming primary care providers with risk scores and clinical analytics can help to create targeted interventions for the highest risk patients, and that assigning a care coordinator to call patients at risk of relapse is a low-cost and effective way to reduce readmissions.  Such preventative care strategies are becoming increasingly widespread as providers seek efficient ways to cut expensive penalties for lengthy and unnecessary hospital stays.
+One arm of the study will be devoted to developing a care transitions dashboard that integrates hospital discharge alerts from the HEALTHeLINK health information exchange with EHR information and other data to help providers form an individualized care plan.  The dashboard will also take into account a patient’s social situation, such as health literacy and care resources in the home, to track what tools he or she might need to continue leading a healthy lifestyle.
+Dig Deeper
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Identifying Big Data Sources for Population Health Management
+How Care Management, Care Coordination Differ in Health IT
+“Our working hypothesis is that timely notification in the form of discharge alerts and system-wide understanding of the patient’s condition and their social and medical complexity will reduce follow-up time and encourage better patient outcomes,” Hewner says.  “The project lays the groundwork for future research focused on sustaining the improvement through securing reimbursement for outreach, evaluating the most cost-effective interventions, and customizing outreach for different populations.”
+  Tagged Care CoordinationChronic Disease ManagementClinical AnalyticsPopulation Health Management
+
+

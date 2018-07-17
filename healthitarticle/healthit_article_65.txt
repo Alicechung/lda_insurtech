@@ -1,0 +1,77 @@
+Why Healthcare Should Study Up on Lessons Learned in Fintech
+
+May 22, 2018
+
+By Jennifer Bresnick
+May 22, 2018 - The healthcare industry’s slow but steady transition from volume to value is about much more than reshaping the delivery of clinical care. 
+While improving quality is certainly a daunting challenge in and of itself, stakeholders are also facing the conundrum of how to deliver meaningful, engaging, positive experiences to consumers without raising costs.
+As out-of-pocket costs rise and prescription drug spending continues to soar to unsustainable levels, a “good experience” for patients often revolves around personalized financial planning, price transparency data, and the ability to make payments in a quick, convenient manner.
+As a whole, the healthcare industry has not yet cracked the secret of using its maturing health IT ecosystem to develop intuitive, retail-style financial engagement opportunities for its consumers. 
+Luckily, healthcare providers and payers aren’t the only entities that are struggling to figure out how to maximize revenue collection, use the resulting data to personalize future interactions, and ensure that consumers leave the transaction feeling satisfied.
+READ MORE: With New Players Looming, Healthcare Needs Big Data to Support Scale
+The financial services industry is undergoing a similarly consumer-driven transition from legacy processes to on-demand accessibility to a variety of non-traditional payment, banking, and asset management options. 
+Their secret to success is fintech: a broad category of innovative technologies that is doing for banking what the EHR did for the healthcare provider. 
+By altering the very nature of how financial stakeholders interact with technology, fintech is changing the definition of what it means to participate in a transaction, in much the same way that big data analytics and predictive risk scoring is revolutionizing what it means to make an informed clinical decision.
+The fintech industry holds a number of lessons for healthcare providers who are trying to find the missing component of their business intelligence and customer relationship roadmaps. 
+How can providers, payers, and other members of the care continuum take advantage of the fintech revolution to improve their patient experiences and generate actionable insights into their revenue cycles?
+WHAT IS FINTECH?
+READ MORE: Meeting the Challenge of Healthcare Consumerism with Big Data Analytics
+The term “fintech” originated as a portmanteau of “financial technology,” but the shortened version has come to have a more specific meaning than its component parts. 
+Fintech refers to the latest generation of technologies that are revolutionizing the financial system, including blockchain and cryptocurrency, mobile transactions, innovative investment services, and the use of machine learning, artificial intelligence or other big data analytics approaches to develop more meaningful predictions and insights.
+These technologies are being applied to four major areas that together comprise the financial ecosystem that are intertwined with all other sectors of the economy: payments, banking, insurance, and asset management.
+Paypal is one of the most successful examples of this new wave of financial technologies.  In the early 2000s, the idea of allowing person-to-person payments – over the internet, no less – was a novel way to approach transactions. 
+The third-party intermediary helped shape the emerging world of e-commerce, and has since inspired dozens of peer-to-peer transaction service providers to try to claim a piece of the growing demand for quick and easy mobile payment tools that now support the burgeoning gig economy.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+In an increasingly mobile society, companies are developing innovative payment, banking, and wealth management options that take advantage of smartphones, Internet of Things devices, and APIs that allow third-party applications to facilitate payment transactions. 
+Ease of use, speed, and security are top priorities for developers.  But perhaps their greatest challenge is keeping up with consumer expectations around accessibility and decreasing loyalties to traditional methods of managing transactions and engaging in relationships with legacy institutions – challenges that are intimately familiar to members of the healthcare industry, as well.
+Fintech players include both established companies and startups, all vying to achieve the ultimate goal of “disrupting” the current environment with the help of venture capitalists willing to make a bet that they have found their next billion-dollar unicorn.
+Investors in the segment are eager to comply.  According to KPMG, global investors doled out $8.7 billion in funding to fintech companies during the last quarter of 2017, bringing the year’s total to a staggering $31 billion.
+Insurance technologies and blockchain were among the most popular areas of investment, accruing $2.1 billion and $512 million, respectively, during 2017.
+Startups are among the biggest beneficiaries of this infusion of cash.  From 2012 to 2016, entrepreneurs founded more than 2600 companies, says a 2017 report by Deloitte, more than half of which are focused on the banking or insurance segments.
+Source: Deloitte
+In the nine years between 2008 and 2017, more than 440 of those companies have targeted insurance customer acquisition, and 417 have been dedicated to improving operations within entities offering products including life, auto, commercial, property, and health insurance.
+WHAT ARE THE PARALLELS BETWEEN FINTECH AND HEALTHCARE?
+Fintech companies are particularly interested in offering new strategies to banking users for the same reason that startups and non-traditional players in the consumer technology world see such lucrative opportunities in healthcare.
+Both banking and healthcare are built upon the idea that consumers will choose a service provider and develop a loyalty to that brand and its network of offerings. 
+Banks and healthcare organizations have both operated in a fee-for-service model, which incentivizes volume and is less concerned about long-term outcomes.
+Banks profit off of fees and interest payments when customers use as many of their services as possible, including taking out loans, opening savings accounts, or utilizing credit through their lending channels. 
+Healthcare has functioned along similar lines, but unsustainable cost inflation, coupled with changing consumer expectations and new pressures on payers to reduce costs, has prompted the long, slow shift from volume to value.
+The financial sector is seeing some of the same stressors that are bringing change to healthcare.  While the ultimate goal of the financial system may be slightly different, there are shared challenges around emerging consumer habits that are rendering traditional marketing, retention, and engagement strategies obsolete.
+The financial environment is changing significantly due to the rise of peer-to-peer lending, growing interest in decentralized currencies, and payment options integrated into lifestyle tech platforms like digital wallets offered by Apple, Samsung, or Google.
+Source: PwC
+Traditional financial institutions are being forced to prove their ongoing value to consumers in much the same way that healthcare delivery systems must persuade patients that staying within their network will offer the most options while ensuring the highest quality at the lowest price.
+But while healthcare has been relatively hesitant to embrace technology as a way to overcome these barriers, most financial executives have no such qualms as they face the rise of powerful new competitors.
+Eighty-eight percent of traditional financial stakeholders believe that their businesses are already at risk from fintech, says the 2017 Global Fintech Report from PwC, and 77 percent are planning to increase their investment in internal innovation to compensate for these threats.
+And much like in the healthcare industry, both incumbent financial institutions and their start-up fintech competitors will be relying on data analytics and two game-changing technologies – artificial intelligence and blockchain – to get a leg up on their competition.
+Half of all established fintech companies are looking to blockchain as their technology of choice to create new services, while 46 percent are planning to leverage AI during 2018.
+And as they do so, they will face many of the same obstacles currently plaguing healthcare organizations. 
+Source: PwC
+Data security, regulatory uncertainty, lack of organizational buy-in, interoperability with legacy systems, and insufficient resources for up-front investment are all major concerns for both start-up fintech entities and their incumbent peers.
+SO WHY DOES FINTECH MATTER TO HEALTHCARE?
+Clinical quality, patient safety, and long-term outcomes will always be the top priority for healthcare providers and payers, but the consumer experience is – or should be – running a very close second for stakeholders across the industry.
+Soaring out-of-pocket costs for patients are leading to choosier consumers who are considering more than the proximity of a local hospital when making a decision about where to seek care. 
+Federal efforts to increase price transparency and the availability of care quality information are giving patients the tools they need to shop around for providers and elective procedures.
+And a growing expectation that digital services for payment, communication, and price comparisons will simply be available is putting the squeeze on providers who haven’t yet invested in online consumer relationship tools.
+Eighty percent of patients want to be able to pay their insurance bills digitally, and 68 percent would like to be able to clear their balances with their providers by using online tools.
+Yet 77 percent of providers are still using paper billing statements to conduct at least some of their financial transactions.  In 2017, only 4 percent of practice leaders expressed any interest in digital bill pay options, according to a survey by MGMA and Navicure.
+The mismatch doesn’t just indicate an opportunity for digital payment companies to fill a clear need. It also exposes a worrying disconnect between how providers view their existing processes and what their patients really want to experience.
+Earlier in 2018, a poll from NTT DATA Services pointed out that 59 percent of patients want their healthcare experiences to align with what they are offered in retail.  Half of patients said they would consider leaving their current providers if they found another option that offered more technology tools.
+Ultimately, healthcare is a business that is built on payments, and modernizing this aspect of the consumer experience can significantly improve revenue cycle management as well as patient experience scores that, in turn, help build strong reputations for picky consumers to evaluate.
+Provider organizations that fail to meet these expectations are likely to find that their patients are taking their hard-earned dollars elsewhere, which is just as problematic under value-based care as it is in the fee-for-service world.
+On the insurance side, payers should be just as worried.  Consumers are generally tepid when judging their interactions with payers, and failure to react to changing definitions of a good experience will leave legacy payers vulnerable to the same upstart forces that are threatening incumbent banks.
+From the successful upstart Oscar Health to the CVS and Aetna merger to the new entity in the works from Amazon, Berkshire Hathaway, and JP Morgan, technology-driven insurance companies are altering the status quo.
+Data is the currency of these new ventures, and fintech – or insurtech, to get even more precise – is powering the predictive analytics, fraud detection, identify management, and security protocols required to compete in the modern environment.
+Customer intelligence “will be the most important predictor of revenue growth and profitability” in the fintech world, says PwC, and translating those insights into personalized experiences will be a close second. 
+The massive investment interest in the insurance-focused fintech segment hints at the fact that health plan members aren’t the only ones who think the time is right for change.
+To their credit, insurers are getting on board with insurtech-driven improvements at a brisk pace.  In late 2017, Change Healthcare found that 80 percent of health plans had started investing in technologies and strategies that will create more member engagement, with 61 percent stating that offering better relationships was quickly becoming a competitive differentiator.
+Retail-style member relations are in high demand, with some payers even luring analytics experts from the retail industry to guide their efforts to become more consumer friendly without raising costs.
+Payers are also working to strengthen their back office processes with better analytics, blockchain-based claims management, and fraud detection powered by AI.
+Fintech companies are well aware of this crossover potential, and many are building a healthcare angle into their core offerings or partnering with entities from the healthcare industry to help attract providers and payers looking to take advantage of the financial industry’s successes. 
+Some are even marketing financial planning, benefit selection, or decision-making tools directly to patients, bypassing incumbent entities all together to meet the growing demand.
+As healthcare consumers continue to take more control over their spending, insurance companies and care providers will soon find themselves in an even tighter race to secure the good opinions of their patients and plan members.
+Without the right technologies to create meaningful, engaging experiences that exceed baseline expectations, they may soon find it challenging to maintain their revenues, especially as value-based care alters their cash flow.
+The rapidly expanding world of fintech could offer a new range of solutions that allows healthcare to deliver personalized, mobile-friendly, digital experiences to their consumers. 
+Taking advantage of what fintech has already accomplished – and what it hopes to bring to healthcare – could be a promising avenue for payer and provider stakeholders that want to secure a place in the category of disruptor instead of disrupted.
+Tagged Analytics InfrastructureConsumerism in healthcareFinancial AnalyticsHealthcare Revenue CyclePatient EngagementPatient experiencePatient financial responsibility
+
+

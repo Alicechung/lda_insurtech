@@ -1,0 +1,123 @@
+How visualizing big data brings meaning to clinical analytics
+
+June 19, 2014
+
+By Sponsored Content
+June 19, 2014 - Now that the healthcare informatics industry has figured out how to harvest Big Data, the next big challenge is figuring out how to display the information in ways that are useful.
+Data visualization tools have made it somewhat easier to glean intelligence from volumes of information in the hopes of improving health programs, clinical healthcare delivery, and public health policy. But they have failed to incorporate the science of human visual perception into the technology, resulting in tools that deliver great “eye candy” but poor human comprehension of the data.
+Helping people find outliers, expose hidden trends or clusters, and dive deep into fast changing data sets is where visualization provides real value. As healthcare meets the “Internet of things,” the ability to discover anomalies in real-time streaming data from thousands of medical devices, sensors and monitors will be of huge value.  Or as EHR databases become ubiquitous, for example, effective visualization of the data could unveil previously unseen adverse treatment patterns.
+Today, a new generation visual data discovery technologies are emerging that incorporate human psycho-visual principles to produce visualizations that are easily understood. What’s also new is that these technologies can now visualize data “in flight,” before it gets warehoused, to help users discover unexpected patterns, outliers and relationships in real-time data.
+Top Healthcare Business Intelligence Companies by Hospital Users
+NQF Proposes Guiding Principles for Health IT Patient Safety
+EHR analytics creates drug safety dashboard at VA hospitals
+Artificial Intelligence in Healthcare: Augmentation or Companionship?
+SGR Fix to Simplify Quality Reporting, Value-Based Payments
+Five essentials for building the patient-centered medical home
+Can the ONC, EHR Vendors Fix Healthcare Data Interoperability?
+Healthcare Big Data Silos Prevent Delivery of Coordinated Care
+What can Google searches reveal about health disparities?
+Patient-Centered Medical Home Complements Healthcare Reform
+High-Need Patients a Challenge for Population Health Management
+CDC Focuses on Patient Safety with Expanded Sepsis Education
+Feb. 26 HIMSS14 vendor news, announcements, & demonstrations
+AHIMA: “Long-Awaited” ICD-10 Implementation is Good for Patients
+Patient-Centered Medical Home Keeps Spending Low, Quality High
+Outsourcing Computer Assisted Coding, CDI Brings 93% of Hospitals Revenue
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Few Healthcare Business Intelligence Users Join an ACO, HIE
+Debate, concern over AHA cardiac risk calculator grows
+New Panel to Lead Cancer Moonshot Project for Precision Medicine
+IL Medicaid experiments with pop. health, clinical integration
+IoT, Big Data to Spur Health Data Interoperability in 2016
+BCBS Illinois, GI specialty group start care coordination pilot
+UMass Gets $5.5M Chan-Zuckerberg Grant for Healthcare AI Work
+89% of Execs Say Big Data Analytics is Key to Market Share
+EHR Data Standards Driven by Market Forces, Not Vendor Cabal
+Collaboration, Big Data Help Phoenix Children’s Focus on Value-Based Care
+Care Coordination Improves Outcomes for Dual Eligible Patients
+Intelligent Planning Is Key for Healthcare Big Data Analytics
+NIH Launches Big Data Analytics Portal for Alzheimer’s Research
+CMS Releases Medicare Opioid Prescribing Maps, Data Resources
+EHRs, Clinical Decision Support Top 2017 Patient Safety Hazard List
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+Patient Management, Attribution Program Expands Access to Care
+Changing Leadership at CMS, ONC as New Administration Moves In
+WVU Genetic Test to Improve Lung Cancer Treatment
+AMA, Coalition Continue Tussle over ICD-10 Implementation
+Diabetes Medication Adherence Cuts Costs by 4%, Boosts Outcomes
+Patient Matching Issues Increase Costs, Threaten Patient Safety
+MGH, MIT partner on clinical analytics, diagnostics research
+Social Determinants of Health Dashboard Expands to 500 Cities
+Borrowed from Retail, Anthem’s Big Data Analytics Boost Member Engagement
+HIM Pros Can Help Optimize EHRs, Interpret Big Data Analytics
+Accountable Care, ACA Bring Medicare Stability until 2030
+HARM score predicts colorectal surgery quality, outcomes
+93% of CMIOs Experience Clinical Decision Support Malfunctions
+CIOs Plan to Invest More in AI, Predictive Analytics, Big Data Tools
+CA Children’s Hospitals Win Davies Award for Analytics, Safety
+How Retail Health Clinics Impact Population Health Management
+Point of Care Diagnostics Usher in Era of Personalized Medicine
+CMS Details MACRA Quality Reporting, Payment Reform Proposals
+Case study: PCMH transformation relied on teamwork, technology
+PCMH Care Coordination Program Cuts Hospital Readmissions
+HIMSS Health IT Score Gauges Value of EHR, Big Data Adoption
+CMS Details Methods for Streamlined Quality Program Reporting
+Healthcare and big data: From dictatorship to democracy
+Nursing Quality Analytics Data Can Raise Patient Satisfaction
+mHealth Messages Improve Diabetes Chronic Disease Management
+High physician workload impacts length of stay, cost of care
+UnitedHealth Supports Bundled Payments with Health Data Analytics
+Clinical documentation needs quality assurance as well as CDI
+Study: Automated readmissions review not yet sensitive enough
+CHIME, DirectTrust Partner for “Universal” Health Data Exchange
+Accountable care extends Medicare hospital funds to 2030
+How Accountable Care Impacts Population Health Management
+Interoperability, Population Health Remain Top EHR Challenges
+ONC Releases C-CDA “Checkup” Tool for Healthcare Providers
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+ONC Releases Final 2016 Health Data Interoperability Advisory
+EHR, analytics fragmentation presents challenges for hospital
+Study: Socioeconomics, communities play role in cardiac health
+FDA: Interoperability a Core Requirement for Precision Medicine
+CMS: Big Data Access Vital for Precision Medicine, Drug Pricing
+Montefiore Semantic Data Lake Tackles Predictive Analytics
+Do mammogram screenings do more harm than good for patients?
+Chronic Care Management Improves Pediatric Outcomes by 20%
+Healthcare Internet of Things Investment is Just Getting Started
+As Imaging Analytics Grows, Healthcare Orgs Should Proceed Cautiously
+Healthcare Big Data Analytics Driving Billions in Market Growth
+ACC: Big Data, Coordination Key for Population Health Management
+Survey: Population health, analytics top priorities for providers
+Predictive Analytics, Accountable Care Markets to See Rapid Growth
+Can Cloud Big Data Analytics Fix Healthcare’s Insight Problem?
+Top 4 Emerging Tech Trends in Healthcare Big Data Analytics
+HHS, USDA Invest $1B in Rural Health, Care Coordination
+200+ Healthcare Orgs Share Vision for Primary Care Transformation
+PCORI Offers $200M in Grants for Patient-Centered Research
+Clinical analytics market to reach $12.26 billion in 2019
+Tech Giants Give Healthcare Artificial Intelligence Start-Ups a Boost
+HIV/AIDS Patient Registries, EHR Use Improve Population Health
+Mass. grants foster clinical analytics, patient engagement
+Using Health Coaching to Improve Chronic Disease Management
+Concierge Medicine Takes 3 Years to Show Return on Investment
+48% of Businesses, Including Healthcare, Face Big Data Skills Gap
+With New Players Looming, Healthcare Needs Big Data to Support Scale
+Top 5 Questions for Payers about Population Health Initiatives
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Twitter could track HIV outbreaks for population health help
+Population health best practices: Diet, exercise, and data
+Why Passivity Is Key to the Healthcare Internet of Things
+Leveraging our pre-attentive processing capabilities
+New healthcare visualization interfaces are incorporating the principle of pre-attentive processing, which are the visual properties that people process almost subconsciously within milliseconds without the need for focused attention. In effect, it takes advantage of the innate pattern-sensing capabilities that everyone possesses.
+Different shapes in 2D or 3D, colors differing in hue, saturation and brightness, graphic patterns or placement in a two-dimensional space are all things that humans perceive automatically and unconsciously. Using this power, a load is taken off the short-term memory which otherwise would have a lot more parameters to keep track of through conscious, intellectually costly processes.
+For example, the automated and effortless perception of information is what visualization tools such as treemaps make use of. Treemaps are great for analytical problems that require people to find patterns, clusters, gaps, or outliers in very large data sets.
+The University of Maryland’s Human-Computer Interaction Lab, for instance, developed a Gene Ontology analytic application using treemaps to gain greater insight in genomic processes and their biological functions. The application gives users a 19-level hierarchical acyclic graph that catalogs approximately 14,000 genes according to their biological functions. Users can quickly view and spot patterns in the gene ontology while showing expression level data with color and size coding. The application is helping to accelerate research with a more visually intuitive way to exploring the gene ontology for understanding things microarray gene chip experimental results.
+Real-time visualization
+As volumes of data for things like patient care, insurance claims and medications grows exponentially, healthcare facilities need real-time analytical capabilities to improve the quality and effectiveness of their services. The ability to analyze real time data “in flight” is becoming increasingly important in healthcare informatics for applications like epidemic monitoring, geographic epidemiology and gene expression microarray analysis. For example, hospitals are increasingly using data visualization to monitor end-to-end care delivery across a variety of settings. Applications like clinical decision support systems connect real-time clinical observations like physiological data, such as that streaming from a bedside monitoring device in a hospital room, with health knowledge to improve patient outcomes.
+Real-time visualization can also be put to work for operational purposes. It can help healthcare administrators identify the drivers of critical healthcare variables impacting cost, track patient care compliance metrics, understand staff utilization, or detect fraudulent insurance claims.
+Good data visualization systems can handle thousands of updates per second streaming in from a variety of sources and allow dashboard designers to aggregate that data and use it to generate new calculated fields as required.
+The wrap-up
+Combining real-time data “in flight” with interfaces optimized for pre-attentive processing and similar human cognitive processes can dramatically reshape how healthcare informatics can improve Data gets clinical, operational and medical research decisions. Displaying healthcare data in visual formats requires an in depth understanding of the human psycho-visual system to produce visualizations that are easily understood.
+  Tagged Analytics InfrastructureBig DataClinical AnalyticsHealthcare Informatics
+
+

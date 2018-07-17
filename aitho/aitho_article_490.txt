@@ -1,0 +1,14 @@
+Microsoft Acquires Semantic Machines, Advancing The State Of Conversational AI
+
+23 May 2018
+
+Combining Semantic Machines’ Technology with Microsoft’s Own AI Advances, Microsoft Aims to Deliver Powerful, Natural and More Productive User Experiences
+AI researchers have made great strides in recent years, but we are still at the beginning of teaching computers to understand the full context of human communication. Most of today’s bots and intelligent assistants respond to simple commands and queries, such as giving a weather report, playing a song or sharing a reminder, but aren’t able to understand meaning or carry on conversations. For rich and effective communication, intelligent assistants need to be able to have a natural dialogue instead of just responding to commands. We call this “conversational AI.”
+Microsoft recently announced that it has acquired Semantic Machines Inc., a Berkeley, California-based company that has developed a revolutionary new approach to building conversational AI. Their work uses the power of machine learning to enable users to discover, access and interact with information and services in a much more natural way, and with significantly less effort.
+Read More: Trescon’s World Blockchain Summit To Touchdown In Frankfurt
+The company is led by many pioneers in conversational AI, including technology entrepreneur Dan Roth and two of the most prominent and innovative natural language AI researchers in the world, UC Berkeley professor Dan Klein and Stanford University professor Percy Liang, as well as former Apple chief speech scientist Larry Gillick.
+Microsoft has driven research and breakthroughs in the fundamental building blocks of conversational AI, such as speech recognition and natural language understanding, for more than two decades. In 2016, Microsoft took another big step toward realizing this vision of conversational computing with the introduction of a framework for developing bots and the release of pre-built Cognitive Services for infusing speech recognition and natural language understanding into intelligent assistants. Today, there are more than 1 million developers using Microsoft Cognitive Services and more than 300,000 developers using the Azure Bot Service, all helping to make computing more conversational.
+Read More: Interview With Alexandre Debecker, Chief Growth Officer – Ubisend
+With the acquisition of Semantic Machines, Microsoft hopes to establish a conversational AI center of excellence in Berkeley to push forward the boundaries of what is possible in language interfaces. Combining Semantic Machines’ technology with Microsoft’s own AI advances, Microsoft aims to deliver powerful, natural and more productive user experiences that will take conversational computing to a new level.
+
+

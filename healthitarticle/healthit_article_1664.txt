@@ -1,0 +1,19 @@
+Predictive Analytics Algorithm Targets Superbug Resistance
+
+January 06, 2015
+
+By Jennifer Bresnick
+A predictive analytics algorithm accurately identified MRSA mutations that increased drug resistance, announced researchers.
+January 06, 2015 - Software based on a predictive analytics algorithm developed by researchers at Duke University can accurately identify genetic changes in bacteria that allow superbugs such as MRSA to develop resistances to new drugs, according to research published last month in the Proceedings of the National Academy of Sciences.  The Open Source Protein Redesign for You (OSPREY) software, an open source program available for free online, identifies changes to the bacteria’s DNA that may lead to new mutations and increased ability to thrive in infected patients despite their physician’s best efforts.
+Methicillin-resistant Staphylococcus aureus, or MRSA, is a leading culprit of hospital-acquired infections and subsequent deaths.  While MRSA rates have fallen significantly over the last decade, thanks to hospital quality improvement programs backed by financial penalties, more than 75,000 patients per year still acquire MRSA infections and over 8000 die from the condition.  The proportion of Staphylococcus aureus infections categorized as drug-resistant has risen rapidly over the past half century, leaving pharmaceutical developers scrambling to develop treatments that stay one step ahead of the bacteria.
+“If we can somehow predict how bacteria might respond to a particular drug ahead of time, we can change the drug, or plan for the next one, or rule out therapies that are unlikely to remain effective for long,” said Pablo Gainza-Cirauqui, a PhD student at Duke and a co-author of the study, in a press release.  “For some antibiotics, the first drug-resistant bacterial strains don’t appear for decades after the drug is introduced, and in others all it takes is one year.”
+“We wanted to find out what countermoves the bacteria are likely to employ against these novel compounds. Will they be the same old mutations we’ve seen before, or might the bacteria do new things instead?” added Bruce Donald, PhD, a professor of computer science, biochemistry, and electrical engineering at Duke.  OSPREY was developed at the Donald Lab, while the research was funded by grants from the National Institutes of Health and the US Department of Energy.  “This gives us a window into the future to see what bacteria will do to evade drugs that we design before a drug is deployed.”
+Dig Deeper
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Clinical Analytics Studies, Partnerships Target Personalized Care
+After identifying a number of possible mutations that may lead to resistance to propargyl-linked antifolates, a novel group of drugs that hold promise for treating MRSA, the OSPREY algorithm focused on four single nucleotide polymorphisms that might be responsible for allowing the bacteria to outsmart the antibiotic.  After treating live MRSA culture with the drug, the bacteria mutated exactly as predicted, confirming the algorithm’s guess.  More than half of the colonies that survived the treatment showed the predicted mutation, which reduced the effectiveness of the drug by 58 percent.
+“The fact that we actually found the new predicted mutations in bacteria is very exciting,” said Donald.  “We might even be able to coax a pathogen into developing mutations that enable it to evade one drug, but that then make it particularly susceptible to a second drug, like a one-two punch.”
+Tagged Clinical AnalyticsMedical ResearchPatient Safety
+
+

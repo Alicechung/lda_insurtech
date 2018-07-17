@@ -1,0 +1,33 @@
+Fast-forwarding RegTech Adoption: the Case for Industry Sandbox
+
+June 17, 2017
+
+Industry Sandboxes could be effective pan-industry platforms that support the development, validation and adoption of RegTech solutions in financial services.
+
+ An Industry Sandbox is as a collaborative digital platform that makes it easier for developers to test a product and prove the viability of an innovative solution using industry data, applications programming interfaces (APIs), and off-the-shelf technology solutions. Industry Sandboxes would be open for participation from all players in a FinTech ecosystem, including startups, financial institutions, established data and technology vendors, and regulators.
+
+ Innovate Finance was invited by the FCA to conduct a consultation of the need for an Industry Sandbox and its potential design. Pooling feedback from over 200 participants, 30 contributing authors, and a global survey of best practices, the consultation report, published in early May, presents a menu of use cases and design features that would make an effective sandbox of this type. RegTech adoption was one of these use cases. Why was this raised as an issue in the first place?
+
+ Here are four potential challenges in the development of a RegTech solution in the current market environment:
+
+ Building on these challenges, below is the real-life example of the RegTech company Sybenetix whose Chief Marketing and Strategy Officer, Richard Maton, has developed a use case of an Industry Sandbox.
+
+ A view from, Richard Maton, Chief Marketing and Strategy Office, Sybenetix
+
+ The framework being developed by the industry for MiFIDII data management and reporting provides the catalyst for innovative technologies such as AI and new collaborative models enabled through the Cloud to transform risk and compliance effectiveness for both firms and regulators.
+
+ For example, Sybenetix’s Behavioural Analytics Model applies algorithms to individual decision making to provide a holistic behavioural analysis of market abuse, conduct risk and investment performance. Supervised machine learning is used to eliminate false positives for market abuse surveillance, provide instant insight based on individual behavioural profiles, and an evidence-based conduct risk system for senior managers and accountable individuals.
+
+ Developed for firms and regulators, the Behavioural Analytics System is validated by a community of leading financial institutions and through the traditional processes and timetables of regulatory scrutiny. Sybenetix is currently working with partners to scale its Behavioural Analytics Model using cloud infrastructure being developed for the granular data reporting required by MiFIDII.
+
+ The company is also solving new regulatory challenges associated with the use of AI in financial services. The Industry Sandbox could help accelerate Sybenetix’s development process through a faster, more efficient digital collaboration framework that creates new standards for proactive conduct risk management while further reducing costs and risk for both firms and regulators. Ultimately, the value proposition of the Sandbox for RegTech firms, financial institutions and regulators is its capacity to accelerate off- market testing to on-market use and scaling. The key is designing the right process and testing mechanisms within the Sandbox that all stakeholders can align around to validate new RegTech solutions.
+
+ For example, defining a standardised set of KPIs for more effective regulatory outcomes of new solutions that link directly to the application of core technologies and business models. This should include an assessment of how new solutions and models reduce operational risk compared with legacy systems and models. For example, how systems scale with the speed, breadth, accuracy and transparency required under new regulations.
+
+ The application of this RegTech acceleration framework could extend beyond conduct risk to the broader set of risk and regulatory challenges that RegTech solutions are solving. For example, the development of KYC/AML monitoring, regulation scanning, interpretation, change management, reporting and risk management solutions. Such a framework would enable faster validation of new systems for use by both participants and supervisors. This framework could also help facilitate new collaborative designs of more effective and efficient regulation, such as realtime supervision, and even new models of self-regulation.
+
+ Consequently, the Sandbox could also enable regulators to accelerate how they become more ‘digital’ through a collaborative framework that fits into broader, global policies and mechanisms being developed. For example, integrating an Industry Sandbox with other testing mechanisms such as sprints and sandbox initiatives in other jurisdictions would also benefit Sybenetix, its partners and its global financial institution clients.
+
+ Find more 
+
+

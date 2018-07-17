@@ -1,0 +1,61 @@
+Artificial Intelligence Mobile Coach Can Aid Diabetes Care
+
+January 04, 2018
+
+By Jessica Kent
+January 04, 2018 - At-risk diabetes patients using a mobile health coach driven by artificial intelligence lost similar amounts of weight to patients participating in face-to-face interventions, according to a study published in JMIR Diabetes.
+The study looked at the Lark Health Coach AI (HCAI), a mobile app designed to promote diabetes prevention and management among at-risk users through naturalistic text-based communication and other interactive elements.
+Parts of the HCAI also use methods based on the Medicare Diabetes Prevention Program (MDPP), which offers a classroom-style support group and CDC-approved patient guidelines for better chronic disease management for pre-diabetes and diabetes patients.
+The study analyzed data collected from 70 participants who each completed an average of 103 sessions over the course of 15 weeks. Sessions included text-based conversations between users and the HCAI.
+More than 75 percent of the participants lost weight in the program.
+READ MORE: Artificial Intelligence Will Be Foundational for Health IT in 2018
+The percentage of healthy meals consumed by participants increased by 31 percent, while the percentage of unhealthy meals decreased by 54 percent.
+The study also assessed user satisfaction with a four-question in-app survey and found that the average satisfaction score was 87 percent.
+The study notes that type 2 diabetes is the one of the most expensive and prevalent chronic diseases in the United States. A 2014 study found that annually, diabetes patients spend 2.5 times more on out-of-pocket costs than those without the disease. Lifestyle modification programs can help with weight loss and reduced diabetes risk, but these healthcare resources are limited.
+Additionally, both patients and providers report a lack of time, and patients perceive a lack of provider compassion, says the study.
+Mobile apps like the HCAI may be able to provide patients with an effective alternative to provider-based care. They can also reduce the need for in-person appointments and patient-provider interaction, which could ease the strain on limited healthcare resources.
+READ MORE: CMS Diabetes Prevention Program Cuts Spending, Boosts Outcomes
+The HCAI provides weight loss coaching through a series of modules with topics like goal-setting and self-monitoring. Users are advised to complete the modules within 16 weeks, but they can take longer if necessary.
+The app also offers unlimited quick counseling sessions via text message to help users accomplish their behavior change goals.
+Users enter personal information such as weight, gender, age, and height when setting up the app. They can also enter a goal weight.
+Although the app prompts users to enter their weight, food intake, and physical activity on a weekly basis, users can enter this information at any time and receive feedback.
+The HCAI classifies nutrient-dense foods like vegetables or whole grains as “healthy”, while it classifies foods with many empty calories as “unhealthy.” If a meal contains at least one healthy food and no unhealthy foods, the HCAI determines it as healthy.
+READ MORE: mHealth Messages Improve Diabetes Chronic Disease Management
+If a meal contains at least one unhealthy food and no healthy foods, the HCAI classifies it as unhealthy.
+The HCAI delivers messages of encouragement when users log healthy meals or physical activity. If a user logs an unhealthy meal, the HCAI offers healthier alternatives.
+The HCAI aims to increase access to chronic disease management support by delivering messages that offer decision-making help as well as emotional support. The AI app attempts to identify feelings of success or defeat through user-provided feedback about their struggles and accomplishments.
+The study notes that use of the HCAI resulted in an average weight loss of 2.4 kilograms, or 2.4 percent, which is comparable to other studies that reported weight loss among mobile app users. For example, a separate CDC Web-based DPP program reported an average weight loss of 2.3 percent.
+Additionally, in one study examined, participants used a mobile app other than the Lark app to track their food intake, weight, and physical activity. Over 77 percent of users reported weight loss.
+The weight loss examined in this study is significant when it comes to diabetes risk and prevention. The study notes that weight loss of one kilogram can reduce diabetes risk by as much as 16 percent.
+Past research shows that diabetes and at-risk patients were hesitant to adopt mobile health technology. One 2015 survey found that only 45 percent of diabetes patients tracked their disease using apps and other mobile health tools, while two-fifths of respondents said they preferred traditional methods of care.
+However, as resources for chronic disease management become increasingly limited, health coaching AI is an encouraging alternative. The study notes that the HCAI not only helped participants lose weight and maintain healthy behavior, but also proved to be user accessible.
+The study states that other health coach AI apps are in development for diabetes prevention and management. There is also an app being developed for pre-hypertension management.
+This study demonstrates the potential for AI to assist in chronic disease management. Tools like the HCAI provide support for users to reach their health goals and improve healthy behavior.
+At-risk diabetes patients using a mobile health coach driven by artificial intelligence lost similar amounts of weight to patients participating in face-to-face interventions, according to a study published in JMIR Diabetes.
+The study looked at the Lark Health Coach AI (HCAI), a mobile app designed to promote diabetes prevention and management among at-risk users through naturalistic text-based communication and other interactive elements.
+Parts of the HCAI also use methods based on the Medicare Diabetes Prevention Program (MDPP), which offers a classroom-style support group and CDC-approved patient guidelines for better chronic disease management for pre-diabetes and diabetes patients.
+The study analyzed data collected from 70 participants who each completed an average of 103 sessions over the course of 15 weeks. Sessions included text-based conversations between users and the HCAI.
+More than 75 percent of the participants lost weight in the program.
+The percentage of healthy meals consumed by participants increased by 31 percent, while the percentage of unhealthy meals decreased by 54 percent.
+The study also assessed user satisfaction with a four-question in-app survey and found that the average satisfaction score was 87 percent.
+The study notes that type 2 diabetes is the one of the most expensive and prevalent chronic diseases in the United States. A 2014 study found that annually, diabetes patients spend 2.5 times more on out-of-pocket costs than those without the disease. Lifestyle modification programs can help with weight loss and reduced diabetes risk, but these healthcare resources are limited.
+Additionally, both patients and providers report a lack of time, and patients perceive a lack of provider compassion, says the study.
+Mobile apps like the HCAI may be able to provide patients with an effective alternative to provider-based care. They can also reduce the need for in-person appointments and patient-provider interaction, which could ease the strain on limited healthcare resources.
+The HCAI provides weight loss coaching through a series of modules with topics like goal-setting and self-monitoring. Users are advised to complete the modules within 16 weeks, but they can take longer if necessary.
+The app also offers unlimited quick counseling sessions via text message to help users accomplish their behavior change goals.
+Users enter personal information such as weight, gender, age, and height when setting up the app. They can also enter a goal weight.
+Although the app prompts users to enter their weight, food intake, and physical activity on a weekly basis, users can enter this information at any time and receive feedback.
+The HCAI classifies nutrient-dense foods like vegetables or whole grains as “healthy”, while it classifies foods with many empty calories as “unhealthy.” If a meal contains at least one healthy food and no unhealthy foods, the HCAI determines it as healthy.
+If a meal contains at least one unhealthy food and no healthy foods, the HCAI classifies it as unhealthy.
+The HCAI delivers messages of encouragement when users log healthy meals or physical activity. If a user logs an unhealthy meal, the HCAI offers healthier alternatives.
+The HCAI aims to increase access to chronic disease management support by delivering messages that offer decision-making help as well as emotional support. The AI app attempts to identify feelings of success or defeat through user-provided feedback about their struggles and accomplishments.
+The study notes that use of the HCAI resulted in an average weight loss of 2.4 kilograms, or 2.4 percent, which is comparable to other studies that reported weight loss among mobile app users. For example, a separate CDC Web-based DPP program reported an average weight loss of 2.3 percent.
+Additionally, in one study examined, participants used a mobile app other than the Lark app to track their food intake, weight, and physical activity. Over 77 percent of users reported weight loss.
+The weight loss examined in this study is significant when it comes to diabetes risk and prevention. The study notes that weight loss of one kilogram can reduce diabetes risk by as much as 16 percent.
+Past research shows that diabetes and at-risk patients were hesitant to adopt mobile health technology. One 2015 survey found that only 45 percent of diabetes patients tracked their disease using apps and other mobile health tools, while two-fifths of respondents said they preferred traditional methods of care.
+However, as resources for chronic disease management become increasingly limited, health coaching AI is an encouraging alternative. The study notes that the HCAI not only helped participants lose weight and maintain healthy behavior, but also proved to be user accessible.
+The study states that other health coach AI apps are in development for diabetes prevention and management. There is also an app being developed for pre-hypertension management.
+This study demonstrates the potential for AI to assist in chronic disease management. Tools like the HCAI provide support for users to reach their health goals and improve healthy behavior.
+Tagged Artificial Intelligence in HealthcareChronic Disease ManagementMobile Health ApplicationsMobile Health Technology
+
+

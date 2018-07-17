@@ -1,0 +1,24 @@
+ONC Launches Two FHIR Interoperability App Challenges
+
+March 01, 2016
+
+By Jennifer Bresnick
+March 01, 2016 - LAS VEGAS - When it comes to health data interoperability, FHIR is the name of the game for the Office of the National Coordinator.  At HIMSS16 in Las Vegas, National Coordinator Karen DeSalvo, MD, MPH, MSc, announced two new industry challenges intended to inject a new spark of innovation into the FHIR app-based ecosystem.
+The pair of competitions, along with a separate funding opportunity, will offer a total of $625,000 in prize money and funding for solutions that address some of the most pressing problems in healthcare: helping patients access their data, improving the provider user experience of EHRs and other health IT tools, and coordinating the development of app-based solutions across the industry.
+“This strategy will help us reach the consumer and provider-friendly future of health IT we all seek,” said DeSalvo. “It reflects our guiding principles that consumers and providers should have easy, secure access to health information and the ability to direct that information when and where it is needed most.”
+The first competition challenge will offer $175,000 in potential prizes for developers who can create the best consumer-facing apps to help patients aggregate, access, and control their personal health information.  The apps should use standardized, open APIs, such as HL7’s Fast Health Interoperability Resources (FHIR) to underpin their functionalities.
+Dig Deeper
+Can Application Programming Interfaces Inspire a Better EHR?
+EHRs, IoT, Revenue Cycle Bring Opportunities for Healthcare APIs
+Health IT Vendors, Providers Struggling with API Development
+The same amount of money is up for grabs in the second challenge, which will tackle usability problems on the provider side.  The winners of this contest must present an API-based solution that makes EHR workflows more intuitive, streamlined, and user-friendly.
+In addition to the competitive opportunities, the ONC is looking for a best-in-class option for the creation of an “app discovery site” for the provider community.  With $275,000 in funding on the line, this app marketplace must make it simple for developers to publish standardized utilities for providers to use as they enhance their health IT toolsets.
+“As a healthcare consumer, imagine if you were able to choose a software application to create a secure snapshot of your health information, like pictures that extend over the course of your lifetime,” wrote DeSalvo and Steve Posnack, Director of the ONC Office of Standards and Technology, in an accompanying blog post on Health IT Buzz. 
+“Similarly, imagine as a healthcare provider if you could find apps uniquely tailored to your specialty or role on the care team, and that provide the health information you need in a way that is safe, secure, intuitive, and actionable.”
+“This is the future of health IT we all seek, and the rapid pace of innovation, including the development and use of new standards, continues to demonstrate that these goals are within reach.”
+Private industry is helping to deliver on these promises, DeSalvo and Posnack continue, by helping to build momentum around data standards such as FHIR, an internet-based protocol that allows plug-and-play applications to create customizable ecosystems of health IT tools.
+“These industry-led efforts pave the way for a truly connected healthcare system where consumers and providers can easily and securely access electronic health information and direct it to any desired location,” the blog post continues.
+In conjunction with a separate HHS announcement that the majority of the EHR vendor community has agreed to a core set of three interoperability commitments, the FHIR app challenges hope to accelerate the pace of change in the industry and foster truly innovative partnerships between federal regulators, providers, patients, and developers.
+Tagged Application Programming InterfacesEHR and Patient EngagementEHR InteroperabilityEHR Patient DataFHIRHIMSS16
+
+

@@ -1,0 +1,37 @@
+CMS Unveils Interoperability, EHR Clinical Documentation Changes
+
+July 12, 2018
+
+By Jennifer Bresnick
+July 12, 2018 - CMS has released proposed rules for Medicare that would make good on its promises to promote interoperability, reduce administrative burdens for physicians, and expand patient data access capabilities.
+The proposals, teased over the past few months at major industry events, are part of an ongoing rollout of changes to Medicare that aim to improve efficiency, bolster population health management, streamline documentation processes, and equip patients with the technology tools they need to become active, sustained participants in their care.
+“Today’s proposals deliver on the pledge to put patients over paperwork by enabling doctors to spend more time with their patients,” said CMS Administrator Seema Verma. “Physicians tell us they continue to struggle with excessive regulatory requirements and unnecessary paperwork that steal time from patient care.”
+“The proposed changes to the Physician Fee Schedule and Quality Payment Program address those problems head-on, by streamlining documentation requirements to focus on patient care and by modernizing payment policies so seniors and others covered by Medicare can take advantage of the latest technologies to get the quality care they need.”
+Proposed changes to the QPP and Physician Fee Schedule include:
+Removing low-value, low-priority process measures from MIPS to allow physicians to focus more on tasks that directly contribute to better patient outcomes
+Significantly revising the “Promoting Interoperability” performance category within the QPP to encourage electronic health record interoperability and patient access to personal health data
+Allowing providers to bill Medicare for brief virtual check-ins that may help patients stay on track with chronic disease management or avoid preventable hospital readmissions
+Paying clinicians for the time involved in evaluating patient-submitted photographs for applicable conditions
+Expanding telehealth reimbursement to include prolonged preventive services
+Altering drug cost calculations to reduce out-of-pocket costs for patients using Medicare Part B coverage for pharmaceuticals
+Slashing EHR clinical documentation requirements for evaluation and management (E/M) visits
+Reducing the administrative burdens of functional status reporting requirements for outpatient therapy
+READ MORE: Verma: CMS Will “Use Every Lever” for Promoting Interoperability, Data Access
+CMS has also issued a request for information about how to approach the challenge of increasing price transparency. 
+In April, the agency proposed requiring hospitals to post a list of standard charges on a public facing web page in order to allow consumers to compare prices and make more informed decisions about their care.
+“As people are paying more for their healthcare, they’re demanding more,” Verma said in an exclusive interview with HealthITAnalytics.com at the time. “They want quality and price transparency. This is just a response to the needs of patients.”
+“If you’re buying a car or pretty much anything else, you’re able to do some research.  You’re able to know what the quality is. You’re able to make comparisons. Why shouldn’t we be able to do that in healthcare? Every healthcare consumer wants that.”
+CMS is currently accepting industry comment on how to best achieve that goal, what data elements would be required to make the information useful, and if publically posting prices should be a fundamental requirement for participation in Medicare.
+READ MORE: CMS Renames Meaningful Use to Highlight Interoperability Goals
+“Today’s reforms proposed by CMS bring us one step closer to a modern healthcare system that delivers better care for Americans at a lower cost,” said HHS Secretary Alex Azar. “Such a system requires empowering American patients by giving them price and quality transparency and control over their own interoperable health records, goals supported by CMS’s proposals.”
+“These proposals will also advance the successful Medicare Advantage program and accomplish a historic regulatory rollback to help physicians put patients over paperwork.”
+The Office of the National Coordinator (ONC) added its support to the proposals, specifically around using E/M documentation changes to make electronic health records more efficient to work with.
+“The Office of the National Coordinator for Health Information Technology was tasked by Congress in the 21st Century Cures Act to work with CMS to reduce clinician burden associated with health information technology,” wrote National Coordinator Dr. Donald Rucker in a blog post.
+“CMS and ONC heard from stakeholders, specifically physicians, nurse practitioners, physician assistants and other clinicians who bill Medicare that the E/M documentation requirements create a large amount of administrative burden and are frequently not medically necessary. Known as ‘note bloat,’ these lengthy notes often are difficult to read and the core, essential clinical information is extremely difficult to find.”
+READ MORE: Meeting the Challenge of Healthcare Consumerism with Big Data Analytics
+Altering the EHR clinical documentation requirements around E/M could help to further shared goals of preventing provider burnout, simplifying workflows, and ensuring higher levels of data integrity to support initiatives around data analytics, population health management, and business intelligence.
+“This historic shift should also lead toward more efficient, effective use of electronic health records in clinicians’ offices, improving the workflows needed to support patient-centered care instead of a focus on meeting billing documentation requirements,” Rucker stated.
+“Because these are proposed improvements for office visits paid under the Medicare Physician Fee Schedule, we join CMS in encouraging public feedback during the comment period. We will continue to work closely with CMS to help the clinical community learn about the proposed changes and gather feedback from stakeholders on their recommendations on the proposed policies and their impacts on clinical practice and patient care.”
+Tagged Clinical DocumentationCMSEHR InteroperabilityEHR UseEHR WorkflowMeaningful UsePopulation Health ManagementVirtual Care
+
+

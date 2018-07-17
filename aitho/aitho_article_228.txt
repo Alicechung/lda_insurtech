@@ -1,0 +1,21 @@
+Hortonworks Data Platform 3.0 Enables Containerization And Deep Learning Workloads
+
+22 Jun 2018
+
+Hortonworks, Inc.® (NASDAQ: HDP), a leading provider of global data management solutions, today announced Hortonworks Data Platform (HDP) 3.0, which delivers significant new enterprise features including containerization for faster and easier deployment of applications, and increased developer productivity. The new version of HDP enables customers to more quickly, reliably and securely get value from their data at scale to drive business transformation.
+Follow Us
+“The pace of innovation coming from the open source community has not slowed and means that customers are getting the latest and best new features in HDP, including containerization, the ability to run deep learning applications and major performance enhancements to analytics,” said Arun Murthy, co-founder and chief product officer, Hortonworks. “HDP is maturing to meet changing enterprise requirements, and we are pleased to deliver this landmark release to customers so they can embrace a modern data architecture.”
+Read More: Google And AI Predictions: When Am I Dying?
+A key component of modern data architectures, HDP is a secure, enterprise-ready, open source Apache™ Hadoop®-based platform. It addresses the complete needs of data at rest, powers real-time customer applications and delivers robust big data analytics that accelerate decision-making and innovation. Unlike other Hadoop-based distributions, many of the new enhancements to HDP 3.0 are based on Apache Hadoop 3.1 and include:
+Agile application deployment via containerization, which enables apps to be launched quickly, allowing users to save time and resources. With containers running on HDP, developers can move fast, deploy more software efficiently and operate with increased velocity.
+Support for deep learning applications, allowing customers to run workloads such as machine learning and deep learning that require substantial – and expensive – GPU resources. This feature leverages pooling and isolation which enables data scientists to democratize and share GPU access.
+Real-time database, delivering improved query optimization to process more data at a faster rate by unifying the performance gap between low-latency and high-throughput workloads. Enabled via Apache Hive 3.0, HDP 3.0 offers the only unified SQL solution that can perform interactive query at scale – regardless of whether the data lives on-premises or in the cloud.
+Enhanced security and governance, promoting greater regulatory compliance, including GDPR, through full chain of custody of data as well as fine-grained auditing of events. These new features offer the unique ability to track the lineage of data from its origin to the data lake. It also enables auditors to view data without making changes, have time-based policies and audit events around third parties with encryption protection.
+Read More: World Economic Forum Announces Technology Pioneers 2018 That Will Change The World
+Optimized for the Cloud
+HDP continues to evolve to meet the unique characteristics of cloud deployments. The platform includes engineered support for all of the major cloud object stores: Amazon S3 with support for native EDW, Azure Storage Blob and Google Cloud Storage (GCS). This includes enhancements across the platform that deliver a consistency layer for non-consistent cloud stores. Customers also benefit from shared services of enterprise security, data governance and operations across public clouds and automatic cluster scaling based on usage or time metrics for added efficiency. As enterprises move big data workloads from on-premises to the cloud, HDP enables customers to adopt a hybrid data architecture with any and all of the major cloud providers.
+Eric Endebrock
+“HDP 3.0 includes key innovations that further modernize our data platform, ultimately leading to faster insights for the business,” said Eric Endebrock, vice president, Storage Solutions Marketing at Micron Technology. “HDP 3.0’s real-time database query optimizations, with best-of-breed Micron® NVMe™ solid state drives, accelerate the time to insights so critical for decision-making in today’s competitive business environment.”
+Read More: EY And Microsoft Launch Blockchain Solution For Content Rights And Royalties Management
+
+

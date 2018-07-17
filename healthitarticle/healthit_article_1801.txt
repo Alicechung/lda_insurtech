@@ -1,0 +1,12 @@
+Big data, mHealth center wins $10.8 million grant from NIH
+
+October 10, 2014
+
+By Jennifer Bresnick
+October 10, 2014 - Big data produced by wearable mHealth devices will be the focus of a new research project funded by the National Institutes of Health (NIH).  The National Center of Excellence for Mobile Sensor Data-to-Knowledge (MD2K) at the University of Massachusetts Amherst has received a $10.8 million grant to examine the impact of mHealth on data analytics and its potential for improving patient care.
+“The promise of mobile health sensing is that we can use body-worn sensors to detect various behavioral and environmental cues that will help predict adverse health events in real-time,” said Deepak Ganesan, a computer scientist co-leading the UMass Amherst center. “For example, it has long been known that smoking relapse is related to stress, alcohol consumption and other cues. With wearable sensors, we can aim to detect these cues in real-time and offer interventions to patients before relapse occurs.”
+“The challenge is making the data analytics highly robust and scalable while taking into account energy use and communications costs as well as the security and privacy of the data,” added his colleague Benjamin Marlin. “The MD2K Center will explore solutions to all of these problems with the immediate goal of developing accurate and reliable computational tools that biomedical researchers will be able to easily incorporate into health and behavior studies.”
+Researchers at eleven partner organizations, including universities and non-profits, will also contribute to the data analytics project, which is part of the NIH Big Data to Knowledge (BD2K) Initiative.
+Tagged Big DataClinical IntelligenceHealthcare Analytics
+
+

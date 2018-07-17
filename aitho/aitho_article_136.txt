@@ -1,0 +1,22 @@
+Timesys Unveils Solutions For Designing And Maintaining Stronger Security For Internet Of Things, Embedded Open Source Devices
+
+03 Jul 2018
+
+Timesys TRST Product Protection Solutions Address Security at IoT Scale, Faster Time-to-Market for Secure Devices with Reduced Attack Surface
+Timesys Corporation, industry pioneer and leading provider of embedded, open source development tools and engineering services, today announced a new solution that enables device developers to design more secure products using embedded Linux and Open Source Software to ensure stronger security throughout the product lifecycle.
+The Timesys Threat Resistance Security Technology (TRST) Product Protection solutions enable developers of IoT, IIoT, ICS, and other smart devices to reduce the attack surface of their products, harden devices, and maintain security at IoT scale.
+“The security of devices based on open source embedded systems is a longstanding problem that is growing worse,” said Atul Bansal, CEO of Timesys. “As IoT deployments skyrocket in number and size, the attack surface of devices grows exponentially. Our new TRST offering enables device developers to bring products to market faster without compromising security and to maintain stronger security in production deployment.”
+Follow Us
+“Timesys was an early advocate of improving the security of devices built using open source components,” said Roshy J. Francis, Chief Technology Officer of Diagnostic Cardiology for GE Healthcare. “We chose to partner with Timesys in the development of our new portfolio of medical devices to ensure that they stay secure throughout their lifecycle. Our customers globally face strict information security requirements combined with a heightened threat environment when deploying these devices within their enterprise. Our secure design methodology, partnership with Timesys, and operational policies allow our customers to be confident in choosing and deploying these devices in their healthcare practice.”
+The vast majority of commercial products contain embedded Linux, Android, or other Open Source Software, a strategy that enables device developers to bring products to market faster. But these same pressures for faster time-to-market can mean that device security is not adequately addressed in design or in planning for product maintenance after release.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+At the same time, device developers face the daunting task of sifting through thousands of Common Vulnerabilities and Exposures (CVE) notifications every year, to determine which ones apply to their devices in production and require patching to mitigate.
+“Security is at the forefront of today’s IoT issues as the discovery of new vulnerabilities and the rate of attacks continue to escalate,” said Roy Murdock of analysis firm VDC Research. “Improving security is becoming especially critical for IoT and IIoT devices because of the rapid expansion of deployments combined with the rise in botnet, bricking and other attacks against these smart devices. Timesys is bringing to market a timely solution, designed to make these devices more secure and maintain that improved security posture into the future.”
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+Timesys TRST incorporates products and services that enable device developers to:
+“Secure by Design” – Implement security best practices in product design, including attack surface reduction via footprint optimization, device hardening using least-functionality design, and security with minimal power and performance impacts.
+“Stay Secure” – Maintain the target security posture over time with vulnerability monitoring and patching services that focus on only the vulnerabilities that are relative to  specific device configurations.
+“Security needs to be baked in to product design, not bolted on after design is already essentially complete,” said Akshay Bhat, security architect at Timesys. “Our TRST offering provides access to industry best practices for security that we have learned from more than 30 projects over the last four years, which all involved securing embedded open source devices.”
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+
+

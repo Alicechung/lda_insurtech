@@ -1,0 +1,24 @@
+New Silicon Labs Wi-Fi Devices For The IoT Slash Power Consumption In Half
+
+27 Feb 2018
+
+Low-Power Modules and Transceivers Open the Door to New Classes of Battery-Operated Wi-Fi Products
+Silicon Labs has introduced a new Wi-Fi® portfolio to simplify the design of power-sensitive, battery-operated Wi-Fi products including IP security cameras, point-of-sale (PoS) terminals and consumer health care devices. Optimized for exceptional energy efficiency, the WF200 transceivers and WFM200 modules support 2.4 GHz 802.11 b/g/n Wi-Fi while delivering the high performance and reliable connectivity necessary as the number of connected devices increases in home and commercial networks.
+Daniel Cooley
+“We’ve delivered the first low-power Wi-Fi portfolio designed specifically for the IoT, enabling breakthroughs in secure, battery-powered connected device designs that simply weren’t possible until now,” said Daniel Cooley, Senior Vice President and General Manager of IoT products at Silicon Labs. “It’s no surprise we’re seeing strong customer demand for Wi-Fi technology that fits within the tight power and space budgets of battery-operated devices, freeing end users from the need to connect to ac power sources.”
+“The market for Wi-Fi devices in low-power IoT end node applications is forecast to grow from 128 million units per year in 2016 to 584 million units per year by 2021,” said Christian Kim, Senior Analyst for IHS Markit, a global business information provider.
+Developers can speed time to market and miniaturize battery-operated Wi-Fi products with the WFM200, the world’s smallest pre-certified system-in-package (SiP) module with an integrated antenna. Silicon Labs’ WF200 transceiver provides a cost-effective option for high-volume applications and gives developers the flexibility to meet unique system design requirements, such as using external antennas.
+The energy-efficient WF200 transceiver and WFM200 module provide an array of benefits for Wi-Fi enabled IoT applications:
+Exceptionally low transmit (TX: 138 mA) and receive (RX: 48 mA) power
+200 µA average Wi-Fi power consumption (DTIM = 3) contributing to ultra-low system power
+Superior link budget of 115 dBm for long-range Wi-Fi transmissions
+Small-footprint 4 mm x 4 mm QFN32 transceiver and 6.5 mm x 6.5 mm LGA52 SiP module, ideal for space-constrained applications
+Excellent antenna diversity and wireless coexistence in crowded 2.4 GHz environments
+Advanced security technology: secure boot and host interface, hardware cryptography acceleration supporting AES, PKE and TRNG
+Pre-certification by the FCC, CE, IC, South Korea and Japan to minimize development time, effort and risk
+Comprehensive development tools and wireless starter kit including embedded and Linux host drivers, enabling developers to get started in minutes
+Silicon Labs is sampling WF200 transceivers and WFM200 SiP modules to selected customers, and production parts are planned for Q4 2018. Contact your local Silicon Labs sales representative or authorized distributor for WF200 and WFM200 product pricing.
+Silicon Labs offers the industry’s most comprehensive portfolio of connectivity solutions for the IoT including Wireless Gecko SoCs, transceivers and certified modules supporting Wi-Fi, Bluetooth® low energy (LE), Bluetooth mesh, Zigbee®, Thread and proprietary protocols, as well as multiprotocol and multiband (2.4 GHz/sub-GHz) options.
+Silicon Labs is a leading provider of silicon, software and solutions for a smarter, more connected world. Our award-winning technologies are shaping the future of the Internet of Things, Internet infrastructure, industrial automation, consumer and automotive markets. Our world-class engineering team creates products focused on performance, energy savings, connectivity and simplicity.
+
+

@@ -1,0 +1,67 @@
+Banking in 2028: Mobile, Open Source, Invisible and Decentralised
+
+June 23, 2018
+
+By Kate Goldfinch.
+
+ Banking has changed significantly over the past ten years. Consumers now expect an ultra-personalised user experience wherever they are. Now it’s up to the banks to get on board.
+
+ The Fintech Times moderated an exciting panel discussing “Banking in 2028 – the state of the industry“ at the two day technology conference set to take place in Dublin on April 18- 19 2018 – Dublin Tech Summit.
+
+ The event aimed to forge meaningful and lasting relationships and networks for its 10,000 attendees from 72 countries across 2 days. The futuristic panel spotlighted the key trends for the industry to expect within 10 years.
+
+ Despite the growth of innovations in financial industry, banks are often reactive in how they sell products. As an example, the consumer has to actively request an overdraft increase or go through a process of application and approval to get a credit card.
+
+ The rise of fintechs and neobanks pose serious implications for incumbents if they fail to remain innovative.
+
+ Within the exciting discussion “Banking in 2028 – the state of the industry“ panelists debated how digital disruption is shrinking the role and relevance of banks and what is the influence of Fintechs.
+
+ As Gary Conroy, CCO at TransferMate, said: “Consumer payments have seen radical innovations in recent years with contactless cards, one-click checkout and mobile payments. The focus is on the customer experience and removing friction from the buying process, and technology advances have accelerated this change.”
+
+ TransferMate is focused on bringing a seamless payment experience to business customers. This is why the company has developed its technology to integrate with the world’s leading accounting and enterprise resource planning systems, avoiding double entry, saving administrative overheads and providing an integrated, frictionless experience for business customers.
+
+ As well as disrupting the front-end customer experience, TransferMate has built a propriety, end-to-end global payments network. TransferMate controls this network end to end, enabling cheaper, faster and easier cross-border payments. By completely bypassing the traditional correspondent banking network, we have built a smarter way for businesses and banks to send and receive international payments,” Gary Conroy explained.
+
+ Answering the question to “is fintech mostly about competition or collaboration?” Gillen Kelvin, Head of Customer Experience at KBC Bank, said: “Fintech = Moving from competition to collaboration (4 Fintech providers involved in the development of KBC Instant On-boarding App released last year, and a number of others engaged in our immediate roadmap (Instant Credit / PFM / Open Banking etc..).”
+
+ At the same time, he noted, that despite all the hype, Fintechs have by and large failed to establish themselves as dominant players, or topple the incumbents, in any market. “Fintechs haven’t dramatically changed who the major players are, but are materially changing how they compete.”
+
+ Where Fintechs have succeeded is twofold:
+
+ “Retail Banking needs to respond by leveraging its strengths (scale & ownership of customer interface), addressing weaknesses (Innovation & Customer Experience), take advantage of opportunity (partnership & cost) while being aware of the bigger threats (platforms (GAFA) & security),” Gillen Kelvin clarified.
+
+ Switching from the general matter of financial industry disruption to the 2018’s hottest topic – Open Banking – enabling customers to have a choice, and a free market, we have analysed, either Open Banking (PSD2) is an opportunity, a threat – or both for incumbents and Fintechs and how it affects businesses in the meantime.
+
+ As Gillen Kelvin from KBC, said: “Open banking is a huge opportunity for ‘challenger banks’ and Fintech (probably little real incentive for incumbents, but necessary ‘defensive’ option).”
+
+ “KBC is developing open bank capability (already ‘live’ in Belgium) with local deployment by year end. Vision is to enable all customers and non-customers to manage their personal finances through a superior mobile application (will extend beyond banking in 2019 (travel, parking, eat, etc..).”
+
+ The only honest answer to this is – “both” and to my mind the reality is that it’s too early to call any bets on winners and losers, Duena Blomstrom, Founder & Author of Emotion Banking, noticed. Duena has worked with multiple TIER-1 banks like Lloyds, Santander, BNP Paribas, ING and others, and also has a background in psychology.
+
+ “Due to how ill prepared banks are, how hard it is to achieve scale if you are a challenger and how slow in showing their hand GAFA is, it’s still “anyone’s game” when it comes to seizing the Open Banking opportunity. It could well be that a major global bank will execute perfectly and becomes the Money Moments™ Provider of choice or that a challenger bank will take flight and create addictive experiences, it could be that Alexa gets smart and insinuates herself into our everyday financial episodes but it could equally be that your favourite corner shop dreams up a killer app and aggregates your Lloyds account and your Amazon purchases in it.”
+
+ As for Joao Reginatto, Director, European Product and Operations, from Circle, Open Banking is a tremendous opportunity, but he thinks it’s not as interesting as blockchain technology. “I see Open Banking as on and off ramps that will exist temporarily to bring customers along a journey to native digital money. Similar to how in the early days of digital photography, printing services were extremely hot as people didn’t have very useful use cases for digital photos and so would “cash out” to their previous, analog equivalent. Similarly, as money becomes a native digital asset, people will stop moving in and out of traditional banking and hold a lot more digital value solely in new services.”
+
+ As a conclusion of the panel discussion, we asked panelists to share their thoughts on “How banking will look like in 10 years?”
+
+ “I am not sure banks will ‘exist’ in 10yrs time – certainly not in their current format. And barring the emergence of single ‘killer’ platform (Gmail, FB, Amazon etc..) Fintech’s will largely remain ‘niche’ players, servicing distinct sets of consumers with very specific needs. 10yrs is a long time (iPhone wasn’t launched in Ireland 10yrs ago) – but given advances in AI, blockchain and cloud computing it is hard to envision a future that doesn’t involve some kind of ‘platform’ that enables personalised AI to manage our day to day finances in an ongoing and proactive manner that was optimised for each individual,” Head of Customer Experience at KBC believes.
+
+ Nobody knows exactly how the role of banks will change, but it is clear it will change. “From an overly simplistic point of view, when money becomes a native digital asset, deposits and credit aren’t much more than updates to digital money databases. In that frame, banks are regulated database operators. What happens when regulation allows distributed ledgers to be used as digital money databases? That allows for an era of “visible” banking in terms of risk and treasury, quite different from what we have today. On the consumer side, the trend seems to go in the direction of “invisible” banking, where new distribution allows things like payments to be embedded in the actual consumer experiences (multiple apps for this), similarly for statements or investment portfolios, etc,” Joao Reginatto, Director, European Product and Operations, at Circle commented.
+
+ He believes, that not only Fintechs but especially technology companies will be all over this space. Circle in particular is interested in helping build a new global and open infrastructure for value exchange on top of blockchain tech and crypto assets, while building new consumer finance experiences that are natively connected to that. “It is a slightly longer term perspective than most companies, but one that we think has a lot more value.”
+
+ Business customers’ expectations are changing, starting with frictionless user experience, right through to the payment execution. “It’s a fun and exciting time for us as a company and for the industry as a whole,” Gary Conroy noted.
+
+ Retail banking is indubitably on the verge of a major shift, Duena Blomstrom believes. “Within the next few years retail banks in particular, will have to decide if they want to remain part of what I call, “The Relationship game”, meaning have a direct connection with their consumers or, if they are alternatively, satisfied to become the pipes behind other structures. The raise of Fintech along with significant changes in regulation, and ever-growing customer expectations, are the factors bringing this about. To remain in the Relationship game, a major shift needs to happen, a major overhaul in the bank’s’ structure, in its very DNA, where they will modify their culture so that they can redesign their old “product suit” into experiences, significant Money Moments™. Hence my extreme urgency in advocating immediate and razor sharp effective cultural change for banks.
+
+ If they manage this great challenge and change in time to become Design Led Organisations as I describe it in my book “Emotional Banking™: Fixing Culture; Leveraging Fintech and Transforming Retail Banks into Brands” then it’s entirely possible that in 10 years Banking will be transformed.
+
+ Strong brands will have emerged, that will invisibly intersperse themselves seamlessly, into the consumers’ digital life, by providing value through Money Moments that are relevant, welcomed and beloved.
+
+ In 10 years, my son will be driving his first Tesla, wearing the first bionic, smart Ted Baker garments, entrust his home to Google and his personal devices to Apple and Invisible-bank with Bank X!
+
+ What’s more, he will be able to proudly name all of these entities as part of who he is.”
+
+ P.S. Certainly, the future is full of unknowns, but we do believe that the next 10 years will bring about even more efficiencies for both businesses and consumers.
+
+

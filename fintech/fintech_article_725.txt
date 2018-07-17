@@ -1,0 +1,89 @@
+collectAI’s clever collections model is disrupting the payment space!
+
+July 12, 2017
+
+Interviewed Company: collectAI
+
+ URL: www.collect.ai/index.en.html
+
+ Sector: Payments / Collections
+
+ Interview Monday 10th July 2017
+
+ Interview with Mirko Krauel
+
+ Subjects: Collections, Ai process,
+
+ collectAI operate an Ai based collection services, (collection of outstanding debt). “we are the ones who can take over the process from invoicing to white label debt collection, the whole ‘dunning process’… Dunning Process… sounds rather medieval, indeed the term ‘Dunning’ finds it’s origins back in 1600 and something. The process of collecting monies from a debtor. So it’s rather curious to find the term resurfacing with an artificial intelligence prefix.
+
+ Before I digress further into pre history, here’s some background on collectAI and how it came to be, starting with the corporate origins.
+
+ Otto Group – Germany’s largest e-commerce retailer.
+
+ Otto Group Digital Solutions – a subsidiary of Otto Group
+
+ Liquid Labs – the corporate incubator of Otto Group Digital Solutions
+
+ collectAI. A ‘Graduate’ company of Liquid Labs and now part of the Otto Labs Digital Portfolio of companies. (See RiskIdent as another)
+
+ Ok, let’s look at this: what does Non Ai dunning look like? (DumbDunning?)
+
+ Either: A
+
+ An automated series of letters, emails, maybe texts, from A to Z. A chain of process escalating the demand. This is impersonal, ‘dumb’ i.e. it doesn’t improve itself based on results nor take any factors into consideration, and doesn’t provide any sort of positive experience from the customer perspective. It’s low cost though.
+
+ Or: B
+
+ A personalised process operated by teams of people on phones, writing emails, and so on. This provides for a more personal, customer friendly approach. It is however highly expensive to operate, often prohibitively so. If the debt if for £50 and you need to have personal contacts and interactions for recovery it soon becomes unviable.
+
+ So, the reasoning is to provide a personalised service B using an automated system A.
+
+ Which requires an intelligent automation process to do the collection, to collect using Ai.. I think that sets the background.
+
+ As Mirko explains “What are our goals..? Let’s try to collect the money in a really smart way, as customer friendly as possible, start early, very friendly, non aggressive user friendly… sending out an email in a specific time frame, tone, payment option included, this increases and optimises the probability of repayment…and is in fact an extension of the customer service process… it’s smart collection.”
+
+ This results in a service that is specific for every certain person… it’s personalised, improves collection rates. And reduces the costs.
+
+ The old way was like ABCDE a linear progression, the same for all clients.
+
+ The collectAI way is more like this…
+
+ Something a bit like this:
+
+ We have, as an example of the explanation, four factors.
+
+ Process (Stage in the Dunning Process, e.g. first contact, second reminder, etc)
+
+ Chronology (Day and Time to communicate at)
+
+ Channel (Email, WhatsApp, Text, Letter,)
+
+ Tone (Friendly, Amusing, Remindful, Assertive)
+
+ And these change for each client. The system (algorithm) A/ B tests based on its best understanding (and its understanding gets better continuously) then changes accordingly. It’s a self learning smart algorithm. So it may learn that a certain client type is best communicated with via WhatsApp, and another type, by email. And that the WhatsApp customer opens quicker and responds quicker when contacted between 12 and 2, where a the email client type responds better during 9 and 10.30.
+
+ The system learns from behaviours of individuals and also creates groups that it is able to better predict the behaviours from.
+
+ So rather than ABCDE = X for everyone (X being payment from the customer)
+
+ It looks more like:
+
+ Customer 1 ABFJK = X
+
+ Customer 2ASPMN = X
+
+ Customer 3ABCOL = X
+
+ The system measures its own effectiveness and self optimises. …
+
+ Did he open the email? Y/N ….did he go to the landing page? Y/N ….did he try to make payment? Y/N Smart automation + individuality = best response.
+
+ Mirko talks about one of the importances is having a large number of contact points… And he emphasises the fact that these aren’t debtors, they are customers. The customer acquisition cost for an e commerce company or fintech can be hundreds of pounds. Losing them by having a dumb (internal non adaptive) technology for collecting payments is highly inefficient. If the collection process is a customer service process, end to end, from invoice to banking, the customer never get’s lost or unhappy.
+
+ The algorithm receives feedback from its own experience and optimises the collection pathway for every individual customer. The algorithm learns the customer and reacts to customer action and non action to adjust itself. It also bundles customers into groups in order to understand future customers better and get a head start on delivering the individualised process.
+
+ It’s clever.
+
+ Read the interview and analysis in full in The Fintech Times in print.
+
+

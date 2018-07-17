@@ -1,0 +1,26 @@
+FDA Clears Marketing for AI Algorithm to Detect Wrist Fractures
+
+May 25, 2018
+
+By Jennifer Bresnick
+May 25, 2018 - The FDA has cleared one of the first artificial intelligence algorithms intended to provide clinical decision support at the point of care, officials announced this week. 
+Imagen’s OsteoDetect software can use imaging analytics to analyze wrist x-rays and detect distal radius fractures, one of the most common injuries to the joint.
+“Artificial intelligence algorithms have tremendous potential to help health care providers diagnose and treat medical conditions,” said Robert Ochs, PhD, acting deputy director for radiological health, Office of In Vitro Diagnostics and Radiological Health in the FDA’s Center for Devices and Radiological Health.
+Dig Deeper
+Artificial Intelligence Promises a New Paradigm for Healthcare
+Medical Imaging is Healthcare’s Artificial Intelligence Bellwether
+AI for Imaging Analytics Intrigues Healthcare Orgs, Yet Starts Slow
+“This software can help providers detect wrist fractures more quickly and aid in the diagnosis of fractures.”
+The FDA gave its approval after the company submitted the results of a retrospective study including 1000 radiograph images.  The study independently verified the artificial intelligence algorithm’s ability to identify wrist fractures with similar accuracy as human radiologists.
+In combination with a second study reviewing the performance of 24 providers who used the algorithm the FDA determined that the software tool increased performance in regards to sensitivity, specificity, and positive and negative predictive values by a measurable degree.
+Imaging analytics has quickly become one of the most promising areas of artificial intelligence development in healthcare, offering radiologists, pathologists, and other providers the potential to more accurately identify features in imaging studies ranging from tumors to diabetic retinopathy.
+But the FDA has a challenge on its hands as it reviews clinical decision support tools supported by machine learning and AI, since this rapidly growing category of algorithms may not always clearly meet the criteria laid out in recent draft guidance.
+“The sources supporting the recommendation or underlying the rationale for the recommendation should be identified and easily accessible to the intended user, understandable by the intended user (e.g., data points whose meaning is well understood by the intended user), and publicly available (e.g., clinical practice guidelines, published literature),” the FDA said.
+However, many AI-driven tools are more opaque than traditional analytics algorithms, and may include data-crunching methods that are not easily explicable or accessible to the end-user. 
+Tools that leverage complex neural networks to synthesize billions of data points in mere seconds may offer vital clinical decision-making help to providers that improves their performance, but their underlying architecture and rationale for recommending a certain course of action may not be clear to the user.
+How these types of CDS products will fit into the FDA’s oversight process remains to be seen, especially as they become sophisticated enough to approach the abilities of human clinicians.
+In the case of OsteoDetect, the FDA explicitly says the product “is an adjunct tool and is not intended to replace a clinician’s review of the radiograph or his or her clinical judgment.”  The software simply marks the location of the fracture on the image, and allows the radiologist or treating provider to decide on the next steps.
+The FDA reviewed OsteoDetect through its De Novo premarket review pathway, which allows some low-risk devices to receive approval in a speedy and streamlined manner.
+Tagged Artificial Intelligence in HealthcareClinical Decision SupportImaging AnalyticsMachine LearningMedical imaging
+
+

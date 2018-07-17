@@ -1,0 +1,17 @@
+Menlo Security has closed a $40 million funding round
+
+January 5, 2018
+
+Menlo Security, speicialising in malware isolation, has closed a $40 million round in Series C funding, bringing total investment to $85 million. New investors in the round include American Express Ventures, Ericsson Ventures and HSBC. They join Menlo’s existing investors: JPMorgan Chase, General Catalyst, Sutter Hill Ventures, Osage University Partners and Engineering Capital. The investment will allow Menlo to expand sales and marketing of its Security Isolation Platform, which has been enabling companies of all sizes to take a more powerful approach to security.
+
+ As the impact of security breaches continues to dominate headlines all over the world, attackers have become more sophisticated and conventional malware detection products are not enough. Rather than try to distinguish between safe and risky content, the Menlo Security Isolation Platform acts like a digital partition, isolating and executing all web content, email links and documents in the cloud, then streaming a malware-free version of the content to employees’ computers via Menlo’s patented Adaptive Clientless Rendering™ (ACR) technology, with a completely native experience. Given the challenge of staying ahead of new, more sophisticated types of attacks, adoption of Menlo’s platform is accelerating across geographies and sectors, including finance, technology, manufacturing, hospitality, healthcare and the government.
+
+ 
+
+ Tim Dawson, Head of Cyber Technology at HSBC, said: “Cyber security is a top priority for us. This investment is an example of how—as threats constantly evolve—we will continue to dedicate time and resources to the challenge, exploring innovative ways to protect our clients and staff.”
+
+ 
+
+ 
+
+

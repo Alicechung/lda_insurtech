@@ -1,0 +1,27 @@
+AI to help merchants manage costs of fraud
+
+May 19, 2018
+
+Artificial Intelligence helps merchants manage cost of fraud: SIX Payment Services complements its range of E-Commerce services with the most effective solution in the industry, Fraud Free by SIX – powered by Fraugster.
+
+ Merchants across the globe consider the increase of fraud – both in terms of number and sophistication – as one of their main concerns. No wonder: across the industry, they lose an average of 1.5% of annual revenue or 29 bn USD to fraud. Applying strict rules to block suspicious transactions is not the right answer, as it may backfire: 6 out of 10 consumers never return to a merchant who blocked their transactions. Where most payment providers use conventional built-in fraud engines, SIX Payment Services now launches a revolutionary product based on artificial intelligence (AI).
+
+ Roger Niederer, Head Merchant Services at SIX Payment Services says, “We help our merchants to minimise their (cost of) fraud and maximise sales: Fraud Free by SIX is a perfect addition to our range of value added services. Merchants that ‘ensure’ their transactions can expect to have less worry about fraud and chargebacks as Fraugster is taking over the liability. Plus: significantly fewer rejections of non-fraudulent transactions results in an improved conversion rate, generating a revenue uplift of up to 15%.”
+
+ Fraud Free from SIX stems from the co-operation with the German-Israeli payment security start-up Fraugster. The highly sophisticated solution uses AI and combines the thought processes of human analysts with machine scalability, identifying new fraud patterns as they emerge, in real time, making it possible to detect fraud before it causes damage. Precise decisions, in as little as 15 milliseconds, ensure the highest conversion rate for merchants. Chargeback rates will drop immediately, resulting in reduced operational cost. What’s more, merchants don’t need any technical integration to use Fraud Free, as it is seamlessly integrated with Saferpay from SIX.
+
+ Anti-fraud insurance included
+
+ For merchants signing up for Fraud Free from SIX, Fraugster takes over the full liability for every payment transaction that Fraugster accepts. Hence, fraud no longer cuts into the merchant’s profit margins as Fraugster takes these losses, backed by MunichRe, one of the world’s largest reinsurers.
+
+ Max Laemmle, CEO Fraugster says, “Fraugster is pleased to partner with SIX Payment Services. We are excited to support a pan-European payment provider with such a broad customer base in the retail sector. Delayed or complicated check-outs and frustrated customers are a thing of the past.”
+
+ Seamless Integration is key
+
+ A true value added service, Fraud Free is available for E-Commerce customers from SIX without any further ado. As an integrated part of the payment transaction process through Saferpay, a merchant can use the service within days. From a merchant’s perspective, the process couldn’t be easier: Once a consumer has made a purchase decision in a web-shop, a data collection, including information on the cardholder, the device and purchase category is sent via Saferpay to Fraud Free. Fraud Free enriches every transaction with thousands of additional data points. The AI engine analyses behavioural patterns and determines if a transaction is fraudulent. The result is a highly accurate decision that is fed back to Saferpay for immediate authorisation – its accuracy being ensured by Fraugster. If desired, rejected transactions can still be feed into a backup authorisation system like 3DS. Needless to say the solution is PCI-DSS certified and meets all GDPR requirements.
+
+ 360° services in E-Commerce means for SIX:
+
+ “With Fraud Free, we further underpin our position as a full service partner across European E-Commerce”, says Roger Niederer.
+
+

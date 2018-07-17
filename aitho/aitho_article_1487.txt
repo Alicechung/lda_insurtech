@@ -1,0 +1,27 @@
+Meta Announces New Augmented Reality Integration With SOLIDWORKS
+
+12 Feb 2018
+
+Partnership will empower SOLIDWORKS and Meta customers to view their 3D CAD models in immersive AR for the first time
+Meta Company, a pioneer in the augmented reality (AR) field, announced today that it will be the first company to offer 3D CAD viewing capabilities in AR integrated with Dassault Systèmes’ SOLIDWORKS applications. The news was shared today by Suchit Jain, vice president of strategy and business development for Dassault Systèmes’ SOLIDWORKS brand, at SOLIDWORKS World in Los Angeles during a keynote session that also featured a live demonstration of Meta’s and SOLIDWORKS’s new AR capabilities.
+“With Meta extending new AR features, designers across the product life cycle – from concept to prototype to manufacturing – will benefit significantly from this partnership.”
+Integration Overview
+SOLIDWORKS “Publish to Xtended Reality” capability will allow users to export a CAD model from SOLIDWORKS to a customized version of an open-source format known as “glTF.” Once a SOLIDWORKS model has been exported to glTF, it can be viewed on Meta’s Model Viewer platform in the Meta 2 Development Kit headset.
+The exported file retains key information from SOLIDWORKS, such as:
+Display states
+Materials/colors
+Animations (such as exploded view animations, motion study, etc.)
+3D model hierarchy
+This AR integration between SOLIDWORKS and Meta enables a simple and more natural design visualization for SOLIDWORKS customers on the Meta 2. Furthermore, the Meta 2’s wide field of view and direct hand interaction creates an easier and more immersive experience than virtual reality. Through this collaboration between Meta and Dassault Systèmes’ SOLIDWORKS brand, consumers of 3D CAD are no longer limited to viewing models on a 2D screen, and product design can become three-dimensional.
+Key benefits of the Meta-SOLIDWORKS integration include:
+Speed – the plug & play nature of the file export/import process means there is no need for a SOLIDWORKS user or developer to build models uniquely for the Meta AR headset.
+Accessibility – benefits of 3D CAD visualization is not limited to designers and engineers – any sales or training professional wanting to view 3D models in immersive AR can do so immediately.
+Efficiency – viewing 3D CAD models in AR can have a significant impact on time-to-market, cost optimization and revenue by shortening the design review cycle, increasing sales conversion, and enhancing training comprehension.
+Initial access to the private beta program will be by invitation only. Those interested in participating can express their interest at https://www.metavision.com/solidworks.
+Kishore Boyalakuntla
+“Collaboration through augmented reality is the next step in the natural evolution of 3D design authoring,” said Kishore Boyalakuntla, vice president, product portfolio management and SOLIDWORKS brand UX leader, SOLIDWORKS, Dassault Systèmes. “With Meta extending new AR features, designers across the product life cycle – from concept to prototype to manufacturing – will benefit significantly from this partnership.”
+Joe Mikhail
+“Support for 3D CAD viewing is important to our customers, and for the growth of the AR market,” said Joe Mikhail, chief revenue officer of Meta. “With this new SOLIDWORKS integration, our mutual customers will drive tangible business value from their existing SOLIDWORKS models. And for our developers, this technology will enable them to create more immersive, realistic and transformative AR experiences in the blink of an eye.”
+Whether designing a shoe or a satellite, the Meta 2 Development Kit allows users to grab, move, and scale photorealistic 3D CAD files, enhancing the 3D design and presentation process. This enables designers and engineers to effectively validate and evaluate their designs within context, and allows sales and training professionals to create immersive experiences that lead to faster and better understanding of their products.
+
+

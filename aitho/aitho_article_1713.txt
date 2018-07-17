@@ -1,0 +1,32 @@
+ArterisIP Drives Artificial Intelligence & Machine Learning Innovation For 15 Chip Companies
+
+14 Jan 2018
+
+Interconnect IP Enables Fast And Efficient Integration Of Tens Or Hundreds Of Heterogeneous Neural Network Hardware Accelerators
+ArterisIP, the innovative supplier of silicon-proven commercial system-on-chip (SoC) interconnect IP, today announced that in the past two years, 15 companies have licensed ArterisIP’s FlexNoC Interconnect or Ncore Cache Coherent Interconnect IP as critical components in new artificial intelligence (AI) and machine learning SoCs.
+These nine (9) publicly-announced ArterisIP customers have created or are developing machine learning and AI SoCs for data center, automotive, consumer and mobile applications:
+1.    Movidius (Intel) – Myriad™ ultra-low power machine learning vision processing units (VPU)
+2.    Mobileye (Intel) – Since 2010; EyeQ®3, EyeQ®4 and EyeQ®5 advanced driver assistance systems (ADAS) using multiple heterogeneous processing elements for vision processing and machine learning
+3.    NXP – Multiple ADAS and autonomous driving SoCs implementing machine learning, based on cache coherency and functional safety mechanisms
+4.    Toshiba – Automotive ADAS SoC using cache coherence and functional safety mechanisms
+5.    HiSilicon (Huawei) – Since 2013; new Kirin 970 Mobile AI Processor with Neural Processing Unit (NPU)
+6.    Cambricon – Neural network processor with multiple processing elements
+7.    Dream Chip Technologies – ADAS image sensor processor with multiple digital signal processor (DSP) and single instruction multiple data (SIMD) hardware accelerators
+8.    Nextchip – Vision ADAS SoC with multiple processing elements
+9.    Intellifusion – Machine learning visual intelligence with multiple heterogeneous on-chip hardware engines
+In addition to the nine publicly-announced customers listed above, the following six (6) companies are also using ArterisIP to implement new AI and machine learning hardware architectures:
+    Two (2) major semiconductor and systems vendors targeting autonomous driving
+    A major semiconductor vendor targeting consumer electronics
+    A major autonomous flying vehicle vendor
+    A leader in new automotive sensor technologies
+    An innovator in data center analytics
+All of these innovation leaders create SoCs that accelerate machine learning and neural network algorithms using multiple instances of heterogeneous processing elements. Each SoC architecture is tailored to its target market requirements based on an on-chip interconnect configured specifically for the task. They have all licensed ArterisIP interconnect technology because it:
+    Eases the on-chip integration of these different processing engines while allowing design teams to finely tune power management and quality-of-service (QoS) characteristics, like path latency and bandwidth;
+    Simplifies software development and enables customized dataflow processing by supporting cache coherence in key parts of a system. This allows the system to take advantage of data reuse and local accumulation in shared caches, which reduces die area and can increase memory bandwidth while reducing processing latency and power consumption;
+    Protects data in transit and at rest to increase functional safety diagnostic coverage, allowing large supercomputer-like SoCs to meet the stringent requirements of the automotive ISO 26262 specification.
+Ty Garibay
+“Efficiently implementing machine learning and visual computing in commercially viable systems requires hardware teams to accelerate neural network functions using many types of hardware accelerators, with the types and number of accelerators based on performance, power and area/cost requirements,” said Ty Garibay, Chief Technology Officer at ArterisIP. “ArterisIP technology gives these teams the means to integrate these processing elements into their systems quickly and efficiently, ensuring that they meet their schedule and functional safety requirements.”
+K. Charles Janac
+“Machine learning has become the ‘killer app’ for our advanced interconnect IP, with a perfect match between the QoS, power consumption and performance required by AI and what the FlexNoC and Ncore interconnects deliver,” said K. Charles Janac, President and CEO of ArterisIP. “Our team is excited to be such a critical enabler to the new generation of neural network, machine learning and artificial intelligence chips.”
+
+

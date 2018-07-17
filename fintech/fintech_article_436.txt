@@ -1,0 +1,41 @@
+Robert Braun: Cryptocurrencies – Do they have Staying Power?
+
+January 15, 2018
+
+Cryptocurrencies – not just bitcoin, but any of the hundreds of different currencies that have been created using blockchain technology – have caught the imagination of the public. There are, seemingly, daily articles that predict either the demise of all traditional currencies in favor of cryptocurrencies, and just as many articles predicting the demise of cryptocurrencies. While cryptocurrencies are just one of the many uses of blockchain technology, the challenges cryptocurrencies face may reflect hurdles for other uses of bitcoin.
+
+ With that in mind, Robert E.Braun, co-chair of the Cybersecurity and Privacy Law Group at Jeffer Mangels Butler & Mitchell LLP highlights four challenges arise in the use of cryptocurrencies, and potentially in other blockchain applications.
+
+ Volatility
+
+ The source of much of the cryptocurrency debate is based on its volatility, and whether something that is subject to radical changes in value has utility as a currency. The title of a December 13, 2017 in the Wall Street Journal presented the question well: “Bitcoin: Electrifying Investment, Lousy Currency.” As noted in the article, a “cryptocurrency would have to fulfill at least two of the basic functions of money: a stable store of value and a widely used medium of exchange. Bitcoin’s wild ride shows it can’t fulfill either.” The article went on to argue that bitcoin cannot be considered a currency because it is being treated as a commodity, and thus is a poor medium for exchange of other commodities. Currencies, unlike commodities (or stocks or bonds) do not have an intrinsic value beyond what they can purchase; the value (whether it is valid or not) of cryptocurrencies create uncertainty in transactions, something that a “true” currency is supposed to eliminate.
+
+ The perception of cryptocurrencies as commodities is only emphasized through “initial coin offerings,” or “ICOs.” These transactions typically involve the issuance of coins or tokens which can be exchanged for products or services from the issuing company and further blur the line between a currency and a commodity. The SEC has become concerned about the potential for abuse in these offerings. On July 25, 2017, the SEC issued an investigative report warning market participants that sales of digital assets such as ICOs or token sales by virtual organizations may be subject to the federal securities laws as investment contracts.
+
+ While advocates of cryptocurrencies highlight their increased acceptance, their use has also been reduced in some cases. On December 6, 2017, game company and distributor Valve recently announced that one of its premier games, Steam, will no longer support Bitcoin as a payment method due to high fees and volatility in the value of Bitcoin. In a blog post, Valve explained that bitcoin transaction fees have gone up to nearly $20 per transaction last week, “compared to roughly $0.20 when we initially enabled Bitcoin.” Those fees then have to be shouldered by gamers making purchases on Steam, and the total cost to consumers could be even higher if the value of bitcoin dips in the meantime.
+
+ Criminal Activity
+
+ Cryptocurrencies have become a favored medium for criminal transactions. The lack of a central authority and the anonymity of transactions make them a favored means of effecting ransomware and other illegal and fraudulent transactions. In July 2017, the Financial Crimes Enforcement Network fined BTC-e, a digital-currency exchange based in Bulgaria and regulated under the laws of Cyprus, $110 million for facilitating “ransomware, computer hacking, identity theft, tax refund fraud schemes, public corruption, and drug trafficking.” Its alleged Russian operator was arrested in Greece.
+
+ Cryptocurrencies seem to attract unsavory elements. On December 6, 2017, approximately $52 million worth of bitcoin disappeared from the coffers of NiceHash, a Slovenian company that lets users sell their computing power to help others mine virtual currencies. Nice-Hash expressed surprise to learn that the company’s chief technology officer recently served several years in prison for operating and reselling a massive botnet, and for creating and running ‘Darkode,” until recently the world’s most bustling English-language cybercrime forum.
+
+ The SEC has been active in pursuing fraud in the cryptocurrency and ICO markets.   On December 1, 2017, the Cyber Unit of the SEC filed an enforcement action against the promoters of an ICO for the “PlexCoin” proposed currency, charging the promoters with fraud, alleging that they had no intention of developing a currency and instead were using the funds that were raised for personal enrichment. The promoters were also charged with violating the federal securities laws by engaging in an unregistered offering in violation of the registration requirements of the Securities Act of 1933.
+
+ Hackers are also attracted to bitcoin mining – the solution of the mathematical problems that are the basis of issuance of new bitcoins. Because of the tremendous computing power that is now required to solve the equations, some players will hack into computers for their excess capacity, with one of the side effects being the increased use of electricity, for which the unsuspecting computer owner bears the cost.
+
+ Security
+
+ No matter how “secure” the blockchain may be, accessing cryptocurrencies relies on intermediaries, and those intermediaries themselves may be insecure, particularly mobile apps. Ilia Kolochenko, CEO and Founder of High-Tech Bridge, has been quoted as saying that “for many years, cybersecurity companies and independent experts were notifying mobile app developers about the risks of ‘agile’ development that usually imply no framework to assure secure design, secure coding and hardening techniques or application security testing.” Moreover, weakness in a mobile application may allow attackers to steal the integrity of users’ data.
+
+ Meanwhile, the efficiency of bitcoin has been compromised by bottlenecks in processing that can delay a transaction’s settlement by hours or even days—a process you can expedite if you pay an added fee. In a volatile environment, those delays can create significant expense.
+
+ The Human Factor
+
+ Finally, the frailty of humans extends to blockchain. Bitcoin does not provide a way to reset a password; if a bitcoin owner forgets his or her password, the owner’s bitcoins are lost; there is no central issuing entity that can validate the identity of the owner and allow access.
+
+ In an (almost) amusing story, a bitcoin owner used an old laptop to mine a total of 7,500 bitcoins in 2009. Shortly thereafter, he sold the parts to the computer on eBay after his girlfriend complained about the mining’s noise. The owner kept the hard drive in a drawer, just in case the bitcoins did increase in value. But he forgot about the hard drive, and four years later, he discarded it with the trash. And along with the hard drive, he threw away 7,500 bitcoins.
+
+ The benefits of blockchain technology and its most commonly known application, cryptocurrency, are still being discovered. Unfortunately, that also means that its weaknesses are being exploited at the same time.
+
+

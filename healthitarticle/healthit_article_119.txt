@@ -1,0 +1,24 @@
+AMA, Google Launch Health Data Interoperability, PGHD Challenge
+
+April 09, 2018
+
+By Jennifer Bresnick
+April 09, 2018 - The American Medical Association (AMA) and Google have announced an innovation challenge aimed at improving healthcare interoperability and developing new methods of collecting and managing patient-generated health data (PGHD).
+The contest will reward technology developers who offer streamlined tools and standards-based methodologies to import, extract, and transfer patient-generated health data between mobile devices and clinical interfaces.
+“The AMA is working to unleash a new era of patient care through its Integrated Health Model Initiative (IHMI) by pioneering a common data model for organizing and sharing meaningful health data like patient goal, state and functioning, and assembling an unprecedented collaborative effort across health care and technology stakeholders” said AMA President David O. Barbe, MD, MHA.
+Dig Deeper
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+Google Using FHIR, Deep Learning for Healthcare Predictive Analytics
+Google Cloud Partners with HL7 to Support FHIR Development
+“The Challenge we’re announcing today is an extension of the AMA’s work and will explore possible uses of mobile health technology to provide patients and physicians with a rich stream of medical data that is important for improving care and long-term wellness.”
+As the Internet of Things becomes more deeply ingrained into the patient experience, consumers and providers are eager for ways to access insights from the data produced by wearables, home monitoring devices, and other emerging sensor categories.
+“IHMI seeks to evolve available health data to depict a complete picture of a patient’s journey—from wellness to illness to treatment and beyond—that allows health care delivery to fully focus on patient function, state, outcomes and goals,” the AMA says. “This includes a long-term focus on identifying, developing and reviewing new data elements, as well as associated relationships and rules using a clinical review process.”
+“The clinical review process is a physician-based peer review process that examines the science supporting a proposed set of data elements associated relationships and rules. IHMI will then allow the exchange of platform-agnostic, clinically valid health data. One area of particular interest is the use of mobile technology to transform health care to improve the patient-physician relationship. This Challenge focuses on exploring possibilities in this space.”
+The winning ideas will demonstrate how to use PGHD in meaningful ways within the clinical workflow to improve outcomes, reduce costs, and create stronger patient-provider relationships.
+The first place winner will receive $25,000 in Google Cloud credits.  Second place will receive $15,000 in credits, while the third place prize is $10,000 in tokens for using the storage and infrastructure platforms.  All qualified entries will receive $3000 in credits simply for participating.
+Start-up companies meeting limited funding and revenue criteria are eligible to apply.  International restrictions and other guidelines are available on the AMA website by clicking here.
+Applicants may submit their ideas until 11:59 PM Central Standard Time on June 7, 2018.  Finalists will be announced on June 22 and winners will be selected on June 28, 2018.
+A full list of rules and relevant application information is available here.
+Tagged AMAGoogleHealthcare Internet of ThingsInteroperabilityMedical Device ConnectivityPatient Generated Health Data
+
+

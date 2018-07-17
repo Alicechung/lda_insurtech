@@ -1,0 +1,18 @@
+Debate, concern over AHA cardiac risk calculator grows
+
+November 20, 2013
+
+By Jennifer Bresnick
+November 20, 2013 - Has big data made a big mistake?  Some critics of the recently released heart attack and stroke risk calculator formulated by the American Heart Association think that the predictive algorithm might be overly cautious, resulting in higher population-wide statin use than strictly necessary.  While the calculator was initially hailed as a simple way for physicians to access predictive risk stratification at the point of care, two Harvard Medical School professors recently took to The Lancet to decry the calculator’s methodology and results.
+Dr. Paul M. Ridker and Dr. Nancy Cook believe that the calculator over-predicts heart attack and stroke risk by anywhere between 75% and 150% after entering data from three large, decade-long studies that documented actual outcomes.  The calculator often more than doubled the predicted risk of a cardiac event, and categorized patients with a low real-world risk as having a much higher probability of a poor outcome.
+“Miscalibration to this extent should be reconciled and addressed before these new prediction models are widely implemented,” Dr. Ridker and Dr. Cook wrote in The Lancet. “If real, such systematic overestimation of risk will lead to considerable over-prescription.”
+The problem may stem partly from the patient data used to develop the calculator, which was more than a decade old and included a generally higher rate of patients who smoked and ate high-cholesterol diets.  An emergency session of the AHA and the American College of Cardiology, also involved in the project, addressed the controversy, but the two groups are still standing by the potential of the calculator to save lives.  Even Ridker believes that the algorithm is mostly good, but could use more development before widespread implementation. “I actually support probably 80% of what’s in these guidelines because they’ve taken major steps forward that are going to improve care,” he said.
+Dig Deeper
+Clinical Analytics Aid Payers, Providers with Value-Based Care
+Research Collaboration to Use Big Data for Diabetes Prevention
+Does Social Determinants Data Enhance Population Health Analytics?
+The calculator seemed to confuse patients and mainstream media outlets when unveiled last week, with many people worried that they would be put on unnecessary medications immediately without really understanding the reasoning behind the AHA’s pronouncement.
+With the Association’s credibility on the line and healthcare professionals and laypeople alike questioning the validity and usefulness of such tools, the debacle represents a valuable lesson for analytics professionals relying on algorithms to supplement decision making.  Mathematical probability is no substitute for real-world judgment, and even the AHA urges physicians to use common sense and all available information to make decisions about who receives medication and who does not.
+Tagged Big DataClinical AnalyticsClinical IntelligencePopulation Health Management
+
+

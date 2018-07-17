@@ -1,0 +1,50 @@
+Borrowed from Retail, Anthem’s Big Data Analytics Boost Member Engagement
+
+August 03, 2017
+
+By Jennifer Bresnick
+August 03, 2017 - Commercial insurance companies are facing innumerable challenges as internal and external changes continue to buffet the healthcare industry. 
+As both leaders in the field of value-based care and for-profit entities subject to political and economic forces outside of their control, the nation’s largest payers must balance bold proactivity with prudence and shrewd decision-making.
+Heavyweight payers like Anthem and its peers were among the first in the healthcare industry to successfully leverage big data analytics to give them insights into the behaviors, risks, and likely actions of their members. 
+Unlike many physicians and hospitals, who still struggle to make sense of the business case for value-based care, payers have a very clear incentive for using all the data at their disposal to ensure their members stay as healthy as possible and their provider partners remain on the right side of the payment equation.
+Patrick McIntyre, SVP of Health Care Analytics at Anthem
+Source: Xtelligent Media
+Doing so, however, requires significant investment in cutting-edge technologies – including machine learning, predictive analytics, and natural language processing – that can accurately profile consumer behaviors and target meaningful outreach to the right people at the right time.
+READ MORE: Health Data Analytics a “Competitive Differentiator” for Payers
+“The next major area of opportunity for us is in behavioral analytics,” said Patrick McIntyre, Senior Vice President of Health Care Analytics at Anthem.
+“If the clinical and social determinants of health are the fuel and machine learning is the engine, then behavioral analytics is the navigator.”
+For Anthem, developing actionable big data analytics competencies involves a little bit of cribbing from its neighbors in the retail industry, which has excelled in its use of data collection and analytics to create seamless, deeply personalized experiences for consumers.  
+“I would say about 70 or 80 percent of our data science department was actually brought in from the retail industry,” McIntyre admitted. “We wanted to learn from the experts how to engage with consumers and monitor their levels of engagement in their health journey.”
+Anthem already knows all about clinical care, he added, and has plenty of healthcare content experts in-house to work on continuously improving the company’s care coordination and population health management skillsets.
+READ MORE: Value-Based Care Requires Good Big Data, Better Communication
+“But our goal is to grow out our consumer engagement skills, because we are shifting into much more of a service-oriented, consumer-oriented industry,” he said.  “We need to know what works and what doesn’t in our engagement programs, and how to anticipate and predict the best outcomes given very complex characteristics of our membership sub-populations, which span every single segment of the US population.”
+Payers should strive to create personalized coaching programs and engagement opportunities that reduce the typical stressors and obstacles of interacting with payers and providers, McIntyre advised. 
+Creating a frictionless experience for members, whether they prefer to engage through traditional snail-mail, text messages, or online portals, requires very strong competencies in data science – and increasingly in machine learning and artificial intelligence.
+Anthem combines its claims data with clinical data, electronic health records, lab results, and other key data sets in a single integrated data warehouse, McIntyre explained.  The company also collects patient-generated data from Anthem.com and has started to integrate data from its call centers into its algorithms.
+The payer is even dipping its toes into natural language processing and advanced speech analytics to gather data from patient conversations with representatives.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“That’s a pilot that is still under way,” said McIntyre.  “When you are talking about making decisions in healthcare, you want to have a very high level of confidence in your data before you start using it to inform our actions.” 
+“Speech analytics are becoming much more reliable and precise, so I think over time we will certainly see that improve.  It’s very promising, but right now we prefer to rely on information that has been communicated between humans without automated analytics.”
+Based on all of this collected patient data, the company develops a single consumer profile that includes general risk scores.
+Analysts can then dig down into specific characteristics of each member, segmenting out key traits such as their risk for an unnecessary emergency department visit, or how well they are controlling their diabetes, to identify opportunities for improvement and place individuals into the right brackets for messaging, coaching, or additional services.
+In addition to serving a number of internal customers, such as the in-house care coordination and chronic disease management teams, this data can then be shared with providers participating in Anthem’s value-based reimbursement programs to ensure that patients receive care targets to their individual needs.
+“As part of our value-based provider contracting approach, we deliver a set of capabilities to providers called our Enhanced Personal Healthcare Program,” said McIntyre.  “This includes reports that identify members with specific conditions or those members that are incurring unnecessarily high costs.  The software is implemented onsite in their offices, so they can easily access the data.”
+“So far we have gotten very good feedback from the provider community about the data we send them.  Many of them say that the capabilities they get from us are among their best value-based care tools.”
+The payer works closely with its partners on the provider side to ensure that members are not receiving duplicate messages from their insurer and their physician about the same health issue, which could be a frustrating turn-off for patients feeling overwhelmed with managing their chronic or acute conditions.    
+“Clearly there is a risk of over-messaging members if both their health plan and their provider are trying to help them manage a chronic disease, but we do try to make sure that we are not bombarding them with messages from all sides,” said McIntyre.
+“If we have identified a member and attributed that person to a provider practice, we typically switch off a lot of our outreach as long as we have ensured that the provider is taking care of the member’s health needs.”
+Behavioral analytics aren’t just useful for engaging members and keeping patient healthcare costs low, he added.  They can also significantly reduce the time, effort, and frustration of processing claims from providers.
+Rooting out fraud, waste, and abuse is a critical issue for payers.  Anywhere from three to ten percent of annual US healthcare spending is involved in improper billings, according to FBI estimates, resulting in up to $200 billion in lost revenues for the healthcare system.
+The growing maturity of machine learning and predictive analytics has been a game-changing tool for payers looking to reduce the time and exasperation spent on identifying suspect claims and recouping improper payments.
+“We can use machine learning and big data to identify potentially fraudulent or wasteful claims on a daily basis.  As we’re batch processing claims every evening, we’re running these algorithms as well in a real-time manner to flag potential abnormalities,” said McIntyre.
+“We want to proactively identify suspect payments and prevent them from going out the door instead of using the ‘pay and chase’ payment recovery model that many payers use today.”
+Concerning claims are pended and sent to clinical coding experts for review.  If they are deemed to be incorrect in some way, they are either rejected or held until a corrected claim is processed.
+“We’re seeing very positive results from this approach,” McIntyre said.  “It has saved us a lot of money, time, and provider abrasion because we don’t have to go back to that provider and request the overpayments be returned for claims that they have already recorded as paid.” 
+“It’s a much easier conversation when it’s not really a fraud claim – when it’s a mistake with the billing or coding that is not intentional.  We don’t want to hassle providers about overpayments, and we don’t want to create aggravation on their side or our side with trying to recover those erroneous payments.”
+Anthem has saved “tens of millions of incremental dollars over our historical fraud, waste and abuse analytic models” by using machine learning, he added.
+As payers wade ever deeper into the consumer-oriented world of value-based reimbursement, big data analytics and behavioral profiling are likely to continue to bring cost savings and greater efficiencies. 
+The ability to architect and deploy meaningful, streamlined, and individualized experiences for members will be a competitive differentiator for insurance organizations, McIntyre believes.
+“If you can’t figure out how to positively impact the way a member navigates the healthcare system, then you’ve spent a lot of time and energy without really achieving the right results,” he said. “We have to use our data to conduct outreach to members and engage them in a more direct, personalized way.”
+Tagged Analytics InfrastructureClaims ProcessingHealthcare Big Data AnalyticsHealthcare FraudHealthcare PayersInterviewsMachine LearningNatural Language ProcessingValue Based Care
+
+

@@ -1,0 +1,15 @@
+Computer Model Based On Neural Networks To Predict Probability Of Corruption In Spain
+
+24 Jan 2018
+
+This Alert System Confirms That The Probabilities Increase When The Same Party Stays In Government More Years
+Two researchers from the University of Valladolid have developed a model with artificial neural networks to predict in which Spanish provinces corruption cases could appear with more probability, after one, two and up to three years.
+The study, published in Social Indicators Research, does not mention the provinces most prone to corruption so as not to generate controversy, explains one of the authors, Ivan Pastor, to Sinc, who recalls that, in any case, “a greater propensity or high probability does not imply corruption will actually happen.”
+The data indicate that the real estate tax (Impuesto de Bienes Inmuebles), the exaggerated increase in the price of housing, the opening of bank branches and the creation of new companies are some of the variables that seem to induce public corruption, and when they are added together in a region, it should be taken into account to carry out a more rigorous control of the public accounts.
+“In addition, as might be expected, our model confirms that the increase in the number of years in the government of the same political party increases the chances of corruption, regardless of whether or not the party governs with majority,” says Pastor.
+“Anyway, fortunately — he adds -, for the next years this alert system predicts less indications of corruption in our country. This is mainly due to the greater public pressure on this issue and to the fact that the economic situation has worsened significantly during the crisis.”
+To carry out the study, the authors have relied on all cases of corruption that appeared in Spain between 2000 and 2012, such as the Mercasevilla case (in which the managers of this public company of the Seville City Council were charged) and the Baltar case (in which the president of the Diputación de Ourense was sentenced for more than a hundred contracts “that did not complied with the legal requirements”).
+The collection and analysis of all this information has been done with neural networks, which show the most predictive factors of corruption. “The use of this AI technique is novel, as well as that of a database of real cases, since until now more or less subjective indexes of perception of corruption were used, scorings assigned to each country by agencies such as Transparency International, based on surveys of businessmen and national analysts,” highlights Pastor.
+The authors hope that this study will contribute to better direct efforts to end corruption, focusing the efforts on those areas with the greatest propensity to appear, as well as continuing to move forward to apply their model internationally.
+
+

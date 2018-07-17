@@ -1,0 +1,22 @@
+WEDI: Data exchange, payment reform key to healthcare success
+
+December 06, 2013
+
+By Jennifer Bresnick
+December 06, 2013 - Innovative strategies to engage patients, reform reimbursement models, and embrace new forms of patient-provider encounters will only succeed on a strong foundation of data integrity and information exchange, according to the newly published 2013 WEDI Roadmap for Health IT.  Healthcare must work towards interoperability and data harmonization in order to take advantage of quality-based payment reforms and devise ways to involve patients with their own care, whether in the physician’s office or by iPhone at the coffee shop.  The report cites four major areas of concern and includes a list of recommendations detailing how healthcare can harness the power of health IT as it morphs into a data-driven industry.
+Engaging with patients for proactive care
+In order to involve patients in their own care, they must understand their responsibilities and the consequences of their actions.  Through data analytics and population health management programs, providers can target education and community outreach in order to increase health literacy among high-risk cohorts.  WEDI notes that identifying and promoting strategies for effective data capture, analytics, and dissemination will be the most important factor for engaging patients.
+Interoperability and standardization
+Dig Deeper
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+Business Intelligence Tools Bring Insights to Organ Donation Network
+Allscripts Buys Practice Fusion to Bulk Up on Big Data, EHR, Life Sciences
+Data must be able to flow freely across the care continuum in order to leverage the clinical and financial information collected by EHR systems, mHealth apps, remote monitoring devices, and emerging patient-provided data models.  The adoption of interoperability and data standards is an ongoing quest among healthcare stakeholders, and WEDI recommends the continued promotion of data integrity as a basis for future health IT projects.  Harmonious data will be the key to larger health information exchange initiatives that lead to more detailed population health management and quality-based payment reforms.
+Using payment reforms to the provider’s advantage
+As these new payment models continue to pick up steam, providers will increasingly need to rely on strong data analytics to identify quality issues, measure successes, and report outcomes.  The report recommends that stakeholders “develop a framework for assessing critical, core attributes of alternative payment models – such as connectivity, eligibility/enrollment reconciliation, payment reconciliation, quality reporting and care coordination data exchange, and education – and the technology solutions that can mitigate barriers to implementation.”
+Accepting new encounter models
+A large part of these payment reforms revolves around providing ways to bring healthcare to the patient wherever and whenever they might choose to engage.  Not only can telehealth and mHealth save money and help patients manage their chronic conditions, but they can also generate vast amounts of patient-provided data to supplement the traditional office interview.
+While questions remain about how this data should be collected and used, providers and rule makers must step up to the plate and encourage the adoption of “best-in-class” apps and programs in order to ensure that the data produced by novel encounter forms has clinical value.  The report also adds that legal obstacles still prevent telehealth from taking off in many areas of the country, and the industry must overcome federal and state roadblocks before remote medicine can truly provide cost savings and more robust patient care.
+Tagged Analytics InfrastructureBig DataClinical AnalyticsHealthcare AnalyticsHealthcare Data ManagementHealthcare Data StrategyPatient EngagementPopulation Health Management
+
+

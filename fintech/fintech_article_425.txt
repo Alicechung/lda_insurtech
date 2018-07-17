@@ -1,0 +1,23 @@
+Distributed Lab Releases An Anti-Corruption Solution To Increase Business Transparency
+
+January 19, 2018
+
+Blockchain expertise center Distributed Lab has announced a solution based on blockchain technology, which will increase management transparency in the corporate sector and public sector.
+
+ “This solution is effectively a prototype for how transparency can be increased in management in the public sector and in state bodies. Testing of this approach in the business world currently looks hugely more realistic by comparison with implementation of the same solution a priori in the state sector. On the other hand, the corporate sector will be getting a usable tool which comes with a large number of features for solving the pressing task of increasing transparency in management and accounting,” commented Vladimir Dubinin, CEO of Distributed Lab.
+
+ Minimizing abuses and illegal activities carried out by company officials is an urgent problem in the Ukrainian corporate sector. Normally, the facts and details of such abuses in a particular company are known to those who directly commit them, but also by third parties (let’s call them witnesses) in ‘corrupt deals’. In the majority of cases, these witnesses have no direct interest to make any public declaration of the facts of the corruption – since they would be compelled to reveal their identities, and thus put their future professional development at risk. Of course, anonymous accusations can’t be used in evidence – firstly, because there is no confirmation of the witness’s identity, while in the second place, there is no guarantee that one and the same person hasn’t given multiple witness statements.
+
+ “It would be ideal if a witness had some way of proving their identity anonymously, as well as their membership in the organization. They could then also give anonymous statements about facts of any ‘corrupt deal’ which took place,” Pavel Kravchenko, founder of Distributed Lab, went on to explain.
+
+ In such circumstances, the statement couldn’t then be attributed to a specific individual for outside observers. The witness could independently assert their anonymity to various categories of observers – who might be representatives of the company’s regulators, or of state authorities – as well as to journalists, or auditors. One single witness would be unable to file multiple statements, witnesses and observers would get the opportunity of tracking the number of statements filed against different parties – and should the case then go to court, there would be the opportunity to confirm who actually filed the statements, and when.
+
+ Blockchain expertise center Distributed Lab envisages a solution to these problems through the use of a so-called ‘ring signature’.
+
+ “Here we are talking about a mechanism using electronic signatures, in which a document is signed by one staff member on behalf of all other employees. However, it would remain unknown exactly which staffer had signed the document. Identification of the employees could be made using existing keys (a staffer’s certificate of electronic signature). Anyone would be able to confirm the signature – all this requires is knowledge of the public keys of all the staff members. Published statements and their relevant public keys would be stored in a public blockchain – with validation from state agencies, journalists and auditors. This would make it possible to record the time and date the statement was made, and to decentralize verification of ring signatures. This kind of anti-corruption mechanism could be superimposed over the organization’s existing structure – making it possible to combat abuses directly on the spot,” said Vladimir Dubinin, CEO of Distributed Lab.
+
+ This solution was presented by Distributed Lab’s founder Pavel Kravchenko at the International Integrity and Anti-Corruption Conference in the Hague on 8th December, 2017 
+
+ Video 
+
+

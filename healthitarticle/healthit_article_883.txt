@@ -1,0 +1,36 @@
+Analyzing Medicare Chronic Disease Prevalence, Spending Rates
+
+June 10, 2016
+
+By Jennifer Bresnick
+June 10, 2016 - Helping patients improve their chronic disease management skills is one of the most common tasks for primary care providers, and also one of the most costly. 
+Caring for patients with hypertension, diabetes, asthma, chronic kidney disease, and arthritis sap billions of dollars from the healthcare system, especially when care is poorly coordinated and providers lack critical data for informed decision-making.
+While Medicare has seen some early success with containing chronic disease management costs through accountable care organizations (ACOs) and other value-based reforms, a rapidly aging population and the continued technical challenges of creating an integrated care continuum are making it difficult for providers to keep up.
+Over the past few years, in conjunction with wider efforts to modernize the healthcare industry through the adoption and use of electronic health records and population health management tools, CMS has been releasing various datasets to increase transparency and equip providers with the tools they need to deliver quality care.
+These datasets can help providers understand their particular regional challenges as they work to reduce racial and ethnic care disparities, expand access to care for elderly chronic disease patients, and work with a new array of partners to address mental healthcare, community needs, and preventative services.
+READ MORE: Nurses Play Collaborative Role in Care Coordination, Planning
+The Medicare Chronic Conditions Dashboard is just one of several online interfaces designed to allow healthcare stakeholders to access actionable insights about spending rates, disease prevalence, and the impact of multiple chronic diseases on patients.
+With 2014 data available at the regional, state, and county levels, the dashboard may be an important addition to the chronic disease management toolkit for care coordinators across the nation, especially as average per-capita spending on patients with a constellation of six or more chronic diseases reaches nearly $30,000 each year.
+It is no surprise that patients with the highest number of comorbidities are likely to incur the most costs.  Previous research from the Agency for Healthcare Research and Quality (AHRQ) found that the top 5 percent of patients with four or more chronic diseases are responsible for 30 percent of all chronic disease spending, and the CMS data comes to a similar conclusion.
+While just seventeen percent of Medicare patients live with more than six chronic conditions, they account for half of all spending on beneficiaries with chronic disease.
+In contrast, the 35 percent of Medicare patients with a very low burden of chronic disease – no chronic conditions or just one long-term health concern – are responsible for less than ten percent of annual costs.  On average, these relatively healthy patients account for less than $2000 each year in per capita spending.
+READ MORE: NH Population Health Management Program Cuts Overdoses by 34%
+Patients who live in the Deep South and parts of the Southwest, including Texas, are among the most likely to experience the greatest burdens of chronic disease.  Due to the population density of urban areas including New York City, there are a high number of patients in New York and New Jersey who also suffer from a number of complex conditions.
+Even though the New York region is marked as having the highest deviation from the national distribution average, the difference in distribution rates between the two Southern United States regions and the New York metropolitan area is only about one percent. 
+In each of the three areas, between 15.75 percent and 16.75 percent of Medicare patients live with six or more chronic diseases.
+On the other end of the spectrum in the Pacific Northwest, only 9.16 percent of Medicare beneficiaries experience such a high chronic disease count.
+However, while it seems reasonable to assume that increasing age produces more chronic diseases and therefore more spending, the data does not show such a direct correlation.  Medicare beneficiaries who are under the age of 65 are actually more likely to incur higher spending than older patients, the dashboard reveals.
+READ MORE: How Care Management, Care Coordination Differ in Health IT
+The difference is more than $5000 per beneficiary per capita among patients with the highest number of chronic diseases, yet the difference is minimal among patient age groups with few or no long-term conditions.
+There is little difference between spending rates when beneficiaries are divided by gender, although male patients tend to cost slightly more than female patients overall.
+The same cannot be said when it comes to race and ethnicity, however.  As a separate Medicare data dashboard shows, there are stark differences between spending rates for white patients and their counterparts across a variety of ethnic and racial groups.
+The Mapping Medicare Disparities (MMD) dataset shows that some states exhibit significantly higher spending on chronic diseases such as diabetes for black patients when compared to those identifying as white.
+These states include Florida and Texas, which are both named multiple times on the list of counties with the highest prevalence of diabetes, hypertension, and hyperlipidemia.
+Ethnic and racial disparities are also apparently when it comes to key chronic disease management indicators, such as blood sugar control.  Diabetic Medicare patients who identify as black are nearly ten percent less likely than white patients to report that their blood sugar is within an acceptable range.
+For patients with multiple conditions, failing to maintain proper blood sugar control may also have an impact on their other diseases, and might indicate a need for a new assessment of their chronic disease management capabilities and skills.
+Overall, the data helps to illustrate the scope and challenge of maintaining a high quality of life and quality of care for Medicare patients, whether they are extremely complex and costly or experience a relatively low burden of disease.
+Providers who are unsure of how to best implement population health management programs – including those who are trying to decide on where to start with interventions that will produce the most immediate or cost-effective impact – may wish to examine Medicare data from their particular region as a first step.
+Using all the available data analytics tools at their disposal will allow healthcare providers to monitor patients at high risk of costly events such as preventable admissions or readmissions, which improves quality of life for patients and may reduce overall spending for the beleaguered healthcare system.
+Tagged Care CoordinationChronic Disease ManagementMedicare SpendingPopulation Health Management
+
+

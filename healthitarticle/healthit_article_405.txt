@@ -1,0 +1,68 @@
+How Do Population Health, Public Health, Community Health Differ?
+
+July 19, 2017
+
+By Jennifer Bresnick
+July 19, 2017 - The rapid proliferation of value-based care arrangements, driven by EHR adoption and the subsequent explosion of big data, has given providers both the opportunity and the financial imperative to focus on delivering holistic, preventive healthcare to their attributed patients. 
+Instead of simply addressing acute ailments on a piecemeal basis as they arise, healthcare organizations are transitioning to a longer-term view of patient wellness in an effort to keep individuals as healthy as possible for as long as possible.
+In order to make the leap from sick care to maintaining wellness, providers must understand the likely trajectory of an individual’s illness or chronic condition. 
+This requires clinicians to have access to a great deal of background information, including comprehensive data on the outcomes of similar patients who have faced comparable clinical, economic, and social challenges.
+Providers can then use the lessons learned from larger groups of patients to predict outcomes and create care plans for the individual. 
+READ MORE: Top 10 Challenges of Population Health Management
+They can also use the data to stratify patients by risk, develop insights into obstacles faced by segments of the community, and target interventions to certain subpopulations in order to produce the most impactful results.
+These have become very familiar principles for healthcare providers, many of whom will comfortably use the term “population health” or “population health management” to describe these strategies.
+But local government health departments might prefer to call these approaches “public health,” and regional social services organizations often use “community health” to define their very similar approaches to care and wellness for residents.
+So then what are the differences between population health, public health, and community health?  What are their similarities?  And how can stakeholders with slightly differing viewpoints come together to deliver the best possible care and most effective services for individuals in need?
+DEFINING WHAT IS MEANT BY “POPULATION HEALTH”
+Most discussions of the meaning of population health start with a review of the definition offered up by David Kindig, MD, PhD, and Greg Stoddart, PhD, in 2003.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+Population health is “the health outcome of a group of individuals, including the distribution of such outcomes within the group,” Kindig and Stoddart said in the American Journal of Public Health. 
+“We argue that the field of population health includes health outcomes, patterns of health determinants, and policies and interventions that link these two.”
+Denise Koo, MD, MPH, CAPT, USPH, Advisor to the Associate Director for Policy at the CDC, notes that what constitutes a “population” can also be defined in different ways, complicating the issue even further.
+“Population health is the outcomes of the health of a population,” Koo said in a video interview for Duke University’s Practical Playbook.  “That can mean patient populations [based on a shared clinical condition], but it can also be geographic populations: all the people in a community or a county or a state.”
+Kindig and Stoddart agree that a purely clinical definition of a “population” would be too narrow.
+READ MORE: Is There a True Definition of Population Health Management?
+“Populations are often geographic regions, such as nations or communities, but they can also be other groups, such as employees, ethnic groups, disabled persons, or prisoners,” they wrote.
+Individuals can belong to half a dozen (or more) overlapping population groups, depending on their various attributes, and may move in and out of given subpopulations quickly. 
+Even the word “health” can have multiple meanings. 
+Health can be considered at a single point in time or in terms of improvement or decline over several months or years.  It can mean a full return to wellness after an acute episode with a defined treatment pattern, such as a broken leg, or the best possible degree of wellness while suffering from one or more chronic diseases.
+Health can be physical, mental or behavioral, emotional, or socioeconomic.  It can depend on genomics, circumstances, educational levels, and lifestyle choices far outside of a provider’s control. 
+Health status and health outcomes can be measured in thousands of different ways, depending on which metrics are being used.  And it can differ drastically when seen from the viewpoint of a clinician as opposed to through the eyes of the patient herself.
+And if that is not complicated enough, stakeholders often add a third dimension to the puzzle by tacking on the word “management” to the phrase. 
+Population health management is considered the act of identifying and addressing the health of individuals within defined populations, but this can be done in many different ways. 
+“Typically, providers use population health management tools to aggregate and analyze data and provide a comprehensive and actionable clinical picture of each patient,” the Office of the National Coordinator said in its Health IT Playbook.
+“Providers can track and, hopefully, improve clinical outcomes, and lower costs by using these tools and information.”
+The digitization of the healthcare industry has made it easier for providers to define specific populations by relevant criteria and recognize patterns in the care and wellness of their patients. 
+Health IT tools, whether stand-alone or integrated into electronic health records, allow providers to engage in risk stratification, identify gaps in routine care, automate outreach to patients in need of attention, and measure the quality of their interventions.
+The growing reliance on big data has led some experts to define population health management as a largely analytical pursuit.
+“Population health management means taking an analytical approach to understanding the health needs, disparities and outcomes of the community and to align improvement initiatives,” said Kathryn Ruscitto, CEO of Joseph’s Hospital Health Center in a 2015 study by The George Washington University’s Executive Master of Health Administration program.
+Janet Porter, Principal at Stroudwater Associates, also believes that managing complex populations requires a critical eye and measured approach to deploying care strategies.
+“Population health is the analysis and design of interventions and management of large groups of citizens focused on improving their health status,” she said.
+ADDING THE PUBLIC HEALTH PERSPECTIVE
+If population health is the act of improving the wellbeing of a group sharing geographic, socioeconomic, or clinical criteria, what then is public health? 
+A simple definition would “whatever the local Department of Public Health takes under its purview,” which often includes infectious disease prevention and eradication, monitoring environmental factors like water quality and air pollution from a health perspective, or working with policymakers to address a wide range of wellness issues.
+“People in the field of public health work to assure the conditions in which people can be healthy,” explains the American Public Health Association. “That can mean vaccinating children and adults to prevent the spread of disease. Or educating people about the risks of alcohol and tobacco. Public health sets safety standards to protect workers and develops school nutrition programs to ensure kids have access to healthy food.”
+“Public health works to track disease outbreaks, prevent injuries and shed light on why some of us are more likely to suffer from poor health than others. The many facets of public health include speaking out for laws that promote smoke-free indoor air and seatbelts, spreading the word about ways to stay healthy and giving science-based solutions to problems.”
+The T.H. Chan School of Public Health at Harvard University states that public health should have an “emphasis on disease prevention and health promotion for the whole community.  [The] public health paradigm employs a spectrum of interventions aimed at the environment, human behavior and lifestyle, and medical care.”
+These may include lines of specialization organized around analytical methods (epidemiology, toxicology), settings and populations (occupational health), and/or substantive health problems (nutrition, environmental concerns).
+While public health certainly includes all of the activities of public health officials, Koo believes that the definition could reasonably be broader.
+“Public health – using lower case letters – are the approaches we use to improve the health of a population,” she said.  “Anyone can do this, whether it’s a government Public Health Department with capital letters, a provider, or other organizations based in the community.”
+Does that make public health a facet of population health, or population health a subset of public health?
+Both population health and public health can include very narrow or very large groups of individuals – some public health initiatives encompass entire countries or regions of the world – and both increasingly rely on digital data assets to identify patterns and aid workers as they address critical wellness needs.
+The difference may lie simply in the origin of the service and the preference of the person speaking the words. 
+Population health is a term more commonly used in the clinical sphere and the health IT industry, while the phrase public health tends to be favored by government officials and the stakeholders who work closely with them.   
+WHAT ABOUT COMMUNITY HEALTH?
+Community health has the same goals and employs the same strategies as population and public health, but is primarily organized around a geographic area, says the CDC, and may be more heavily involved in local government and policy than other approaches.
+“The Division of Community Health (DCH) strengthens efforts in towns, cities, counties, and tribal areas throughout the nation to help communities prevent disease and promote healthy living,” the department states. 
+“The goal of these community-level efforts is to make healthy living easier where people live, learn, work, and play. We place a special focus on reaching people who are affected most by death, disability, and suffering from chronic diseases.”
+Health equity and socioeconomic disparities are a primary concern for community health organizations, requiring stakeholders to move far beyond the clinical sphere with their efforts. 
+Projects may address the underlying socioeconomic challenges and disparities in urban or rural environments, such as access to healthy food, safe and reliable child care, after-school programs, and  transportation services, as well as the creation of shared outdoor and indoor spaces that promote physical activity and community-building.
+These initiatives require a collaborative approach that includes community members, school systems, social workers, local government, and the healthcare provider system.
+“Some colleagues at CDC propose…that [community health] is about how you do it,” remarked Koo.  “It’s about multi-sector collaboration and approaching it in a culturally sensitive way.  It’s about engaging with the community using scientific and evidence-based approaches that meet the needs and interests of the community.”
+Ideally, population health management and public health initiatives should all include collaboration across the care continuum and into the community. 
+Healthcare providers may have a significant business imperative for ensuring that they do their best to reduce the impact of chronic diseases and cut spending for avoidable conditions, but their patients have perhaps an even bigger stake in creating healthy, welcoming, and comfortable communities for themselves and their families.
+No matter what terminology is used or who spearheads the initiatives, public health, population health, and community health must align to take responsibility for the long-term wellness of vulnerable patients through technology, improved processes, and proactive care. 
+Without enlisting the help of policymakers, healthcare providers, civic organizers, patients, and other key members of the community, no single member of the care continuum will be able to achieve their goals of reducing costs, improving health, and creating healthy living conditions for populations in need. 
+Tagged Care CoordinationChronic Disease ManagementHealthcare DefinitionsHealthcare QualityPopulation Health ManagementPrimersPublic Health
+
+

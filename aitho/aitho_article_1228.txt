@@ -1,0 +1,13 @@
+B9lab Launches Blockchain Course For QA Engineers
+
+13 Mar 2018
+
+Global blockchain education experts B9lab have launched the first certified course for Quality Assurance Engineers. An in-depth blockchain training programme for QA engineers and testing experts, the course provides hands-on examples of rigorous exploratory testing and explains how to introduce formal testing into blockchain projects.
+The first certified course for Quality Assurance Engineers.
+A project built on a blockchain might look similar to a normal application. But many inherent differences require the whole quality assurance process to be approached in a completely distinct way. The QA engineer needs to dig deep into the code and devise ways of pushing the underlying smart contracts to their limits in a wide variety of conditions.
+Elias Haase
+“It is a sad fact that many blockchain projects have gone live with little or no formal testing by anyone other than the project developer,” said B9lab founder Elias Haase. “The consequence of working with bleeding-edge technology combined with a lack of formal quality assurance is a Pandora’s box of bugs. While some have been minor, others have resulted in the loss of millions of dollars.”
+A QA engineer must be involved at the earliest stage of the project and needs to ask questions about transaction fees, latency, privacy, and data compliance. In the newest B9lab course, students will learn to specify acceptance criteria that can later be used as the basis for automating tests. Test automation is a critical part of the QA process. Students will also learn about the most common test libraries and how to integrate their test suite in a continuous integration environment.
+The course consists of videos, text, visuals and lots of practical exercises. With content released on a weekly basis, students can expect to dedicate an average of 6 to 10 hours per week to the course. Each developer will be supported by highly experienced instructors and students are encouraged to exchange their experiences within the learning community. At the end of the course, participants have the option to complete a comprehensive certification process, which requires a passing grade of 80% or higher.
+
+

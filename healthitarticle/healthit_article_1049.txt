@@ -1,0 +1,27 @@
+Senate Committee Moves Interoperability, Health IT Bill to Vote
+
+February 10, 2016
+
+By Jennifer Bresnick
+February 10, 2016 - The Senate HELP Committee is pushing forward with its efforts to advance interoperability across the healthcare system by unanimously voting to move the “Improving Health Information Technology Act” to the Senate floor.
+The bill focuses on bolstering the EHR certification and testing process by proposing a better EHR usability rating system, improving health data interoperability by developing a “network of networks” approach to health information exchange with common data standards at its core, and granting the Office of the Inspector General power to investigate and penalize entities engaging in purposeful information blocking.
+Our goal is to make our country's electronic health record system something that helps patients rather than something that doctors and hospitals dread so much that patients are not helped,” said Committee Chairman Senator Lamar Alexander (R-TN) in a press release.
+“We have worked for months – with input from those who actually use the system – to help improve health information technology,” Alexander added. “I’m glad to see this legislation move forward as part of a successful first meeting on our committee’s bipartisan biomedical innovation agenda.”
+Dig Deeper
+How FHIR Offers a New Approach to Working with Healthcare Data
+ONC Updates Providers on Interoperability, EHR Usability Projects
+Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+The Committee recently released a discussion draft of the legislation, inviting industry stakeholders to contribute public comments to the process of finalizing the bill. 
+The bi-partisan package follows a long series of sometimes contentious hearings about the less-than-optimal state of health data interoperability and information sharing in the industry. 
+After an April 2015 report by the ONC raised the question of information blocking within the vendor community, the veiled accusations seemed to prompt a great deal of activity among developers trying to reassure other stakeholders that interoperability is, and always has been, a top priority.
+But the Senate Committee isn’t taking any chances when it comes to letting the free market do its work in its own time.  In addition to commissioning a Government Accountability Office (GAO) study on the use of standardized data elements for patient identification and data exchange, the Improving Health Information Technology Act hopes to support providers by reducing reporting burdens and optimizing quality improvement efforts.
+The legislation would encourage administrative simplification efforts to address many of the complaints that providers have voiced about the time and energy it takes to attest to the EHR Incentive Programs – and a host of complementary quality reporting initiatives that accompany it.
+Patient engagement and patient data access are also top priorities for the Committee.  The legislation would promote the development and certification of health IT tools with a patient-centered focus, and would ask health information exchange organizations to educate providers about the benefits and competencies required to deliver truly patient-centered care.
+“If we want to continue building a health care system that works for patients and families and puts their needs first, strengthening our nation’s health IT infrastructure must be a top priority,” said Ranking Member Patty Murray (D-WA). “I’m pleased that with this legislation, Democrats and Republicans have been able to reach agreement on policies that will help empower patients and providers with more and better information to help drive treatment and improve health outcomes.” 
+The American Medical Informatics Association (AMIA) was one of the first stakeholder organizations to comment on the Committee’s action, voicing its approval of many of the provisions within the bill.
+“AMIA appreciates the work and bipartisanship demonstrated by Chairman Alexander, Ranking Member Murray and the entire HELP Committee in crafting the Improving Health Information Technology Act of 2015,” said Douglas B. Fridsma, MD, PhD, FACP, FACMI, President and CEO of AMIA.
+The society particularly applauded the inclusion of clauses that would reduce administrative burdens on providers, add more transparency to the EHR certification process, provide patients with better access to their own data, and define “interoperability” as “the exchange of health data and the use of such data without special effort.”
+“We look forward to continued collaboration to ensure that patients have complete access to their health data; that we have the sufficient technical building blocks needed for quality, research and public health; and that we test what matters as part of the health IT certification program,” Fridsma continued.  “We are hopeful today’s markup can be a springboard towards continued bipartisanship and sustained commitment to improving health IT for clinicians and the patients they serve.”
+Tagged EHR UsabilityHealth Information ExchangeInteroperabilityPatient Engagement
+
+

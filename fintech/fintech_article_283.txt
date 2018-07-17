@@ -1,0 +1,23 @@
+Blockchain for Capital Markets
+
+April 1, 2018
+
+Late last year, the Australian Stock Exchange (ASX) confirmed that it was using blockchain technology for its clearing and settlement, arguably becoming the first capital markets firm to use distributed ledger technology (DLT) at scale in the real world.
+
+ The talk last year was all about finding a use case – essentially trying to find a problem to fit the solution. Does ASX’s announcement mean that the blockchain has finally found a home in the capital markets?
+
+ Clearing and settlement might be the most obvious place for DLT, after all it’s almost a like-for-like swap in terms of functionality, but there are other innovative ways in which the technology is being experimented with. NASDAQ recently filed a patent for recording asset ownership, CME have filed a patent for setting up and executing futures contracts and Australia’s Commonwealth Bank is planning a bond offering using DLT later this year.
+
+ One thing these applications have in common is that they are not “The Blockchain” in the Bitcoin sense. They are closed DLT communities where the technology is managed and used by a single entity. It’s here that the future of DLT lies. A cross-industry, widely distributed system would be difficult to set up, manage and pay for.
+
+ Single instance uses, by contrast, provide many of the benefits without the negotiations and political wrangling necessary for a wider network. What these single instance uses are will take some exploring but it’s immediately obvious that DLT lends itself to applications that aren’t latency sensitive, are administrative in nature and are broadly repetitive. Effectively, back-office operations (as ASX has shown) that need to be auditable and can be automated.
+
+ While the future for DLT is unclear, it’s far from dull. There are myriad processes both on the buy and sell side that can be replaced by this technology and a future where blockchains (rather than “The Blockchain”) are at the heart of the capital markets is a real possibility.
+
+ About Colt
+
+ Colt provides high bandwidth services for enterprises and wholesale customers in Europe, Asia and North America’s largest business hubs. It enables the digital transformation of businesses through its intelligent, purpose-built, cloud-integrated network, known as the Colt IQ Network. It connects over 800 data centres around the globe, with over 25,000 on-net buildings and growing. Colt is also recognised as an innovator and pioneer in software defined networks (SDN) and network function virtualisation (NFV).
+
+  
+
+

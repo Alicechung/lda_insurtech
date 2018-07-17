@@ -1,0 +1,28 @@
+DOE, NCI Developing AI, Big Data Tools to Advance Cancer Research
+
+June 14, 2018
+
+By Jessica Kent
+June 14, 2018 - The Department of Energy (DOE) together with the National Cancer Institute (NCI) will pursue three pilot projects that will develop artificial intelligence, big data analytics capabilities, and predictive modeling to enhance cancer research.
+DOE and NCI partnered in 2015 to establish the Joint Design of Advanced Computing Solutions for Cancer (JDACS4C), which aims to develop next-generation supercomputing technology and accelerate precision medicine for cancer.
+JDACS4C will combine supercomputing and cancer research in several new projects at the molecular scale, in cellular model development, and in cancer surveillance.
+Dig Deeper
+Adopting Big Data Analytics, Precision Medicine Drives Quality Care
+How Advanced Genomics, Big Data Will Enable Precision Medicine
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+These projects have already shown success in advancing both cancer and general scientific research, which will lead to improved clinical decision-making in the future.
+An initial JDACS4C project involves improving the screening process for cancer drugs and enhancing treatment for cancer patients by developing machine learning and predictive modeling tools.
+The organizations will also work to integrate machine learning with molecular dynamics in order to identify the underlying causes of cancer.
+NCI and DOE also plan to support population-based cancer monitoring programs with advanced big data analytics and natural language processing.
+In addition to these projects, JDACS4C is developing the CANcer Distributed Learning Environment (CANDLE), which will serve as a machine learning environment for DOE’s next-generation supercomputing systems.
+CANDLE is part of DOE’s Exascale Computing Project, an effort that focuses on delivering exascale computing systems to accelerate scientific discovery.
+JDACS4C is also developing Uncertainty Quantification for AI, a critical effort for leveraging the output of deep learning technologies.
+As these capabilities and technologies become more accessible, large data sets that today require weeks and months to analyze will instead only take hours or days to evaluate. This will accelerate translational and population-level cancer research.
+The mission of JDACS4C aligns with both the Precision Medicine Initiative of the 21st Century Cures Act and the NCI’s Cancer Moonshot, an initiative that aims to accomplish 10 years’ worth of research in five.
+Several converging factors have made JDACS4C possible, including the rapid increase of big data that is now available to the scientific community, as well as the long-term collaborative projects from DOE that have enhanced computational capabilities across multiple disciplines.
+Finally, the growing acceptance of scientific data sharing and collaboration has allowed JDACS4C to succeed in understanding the complexities of cancer biology.
+JDACS4C is already making strides in supercomputing. The program has developed a new natural language processing tool that can quickly extract relevant information from millions of pages of free-form text, as well as a new AI-molecular dynamics approach to multiscale physics.
+Through JDACS4C, DOE and NCI will continue to drive innovations in AI and big data analytics, boost supercomputing capabilities, and advance cancer research.
+Tagged Artificial Intelligence in HealthcareHealthcare Big Data AnalyticsMachine LearningMedical ResearchPredictive Analytics
+
+

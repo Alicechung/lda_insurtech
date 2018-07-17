@@ -1,0 +1,33 @@
+EHR Adoption, Population Health a Struggle for Rural Providers
+
+September 08, 2016
+
+By Sheri Stoltenberg
+September 08, 2016 - Rural and small hospitals often face a lack of resources, limited budgets and competition from larger healthcare organizations and accountable care organizations. These organizations also endure pressure to electronically modernize services for patient communities who otherwise would have to travel extensively to receive care.
+Though electronic health record (EHR) adoption is at an all-time high across the country, rural health and small community hospitals still lag behind in adoption and clinical optimization - particularly concerning interoperability between systems.
+For example, in 2015 the ONC found that small, rural and critical access hospitals (CAHs) were only half as far along as larger hospitals in four domains of interoperability measurement: electronically sending, receiving, finding and integrating patient health information.
+Only 4 out of 10 small, rural and critical access hospitals queried patient health information from external sources, while as few as three in 10 were able to integrate care record summaries into their EHRs. Roughly only 30 percent could access electronic information from outside providers.
+Dig Deeper
+National Health IT Week Brings Celebration, Educational Events
+CMS: MACRA Will Improve Rural Care Access, Population Health
+How Does the ONC Define HIE, Value-Based Care, Population Health?
+While these figures may seem discouraging, several federal programs are under way to help rural and small organizations accelerate adoption and integration of HIT to improve care quality and outcomes for their unique patient populations. With the right leadership and guidance from qualified, experienced professionals, rural and small hospitals can overcome their challenges and perform at the same levels as their colleagues at larger institutions.
+MACRA concerns add to provider pressures
+A newer challenge facing rural and smaller organizations is the initiation of the Medicare Access and CHIP Reauthorization ACT (MACRA) incentive program.
+Healthcare policy experts fear that rural and small hospitals as well as physician practices will face a widened gap, placing them at higher risk of incurring penalties. On top of the EHR data-entry burden, these rural and small healthcare providers may also grow weary of MACRA’s detailed reporting requirements.
+The American Medical Association (AMA) pointed out the program’s lack of accommodations and unintended consequences, including administrative and reporting burden and new penalties, for rural health and small practices, while the Health Information and Management Systems Society (HIMSS) asked to ease the complexity of quality reporting.
+The AMA also calls for Centers for Medicare and Medicaid Services (CMS) to start the new MACRA program July 1, 2017, moving from January 1, 2017 to provide greater time between the final MACRA rule (likely in October or early November) and the start of the reporting period.
+Despite these calls for accommodation and delays, rural healthcare organizations should still prepare for MACRA by assessing how their existing health IT systems will perform under the demands of these exhaustive data capture and reporting requirements.
+Stepping up for small and rural health
+As disparities for rural, small and critical access healthcare providers grow, what is being done to aid these patient populations?
+CMS recently selected 10 rural Montana, Nevada and North Dakota hospitals to take part in the Frontier Community Health Integration (FCHI) project demonstration. FCHI creates and tests new models for integrated healthcare in sparsely populated rural areas aiming to improve health outcomes and decrease Medicare expenditures.
+CMS will increase reimbursement for participants to cover the new services, like telemedicine and skilled nursing care, which hospitals will provide to make care access more convenient to patient populations.
+Rural healthcare received another boost recently from the Health Resources and Services Administration (HRSA) with more than $16 million toward telehealth and quality improvement initiatives. Administered by HRSA’s Federal Office of Rural Health Policy, funding will benefit 60 rural communities amongst 32 states.
+For example, seven Rural Health Research Centers will receive $700,000 annually to investigate the health, economic and access challenges among these populations and how federal programs are impacting care and outcomes.
+More than $6 million will be designated to build telehealth programs in rural and underserved areas, which will allow additional patients the opportunity to avoid lengthy travel and instead receive care through their computer and mobile devices.
+Another $4 million will be dispersed amongst 21 rural primary care providers to implement evidence- based quality and care coordination improvement projects using HIT for data collection and reporting.
+Though rural, small and critical access hospitals and care providers tread water in the evolving healthcare industry and reimbursement landscape, these initiatives promote innovation and collaboration through health IT.
+Even with this additional funding and support, these institutions also need skilled and knowledgeable advisors to help maximize the value of these grants and other monies so they can better serve struggling communities and advance their quest for competitive patient care and improved outcomes.
+Tagged EHR AdoptionMACRAPopulation Health ManagementRural Hospitals
+
+

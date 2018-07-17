@@ -1,0 +1,14 @@
+Cryptocurrency Zcoin Have Just Released ‘French Drop’ Their Best Privacy Update Yet
+
+02 Mar 2018
+
+Privacy cryptocurrency Zcoin ($XZC) is pleased to announce that it has released a new version called ‘French Drop’ which makes substantial privacy improvements for users.
+The version “French Drop” is named after one of the most fundamental sleights of hand in coin magic which Zcoin sees as symbolizing the mathematical wizardry behind zero-knowledge proofs.
+Zcoin has announced their new release 0.13.5.5 “French Drop”, which includes a completely rewritten implementation code, with substantial performance improvements and security fixes to the original Zerocoin library plus enhanced TOR integration. For users, this translates to increased confidence in the privacy features Zcoin is known for, plus TOR ease of use in the Zcoin wallet. The version “French Drop” is named after one of the most fundamental sleights of hand in coin magic which Zcoin sees as symbolizing the mathematical wizardry behind zero-knowledge proofs.
+Reuben Yap
+“We believe that update marks a major milestone in locking down Zcoin’s fundamentals and privacy,” said Reuben Yap, their COO. “With this implementation, Zerocoin will work even more smoothly with code which is easier to audit. There are a few more changes that will be noted by users, like re-index time, which is 7-8 times faster now and verification time per spend, which has decreased by integrating additional data in a spend transaction. Some bugs have been squashed as well,” he said.
+Several other improvements have been made such as incremental accumulator optimizations which make minting and spending faster in larger accumulator sizes and improved stability by eliminating the non-deterministic behavior.
+“With this recode, Zcoin’s users can have the best Zerocoin implementation available on the market,” said Founder Poramin Insom.
+ 
+
+

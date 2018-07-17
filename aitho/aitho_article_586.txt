@@ -1,0 +1,45 @@
+10 Top Takeaways From Google I/O 2018: Duplex, Assistant, Maps & More
+
+14 May 2018
+
+Google’s Got Good News For Everyone; Assistant is Making Your Appointments Via Call, Maps That Leverage AR, Photos That Turn Black And White To Color, And John Legend’s Reading Out Your To-Do List
+The week following Google’s annual conference is an exciting time. Developers and users alike are abuzz with what the game-changer update really means and how it can be used. This year’s Google I/O had some big reveals and a bunch of little ones too. For the uninitiated, Google I/O brings together developers from around the globe for an immersive experience focused on exploring the next generation of tech.
+Watch Google CEO Sundar Pichai on what the future holds…
+  Here’s a list of the key moments so you can join in the conversation;
+(1) Smart Compose
+Google is getting so personalized; it’s completing your sentences. Literally!
+Your emails are about to sound smarter through no effort of your own. Smart Compose will help you create and finish sentences in emails thanks to machine learning. Think of it predictive word suggestions when typing on a phone, but for whole chunks of sentences. Do we need to fear autocorrect? Let’s wait and watch.
+(2) The Right Direction
+There’s good news for the directionally-challenged. The search giant has been trying to bring AR to the core of most of our everyday applications for a while now and this time, they have managed to integrate it seamlessly with Google Maps.
+StreetView, computer vision, your camera and orientation come together here to help you figure out which way is “south” when you are told to head that way. The demo showed off how the large part of the navigation screen includes the street image captured by the on-board camera. The turn-by-turn directions are provided with large arrows, while a small half-circle displays you some context of where you are and how long it will take you to reach the destination.
+They also have a fun little fox to help you if you need a guide.
+Read More: Interview With Mimrah Mahmood, Regional Director Of Media Solutions, Meltwater
+(3) The Voices In Your Phone
+There’s little that can make a day jammed with meetings more exciting; except maybe John Legend’s soothing baritone reminding you about Karen from Marketing and her pitch report.
+Six new voices are coming to Google Assistant to nail the global appeal of the virtual assistant, complete with accents and, yes, even celebrities. The All of Me-singer is lending his voice to Google Assistant, so you’ll hear him through phones, speakers, and all Google Assistant-voiced products soon.
+(4) Android P Goes Beta
+Google is making the Android P beta more accessible, by launching its public beta for Google Pixel, and a few select handsets by OnePlus and Nokia.
+The attitude towards this version is to enable you to do more but save you from digital overuse. Designers have taken special care to provide easier access to DND (just turn your phone face-down) mode. Users can also set a timer for ‘Sleep’ where your phone will change to a grey-scale so its soothing on the eyes.
+Moreover, the interface will predict which apps you are likely to use to aid productivity. Considering this is Google we are talking about, and they have known your habits since your digital inception — the predictions are bound to be fairly accurate.
+Read More: Game-Changers: 10 Virtual Reality Gaming Companies To Look Out For
+(5) Developers Den
+App slices is an API that’s going to allow developers put parts of their app into various portions of the operating system, starting with search. If you search Pinterest, for example, the search dropdown will not only suggest the Pinterest app, but also feed you options for what you can do with the information you are likely to gain there.
+There are also special Machine Learning kits for on-demand APIs.
+(6) Good News About News
+Bid a sweet but incredibly short goodbye to Newsstand. The news app now comes will be available in 127 countries by next week.
+One of the more interesting ways Google News displays stories is with their new Newscasts feature. Newscasts are like Instagram Stories. They’re slideshows of several articles from different sources, displaying their headline and a short excerpt.
+Read More: Kratos Unmanned Aerial Systems, Inc Selected For DARPA Award
+(7) Assistant That Makes Appointments
+Duplex improves Assistant so that it can book your appointments for you. Through two demos on stage, Assistant was shown calling a hair salon to make an appointment and then getting a reservation for a restaurant. Assistant even made the phone call on behalf of the user. It also sounded much more human during the calls, doing something as simple as responding with “mhmm” when asked to hold.
+Scheduling the reservation was also impressive, as the Assistant waded through questions without a problem. Once a reservation is made, Assistant can let you know the details of it and add it to your schedule. Google is still working on this, but it plans to test it soon.
+(8) Lens Looks Into The Real World
+This one is straight out of Minority Report! Google Lens accesses objects via your phone camera and allows you to search for objects and clothing in a similar style. There’s sure to be more than a few e-commerce players who would like to get onboard this feature. What is interesting is how Lens is able to carry out proactive searching, passively showing anchor points of information in your viewfinder.
+Read More: In Texas, You Can Soon Hail A Free Self-Driving Car Ride Thanks To Drive.Ai
+(9) Google Helps The Differently Abled
+Google is also using machine learning to better display closed captioning for shows in which two people talk over each other. It’s a mess for human transcribers and the hearing-impaired, but machine learning will be able to pick up individual voices, as demonstrated by Google’s promising demo.
+Further talking up its responsibility to people with disabilities, Google is now making its Gboard keyboard compatible with Morse code.
+(10) Waymo That We Can Handle
+Waymo, Alphabet’s self-driving car company got only a few minutes on stage despite not technically being part of Google. It’s definitely something to look forward to in the not so distant future. Waymo has now driven over 6 million miles on public roads and runs a constant simulation with 25,000 cars in it.
+Read More: In Texas, You Can Soon Hail A Free Self-Driving Car Ride Thanks To Drive.Ai
+
+

@@ -1,0 +1,18 @@
+Big data, clinical analytics predict metabolic syndrome risks
+
+June 30, 2014
+
+By Jennifer Bresnick
+June 30, 2014 - Big data from health insurance companies can be combined with a clinical analytics platform to accurately predict the risks of developing metabolic syndrome, reports a study from the American Journal of Managed Care.  The study was able to generate highly accurate personalized risk scores for patients with one or more elements associated with metabolic syndrome, predicting where their health would deteriorate next and providing clinicians with the ability to target population health management techniques and individualized care plans to specific areas of good health.
+More than 80 million US adults are currently suffering from metabolic syndrome, defined as having three or more of a collection of biological abnormalities including increased insulin resistance, obesity, high blood pressure, elevated triglycerides, and low HDL cholesterol.  An additional 104 million are affected by one or two of the risk factors, incurring significant costs on the healthcare system and often leading to decreased quality of life and workplace productivity, the study says.
+After acquiring a big data set from Aetna, the research team used its proprietary clinical analytics platform, called Reverse Engineering and Forward Simulation (REFS), to generate highly individualized profiles predicting the likelihood of a patient developing specific aspects of metabolic syndrome.  An overweight 46-year-old male with out-of-range HDL had a 92% predicted probability of developing metabolic syndrome in the next 12 months, the study found, and a 73% chance of developing abnormal blood glucose during the study period.
+However, in a contrasting example, “a 37-year-old male with 2 out-of-range metabolic syndrome risk factors, HDL and triglycerides, had only a 40% predicted probability of developing metabolic syndrome within 12 months. For this subject, abnormal blood glucose was also the most likely abnormal factor to develop next, but carried only a 26% likelihood,” the study says.
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+Challenges of Applying Predictive Analytics to Population Health
+University of California Forms Big Data, Precision Medicine Network
+The research team found that waist circumference and blood glucose levels were the two factors with the most significant impact on the risk of developing metabolic syndrome, indicating that providers may wish to target preventative care towards patients on the higher end of the weight spectrum.  Patients who adhered to regular primary care checkups were also significantly less likely to develop further risk factors, illustrating the importance of continued monitoring by clinical professionals.
+“Our results confirm earlier studies that identified reduction in waist circumference (or weight) as the primary factor in decreasing both the risk of developing metabolic syndrome and future costs, and also confirmed that improved adherence to prescribed medication for control of blood pressure, lipids, and diabetes mellitus will reduce the subsequent risk of developing metabolic syndrome,” the study concludes. “Finally, the results of improved adherence to routine, scheduled preventive visits demonstrated a modest but clear benefit as well: individuals improving adherence achieved less than a 10% decrease in risk, yet almost 90% of individuals with improved adherence to preventive visits showed some decrease in metabolic syndrome risk.”
+Tagged Applied AnalyticsBig DataPopulation Health ManagementPredictive Analytics
+
+

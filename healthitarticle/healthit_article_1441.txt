@@ -1,0 +1,23 @@
+ONC Awards $300K to Chronic Disease Management Projects
+
+May 15, 2015
+
+By Jennifer Bresnick
+May 15, 2015 - Six chronic disease management, patient engagement, and care coordination start-ups will share $300,000 in funding to test pilot their wares with actual healthcare organizations, the ONC announced as part of its first Market R&D Pilot Challenge. 
+By matching promising developers with healthcare organizations facing significant patient care concerns, the Challenge has helped the industry identify its common goals and flag potential solutions, says Adam Wong, Management and Program Analyst at the ONC.
+“Innovation in the U.S. health care system requires not only action from the largest private stakeholders and appropriate involvement by federal and state governments, but also the entry of new businesses that disrupt the status quo by focusing on the most important stakeholder of all – the patient,” writes Wong in a blog post on Health IT Buzz.
+“However, startups can have difficulty finding partners in real-life care settings where they can test their products and learn how they are used by actual customers. Without this evidence base, developers will not uncover how they need to modify their technologies in order to provide the best value, which will lead to adoption by consumers and success in the marketplace.”
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+IBM Watson, Siemens Partner for Population Health Management
+Optum Risk Management Analytics Cut Opioid Use by 14%
+The six winning partnerships are as follows:
+Lowell General Hospital will use ClinicalBox care coordination technology to track patients along the continuum of care and help providers visualize episodes of care and identify critical tasks that will support the patient’s ongoing health.
+MPH Salud will implement CreateIT Healthcare Solutions’ MyCare Communicator for patient engagement, which helps providers communicate with patients in their native language, delivering education and clinical messages through emails, text messages, and automated calls.
+Gecko Health Innovations will deploy their remote monitoring suite at Boston Children’s Hospital in an effort to improve chronic disease management for respiratory illnesses.  CareTRx records medication use, tracks symptoms, sends patient reminders, and allows care coordinators to receive reports on a patient’s progress.  The pilot will evaluate the technology’s usefulness for the self-management of asthma.
+The Cardiology Division at the University of California San Francisco will leverage Optima Integrated Health’s artificial intelligence-based blood pressure monitoring solution that uses real-time data to provide personalized chronic disease management and treatment suggestions.  UCSF hopes that the EHR-integrated technology will help to improve hypertension control for patients.
+Henry Ford Health System and physIQ have partnered to test a clinical analytics platform that uses wearable devices and other data to prevent hospital readmissions for the exacerbation of chronic diseases like heart failure and COPD.
+Vital Care Telehealth Services and Dominican Sisters Family Health Service will implement the Senior Total Population Assisted Telehealth Services (STATS) program, which connects seniors to preventative care and chronic disease management services.  The organizations hope to improve care access for elderly patients at the Shinnecock Indian Health Services Clinic, which serves the tribe’s reservation on the east end of Long Island, New York. 
+Tagged Analytics InfrastructureChronic Disease ManagementClinical AnalyticsPopulation Health Management
+
+

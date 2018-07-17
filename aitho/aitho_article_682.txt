@@ -1,0 +1,19 @@
+Zenlayer Adds Tencent Cloud To Portfolio Of Cloud Connect Partners
+
+04 May 2018
+
+Zenlayer now offers direct access to Tencent Cloud in Silicon Valley, Frankfurt, Singapore and Hong Kong.
+Zenlayer, a global software defined network and services provider, announced that Zenlink, its SD-WAN Cloud Connect platform, now supports direct connections to Tencent Cloud. Tencent Cloud is the cloud computing arm of Tencent, the largest Internet company in Asia. Through Zenlink, enterprises can instantly provision high-speed, dedicated network connections to Tencent Cloud to accelerate mission-critical data transmission and pursue hybrid and multi-cloud strategies.
+Zenlink Enables Private Connections Between Clouds and Data Centers
+Zenlink’s automated self-service customer portal allows enterprises to create direct connections between multiple clouds, multiple data centers, or a hybrid of data centers and clouds. More than just bypassing the public Internet to deliver consistent, ultra-low latency connectivity, Zenlink also offers scalability and flexibility. Customers enjoy burstable bandwidth to meet sudden traffic surges as well as pay-as-you-go options to lower cost.
+By adding connectivity options to Tencent Cloud, customers can now seamlessly access Tencent Cloud’s global footprint and full portfolio of cloud-based solutions. Connections to other cloud providers such as AWS, Alibaba Cloud, Google Cloud, IBM Cloud, Microsoft Azure, Oracle Cloud and SAP Cloud are also available through Zenlink.
+Zenlink Delivers Immersive Digital Experiences
+Zenlayer has already helped enterprises across industries to harness the power of its SD-WAN Cloud Connect platform.
+For example, a mobile gaming app seeking to improve interactive gameplay among its global players utilized Zenlink to provision a direct connection between AWS in Tokyo and Tencent Cloud in Silicon Valley. As a result, the company saw a 40 percent latency reduction during peak traffic periods and now enjoys a consistent, reliable connection at all times.
+Global Cloud Deployment Made Easier
+Joe Zhu
+Through this collaboration, Zenlayer and Tencent Cloud are helping more customers build high-performance cloud systems and applications.
+Joe Zhu, CEO and Founder of Zenlayer, stated, “The demand for direct access to major cloud service providers like Tencent Cloud is growing, and we are pleased to offer dedicated connections from our data centers. Today, many of our customers use Zenlink to build hybrid and multi-cloud architectures to leverage different cloud providers’ strengths and minimize vendor-lock in, creating the best cloud solution tailored to their unique business requirements.”
+Huixing Wang, Vice President of Tencent Cloud, added, “As enterprises make strides in their digital transformation journeys, cloud migration remains top of mind. We are seeing more of our clients leveraging the cloud at a strategic and operational level, and Zenlayer successfully extends our global cloud reach.”
+
+

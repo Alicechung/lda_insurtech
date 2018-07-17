@@ -1,0 +1,20 @@
+EHRs Should Collect Behavioral Data for Population Health
+
+November 14, 2014
+
+By Jennifer Bresnick
+In order to foster better population health management, providers should routinely collect more behavioral health data in their EHRs.
+November 14, 2014 - The Institute of Medicine (IOM) is recommending that providers integrate behavioral health information into their EHRs in order to improve their capability to perform meaningful population health management, according to a new report.  The guidance is intended to provide CMS with a possible framework for including the collection of behavioral health data as a part of Stage 3 meaningful use, but can help providers build a foundation for including valuable behavioral information as part of their daily workflows in the short term, as well.
+“The US health system has achieved technological advances but lags behind other countries in population health outcomes,” the report says.  “Standardized use of EHRs that include social and behavioral domains could provide better patient care, improve population health, and enable more informative research.”
+The report forms the second part of a two-phase investigation into best practices for capturing social and behavioral data.  The first half of the study focused on identifying 17 domains that were candidates for inclusion into EHRs, and include commonly collected data points such as race and ethnicity, smoking status, alcohol use, and residential address.  The committee involved in recommending the criteria ensured that widely adopted technical capabilities of EHR systems were already mature enough to easily add the data points without excessive retooling or optimization.
+The expanded data involves gauging social and behavioral factors such as depression status, financial strain, intimate partner violence, social isolation, and overall levels of stress in order to better predict the risk of poor lifestyle choices, lesser capacity to control chronic disease, or the likelihood of harm to the patient or others.
+Dig Deeper
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+The second report dives more deeply into the challenges and benefits of expanding data collection in pursuit of better population health.  “Starting with added time and costs of collecting the information, expanding the data included in EHRs places additional demands on health systems, clinicians, patients, and vendors,” the report acknowledges.  However, since many of the measures can be formulated into questionnaires that patients can fill out themselves using paper or a computer, and can be done prior to a visit or while in the waiting room, time management needn’t be a significant barrier to adoption.
+The collection of socioeconomic data can also have a wider benefit for communities, the report adds.  “In addition to informing clinical care, linking data from EHRs on factors such as food insecurity, lack of housing, and social isolation to local public health departments and community agencies can allow these organizations to better address the needs of their community,” the report says.  “Data can be de-identified to allow anonymity.  When individual-level data are necessary, such as when public health personnel need to track exposures, transmitted data can be encrypted to protect patient privacy.”
+The IOM recommends that expanded data collection remain a priority for providers and policy makers as CMS and the ONC formulate rules for the latter states of meaningful use.
+Tagged Clinical AnalyticsEHR Data AnalyticsEHR Patient Data
+
+

@@ -1,0 +1,18 @@
+HIEs push for interoperability to support population health
+
+October 10, 2014
+
+By Jennifer Bresnick
+October 10, 2014 - The financial burden of health information exchange (HIE) and the difficulty of wrangling multiple vendors into some sense of interoperability are among the top challenges facing the national health IT infrastructure and the shift towards population health management, according to the eHealth Initiative’s 2014 survey.  While Stage 2 of meaningful use has pushed the industry towards wider adoption of Direct messaging and registry reporting, providers have a long road to travel before data exchange becomes simple and seamless across the care continuum.
+The 11th annual survey included 135 respondents, most of which were community-based health information organizations, statewide HIE efforts, and healthcare delivery organizations.  When asked about their top challenges for building a data exchange infrastructure with their hospital, lab, ambulatory, and community health provider partners, the most frequent answer was “financial costs.”  Forty-seven percent indicated that getting consistent and timely responses from EHR and HIE product vendors was a chief concern, while the technical difficulty of building an interface, implementing data standards, and meeting end user expectations also ranked highly on the list.
+The majority of organizations have to interface with up to ten EHR vendors, while 18 organizations have had to build more than 25 interfaces to patch together all applicable systems.  To overcome these obstacles, the participants would like to see standardized pricing from vendors who offer integrated solutions, plug-and-play technology platforms, and a greater industry-wide interest in HIE and data standards.
+Dig Deeper
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+ONC Views APIs as Key to Health Data Exchange, Interoperability
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+Despite their struggles, the majority of survey participants are moving forward with patient-centered initiatives that improve the continuum of care.  Sixty four organizations support an accountable care organization, while 52 help with data exchange used to bolster a patient-centered medical home.  Twenty-one support a State Innovation Model, and twelve are involved in a bundled payment initiative.
+By providing data exchange services to these organizations, 33% are financially sustainable with all operational expenses covered by dues and fees from participating providers.  Thirty eight require grants or public funding as a supplement, and 33 don’t require participating providers to pay for services as part of their business model.
+Population health management is a key driver of future innovations in data exchange, the survey found.  Public health organizations are already leveraging data from health information exchanges to flag trouble stops and target interventions.  eHealth Initiative urges providers to work with their public health partners in order to avoid creating HIE infrastructure with built-in siloes that discourage the fluid exchange of population health data.
+Tagged Analytics InfrastructureHealth Information ExchangeInteroperability
+
+

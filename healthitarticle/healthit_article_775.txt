@@ -1,0 +1,32 @@
+Desire for Predictive Analytics Outpaces Hospital Investment
+
+September 08, 2016
+
+By Jennifer Bresnick
+September 08, 2016 - Predictive analytics may be at the top of the big data wish list for the majority of hospital executives, but few organizations currently have the knowhow, the budget, or the infrastructure tools to make it happen. 
+Even though 80 percent of executives responding to a Health Catalyst survey think that predictive analytics could significantly improve the future of the healthcare industry, just 31 percent are actively utilizing forward-looking data analytics, and a further 19 percent have not even made plans to do so.
+The use cases for predictive analytics are many, but so are the challenges. 
+From spotting sepsis and modeling utilization trends in the emergency department to proactively managing the ebb and flow of medical supplies, the ability to see even a few minutes into the future can have major implications for patient outcomes – not to mention the financial wellbeing of the hospital.
+"With an ever greater light being cast on system-wide inefficiencies, providers are hungry for analytics that will help them identify and treat these patients before their health deteriorates, both improving their lives and reducing needless spending across the system,” said Levi Thatcher, Director of Data Science at Health Catalyst.
+READ MORE: Population Health is Top Data Analytics Challenge for Providers, Payers
+The 136 hospital leaders participating in the poll generally have their sights set on patient care.  Fifty-eight percent of respondents – whether they are currently using predictive analytics or not – believe that these tools are best suited to alerting caregivers to imminent downturns in high-risk patients.    
+Thirty-three percent would prioritize the use of predictive tools for improving diagnosis quality, while 38 percent believe they could be useful for charting patient outcomes and satisfaction.
+"The survey findings point to a growing need within the provider community for solutions that help to identify long-term rising-risk patients who are on their way to becoming high-cost consumers of heath care," said Thatcher.
+Other top priorities fall in the financial category, with 52 percent saying that predictive analytics could help providers understand which patients are likely to skip out on their out-of-pocket payments.  Forty-two percent believe that improved financial modeling could be an important lever for negotiating contracts with insurers, and 27 percent would focus on closing gaps in the supply chain.
+Many organizations are making plans to turn these priorities into realities.  Thirty-eight percent of respondents who are not currently using predictive analytics said they are planning to adopt predictive offerings within the next three years.  Of that group, fourteen percent have a 12-month timeframe.
+READ MORE: Business Intelligence Tools Bring Insights to Organ Donation Network
+But some hospitals are not entirely convinced that predictive analytics are worth the effort.  In addition to the 19 percent who said they are not looking to bring predictive analytics into their organizations, a further 11 percent are unsure whether or not they will take the plunge.
+Even the healthcare organizations that are moving forward with predictive tools are doing so gingerly.  Thirty-seven percent of users said their data analytics teams will consist of a maximum of three people.  Just eight percent are filling up their offices with more than four big data experts, and 34 percent have not yet decided how many resources they will devote to the project.
+The widespread hesitation may be driven by the familiar roadblocks encountered by hospitals that have already made the commitment.  Analytics teams may be small because a quarter of providers are having trouble finding qualified experts to fill open positions.  Twenty percent complained of insufficient executive support, while 32 percent are struggling to cultivate the right data and infrastructure for the job.
+The vast majority of respondents (80 percent) said that their electronic health records are a primary source of data for predictive clinical analytics, followed by claims data (53 percent) and patient outcomes data (53 percent).
+Fifty percent of participants placed financial data among their top three sources of information, followed by non-clinical patient demographics (22 percent) and outcomes data (21 percent).
+READ MORE: Top Healthcare Business Intelligence Companies by Hospital Users
+While the survey results may seem to indicate stagnation in the predictive analytics space, the big data landscape may actually be opening up.  In a Jvion poll from 2015, just fifteen percent of providers were using predictive analytics – half of the adoption rate in the new Health Catalyst survey.
+And a Stoltenberg Consulting poll taken during the same timeframe found that 34 percent of providers struggled with a lack of organizational buy-in and executive support for big data analytics project, compared to 20 percent in the latest review. 
+In that survey, more than half of respondents felt unable to corral the right big data to fuel advanced analytics, while Health Catalyst found that only 32 percent of hospitals are facing data integrity and data collection challenges.
+Different groups of providers participated in each survey, of course, so a direct progress report cannot be compiled.  But the numbers do indicate that the healthcare system may be starting to tackle some of its perception problems with big data analytics, and might be moving forward with the difficult task of implementing these high-potential tools.
+How to Build a Successful Big Data Analytics Program in Healthcare
+How to Choose the Right Healthcare Big Data Analytics Tools
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Business IntelligencePredictive Analytics
+
+

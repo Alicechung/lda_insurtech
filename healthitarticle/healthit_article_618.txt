@@ -1,0 +1,27 @@
+ONC Picks FHIR Health Data Aggregation App Contest Winners
+
+January 13, 2017
+
+By Jennifer Bresnick
+January 13, 2017 - The Office of the National Coordinator has picked six data aggregation, EHR utilization, and patient experience developers as winners of the second phase of its API-based app challenge. 
+The industry-wide competition, announced in March of 2016, required participants to leverage the Fast Health Interoperability Resource (FHIR) standard and open APIs to expand access to health data and improve the provider experience.
+“We are thrilled to recognize new tools that make it easier for individuals and clinicians to access health information and put it to use,” said National Coordinator Dr. Vindell Washington. “These apps reflect the incredible progress that is possible as a result of the digital health infrastructure that the public and private sector have built together over the last eight years.”
+Dig Deeper
+A FHIR Future Burns Brightly for Population Health Management
+ONC Launches Two FHIR Interoperability App Challenges
+4 Basics to Know about the Role of FHIR in Interoperability
+Phase 2 of the twin challenges aimed to promote applications that could address pressing workflow and data access needs for clinicians and consumers.
+“This strategy will help us reach the consumer and provider-friendly future of health IT we all seek,” said former ONC leader Karen DeSalvo when opening up the competition last year. “It reflects our guiding principles that consumers and providers should have easy, secure access to health information and the ability to direct that information when and where it is needed most.”
+PatientLink Enterprises scooped up first place, along with $50,000, in the consumer health data aggregator category, which sought solutions for the difficult problem of creating a comprehensive, longitudinal health record across disparate providers. 
+The MyLink application uses cloud technology, FHIR, and Direct secure messaging to help patients gather data, participate in research, access information remotely, and engage with interactive tools.
+Second prize winner Green Circle Health uses FHIR to power an integrated patient health data dashboard, allowing users to gather information from wearables and other Internet of Things Devices as well as schedule health reminders through a single interface.
+Green Circle Health also achieved recognition in the first phase of the challenge for its data aggregation abilities.
+Honorable mention in Phase 2 went to 1UpHealth, which seeks to provide personalized decision support to patients based on their individual data and needs.
+The second category, focused on streamlining the experience of using electronic health records, challenged participants to use APIs as a way to make patient health data more intuitively accessible.
+The ONC awarded first prize to Herald Health, which allows users to manage EHR alerts and alarms.  The system offers the ability to create customizable push notifications that can be tailored to personalized preferences and the priorities of specific patient groups.
+Second place went to a collaboration between University of Utah Health Care, Intermountain Health, and Duke Health, who produced a clinical decision support tool for detecting and treating infants with jaundice.
+Another clinical decision support app, this time from PHRASE Health won honorable mention for its ability to help clinicians align treatment priorities with public health imperatives.
+All three provider experience challenge winners also triumphed in Phase 1 of the competition, earning an addition $15,000 in prize money.  They were joined by WellSheet, a web-based application that uses natural language processing and machine learning to prioritize relevant patient information during a clinical visit.
+Tagged Analytics InfrastructureClinical Decision SupportEHR InteroperabilityEHR WorkflowFHIRmHealth and Concussions
+
+

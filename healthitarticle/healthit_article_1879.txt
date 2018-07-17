@@ -1,0 +1,22 @@
+Market roundup: Big data, text analytics, Hadoop set to grow
+
+August 25, 2014
+
+By Jennifer Bresnick
+August 25, 2014 - The current rush to unlock the power of big data for healthcare analytics is leading to some significant business opportunities in a variety of market segments according to the latest crop of reports and predictions.  From patient engagement and customer experience management to Hadoop, a popular analytics infrastructure platform, healthcare organizations investing in clinical analytics and business intelligence technologies will continue to push revenues upwards for the foreseeable future.
+Global Hadoop market predicted to grow at 54.7% CAGR
+The big data management analytics platform known as Hadoop will see remarkable global growth to 2018, predicts Transparency Market Research, rising from a current value of $1.5 billion to $20.9 at a compound annual growth rate (CAGR) of 54.7 percent.  While governmental interest in Europe leads the market, healthcare and the life sciences are close behind.
+“The inception of the Hadoop platform resulted from the need to manage problems that came with a lot of data – perhaps a mixture of structured and unstructured data – and that did not fit properly in traditional data storage and management entities such as tables,” the press release explains. “It was meant for use in situations where the analytics were deep and computationally extremely complicated and extensive,” which is a situation most healthcare organizations are currently wrestling with.
+Dig Deeper
+Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+Text analytics will reach $4.9 billion in 2019
+Some familiar players are leading the charge in text-based data analytics, including IBM, HP, Oracle, and SAP, MarketsandMarkets says.  North America is expected to lead the global market, which is predicted to grow from $1.64 billion in 2014 to nearly $5 billion in 2019, driven by the thirst to extract actionable insights from data locked in free-text form.  These tools can not only help providers analyze text from EHR data and other clinical sources, but can also be valuable for patient engagement and customer experience management programs by enabling the automated extraction of key concepts from quality reports or patient surveys.
+Data analytics will be increasingly outsourced
+Analytics-as-a-service is set to take off, ReportsnReports forecasts, especially in the area of customer experience management.  The market is slated to grow at 30.14% CAGR to 2018, with healthcare among the top areas of interest.  The need to increase operational efficiency will be the key driver for this market segment, and the chronic scarcity of data scientists may lead organizations to outsource their efforts to dedicated companies instead of attempting to find staff to manage analytics in-house.
+By 2020, big data investments may reach $76 billion
+It’s a good time to be a big data vendor, ReportsnReports adds in a separate offering.  Data analytics vendors will collect almost $30 billion in hardware, software, and services revenue in the year 2014, and will see a rapid expansion of their pocketbooks by the end of the decade.  As the market matures, the acquisition of start-ups may help to consolidate a crowded field of players, but investment in analytics will only increase as healthcare organizations attempt to make use of their vast stores of clinical and financial data.
+Tagged Analytics InfrastructureBig DataClinical AnalyticsFinancial AnalyticsHealthcare Business IntelligenceHealthcare Data Analytics
+
+

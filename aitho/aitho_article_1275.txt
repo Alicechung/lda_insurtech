@@ -1,0 +1,11 @@
+Novel AI Bot Allows Users To Talk To And Get Answers From Their Data Viz Apps
+
+06 Mar 2018
+
+Startup CrunchBot.ai comes out of stealth mode for a BETA release of their product designed to improve how users get answers from data visualization software
+Crunch Data, an Enterprise Information Management solution provider has spun off Crunchbot.ai, a product designed to help customers get more value from their data visualization software investments. Crunchbot, also known as AIDA (Artificially Intelligent Data Analyst), quickly culls massive amounts of information across multiple business analytics systems to render natural language insights on command. Crunchbot leverages best of breed AI platforms combined with proprietary natural language generation technology and machine learning to accelerate how bots are implemented for use with business intelligence and data visualization software.
+Nish Patel
+“Chatbots are the future of how we communicate with our most critical business asset – enterprise data. CrunchBot solves a major problem today by accelerating the time to implement chatbots on top of the most popular dataviz technologies like Qlik, Tableau and Power BI,” says Nish Patel, CTO of Crunch Data, the parent company of Crunchbot.ai. “CrunchBot can take weeks off an analytics chatbot implementation because we kick-start how the bot platform learns about what key performance indicators are important. Our technology finds the questions that need answering and we inject thousands of permutations of those queries directly into the bot platform, without the need for human interaction. This process rapidly accelerates how AI can help with decision support; pairing the right dataviz content to the right question the business user may have about that dashboard.”
+How it Works: CrunchBot is an artificially intelligent data analyst that identifies and consumes critical meta-data across business applications and database tables. Her proprietary AI engine interprets information into questions business users may use to ask and get answers to critical business questions via a chat experience. The Bot also leverages advanced cognitive services to enhance answers with “rest of world” internet data that can be accessed and integrated instantly.
+
+

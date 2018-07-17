@@ -1,0 +1,120 @@
+What problems can be solved with healthcare analytics?
+
+September 25, 2013
+
+By Jennifer Bresnick
+September 25, 2013 - When healthcare organizations think about investing in information technology, they’re looking for results, not just a touch-screen way of doing the same paper-based tasks.  Analytics can provide those results, and organizations have been rapidly building programs to target some of the biggest pain points in the industry.  Cathy Gorman-Klug, RN, MSN and director of quality service lines at Nuance, sat down with HealthITAnalytics to discuss some of the problems analytics are attempting to solve in the ever-changing landscape of healthcare reform.
+“Honestly, I think it’s a very exciting time in the world of data analytics,” she said.  “While many organizations have been using some form of analytics for some time, we’re starting to see an uptick in people talking about advanced analytics and big data right now.”
+As of late, some of the largest areas of focus when it comes to data and analytics have been:
+1. Readmissions
+Physician Perceptions of Patient Engagement Affect Consumer Use
+How a Shortage of 90K Physicians May Impact Healthcare Reform
+Information Blocking? Prove It First, Say EHR Vendors to ONC
+Medication management market to be worth $1.62B by 2019
+AMA, CDC Launch Joint Type 2 Diabetes Prevention Effort
+Devin Jopp Resigns as President and CEO of WEDI
+Cherokees Sue McKesson, CVS, Wal-Mart for Lax Opioid Monitoring
+Accountable Care Organizations Still Face Interoperability Woes
+Natural Language Processing, Voice Tools Offer Solutions to EHR Woes
+Can the Patient-Centered Medical Home Help Achieve Savings?
+PwC: Artificial Intelligence, IoT, Population Health Top 2018 Trends
+Can upfront cancer care payment cut costs by 34 percent?
+AMA to Connect Physicians with Health IT, Big Data Companies
+Big Data Analytics Vendors and Products: Who’s Using What?
+Better patient safety needs clinical analytics, cultural change
+Will Meaningful Use Disgruntlement Delay Precision Medicine?
+FDA Seeks Patient Engagement for Clinical Trials, Precision Medicine
+Can Senate Health Data Interoperability Proposals Improve HIE?
+How are providers using EHRs, HIE for population health?
+Women on oral birth control are 35% more likely to develop MS
+UMass to Study Use of Wearables in Chronic Disease Management
+HHS gives $35.7 million to patient-centered medical homes
+EHR, Health IT Spending Rises as Provider Satisfaction Drops
+Shifting Healthcare Business Intelligence Market Offers Opportunities
+EHR analytics: Hypertension 4 times more likely in obese kids
+HIM, Healthcare Big Data Analytics Skills Increase in Demand
+Growing Healthcare Opportunities for the Internet of Things
+Should Population Health Management Participation Be Mandatory?
+HHS Targets Population Health, Big Data with $36M in Grants
+Revenue Cycle Big Data Analytics Bring Insights and Savings
+Large Patient-Centered Medical Homes Employ More Care Coordinators
+87M historical patient records digitized for data analytics
+Preventable Hospital Readmissions Fall Dramatically Across US
+Harvard, Cancer Orgs Unite to Accelerate Precision Medicine Research
+Big Data, Predictive Analytics among Top Reader Topics of 2014
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+HIMSS Analytics: CAC Tools Slated for Growth Ahead of ICD-10
+HIMSS Recognizes EHR Products for Immunization Data Integration
+Did Early Interoperability Focus Help Cerner Beat Epic at DOD?
+4 Basics to Know about the Role of FHIR in Interoperability
+CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+$3M Grant Will Aid EHR Data Management, Chronic Pain Research
+84% of EHR Replacements Focus on Big Data, Population Health
+Trainee informaticists must face myriad EHRs, analytics tools
+Google DeepMind: Blockchain Can Ensure Health Data Integrity
+What will a clinical informatics focus mean for physicians?
+Healthcare Analytics Help Mercy Uncover Cost, Quality Insights
+Provider Data Management Offers Payers a Blockchain Use Case
+Patient Management, Attribution Program Expands Access to Care
+EHRs hold the key to data analytics if you know where to look
+Can Patient Portals Provide Options for Mental Healthcare?
+Patient-Centered Medical Homes Lag in HIT Care Coordination
+Creating a Strategy to Raise Patient Engagement, Satisfaction
+32 Pioneer Accountable Care Organizations Save $384 Million
+Precision Medicine, Big Data Analytics Center Rises in Philly
+Researchers study falls among the elderly with data analytics
+CMS Innovation Award funds EHR care coordination pilot
+29% of Healthcare Providers Currently Use Precision Medicine
+NCQA: Patient-Centered Medical Home No Longer “Unduly Onerous”
+AI, Big Data, IoT Bring Growth to Multiple Healthcare Markets
+Big Data on Patient Transfers Raises Quality, Snags Revenue
+Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+ONC Restructures Health IT Standards Committee into Task Forces
+How to Gather Good Data for Healthcare Claims Accuracy Testing
+Patient Adherence, Evidence-Based Care Top Priority for Docs
+What are the basic pillars of population health management?
+Genomic Medicine Initiatives Aid Undiagnosed Pediatric Patients
+Internet of Things for Healthcare May be Worth $410B by 2022
+FDA: Education, Population Health Can Fight Opioid Abuse
+Population Health Management Requires Moving Beyond the EHR
+Healthcare Big Data Analytics Suffers from “Fragmented” Approach
+ONC Releases Final 2016 Health Data Interoperability Advisory
+IOM Develops 15 Measures for Population Health Management
+NIH Releases Big Data Resources for Brain Development Research
+Pain monitoring database adds analytics to patient care
+Case Western to Lead $27M Big Data Analytics Epilepsy Effort
+EHR Vendors Increasingly Offering Population Health Tools
+MIT Uses Deep Learning to Create ICU, EHR Predictive Analytics
+Optum Buys Advisory Board’s Population Health, Data Analytics for $1.3B
+Study: Socioeconomics, communities play role in cardiac health
+Early Adopters Question Usefulness, Maturity of AI in Healthcare
+IBM Watson, Boston Children’s Kick Precision Medicine into Gear
+Breaking Down the ONC Health Data Interoperability Roadmap
+Data Governance Can Help Improve Patient Matching Issues
+Are Vendors, Providers Blocking Health Data Interoperability?
+Adverse Events Reporting Standards Boost Patient Safety in PA
+How big pharma uses big data to develop better drugs
+ONC Exploring Use of Blockchain in EHRs, Healthcare IoT Devices
+WEDI and NATE Partner for Patient Matching, Interoperability
+Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+ACP: Use Population Health to Combat Opioids, Substance Abuse
+CMS Hosts Help Session for Physician Quality Reporting System
+New Approach Helps Health Information Exchanges Cross State Lines
+Stanford starts first clinical informatics fellowship program
+Using Health IT to Support the Patient-Centered Medical Home
+Risk score roundup: How EHR analytics are changing healthcare
+Patient safety is key with Ebola, but are nurses safe, too?
+Clinical decision support, care coordination fight hepatitis C
+Even More Top Healthcare Big Data Analytics Buzzwords to Know
+Patient Navigators Shave Hours from Hospital Discharge Times
+2. Observation patients
+3. Hospital acquired conditions
+4. Patient satisfaction scores on HCAPS
+5. Performance on quality measures associated with federal value-based purchasing program
+6. Physician performance related to costs, complications, and length of stay
+“One of the biggest challenges is determining what meaningful, applicable data is, and what data was sent just because we’re able to send it,” she pointed out.  “There are so many sources within an organization that collect data that it becomes an overwhelming task.  I think it’s very important to remember that data analytics isn’t about the amount of data that’s collected, but about the integrity and applicability of that data to patient care and performance improvement moving forward.”
+“As providers consider the move to Accountable Care Organizations (ACOs), data on past performance and projected future performance is really the lynchpin in the decision-making process,” Gorman-Klug continued.  “Once you decide to move to an ACO, analysis of data becomes even more important.  What we’re also seeing is that people are really in survival mode, and that means many of them are considering merging with or acquiring other groups.  Data plays a role in this effort as well.  Taking a look at clinical and financial trends of other organizations is important when it comes to deciding whether or not you want to partner with them.”
+“Another area where data analytics will play an integral role is in the transition to population health management.  Monitoring the patient across the continuum of care, whether or not they’ve received treatment at your facility or another facility or a clinic within a pharmacy or other neighborhood facility, is no easy feat.  As we move toward population health, having the ability to look at data and your related high-risk patients to identify areas of vulnerability will help drive optimization of services and patient outcomes.  At the end of the day, the true purpose of analytics is to deliver safe and quality care for patients and to help healthcare systems run more efficiently and cost-effectively.”
+Tagged Clinical AnalyticsClinical IntelligenceHealthcare AnalyticsHealthcare Business IntelligenceHealthcare InformaticsPopulation Health Management
+
+

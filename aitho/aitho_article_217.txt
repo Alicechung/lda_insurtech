@@ -1,0 +1,23 @@
+New Tensor Core GPUs Fuse HPC And AI To Speed Scientific Discovery
+
+25 Jun 2018
+
+Five of World’s Seven Fastest Supercomputers Powered by NVIDIA; AI Supercomputers Are Uniquely Capable Of Processing Both Traditional HPC Simulations And Revolutionary New AI Workloads
+International Supercomputing Conference — NVIDIA announced today that the world’s top AI supercomputers are all powered by NVIDIA® Tensor Core GPUs, based on a new list of the world’s 500 fastest systems. AI supercomputers are uniquely capable of processing both traditional HPC simulations and revolutionary new AI workloads.
+The new AI supercomputers include the world’s fastest system and third-fastest systems, Summit and Sierra, both in the U.S. Tensor Core GPUs also power the fastest supercomputer in Japan, ABCI.
+The new systems reflect the broader shift to accelerators in the TOP500 list. GPUs now power five out of the world’s seven fastest systems, as well as 17 of the 20 most energy efficient systems on the new GREEN500 list. In addition, the majority of computing performance added to the TOP500 list comes from NVIDIA GPUs.
+“The new TOP500 list clearly shows that GPUs are the path forward for supercomputing in an era when Moore’s Law has ended,” said Ian Buck, vice president and general manager of accelerated computing at NVIDIA. “With the invention of our Volta Tensor Core GPU, we can now combine simulation with the power of AI to advance science, find cures for disease and develop new forms of energy. These new AI supercomputers will redefine the future of computing.”
+Jack Dongarra
+Jack Dongarra, professor at the University of Tennessee and Oak Ridge National Laboratory, who co-authors the TOP500 list, said: “This year’s TOP500 list represents a clear shift toward systems that support both HPC and AI computing. Accelerators, such as GPUs, are critical to deliver this capability at the performance and efficiency targets demanded by the supercomputing community.”
+Read More: Interview With Gabby Nizri, CEO And Co-Founder, Ayehu
+GPUs Deliver 95% of Compute in World’s Fastest System
+The No. 1 system on the TOP500 is Oak Ridge National Laboratory’s Summit, which went online earlier this month. It was clocked at 122 petaflops (million billion floating point calculations) of processing power in double-precision performance, surpassing the No. 2 system, China’s Sunway TaihuLight, at 93 petaflops. Summit draws 95 percent of its performance from its 27,648 Tensor Core GPUs, the most GPUs of any supercomputer. Summit is also capable of over 3 exaops of AI performance, or 3 billion billion multi-precision AI calculations per second.
+Other top systems powered by NVIDIA GPUs include:
+No. 3: Sierra, based at the Lawrence Livermore National Laboratory, delivers 71 petaflops of performance using 17,280 GPUs.
+No. 5: ABCI, Japan’s fastest system, delivers 19.6 petaflops of performance using 4,352 GPUs.
+No. 6: Piz Daint, Europe’s fastest system, delivers 19.5 petaflops of performance using 5,320 GPUs.
+No. 7: Titan, operated by the U.S. Energy Department, delivers 17.6 petaflops of performance using 18,688 GPUs.
+Additionally, NVIDIA GPUs power the world’s fastest industrial supercomputer, Italy’s Eni HPC4 for the global oil and gas industry, No. 13 on the list. Eni’s 3,200 GPUs enable it to deliver 12 petaflops of performance.
+Read More: Mensia Technologies Raises 1.3 Million Euro To Introduce Koala Neurofeedback In Europe
+
+

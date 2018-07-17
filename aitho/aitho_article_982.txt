@@ -1,0 +1,15 @@
+Mobodexter Announces General Availability Of Enhanced IoT Platform – Paasmer 2.0 And Paasmer Solution Development Kits
+
+03 Apr 2018
+
+Mobodexter announces general availability of Paasmer 2.0, a dockerized version of their IoT Edge software that removes the hardware dependency to run Paasmer Edge Software. Paasmer becomes one of the few IoT software platform in the world to add the Docker capability on the IoT Edge.
+Mobodexter announces the availability of Paasmer 2.0 that is a dockerized version of their IoT Edge software that removes the hardware dependency aspect of their Edge Software. Paasmer becomes one of the few IoT software platforms in the world to add the Docker capability on the IoT Edge.
+Dockers are stand-alone containers that package various elements needed to run a piece of software into a light-weight container that can contain the code, run-time, system tools, system libraries, and settings needed to run such software in any hardware environment.
+Dockerization is an important solution to some of the unique challenges faced by the IoT industry, including diverse run-time environments, hardware limitations, network access difficulties, and geographic distribution spread. By implementing dockers into Paasmer Edge, developers are greatly assisted in utilizing IoT despite technical constraints they may experience.
+This enhanced version of Paasmer has been developed especially for Edge Analytics and Machine Learning, with packaged features that deliver an amplified version of Paasmer docker containers. This enables all features to be run on any device along the customized Paasmer OS. Additionally, Paasmer Edge core has been released with a built-in generic Python library, allowing many IoT devices to simultaneously connect to the Paasmer cloud.
+Sridhar Krishnan
+Mobodexter’s continued dedication to expanding access to the IoT industry, Paasmer 2.0’s newly enhanced features focuses on simplifying user access to IoT devices.
+According to Sridhar Krishnan, Engineering Director at Mobodexter, “Paasmer Edge is now dockerized, allowing IoT developers to quickly start their prototyping with their choice of IoT hardware and advanced features like Edge Analytics and Machine Learning. With a flexible licensing model the software could be turned on/off seamlessly. We are pleased to launch Paasmer Solution Development Kit that is delivered as packaged software bundle on high compute Edge hardware”
+ 
+
+

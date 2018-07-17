@@ -1,0 +1,28 @@
+ONC: Hospital HIE, EHR Interoperability Reaches 40 Percent
+
+August 14, 2015
+
+By Jennifer Bresnick
+August 14, 2015 - EHR interoperability and health information exchange in the hospital setting are on the rise as electronic health records become nearly universal, says ONC Interoperability and Exchange Portfolio Manager Erica Galvez in a new Health IT Buzz blog post. 
+In an accompanying issue brief, the ONC notes that approximately 40 percent of hospitals have health IT systems capable of making patient data available from external care settings, while 23 percent of organizations can participate in all four major interoperability requirements: finding, sending, receiving, and using patient data within the EHR.
+“When individuals arrive at a hospital, whether on their own accord or in an ambulance during an emergency, the availability of key clinical information—such as current medications, test results or medication allergies—can help the attending care team provide safe, high quality care,” Galvez explains. “This information often resides in health records across multiple provider settings. Lacking access to this information may put a patient’s health and wellness at risk.”
+While health information exchange capabilities among hospitals have increased drastically over the past few years, there are still numerous opportunities to grow the EHR interoperability ecosystem and foster better coordination of care.
+“To that end, ONC is leading the charge on developing a Nationwide Interoperability Roadmap,” Galvez says. “In the near-term, the Roadmap focuses on enabling a majority of individuals and providers across the care continuum to send, receive, find and use a common set of clinical information by the end of 2017.”
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“These four basic exchange functions coupled with standardized clinical information that can be integrated into EHRs supports a variety of use cases and offers significant benefit to patients, care givers, and clinicians.”
+Other major findings on the state of EHR interoperability and health information exchange among hospitals in 2014 include the following:
+• Seventy-eight percent of hospitals can send a patient summary of care record, but only 56 percent can receive them from outside sources.  Just 40 percent stated that they can routinely use this data, meaning that the information is integrated into the EHR in an accessible way.
+• Just under half of hospitals said that their clinicians have the capability to query external data sources to find records on a specific patient.
+• Of those providers who can engage in all four aspects of interoperability, nearly ninety percent state that their technology allows them to have necessary clinical information from outside providers available to their clinicians at the point of care. 
+READ MORE: CT Medical Society Announces New Health Information Exchange
+• Providers meeting the four criteria for interoperability are over nine times likely to assert that clinical information is properly available to them than those organizations not participating in interoperability tasks.
+• Hospitals are equally likely to be able to send and receive data from other hospitals and from external ambulatory care providers, yet significantly fewer can send and receive information from long-term care providers and behavioral health providers.  Less than 30 percent of hospitals can send data to behavioral health partners; just 16 percent stated that they can receive it.
+• Despite the prevalence of EHR systems in hospitals, the vast majority of these organizations still use a mix of paper and electronic documents to exchange patient health information.  A quarter of hospitals can only receive patient summary of care records through non-EHR means, such as physical mail and fax.  Less than ten percent of hospitals can send or receive summary of care records to external sources in an exclusively electronic format.
+• Close to sixty percent of hospitals indicated that their health information exchange and interoperability activities are limited by a lack of exchange partners that can employ the same level of health IT sophistication.  Thirty percent blamed cumbersome EHR workflows, while 26 percent said that available data was not useful for patient care.
+• A quarter of providers stated that data exchange fees prohibit their large-scale participation in HIE.  Ten percent said that they do not typically share data with external organizations for operational or strategic reasons.
+READ MORE: As FHIR Matures, Healthcare Interoperability Comes into Focus
+“The results highlighted in this data brief illustrate that while most hospitals have EHRs and are actively exchanging health information electronically, important work remains to ensure that the necessary clinical information is available at the point of care in hospital settings,” Galvez concludes.  The ONC’s ten-year interoperability roadmap hopes to address many of these systematic concerns to promote greater exchange of data and better access to information at the point of care.
+“ONC will continue reporting on interoperable exchange among hospitals to understand where the nation is making progress, and identify where gaps and barriers remain. This will help inform the evolution of the Roadmap to craft policies and strategies to improve interoperable exchange.”
+Tagged Analytics InfrastructureCare CoordinationHealth Information ExchangeInteroperability
+
+

@@ -1,0 +1,35 @@
+NQF: Adding Socioeconomic Risk to Population Health Measures is a Challenge
+
+July 26, 2017
+
+By Jennifer Bresnick
+July 26, 2017 - Socioeconomic risk factors and community determinants of health are becoming increasingly important to care providers concerned about how to succeed with population health management and chronic disease care, yet incorporating these variables into quality metrics and performance reporting remains a significant challenge.
+The degree to which social and economic risk factors – such as food and housing stability, employment, the built environment, and health literacy – objectively affect clinical outcomes is still up for debate, as is how to best adjust quality metrics to compensate for variables outside of the health system’s control.
+To better understand how to develop comprehensive population health and quality metrics that include socioeconomic data, the National Quality Forum undertook an examination of the measures’ effectiveness and viability – and whether or not risk adjustment may actually mask concerning disparities in care.
+“All stakeholders want to see the quality of care for the most vulnerable improve and ensure that access is not compromised by value-based purchasing programs that disproportionately penalize safety net providers,” said the NQF in a report detailing the results of the study.
+“The potential use of risk adjustment as well as stratification have been noted as potential fixes for this issue.”
+READ MORE: Online Population Health Data Dashboard Grows to Include 500 Cities
+Since 2015, the NQF Risk Adjustment Expert Panel has been running a trial including all measures submitted to the organization for possible endorsement. 
+During the study period, a total of 303 performance measures were submitted, with 65 measures including a theoretical or likely correlation between social risk factors and outcomes.  An additional 21 already incorporated a social risk factor in the risk-adjustment model. 
+Ultimately, the NQF endorsed just 17 measures that included adjustments for social risk, noting that including socioeconomic risk data in the majority of potential measures did not change the measure’s ultimate outcomes significantly.
+“The lack of an empiric relationship for outcomes with a clear conceptual basis is one of the most striking findings of the trial period,” the report noted.
+“Far more often than not, measures having a strong conceptual basis for adjustment did not demonstrate an empirical relationship between the relevant variables and performance. To date, empirical risk adjustment analyses demonstrate a very limited effect of social risk factors.”
+READ MORE: How Do Population Health, Public Health, Community Health Differ?
+Many of the submitted metrics suffered from a lack of access to complete and accurate socioeconomic data sets, which made it difficult to measure non-clinical factors accurately across a large population.
+Common socioeconomic variables included in the measures included race and ethnicity, patient and caregiver educational levels, marital status, living alone, language preference, and the distance the individual lived from the clinic.
+Many of these data points are voluntarily submitted by patients, who may decline to provide the information, and many more simply have no standardized collection method available in providers’ electronic health records (EHRs).  
+Source: National Quality Forum
+Social support factors, gender and sexual identity, community context, and racial or ethnic identity are among the most difficult social risk factors to collect, the study found.
+Even when it is available, the NQF cautions strongly against using racial or ethnic data as a proxy for socioeconomic status and/or likely clinical outcomes, except in the case where a patient’s genetic heritage predisposes him or her to certain conditions, such as osteoporosis or sickle cell disease.
+READ MORE: Identifying Care Disparities for Population Health Management
+Measure developers also ran into challenges when deciding how much weight to give available social risk factors and how to translate conceptual ideas about the impact of certain variables into empirical analyses of the data.
+“Some developers chose to include a social risk factor if it was statistically significant, even if the effect size was small,” the report explained. “Other developers did not include social risk factors with small effect sizes, noting that including social risk variables did not improve the performance of the risk-adjustment model.”
+“Some developers performed additional analyses to assess the relative contribution of patient-level and facility-level social risk factors to determine if adjusting for social risk factors could potentially mask signals of quality.”
+Stakeholders ran into their strongest disagreements about endorsing a measure when the proposal had a significant conceptual basis for including social risk adjustment but the finalized measure did not include a socioeconomic factor due to the concerns of developers.
+Hospital readmissions measures, costs, and resource use were among the sticking points for trial participants.
+Overall, more work must be done to ensure that socioeconomic data is accessible and robust enough for inclusion in population health and quality measures, NQF says.  Validated measures that include social risk adjustment are not currently in wide use, the organization pointed out, adding a new layer of challenges when examining their impact on quality and outcomes.
+“NQF is carefully reviewing the results of this important trial with input from key experts and stakeholders as it considers options for measure evaluation and endorsement going forward,” the report concludes.
+“The trial period has elucidated important issues, such as availability of data on social risk that should be pursued as we collectively drive toward elimination of healthcare disparities.”
+Tagged Care QualityChronic Disease ManagementClinical Quality MeasuresPopulation Health ManagementPreventive Care
+
+

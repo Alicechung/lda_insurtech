@@ -1,0 +1,43 @@
+EHR, Big Data Analytics Success Hinges on Holistic Change Management
+
+March 23, 2017
+
+By Jennifer Bresnick
+March 23, 2017 - The ancient Greek philosopher Heraclitus probably didn’t have electronic health records, value-based care, and big data analytics in mind when he said that “change is the only constant in life,” but most modern healthcare organizations can’t help but acknowledge the eternal truth of his words.
+Effective and positive change management is a perennial struggle for providers, who are being constantly bombarded by new and difficult demands on their time, energy, and budgets. 
+Aging legacy software, new reporting requirements, changing payment structures, and the shift towards more patient-centered care are all familiar challenges by now. 
+But the solutions aren’t just complicated and time-consuming.  They also depend on taking a carefully crafted approach to generating commitment, buy-in, and enthusiasm for change across all facets of the healthcare organization, said Todd Ellis and Bharat Rao from KPMG.
+The process starts by acknowledging that nothing in healthcare happens in isolation.
+READ MORE: How to Get Started with a Population Health Management Program
+“You have to look at change management as an issue that impacts the entire continuum of care,” said Ellis, Principal of Management Consulting at KPMG.  “A lot of organizations make mistakes when they implement a big data platform or something for value-based care and they say that the IT department is the one who should have the sole responsibility of running and promoting the platform.”
+Todd Ellis, Principal of Management Consulting at KPMG
+Source: KPMG
+“That is often a very big mistake.  Change management is only effective when you follow the processes and experiences that surround a patient from when they walk into the door until they leave.  Organizations must understand that everything they do is part of a continuum.  It’s not about completing a series of discrete tasks that function independently of one another.”
+Instead of assigning exclusive ownership of organization-wide initiatives to one single department, providers should seek to involve as many key stakeholders as possible in an effort to identify the issues that will impact their day-to-day workflows.
+“The first thing to do is to list out everything that matters to everyone,” asserted Rao, Principal in KPMG’s Advisory Services.  “You might get a list of seventy things – that’s exactly what happened with one of our clients.  It never hurts to make sure everything is on the table so that your roadmap can comprehensively address your organization’s concerns.”
+“But the problem was that they wanted to address all of those issues at the same time, which is something we advised against,” he added.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Rao sat down with the organization’s leadership and asked them to pick just nine items that were of the highest priority. 
+“You can’t do seventy things,” he said.  “It’s not possible, even if you do happen to have the money.  There cannot be accountability when you’re trying to change too many things at once.  You have to focus on what’s most important, and by doing so, you will actually receive a great deal of the return you envisioned when you make that list of several dozen tasks.”
+Bharat Rao, Principal, Advisory Services at KPMG
+Source: KPMG
+Healthcare organizations must learn how to develop a streamlined, step-by-step plan that builds towards their global vision without excluding major stakeholders in the process. 
+“Executive buy-in,” a favorite phrase of change management experts, should definitely be on the list of organizational priorities, and identifying an executive champion is an important part of the process, Rao said.
+“One of our clients tapped their Chief Population Health Officer for the role – that was a new title that they created in order to make sure everyone knew what the focus of the initiative was.”
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+“If you’re going to say that 70 percent of your revenue is going to come from these projects in the next 5 years, well then don’t you think you should have someone who’s an expert in making that happen? You need some vision of where you’re going, and you do need someone to drive the bus.”
+But Ellis warned that nominating a strong leader isn’t the same as letting the C-suite singlehandedly run amok with their dreams for a better way to run the business.
+“You never want to have a push-down mandate where you just tell everyone that this is the way you’re going to do things,” he stated.  “It’s important for the C-suite to have a vision, but they have to be strategic about turning that vision into a reality that everyone can believe in – and more importantly, a vision that everybody wants to work towards.”
+Heavy-handed mandates that preclude collaboration will only create animosity, he added.
+“Physicians don’t want to take clinical advice from people without clinical training.  The IT folk don’t want the finance department to tell them that they’re doing their coding wrong.  These are subject matter experts for a reason – it’s because they’re good at what they do.”
+“So you need to bring people to the table at the beginning to make sure that they understand what the requirements are, how they can contribute ideas about how to make those happen, and how they can add to the vision instead of being forced into reacting to it after the fact.”
+Rao agreed that a major organizational change, such as an EHR optimization project or an analytics initiative that will require significant process adjustments, should involve everyone who will be impacted by the new strategy.
+“We tend to think of physicians as the prime power sources in most hospitals,” he said. “But you cannot forget the nurses.  They do the majority of the care, and they are very heavy users of the EHR and your dashboards and reports.  And you will be in trouble if you forget HIM.”
+“Then you’ve got the supporting departments,” he continued.  “Maintenance and housekeeping; food services; patient transport; intake and administration; coding, billing, and accounting.  They all matter when you’re making big changes, and you can’t forget how important they are for making your organization function.”
+Last, but certainly not least, there’s the patient.  “If you don’t figure out whether or not the changes make the patient’s experience better, then why are you doing it?” Rao asked.  “You need to collect that feedback, because the patient is your customer and your ultimate concern.”
+Regular cross-departmental planning sessions can jumpstart the process of meaningful collaboration, Ellis suggested.
+“I’ve seen organizations have success with focus groups that bring together the nurses, the physicians, the finance department, and the administrative staff to talk about what their target operating model needs to look like,” he said.  “That gives them a voice in how to move forward and how to get there.”
+“Everyone wants a voice.  If you’re not invited to the table, it can be very damaging to the way you think the organization sees you.  Everyone wants to be valued, and the great thing is that everyone can be – if you make an effort to listen fairly to all your stakeholders.”
+Tagged Analytics InfrastructureBest PracticesEHR OptimizationHealthcare Business IntelligenceHealthcare Data GovernanceHIMSS17Interviews
+
+

@@ -1,0 +1,30 @@
+Precision Medicine Test for Bacteria May Aid Antibiotic Stewardship
+
+June 30, 2017
+
+By Jennifer Bresnick
+June 30, 2017 - Antibiotic stewardship – or the lack thereof – has become a major topic of concern among patient safety advocates as the number of deaths due to antibiotic-resistant infections each year consistently tops 20,000. 
+While standardized protocols for escalating patients through a series of different antibiotics can help to ensure that providers don’t overuse the most powerful weapons in the healthcare industry’s arsenal to begin with, a new approach to clinical decision support may help to target the right antibiotic to the right bacteria more frequently.
+By applying precision medicine techniques to bacteria, not just to the patients who host them, Boston University researcher Ahmad (Mo) Khalil hopes to enhance providers’ abilities to use the most effective antibiotic the first time – reducing the chance for superbugs to develop further resistance to the limited number of treatments available for infectious diseases.
+“With rising rates of drug-resistant infections, there is pressing need for new diagnostic methods that can rapidly determine the most effective therapy for an infection,” says Khalil in an abstract posted on the National Institutes of Health’s online research reporting portal.
+In 2016, Khalil received an NIH Director’s New Innovator Award for his work, which was also recently showcased in an NIH blog post penned by Director Dr. Francis Collins.
+READ MORE: Antibiotic Stewardship, Patient Safety Plans Get Industry Support
+“Unfortunately, the current method for performing antibiotic susceptibility testing (AST) involves growing microorganisms from clinical samples and determining their sensitivity to antibiotics through cell growth,” Khalil continued.
+“This ‘gold standard’ technique is extremely time-consuming (minimum 48-72 hours) and can result in significant delays in appropriate therapy, prolonged illness, greater risk of death, inappropriate antibiotic use, and increased spread of resistance.”
+For patients with some infections, he added, AST is not even performed.  Instead, providers start off with a common antibiotic and only shift gears if the treatment is unsuccessful, which takes additional time that may contribute to the risk of mortality.
+More than three quarters of hospitals may be routinely overusing antibiotic treatments, the CDC said in 2014. 
+In 2016, the Pew Charitable Trusts pointed out that up to half of all antibiotics may be prescribed inappropriately to patients, many of whom are actually suffering from viruses, not bacterial infections.  The CDC has a slightly more conservative estimate, stating that about 30 percent of the 154 million routine antibiotic prescriptions written each year in the US may be unnecessary.
+READ MORE: CDC: Poor Antibiotic Stewardship Puts Patient Safety at Risk
+Instead of leaving providers to rely on guess work and familiar habits, Khalil is planning to develop a new diagnostic tool based on sequencing the transcriptomes of a variety of bacteria. 
+“He then uses that information to produce a panel of RNA sensors specific to each particular bacterial strain, and freeze-dries those sensors onto strips of testing paper, creating what he thinks will be a highly specific diagnostic test with a very long shelf life,” Collins explains.
+Providers could obtain a sample from a patient and expose it to a certain antibiotic, wait 20 minutes, then add the sample’s cells to a test strip.
+“That liquid would serve to reconstitute the freeze-dried RNA sensor reactions embedded on the paper, and those sensors would light up if the sample contains a bacterium that is a good candidate for the antibiotic,” Collins writes. “Clearly, to select the best antibiotic as quickly as possible, doctors may want to prepare several aliquots of a patient sample, expose each of them to a different antibiotic, and run several of the ‘freeze-dried’ RNA sensor tests in parallel.”
+The technique has the potential to limit the dangerous practice of exposing bacteria to a firehose of common antibiotics, which allows the bugs to mutate and develop resistance. 
+READ MORE: Clinical Analytics, Antibiotic Stewardship Boost Patient Safety
+“If the source of the infection proves to be one of those common bacteria that is highly sensitive [to common antibiotics], there’s a good chance the antibiotic will work,” Collins says. “But if not, the bacterium may survive and grow more resistant to antibiotics. Not only might this make the patient’s own infection harder to treat, it could threaten the health of others by adding to our growing public health problem of antibiotic-resistant infections.”
+Khalil plans to begin his work by targeting bacteria of major concern to the CDC, such as N. gonorrhoeae. Currently, there are no existing clinical AST techniques to identify this set of bacteria, he pointed out, which makes it even more important to define the bacteria’s’ RNA susceptibility signatures for the first time.
+While the approach is still early in its development, the research illustrates how precision medicine concepts are opening new doors for treatment and patient care in a variety of different healthcare arenas. 
+Allowing providers to access speedy and accurate clinical decision support tools at the point of care may change the game for antibiotic stewardship advocates, reducing the worrisome rise of superbugs and improving the quality of care for patients.
+Tagged GenomicsHospital QualityMedical ResearchPatient SafetyPersonalized MedicinePrecision Medicine
+
+

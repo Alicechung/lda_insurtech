@@ -1,0 +1,32 @@
+Mount Sinai Uses Machine Learning for Heart Imaging Analytics
+
+November 22, 2016
+
+By Jennifer Bresnick
+November 22, 2016 - Healthcare organizations are quickly pushing forward with the development of machine learning algorithms to tackle one of the toughest problems in big data: extracting and analyzing information from static images.
+In a study published this week in the Journal of the American College of Cardiology, researchers from the Icahn School of Medicine at Mount Sinai (ISMMS) explained how machine learning algorithms could distinguish between pathological hypertrophic cardiomyopathy (HCM) and physiological changes in echocardiographic images from athletic patients.
+“Our research has demonstrated for the first time that machine-learning algorithms can assist in the discrimination of physiological versus pathological hypertrophic remodeling, thus enabling easier and more accurate diagnoses of HCM,” said senior study author Partho P. Sengupta, MD, Director of Cardiac Ultrasound Research and Professor of Medicine in Cardiology at the Icahn School of Medicine at Mount Sinai.
+“This is a major milestone for echocardiography, and represents a critical step toward the development of a real-time, machine-learning-based system for automated interpretation of echocardiographic images. This could help novice echo readers with limited experience, making the diagnosis rapid and more widely available.”
+The study included echocardiographic imaging data from 139 male patients who were known to exhibit HCM or physiological issues.  Using three different machine learning algorithms that ingested data and refined their outputs based on previous results, the team was able to increase the sensitivity and specificity of the diagnosis process.
+READ MORE: Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+The researchers found that volume, mid-left ventricular segmental, and average longitudinal strain were the best metrics for accurately determining the difference between the two identified conditions.
+“Our approach shows a promising trend in using automated algorithms as precision medicine techniques to augment physician-guided diagnosis,” said study author Joel Dudley, PhD, Director of the Institute for Next Generation Healthcare and Director of the Center for Biomedical Informatics at ISMMS.
+“This demonstrates how machine-learning models and other smart interpretation systems could help to efficiently analyze and process large volumes of cardiac ultrasound data, and with the growth of telemedicine, it could enable cardiac diagnoses even in the most resource-burdened areas.”
+Dr. Sengupta has been using advanced health IT and big data analytics strategies to inform his cardiology research for some time.  In 2014, he spoke to HealthITAnalytics.com about a separate initiative to use artificial intelligence as a way to identify patients with cardiomyopathy and pericarditis, two diseases that present in similar ways but require very different treatments.
+Instead of manually combing through extremely large and complex datasets in an attempt to ensure the right diagnosis, Sengupta employed an “associative learning” platform that could increase automation of the process.
+READ MORE: Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+“In the initial pilot phase, when I did my own statistical algorithms, we had a 73 percent ability to differentiate the two diseases,” he explained.  “But when the initial pilot run happened, we were very pleased to see that there was a discrimination of 90 percent between the two datasets without any human intervention.”
+“It’s very exciting that machine learning and learning intelligence platforms can reach the ability to do this differentiation, if not exceed it.”
+Mount Sinai isn’t the only organization excited about the potential for algorithms to unlock the unprecedented volume of data hidden away in medical images. 
+Earlier this week, the University of California San Francisco’s Center for Digital Health Innovation (CDHI) and GE Healthcare announced a partnership to develop a library of deep learning algorithms geared towards aiding trauma care.
+The collaboration aims to equip GE’s smart imaging machines with the ability to identify potentially serious conditions like pneumothorax.  In the future, the tools could provide real-time clinical decision support to providers for a variety of hard-to-identify situations.
+READ MORE: Artificial Intelligence Could Take Over Surgical Jobs by 2053
+“Next generation data science techniques have already transformed the industrial and consumer world,” said Michael Blum, MD, associate vice chancellor for informatics, director of CDHI, and professor of medicine at UCSF. “With this collaboration, these technologies will be applied to our clinical data and images to provide clinicians with actionable information in near real-time.”
+Artificial intelligence and machine learning are likely to have a significant impact on the healthcare industry far beyond the world of imaging analytics, as well. 
+A recent poll conducted by Silicon Bank found that more than a third of healthcare leaders believe that artificial intelligence will become a major force in the industry in 2017 and beyond, sparking a wave of investment and collaborative projects across many areas of study, including oncology and other precision medicine applications.
+At Mount Sinai, the work will continue as Sengupta, Dudley, and their research team investigate additional methods for using artificial intelligence and machine learning algorithms to help clinicians, medical students, and technicians make more accurate diagnoses across a variety of heart-related conditions.
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum 
+What is the Role of Natural Language Processing in Healthcare?
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsImaging AnalyticsMachine LearningMedical Research
+
+

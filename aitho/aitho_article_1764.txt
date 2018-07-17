@@ -1,0 +1,17 @@
+Netrounds Releases Research Paper On Service Assurance In The Context Of Big Data And AI
+
+04 Jan 2018
+
+The White Paper Discusses Current Service Assurance Systems And How They Relate To Big Data, Artificial Intelligence (AI), Machine Learning, And Deep Learning
+Netrounds, the leading provider of active testing, monitoring, and service assurance solutions for communications service providers, today announced the release of new service assurance research and an accompanying white paper entitled “Service Assurance – In Need of Big Data or Small Data?”
+The white paper discusses current service assurance systems and how they relate to Big Data, Artificial Intelligence (AI), Machine Learning, and Deep Learning. Also included are results of the recent NFV Service Assurance and Analytics research study and survey completed by Heavy Reading in October 2017. Over 100 network operators and service providers worldwide participated in the survey.
+Key takeaways from the research include:
+The industry’s expectations on Big Data and AI should be lowered to a more realistic level. These technologies will not provide a panacea for all service assurance needs and transformation challenges.
+As Big Data and AI rely on relevant and high-quality data, large amounts of low-level data will not satisfy the requirements to receive satisfactory answers to the relevant service assurance questions. With current systems, it is very difficult to obtain high quality service-related data on network services using traditional infrastructure-centric assurance tools or Big Data and other AI technologies.
+Data from active testing and monitoring can provide detailed, real-time service KPIs. These KPIs, which can be referred to as Small Data, provide great value by themselves, but they are also enablers for the successful application of Big Data and AI.
+Dr. Stefan Vallin
+“A key outcome of the research is that Big Data and AI will not be a cure-all for providing answers to the difficult service assurance questions that our customers are asking,” said Dr. Stefan Vallin, Director of Product Strategy for Netrounds and predominant contributor to this white paper. “Small Data obtained from active testing and monitoring can provide detailed, real-time service KPIs and direct answers to many of the fundamental service assurance questions, such as ‘are we meeting the level of service quality that we promised?”
+“Service assurance is both an area of some confusion and an area where significant evolution is taking place due to the industry’s ongoing network virtualization efforts,” said Sandra O’Boyle, Senior Analyst focusing on CEM and Network Analytics at Heavy Reading. “Service providers are open with us about the challenges with current service assurance systems and the need to monitor service quality KPIs in real time to meet dynamic SLAs. Discussing service assurance in the context of Big Data and Artificial Intelligence, another area of confusion and hype, could not come at a more relevant time given service providers’ level of interest in our recent NFV Service Assurance and Analytics study.”
+“If you can measure service quality directly, why would you try to reverse engineer it from noisy and incomplete data pulled from the resource layer?” added Vallin.
+
+

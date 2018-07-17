@@ -1,0 +1,27 @@
+Healthy Nevada Study Combines Genomics, Population Health
+
+March 13, 2018
+
+By Jennifer Bresnick
+March 13, 2018 - A unique population health study in Nevada is combining genomic information from thousands of citizens with socioeconomic, environmental, and clinical data to develop insights into how lifestyle interacts with genetics.
+The Healthy Nevada Project, a collaboration between non-profit healthcare delivery system Renown Health and the Desert Research Institute (DRI), is currently entering its second data collection phase after a successful first effort to gather genetic information from local residents.
+“We’ve taken our clinical data over ten years and combined it with the expertise at Desert Research Institute’s environmental data platform and the social determinants of health from our community and put it in a mega data warehouse so that we can understand the patterns of disease and illness in our community,” said Tony Slonim, MD, DrPH, Renown Health President and CEO.
+Dig Deeper
+Precision Medicine Rises, Data Management Still a Barrier
+Payers Starting to Tie Precision Medicine to Value-Based Care
+Geisinger Aids Diabetes Care with Community Food Initiative
+The pilot phase of the initiative began in 2016 after Governor Brian Sandoval launched a personal genetics program for residents in the northern reaches of the state.  The program enrolled more than 10,000 participants in just 48 hours, indicating keen interest from a broad range of residents.
+At the time, researchers used retail genetics company 23andMe to genotype participants. The team also collected socioeconomic survey data through an online tool, and merged the results with environmental datasets from DRI, such as air quality data.
+“Nationally, Nevada ranks last in public health funding as well as research and health outcomes,” says the study website. “Some of the region’s communities, especially the rural and underserved urban areas, are in crisis.”
+“For example, people die earlier in Nevada from pancreatic cancer than the rest of the US and our rate of drug-induced deaths is seven times the national average.”
+The second phase, beginning in the spring of 2018, aims to add at least 40,000 more participants to the data pool to help better understand and address these challenges. 
+Instead of relying on relatively surface-level genotyping from 23andMe, the second part of the project will leverage Helix next-generation sequencing tests to dive deeper into the genetic information of residents. 
+The researchers will work with SAS on the analytics required to uncover new insights into the interplay between genetics and the environment.
+“This groundbreaking study has real potential to change health care as we know it – not just in Nevada but around the world,” said Mark Lambrecht, Director of the Health and Life Sciences Global Practice at SAS.
+“How does environmental variation contribute to outcomes? What role does one’s genetics play? Together, we can accelerate advances in precision medicine and the data-driven health innovations and research that lead to higher-quality care and better outcomes for all.”
+Ultimately, the study intends to help healthcare providers, policymakers, and other stakeholders better understand the long-term population health trends that will impact care delivery and patient outcomes across the state.
+“We thought about those predictive analytics in a way that would help us understand if the population’s cancer diagnoses were going up, for example, if we might need more oncologists ten years from now,” said Slonim.
+“The things that we’re going to learn here and the work that we’re doing together are going to not only help the health and wellbeing of Nevadans, but they’re going to be extrapolated beyond our borders and around the world.  The ability to make an impact like that is really pretty impressive.”
+Tagged Analytics InfrastructureGenomicsMedical ResearchPersonalized MedicinePopulation Health ManagementPrecision Medicine
+
+

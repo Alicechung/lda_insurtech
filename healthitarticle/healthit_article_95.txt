@@ -1,0 +1,30 @@
+ONC: APIs Can Boost Interoperability, Healthcare Data Access
+
+April 26, 2018
+
+By Jessica Kent
+April 26, 2018 - ONC is working with innovators to develop application programming interfaces (APIs) that will create a robust health application ecosystem, improve interoperability, and increase healthcare data access, according to a recent HealthITBuzz blog post by National Coordinator Don Rucker, MD.
+Many patients may find that accessing their health information is a frustrating process, Rucker said. Patients who see more than one provider have multiple patient portals to visit and passwords to remember, making it difficult for them to collect their health data across different care settings.
+This process can also prevent patients from being empowered consumers, as they cannot easily compare pricing and quality of healthcare services.
+Dig Deeper
+APIs, EHR Data Integrity, Patient Access Key to Value-Based Care
+Argonaut Project Aims to Boost Standards, EHR Interoperability
+Are Vendors, Providers Blocking Health Data Interoperability?
+To enhance data exchange in healthcare, and to allow patients to see quality indicators and care costs, developers should create a network of health apps like the system of apps on smartphones, Rucker said.
+“What makes our smartphones so powerful is the multitude of apps and software programs that use open and accessible APIs for delivering new products to consumers and businesses, creating new market entrants and opportunities,” he wrote.
+“There is nothing analogous to this app ecosystem in healthcare.”
+ONC is working with developers to create such an ecosystem. Open APIs will help patients manage their own health or the health of a loved one, Rucker noted.
+A health app ecosystem can also lead to the development of disease-specific apps, which could allow patients to share their health data with clinical trial researchers and accelerate drug and treatment testing.
+Patients could share their health data with researchers who are monitoring disease outcomes to advance medicine, such as those in NIH’s All of Us research program.  
+The development of an app ecosystem will add to ONC’s previous work to accelerate the use of APIs in healthcare.
+The 2015 Certified EHR Technology (CEHRT) criteria, overseen by the ONC, includes the requirement that EHR tools enable API connections.
+The 2015 Edition also includes application access certification criteria requiring developers to demonstrate that their products provide application access to core medical and patient information via an API.
+ONC’s effort to create a health app ecosystem comes in conjunction with a CMS announcement proposing changes to the meaningful use program. CMS has renamed the program to “Promoting Interoperability” to further prioritize health data access and interoperability improvements.
+CMS has also mandated that providers implement the capability to use APIs to enhance the flow of data between providers and patients by adopting 2015 Edition CEHRT by 2019.  
+Rucker notes that the 21st Century Cures Act also builds on the efforts put forth by ONC by calling for the development of APIs that allow developers to easily access and exchange information.
+Ultimately, ONC expects that the combination of these programs and initiatives will help to support data flow and access and allow patients to have individual control of their care.
+“The central principles guiding ONC’s work are to make sure that APIs in the health ecosystem are standardized, transparent, and pro-competitive,” Rucker concluded.
+“These goals should allow new business models and tools that will expand the transparency of all aspects of healthcare.”
+Tagged Application Programming InterfacesCMSHealth Data AccessInteroperabilityONC
+
+

@@ -1,0 +1,17 @@
+30% of EHRs lack population health, reporting capabilities
+
+September 20, 2013
+
+By Jennifer Bresnick
+September 20, 2013 - One-third of electronic health record systems lack sufficient population health management and reporting capabilities to support in-depth analytics, according to a survey of 50 senior healthcare executives conducted by Porter Research.  Even those EHRs that have some analytics capabilities fail to work across patients with co-morbidities and across various organizational initiatives, and can’t dive into the level of granularity needed for truly actionable results.
+“Transforming a system that has evolved for decades based on episodic documentation and visit-based billing into one that can effectively offer population management and care coordination workflow is challenging, at best,” the report says.  One of the obstacles is the continued use of fax machines for clinical communications instead of electronic health information exchange.  Three-quarters of organizations still transmit or receive information through fax on a regular basis, but are seeking more integrated solutions to help keep portable data digital.
+While having the infrastructure to collect, analyze, and report clinical and financial data is obviously the basis for analytics, integrating the principles of accountable care into an organization’s care philosophy is perhaps just as important.  Porter found that while approximately half of respondents have future plans to shift towards bundled payments for accountable care initiatives, current adoption such strategies remains low.
+“Long-term sustainability sounds great on paper, but actually building the foundation to achieve it is both challenging and risky,” the survey says. “Waiting for the multisystem integrations and advanced analytics to come together before impacting care and care transitions is not an option.”  Hospitals are increasingly looking towards the cloud to increase interoperability and warehouse data, Porter says.  More than half of participants reported high confidence in cloud applications to secure their data and break down silos of information that can interfere with truly fluid analytics.
+Dig Deeper
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+EHR, Big Data Analytics Success Hinges on Holistic Change Management
+“Healthcare CIOs have seen the cloud’s potential in moving beyond ‘islands of information’ and creating a simple means to securely exchange clinical and administrative data,” said Tim Busche, Director of Product Marketing for Healthcare for Covisint, which sponsored the study. “Now, the vast majority of CIOs are ready to place their trust in the cloud for mission-critical data as they migrate from HIEs to accountable care initiatives, like ACOs and PCMHs.”
+Tagged Analytics InfrastructureEHR AnalyticsEHR UseHealthcare AnalyticsHealthcare Business IntelligenceHealthcare Data ManagementHealthcare Data Strategy
+
+

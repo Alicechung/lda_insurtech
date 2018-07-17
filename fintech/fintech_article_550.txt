@@ -1,0 +1,73 @@
+From Multiple Spreadsheets To Unified CPM – Arena Group Prepares For Today’s Finance Challenges
+
+October 17, 2017
+
+The finance function is undergoing massive change. Shifting business models, rising tax complexities, expanding global operations and evolving regulation are setting the stage for increased reporting requirements and further pressure on the office of finance to ensure integrity of consolidated numbers.
+
+ Take the case of Arena Group, a UK-based temporary event services provider, designing and delivering complete environments for some of the most high-profile sporting, commercial and cultural occasions on the global calendar. The company has entities in the USA, Dubai, Malaysia and Hong Kong, a network of global partners and has delivered projects across Europe, Canada, Brazil, Saudi Arabia, Qatar, Oman, Singapore, Thailand, Indonesia and Vietnam.
+
+ With over 250 years of experience, the company has worked in partnership with the US Open Championship, Formula E, The Jockey Club, Korea’s Presidents Cup, the London 2012 and Rio 2016 Olympics and Her Majesty The Queen’s 90th birthday celebrations. In July of 2017 Arena Group announced its intention to apply for admission to trading on the AIM market of the London Stock Exchange.
+
+ The challenge
+
+ In 2014, Arena was dealing with an increasingly complex annual budgeting process. The company’s office of finance had been managing month-end reporting with a complex system of Excel spreadsheets and the time spent consolidating them at month end was increasing. The amount of manual work required increased the risk of errors, while lack of standardisation sometimes led to data inconsistencies.
+
+ With locations in different time zones, plus a network of global partners to further extend the company’s capabilities, the demands of international growth were forcing a re-think of how the finance team collected and consolidated multi-country financial data. While spreadsheets could provide the information needed for reporting, the system was not keeping up with rising expectations of speed and scalability from the broader business. Changes were difficult to manage as they had to be executed manually across all linked spreadsheets.
+
+ Under pressure to provide more regular financial updates and insights into cost drivers, the finance team recognised that Excel-based budgeting just couldn’t deliver anymore.“In 2012, we had an injection of private equity investment and part of that process required better reporting and integrity of the numbers,” says Paul Littlechild, Arena Group’s Financial Controller.
+
+ “The business grew in size as a result, but under the existing spreadsheet-based system made it difficult to analyse combined information at the group level. Numbers were kept by the local entities and there would often be a disjoint between what their numbers were and the numbers reported at a group level. Data from the regions had to be consolidated manually, slowing down close and risking inconsistencies in the reporting process. Arena needed a centrally-controlled environment from a group perspective.”
+
+ So, in August of 2014, the company began to search for a solution that would make monthly consolidation – and the sharing of group financial information within the company – easier and more accurate, but that would also benefit the end user.
+
+ The need for automated consolidation, analysis and reporting
+
+ Aware that spreadsheets were not a scalable financial planning, analysis and reporting tool for the business, the Group Finance Team set an objective to automate consolidation, analysis and reporting – with the aim of producing a consistent version of the truth that would give stakeholders complete confidence in the reported numbers, while reducing the time and resources required to produce them.
+
+ Having made the decision to invest in a corporate performance management (CPM) solution, Arena Group followed a rigorous product selection process. The list of vendors was whittled down during the procurement process and CCH Tagetik quickly moved to the front of the queue with an impressive proof of concept and EOH UK as the implementation partner.
+
+ The key things the Group Finance Team wanted were a robust budgeting and forecasting tool, alongside the statutory and management accounting process. They weighed up what in terms of these two was most important, but then realised a robust consolidations system could potentially cover both sets of requirements. It was this that drove them toward a SaaS rather than on-premise deployment CPM solution.
+
+ The Cloud CPM solution makes it simple for the office of finance to manage its own corporate performance management processes without depending on IT for support. The solution is architected for unlimited scale and meets the most stringent security standards. Given the user profile of Arena’s Group’s global finance team, the advantages of easy web access and always having the latest software, persuaded the company to opt for the cloud.
+
+ “We were immediately impressed with CCH Tagetik’s CPM package. The consolidation solution really fit together nicely from a management accounting and statutory accounting point-of-view. You could see how it would make our budgeting and forecasting processes more streamlined and more collaborative at the same time. The ability to switch processes on and off, rather than have to purchase them separately was also a big advantage.”
+
+ Once the solution vendor had been selected, Arena needed a partner to implement it. Paul Littlechild had worked successfully with EOH UK in a previous role and with more than 90 CCH Tagetik implementations under its belt, EOH had demonstrated the confidence and cultural fit Arena Group was looking for.
+
+ While having a cloud solution eliminates most of the IT management companies need to assume with an on-premise deployment, the philosophy at EOH is to always leave clients with a significant knowledge transfer and make them as self-sufficient as possible – even where the simplicity of SaaS has already reduced the maintenance burden.
+
+ “With some consultancies, there’s a dependency that tends to lock you into a longer and more expensive relationship. EOH implemented in a short time frame and gave us all the knowledge and skill sets we needed to configure and confidently manage the system ourselves.”
+
+ Arena’s project team members also had their normal day jobs to get on with, so it was critical to integrate quickly and to establish a strong working relationship early on with good collaboration and communication being the cornerstones. Clear understanding of scope, single point of contact, quick decision making and detailed up-front preparation during the mobilisation stage, allowed the implementation partner to hit the ground running and help avoid stall points midway through the project.
+
+ Measurable results and business impact
+
+ Since deploying Cloud CPM, Arena Group’s monthly close has become much faster – shrinking the wait between receiving data and reporting results from five days to one. Countries and departments are using standard online templates to update their data, resulting in greater consistency across statements. “The consistency of data is better and the whole month-end process is just so much smoother. If there are any questions about what’s reported we can drill down much more easily at group level to interrogate the numbers,” says Paul Littlechild.
+
+ Being able to match the intercompany balances a week earlier was a huge advance on the previous system. With improved Intercompany matching, Arena has also gained real-time visibility of intercompany partner balances, while automating intercompany eliminations. A series of automatic validation checks have improved the accuracy of data loads, ensuring that intercompany declarations match balances in trial balance for relevant intercompany accounts.
+
+ The new system also checks that the sum of opening balances, and movements during the year agree with closing balance for balance sheet accounts.
+
+ Arena has also seen other benefits including:
+
+ By creating one repository for financial data, the office of finance now has a single, reliable version of the truth to share across the enterprise. The Group Finance Team can deliver better, clearer information to the CFO, CEO, and other stakeholders across the company. “In terms of the structure and use of the cloud, it’s certainly been easier to setup and manage. Setting up new users and training them was quite straightforward. New users have been up and running and fully independent in a couple of months.”
+
+ “The EOH UK team really helped us get up and running quickly. Having given us the knowledge base to configure the system ourselves, we are now implementing dashboards that will give us an instant view of the financial picture at any given time and make the close process more visual,” concludes Paul Littlechild.
+
+ Conclusion
+
+ Not only has Arena benefited from the use of cloud CPM technology in terms of reduced reporting cycle times, new visibility of progress against targets and improved confidence in reporting and analysis for decision making. Thanks to the transfer of knowledge to the finance team the implementation partner ensured, Arena Group is now also as self-sufficient as possible.
+
+  
+
+  
+
+ By Rupert Madath, Delivery Services Director, EOH UK
+
+ More information:
+
+ EOH UK http://www.eoh.uk.com
+
+ Arena Group http://arenagroup.com/divisions/uk-and-europe/
+
+

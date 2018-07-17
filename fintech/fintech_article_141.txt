@@ -1,0 +1,27 @@
+Play2Live Develops Its Own Blockchain Called Level Up Chain
+
+May 23, 2018
+
+Decentralised streaming platform for gamers and eSports fans, Play2Live, has announced its plans to develop its own blockchain infrastructure, Level Up Chain. Level Up Chain is the next step in the company creating the ideal end-to-end solution for streamers, gamers and eSports fans.
+
+ Launching the Level Up Chain Testnet in July 2018, one of the key advantages for Play2Live to launch its own blockchain platform is the ability to potentially provide unlimited bandwidth for its users – which is estimated to be around 5 million by the end of 2018 – first quarter of 2019. The main network will be able to process up to 500 TPS and due to the wide functionality of the Play2Live platform, transactions corresponding to different services will be allocated in different functional blocks of the network. Therefore, sub-chains with a capacity of 500 TPS for each functional block of the platform will be essential to scaling the network to accommodate for millions of active users.
+
+ Alexey Burdyko, CEO and Founder at Play2live said: “Play2Live offers numerous tools for users. Each of them will be provided by our own reliable Level Up Chain blockchain. This will allow us to scale the platform and realise a huge number of opportunities unprecedented for the eSports market.”
+
+ With the use of sub chains, the entire Level Up Chain infrastructure will be able to provide 100,000 TPS or more and will carry out transactions almost instantly. The cost of transactions within Level Up Chain will be minimal, and the team at Play2Live estimates that the fees will be maintained at $0.01 per transaction.
+
+ “Working on Bitshares, we have faced complex scaling and risks of ‘bottleneck’ as the functionality of the platform expanded, and the amount of transactions increased.” continued Vladislav Arbatov, CTO at Play2Live. “The peak power of Bitshares is not enough to cover all the activities of Play2Live. That is why we are realising product architecture that will allow us to scale the project without putting it to risk of depending on the capacity of the third-party blockchain.”
+
+ Level Up Chain will use consensus protocol to reduce the cost of transactions within the network via special certificates. The number of certificates issued will be hashed and stored in a multidimensional “matrix”, which will change due to certificates growth or decrease. Each node will be given a “trust code”, allowing to enter one vector into the matrix. The code will contain the encryption of the input vector including registry information and code identifier contained in the block, forming a hash, which is again translated into a vector. That makes it impossible to predict vector’s direction based on the input signal.
+
+ As a result, the network will use encrypted number of certificates, not single transactions, where a single transaction will receive one or thousands of certificates. This indicator will assign corresponding status to the matrix. Each verifying node transaction will exchange codes with other nodes that have properties of the opposite side of the matrix, after a certain number of cycles. Thanks to that, a single transaction will transfer a lot of vectors, significantly reducing the load on the network. In the meanwhile, consensus algorithm will solve the problems of processing power, giving each node an equal chance of being selected for transaction confirmation process.
+
+ Play2Live will soon be announcing the first major tournaments for the platform and through its exposure to eSports and live video streaming, Level Up Chain has the potential to become one of the leading blockchain platforms for live streaming and eSports.
+
+ About Play2Live
+
+ Founded in 2017, Play2Live aims to merge blockchain technology with streaming services. Its mission is to create an ecosystem where every participant – the viewer, the streamer, and the esports tournament organizer – is part of a seamless system that favors interaction among viewers and the diversity of monetization schemes. Everybody can be part of the peer-to-peer interaction, and everybody, even the viewer, is able to earn money.
+
+ Play2Live uses a token called Level Up Coin (LUC) which acts as a sole internal mean of payment within the system. It can be easily converted to other cryptocurrencies, or to fiat money through a special exchange service/API. Play2Live achieved hard-cap of sales, raising $30M. During a pre-sale event that took place January 26th – February 6th, 2018 $18M were raised, remaining $12M were raised during the main sales event on February 26th – March 14th, 2018.
+
+

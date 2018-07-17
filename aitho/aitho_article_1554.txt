@@ -1,0 +1,22 @@
+InterSystems IRIS Data Platform Now Available
+
+05 Feb 2018
+
+New Unified Data Platform For Building Scalable, Interoperable, And Analytical Data-Rich Applications 
+InterSystems, a global leader in information technology platforms for health, business, and government applications, today announced the general availability of InterSystems IRIS Data Platform, the first data platform to deliver multi-workload and multi-model data management, native interoperability, and an open analytics platform in a single product.
+InterSystems IRIS is a complete unified data platform that makes it faster and easier to build real-time data-rich applications. It enables organizations to combine event and transactional data with large sets of historical and other data to capture untapped business opportunities and improve operational efficiencies. InterSystems IRIS empowers today’s digital business to be smarter, faster, and more flexible.
+InterSystems IRIS Data Platform:
+Delivers concurrent transactional and analytic processing, and supports multiple data representations – including relational and non-relational models which are always synchronized – in a single database;
+Provides a complete set of interoperability capabilities to integrate disparate data and applications and create seamless real time business processes;
+Includes business intelligence and natural language processing capabilities, and an open analytics platform that allows best-of-breed, third-party analytics to be easily incorporated through dedicated connectors and industry standards; and
+Supports flexible deployment options for public and private cloud, on premises, and hybrid environments.
+InterSystems IRIS provides unique capabilities for highly efficient horizontal and vertical scaling, delivering high performance, efficiency and reliability for handling large data volumes with high levels of simultaneous transactional and query activity.
+Along with the general availability of InterSystems IRIS, InterSystems has introduced the InterSystems IRIS Experience, a new user experience that allows guided and open access to InterSystems IRIS Data Platform for exploring its powerful features. The Experience offers users the ability to solve challenges and build solutions using real-world data sets. With compelling scenarios, such as big data analytics and predicting patterns of financial fraud, developers and organizations can experience the power of the InterSystems IRIS Data Platform firsthand.
+“InterSystems shares a commitment to innovation with our customers and partners, and we’ve developed InterSystems IRIS Data Platform to accelerate the development of new, more robust and data-rich applications,” said Paul Grabscheid, InterSystems Vice President of Strategy. “InterSystems IRIS is empowering innovative organizations to become truly data driven, taking data out of stagnant silos and turning it into actionable insights that drive better business decisions and customer experiences.”
+Michael Leone
+“InterSystems IRIS is designed to handle and optimize mixed workloads and data-intensive applications at scale in the cloud, on-premises, or in hybrid environments, while providing built-in security, reliability, and support,” said Mike Leone, senior analyst for the IT analyst, research, validation, and strategy firm Enterprise Strategy Group (ESG). “Rather than a traditional siloed database approach, InterSystems IRIS provides a single platform with an underlying data representation capable of multiple projections of the same data, enabling organizations to better meet modern business process requirements.”
+As the newest member of the InterSystems data platform product family, InterSystems IRIS joins the Caché high-performance multi-model database and Ensemble application integration engine. InterSystems’ healthcare solutions include HealthShare, InterSystems’ interoperability platform for collaborative care coordination, and TrakCare, a unified electronic healthcare information system.
+InterSystems will be co-hosting a webinar on February 14, 2018 with Leone and fellow ESG analyst Steve Duplessieentitled “Building Smarter, Faster, and Scalable Data-Rich Applications for Businesses that Operate in Real-Time.”
+InterSystems is the engine behind the world’s most important applications. In healthcare, finance, government, and other sectors where lives and livelihoods are at stake, InterSystems is the power behind what matters.
+
+

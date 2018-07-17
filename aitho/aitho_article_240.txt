@@ -1,0 +1,27 @@
+Google And AI Predictions: When Am I Dying?
+
+21 Jun 2018
+
+Its Neutral Network Was Fed 175,369 Data Points Including Health Records And Current Vital Signs, Which Then Delivered A Far More Different Outcome
+In the month of May, scientists published the account of a woman who came to a hospital with breast cancer (late stage) and fluids building in the lungs. The doctors and the hospital equipment aided in taking the woman’s vitals along with her past health records. After the procedure, it was estimated that there was a 9.3% chance of her dying during her stay in the hospital.
+After this estimate, Google swooped in with its neutral network which was a type of artificial intelligence that analyzed huge databases and automatically improvised matter on its own accord. Its neutral network was fed 175,369 data points including health records and current vital signs, which then delivered a far more different outcome. The prediction was calculated at 19.9% chance of dying during her stay at the hospital.
+After a couple of days, she reportedly passed away.
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+The grim news was reported by Bloomberg after it was published in May by Google-backed researchers in Nature, the scientific journal.
+The Study
+The findings of the study suggested that Googe’s predictive analysis while studying case points proved to be far more accurate and faster among other techniques used. Tasks such as predicting a range of outcomes after evaluating a person’s medical history and then forewarning them about mortality, prolonged hospital stay, hospital re-admission and diagnostics for discharge were some of the few accomplished by Google.
+Read More: Interview With Dorian Selz, Co-Founder & CEO, Squirro
+The researchers wrote, “We were interested in understanding whether deep learning could produce valid predictions across a wide range of clinical problems and outcomes. These models outperformed traditional, clinically used predictive models in all cases. We believe that this approach can be used to create accurate and scalable predictions for a variety of clinical scenarios.”
+The positive outcome of this study and the system was that it accounted for various kinds of redundant data which may have been found in old PDF folders, charts etc. The system took everything in account and then calculated the result.  In all, Google has analyzed 216,221 hospitalizations and 114,403 patients that have come to the value of more than 46 billion data points.
+The research of this proof-of-concept study found that it was 93% accurate in predicting patient mortality rates based on the data of The University of Chicago Medicine system and 95% accurate for The University of California San Francisco system (UCSF).
+Read More: Founder Of Tetris Henk Rogers To Serve As An Advisor For BLMP Network
+Google and AI
+Google’s parent company, Alphabet, is unquestionably the largest leader in the world which develops systems of artificial intelligence. Google has ventured into healthcare and is significantly changing the landscape of how people interact and associate with AI.
+Other self-learning algorithms of the Google artificial intelligence system hope to pinpoint the detection of skin-cancer cells with greater accuracy than medical professionals.
+Read More: Jane.Ai Launches To Eliminate Wasted Time In The Workplace By Putting The Power Of Artificial Intelligence At The Fingertips Of All Employees
+On speaking to Fox News, Dr. Mikhail Varshavski raises other concerns of his such as accuracy and privacy of data. Dr. Varshavki pointed out that the risk of relying on predictions based on a machine or the AI computer may not be as reliable as assumed.
+Dr. Varshavski said, “Machines make mistakes and sometimes they make mistakes based on faulty data. There needs to be oversight of what these things do.”
+Despite questions raised about the credibility of data provided by a machine, the pros and cons have been extensively discussed. The large volume of healthcare data can assist numerous physicians by providing the most up-to-date information on significant levels of medical expertise. Before any AI system can be deployed into a medical facility, the systems must be rigorously ‘trained’ through activity data points and then slowly implemented through drafted procedures.
+Read More: Scale To Discuss How Self-Driving Cars Will Handle Unexpected Real-World Scenarios At The Information’s Autonomous Vehicles Summit
+
+

@@ -1,0 +1,25 @@
+HIE Becomes an Entry Point into Population Health Management
+
+October 13, 2014
+
+By Jennifer Bresnick
+October 13, 2014 - There are as many population health management strategies as there are healthcare providers in the United States, each with its own benefits and drawbacks.  While nearly everyone agrees that health information exchange is at the center of truly powerful data analytics, many organizations are taking innovative and creative approaches to achieving an analytics infrastructure that meets their particular needs, goals, and constraints.
+At Citrus Valley Health Partners (CVHP) in California, Chief Strategy Officer Martin Kleinbart is working to bring population health management to a challenging and varied patient base.  In this case study, Kleinbart spoke to HealthITAnalytics about how his small health system decided to approach the problem of data analytics and chronic disease management for its patients.
+What are some of the population health challenges CVHP is facing and how did you address them?
+Citrus Valley Health Partners is a three hospital system in Los Angeles County, California.  We have three hospitals, a home health agency, and hospice care. We’re in a pretty challenging demographic environment.  About 80 percent of our patients are covered by either Medicare or Medicaid.  Some parts of our service area are 80 percent Hispanic.  Some parts are 60 percent Chinese.  There is also significant load of patients with diabetes and other chronic diseases.
+From an infrastructure standpoint, the first thing we did is stand up a health information exchange (HIE) through our partnership with Allscripts. We currently have about 250 physicians participating in one form or another in our health information exchange, about 50 of whom are directly submitting data and creating a really nice virtual community patient record.  The other 200 or so participate in a web-based portal that allows them to have access to all of the data within the HIE.
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+We’ve used that as the entry point for getting into the population health business. Our CEO saw early on that we needed to be part of that.  So we began our implementation of that in 2011, really before we even started on any other parts of the infrastructure.
+Why did CVHP decide that setting up an HIE was the first step towards population health?
+Unlike many systems, we don’t have a large employee physician base.  We have about 700 physicians, most of whom are in smaller solo practices, who have no way of really sharing data with us to create a data warehouse.
+If we had created a data warehouse, all we would be looking at is our hospital Meditech data.  We can already analyze that.  We felt it was important for us to link everyone together and allow physicians to have easier access to hospital data, as well as be able to see all of the stuff that’s in the community.  So we thought that an HIE was an important first step.
+Right now, we have four external EHRs connected.  We have two Allscripts products and two from smaller vendors.  We’re working to connect additional EHR vendors, so we’re in discussions with a few different ones.  We’re looking at NextGen through one of our federally qualified health center (FQHC) partners, as well as a couple of other vendors to really expand the footprint in the community.
+READ MORE: CT Medical Society Announces New Health Information Exchange
+What are some of the other steps you’ve been taking to expand your data analytics goals?
+CVHP is beginning evaluation of mass analytics in two different areas.  First, we certainly have an opportunity on the clinical analytics side through our health information exchange, and we’re exploring different tools for examining that data.
+Secondly, we’ve recently implemented an Independent Physician Association (IPA) to help align our physicians to really work on population health initiatives.  We’re getting ready to launch a federally qualified health center because of our large number of Medicaid patients in our community.  So we’ve decided to enter into a partnership with a local provider, so that we have access points for all of the newly insured Medicaid people in our community.
+Through the IPA, we’ll have a pretty rich claims database. Our biggest areas of focus are going to be true population health management and looking at some of the chronic diseases, especially diabetes, because it’s such a major impact in our community.  So we’re looking at opportunities with that.
+The version of the HIE software that we’ve upgraded to has some built in population health capabilities, especially around diabetes, and so we’re just launching some of the mapping and other basic things that we need to do to be able to access that data from a population health standpoint.
+Tagged Analytics InfrastructureHealth Information ExchangePopulation Health Management
+
+

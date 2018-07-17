@@ -1,0 +1,22 @@
+Precision Medicine Must Be a “Team Effort,” White House Says
+
+August 24, 2015
+
+By Jennifer Bresnick
+August 24, 2015 - Collaboration is the name of the game when it comes to precision medicine, says White House Chief Data Scientist DJ Patil in a blog post outlining the next steps for the nation’s march into genomics, big data analytics, and personalized treatments.  Healthcare stakeholders must volunteer input and best practices, pool their analytics resources, and develop collaborative research teams if the United States is to realize the promises of precision medicine for advanced, tailored patient care.
+“Moving precision medicine forward must be a team effort,” write Patil and Stephanie Devaney, Project Manager of the Precision Medicine Initiative, which was launched in January of 2015 during President Obama’s most recent State of the Union address. 
+Since the beginning of the year, precision medicine has become an important rallying point for researchers hoping to conquer some of medicine’s most elusive goals. 
+Cures for stubborn and devastating conditions such as cancer, Alzheimer’s, autism, and diabetes are squarely in the sights of researchers who are using gene sequencing and supercomputing power to mine vast stores of information, including big data from EHRs, mobile devices, and other large data sets. 
+Dig Deeper
+CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+Healthy Nevada Study Combines Genomics, Population Health
+Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+“We need all sectors to work together,” Patil and Devaney continue. “We need people to actively engage in research and voluntarily choose to share their data with responsible researchers who are working to understand health and disease. We need healthcare providers to share their insight and help translate new findings into better care. And we need a strong, secure, and nimble infrastructure for health data that protects privacy, ensures security and facilitates new research models.”
+“Leaders in healthcare must continue to work with the brightest minds from the technology sector on designing and testing new methods for opening up patient data and allowing individuals to donate their data to research.  Over the course of this administration, we’ve seen incredible advances in health technology, including widespread adoption of electronic health records. Yet, there is still more work to do. Too many people are unable to access, share, or move their health data easily.”
+Health data interoperability is a key focus for Patil in his dual roles as Deputy Chief Technology Officer for Data Policy and Chief Data Scientist in the Office of Science and Technology Policy, and increasing the healthcare system’s ability to ensure that big data is portable and standardized for research purposes will be a significant challenge for the growing precision medicine ecosystem.
+To further these efforts, Devaney and Patil are urging healthcare stakeholders to contribute case studies of precision medicine in action.  The White House is eager to review examples of how providers are engaging patients and clinicians in research activities, developing API technologies to encourage data access and interoperability, deploying big data analytics and machine learning algorithms to generate actionable insights from genomic data, and solving privacy and security problems that may present obstacles to data collection and use.
+Healthcare organizations are asked to share their stories online by September 21, 2015 to contribute their knowledge to the precision medicine community.
+“With support from patients, research participants, researchers, providers, and private sector innovators, we can make precision medicine a reality,” the White House says. “We need your creativity, on-the-ground experience, and enthusiasm to realize the promise of delivering individually tailored treatments to patients.”
+Tagged Analytics InfrastructureBig Data AnalyticsMedical ResearchPrecision Medicine
+
+

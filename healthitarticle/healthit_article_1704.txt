@@ -1,0 +1,20 @@
+Analytics Algorithm Produces Superior Clinical Documentation
+
+December 10, 2014
+
+By Jennifer Bresnick
+A computer algorithm can produce more complete and organized clinical documentation from the same information as a human, claims a new study.
+December 10, 2014 - Chalk another one up to artificial intelligence: a new study shows that computer generated clinical documentation, drawn from the responses to a patient questionnaire, is more concise, detailed, readable, and comprehensive than a narrative produced by a human from the same data.  The study, published in Nature earlier this month, pitted gastroenterologists against an analytical algorithm, then had a separate pool of physicians read the results and render a verdict about quality and completeness.
+Patients with gastrointestinal complaints at Los Angeles-area clinics first saw a physician as usual, describing their symptoms and concerns while the physician created standard clinical documentation to record the visit.  Seventy-five patients then went home and were asked to complete an online survey that collected similar information.  The survey results were compiled into narrative form by an algorithm called the Automated Evaluation of Gastrointestinal Symptoms (AEGIS).  Afterwards, a group of physicians who were not told which document was computer generated and which was written by human peers were asked to judge the quality on a five point scale.
+The computer generated documents received an overall impression score of 3.68 on the five point scale as opposed to the physician documentation, which received a 2.80 score.  The AEGIS documents scored an entire point higher on completeness, and achieved similarly significant marks for completeness, usefulness, organization, succinctness, and comprehensibility.
+“The computer-generated narratives were of higher quality overall,” said Christopher V. Almario, MD, a Cedars-Sinai gastroenterology fellow and a lead author of the study.  Patients also reported adequate comfort with filling out the online questionnaire, the investigators said, and showed little discomfort with the idea of having their health information analyzed by a “virtual human.”
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+AMIA: Health Informatics Can Help Overcome the Big Data “Deluge”
+Artificial Intelligence Tool Passes UK Medical Diagnostics Exam
+But real humans need not despair about their position in the healthcare industry, the study’s authors say.  “Our results suggest that computers can help clinicians focus on what they do best – practicing the distinctly human art of medicine,” said Brennan Spiegel, MD, Director of Health Services Research. “This study offers initial proof that a computer can create meaningful and relevant patient histories that are useful in the clinical setting.”
+The study comes at a time when big data is of major interest to clinicians looking to improve clinical decision making and the practice of evidence-based medicine, and may have implications for the problem of synthesizing enormous quantities of patient-generated health data (PGHD) into a condensed and usable format.  “The study reveals that computers can lift at least some of the burden from doctors by collecting and analyzing data,” Spiegel said.
+The Cedars-Sinai study was funded in part by the National Institutes of Health Patient Reported Outcomes Measurement Information System, and will continue to investigate if and how computer generated reports can improve the patient-provider relationship, increase patient engagement, and raise levels of patient satisfaction.
+Tagged Applied AnalyticsBig DataClinical Intelligence
+
+

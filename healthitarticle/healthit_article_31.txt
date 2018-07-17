@@ -1,0 +1,32 @@
+The Sequoia Project Updates Patient Matching Framework
+
+June 19, 2018
+
+By Jessica Kent
+June 19, 2018 - Improving data integrity, standardizing electronic health record (EHR) practices, and enhancing workflows will reduce the number and severity of patient matching issues, according to a recently released white paper from The Sequoia Project.
+While the healthcare industry has made considerable strides in interoperability, the authors of the white paper noted that many entities continue to struggle with patient matching across organizational boundaries.  These challenges remain a significant barrier to truly impactful health information exchange.
+Patient matching issues can result in many problems for providers and patients, including incomplete records, poor care coordination, and improper treatment.
+Dig Deeper
+Data Integrity Strategies for Patient Matching, Identification
+Data Governance Can Help Improve Patient Matching Issues
+Patient Matching Issues Increase Costs, Threaten Patient Safety
+To improve inter-organizational patient matching, The Sequoia Project recruited industry and government experts for its Patient Identity Management Workgroup to develop finalized recommendations for improved patient identity management.
+“When we released the proposed minimal practices document a few years ago, we knew patient matching was one of the most significant challenges to nationwide health information sharing,” said Eric Heflin, Chief Technology Officer for The Sequoia Project and lead author of the paper.
+“So, we were pleased to receive robust and detailed feedback during the public comment period, as well as many experts volunteering their time and considerable operational knowledge to improve the national-level guidance.”
+The authors pointed out that patient matching issues often stem from a lack of quality data. Missing information, misspellings, and typographical errors can prevent correct patient matching.
+The authors stated that organizations should have systems in place that can easily identify errors in patient data and make it easy to correct those errors.
+In addition, the group suggested that organizations implement error checking processes, which could include examining records and identifying patterns in patient matching errors.
+To further improve data quality and patient matching, the authors said that organizations should characterize the patient traits that will most likely be useful in identifying patients across entities.
+Patient traits that are complete, unique to the individual, and constant over an individual’s lifetime, such as first and last name or social security number, are valuable data points.
+The authors also mentioned patient telephone numbers and email addresses as useful data types and stated that most patients can be uniquely identified by a combination of these elements.
+EHR data values should also be standardized to improve patient matching across organizations.
+Many systems require clinicians to enter a data value for a certain field even if they do not have the correct information for that field at the time. This practice is not harmful when identifying patients within a single organization; however, the authors noted that it becomes problematic when matching patients across organizations.
+Organizations should define consistent default or temporary data values for its own providers and for its key exchange partners, the authors wrote. These default values should be enforced for staff at all levels, and new partners should be informed of these values as part of the onboarding process.
+Modified provider workflows will enhance patient matching across organizations as well. Manually entering and checking patient identity data is a time-consuming, error-prone process that can impede timely patient care.
+To prevent future manual rework on the same patient record, providers should make corrections via a secure workflow to a master patient record. This will allow future patient matching activities to use the correct patient record and make both the organization and provider workflows more efficient.
+Members of The Sequoia Project expect that this revised white paper will improve patient matching among healthcare organizations and ultimately lead to more quality patient care.
+“This paper provides a roadmap for advancing our national patient matching strategy. We hope to see organizations adopt these minimal practices for patient matching with their external health information exchange partners,” said Heflin.
+“If we can standardize, in practice, how EMRs and health information organizations leverage existing standards, we will increase patient match rates dramatically even in the absence of having a national unique patient identifier.”
+Tagged Clinical workflowsData IntegrityEHR UsePatient MatchingThe Sequoia Project
+
+

@@ -1,0 +1,23 @@
+EHR Chronic Disease Management Tool Boosts Prescriptions by 40%
+
+June 11, 2015
+
+By Jennifer Bresnick
+June 11, 2015 - A simple EHR-based chronic disease management protocol developed by Kaiser Permanente to remind providers about the importance of managing co-morbidities in diabetes patients has increased the rate of prescriptions to lower cholesterol and blood pressure by nearly 40 percent, according to a new study. 
+Published in Implementation Science, the study details the impact of the ALL protocol, which prompts providers to prescribe ACE-inhibitors and statins to diabetic patients who may be at higher risk for heart attacks and stroke.
+"This is the first clinical trial to test how a care improvement program developed by a private, integrated health system can be successfully implemented in a public health system that serves millions of low-income and uninsured patients," said Rachel Gold, PhD, MPH, lead author and researcher with the Kaiser Permanente Center for Health Research in Portland, Oregon.
+"With more at-risk patients in these clinics on cardio-protective medications, the hope is that they will have a reduced risk for heart attacks and strokes."
+Dig Deeper
+Predictive Big Data Analytics Identify High-Risk ED Patients
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+Big Data Analytics, Population Health Top Executive Priority List
+The ALL Initiative was implemented in 2033 within the Kaiser Permanente system, which has a strong track record of leveraging its integrated EHR infrastructure for population health management and quality improvements. 
+An observational study conducted in 2009 found that the EHR-based prompt, paired with incentives for provider adoption, produced a 60 percent reduction in cardiovascular disease-related events among adult diabetes patients taking appropriately prescribed aspirin, statins, and ACE-inhibitors or ARBs. 
+The protocol was then adopted for use in other community healthcare settings, including eleven clinics in Oregon, all of which share a centralized EHR managed by OCHIN, Inc., a non-profit health IT organization that validates and manages the clinics’ data.  The clinics varied in side and structure, the researchers said, and strategies for implementation had to be adapted to each location’s infrastructure and staffing circumstances, but the results were positive across the settings.
+In addition to expanding patient and provider education about the importance of chronic disease management for patients with diabetes, providers at the clinics received an EHR alert triggered when patients met clinical guidelines for the prescription of one or more of the targeted therapies.  The EHR was pre-programmed with order sets that allowed easy selection of common pharmaceuticals and dosages, and clinicians were provided with monthly reports detailing their progress.
+Before the EHR alert was added, prescription rates hovered around 45 percent, the study says.  After one year of adoption, the clinics increased their guidelines-based prescription of statins by 38.7 percent, and 37.6 percent for patients prescribed both statins and ACE-inhibitors.
+While Kaiser Permanente took the program a few steps further by integrating proactive care coordination and more detailed clinical analytics that targeted specific high-risk patients, the ALL intervention is an effective way to bring improved co-morbidity management to smaller or cash-strapped clinics, the study says, by requiring fairly little additional investment in infrastructure development or manpower to achieve results at a more basic level.
+"Part of Kaiser Permanente's mission is to improve the health of the communities where we live," said Winston Wong, MD, medical director of the Kaiser Permanente Community Benefit in Oakland, California. "This study shows how we are doing that, and it sets the stage for Kaiser Permanente and other private health systems to share best practices with public health systems that care for the nation's most vulnerable patients."
+Tagged Chronic Disease ManagementClinical AnalyticsPopulation Health Management
+
+

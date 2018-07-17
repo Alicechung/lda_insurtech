@@ -1,0 +1,30 @@
+API-Based Genomics Databank Facilitates Personalized Medicine
+
+October 31, 2016
+
+By Jennifer Bresnick
+October 31, 2016 - Genomic testing is becoming an increasingly common starting place for the development of personalized medicine treatments for patients with a variety of hard-to-treat diseases, especially cancer, but organizations often struggle with interpreting and analyzing a glut of raw data produced by sequencing initiatives. 
+At Weill-Cornell Medicine’s Institute of Precision Medicine, the process of identifying genetic influences on cancer development and treatment efficacy is getting a little easier thanks to the Precision Medicine Knowledge Base (PMKB), an interactive, online application for curating and sharing data about the clinical significance of genomic variants related to oncology care.
+Using an API connected to the Cerner laboratory information system at Weill-Cornell and New York Presbyterian Hospital, the application makes it easy for personalized medicine researchers and clinicians to collaborate and contribute to the body of knowledge used for diagnosing and treating cancer patients.
+“A critical component of clinical genomic testing is the generation of accurate and informative reports containing clinical-grade interpretations of genomic alterations,” explained a team of researchers from several of Weill-Cornell’s precision medicine departments in an article published in JAMIA this month. 
+“Such reports must not only list which variants and mutations were found in a given clinical sample, but also provide interpretations of these variants in the context of available and relevant clinical information.”
+READ MORE: What Are Precision Medicine and Personalized Medicine?
+The process of generating and analyzing this data is “usually a tedious task that requires extensive literature curation,” the article says, and is hindered by the lack of exhaustive online resources that have successfully compiled information on the clinical significance of gene variants in relation to specific disease phenotypes.
+“In our experience few of these databases contain clinical-grade interpretations actually applicable to clinical reporting,” the authors asserted.
+“In some instances, mutation interpretations do not meet required levels of brevity and specificity. In some databases, mutations are not interpreted in the context of specific tumor types. In others, only point mutations and indels are catalogued, while common clinically relevant mutations such as gene fusions and copy number alterations/variations are not included.”
+Other initiatives suffer from an inability to stay up-to-date and accurate in a rapidly changing research environment, and still more are difficult to use for research projects because they do not have application programming interfaces (APIs) to streamline the process of integrating the data into automated workflows.
+PMKB attempts to circumvent these obstacles by taking a structured, modular, standards-based approach to its design.  Using the Ruby on Rails Web application framework, the development team designed the databank in conjunction with clinical pathologists to create a system that allows easy, automated access to granular genomic data.
+READ MORE: Healthy Nevada Study Combines Genomics, Population Health
+Users can find and input data through an HTML interface that includes dropdown menus and free-text searches, and automates the editing process to ensure continuity across relevant data types.
+The database has been growing steadily since its inception in December of 2015, and contained 457 variant descriptions along with 281 interpretations as of May 2016.  The research team attributes this rapid expansion rate in part to the system’s ease of use, which is supported by its API architecture.
+Using a tool called the AmpliSeq Results Converter, the PMKB translates raw data into human-readable spreadsheets and text reports, which can then be imported into Cerner’s laboratory information system, in use at Weill-Cornell and New York Presbyterian Hospital.
+“The AmpliSeq Results Converter has greatly facilitated the laboratory’s workflow by eliminating the need to manually copy interpretations from an Excel spreadsheet into the diagnostic report,” the team said. “Use of this pipeline allows the appropriate interpretations to be pulled automatically from the PMKB into Millennium Helix, our clinical reporting system.”
+The Weill-Cornell team hopes that other institutions will take a similar approach to replicating its success with using a web-based API to simplify the reporting and data generation process, and is encouraging other precision medicine organizations to explore and contribute to the project.
+READ MORE: Point of Care Diagnostics Usher in Era of Personalized Medicine
+“Quality and quantity of interpretations are what will make PMKB attractive to potential collaborators and will set a standard for future contributions to the knowledge base. Since interpretations must be written by qualified individuals, the PMKB software tries to ease the burden of storing and organizing interpretations, allowing pathologists to focus on writing interpretive comments and signing out cases.”
+“Ideally, this knowledge base will serve as an open tool amenable to crowdsourcing of content over time by experts in specific subspecialties.”
+How Precision Medicine Will Shift from Research to Clinical Care
+Precision Medicine, Big Data Analytics Intersect for Better Care
+Tagged Analytics InfrastructureApplication Programming InterfacesGenomicsPersonalized MedicinePrecision Medicine
+
+

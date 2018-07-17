@@ -1,0 +1,68 @@
+Data Analytics, Agile Implementation Speed Healthcare Quality Improvement
+
+April 04, 2018
+
+By Jennifer Bresnick
+April 04, 2018 - The healthcare industry has been through numerous trials in recent years, from the financial and technical alterations brought by the Affordable Care Act and the HITECH Act to the rise of consumerism and the advent of the digital age.
+While providers have done their best to weather these storms, they haven’t exactly enjoyed a reputation for embracing these changes with open arms. 
+Organizational resistance to new strategies is a common pain point, and leaders without a firm understanding of health IT can sometimes create roadblocks to innovation, intentionally or otherwise.  
+Malaz Boustani, MD, MPH
+Source: Xtelligent Media
+Coupled with the very real challenges of big data analytics and the financial pressures of population health management and value-based care, healthcare organizations are in dire need of new strategies to help them manage patients more effectively.  
+Provider organizations often try to borrow components of quality improvement strategies that have become popular in other industries, explains Malaz Boustani, MD, MPH, Founding Director of the Indiana University Center for Health Innovation and Implementation Science of the Indiana Clinical and Translational Sciences Institute.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+While frameworks like Six Sigma and lean methodology have the potential to bring significant improvements to industries like manufacturing and engineering, healthcare demands a slightly different approach.
+“Healthcare is primarily a human-to-human process, not a human-to-machine interaction,” said Boustani, who is also a Regenstrief Institute and IU Center for Aging Research scientist. 
+“That makes it different from other sectors where Six Sigma and the like have had success.  We need a strategy that can account for the fact that humans, with all their quirks and individuality, are making a lot of the decisions in the care environment.”
+Instead of trying to completely eliminate these natural variations and turn the healthcare delivery system into an assembly line, any new improvement methodology should take human nature into account and harness its positive potential, Boustani told HealthITAnalytics.com.
+“We need to start viewing healthcare as a complex adaptive system (CAS),” he said.  “A CAS is open, dynamic, and non-linear.  The agents operating within the network are usually semi-autonomous, and their decision-making processes are often not completely uniform.”
+READ MORE: The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Learning happens at different rates, and lessons are applied in unique ways depending on the character of the leadership, the culture of the organization, the composition of the patient population, and the amount of resources at hand.
+“When a system is made up of individuals who use a combination of their past experiences, their emotions, and variable input from other humans to decide what to do, it can be hard to predict what is going to happen and to generate repeatable outcomes,” he said. 
+“And that’s why we can’t draw direct parallels from industries that are much more automated and governed by data than healthcare is at the moment.”
+Boustani suggests adopting a strategy from the software development world instead. 
+Agile implementation is much more applicable to the semi-independent teams that are common in healthcare, and allows for a certain amount of trial-and-error adaptable to the unique situation at hand.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+Iterative development is a central principle for the methodology – an approach that matches well with the “if/then” nature of clinical decision-making.
+With the right data analytics and a few tweaks to the way that software developers apply the strategy, healthcare organizations may be able to implement quality improvements much more quickly than in the past.
+Source: Journal of the American Geriatrics Society
+“It takes an average of seventeen years to implement only about 15 percent of evidence-based solutions in the healthcare industry,” Boustani noted.  “Seventeen years is far too long when you have patients’ lives in your hands.”
+“If you think about some of the challenges around population management and the social determinants of health, we are so severely limited in what we can do by the fact that we are still depending on human pattern recognition skills and the variations in ability to apply those skills to care.”
+Marrying agile implementation techniques to the growing sophistication of data analytics tools can shorten the timeframe required for quality improvement to just two years, Boustani said.
+His assertion is supported by the results of a long-term project to develop better care for dementia patients at Eskenazi Health, headquartered in Indiana.
+“In the late 90s and early 2000s, we identified a group of essential elements for managing the clinical and psychosocial needs of vulnerable dementia patients,” Boustani said.  “We bundled those elements together and tested them in a randomized controlled trial, publishing a paper in 2007.”
+The paper, published in Clinical Interventions in Aging, introduced the idea of treating dementia care as a complex adaptive system and showcased the trial’s results in managing dementia symptoms, reducing caregiver stress, and treating depression with medication.
+But publishing a paper doesn’t always bring immediate or widespread change, Boustani noted. And the limited nature of the study design did not necessarily prove that a quality improvement program using agile methodology could become sustainable and produce results within a reasonable timeframe.
+“So the leaders at Eskenazi Health challenged my team to actually implement the solution in the real world,” he said. 
+“I didn’t have experience doing that before this, but when I started to draw on a combination of complexity science, computer science, and behavioral economics, it led me to agile implementation as a way to make the Aging Brain Care Model happen.”
+Boustani and his colleagues highlighted a handful of key components of the change management process that would contribute to the ultimate goal of reducing symptoms and improving quality of life for dementia patients and their caregivers.
+“First, we made sure that the patients were correctly diagnosed,” said Boustani.  “We used structured interviews with caregivers that offered a lot of high-quality data about the patient.  A precise diagnosis makes certain that the patient is getting exactly the right care that he or she needs.”
+“Then we worked to measure the cognitive, functional, behavioral, and psychological issues of the person living with dementia, and we also measured family caregiver stress with a self-reporting tool that takes less than five minutes to complete.”
+The questionnaire was fielded, at minimum, once every month for the first three months.  Then, caregivers filled out the form once a quarter.  If the results showed an emerging symptom or acute problem, the questions could be repeated every two weeks until clinicians resolved the issue.
+“The constant feedback loop that we created allowed us to constantly monitor our results and make modifications when necessary to make sure that we were actually meeting the patients’ needs,” he explained. 
+“The cycle of revision and redeployment helped us become financially sustainable, as well – we’ve stayed that way for nearly ten years.  In a safety-net healthcare system, that’s no small feat.”
+The feedback data also helped Boustani and his team create an on-demand clinical decision support tool that shows providers which patients may be in need of some extra attention, as well as the data supporting that recommendation.
+The non-intrusive dashboard was developed in-house, since the EHR in use in 2006 did not allow for robust population health management and case management, he said.
+“We used that until Eskenazi Health moved to Epic Systems in 2016.  At that point, we had to abandon our homegrown software and use a combination of Epic and Excel to mimic the functionality we had created,” said Boustani.
+“Now we’re using Healthy Planet and some other methods to perform these tasks, but it does feel like going backwards a little bit.  That’s just down to the fact that our system was tailored exactly to what we needed for this specific program, and the goals of commercial EHR vendors are going to be slightly different by default.”
+However, using a commercial vendor does allow access to a broader infrastructure that can help expand the agile implementation strategy to other chronic care populations, he acknowledged.
+“Because we’re a little shop, we might not have been able to scale in the same way that a commercial vendor can,” he said. 
+“Now we’re building similar processes for other highly complex patients that fall into what we call the ‘social frailty group.’  We’re using the same methods and testing them for ICU survivors and trauma survivors, so that we can create a true safety-net learning system.”
+Source: Eskenazi Health
+Working in the safety-net environment can be a challenge, but it is also a prime opportunity to explore just how robust and durable a new strategy can be.
+“If you can make something like this happen in the safety-net world, you can probably make it happen anywhere,” Boustani observed.
+“In the safety-net environment, you have extremely complex populations paired with limited resources on the health system side.  That is an optimal environment for innovation.  It forces you to think about sustainability and scalability up front, and that results in a lot of creativity and invention that you might not get in places that don’t have to run as lean.”
+Boustani and his colleagues have published a second paper on the outcome of the agile implementation process in the Journal of the American Geriatrics Society, showcasing the long-term sustainability of the Aging Brain Care Model. 
+For the past nine years, the model has been used to enhance experiences for dementia patients by using individualized care plans and iterative feedback to personalize services.
+Open communication, a nimble response to data that indicates a need to change, and strong support from leadership have all helped to produce results, said Boustani.
+“Agile implementation allows you to avoid being paralyzed by perfection,” he said.  “The first version of anything will not be perfect.  If you can accept that your technique doesn’t need to be flawless before appropriate implementation, you can do much more – and do it quickly.”
+“Develop a prototype, make sure you have sensors in place to collect meaningful feedback, and use that data to revise and react to what isn’t functioning at its best.”
+As they do so, healthcare organizations should keep their ultimate goals in mind: delivering better care to their patients without causing frictions between elements of the complex adaptive system in which they operate.  
+“The software development industry has started to understand that if the goal is to provide a delightful experience, they have to understand the user very deeply,” said Boustani.
+“In this case, the end user is the patient – but we also have to consider the clinician.  There is so much frustration and burnout from trying to force people into using technologies and processes that don’t fit.” 
+Instead of continuing that vicious cycle, agile implementation can help keep clinicians engaged while preserving their ability to make decisions supported by the data they need to deliver quality care.
+“If your industry is primarily dominated by humans, you need to remember that humans are emotionally-driven decision makers,” he continued.  “They don’t adhere to logic all of the time.  So you need to build your solutions to match that environment, not expect people to match your software.”
+“Agile implementation helps to bridge some of those gaps and provide a framework for achieving results, but if you don’t design your processes and health IT systems with the user top of mind, you aren’t going to get the outcomes you’re looking for.”
+Tagged Analytics InfrastructureChange managementChronic Disease ManagementClinical Decision SupportEpic SystemsHealthcare QualityInterviewsPopulation Health Management
+
+

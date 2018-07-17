@@ -1,0 +1,32 @@
+65% of Patients Unlikely to Volunteer for Clinical Research
+
+May 24, 2016
+
+By Jennifer Bresnick
+May 24, 2016 - Patients may not be as excited about the precision medicine era as the clinical research community, reveals a new survey conducted for Memorial Sloan Kettering Cancer Center in which just 35 percent of patients said they were likely to enroll in a clinical trial.
+Despite the “pressing need” for patients to contribute their clinical information to research programs focused on developing treatments for cancers and other diseases, only 40 percent of survey participants view clinical trials favorably, possibly because more than a quarter of providers view clinical trial participation as a “last resort” for treatment.
+This attitude is extremely worrying to researchers, who increasingly rely on big data from hundreds of thousands of patients to make breakthroughs in clinical care.
+“When it comes to advancing cancer care, clinical research is the rocket fuel for better treatments, more accurate diagnoses, and, ultimately, cures,” said José Baselga, MD, PhD, Physician-in-Chief and Chief Medical Officer at Memorial Sloan Kettering.
+“If this trend of low enrollment continues, we will face a crisis in cancer research and discovery. Further education is the key to participation and progress.”
+READ MORE: FHIR Can Move Genomics from Prediction to Precision Medicine
+Patients expressed a variety of concerns about participating in a research program, including skepticism over unproven treatments (35 percent) and their potential safety or side effects (55 percent).
+Other apprehensions included the potential costs of enrolling in a clinical trial that may not be covered sufficiently by insurance (50 percent) and the inconvenience of having to receive treatment at a trail location (48 percent).
+Forty-six percent of patients did not want to risk going through the effort of participating in a trial and getting a placebo for their efforts, while 34 percent didn’t want to feel like “guinea pigs.”
+“While concerns regarding clinical trials are understandable, it is critical that the cancer community address common myths and misunderstandings around issues like effectiveness, safety, use of placebo, and at which point in treatment a trial should be considered,” said Paul Sabbatini, MD, Deputy Physician-in-Chief for Clinical Research at Memorial Sloan Kettering. “For example, the vast majority of clinical trials do not involve a placebo.”
+Patients weren’t the only ones to voice these fears and possible misconceptions.  When physicians were asked the same questions, they responded in a very similar way. 
+READ MORE: CMS Proposes Coverage for Next-Gen Precision Medicine Test
+Sixty-three percent said they had reservations about the safety of untested treatments, while the same number said that they didn’t want their patients to get relegated to the control group.
+Interestingly, fifty-three percent of physicians also said that they were worried that their patients would feel like lab experiments.  Twenty-eight percent said that they consider clinical trials as a last resort for treatment.  Just one-third of physicians talk about the possibility of participating in a research program at the beginning of developing a treatment plan.
+This attitude is deeply problematic, said Sabbatini, and may even be shortchanging patients who could benefit from novel therapies.
+“When faced with cancer, patients want to know they have multiple options available to them, and this includes clinical trials,” he said.
+“Failing to consider clinical trials at every stage of cancer diagnosis and treatment can represent a significant missed opportunity, primarily for patients, as well as for doctors and researchers trying to develop better therapies.”
+READ MORE: Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+The results from physicians may not be too surprising when compared with a recent Health Catalyst survey that indicated the majority of providers don’t believe precision medicine will play a major role in their organizations in the near future. 
+Twenty-two percent of respondents from non-academic medical centers said that genomics and DNA sequencing are “completely irrelevant” to their current patient care strategies, and 71 percent said that they do not intend to integrate genomics data into their electronic health records.
+The Memorial Sloan Kettering survey also offers an interesting contrast to the fanfare around the national Precision Medicine Initiative and the early success of several private, large-scale data gathering programs. 
+Organizations like Kaiser Permanente and Geisinger Health System have been able to gather information on hundreds of thousands of patients relatively quickly, while CancerLinQ’s analytics system is growing by leaps and bounds as healthcare organizations queue to contribute their EHR data.
+While clinical trials require much more intensive participation and more risks than sending off a blood sample to a precision medicine databank, they also offer the potential for immediate, personal returns –something that is not necessarily part of the biobanking community’s promises.
+“Participating in a clinical trial at a place like Memorial Sloan Kettering offers patients the opportunity to receive drugs or therapies years before they are more widely available,” Sabbatini stressed.  “It’s critical that we spread the word: clinical trials offer our best thinking toward finding better ways to prevent, treat, and cure cancer, and there are options for patients and their families to consider early on in treatment.”
+Tagged Clinical AnalyticsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

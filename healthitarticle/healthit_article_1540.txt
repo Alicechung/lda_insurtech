@@ -1,0 +1,25 @@
+Blue Button Makes Progress with Patient Engagement, PHRs
+
+March 16, 2015
+
+By Jennifer Bresnick
+March 16, 2015 - The Blue Button project continues to make strides towards increasing patient engagement and expanding access to personal health records (PHRs), according to survey results from the Workgroup for Electronic Data Interchange (WEDI).
+The late 2014 survey found significant increases in the use of integrated electronic health record data, medical device data, and health information exchange with adoption of the Blue Button technology, as well as a sharper focus on providing patients with the ability to view, transmit, and download their personal health information as a way to foster an environment of communication and engagement.
+Blue Button is one of the more successful attempts at applying data standards to the problem of increasing patient access to their own health information.  Developed at the beginning of the EHR Incentive Programs and first implemented by the Department of Defense, Blue Button has gone on to be refined by the Department of Veterans Affairs and championed by the ONC as an easy way to allow patients to access a summary of their health information online.
+The availability of a standardized, easy-to-implement option for creating a downloadable personal health record has become increasingly important as providers struggle to meet the 5 percent online patient engagement threshold set by Stage 2 of meaningful use.
+Dig Deeper
+How FHIR Offers a New Approach to Working with Healthcare Data
+Illinois to Use Blockchain for Healthcare Credential Management
+Blockchain Offers to Solve Pain Points in Healthcare Data Management
+The WEDI survey follows up on a 2013 poll conducted as Blue Button was undergoing several patient-friendly makeovers, including a rebranding as Blue Button Plus.  The 274 providers, vendors, clearinghouses, and payers participating in the 2014 survey revealed the following results:
+• Blue Button improves the patient engagement experience by providing patients with an alternative to slower forms of health information exchange such as fax, traditional mail, and email.  2014 saw an increase in awareness about the importance of electronic data exchange through mobile apps and the ability to access health information in multiple formats.
+• While Direct secure messaging remains a popular way to securely transmit health information, respondents indicated a 7 percent decrease in the use of Direct with Secure Blue Button Trust between 2013 and 2014.
+• Privacy and security remain critical concerns for patients and stakeholders across the industry.  Health plans have been shifting from opt-out programs to opt-in programs in order to give patients more choice about how and when their data is transmitted or used.  Opt-in capabilities increased from 69 percent to 89 percent over just one year.
+• Healthcare stakeholders are significantly more likely to use integrated EHR data and medical device data to automatically populate personal health records.  Respondents affiliated with governmental organizations increased their use of EHR data for this task from 60 percent in 2013 to 100 percent the following year.
+• Medical device integration rose from zero percent in 2013 to 25 percent in 2014 for government and private industry participants.  WEDI believes this increase is likely due to the more robust data analytics capabilities required by meaningful use.
+• The ability to offer a personal health record to improve patient engagement remains a top priority for providers.  Participants who have already adopted PHR features are likely to offer them to their entire user base as opposed to subsets of their patient populations.
+• Awareness about the potential for Blue Button technology to improve health information exchange and patient engagement continues to rise, especially among behavioral health and allied health providers.  Providers who are largely ineligible for meaningful use participation are nevertheless joining their peers in adopting technologies to allow better patient access to their own data.
+“It is clear through our findings that usage and adoption of personal health records continues to grow among industry stakeholders and awareness of Blue Button Plus is slowly building,” said WEDI President and CEO Devin Jopp, EdD in a press release. “Our intention is to work closely in support with HHS to help further educate the industry on the usage of the Blue Button Implementation Guide in order to improve adoption of a standardized approach to exporting personal health records. WEDI will continue to monitor industry progress towards this initiative.”
+Tagged Health Information ExchangeHealthcare Data ManagementPatient Engagement
+
+

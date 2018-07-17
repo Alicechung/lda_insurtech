@@ -1,0 +1,27 @@
+Data Analytics, CPOE Bring HIMSS Davies Award to PA Hospital
+
+February 18, 2015
+
+By Jennifer Bresnick
+February 18, 2015 - St. Clair Hospital in Mt. Lebanon, Pennsylvania has been named the newest recipient of the HIMSS Nicholas E. Davies Award of Excellence in 2014 thanks to its implementation of several health IT and data analytics technologies that improved patient flow, raised vaccination rates, and decreased preventable medication errors.
+The 328-bed acute care facility, which serves a large proportion of Medicare patients among its 500,000-member population, leveraged improved patient intake procedures and emergency department analytics to cut wait room times from an average of 49 minutes to an astonishing 4 minutes.
+“We’ve had a long-term concentrated focus to better serve our patients through the use of systems and technology that enable us to deliver safer, higher quality care,” said St. Clair Hospital Vice President and Chief Information Officer Richard J. Schaeffer.  “We are honored to receive the Davies Award, because it reinforces our strategy of investing in technology that can be embraced with an organizational mindset that the system will be improved on a continuous basis.  As the system becomes more innovative and predictive, it empowers our caregivers to deliver better outcomes to benefit our patients.”
+Among St. Clair’s notable data analytics achievements are the following:
+Dig Deeper
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Machine Learning Offers Timely Predictive Analytics for AKI
+• Decreased physician waiting time in the emergency department (ED) from 76 minutes to less than half an hour
+• Increased ED patient satisfaction scores from the 14th percentile to the 99th percentile by cutting waiting times
+• Provided pneumonia vaccinations to 100% of at-risk patients since the end of 2012
+• Harnessed clinical analytics to flag patients experiencing hyperglycemia and hypoglycemia to develop a standardized care protocol that reduced the rate of severe hypoglycemic episodes 4.6 to 1.86 per 1,000 patient days
+• Used computerized physician order entry (CPOE) technology to reduce C. difficile infection incidents by 50% thanks to an automated order for probiotics when antibiotics were prescribed
+• Avoided approximately 1100 preventable medication errors per year with the use of real-time, automated charting of medication administration and scanning technologies including barcoding and RFID
+• Combined CPOE and clinical decision support tools to reduce medication start time errors to less than .088 per day
+“The key to leveraging the underlying power of the systems we have in place is in making them more usable and more intelligent,” said Chief Medical Information Officer Dr. Louis A. Civitarese.
+“This requires a strong collaboration among the organization’s Clinical Leadership groups that participate in an iterative process to improve the value that our patients receive from information technology.  Combining the valuable and insightful input of the medical staff, with the meticulous and inventive work of nurses, pharmacists, analysts, and others, results in usable and innovative systems that help us deliver the best possible healthcare to the community.”
+“St. Clair Hospital’s team of clinicians and IT professionals has done a tremendous job of leveraging information technology to integrate efforts to improve quality and the financial bottom line at the same time,” said Jonathan French, director of quality and patient safety, HIMSS North America. “St. Clair has significantly reduced hospital acquired infections and medication errors through the innovative use of IT.
+“As a hospital that serves a large Medicare population, improved clinical outcomes have resulted in revenue capture and costs savings critical for the organization’s financial health,” he continued. “The Davies Committee and HIMSS congratulate the St. Clair Hospital team for its focus on improving the health outcomes of their patient population through the effective use of health IT.”
+Tagged Healthcare Data AnalyticsHospital QualityPatient Safety
+
+

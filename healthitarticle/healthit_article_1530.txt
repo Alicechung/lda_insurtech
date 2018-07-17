@@ -1,0 +1,24 @@
+87% of Patients Want Health Information Exchange Without Fees
+
+March 20, 2015
+
+By Jennifer Bresnick
+March 20, 2015 - Patients believe strongly in the idea of free, facile health information exchange that allows providers to access critical patient data wherever the patient goes, according to a new survey by the Society of Participatory Medicine and ORC International.
+The poll, released days after Epic Systems revealed that it charges $2.35 per patient each year to exchange health information between providers, puts public opinion firmly on the side of increased EHR interoperability and a culture of open, data-driven healthcare.
+Three-quarters of patients participating in the survey recognize the crucial importance of health information exchange for their care, indicating a high expectation that their personal health information be able to follow them between primary care sites, specialists, and hospitals.
+The percentage may be so high because one out of every five patients believes that they or a family member have experienced a problem when receiving care due to unavailable patient data.
+Dig Deeper
+APIs Boost Care Coordination, Data Exchange at Northwell Health
+SHIEC Expands Patient-Centered Data Home HIE Network Nationwide
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“What this survey points out is that when critical health information can’t be shared across medical practices and hospitals, patients are put at risk,” said Daniel Z. Sands, MD, MPH, co-founder and co-chair of the Society of Participatory Medicine.
+Charging fees for data access has always been a questionable tactic for EHR developers and other health information service providers, but it appears to be a common one. While the costs of setting up connections between EHR types may be unavoidable in an era where data standards and interoperability are still being debated, but piling on extra fees on a per-patient or per-transaction basis makes it even more difficult for healthcare providers to afford what has become a basic expectation for patients – and a basic necessity for providing care across the continuum.
+In the modern healthcare equation, however, providers are customers who haven’t had much choice when it comes to purchasing EHR technology certified for meaningful use. Healthcare organizations have been at the mercy of developers who know they have a finite yet captive consumer base.
+Ripping out and replacing an EHR that cost tens of thousands of dollars is an unattractive prospect for most organizations, which may end up resigning themselves to paying an extra data exchange fee here or there if it means keeping their technology in place and maintaining access to their patient data.
+Those fees start to pile up, especially for large organizations. With hundreds of thousands of patients flowing through their doors each year, $2.35 per patient each year turns into a big windfall for Epic, which has become an industry standard for hospitals and health systems with thousands of beds.
+“Sometimes hospitals have to pay thousands of dollars for data sharing capabilities to be turned on or supported,” explained Justin Lanning, Senior Vice President and Managing Director of Analytics at Xerox Healthcare Provider Services, to EHRintelligence.com. That can be a significant challenge for some organizations. I believe it is key for us to assure that the systems already purchased and invested in provide interoperability as part of the system, and not at extra extraneous fees or complexity.”
+“I do feel we need to shift, at this point, from thinking vendors growth will come from charging and often over-charging for many different areas of system functionality and integration that should simply be a part of these expensive systems,” Lanning added. “Some vendors feel that by making it harder to integrate with other vendors, health systems will choose to spend their money on all of the other little things they need to with the same vendor. But health systems are beginning to demand the integration for the flexibility they desire, and we must respond as a market.”
+Amidst this tussle, however, patients are not benefited from any of the EHR or health information exchange capabilities that providers have adopted in good faith. “We have the technology,” Sands says. “What we need is for health care providers and systems developers to put patient interests ahead of business needs. None of them would exist were it not for the patients.”
+Tagged Care CoordinationHealth Information ExchangeInteroperability
+
+

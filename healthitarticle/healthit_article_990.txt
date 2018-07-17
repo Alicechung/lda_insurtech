@@ -1,0 +1,28 @@
+ONC, NIH Launch S4S Program for Precision Medicine Research
+
+March 28, 2016
+
+By Jacqueline LaPointe
+March 28, 2016 - The National Institutes of Health (NIH), in collaboration with the ONC, announced the launch of the new Sync for Science (S4S) program, a pilot initiative that permits individuals to access to their EHR data and send it to researchers, according to a recent blog post.
+S4S will help NIH to develop the Precision Medicine Initiative (PMI) Cohort, which intends to enlist over one million Americans to volunteer their health information for precision medicine research.
+“Once developed and implemented, this functionality will allow individuals to connect a research app to their electronic health data, facilitating individual data donation for research and leveraging patients’ access rights under the Health Insurance Portability and Accountability Act (HIPAA),” wrote Deputy National Coordinator Jon White, MD, Josephine Briggs, MD, Interim Director of the Precision Medicine Initiative Cohort Program , and Josh Mandel, MD, a Research Scientist at the Harvard Medical School Department of Biomedical Informatics.
+The program will initially focus on a core data set that includes medications, health problems, and demographics, which is already included  in the ONC’s Common Clinical Data set, and will rely on developing data standards to format and exchange information.
+Dig Deeper
+Most Patients Eager to Join Precision Medicine Initiative Cohort
+Precision Medicine Partnerships Foster Promises of Breakthroughs
+FHIR Can Move Genomics from Prediction to Precision Medicine
+“S4S will build on existing community standards and specification efforts (e.g., FHIR, SMART Health IT, Argonaut, CMS EHR Incentive Program) to support a key use case: giving patients an easy way to share their health data with researchers,” the authors said.
+“This requires standards and specifications to support this use case, but the pilots aim not to define new standards and specifications. For this reason, the pilots will build on existing open community efforts.”
+With these efforts, the ONC and NIH will to guide the market for patient-mediated data access through application programming interfaces (APIs). Healthcare providers are required to offer APIs to patients under Stage 3 of the Medicare and Medicaid HER Incentive Programs.
+With the APIs, patients can access their health data through the provider’s application. S4S developers strive to provide insight into how this can be implemented across the healthcare market.
+Pilot developers will use open specifications, such as Health Level 7’s Fast Healthcare Interoperability Resources (FHIR) and OAuth, to implement a “consistent, standards-based workflow.”
+S4S pilot developers plan to design the program to automatically update data to the PMI Cohort over time. Research participants may be able to conveniently and easily input their health information through their EHR. All information will be provided electronically, and individuals may be able to submit data through a dedicated research app in the future.
+Researchers could use the PMI Cohort to study the natural history of diseases and develop more personalized treatments for patients. With more access to standardized information, healthcare providers could potentially make more informed health decisions.
+The authors of the blog post encourage EHR vendors to join the Argonaut Project’s free Implementation Program, which provides users with support on FHIR and SMART’s OAuth. S4S will build on the work conducted by Argonaut.
+By making it easier for participants to input their data, researchers could potentially have access to comprehensive health data on their research participants. Researchers could view lab results, vital signs, health problems, medications, and immunizations. Pilot developers claim that the health data may need less “cleanup” than the usual EHR data because of the standardization of APIs.
+Physicians might spend less time and energy inputting health data for research because vendor-sponsored patient portals will automate the flow of EHR information.
+EHR vendors could have a “method to empower their health care provider customers, to facilitate research, to participate in the development of stronger health care systems, and to meet EHR Incentive Program requirements for API-based patient access,” the blog post states.
+S4S is NIH’s key to creating and updating the PMI Cohort. ONC and NIH intend for S4S to begin the process for managing large volumes of health data in meaningful and useful ways for precision medicine research.
+Tagged EHR AnalyticsPatient Generated Health DataPrecision MedicinePrecision Medicine Initiative
+
+

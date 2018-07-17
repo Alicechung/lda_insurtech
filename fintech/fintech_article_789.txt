@@ -1,0 +1,29 @@
+Cyberwars will change the world forever
+
+June 16, 2017
+
+The world will no longer be the same. The rise of terrorism, which goes hand-inhand with cyber-terrorism puts a huge question mark over the national security of states and nations. Cyberwars have given birth to a new global security movement, which aims to create a safe cyberspace environment around the world.
+
+ In the official speech responding to the London Bridge terror attack, British Prime Minister Theresa May has said: “We need to work with allied democratic governments… to regulate cyberspace so as to prevent the spread of extremist and terrorism planning.” Mrs May’s announcement effectively opens a ‘fresh page’ in the cyber-security field. Existing standards and their regulatory framework will be entirely overhauled, with the market for services and solutions given new stimulus for development. Cyber-security will become Priority Number One at every level – from the computer systems of government agencies through to the domestic appliances in the growing market for ‘smart homes’.
+
+ COMMENTS
+
+ How would you evaluate existing Cyber Security standards and their effectiveness – and what can be improved or redesigned (globally and in the UK)?
+
+ James Chappell CTO and Co-Founder of Digital Shadows
+
+ One of the beauties of standards is that there are so many to choose from. Cyber Security as it is today, grew from the closely related topics of information assurance and computer, information and network security. The truth is that standards have existed for some time that help organisations measure, quantify and manage risk. BS7799 was one of the first approaches to this, and since that time we’ve seen many new frameworks such as the US Cyber Security Framework, COBIT, ISO27001:2013 and Cyber Security assurance frameworks such as Cyber Essentials. The size of your organisation, the types of critical business functions it engages in, and the industry sector can make affect your selection in making the best pick.. Yet the principles behind them remain similar. Figure out what you have to protect, work out what the threats are to them, prioritise the best places to focus your protection efforts – and then deploy effective measures and measure their effectiveness.
+
+ Andersen Cheng CEO of Post-Quantum
+
+ The greatest challenge for the effectiveness of Cyber Security standards will be the emergence of quantum computing. In the near future, this will render most encryption currently in use ineffective. NIST in the US is taking steps to find encryption algorithms that can succeed today’s standards. Even so, the threat is poorly understood by business. Many leaders still see this as something that will not affect them in their tenure – yet data stolen today could be accessed in the future. This has serious implications for organisations with high-value data, and they must ask themselves what data they hold that would affect their bottom line if it were accessed in 5+ years time. They then need to pursue a policy of cryptographic agility – to prepare their systems and give themselves the flexibility necessary to meet this challenge.
+
+ Oliver Saban Project director of Fintech1010
+
+ In December 2015 two pieces of EU regulation were agreed – the General Data Protection Regulation (GDPR) and Network and Information Security (NISD). Both shift the balance of power towards the citizen to whom the data belongs – and away from the organisations that analyse and use such data. They have been designed to create focus on the protection of IT systems in European critical infrastructure. These new regulations will affect all sectors, most notably the Financial sector. Starting in 2016, there will be a two year period during which organisations will be allowed to prepare for the new regulations and for the Directive to pass into membership law. It should now be understood, that existing Cyber Security standards are in motion to support and accomplish a common framework to which groups should adhere. Responsibility is on individual businesses to realise that this framework is now moving towards support the security of the client – and without knowledge of these Directives, or a conscious drive towards a common framework, groups may be put at risk. Those risks are equal, whether they mean falling short of the Directives, or having inadequate systems in place to protect clients from Cyber Security attacks.
+
+ Kate Goldfinch,
+
+ Editor of The Fintech Times
+
+

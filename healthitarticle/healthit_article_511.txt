@@ -1,0 +1,48 @@
+APIs, EHR Data Integrity, Patient Access Key to Value-Based Care
+
+April 06, 2017
+
+By Jennifer Bresnick
+April 06, 2017 - Before providers can truly embrace value-based care, they must focus on making some significant improvements to the healthcare industry’s basic electronic health record ecosystem, states the American Medical Informatics Association (AMIA) in a recently published paper. 
+In order to “cross the chasm” between the health IT tools of today and the infrastructure required to succeed with big data analytics, population health management, and cost-cutting efforts, stakeholders must focus on developing key aspects of the next-generation EHR, including application programming interfaces (APIs), better documentation and data integrity, and expanded patient access to personal health information.
+“We have made great progress in adopting EHRs in the last six years, but now our charge is even more difficult,” said AMIA President and CEO Douglas B. Fridsma, MD, PhD, FACP, FACMI. 
+“Now we must develop and implement strategies that allow all stakeholders – patients, clinicians, researchers, developers and policymakers – to truly benefit from a connected, innovative health ecosystem. Policy recommendations developed in this paper have given decision-makers a host of options necessary to accomplish this.”
+The paper outlines seventeen policy recommendations that, if enacted, will bring provider organizations closer to the ideal state of health information technology: a seamless, interoperable, transparent, and intuitive continuum of digital tools that enable comprehensive care management, predictive analytics, and reliable clinical decision support.
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+“These recommendations are meant to help decision-makers understand that the idealized vision for our digitized healthcare system is within grasp,” said lead author Julia Adler-Milstein, PhD, Associate Professor at the University of Michigan’s School of Information.
+“Coordination – above all else – is how we take the health IT tools of today and achieve the promise of better patient care of tomorrow.”
+EXPANDING PATIENT ACCESS TO HEALTH DATA
+Integrating the patient perspective into the care process is a challenging but critical part of healthcare reform, the paper says.  While certain initiatives, including Blue Button and Open Notes, have tried prioritize and enable patient data access, the industry still has a long way to go before patients are true partners in their care.
+Developers and providers should urge policymakers to modify HIPAA to include provisions covering digital data access and secure use, AMIA suggests.  These modifications should specifically address the emergence of patient-generated health data (PGHD) from Internet of Things devices, home monitors, and other personal technologies.
+Policymakers should also strengthen reporting requirements around PGHD and work with stakeholders to develop industry-wide standards for PGHD collection and analytics within the EHR.
+READ MORE: APIs, Population Health Take Central Role in MACRA Implementation
+What Providers Should Know to Improve Patient Access to Healthcare
+“The government is in a position to help lower barriers to entry by encouraging development of harmonized standards for various classes of PGHD, such as PGHD emanating from wearables that transmit disease-specific data,” the paper argues. “Should such standards be deemed sufficiently mature, they could be incorporated into a future edition of certified health IT so that all EHRs can readily accept such data.”
+Doing so would improve the patient-provider partnership around chronic disease management, encourage patients to participate in research efforts like the Precision medicine Initiative, and foster more meaningful patient engagement that may improve outcomes and lower costs.
+USING APIS TO STREAMLINE PROVIDER WORKFLOWS AND ENHANCE CARE
+Application programming interfaces have skyrocketed in popularity over the past few years as vendors take some cues from the consumer world, which has quickly transitioned to a more mobile, app-based approach to software development. 
+“Multiple stakeholders have argued that APIs are necessary for the next evolution of health IT to enable access to health information by patients and clinicians and improve interoperability,” the paper says.
+READ MORE: Poor Data Governance Practices Restrict Usefulness of EHRs
+APIs provide standardized connections between disparate systems, allowing applications to share information and draw on data held in another location without having to duplicate the original source.
+“Policymakers have heeded this advice by requiring federally certified health IT to develop and publish APIs as part of the 2015 [CEHRT] edition [criteria],” the article states. “In the near term, federal officials must ensure that APIs are standards-based and published in the public domain, so that they do not carry forward the siloed legacy of EHR systems.”
+Can Application Programming Interfaces Inspire a Better EHR?
+API development should center on a core set of data elements, similar to the standard clinical dataset included as part of the EHR Incentive Programs’ regulatory requirements, AMIA says. 
+Policymakers should seek out input from specialist societies and clinical groups when developing this dataset to ensure that the result is useful for the broadest range of care applications.
+“Ensuring that APIs ‘work’ in practice and defining core data elements are substantial and challenging [tasks],” says AMIA. “APIs are early in the hype cycle, and many nontechnical challenges need to be addressed for them to deliver on their potential.”
+“Instead of being daunted by these challenges, we need to recognize their magnitude and be willing to pursue the associated ambitious policies that may be required to address them, in particular, applying more aggressively constraining data standards and ensuring adherence to those standards across health IT products.”
+SIMPLIFYING EHR DOCUMENTATION WHILE BOOSTING DATA INTEGRITY
+Clinicians have been everywhere from coolly ambivalent to downright hostile about their electronic health records, due in large part to usability deficiencies, data integrity shortfalls, and poor productivity. 
+If the healthcare industry is going to achieve its goals of creating a value-based, patient-centered, cost-efficient delivery system, developers and providers will need to work together to improve the documentation process through more robust data governance.
+“One of the primary aims of the documentation-simplification framework should be quality measurement,” says the paper. “Therefore, we should begin to pursue quality measurement simplification, informed by the documentation-simplification framework.”
+MACRA presents an opportunity to reexamine the architecture of quality metrics, AMIA asserts, and to automate the process of data collection for quality reporting to reduce the burden on clinicians.
+The Difference Between Big Data and Smart Data in Healthcare
+The industry must also develop a framework to reduce “note bloat,” or duplicated documentation, that is currently tied to inefficient billing and reporting processes.
+“The Centers for Medicaid and Medicare Services should focus on evaluation and management coding guidelines as a way to revise and simplify documentation and consider removing, or clarifying, the prescriptive components surrounding time-based billing,” states the article.
+“As we move to value-based care, the justification for detailed documentation guidelines should become less important to payers. [HHS] should encourage using different approaches to documentation, such as a ‘delta’ note, care team note, or interdisciplinary treatment plan.”
+Focusing EHR use on the development of a collaborative, standardized, and easily sharable holistic treatment plan would help to achieve all three of AMIA’s major goals. 
+Allowing patients to access and contribute to a longitudinal care plan – developed and shared through API-driven technologies – would encourage engagement.  And if the functionality is developed around a core set of shared data elements with optimized clinician workflows in mind, EHRs may finally become more powerful tools for care management to enable value-based reimbursement.
+“It is therefore imperative that substantial new policy efforts are targeted at these goals,” the paper concludes. “Our specific policy recommendations offer a blueprint to guide future policymaking to achieve these goals.”
+“However, after almost a decade of policy-driven efforts to drive adoption and use of EHRs, the desire for another ambitious set of policy efforts is limited. Thus, the real challenge in front of us is a simple one: recognizing that our work to build a value-enabling health IT ecosystem is only half done and that incremental progress is not a viable option.”
+Tagged Application Programming InterfacesCare CoordinationData IntegrityEHR OptimizationHealthcare Data GovernancePatient Access to CareValue Based Care
+
+

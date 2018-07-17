@@ -1,0 +1,22 @@
+SUN Mobility Partners With Microsoft To Build Smart Network For Its EV Energy Infrastructure
+
+13 Jul 2018
+
+SUN Mobility, a leading provider in energy infrastructure and services for electric vehicles (EVs), is building a Smart Network to effectively deploy its universal energy infrastructure in partnership with Microsoft. SUN Mobility’s Smart Network will use Microsoft’s technology to connect the SUN MOBILITY SMART BATTERY™ and SUN MOBILITY QUICK INTERCHANGE STATION™ (QIS) with end users through a mobile application. The Smart Network will help users experience seamless service delivery of SUN Mobility’s energy infrastructure by tracking battery charge and identifying the nearest QIS.
+The SUN Mobility Smart Network comprises of tools, software and platforms:
+Software programs enable autonomous operation for effective service delivery of the batteries and stations.
+Based on travel demand, energy availability, route patterns and traffic dynamics the tool is developed to select sites/locations to deploy the stations.
+The high-availability hyperscale Internet of Things (IoT) platform interconnects the batteries and stations and collects continuous telemetry data
+The system includes live tracking, Big Data analytics, Artificial Intelligence (AI) based predictive models to optimize the energy service delivery.
+Follow Us
+“In an era where the future of mobility is electric, powered by renewable energy and driven by AI, we’re excited to partner withMicrosoft, to leverage cutting-edge Cloud, IoT and AI technology,” said Uday Khemka, Co-Founder and Vice Chairman of SUN Mobility.
+Chad Fowler
+Commenting on the collaboration, Chad Fowler, GM and CTO, Startup and Developer advocacy, Microsoft, said, “This partnership is testimony to our commitment towards empowering people and organizations to achieve more through innovative implementation of Microsoft’s intelligent edge and intelligent cloud platform. After having worked with SUN Mobility as part of the ScaleUp program, we are excited about the immense potential that the organization will be able to drive using Microsoft’s Azure based solutions in the sustainable energy industry. Together we will enable both efficient and safe transportation for our planet.”
+Read More: The Three Biggest Industries Who Can Utilize A Language Translation Device
+SUN Mobility’s Smart Network leverages Microsoft Azure IoT for tracking, health monitoring, diagnostics and anti-theft capabilities of the batteries. The geospatial visualization and planning tools help with the deployment of a city-wide network of stations at strategic locations for efficient battery swapping service delivery. SUN Mobility also plans to utilize Microsoft Azure AI in the Smart Network to analyze telemetry data to build Machine Learning (ML) models that would predict battery performance, energy requirements and improve service delivery experience for EV users.
+Chetan Maini
+Speaking on the occasion, Co-Founder and Vice-Chairman of SUN Mobility, Chetan Maini, said, “SUN Mobility’s Smart Network enables us to plan and optimize our energy infrastructure investments. We are leveraging the latest technology to improve the availability and performance of our batteries and interchange stations. Better utilization of assets helps us to offer energy services to our users in a cost-effective and efficient manner.”
+SUN Mobility’s Smart Batteries are light-weight, long-life, compact and swappable. They are also intelligent, modular, interoperable, and flexible allowing for the same solution to be compatible with multiple vehicle platforms: 2 and 3 wheelers, cars and busses. The company plans to build a network of Quick Interchange Stations that are easy to install and ensures quick refuelling of electric vehicles. These stations are compact and modular, allowing flexibility of shifting basis demand in a cost-effective manner. The Smart Network helps keep a constant check on the battery vitals, station operations and ensures service delivery optimization.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+
+

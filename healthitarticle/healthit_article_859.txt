@@ -1,0 +1,45 @@
+Cancer Moonshot Pushes “Urgency” of Precision Medicine Progress
+
+June 29, 2016
+
+By Jennifer Bresnick
+June 29, 2016 - Vice President Joe Biden’s Cancer Moonshot project is building steam as hundreds of precision medicine experts, patient advocates, oncologists, cancer researchers, survivors, and caregivers convened today at the Moonshot Summit, held at Howard University in Washington, DC. 
+Supported by concurrent innovation and discussion activities held in locations around the nation, the Summit represents one of the most expansive and concerted efforts to integrate precision approaches to research and treatment into the mainstream of cancer care.
+Both public and private organizations across the healthcare continuum have committed to doubling the rate of progress towards a cure, following Biden’s leadership and advocacy against the disease that recently took the life of his son.
+“Urgency” was the watchword of the morning as Biden and other leaders delivered their opening remarks.
+“This isn’t about a single person,” the Vice President said.  “It’s about us.  It’s about not giving up hope and having the urgency now.  These are breakthroughs that are just beyond our grasp.  I urge all of you to think beyond your comfort zone.”
+READ MORE: ONC Highlights Its Precision Medicine Initiative Collaborations
+“It’s not that we don’t know how to do it.  We’re just not urgently focused on what needs to be done.”
+“My plea with you is this: help me to be able to go back to the President and tell him what we should be doing to increase collaboration, expand the base of knowledge, and have a greater sense of urgency to make the structural changes that can make a difference.  I really do believe it’s within our power to turn despair into hope a lot sooner than later.”
+With the potential for $1 billion in funding to target the research, pharmaceuticals, and other therapies required to truly make progress against the constellation of insidious conditions known as cancer, the Moonshot initiative has focused attention on bringing data-driven knowledge out of the lab and into the clinic.
+“Today, fifteen hundred Americans and their families will hear the dreaded words ‘you have cancer,” said Dr. Freda Lewis-Hall, Chief Medical Officer at Pfizer.  “Today, and tomorrow, and the day after that, their lives will be altered and, in some cases, ended.  Their worlds will be turned upside down.”
+Public opinion, political willpower, and scientific progress have all come together to help the cancer research industry seize the moment, she added.
+READ MORE: ONC, NIH Pilot Adds Genomic Data Specifications to HL7 FHIR
+“What’s different today than in 1971 when the war on cancer was first declared?  Then, we thought cancer was just one thing,” she said.  “We’ve come to understand that it’s hundreds of things.  Then, we were years away from mapping the genome.  Now, we’re building an army with that explosion of genetic information, with new precision medicines that are targeting cancers a cell at a time.”
+“We defeated polio.  We’ve turned the corner on HIV.  And yes, we went to the moon and back.  We have everything we need.  Will it be easy?  No.  But we have everything we need for liftoff.”
+Biden and the White House also took the opportunity to announce a new series of public and private sector projects, policies, and collaborations that will foster patient-centered decision making, leverage big data analytics assets, create new methodologies for reviewing promising developments, and coordinate cancer care.
+Some of the new initiatives and announcements include:
+Using big data analytics to dive into the VA’s Million Veteran Program
+READ MORE: VA Precision Medicine Databank Hits 500,000 Participants
+The Department of Energy’s National Labs will lend their big data analytics computing power to the Department of Veterans Affairs in a five-year, $3.5 million partnership to increase understanding of cancer, cardiovascular disease, and mental health issues. 
+The VA currently has approximately half a million patient records in their Million Veteran database.  Researchers will apply precision medicine techniques to the clinical, environmental, and genomic dataset to help improve disease detection, prevention, and treatment.
+Creating an open access resource for sharing Genomic Data Commons information
+After just a month in existence, the National Cancer Institute’s Genomic Data Commons (GDC) is about to double in size to more than 32,000 patients. 
+After sharing more than five petabytes of raw genomic data on dozens of tumor types in more than 14,000 patients, the GDC is set to become a foundational resource for sharing the building blocks of precision medicine.
+Focusing on patient participation in clinical trials
+Patients still labor under outdated misconceptions about clinical trial participation, and fewer than five percent take part in projects that may significantly change their outcomes.  Educating patients about clinical trials and encouraging participation is a key goal for the Cancer Moonshot.
+The National Cancer Institute and the White House Presidential Innovation Fellows are announcing a new plan to redesign how patients and their providers find information about applicable trials.  The strategy includes an effort to make cancer clinical data hosted on Cancer.gov available to advocacy groups and researchers through application programming interfaces (APIs), which will foster third-party innovation.
+The Cancer Support Community has also launched its Frankly Speaking About Cancer campaign to improve education about the importance of clinical trials and dispel myths about participation.
+Committing to new partnerships to accelerate drug discovery and development
+The National Institute of Health and twelve biopharmaceutical companies, as well as research foundations and philanthropic organizations, will develop a new program dedicated to accelerating the development of cancer treatments.  The Partnership for Accelerating Cancer Therapies (PACT) will fund research and share data to help bring new innovations to patients more quickly.
+Separately, the Department of Energy, NCI, and GlaxoSmithKline have also formed a collaboration that will leverage big data analytics to speed the drug discovery process.  While pharmaceutical products often take a decade or more to reach provider prescription pads, the partnership hopes to bring new cancer therapies to human trials in less than a year.
+Offering federal incentives for coordinating cancer care
+CMS has announced the enrollment of more than 3200 oncologists in its new Oncology Care Model, a multi-payer strategy to incentivize value-based, patient-focused cancer treatments.  Participants will use national treatment guidelines to boost quality and CMS will provide feedback on performance to encourage continuous improvement.
+Enlisting private advocacy organizations, providers, and health IT companies in the fight against cancer
+A long list of private sector commitments was also unveiled during the Summit.  Alex’s Lemonade Stand Foundation and the American Cancer Society both pledge to double their budgets for research and family services over the next five years, while the American Society of Hematology plans to develop an international data sharing platform to foster collaborative research.
+Deloitte Consulting LLP is designing an XPRIZE competition to search out blockbuster breakthroughs in cancer treatments, while IBM will continue to use its Watson Health resources to analyze genomic data to identify probable cancer-causing mutations and suggest treatments.
+The Milken Institute School of Public Health at the George Washington University and Case Comprehensive Cancer Center at Case Western Reserve University are working together on the Massive Acceleration in Prevention Science (MAPS) project, which hopes to reduce smoking rates for populations at risk of lung cancer, as well as prevent cervical cancers and other cancers related to HPV.
+For a full list of public and private initiatives announced in conjunction with the Summit, please click here.
+Tagged GenomicsMedical ResearchPrecision MedicinePrecision Medicine Initiative
+
+

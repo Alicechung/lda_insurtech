@@ -1,0 +1,17 @@
+At-home risk score can reduce appointments for strep throat
+
+November 06, 2013
+
+By Jennifer Bresnick
+November 06, 2013 - Every winter, millions of anxious parents feel their child’s forehead and wonder if the sniffles, cough, and moaning are worth a half-day off work and a trip to the pediatrician.  While many parents choose to be safe rather than sorry, they are often sent home from the overworked doctor’s office with nothing more than a lollipop and a stop at the drugstore for over-the-counter cough syrup.  But what if patients could use an algorithm examining their child’s individualized risk factors to make the decision easier?  According to research published in the Annals of Internal Medicine this week, a simple, at-home tool may be available soon.
+In the article, Andrew Fine, MD, MPH, and Kenneth Mandl, MD, MPH, of Boston Children’s Hospital discuss how analytics can be used to combine a patient’s age, symptoms, and general risk factors with real-time data about other instances of strep throat active in the community.  While the score was developed with adults in mind, additional work to tailor the method for children seems feasible.  The American Academy of Pediatrics recommends that children under the age of 15 always get tested for strep when presenting with a sore throat.
+An outbreak at a school or workplace would raise the score, but the absence of a fever may not necessitate anything more than ice cream and rest. “Using the home score could empower patients to make informed decisions about their medical care by contributing information about their symptoms,” said Fine. “Integrating local epidemiologic context with the symptom information permits calculation of a personal, local risk of strep throat.”
+“The basic math here is that if strep is present in patients around you, then you are more likely to have strep,” added Mandl. “The local epidemiology is so informative that when combined with just a few additional facts from an individual, we can arrive at a reasonable initial diagnosis without a health care visit.”
+Dig Deeper
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Fine and Mandl predict that the risk score, developed by analyzing data from CVS MinuteClinics, could save up to 230,000 unnecessary office visits a year, and reduce unnecessary antibiotic prescription by 8500 patients.  The algorithm could be integrated into an mHealth app for smartphone use, or added to a nurse’s screening hotline for patients to call in before making an appointment.  “Because sore throat is so common,” Fine said, “reducing these visits could alleviate strain on the health system, while saving significant opportunity costs for patients.”
+Tagged Applied AnalyticsClinical AnalyticsClinical IntelligencePatient CareQuality Of Care
+
+

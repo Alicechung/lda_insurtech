@@ -1,0 +1,18 @@
+UF integrates genetic testing into clinical analytics, EHRs
+
+October 09, 2013
+
+By Jennifer Bresnick
+October 09, 2013 - Sometimes having a lot of data can pose a problem instead of helping find the solution.  When it comes to genetics, this is often the case.  When trying to find a single trait to determine the effectiveness of a blood thinning medication, physicians at University of Florida Health found themselves looking for a needle in a haystack, unable to parse the one piece of data they needed from the overwhelming results from a DNA analysis.  To solve the problem, programmers used data reduction techniques to single out the useful information and thread the result into the hospital’s EHR.
+“The struggle with genomics is how to make data readable for physicians who aren’t used to dealing with data all the time,” says Kari Cassel, UF Health’s CIO. “The question is how to make the data relevant.”  During a pilot program intended to help identify patients who could not metabolize Plavix (clopidogrel), researchers found it easy to add a DNA test to the workup of patients entering the cardiac catheterization lab.  A certain gene is responsible for the 28% of patients who can’t metabolize the drug, which is prescribed to most entering patients.
+Genetic testing is a critical part of UF Health’s personalized medicine program, but physicians were only looking for one thing.  The crucial piece of information presented as a “best practices advisory alert” in the hospital’s Epic EHR, allowing physicians to make more helpful decisions tailored to an individual patient’s needs.
+“We do think [the EMR] is a crucial element. It can’t just be doing the genetic test, providing that result back as a lab report,” Julie Johnson, director of the UF College of Pharmacy’s Center for Pharmacogenomics, told PGx Reporter.  “For the most part, it’s just not going to hit the radar of the cardiologist the way it does if we really link to the clopidogrel prescription and basically fire alerts to them about what they need to do as it relates to the genotype.”
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+NIH to Bring Precision Medicine Data Collection to Patient Homes
+During the pilot, UF Health tested about 1000 heart patients and has collected detailed information on the effectiveness of clopidogrel testing, results of which will be published in the coming months.  After the success of the program, UF Health has received a four-year, $3.7 million grant from the National Human Genome Research Institute to roll out the strategy to the community healthcare setting.  “If genomic medicine is going to work, it has to work in places besides an academic health center, or a university-based setting,” Johnson said.  Orlando Health will be the next site to receive training for the new method, she says.
+“We’re going to be taking everything that we learned and everything that we did … here at UF and really try to plot that into their health system,” Johnson said. “We know that there will be certain challenges that are really unique to those health systems. But we also think that in many ways we’ve already done the hard part.”
+Tagged Applied AnalyticsClinical AnalyticsClinical DataClinical IntelligenceMedical ResearchPatient Data
+
+

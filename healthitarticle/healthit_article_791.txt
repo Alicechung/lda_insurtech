@@ -1,0 +1,25 @@
+Project to Develop EHR Toolkit to Stem Readmissions
+
+August 26, 2016
+
+By Nathan Boroyan
+August 26, 2016 - About 95 percent of U.S. hospitals use electronic health records (EHR) for population health management, but the technology has yet to realize its full potential.
+A team from the Dartmouth Institute is working to change that. Led by Dartmouth Institute associate professor Jeremiah Brown, the team is working on developing a universal toolkit to predict hospital readmission risk.
+Specifically, the team noticed that hospitals have yet to be able to leverage EHR patient safety monitoring and predictive analytics for patients hospitalized with acute myocardial infarction (AMI), commonly known as heart attacks.
+The team comprises health system researchers, epidemiologists, biostatisticians and computer scientists. Already underway, the four-year project looks to develop a universal toolkit that could be implemented with any EHR system and used to predict the risk of hospital readmission in real-time.
+Dig Deeper
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Natural Language Processing, AI to Foster Clinical Decision Tools
+Predictive Analytics, Accountable Care Markets to See Rapid Growth
+According to a March 2015 Jvion survey, only 15 percent of hospitals were using predictive advanced analytics to foresee preventable hospital readmissions. However, with healthcare providers increasingly becoming responsible for the long-term outcomes of patients, the market for predictive analytics is expected to be worth approximately $2.27 billion by 2019.
+The toolkit will focus on extracting complex information about patient health and healthcare factors, including social risk factors such as living status and social support at home.
+Natural language processing (NLP) experts will work with the team to turn doctors', nurses', and social workers' narrative notes into health measures that can be used to help identify risk and health status.
+NLP is at the forefront of turning big data into smart data, with the term being used to describe the process of using computer algorithms to identify key elements in everyday language and extract meaning from unstructured spoken or written input.
+This type of machine learning program can operate on statistical probabilities, weighing the likelihood that a piece of data is actually what the user requested. Based on whether that answer meets approval, the probabilities can be adjusted in the future to meet evolving end-user needs.
+"The focus of this project is to help hospitals improve continuity of care in directing and allocating resources to patients who face the highest risk of readmission," Brown said in a public statement.
+The project received a $3.1 million grant from the National Heart, Lung, and Blood Institute, part of the National Institutes of Health. The national collaborative includes the University of Utah's Wendy Chapman, PhD, and Vanderbilt University's Michael Matheny, MD, MS, MPH.
+Each site will simultaneously develop a toolkit and cross-validate it against different EHR systems. The toolkit will undergo a final external evaluation by the health system used by the national Veterans Administration, led by Matheny in Nashville, Tennessee.
+"This is one of the first projects to develop and validate an informatics toolkit in multiple health systems," said Brown. "Overall, this project is designed to provide healthcare professionals with tools to maximize patient safety and health, especially after patients leave the hospital, and to help prevent unnecessary hospital stays in the future."
+Tagged EHR AnalyticsNatural Language ProcessingPopulation Health ManagementPredictive Analytics
+
+

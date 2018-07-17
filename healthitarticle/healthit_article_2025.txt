@@ -1,0 +1,113 @@
+EHRs, health IT can be leveraged to cut health disparities
+
+April 23, 2014
+
+By Jennifer Bresnick
+April 23, 2014 - EHR adoption is not a goal in and of itself, but a pathway towards reducing historical health disparities, write Dominick Mack, MD, MBA, Executive Medical Director of the GA-HIT Extension Center and Ayanna V. Buckner, MD, MPH, FACPM, Associate Professor in the Department of Community Health and Preventive Medicine at Morehouse School of Medicine, in a blog post on HealthITBuzz.  As a tool for population health management, EHRs have the potential to close the health gap between those of lower socioeconomic status, who are often affected by chronic diseases like diabetes, asthma, and obesity, and more traditionally affluent populations.
+“For communities that have historically experienced disparities in care, the uptake of EHRs and other forms of health IT is good news – as long as the providers and patients in these communities have accessibility to the technology,” write Mack and Buckner. “This means the technology must be available, affordable and sustainable. Health IT that is successfully integrated into clinical workflow has the potential to improve patient safety and quality of care while helping to eliminate health disparities.”
+Citing a study that showed that Hispanic and Black patients who received care from EHR-enabled providers with clinical decision support tools had better control of their blood pressure, the authors note that uninsured patients or Medicaid recipients were significantly less likely to engage with patient portals and access primary care on a regular basis than others.  Other studies have shown that nonwhite patients are 33% more likely to die after heart surgery, and that low-income patients are much less satisfied with the quality of their care than those in a higher socioeconomic bracket.
+“The diffusion of health care innovations to underserved communities has historically lagged behind white communities,” the authors add. “This disparity is significant as morbidity and mortality rates associated with many chronic diseases, such as diabetes, hypertension, cancer, and HIV/AIDS, are more prevalent among underserved communities of color.”
+How Semantic Data Analytics Benefits Population Health Management
+HIMSS unveils DELTA score for healthcare analytics maturity
+EHR analytics help identify new antidepressant users
+Illinois Health Information Exchange Hits 1 Million Records
+UIHC Wins HIMSS Davies Award for EHR Use, Analytics
+Clinical Decision Support Guidelines Cut Unneeded Angioplasty
+What Makes for a Successful Accountable Care Organization?
+For healthcare analytics, big data needs to be smart data: Q&A
+AMA, Coalition Continue Tussle over ICD-10 Implementation
+Study: EHR medication reconciliation reduces errors by 58%
+Mayo Clinic launches “Better” apps for remote care
+PCORI Offers $70M for Population Health Management Research
+Physician Perceptions of Patient Engagement Affect Consumer Use
+Will Apple Watch be the mHealth Answer to Big Data Analytics?
+Can FHIR Spark Health Information Exchange, Interoperability?
+IBM Watson, Boston Children’s Kick Precision Medicine into Gear
+NIH Precision Medicine Clinical Trial Releases New Findings
+Pediatric Patient-Reported Outcomes Can Improve Cancer Care
+AMA, Google Name Winners of PGHD, Data Sharing Challenge
+VA, DOD Data Interoperability Woes Set Questionable Example
+Big Data Analytics Can Bring Visibility, Value to Healthcare
+Value-Based Care Requires Clear Analytics Goals, Scalable Health IT
+AMA, CDC Launch Joint Type 2 Diabetes Prevention Effort
+CVS stops selling tobacco as it transitions to care provider
+Senate Seeks More Interoperability, Openness for Certified EHRs
+Physicians are misusing colonoscopies for cancer screenings
+Population Health Management New Focus for Retail Clinics
+WEDI: Show your progress on data standards, patient engagement
+Telehealth is important link for safety net population health
+EHR Data Integrity Not Robust Enough for Clinical Trial Use
+Borrowed from Retail, Anthem’s Big Data Analytics Boost Member Engagement
+True Interoperability Requires Proof before Mandates, HL7 Says
+Can Stage 3 Meaningful Use CEHRT Bring On Big Data Analytics?
+25% of Physicians Won’t Be Ready for ICD-10 Implementation
+40% of CIOs to Deploy a Healthcare Analytics Platform in 2018
+OIG Seeks Cloud-Based Big Data Analytics, Visualization Tools
+Advanced EHR Use Brings 27% Decline in Patient Safety Errors
+$1.7M Population Health Management Grant Aids Collaboration
+Semantic Big Data Lakes Can Support Better Population Health
+6 Success Factors for Pediatric Patient-Centered Medical Homes
+Survey: Population health, analytics top priorities for providers
+Precision Medicine, Data Exchange, CDS on New ONC Leader’s Agenda
+US Digital Service Revamps CMS, QPP User Experience from the Inside Out
+Care Coordination, Quality Care Can Increase Patient Loyalty
+Smart Pillbox Produces 80% Diabetic Medication Adherence Rate
+Data Exchange, Analytics Remain Out of Reach for Many Providers
+Big Data Analytics, Machine Learning Support 2017 Most Wired Hospitals
+Opioid Prescriptions Dropped 12% in 2017 as Guidelines Change
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Data Overload May Impede Healthcare Internet of Things Growth
+QIO Program Boosts Medicare Care Coordination, Patient Safety
+Accountable care requires outreach and a commitment to change
+For Predictive Analytics, Not All Data is Created Equal
+Hospital readmissions decrease “whenever you try,” says Mayo
+Apple Explores Medical Data with Health Records API, Patents
+Flow of data through HIEs is critical for analytics success
+EHRs Can Aid Chronic Disease Management in Urban Settings
+Could Blockchain Control Population Health Management Costs?
+AMA, White House Boost Chronic Disease Management Efforts
+BCBS Opens Healthcare Big Data Stores to Academic Research Orgs
+Harvard School of Public Health gets $350M donation
+Surescripts Ups Patient Safety, Savings with Interoperability
+KLAS Population Health Management Rankings Show Market Growth
+Healthcare Internet of Things, EHR Markets to See Rapid Growth
+WEDI: Data exchange, payment reform key to healthcare success
+Patients who review physicians generally give high ratings
+MS Medicaid Achieves Real-Time Health Data Interoperability
+mHealth Closing Knowledge Gaps for Chronic Disease Management
+WY population health program cuts ER visits, readmissions
+PCCI, UTSW get funding for clinical translational research
+HL7, ONC Seek Entries for C-CDA Data Visualization Challenge
+50% of Physicians Not Satisfied with Patient Data Access
+Big data analytics, population health combine to improve quality
+Interoperability, Data Exchange Help Transform Post-Acute Care
+Desire for Predictive Analytics Outpaces Hospital Investment
+Frequent 30-day readmission patients skew younger, study says
+HIM, healthcare analytics staff bringing in big salaries
+Epic Tanks on EHR Usability, Interoperability Scores for EDs
+Informatics, Machine Learning Accelerate Pharmaceutical Discovery
+CVS to Charge More for Prescriptions Filled at Tobacco Sellers
+Machine Learning, EHR Big Data Analytics Predict Sepsis
+Incomplete Population Health Data Exacerbates Care Disparities
+Ore. Coordinated Care Organizations Backed by Analytics, HIE
+Analytics is most effective when used at the point of care: Q&A
+How to Close Gaps between ACO Measure Sets, Clinical Practice
+athenahealth lends analytics power to furloughed CDC
+Last Minute ICD-10 Testing, Preparation Tips for Providers
+Poor Communication Hinders Population Health Management
+Mismatched Symptoms Call EHR Data Integrity into Question
+Big Data Analytics, Genomics to Spur Collaborative ALS Research
+Predictive, clinical analytics at MGH turn data into insights
+Despite EHR Patient Portals, Providers Still Charge for PHI
+How to Build a Successful Big Data Analytics Program in Healthcare
+How Healthcare Big Data Analytics Drives Systematic Improvement
+IoT, Analytics, HIM Push Healthcare IT VC Market Past $5B
+Online Patient Engagement Spikes When High Costs Are Involved
+ONC Needs Input on MACRA Interoperability Measurement Program
+Device Registries Support Use of Unique Device Identifiers
+Docs “uncomfortable” testing, treating kids with genetic issues
+AMA: Big Data Analytics is the Next Phase of Health IT Adoption
+Providers can leverage HIT infrastructure to track population health, target interventions to high risk patients, and improve emergency preparedness and response.  When providers serving patients displaced by disasters continue to have access to their health information regardless of location, they have a better chance of making better decisions that may save lives. “It is important that national HIT initiatives are effective in assuring that certified EHR and other innovative HIT tools are disseminated fairly to primary care providers who treat underserved populations for the improvement of patient engagement and clinical outcomes to help eliminate health disparities,” the post concludes.
+Tagged Care CoordinationChronic Disease ManagementClinical IntelligenceEHR AnalyticsEHR UsePopulation Health Management
+
+

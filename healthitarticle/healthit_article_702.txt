@@ -1,0 +1,20 @@
+CPT, SNOMED-CT Codes Ally to Boost Healthcare Data Integrity
+
+October 28, 2016
+
+By Jennifer Bresnick
+October 28, 2016 - The American Medical Association and the International Health Terminology Standards Development Organisation (IHTSDO) are engaging in a new collaborative agreement that will result in increased data integrity and better integration between two of the most widely-used coding standards in the world.
+“We are excited about this new work,” said IHTSDO CEO Don Sweete. “This new agreement focuses on specific projects to develop products that will benefit from the granularity and sophisticated structure of SNOMED-CT, and the broad utility and adoption of CPT.”
+The Current Procedural Terminology (CPT) codes are vital to healthcare billing and classification in the United States, while SNOMED-CT serves as the international standard for clinical terminology. 
+Additional code sets, including LOINC and ICD-10, are also used to aggregate and standardize data on diagnoses and procedures, but translating between the systems required complicated cross-mapping algorithms that may not adequately capture all relevant information. 
+Dig Deeper
+Google DeepMind: Blockchain Can Ensure Health Data Integrity
+56% of Hospitals Lack Big Data Governance, Analytics Plans
+Preventing Big Data Pain Points During a Healthcare Encounter
+Healthcare data integrity may be at risk when one-to-one mapping is not available, limiting the data’s usefulness for research across international lines.
+The AMA-IHTSDO collaboration aims to improve integration between CPT codes and SNOMED-CT, by producing tools for physician practices, hospitals, payers, and other stakeholders to help better organize healthcare data.
+“IHTSDO and the AMA view this collaboration as an important step toward increasing the coordination and integration of our terminology products to shape a better health care system,” said AMA CEO and Executive Vice President James L. Madara, MD.
+“We intend to use this collaboration as a foundation to achieve our shared goals of increased responsiveness to market needs and greater innovation through improved interoperability among ours and related terminologies.”
+Tagged Data IntegrityHealth Information ManagementHealthcare Data Governance
+
+

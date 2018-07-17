@@ -1,0 +1,39 @@
+Health Data Analytics a “Competitive Differentiator” for Payers
+
+July 18, 2017
+
+By Jennifer Bresnick
+July 18, 2017 - A robust and wide-ranging big data analytics strategy can be a “competitive differentiator” for health insurance payers seeking actionable insights to help them succeed with value-based care, says a new survey by Deloitte.
+Two out of three poll respondents, mostly representing large health plans, stated that leveraging health data analytics is a top priority as they work to lower costs, provide increased transparency into decision-making, and stay ahead of the curve as they transition to pay-for-performance contracting.
+A third of participants said their organizations are planning to significantly increase their spending on analytics tools and infrastructure in the next three years, with a special focus on managing utilization rates and improving the customer experience.
+Care management, population health management, and value-based care preparation are also high priorities on the clinical side, while regulatory and compliance issues, strategic positioning, products and pricing, and back-office operations are also receiving attention in the administrative sphere.
+Source: Deloitte
+Only seven percent of respondents said they would be taking any money away from their analytics efforts, largely due to the fact that their data-driven initiatives have quickly born measurable fruit.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+One participating plan used its big data to develop personalized consumer profiles that helped target outreach strategies based on the individual’s preferences and values.  The plan used these profiles to close more than 350,000 gaps in care for its members. 
+Another accrued more than $2 million in annual cost-avoidance savings by identifying readmission patterns and referring frequently hospitalized patients to dedicated care managers. 
+“Many analytics leaders we spoke with have utilized high-value use cases to demonstrate the proof of value and/or return on investment as they present the business case for analytics to their leadership,” explained Deloitte. “All of the health plan representatives we interviewed see a well-developed analytics capability as a basic business necessity.”
+Since analytics can basically “sell themselves,” the report said, it has not been difficult for most payers to convince their executive leaders to pursue data-driven projects.  Only seventeen percent of payers ranked “C-suite sponsorship or leadership” among their top three challenges.
+More pressing concerns include access to skilled staff – a top issue for 18 percent of payers – and data quality, which ranks among the top barriers for a whopping 60 percent of respondents.
+READ MORE: 93% of Payers, Providers Say Predictive Analytics are the Future
+Only 20 percent of payers have a “high functioning data governance” plan in place, Deloitte says.  Forty percent have some guidelines, but mostly only for critical enterprise data assets.
+“Data governance is important because poor data can result in incorrect analysis or erroneous conclusions,” the report reminds organizations. “Stakeholders will often question the validity of analytics results, and proving to them that the data are clean and valid helps alleviate some of their concerns.”
+Funding, culture and politics, data ownership, and implementing meaningful tools and technologies also made the list of major obstacles. 
+Yet despite the struggle to leverage tools and technologies, most payers are keeping their initiatives in-house at the moment.  They would prefer to hire teams to manage everything from data preparation and algorithm development to business intelligence reporting than rely on third-party partners for these tasks. 
+Interestingly, payers seem eager to keep as much of the foundational data science as possible under their own control, and are most likely to seek outside help to create reports once the information is cleaned and analyzed.  
+Source: Deloitte
+READ MORE: Top 10 Challenges of Population Health Management
+Despite a number of payers stating that qualified talent is scarce, the majority of respondents do already have the makings of a strong data analytics team.  Sixty percent have hired an analytics designer, allowing them to keep those first steps in-house, while just under half can boast a visualization developer.
+Forty percent have a data scientist at hand, with another 21 percent planning to add an expert within the next three years.
+Payers will need to continue to develop their data savvy staff members are they move into adopting more advanced big data analytics tools, including those that leverage machine learning and cognitive computing. 
+A third of respondents said they were already using cognitive computing tools, with an additional 44 percent considering adding these capabilities within the next three years.
+“In our interviews, we heard excitement and skepticism about cognitive computing, and also differences in understanding of the terms ‘cognitive,’ ‘machine learning,’ and ‘artificial intelligence,’” said the report.
+“We believe that health plans should at a minimum explore how to begin introducing these technologies, tools, and approaches into their analytics ecosystems. Analytics is a core competency for the industry and thus, health plans could benefit from ensuring they are investing for the future and staying on top of how advanced analytics and big data will drive differentiated insights today and in the years to come.”
+Deloitte urges payers who feel unprepared for big data analytics to begin addressing their foundational skills and competencies immediately. 
+In order to succeed as an insight-driven organization, health plans should start by generating enthusiasm for health data analytics at the executive level and secure an executive champion to oversee quick-win pilot projects that can prove the value of data.
+Executives should be involved in setting analytics priorities for the organization, whether in the clinical, operational, or administrative environments.  The organization can then align its short-term competencies with longer-term business strategies to meet current and future business needs.
+“Organize thoughtfully,” Deloitte suggests.  “Define an operating and organizational model that will best enable analytics within your organization, balancing business intimacy/ agility and economies of scale/competency amongst scarce resources. Align governance, processes, and teams to promote re-use and collaboration in building analytics and promoting knowledge sharing.”
+“Analytics is more than just technology and tools. An effective insight-driven organization can focus on all of the above areas to begin the data and analytics transformation to drive better insights into executive decision-making across the company.”
+Tagged Analytics InfrastructureClinical AnalyticsHealth Information ManagementHealthcare Data GovernanceHealthcare PayersValue Based Care
+
+

@@ -1,0 +1,60 @@
+Natural Language Processing, Voice Tools Offer Solutions to EHR Woes
+
+May 21, 2018
+
+By Jennifer Bresnick
+May 21, 2018 - Artificial intelligence and machine learning are relatively new additions to the tools and applications that now power a large portion of the healthcare industry, but some providers have been using aspects of these strategies for much longer than they may realize.
+Voice recognition tools, which are primarily used to dictate reports and clinical notes into the EHR, have become a mainstay technology for providers in certain diagnostic disciplines, including radiology and pathology. 
+Speech-to-text application are also rapidly growing in popularity among clinicians practicing in the inpatient setting and in primary care.
+These applications rely upon natural language processing (NLP), a type of machine learning, to turn sound into text. 
+Machine learning is also employed to identify meaningful data elements within that text, such as the name of a medication and the numerical dosage that is associated with that drug. 
+R. Hal Baker, MD, CIO, Senior VP of Clinical Improvement
+Source: Xtelligent Media
+READ MORE: What is the Role of Natural Language Processing in Healthcare?
+For many healthcare providers, including those practicing at Pennsylvania-based WellSpan Health, natural language processing tools can be a game changing option for interacting with the electronic health record.
+“Voice recognition can help move the EHR from its necessary function as a documentation tool for the business of medicine into a communication tool for the practice of medical care,” said R. Hal Baker, MD, Chief Information Officer and Senior VP of Clinical Improvement at WellSpan.
+“The two functions are intertwined, but they are also distinctly different.  Voice tools and natural language processing make sure that our providers can convey meaning and context using the full breadth of the English language without succumbing to many of the challenges we often see with EHR use.” 
+No matter how slick the interface or how intuitive the workflow is designed to be, there is something of an inherent flaw in asking nurses, physicians, and other providers to undertake multiple complex tasks at the same time. 
+Providers are expected to give their undivided attention to the patient while simultaneously synthesizing the input into a diagnosis or treatment protocol and transcribing everything into a perfect narrative – all within the ten or fifteen minutes scheduled to address what often turns out to be multiple concerns.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+“Everyone’s capacity for attention is limited,” stressed Baker.  “That’s why we tell people not to text and drive.  You simply cannot stay focused on both tasks at once, and one is a lot more critical for safety and getting where you’re going than the other.”
+“Texting and treating is exactly the same.  You’re asking a provider to manage two discordant tasks at the same time.  They compete for focus, and as a result you’re going to miss important parts of both.”
+Few other professions require such competence with multitasking, he added.
+“I know very few board chairs or senior executives who try to type notes when they’re running a business meeting,” Baker said.  “It’s not what they’re in the room to do.  It’s the same with healthcare providers – being able to sit at the keyboard and type notes is very rarely what attracted these people to medical school or nursing school.”
+The result is often disillusionment with healthcare as a calling, and a daily battle with burnout. 
+READ MORE: Health Information Governance Strategies for Unstructured Data
+Nationally, burnout is reaching epidemic levels, with one recent survey indicating that 83 percent of healthcare organizations are struggling with how to keep their providers from feeling overwhelmed by documentation requirements and administrative burdens.
+“Time has turned into the currency of healthcare in the modern era,” Baker said.  “Right now, the amount of time spent looking at a screen and clicking a mouse is becoming unsustainable.  We need to start employing new strategies to solve the problem.”
+Voice recognition tools can be an important component of that new approach.  “The promise of voice recognition goes beyond dictating clinical notes as a replacement for typing or hand-writing them,” he said. 
+“In a perfect world, we’ll be able to have a narrative conversation without even thinking about how it’s being recorded.”
+At the moment, natural language processing tools are not quite sophisticated enough to completely replace traditional interactions with the EHR, but Baker believes they are not all that far off. 
+“Products like Alexa, Siri, and Google Home have shown us that voice recognition with AI behind it can do a pretty good job of following verbal instructions,” he asserted. 
+“As the industry refines those capabilities, it’s becoming much less of a leap to think that I’ll be able to say, ‘We are going to put Mrs. Smith on 500mg of amoxicillin, four times a day for seven days.  Send that prescription to the Walgreens on Queens Street.’”
+The meaning of those two sentences is relatively simple, and existing virtual assistants may be able to carry out such a directive – assuming they achieve HIPAA compliance in the near future.
+“But if I were to enter that order into the EHR myself, it would take me somewhere between 8 and 15 clicks and several keystrokes,” Baker pointed out. 
+“It would be a major benefit to my relationship with my patient if I could simply say that sentence out loud, confirm it with the patient, and continue our conversation without losing my focus on the person in front of me.”
+The industry is only at the very beginning of being able to achieve that vision, but voice tools and NLP are already improving the patient-provider relationship and reducing frustrations with the electronic health record.
+At WellSpan, the combination of Nuance voice recognition technologies and an Epic EHR installation is fostering more natural and equitable conversations between patients and their clinicians.
+“The goal is to do things with the patient, not to them,” said Baker.  “I’m a primary care provider by background, and when I dictate my notes in front of the patient, he or she gets to hear what I’m saying and make sure that it’s correct.  If I’m wrong, I can just go back and fix the error right there with their confirmation.”
+“It’s a much more cooperative approach – not to mention a more efficient one.  I can talk to both the record and the patient at the same time, so I don’t have to walk out of the room and recount the entire visit again at some later time.  That lets me spend a greater percentage of my time in the patient’s presence.”
+WellSpan complements its collaborative approach by participating in OpenNotes, which gives patients the opportunity to access their entire record through a patient portal at their convenience.
+“We find that being transparent with the patient from the beginning of the documentation process is a significant benefit,” noted Baker.  “People feel more invested in their care, and even more confident in their provider and their data because they participated in the process of creating their own record and they have experienced their provider listening to them.”
+“Patients have a baseline expectation that they’re being listened to, but there are a lot of situations where that isn’t completely evident.  It’s very clear that they are the provider’s priority when they’re hearing their story repeated back to them.  It’s a much different experience than asking the patient to wait quietly while the provider puts his head down and types for five minutes.”
+Providers and patients aren’t the only ones who benefit from voice-based dictation tools.  The documentation itself is often of higher quality, and may be more useful for analytics downstream. 
+“When you ask someone to fit a story into a form, you are going to lose part of the essence of the narrative.  There are times when point-and-click is very good for collecting data, but it’s not the only way we should be creating documentation,” he said.
+“No one writes a novel by pointing and clicking through a template, and I doubt anyone would want to read one that was written that way.  It constrains the readability and accuracy of the ideas you’re trying to convey, and it doesn’t allow for the provider to share their thought process with the next person who’s interacting with that documentation and that patient.”
+Allowing natural language processing tools to identify important elements within the text and extrapolate those into structured data formats allows providers to interact more naturally with the EHR without sacrificing on data quality, Baker said.
+What about human medical scribes?  They too have been growing in popularity among providers who want to reduce the cognitive strain of multitasking without waiting for virtual assistants to gain more advanced abilities.
+The American College of Medical Scribe Specialists estimates that the profession is poised to see explosive growth. 
+Approximately 15,000 scribes were working in hospitals and ambulatory settings in 2015, the organization said.  But by 2020, that number is anticipated to rise to around 100,000 as clinicians seek extra help with documentation requirements.
+“Scribes can be a very viable option,” Baker readily acknowledged, “especially because humans still have a better ability to interpret subtleties of language than a virtual assistant.  Scribes have been used effectively in several settings to improve the efficiency of providers, and they can play a valuable role.”
+“But I believe the patient-provider dynamic subtly changes when there’s a third person in the room,” he added.  “The sense of confidentiality changes, through no fault of the scribe themselves.  You could think about utilizing a human scribe remotely, through video or audio, but then you are running into new questions of data privacy and security, not to mention infrastructure investment.”
+Scribes are also only human, he continued, and run the same risks of being distracted as the provider.
+“In contrast to people, computers are eternally vigilant,” said Baker.  “They don’t accidentally tune out; they don’t think about what’s for lunch.  Computers might make mistakes, but we can go back into the records and look at exactly what the mistake was and why it was made – and we can improve their programming so that they won’t make that mistake again.”
+“It would be a very different world if we could do that with humans, but we can’t.  So there’s an advantage there to using virtual assistants or ambient computing devices that can take some of the variability out of the equation.”
+The healthcare industry still has some work to do before voice-activated virtual assistants are a routine member of the care team, but natural language processing tools are already helping many providers have less stressful interactions with their EHRs. 
+“Voice has untapped potential to keep improving the provider experience, as well as the patient experience,” said Baker. 
+“I believe this is a very good place to be putting the creative energy of healthcare, because provider exhaustion and burnout are affecting nurses, physicians, and just about everyone else involved in care right now.  We need creative solutions, and I firmly believe voice-based tools are going to be a major part of that process.”
+Tagged Ambient computingAnalytics InfrastructureEHR BacklashInterviewsNatural Language ProcessingPatient EngagementProvider burnout
+
+

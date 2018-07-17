@@ -1,0 +1,67 @@
+Adult Vaccine Project Produces Population Health Best Practices
+
+February 01, 2017
+
+By Jennifer Bresnick
+February 01, 2017 - The majority of patients know that vaccines play a critically important role in population health management by protecting children against serious communicable diseases.  But fewer realize that regular adult immunizations are similarly effective for preventing influenza, meningitis, shingles, tetanus, and certain types of pneumonia.
+Adult vaccine rates are drastically lower than their pediatric counterparts, even in populations considered at higher risk for bacterial pneumonia or developing life-threatening complications from the seasonal flu.  
+Dr. Christina Taylor, Chief Quality Officer, Internal Medicine
+Source: The Iowa Clinic
+Pneumococcal vaccine rates among adults aged 65 or older, for example, currently sit around 60 percent, well below the Healthy People 2020 target of 90 percent or higher, leaving vulnerable patients exposed to preventable harm.  Approximately six percent of the one million seniors who contract pneumococcal pneumonia each year end up dying from the disease.
+The American Medical Group Association (AMGA) decided to address these opportunities for improvement by enrolling seven provider organizations in its Adult Immunization Learning Collaborative with the goal of boosting vaccination rates and developing best practices that could be shared across the industry.
+At The Iowa Clinic (TIC), Dr. Christina Taylor, Chief Quality Officer for Internal Medicine, was charged with leading her peers in an effort to raise adult immunization rates and reduce the downstream impacts of preventable disease. 
+READ MORE: Which Population Health Companies Get Top Marks for Value?
+Using a combination of big data analytics, process improvements, and data-driven patient engagement strategies, Taylor and her team were able to raise pneumococcal vaccine rates significantly among high-risk patients while developing core population health strategies that can be applied to a number of different quality improvement initiatives in the future.
+BUILDING SUPPORT FOR ADULT VACCINATION RATE IMPROVEMENTS
+“We knew we had a strong clinical case for why vaccines are important,” Taylor told HealthITAnalytics.com.  “The more vaccines you give, the more likely you are to protect patients from serious illnesses, obviously.  This is one instance where it is very clear than an ounce of prevention is worth many, many pounds of cure.”
+In addition to reducing the burden of disease on patients who would rather stay healthy, vaccines can save some “serious dollars” for the healthcare system as a whole, Taylor added.  
+Currently, patients with pneumococcal disease rack up $3.5 billion in direct medical costs each year, AMGA says, and patients over 65 account for the vast majority of spending due to preventable hospitalizations.  
+Target adult vaccination rates for pneumococcal and flu vaccines
+Source: AMGA
+“Value-based care is all about spending money wisely, and about preventing disease or catching disease early,” she said.  “If you can administer vaccines to people at an appropriate rate, you’re reducing the disease burden on patients and on the healthcare system, and you’re reducing costs for everyone.”
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+“From a cost perspective, vaccines are incredibly efficient, and even though there are a lot of urban myths out there, you’d be hard pressed to find a real case against them.”
+Despite recognizing the value of vaccinations, however, TIC providers had room to improve their actual delivery rates.  Data from the pre-intervention period found that 55.5 percent of patients 65 and older received at least one pneumococcal vaccine, while just 11.5 percent high-risk patients younger than 65 were vaccinated against the disease.
+“It’s always a bit humbling to see your initial data, because you realize you’re not performing as well as you could be,” she admitted.  “But it’s important to recognize that and start off with good benchmarking data, even if it means you have a lot of work to do.”
+GATHERING THE TEAM TO IMPLEMENT QUALITY IMPROVEMENT STRATEGIES
+Participation in the AMGA project brought in $15,000 in funding to support improvements in provider education and help the team architect strategies for identifying and reaching out to patients at the appropriate juncture.  
+“Vaccines were not necessarily a part of every visit, and they didn’t necessarily have to be,” said Taylor.  “But we had to figure out where to fit them into the preventative care process.”
+READ MORE: How to Get Started with a Population Health Management Program
+“When should we pay attention to them and how should we do that?  Should they be integrated into the yearly physical or into some other part of the process?  Adults see doctors at different times for different reasons than children do, so there need to be different strategies for addressing those needs.”
+To ensure that the project benefitted from the input of every stakeholder who could inform those decisions, TIC assembled a multidisciplinary team.  In addition to Taylor, the Chief Quality Officer, the organization brought together its Chief Medical Officer and Director of Care Management and Quality as well as a care manager, directors from each division, and physicians from internal medicine, family medicine, cardiology, OB/GYN, and pulmonology.
+“You have to make sure that you have the right people on your team,” Taylor said.  “We made sure we had an administrative leader and a clinical leader, and you also need to have someone who understands the data – so we had an analytics director helping with this.”
+“That person understands what we can report on and what we should report on, and then they’re responsible for getting that information where it needs to go.  We also brought in operations staff who are in charge of nursing, as well as more clinical folks in all of the relevant departments.”
+Source: AMGA
+The team met to review current practices and discuss methods for improvement using national data, including guidelines from the CDC and the Advisory Committee on Immunization Practices (ACIP), to inform their next steps.   
+“We started to ask every patient during flu season whether they had gotten their vaccine,” explained Taylor.  “If not, it was offered and hopefully given.  With patients over the age of 65, we also asked about their pneumococcal vaccine.”
+TIC also made an effort to provide more opportunities for patients to hear about their eligibility for vaccines and receive the treatment if they desired.
+“One of our strategies was to expand the sites where we administered vaccines,” Taylor said.  “Our cardiology department, for example, hadn’t been doing that, so we added them as an option.”
+“We also went around to all the departments administering vaccines and made sure that their nursing staff members were comfortable with the process.  Nurses all receive the same training early on in their education, but as they specialize and move into different areas of care, they might not have done vaccines for quite a long time.  So we made sure everyone had a refresher.”
+LEVERAGING BIG DATA ANALYTICS AND RISK STRATIFICATION TO CONDUCT TARGETED OUTREACH
+Staff education was only the first part of the battle, however.  Even though providers had a better understanding of when and where they should contact patients, they had to make sure that they were getting that information to the right people.
+In order to identify the patients who could most benefit from flu and pneumococcal vaccines, TIC turned to the task of fine-tuning its risk stratification and reporting capabilities.
+“All of the healthcare organizations involved in the project had an electronic health record, so it wasn’t as if we couldn’t get access to the information about which patients had had their vaccines,” said Taylor.  “The provider could see that data, but we couldn’t develop a system-wide or site-wide report to figure out who is meeting those measures and who isn’t.”
+“Maybe there is a specific provider or clinic that’s doing a great job, and maybe there’s someone that needs more reminding.  We needed analytics to see where our deficits were so we could figure out how to focus our efforts.  We also needed to develop special processes for high-risk patients under the typical age threshold who should get the pneumococcal vaccine.”
+CDC and ACIP clinical guidelines state that younger adult patients with immune deficiencies, kidney disease, chronic heart and lung conditions, and sickle cell disease should also receive the vaccine, but flagging these patients required a more sophisticated analytics approach than just looking at the patient’s date of birth.
+As part of the AMGA’s collaborative plan, participants received access to data analytics tools from Optum.
+“Using our data, Optum developed a list of high-risk patients based on the patient’s diseases or diagnoses,” explained Taylor.  “We then cross-referenced that list with our EHR and information from the state immunization registry to see if those patients had already had the proper vaccines.  If not, they made the list for our outreach program.”
+Providers used a combination of automated and manual outreach strategies to contact these high-risk patients.
+“If the patients were signed up for our FollowMyHealth patient portal, we sent them an automated message notifying them that they were at risk for certain diseases and urging them to call their doctor and learn more about getting the appropriate vaccines,” Taylor said.  “I would say about 25 percent of the people contacted through this method called back in.” 
+More than 13,000 high-risk younger adult patients received emails through the program in August of 2015.  By the middle of September, seven percent of that group ended up receiving at least one pneumococcal vaccine.
+Using an automated messaging system to take a first pass at contact helped to reduce the number of calls nursing staff needed to make to individual patients.
+“For people who weren’t signed up on the portal – particularly those on the high-risk lists, we did reach one to those people over the phone,” Taylor noted.
+“You can’t call 15,000 patients by hand, but you can focus on a list of about 500 over a period of a few weeks.  Without the analytics tools that helped up prioritize those patients, we wouldn’t have been anywhere near as effective.”
+APPLYING THE LESSONS LEARNED TO OTHER POPULATION HEALTH MANAGEMENT PROJECTS
+Across the collaborative, participating providers increased their pneumococcal vaccination rates in senior patients from 4 to 34 percent, representing an additional 190,000 patients who potentially avoided serious illnesses.
+At the Iowa Clinic itself, the senior citizen vaccination rate jumped to 77 percent, while the rate for high-risk younger adults increased by 10.8 percent to a rate of 22.3 percent.  Among the seven organizations participating in the AMGA collaborative, TIC saw the highest rates of improvement.
+Source: AMGA
+Taylor credits TIC’s success to a strong team effort and a robust reporting system.
+“The fact that we reported on our progress every week was instrumental in getting these results,” she said.  “That level of dogged persistence is really necessary if you’re trying to implement something new or a process that is high priority.  It was a great lesson for us about what worked.”
+All participants received weekly printouts of their performance, Taylor said, and also had access to data on how their peers were progressing.
+“It brought in a little bit of friendly competition – not just between providers at the same site, but between clinic locations as well,” she said.  “We think it’s important that everyone gets to see all the results. It gave people a motivation to come together and brainstorm methods that would help them do better and keep pace with their peers, which is a great element to add to a quality improvement program.”
+“Transparency is key when you’re dealing with any sort of data-driven program.  That was a great positive lesson for us.  If you want to perform at a higher level, you need to have good measurements around that that means and you need to get it in front of people in a frank and transparent manner.”
+TIC is aiming to integrate these strategies into other quality improvement programs, and hopes to see similarly positive results from its efforts.
+“We’re now working on applying that same level of transparency to multiple other areas, whether that’s customer service, other clinical projects, or operational initiatives,” Taylor said.  “It’s not just about regular reporting, but about conducting that regular reporting transparently so that everyone stays involved and motivated.”
+Tagged Analytics InfrastructureBest PracticesCare QualityChronic Disease ManagementInterviewsPatient EngagementPopulation Health Management
+
+

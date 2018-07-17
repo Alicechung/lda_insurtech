@@ -1,0 +1,16 @@
+NovuMind Showcases Its First AI Chip NovuTensor At CES2018
+
+18 Jan 2018
+
+At the Consumer Electronics Show in Las Vegas, NovuMind continued to attract people’s attention with its first AI chip NovuTensor.
+“Designed for artificial neural networks by only using very small (3×3) convolution filters, NovuTensor runs on a 15 teraflops of performance (ToP) under 5 watts.” Said Mike Li, IC engineering VP of NovuMind, “with such top-ranking performance, it is expected to apply AI technology to be truly omnipresent in a near future.”
+The test result at CES 2018 shows NovuMind AI Chip’s great power-efficient performance.
+At NovuMind’s CES booth, people are very much impressed by the showcase powered by NovuTensor. Through AI processing, NovuMind can make any source image packed into super high-quality 8K image. NovuMind Super-Resolution can intelligently create even micro details, reduce image noise and make it sharper through deep neural networks. Up to now there are well-known international  manufacturers already reached to NovuMind for cooperation.
+Another showcase is that with NovuMind’s full stack AI technology support, West China Hospital of Sichuan University announced the first global artificial intelligence digestive endoscope in the middle of 2017.  According to the data published by West China Hospital, the accuracy rate of detection reached a high level of 92% – 96%, which is even better than human doctor.
+Dr. Ren Wu
+With the mission of embedding power-efficient AI everywhere, Dr. Ren Wu, founder & CEO of NovuMind, formerly a distinguished scientist at Baidu, began to start NovuMind in August 2016. Now, with a 50+ top scientists and engineers team, NovuMind brings their new chip to CES 2018.
+NovuMind not only provides high performance and low power AI chip, but also provides NovuStar, a supercomputer specially designed for AI, and NovuForce, a distributed AI training platform that delivers near-linear scalability, industry leading performance and state-of- the-art accuracy. “Our products are like brains that sense, process, react and adapt to the environment and interact with the rest of the world – intelligently.” Dr.Wu said.
+At the largest consumer electronics exhibition in the world, NovuMind stands out of many high technology companies with its AI chip, which was praised by media as the next-generation innovation ASIC.
+After raising $15.2 million in series A funding in December 2016, NovuMind is raising another new round of financing. It is revealed that NovuMind’s FinFET ASIC is expected to launch in mid-2018.
+
+

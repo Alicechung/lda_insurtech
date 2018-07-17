@@ -1,0 +1,57 @@
+Cryptocurrency: Breaking the Silence
+
+April 16, 2018
+
+Jon Dawson, Manager at haysmacintyre for The Fintech Times.
+
+ 
+
+ Whether you believe in the power of blockchain technology or see it as the next ‘Dutch tulip bubble’ there is no doubt that Bitcoin and other Cryptocurrencies (CC) are having an impact around the world. According to predictions made by Santander, blockchain technology could cut banks’ infrastructure costs by up to $20bn by 2022 and Santander aren’t the only global bank taking the technology seriously.
+
+ Studies predict that in 2018 one third of millennials in the UK will invest in CC and The Telegraph recently suggested that ten of the biggest organisations across the world are “Bitcoin Billionaires, potentially including the FBI” – it’s easy to see where the hype is coming from.
+
+ With most governments and professional bodies yet to provide specific guidance, individuals and organisations are having to adopt what they consider to be appropriate accounting policies and calculate the tax treatment of transactions and holdings. Here are some of my thoughts:
+
+ Tax effects of Cryptocurrencies for individuals:
+
+ 2017 may be for many, ‘the year I re-mortgaged my house and invested in Bitcoin off the back of a conversation I overheard from someone in the pub’. For many individuals, the tax year to 5 April 2018 will provide even more challenges when it comes to self-assessing.  HMRC say it “will be looked at on a case-by-case basis, taking into account the specific facts. Each case will be considered on the basis of its own individual facts and circumstances.” – a view not considered by many to be the most helpful piece of advice ever given…
+
+ HMRC then go on to say in the same article that if a transaction is highly speculative, it’s not taxable, as in the case of gambling; they may come to regret this assessment in their article dated March 2014 (before the Bitcoin boom). We expect for most individuals, CC held as speculative investments will be subject to Capital Gains Tax (CGT), alongside shares, second properties and valuable artwork.
+
+ What is important to note is that CGT only arises when an asset is disposed of. If you acquire CC and do not dispose of it before 5 April, a chargeable gain will not arise in that tax year. For those who have disposed of their CC or transferred to another CC, remember you have a CGT tax free allowance of £11,300 (17/18) which means you only pay CGT on any gains over this. CGT is paid at 10% or 20% depending on whether you are a higher rate tax payer or not.  It’s worth noting that a disposal encompasses payments for goods or services using CC, converting from one CC to another or selling for ‘fiat currency’ (a fiat currency is defined as a legal tender which is backed by the government who issued it).
+
+ 
+
+ Accounting for Cryptocurrencies for companies:
+
+ When looking at the accounting treatment, we must first consider the motive for any transactions. For most companies, CC will be held as a speculative investment (one with a high degree of risk where the focus of the purchaser is on price fluctuations). Neither IFRS nor UK GAAP currently define the accounting treatment of CC and therefore we must interpret the standards to decide where on the Balance Sheet these assets should be held (if at all).
+
+ There are many different opinions and without explicit guidance who is to say which is right? In the absence of guidance the most common place to account for CC held as a speculative investment, is within Intangible Fixed Assets (IFAs).
+
+ IFAs are initially recognised at cost and subsequently amortised, unless it can be argued that there is an ‘active market’ for such IFAs, in which case they can be revalued. One could argue with reason that an active market exists for most common CC and hence the revaluation model could be adopted. If held as an IFA, a gain or loss would only arise within the Income Statement on disposal (whether this be disposing to a fiat currency or an alternative CC).
+
+ Some companies may use CC as part of their working capital, raising sales invoices or paying their staff and suppliers in Bitcoin, as an example. In this case, it likely to be more appropriate to hold the CC as Stock within current assets. Stock is recognised at the lower of cost and net realisable value (NRV) and so if held as stock, the CC should initially be recognised at its value on the date of purchase and then should only be revalued if the value drops below the original transaction value. Any increases in the value would not be recognised and the CC should continue to be held at cost.
+
+ Future transactions using CC (e.g. paying suppliers or staff) will then give rise to a profit or loss based on the value of the CC at the date of transaction and at this point any gains/losses in value will be reported through the income statement and will become taxable as part of the company’s taxable profit or loss for the year.  
+
+ It’s worth noting that there will be other examples of CC transactions such as those who ICO, those who trade CC and investment managers who may hold CC as part of their investment portfolio. These types of holdings and transactions should be investigated on a case by case basis – for further information, please contact fintech@haysmacintyre.com.  
+
+ Tax effects of Cryptocurrencies for companies:
+
+ The tax treatment of CC follows the accounting treatment. This would suggest that if held as a speculative investment, gains and losses on CC will not be taxed until they are realised (i.e. disposed of to a fiat currency or other CC).
+
+ Revaluations would not be taxable. Realised gains on the other hand, will form part of the corporation tax computation and companies will pay corporation tax (currently 19%) on these chargeable gains. Similarly, tax relief will be given to companies who make chargeable losses from the disposal of CC.
+
+ Where CC are held as stock, downwards revaluations are tax deductible. On disposal of a CC, a taxable gain may then arise if the CC is disposed of at a higher value than it was acquired for. Again, companies will pay corporation tax on these gains and would receive deductions at the same rate on losses.  
+
+ VAT:
+
+ If your business is raising or paying invoices in CC, it’s important to consider the VAT implications and we would advise getting in touch to discuss this further – below are some examples of things to consider but this is by no means an exclusive list:
+
+ Everyone has their own view on these relatively new digital currencies but until we hear what the FRC and HMRC have to say on the matter, we are left to interpret and apply current legislation, which can feel like trying to fit a square peg into a round hole.
+
+ I personally believe that Bitcoin is like Myspace and we’re all waiting for Facebook and Twitter to be invented. Bitcoin was the first of its kind but I believe we’re yet to witness the full power of blockchain technology.
+
+ Please contact fintech@haysmacintyre.com for further enquiries.
+
+

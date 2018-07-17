@@ -1,0 +1,40 @@
+Epic, Cerner, More EHR Leaders Agree to Interoperability Metrics
+
+October 20, 2015
+
+By Jennifer Bresnick
+October 20, 2015 - At the KLAS Keystone Summit earlier this month, executives from a dozen major electronic health record vendors have agreed to develop an objective measurement framework for health data interoperability, says a press release recapping the event. 
+Notable leaders in the EHR marketplace, including Epic Systems, Cerner Corporation, Allscripts, athenahealth, McKesson, and GE Healthcare, will use the metrics to establish interoperability benchmarks that complement EHR certification requirements put forward by the Office of the National Coordinator. 
+The effort transcends lines in the sand drawn by private health information exchange initiatives like the CommonWell Health Alliance and Carequality.
+“On October 2, 2015, a broad group of EHR stakeholders, including vendor CEOs and provider CIOs, agreed by consensus to objective measures of interoperability and ongoing reporting,” says a statement released by the nascent coalition.
+“Leaders of 12 different EHR vendor companies proactively stepped forward to have an independent entity publish transparent measures of health information exchange that can serve as the basis for understanding our current position and trajectory.”
+READ MORE: Provider Data Management Offers Payers a Blockchain Use Case
+“Assisted by leading provider organizations and informatics experts, these executive officers knocked down barriers to arrive at measures to improve interoperability for the public good,” the companies continued. “Vendors and providers willingly committed to go arm in arm to work closely with Washington to help alleviate the interoperability-measurement burden faced by the government.”
+Each company sent a top-ranking executive representative to the summit.  In attendance were the following:
+Allscripts: Assaf Halevy, VP Business Development, Solutions Management
+athenahealth: Jonathan Bush, CEO
+Cerner: Zane Burke, President
+eClinicalWorks: Girish Kumar, CEO
+Epic: Judy Faulkner, CEO
+GE Healthcare: Jan De Witte, President & CEO HCIT
+Greenway: Tee Green, CEO
+Healthland: Chris Bauleke, CEO
+McKesson: Jeff Felton, President
+MEDITECH: Hoda Sayed-Friel, EVP
+MEDHOST: Steve Starkey, VP Product
+NextGen Healthcare: Rusty Frantz, President & CEO
+“The consensus on an objective measure is a great step forward for the industry as executives find ways to overcome the complex issue of interoperability,” said KLAS President and CEO Adam Gale. “We are committed to helping the industry leaders work toward a viable interoperability solution, and we will continue to provide energy around the goal.”
+The agreement may come as a surprise to industry observers who have watched EHR vendors scuffle over their various pet approaches to interoperability in recent years, even as calls to delay the stringent interoperability requirements of Stage 3 meaningful use reverberate through the marketplace.   
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+After a damning report on the prevalence of information blocking and a series of stinging hearings in front of the Senate Committee on Health, Education, Labor, and Pensions (HELP) earlier this year, EHR vendors have acknowledged, with various degrees of reluctance, that the free flow of health information across care settings is no longer a competitive disadvantage, but a basic competency that customers will demand from now on.
+The announcement of the agreement came one day before KLAS published its inaugural report on the industry’s efforts to further health data exchange, titled “Interoperability 2015: Are We Lifting Together?”
+“We are shining a light on how both providers and vendors are committed to solving interoperability problems and proactively taking opportunities to improve healthcare,” said KLAS founder Kent Gale. “Having connectivity that allows information to be exchanged easily and without disruption is vital to the patient’s care. We must enjoy that level of sharing as soon as possible. It’s time to make that happen through industry collaboration around a unified goal.”
+Despite the emphasis on cooperation and collaborative progress, athenahealth was quick to publish a press release touting the praise it received in the report for its products and services.  The report taps athenahealth as the easiest system to connect to, but notes that Cerner and Epic are not far behind.
+"Care organizations should be freed to focus on care delivery.  No one person or team at any care organization should be responsible for optimizing technology with extra modules or investments to enable interoperability. That is the job of the technologists serving this industry," said Jonathan Bush, chairman and CEO of athenahealth.
+READ MORE: Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+"athenahealth is proud to be recognized for the connectivity we bring to our customers, but we still have a long way to go,” Bush added. “We are committed to making meaningful information sharing inherent in health care regardless of the IT systems in place.  Information must follow the patient and inform the provider across the care continuum. We will continue to innovate and remain transparent on this very important issue."
+EHR vendors and their provider customers are staring down significant changes to the certified EHR technology (CEHRT) program, as well as the challenges of Stage 3 meaningful use and the Merit-Based Incentive Payment System (MIPS) over the next few years.  Interoperability is seen as a foundational requirement for many of the population health management and care coordination objectives included in these programs, and has featured highly in discussions about the future of the health IT industry.
+How this new agreement will fit into the national interoperability roadmap released by the ONC this month remains unclear, but the collaborative spirit expressed by some of the industry’s biggest names should be an encouraging addition to system-wide efforts to improve the flow of health data across the care continuum.
+Tagged EHR InteroperabilityHealth Information ExchangeHealthcare Data GovernanceInteroperability
+
+

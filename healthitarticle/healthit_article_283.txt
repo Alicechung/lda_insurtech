@@ -1,0 +1,47 @@
+Interest in Genetic Testing Brings Precision Medicine Challenges
+
+November 27, 2017
+
+By Jennifer Bresnick
+November 27, 2017 - Close to two-thirds of consumers would like to take part in genetic testing to better understand their health risks, according to a new survey from Wamberg Genomic Advisors, which could be both a boon and a bother for big data analytics and precision medicine programs.
+While a massive influx of genetic data could help precision medicine analysts identify population patterns, create new risk analytics, and develop innovative therapies for rare conditions, front-line providers may still feel unprepared to address genetic issues and answer a slew of time-consuming questions from individuals who may feel overly anxious about their test results.
+Patients generally have a very positive view of genetic testing, the Wamberg poll of more than 530 consumers revealed. 
+Seventy-five percent of respondents said that genetic testing can help individuals lead healthier and potentially longer lives. Of the 33 percent of participants who had completed a genetic test, half found the results useful for making healthcare decisions.
+The majority of respondents were also willing to pay for testing if they could use their health savings accounts (HSAs) to cover the costs.  The majority would use up to $500 of their savings for a genetic test – four percent were willing to spend more than $1000.
+READ MORE: Precision Medicine Sparks New Conversations about Patient Data
+While 26 percent would not pay for testing if it cost them anything out-of-pocket, only ten percent stated that they have no interest in learning about their personal genetic profile at all.
+The interest in genetic testing bodes well for provider-based biobanking efforts and the national Precision Medicine Initiative’s All of Us research program. 
+Wholly dependent on volunteer donations, All of Us has made a concerted effort to conduct outreach and education, especially among traditionally underserved populations, about the benefits of contributing samples to the effort.
+The high levels of curiosity about genetic testing illustrated in the survey be good news for these projects, which focus on the long-term potential of big data to contribute to filling clinical trials, improving risk assessments, and providing the foundation for research into targeted therapies.
+In the short term, however, patients who wish to be tested or receive concerning results from their genetic tests may run into barriers when trying to understand and address the clinical implications of abnormal findings.
+READ MORE: Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+An accompanying survey from Wamburg found that 16 percent of patients are “confused” by their genetic test results, while an additional 6 percent experienced anxiety or mild depression after reviewing their personal data. 
+Providers may not be prepared to help alleviate distress caused by testing, or to reduce confusion over the implications of understanding an individual’s genetic profile.
+The rapid accumulation of digital health data, coupled with EHR usability shortfalls, the demands of documentation, and the need to pack in more activities into shorter and shorter visits has left many providers feeling as if they do not have enough time to cover the basics – let alone the complex nuances of genetic counseling.
+In addition to the workflow implications, many physicians feel ill-equipped to explain hereditary conditions, deliver informed counseling, or even decide when a referral to a genetic specialist is warranted.
+In 2013, half of pediatricians responding to an American Academy of Pediatrics Quality Improvement Innovation Networks survey said they are not confident about treating children with genetic illnesses. 
+READ MORE: Precision Medicine, Genomics Require Strong Data Governance
+The majority of providers only ordered genetic tests on patients other than newborns about three times a year.
+A March 2017 study published in the journal Pulmonary Circulation shows not much has changed in the past few years, despite the plummeting costs and greater availability of genetic testing. 
+Even specialists in certain conditions, such as pulmonary arterial hypertension (PAH), lacked the working knowledge to understand the genetics of the disease.
+Just 27 percent of the 223 providers participating in the assessment demonstrated adequate knowledge of PAH genetics. 
+Close to 80 percent of provider participants said they rarely or never recommend testing to their patients with PAH, although when patients specifically asked for a test, however, providers were likely to oblige.
+Cost, insurance coverage issues, and the lack of availability of trained genetic counselors were among the top reasons why providers did not order genetic tests, but the study’s authors add that low provider familiarity with the role of genetics in the disease could be contributing to reluctance to receive genetic information.
+The issue is complicated by the growing popularity of at-home genetic testing kits, adds a 2016 study from the Annals of Internal Medicine.
+Providers tend to take a dim view of the usefulness of these consumer-focused tests, many of which are geared more towards highlighting ancestry trends than providing actionable clinical data.
+In a survey of 1026 consumers, 22 percent said their primary care providers displayed a lack of engagement or interest when the results of at-home tests were presented to them. 
+As a result, 18 percent of patients said they were actively dissatisfied with encounters during which they tried to discuss their findings.  Just 35 percent signaled that they were highly satisfied, with the rest hovering somewhere in the middle.
+The Centers for Disease Control and Prevention (CDC) has urged providers and patients to take direct-to-consumer test results with a grain of salt, which may contribute to the mismatch between provider and patient enthusiasm.
+There is little evidence that these tests contribute to better health outcomes or healthier behavior patterns in patients, said Muin J. Khoury, Director of the Office of Public Health Genomics, and genetic red flags do not directly equate to a diagnosis.
+The CDC does, however, point out the need for providers to develop more knowledge about the role of genetics in patient care, especially as targeted precision medicine therapies become more available for a wider number of conditions.
+“While evidence of utility of personal genomic information continues to be collected through ongoing research studies, it is important for professional societies, healthcare organizations, public health agencies and the private sector to improve the level of genomic health literacy of the public,” said Khoury.
+“We all need unbiased information to be empowered to make the most informed decisions about genomic and other tests for our own health.”
+As precision medicine becomes an ever stronger force in the healthcare industry, high demand for genetic counseling expertise is helping to grow the nascent job market for experts who can support providers by delivering education and care planning.
+The US Bureau of Labor Statistics predicts that employment for genetic counselors is projected to grow by 28 percent between 2016 and 2016, more than double the growth rate of the healthcare job sector as a whole.
+With only 3100 recognized genetic counselors employed in 2016, the opportunity for development in the profession is significant. 
+Greater availability of trained genetic counselors could make primary care and specialty providers more likely to refer eligible patients for enhanced testing and offer a support network for providers who wish to learn more about genetics in their area of care.
+The combination of growing patient interest in genetics and the increasingly precise nature of personalized therapies is likely to keep these issues at the forefront of the precision medicine debate for the foreseeable future. 
+How healthcare providers will adapt to these trends remains to be seen, but knowledge and interest in leveraging these new data sources is bound to increase as physicians continue to learn about the burgeoning precision medicine landscape.
+Tagged Clinical AnalyticsGenomicsPatient EngagementPersonalized MedicinePrecision MedicinePrecision Medicine Initiative
+
+

@@ -1,0 +1,29 @@
+Enthusiasm for Cutting Admissions May Harm Medicare Patients
+
+February 03, 2017
+
+By Jennifer Bresnick
+February 03, 2017 - Reducing the number of hospital admissions resulting from emergency department visits is a major cost-cutting goal for healthcare organizations, but Medicare patients may not benefit much from the indiscriminate application of this policy.
+New research from Brigham and Women’s Hospital (BWH) in Boston found that approximately 10,000 Medicare patients die each year within seven days of being discharged from the ED – and hospitals with stricter guidelines about the ED-to-inpatient pipeline were more likely to see higher mortality rates among elderly patients.
+"There's a lot of policy interest in reducing unnecessary admissions from the ED," said Ziad Obermeyer, MD, MPhil, a staff physician in the Department of Emergency Medicine at BWH and assistant professor at Harvard Medical School.
+Dig Deeper
+EHR Big Data Analytics Flag “Frequent Flier” Medicaid ED Visits
+Hospital Readmissions Fall When Big Data Meets Patient Care
+Avoidable Admissions for Long-Term Care Dual Eligibles Down 31%
+"We know that hospitals vary a lot in how often they admit patients to the hospital from the ED, but we don't know whether this matters for patient outcomes."
+Patients who left the ED with a diagnosis of confusion, shortness of breath, or generalized weakness were the most likely to die within seven days of their visit.  Atherosclerotic heart disease, myocardial infarction, and COPD were among the top recorded causes of death, even when excluding patients with known life-threatening illnesses, those in palliative care, and those over the age of 90.
+More than two percent of deaths were related to narcotic overdoses.  Many of those patients were prescribed painkillers after coming to the ED for musculoskeletal problems.
+The study found that hospitals on the lowest end of the admissions scale experienced early death rates 3.4 times higher than those with more liberal admissions policies, even though hospitals with lower admissions rates generally served a healthier population of patients.
+“Our results have implications for ongoing policy efforts to reduce unnecessary admissions from the emergency department,” the study said. “Unless extreme care is taken with selection of patients, these well intentioned efforts could put patients at risk.”
+Rural hospitals and smaller facilities were more likely conduct fewer admissions than academic medical centers, but that does not mean that hospitals with higher admission rates are simply less careful about who they bring into the inpatient setting.
+“If high acuity inpatients were diluted with healthy patients who could have been discharged, inpatient mortality would fall, not rise, with admission rate (unless these hospitals were also killing their inpatients at dramatically higher rates),” the researchers said, but this was not the case.
+“Hospitals with higher admission rates seemed better able to triage high risk patients into hospital admission, rather than discharging them home: discharged patients had lower early mortality rates after visits than over the remainder of the year, while inpatients had higher early mortality.”
+However, the team was quick to point out that the discrepancy may be more related to underlying socioeconomic factors and access to resources than pervasive deficiencies in clinical practice among rural and small hospitals.
+Smaller facilities with fewer dedicated hospitalists may struggle to care for larger numbers of admitted patients, or may not be able to consult with specialists more able to identify warning signs in patients with non-specific symptoms like weakness or confusion.
+In addition, patients in rural areas may be unable to access recommended follow-up services from their primary care providers due to transportation difficulties or lack of a strong relationship with a PCP.
+“While our study could not determine whether admission would prevent these deaths, it is possible that additional testing or monitoring – whether via admission, monitoring at home, or expedited outpatient follow-up – could have benefitted at least some patients,” the team said.
+The study raises more questions than answers, the researchers readily acknowledged, but Obermeyer believes that highlighting these patterns is an important first step towards refining clinical guidelines to ensure that providers are being cost effective yet accurate with their admissions decisions.
+"Access to resources varies dramatically across hospitals.  Obviously not all patients can or should be admitted to the hospital,” he said. “But we need to focus on admitting the right patients, rather than admitting more or less. I'm optimistic that advanced analytics and better data will help physicians with these kinds of decisions in the future."
+Tagged Care QualityEmergency DepartmentHospital QualityHospital ReadmissionsMedicare Spending
+
+

@@ -1,0 +1,25 @@
+Healthcare Big Data Analytics Confuses Half of Providers
+
+April 28, 2015
+
+By Jennifer Bresnick
+April 28, 2015 - More than half of providers are confused by the information collection requirements of healthcare big data analytics, finds the third annual Health IT Industry Outlook Survey by Stoltenberg Consulting. Despite a general sense that engaging in big data analytics is important for success in the current health IT landscape, 51 percent of organizations do not truly know what kind of data – or how much of it – they need to collect in order to generate actionable insights from their information.
+The survey, conducted at HIMSS15 in Chicago earlier this month, revealed widespread consternation and frustration when it comes to healthcare big data analytics and other health IT initiatives that are critical for strategic success. 
+Key results from the poll include:
+• Thirty-four percent of organizations feel a lack of organizational buy-in is the biggest barrier to health IT initiatives. 
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Tech Giants Give Healthcare Artificial Intelligence Start-Ups a Boost
+How Fog Computing May Power the Healthcare Internet of Things
+• Twenty-eight percent of participants highlighted budgetary constraints as a top barrier, while 13 percent cited restricted timeframes as a major reason they are having trouble participating in meaningful use or healthcare big data analytics initiatives.
+• In addition to the 51 percent of organizations that have not been able to define their data collection needs, a quarter of participants said that confusion and ambiguity about federal regulations are preventing their progress. 
+• A third of providers don’t know what to do with the data they have or don’t know what to look for when it comes to analytics.  Ten percent of IT leaders believe the answers simply don’t exist: the necessary tools and strategies to be successful haven’t been devised yet.
+• While 41 percent of participants believe that healthcare big data analytics and business intelligence are the biggest topics of 2015, six percent of organizations are too intimidated by the concept of diving into analytics to even begin trying.
+• Other organizational initiatives like mHealth, ICD-10, and health information exchange are taking a back seat to the desire to squeeze insights out of big data.  Just 12 percent of organizations believe the October 1, 2015 conversion date for ICD-10 is a top priority.
+"Organizations feel they need to jump on the big data bandwagon, yet they approach this emerging issue reactively versus proactively," said Shane Pilcher, vice president of Stoltenberg Consulting. "Healthcare IT leaders should instead focus on collecting smart healthcare data, monitoring what data they're saving, and concentrating on the quality, quantify and validity of data needed to answer future questions for organizations."
+Healthcare organizations that are feeling a little lost may wish to take their cues from providers already seeing success in the healthcare big data analytics arena.  EHRs provide an initial pool of relatively structured, patient data that can be harnessed for clinical analytics, the foundation of population health management and future efforts to engage in operational modeling.  EHR data can also be leveraged into predictive insights that can help to reduce hospital readmissions, improve patient safety, and raise the quality of care.
+Securing executive support for a healthcare big data analytics program is critical for jumpstarting the process of building an analytics team that can convince clinicians that the efforts are worthwhile, establish the necessary infrastructure, and ensure the integrity, completeness, and accuracy of data that will eventually be used for analytics.
+"Ultimately, data analytics is only as good as the data being analyzed. Therefore, adoption is critical among all users along the data collection pathway," Pilcher added. "Identifying early wins in decreasing cost of care and increasing overall patient outcomes is essential to developing confidence and buy-in for an organization's data analytics program.”
+Tagged Analytics InfrastructureBig DataBig Data Analytics
+
+

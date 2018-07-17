@@ -1,0 +1,25 @@
+MS Medicaid Achieves Real-Time Health Data Interoperability
+
+March 09, 2016
+
+By Sara Heath
+March 09, 2016 - A health data interoperability project has enabled the nation’s first real-time health information exchange between the Mississippi Division of Medicaid (DOM) and the University of Mississippi Medical Center (UMMC), the groups announced in a public statement.
+Through a partnership with MedeAnalytics, DOM was able to accomplish a first-of-its-kind feat in health data interoperability. The project began with a program to create an enterprise master patient index (EMPI) and a single patient identifier.
+This process, as well as efforts to get rid of duplicate and superfluous records, yielded a single, longitudinal record for more than 750,000 state Medicaid and CHIP patients. From there, DOM and UMMC were able to exchange patient information across the health system’s Epic EHR.
+This innovation allows DOM to coordinate care amongst its Medicaid patients at a higher level, particularly given that UMMC is the largest provider of Medicaid patients in Mississippi. By increasing health data access for such a high volume of Medicaid patients, DOM and UMMC are able to deliver better quality care, ideally in a more efficient and less costly manner.
+Dig Deeper
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+“As part of our commitment to provide quality health coverage for vulnerable Mississippians, we are proud to have established one of the nation’s first interfaces between Medicaid and Epic to share Medicaid clinical data with the state’s largest Medicaid provider,” said DOM’s executive director David J. Dzielak.
+Both UMMC and DOM hope that their ability to exchange Medicaid beneficiary information will have positive clinical outcomes, allowing physicians and nurses to make well-informed care decisions for their patients.
+“Giving doctors and nurses access to important information such as medications, diagnoses and allergies ensures that they can make the best care decisions for Medicaid patients,” said UMMC’s chief health information officer Dr. John Showalter.
+The increased health data interoperability also has the potential to improve patient safety at a large scale, as providers at UMMC will be able to view patient health records quickly and efficiently, and be able to update patient information with ease.
+“We are excited to have achieved this level of interoperability. Securely exchanging our patients’ data with Medicaid advances our mission to provide the safest, most advanced care for patients across the region,” Showalter continued. “With the ability to access DOM’s patient information at the point of care, we are not only improving patient safety, but are also helping to ensure that the beneficiary’s longitudinal record is always current.”
+Specifically, this innovation has the potential to improve care in three aspects of the hospital, including emergency department care, case management, and care management. Through seamless and real-time exchange of health data, care decisions are able to be better informed, providers can identify referrals, and providers will have better access to health history.
+This project’s benefits also reach further than the walls of the hospital. Because patient information is now digitally stored as a single, longitudinal file, DOM has an increased ability to track the overall health of their Medicaid population and detect population health trends. Now, providers will be able to track immunization trends, trends in tobacco use, and other public health trends.
+Overall, seeing those trends will help providers engage with their patients and provide better care more specific to their patients.
+“After years of working with our technology partners to build a foundation consisting of an EMPI and clinical data repository, we can now instantly share patient summaries with external stakeholders, such as UMMC,” said DOM’s deputy administrator of information technology management Rita Rutland. “This real-time access to beneficiary data will improve insight into beneficiary health trends, empower better care decisions and much more.”
+Tagged Analytics InfrastructureHealth Information ExchangeInteroperabilityQuality Of Care
+
+

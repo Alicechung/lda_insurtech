@@ -1,0 +1,35 @@
+10 steps to cyber security for fintech startups
+
+October 10, 2016
+
+Congratulations! You have the idea for the next great fintech, you have the developers, you have the funding and you are good to go. But how do you avoid the mistakes of others and release an app that won’t break apart at the first attack – possibly taking down your business ambitions and customers’ trust with it? Here are top 10 steps followed by industry leaders that would help.
+
+ To release secure code or to provide a secure online service everyone in your organisation needs to buy into the idea that ‘security is a process’ (Bruce Schneier) and that for the process to work everyone needs to play their part. Lip service won’t do – you really need to care about delivering a trustworthy app or service that won’t let down your users and ultimately your business. A named qualified individual needs to take a leadership role and communicate the importance of security practices throughout the organisation.
+
+ There are many different laws and regulations that businesses need to comply with, however few areas of non-compliance have greater potential for damaging the reputation of your business and offending your existing and potential customers than misusing, abusing or failing to protect their personal information. You need to have a very clear understanding of and policy on personal information and have to take effective steps to implement it.
+
+ You have to go well beyond the customary and usually inadequate generic security awareness courses. To stay ahead of the game your staff need to have the knowledge and skillsets required for the role and a one-size-fits-all solution doesn’t work. You need to ensure that your developers and technical staff have the right skills and that they are kept up to date.
+
+ There are many ways to attack but some attacks are much more likely or have much higher impact than others. Use your business knowledge and professional advice from security professionals to identify a list of Top 10 possible attacks against your app or service to inform the design and implementation of your defences.
+
+ What does this mean? It means stop thinking about security as something you add and start thinking about it as the way you create and provide your product or service. Of course it’s not easy and it doesn’t come free, but it is the only way to get it right.
+
+ Engineering secure systems is a complex challenge, however the 80/20 rule applies. Use industry sources such as OWASP Top 10, CWE, and others to avoid textbook mistakes. Ensure your tailored training links up with these standards and requirements. Print them out and stick them on the wall.
+
+ There is no replacement for security-specific expertise. What may look like an acceptable security solution to someone not familiar with current security threats may turn out to be flawed or inadequate. Get your designs and architecture reviewed by someone qualified and incorporate the lessons learned to improve your future designs.
+
+ Code review may be an expensive and challenging activity – even with the best tools available you are not guaranteed to identify all the bugs in your code. What you can do however is to identify which bugs could cause the most damage to your code and your business and focus specifically on identifying and addressing them.
+
+ Quality assurance testing must include functional security feature testing. Often security features can be tested in a similar fashion to other software features. Security mechanisms based on requirements such as account lockout, transaction limitations, entitlements, etc. should be tested.
+
+ Penetration testing is one of the most important security assurance activities but it is often misused. Penetration testing does not replace any of the other steps nor does a ‘clean’ penetration test report indicate a perfectly secure system or application – but it does provide independent assurance that your code doesn’t fall apart when subjected to attack.
+
+ Edgar ter Danielyan,
+
+ principal consultant at Danielyan Consulting,
+
+ security engineering and penetration testing consultancy specialising in fintech. 
+
+ www.danielyan.com
+
+

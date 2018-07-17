@@ -1,0 +1,19 @@
+WTW adds machine learning to updated Radar 4.0 pricing tool
+
+14th May 2018 - Author: Matt Sheehan
+
+Willis Towers Watson has launched a new version of its Radar pricing software, a product pricing and portfolio management decision tool for re/insurance companies.
+
+Radar 4.0 will for the first time utilise a machine learning technique to allow users to build Gradient Boosting Machines (GBMs), and will support the development of classification models using a new premium rating segmentation approach.
+
+These sophisticated machine learning models will allow re/insurers to more easily identify complex behaviours in a highly visual manner without the need to learn any programming skills.
+
+When paired with Willis’s Radar Live insurance rating software, the pricing tool can also help companies more efficiently achieve financial objectives through enhanced rating and underwriting strategies.
+
+Additionally, Radar 4.0 can be licensed in conjunction with Willis’s predictive modelling software Classifier, which will provide users with access to spatial smoothing so they can better understand changes in behaviour by geography or vehicle distribution.
+
+Michael Freeman, Head of Software and Technology Practice, Asia-Pacific at Willis Towers Watson, said: “In increasingly competitive global markets, Radar 4.0 delivers a simplified and efficient process, greater pricing sophistication, and the latest analytical techniques to support insurers’ top and bottom line growth.”
+
+Willis has also outlined plans to further upgrade its Radar Live software by using enhanced data structures to develop its reporting capabilities within commercial lines environments.
+
+

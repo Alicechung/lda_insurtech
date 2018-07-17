@@ -1,0 +1,26 @@
+NVIDIA Isaac Launches New Era Of Autonomous Machines
+
+12 Jul 2018
+
+Next-Gen Robotic Systems to Be Enabled by Jetson Xavier Computer and Isaac Robotics Software
+Computex—NVIDIA today announced the availability of NVIDIA® Isaac™, a new platform to power the next generation of autonomous machines, bringing artificial intelligence capabilities to robots for manufacturing, logistics, agriculture, construction and many other industries.
+Jensen Huang
+Launched at Computex 2018 by NVIDIA founder and CEO Jensen Huang, NVIDIA Isaac includes new hardware, software and a virtual-world robot simulator.
+“AI is the most powerful technology force of our time,” said Huang. “Its first phase will enable new levels of software automation that boost productivity in many industries. Next, AI, in combination with sensors and actuators, will be the brain of a new generation of autonomous machines. Someday, there will be billions of intelligent machines in manufacturing, home delivery, warehouse logistics and much more.”
+Jetson Xavier
+At the heart of NVIDIA Isaac is Jetson™ Xavier™, the world’s first computer designed specifically for robotics. With more than 9 billion transistors, it delivers over 30 TOPS (trillion operations per second) — more processing capability than a powerful workstation while using a third the energy of a lightbulb.
+Follow Us
+Jetson Xavier has six kinds of high-performance processors — a Volta Tensor Core GPU, an eight-core ARM64 CPU, dual NVDLA deep learning accelerators, an image processor, a vision processor and a video processor. These enable dozens of algorithms to be processed concurrently and in real time for sensor processing, odometry, localization and mapping, vision and perception, and path planning. This level of performance is essential for a robot to take input from sensors, locate itself, perceive its environment, recognize and predict motion of nearby objects, reason about what action to perform and articulate itself safely.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+Isaac Robotics Software
+NVIDIA provides a toolbox for the simulation, training, verification and deployment of Jetson Xavier. This robotics software consists of:
+Isaac SDK – a collection of APIs and tools to develop robotics algorithm software and runtime framework with fully accelerated libraries.
+Isaac IMX – Isaac Intelligent Machine Acceleration applications, a collection of NVIDIA-developed robotics algorithm software.
+Isaac Sim – a highly realistic virtual simulation environment for developers to train autonomous machines and perform hardware-in-the-loop testing with Jetson Xavier.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+Changing What’s Possible for Variety of Industries
+With this level of AI computing power at the edge, autonomous machines can perceive the world around them with superhuman capabilities, detecting and recognizing their surroundings from sensors of all kinds.
+Manufacturing robots can work safely alongside humans and adapt to changes. Logistics robots can efficiently move and manage inventory and deliver products to homes. Service robots can improve the retail experience and assist the sick and elderly.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+
+

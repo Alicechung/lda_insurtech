@@ -1,0 +1,23 @@
+Big Bad Bank Data: The fly in the faster payments soup
+
+February 2, 2017
+
+Digital financial transfers move at the speed of email. The bug in the system is the accuracy of the actual bank data. Wrong email address, email delivery failed. Wrong bank address, in country payment codes, beneficiary details, transfer failed. This, hundreds of thousands of times a day. Entire departments dedicated to dealing with a queue of ‘exceptions’. Bank to Bank transfers include domestic and overseas wage runs, pension payments, client transfers, government transfers, and pretty much everything else involving sending money from A to B.
+
+ Why it’s an inevitable problem.
+
+ Bank identification data is not static. It’s ever changing. And every time it changes, the transfers relying on the data being correct get stalled. How do you know the address data changed until you try to use it? You can’t. It could be a change in a branch address, new IBAN numbers, new BIC Codes, changing of internal rules, changing of external rules, addition of rules, change in regulation, Bank mergers, acquisitions, branch closures, and the list goes on. It’s constantly changing data. Each change has the potential to slow or stall the digital movement of funds, bouncing that transaction into an exceptions queue. These then require manual interventions to correct them. A whole department dedicated to fixing the problems of not validating the correct details before sending. It’s the equivalent of the Royal Mails undeliverable letters department. But it’s not letters, it’s money.
+
+ Clearly this knocks on to the recipient, or rather, nonrecipient. If they are awaiting a payment, which is stalled, they have to start chasing it, probably from the company who has already sent it. A chain of irritation, bad customer experiences, banks charges, and pointlessness then follows. All because a bit of information changed somewhere in the transfer pipeline.
+
+ This is exactly the kind of inefficiency that can’t be solved internally by any of the parties. It’s either a fact of life that it exists, or it’s an opportunity for a single company to collect all the data of the bank addresses, bank rules, in country rules and global account structure rules, then clean that data, manage that data on a daily basis to make sure its clean and accurate, and give companies access to that data in a user friendly way with an open API.
+
+ The fix for this entire problem is to validate the data before the transfer, rather than send the transfer and find the error when it doesn’t work. It’s building quality in, rather than fixing it when it goes wrong. It’s a fundamental principle of creating transfer processes and production lines. Traditional validation is post event. It tells you “no, you did it wrong.” after you already did it. What the solution looks like is a system that tells you it will be wrong, and gives you the fix, before you press send. At The Fintech Times we wouldn’t give you the problem without the solution. It’s called Validate from Apply Financial. As used by Banks, FX Companies, Corporates and Governments.
+
+ Information partner:
+
+ Apply Financial
+
+ 
+
+

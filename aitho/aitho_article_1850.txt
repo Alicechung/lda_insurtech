@@ -1,0 +1,11 @@
+WAAZY – The FIRST AR Short Video Social App Released
+
+25 Oct 2017
+
+Developers in several different industries, such as gaming, tools, and education, have been patiently waiting for the release of ARKit. With the developer community excited about ARKit, it’s only natural for the enthusiasm to extend to opportunities like combining short videos with AR.
+Short videos and AR have been seen together before; however, such collaboration has largely been limited to the front camera’s face effects (i.e. Snapchat’s AR lens), and are generally only seconds-long videos which are more suitable for personal sharing.  Among the sparsely available AR tech leveraging the rear camera, it is apparent that the technology is still very nascent.  For example, only sticker effects can be attached onto video clips recorded through the back camera, vs. the full Snapchat AR lens-style filters available on the front, resulting in a rather disappointing user experience. Hence, such technology has still not been able to attract many users.
+The release of ARKit will solve this problem of limited technology based on camera location: the rear camera can now accurately recognize flat surfaces, track objects, analyze lighting, etc. This has given rise to new opportunities for short videos and AR.
+Exploiting the full ARKit potential, Waazy wants to provide the world’s first platform for the “AR short videos” community. Waazy’s Product Slogan, “create the unreal”, aims to show users that they can easily use their imagination to create videos that are different than ever before. Waazy provides a wide range of special effects based on different themes: fantasy, Sci-Fi, silly, horror, etc.
+Lewis Liu, CEO of EnjoyMobi, states: “We’ve always been finding a specified market; users don’t need another version of Instagram or Youtube, and you can’t establish a good short video community on the grounds of a bunch of rather mediocre videos anyway. You need groundbreaking video-edit experience and content to develop such community.” ARKIT stimulates users’ creativity, and the diversity of videos created shall be guaranteed. They are not simply one-step video models. Waazy can now be downloaded from Appstore. The team is looking at the development of Android ARCore, and planning to join the Android ecosystem in the near future.
+
+

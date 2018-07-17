@@ -1,0 +1,18 @@
+Upskill Releases The Next Generation Of Skylight To Enable Faster And Broader Adoption Of Augmented Reality Within Enterprises
+
+10 Oct 2017
+
+New Platform Capabilities Increase Scalability, Simplify Ease-Of-Use, And Lower Total Cost Of Ownership For Customers Deploying Skylight Across Their Global Business Operations
+ Upskill, the leader in enterprise software for augmented reality (AR) devices, today announces availability of the next generation of its Skylight platform. The new release offers an even more scalable AR solution to support mass deployment of smart glasses across a global workforce, improves user interface (UI) to ease adoption, and adds capabilities that allow rapid creation of new Skylight Applications for faster return on investment and a lower total cost of ownership for customers.
+Upskill’s Skylight R6 at work
+“We are embracing the use of AR and emerging technologies across GE to simplify work and increase safety with hands-free access to just-in-time support,” said Sam Murley, EHS Digital Acceleration Leader at GE – both a customer and investor in Upskill. “The new release of Skylight will allow our teams to further capitalize on the new opportunities the technology presents and enable rapid integration of more use cases across the GE network.”
+For the new release, the most notable capabilities include:
+Skylight Application Builder: A simple, drag-and-drop interface and library of UI cards that allow non-technical personnel to quickly build Skylight Applications based on existing processes. This reduces time-to-market and development costs associated with identifying and piloting new AR use cases across an organization.
+Skylight Connect: A tool that enables immediate, codeless integration of Skylight with common databases and web services. With Skylight Connect, customers can quickly deploy new Skylight Applications that tap into enterprise systems while reducing complexity, support and maintenance costs for IT.
+Skylight SDK: An all new software development kit (SDK) that enables developers to use common programming methods, languages, and toolsets to rapidly build a deeper level of control and customization of Skylight Applications.
+Skylight Live: A comprehensive suite of new live HD video collaboration tools built into the Skylight experience to allow workers to solve issues faster and improve outcomes. Added features include remote camera zoom and capture, and annotation on shared documents and snapshots.
+In addition, starting with the new release, Upskill now offers multiple Skylight product tiers and deployment options to provide organizations with more choices for how to get started and increase usage of AR across their company.
+Joe Fitzgerald
+“Upskill has adapted the platform for scale and ease of use in industrial applications,” said Joe Fitzgerald, principal, Deloitte Consulting LLP. “We work with global clients who are looking to utilize AR technology to help manage complex operations across teams and geographies. Leveraging an AR solution that is enterprise-ready and flexible provides the essential building blocks we need to customize AR applications and workflows on the fly, decrease development cycles and deliver accelerated results.”
+
+

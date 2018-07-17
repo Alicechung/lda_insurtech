@@ -1,0 +1,37 @@
+How to Turn EHR Data into Actionable Big Data Insights
+
+March 07, 2016
+
+By Dan O'Connor, RN
+March 07, 2016 - Electronic health records (EHRs) have been transformative in the healthcare industry, enabling faster patient information access, improved workflow, reduced costs and information sharing.
+Healthcare providers, however, are flooded with big data each day from their EHR systems and are struggling to turn that information into actionable guidance.
+Many providers are leveraging data analytics technology to help transform this data into information they can use to improve care quality metrics and patient outcomes.
+According to a survey from the College of Healthcare Information Management Executives (CHIME), 80 percent of healthcare systems found clinical analytics more important now than in the previous year.
+Of those, 87 percent used clinical data analytics for quality reporting, which has enabled them to compete successfully against other providers in their respective markets.
+READ MORE: AMA: Real EHR Data in Med School Will Boost “Informatics IQ”
+Though it may seem overwhelming to design and implement data management strategies, EHR vendors and third-party firms increasingly provide highly interoperable data capture and analytics components.
+Before these tools can be implemented, healthcare providers must ensure their EHR systems are appropriately configured and equipped for the next stage of data analytics. Adequate preparation also requires that IT and information governance programs are in place and enterprise-wide buy-in has occurred, especially among leadership in clinical and administrative departments. 
+Connecting the dots to clinical optimization
+Our firm’s survey of HIMSS Annual Conference attendees found that 51 percent of health IT leaders believed that the most significant barrier to hospital data analytics is not knowing what data to collect or how much of it, while others felt a lack of organizational clarity on what to do with data and what to look for when analyzing it.
+What these organizations need to realize is clinical data analytics is the adhesive between process improvement and optimization.
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+Data analytics can work hand-in-hand with clinical optimization to identify patterns in efficient care delivery, improve key performance indicators (KPIs) and support providers’ workflows while driving cultural change across an organization.
+Through effective analytics, clinical departments can recognize as well as track their KPI and trending data to adjust processes to continue to improve efficiency. As quality metrics improve through data analytics, cultural and behavioral changes within the organization occur with less resistance.
+This positive momentum allows the process to repeat itself and gradually become part of the organization’s environment.
+Promoting prevention
+Whether they work in a large health system or a small physicians’ practice, providers can learn from analyzing data for care trends, especially regarding preventive care that can result in significant cost savings.
+READ MORE: Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+For example, data gathered and analyzed from a provider’s EHR system and/or health information exchange can identify which patients are not adhering to their screenings, such as diabetic patients without an updated or out-of-range HbA1c test result.
+While providers can use EHRs for real-time basic clinical data findings like these, more advanced applications allow predictive measures through algorithmic logic. Some organizations apply analytics toward identifying readmission risks, providing patient scores, updates and intervention alerts for care managers when a patient’s risk level escalates.
+Organizations, however, must still keep in mind that they should not only target patients solely based on high-risk index scores. Instead, providers need to analyze patient data to identify the most actionable opportunities with the largest clinical and financial impact.
+Real-time dashboards can help in this regard by sharing patient data across multiple levels, such as between care managers, physicians and clinical quality directors, so the entire team is updated. Mobile applications when integrated with the analytics tools can also provide real-time patient data with convenient (yet still HIPAA compliant) access to information that can help initiate preventive care outreach when needed.
+Appropriate data distribution
+No matter who receives the data within a healthcare organization, ensure that trend results given to each stakeholder are relevant, comprehensive and customized to his or her role and goals.
+For example, executive leaders relate to population-wide clinical and financial performance data, while departmental managers are more concerned about provider and facility-specific results and those delivering care need patient-specific information. Regardless of the role, the more tailored the report is for the recipient, the more likely it is to prompt action.
+As the healthcare industry continues to migrate toward outcomes-driven financial incentives, analytics will become less of a buzzword. Yet the challenge remains for healthcare organizations in interpreting results and understanding those implications.
+Once comprehended, those actionable results represent a significant opportunity for clinical optimization and population health management.
+In the end, embracing clinical data analytics and integrating the insight into clinical workflows enables healthcare organizations to transcend from reactive treatment of illness to value-based, proactive prevention.
+Dan O’Connor, RN, is vice president of client relations at Stoltenberg Consulting. 
+Tagged Clinical AnalyticsEHR Data AnalyticsEHR UsePopulation Health Management
+
+

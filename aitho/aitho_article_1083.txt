@@ -1,0 +1,16 @@
+Deepsense.ai Becomes NVIDIA Deep Learning Partner
+
+23 Mar 2018
+
+The Company Joins The Prestigious NVIDIA Service Delivery Partner Program As One Of A Handful Of Preferred Partners Worldwide Providing Professional Services In Deep Learning
+deepsense.ai today announced it has joined the NVIDIA Service Delivery Partner Program as a preferred partner in deep learning professional services, ready to play a critical role in helping NVIDIA customers grow and succeed as AI computing spreads across industries.
+Tomasz Kułakowski, deepsense.ai CEO, emphasizes the importance of this partnership: “We are very proud to join the select group of companies recommended by NVIDIA as professional deep learning service providers. This ensures that we invest our efforts in the right way and build our competencies around NVIDIA’s cutting-edge AI technology.”
+deepsense.ai has experience in delivering both research and commercial data science projects based on machine learning, deep learning and reinforcement learning. The solutions designed by the company include various prediction models for customer analytics, recommendation systems, predictive maintenance, image processing models such as defect detection, product recognition, brand visibility analysis, satellite and drone imagery analytics, as well as reinforcement learning-based vehicle automation and artificial limbs control.
+The company also supports organizations in long-term building of data science capabilities in-house by providing them with comprehensive tailored training tracks for technical teams and managers. deepsense.ai is made up of 200 specialists, including over 45 award-winning data scientists, and works with global market leaders in the United States, Latin America, Europe and Asia.
+ Craig Weinstein
+“AI is transforming every industry and having deepsense.ai as a member of our NVIDIA Service Delivery Partner program within the deep learning competency will help customers build their capabilities to take advantage of this opportunity,” said Craig Weinstein, VP of the Americas Partner Organization at NVIDIA.
+deepsense.ai delivers AI solutions and supports organizations in unlocking their data potential at all stages. The company created Neptune, a Machine Learning Lab provided as a service for data scientists to speed up the development and productionization of machine learning models. The company has built up Seahorse, an open-source visual framework powered by Apache Spark that helps data scientists rapidly develop Spark applications.
+deepsense.ai was founded and is managed by CodiLime, an IT consulting and software engineering company providing professional services for global clients in three core areas: Networks, Security and Big Data & Data Science.
+Read More: AKA, Developer Of AI Engine ‘MUSE’, Joins NVIDIA Inception Program
+
+

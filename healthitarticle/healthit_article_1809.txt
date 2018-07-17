@@ -1,0 +1,11 @@
+Case Western researcher wins $2.3M big data award from NIH
+
+October 07, 2014
+
+By Jennifer Bresnick
+October 07, 2014 - A project hoping to apply big data mining techniques to pharmaceuticals has won the National Institutes of Health (NIH) Director’s New Innovator Award.  Rong Xu, PhD, an assistant professor of medical informatics at the Case Western Reserve University School of Medicine, will receive the five-year, $2.3 million grant to study the application of machine learning and artificial intelligence on pharmaceutical impacts and side effects.
+Xu hopes to parse through 22 million published research articles, as well as large-scale pharmaceutical databases, to discover previously unknown associations between drugs, diseases, genetics, and side effects.  She will then correlate the information with EHR data to compare patient outcomes with her findings, hopefully illuminating new uses for pharmaceuticals or identifying adverse effects.
+“Right now, it is serendipity that a number of drugs on the market have been discovered to have benefits other than those for which they were initially developed,” Xu said. She is the second Case Western researcher to win the prize in as many years.  “With computer science, the process can be automatized for discovering those additional benefits. My approach is a direct human-to-human approach.  I, or the computer, will observe something in humans, and then I will use what I have observed to translate those observations to drug treatment. That’s one of the innovative parts of this investigation.”
+Tagged Big DataMedical Research
+
+

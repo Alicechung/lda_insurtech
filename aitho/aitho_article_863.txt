@@ -1,0 +1,12 @@
+VeriClouds Advances Identity Threat Management With Hardware-based Encryption
+
+17 Apr 2018
+
+Company announces hardware enforced crypto solution for securing credential data and digital signing for Blockchain
+VeriClouds, a pioneer in credential monitoring and verification, announced today that early previews of its latest technology, CredCrypto™, will be on display this week at RSA Conference. Combined with VeriClouds CredVerify™ and CredMonitor, CredCrypto delivers the safest credential protection service on the planet to make data breaches and crypto currency theft from weak and/or compromised credentials optional.
+CredCrypto enhances the privacy of sensitive credential data at the design level. With protection by Intel® SGX of credential storage and usage, the solution helps defend against internal and external attackers, including malware running on the host machine and malicious cloud providers. Automating the detection of risk insight into response and remediation is a transformation for most companies and helps to reduce alert fatigue and deliver safer online experiences. You can see this technology demo integrated with Oracle CASB on display at RSA Conference at the Oracle Booth in the South Hall, #1115.
+Rui Wang
+Moreover, CredCrypto also leverages hardware-based encryption to protect the most sensitive credential data of Blockchain (i.e., private keys of users) and the usage of such data (e.g., digital transaction signing). Roughly 10% of funds raised through ICOs between 2015 and 2017 have been lost via hacks, oftentimes through stolen and/or abuse of private keys. To better secure identities and transactions on the Blockchain, VeriClouds developed and patented a hardware-based secure online signing technology called CredCrypto for Blockchain. You can see a live demo of CredCrypto for Blockchain on Thursday at 1:30PM PST at the Intel Booth in the North Hall, #3435, presented by VeriClouds CTO, Rui Wang, PhD.
+Stay informed on all things CredCrypto by signing up to receive launch updates and product announcements at https://credcrypto.io or follow the project on Twitter @CredCryptoIO
+
+

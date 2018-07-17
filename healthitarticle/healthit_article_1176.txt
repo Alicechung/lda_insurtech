@@ -1,0 +1,30 @@
+HIMSS: Don’t Oversimplify EHR Interoperability Data Standards
+
+November 09, 2015
+
+By Jennifer Bresnick
+November 09, 2015 - There is no question that developing a codified set of broadly applicable data standards to improve EHR interoperability and health information exchange is hard work – a challenge that the Office of the National Coordinator and other healthcare stakeholders have pursued with gusto over the past few years. 
+In its latest Interoperability Standards Advisory (ISA) for 2016, the ONC outlines the models by which it will “coordinate the identification, assessment, and determination of the ‘best available’ interoperability standards and implementation specifications for industry use to fulfill specific clinical health IT interoperability needs.”  
+The ISA includes a review of interoperability needs across the industry, such as the requirements to transmit standardized data about patient allergies, demographics, diagnoses, health history, immunizations, and medications. 
+These basic building blocks of care coordination may be transmitted in a wide variety of different coding systems and terminology languages, which can pose problems for electronic health records that are not equipped to accept, ingest, translate, and display data transmitted in non-standard formats.
+The latest version of the document attempts to gauge adoption across the industry with a five-star rating system, and also marks the standard’s maturity in terms of two major factors: its status within a particular organization’s approval process and its adoption or testing progress in real-world situations. 
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+Using these and other criteria, the ONC has decided to label certain standards as the “best available” to the industry, a label that has HIMSS concerned about erroneous interpretations.
+The document explains that “when one standard or implementation specification is listed as the ‘best available,’ it reflects ONC’s current assessment and prioritization of that standard or implementation specification for a given interoperability need.”
+“When more than one standard or implementation specification is listed as the best available, it is intended to prompt industry dialogue as to whether one standard or implementation specification is necessary or if the industry can efficiently interoperate more than one,” the ONC continues.
+With the draft document open for public comment, HIMSS has taken the opportunity to remind the ONC that the creation and adoption of interoperability standards is a complicated and lengthy process.  The maturity of data standards should be judged on a sliding scale that takes into account their intention and position within a constellation of competing metrics.
+“HIMSS appreciates that ONC included standards of all maturity levels in the Draft 2016 Interoperability Standards Advisory to advance the achievement of nationwide interoperability,” write Dana Alexander, RN, MSN MBA, FAAN, FHIMSS, Chair of the HIMSS North America Board of Directors and H. Stephen Lieber, CAE, President and CEO of HIMSS. 
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+However, “HIMSS would like to emphasize, however, that standards maturity is not a two-dimensional concept (in the case of the Interoperability Standards Advisory, either ‘draft’ or ‘final’),” the letter adds.  “There could be risks in trying to reduce [data standards maturity] to such that could overly simplify a complex or nuanced topic.”
+The ISA agrees that such black-and-white language can be confusing to some stakeholders.  “For instance, a standard may be referenced as best available, yet not be widely adopted or only proven at a small scale,” the ONC acknowledges.
+“Public comment noted that in the absence of additional context, stakeholders could inadvertently over-interpret the ‘best available’ reference and apply a standard or implementation specification to a particular interoperability need when it may not necessarily be ready or proven at a particular scale.”
+HIMSS suggests that the ONC and other healthcare stakeholders ask three basic questions about each specific standard to more accurately gauge its position in the interoperability hierarchy and better chart its usefulness to the industry:
+• Is the proposed standard being developed to advance new technologies?
+READ MORE: Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+• Is the proposed standard a competing standard for an existing standard that is currently adopted?
+• Is the proposed standard an update of an existing standard that has achieved broad adoption?
+The answers to these questions will help to clarify the data standard’s position, and “better articulate standards maturity in future versions of the Interoperability Standards Advisory.”
+“HIMSS appreciates the opportunity to submit comments on the Draft 2016 Interoperability Standards Advisory,” the letter concludes. “Our comments are intended to recognize the importance of each stakeholder’s role in advancing standards- based interoperability and health information exchange, and ensuring that each domain is invested in overcoming the inherent challenges, while further enhancing health IT’s pivotal role in enabling healthcare transformation.”
+Tagged Analytics InfrastructureHealth Information ExchangeHealthcare Data GovernanceInteroperability
+
+

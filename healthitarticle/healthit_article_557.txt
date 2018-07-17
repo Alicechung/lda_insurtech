@@ -1,0 +1,61 @@
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+
+March 01, 2017
+
+By Jennifer Bresnick
+March 01, 2017 - The healthcare industry may not be the nimblest when it comes to adopting and truly optimizing new technologies, as most EHR users will readily agree. 
+Reluctance, denial, frustration, and confusion have been unfortunate hallmarks of the health system’s slow and staggered effort to break into the modern age, hampered by legacy technologies – and legacy thinking – that often make it exceedingly difficult to exchange data appropriately.
+But when a new tool or strategy does manage to capture providers’ imagination, it tends to do so in a very big way. 
+The Fast Healthcare Interoperability Resource, better known as FHIR, is one of the best examples of a game-changing technology that is helping healthcare providers vault over the walled gardens and data siloes that have kept information out of the hands of those who need it most.
+Health IT vendors have quickly made friends with the internet-based protocol, which now powers at least some of the offerings from most of the top names in the market.
+READ MORE: Can FHIR Spark Health Information Exchange, Interoperability?
+HL7 International, the organization that curates and cultivates FHIR, is extremely pleased to see that developers are rapidly leaning on the data standard as a way to connect disparate systems, overcome convoluted proprietary architecture, and bringing meaningful interoperability to clinicians and patients.
+“Vendors and implementers have really embraced FHIR,” said HL7 International Chief Technology Officer Wayne Kubick to HealthITAnalytics.com at HIMSS17. 
+“Some of the things they’re doing aren’t even being advertised on the show floor, because it’s become so routine by now that it’s part of business as usual.  People aren’t even aware of how many things are already in place that are using FHIR.  It’s much more mature than people realize.”
+Ignorance is bliss, as far as Kubick and CEO Charles Jaffe, MD, PhD, are concerned.  It may appear to be a counterintuitive metric for success, but Jaffe and Kubick don’t actually want end-users to think much about the technology that powers their daily big data interactions.
+Charles Jaffe, MD, PhD, CEO of HL7 International
+Source: Xtelligent Media
+“All of the vendors and provider organizations that need to know about it have heard of it,” said Jaffe.  “But the physician, the nurse, or the pharmacist using these tools – I don’t think they need to know about it.” 
+READ MORE: Google Cloud Partners with HL7 to Support FHIR Development
+“It should be like driving a car.  I get into my car and I push the button, and the engine goes on.  How many standards and how much development did we need to make that happen?  I don’t know.  And thanks very much, but I don’t need to learn about it.  The car started, and I can get where I need to go.”
+For those who are still curious, the FHIR standard takes its cues from the way the internet uses URLs to categorize and access information. 
+Instead of shuffling specific documents back and forth between organizations using traditional messaging techniques, FHIR bundles data elements into uniquely identified “resources” and allows applications to point to those resources in the same way that a URL points to a specific web page. 
+That allows any FHIR-based application programming interface (API) to access the same data from anywhere, which is a radically different approach than requiring individual entities to know exactly what they’re looking for, request it from the owner of that data, and hope that the format of the information is compatible with their particular health IT system.  
+“It’s just going to be like any app on your phone,” said Kubick.  “You download something from an app store, and it just works.  You don’t really care how or why most of the time.  It simply does what you want it to do.”
+READ MORE: 4 Basics to Know about the Role of FHIR in Interoperability
+4 Basics to Know about the Role of FHIR in Interoperability
+“That’s what FHIR is.  FHIR is going to make it possible for you to do whatever you need to do in a very easy, seamless way. It’s becoming the principle avenue for making data accessible for multiple purposes.  It is going to transform everything that we do.”
+The rising popularity of the standard is no accident, Kubick believes, and it comes at a critical time for the industry.    
+Wayne Kubick, CTO of HL7 International
+Source: Xtelligent Media
+“In her opening keynote, [IBM President and CEO] Ginni Rometty kept saying that this is the beginning of an era,” he said.  “For IBM, it’s because cognitive computing and artificial intelligence are finally becoming more real and dependable.”
+“But she prefaced that by saying that it’s actually the maturity of cloud technologies and big data that is bringing these new advances.  And that’s where we are with the lifecycle of FHIR right now.”
+Big data is now everywhere, Jaffe added, inescapable and profoundly transformative.  “We used to talk about data in terms of primary and secondary use,” he said.  “Primarily, clinical data is used for diagnosis, billing, and treatment.  Then we might use it for research and other applications. 
+“But that’s probably no longer an accurate concept.  It’s now becoming a continuum of use – a spectrum of utility.  The ubiquity of big data is allowing us to extract truth from it, and we’re doing that through FHIR.”
+Healthcare entities looking to take advantage of this omnipresence of big data are demanding a better way to organize and access information for all manner of initiatives. 
+Piecemeal repositories and one-off algorithms for data collection and analysis aren’t cutting it anymore, Kubick asserted, especially now that value-based care, population health management, and predictive analytics are turning big data analytics into a must-have competency for providers.
+“Big data isn’t really about volume.  It’s about the number of sources used to draw some new conclusion,” he said.  “When you’re bringing all that different data together, you’re going to run into some problems.”
+Kubick hails from a pharmaceutical background, he explained, where claims data has long been critical for drug development and financial purposes.
+“The pharma industry tends to use a lot of claims data for research, not to mention looking for opportunities to find the viability of a drug and projecting sales,” he said. 
+“Claims data also supports drug safety analysis, because the number of adverse event reports that come in from the clinical side are so extremely low – no more than ten percent of what really happens, and that’s on a good day.”
+Why Health Data Interoperability is Setting EHR Vendors on FHIR
+“It’s hard to do all that from claims data, and it’s been ridiculously hard to do from EHR clinical data.  But now, FHIR is helping by making things more consistent and have the potential to pull in data that kind of looks the same no matter where it came from and who provided it.  That’s going to make things much, much easier for everyone.”
+FHIR may be enjoying some significant momentum already, but it’s still just a draft specification and there is a great deal of work to do before it reaches its final form. 
+At the end of March, HL7 is planning to unveil FHIR’s Standard for Trial Use, Release 3 (STU3), said Jaffe, bringing the tool closer to full maturity.
+“FHIR has reached another milestone with Release 3,” he stated.  “For the development sector, it’s going to bring increasing cohesiveness, broader outreach among international stakeholders, and a sense of community that is ever growing.”
+HL7 is working hard to foster adoption and provide the healthcare industry with the guidance and resources it needs to make FHIR a success, Jaffe added.
+“That’s why we created the FHIR Foundation, a separate entity devoted to supporting implementation rather than development.”
+On its website, the Foundation provides developers with a community forum and chat channels, links to implementation documents, and resources from fellow users to help generate discussion and answer questions.
+The spirit of collaboration present in FHIR’s user communities is part of the bedrock of the standard’s success, Jaffe said, citing the two-and-a-half-year-old Argonaut Project as one of the organizations proud accomplishments.
+“The Argonaut Project is growing very quickly, and it still has its original 14 members supporting weekly events,” said Jaffe. “They recently published two milestone implementation guides around the meaningful use requirements and so forth.”
+Argonaut’s founding members include some of the biggest vendor names in the health IT industry, such as Epic, Cerner, athenahealth, MEDITECH, and McKesson, along with leading health systems such as Partners HealthCare, Mayo Clinic, Intermountain Healthcare, and Beth Israel Deaconess Medical Center.
+A FHIR Future Burns Brightly for Population Health Management
+While these organizations, along with many, many more developers across the care continuum, are working hard to bring better data exchange to users, Jaffe and Kubick both readily acknowledge that HL7 and the rest of the industry still have a long way to go.
+“The expectations of pure, seamless interoperability, of course, have not yet been met,” Jaffe said.  “But the willingness of vendors and the health establishment to adopt FHIR is evidenced by all of the organizations that now have FHIR APIs and have committed to leveraging them.”
+Jaffe is satisfied that his organization is on the right course, but hedged his bets when asked if the healthcare industry was close to getting over the hump of interoperability and big data exchange.
+“We’ll only know how successful we’ve been long after we hit the tipping point,” he said.  “These things only become clear down the road.  Right now, in the midst of it, we’re optimistic that we’re on the right track, but I can’t conjecture about the long-term results until we’ve seen them.”
+Kubick agreed that it is still a little premature to call FHIR an unmitigated success, but he doesn’t think the industry is too far away from that point.
+“The overall trend towards value-based care and accountability are all pointing the right way,” he said.  “All the indicators say that 2017 should get us to that, but we’ll have to wait and see.”
+Tagged Analytics InfrastructureFHIRHealth Information ExchangeHealthcare Data GovernanceHIMSS17HL7InteroperabilityInterviews
+
+

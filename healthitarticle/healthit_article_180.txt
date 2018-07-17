@@ -1,0 +1,34 @@
+AHIMA: More Organizations Embrace Information Governance
+
+March 05, 2018
+
+By Jessica Kent
+March 05, 2018 - More organizations are implementing information governance (IG) strategies as they increasingly understand that accurate, reliable data will allow them to succeed in the changing healthcare landscape, yet many healthcare organizations still lack the skills and competencies required to implement IG across their enterprises.  
+In an AHIMA survey of more than 1500 healthcare professionals, 84.6 percent of respondents said they are familiar with the principles of IG.  
+A total of 33.2 percent of providers said their organizations have implemented IG programs, either formally or informally. More than 43 percent said their organizations have made significant or modest progress with implementing IG strategies.
+Dig Deeper
+Health Information Governance Strategies for Unstructured Data
+Information Governance Gaining Ground in Healthcare Organizations
+AHIMA: Information Governance is Key for Trusted Healthcare Analytics
+“We learned that IG is moving from a ‘buzzword’ in healthcare to being understood by professionals at all levels,” AHIMA said.
+The survey also shows that the need for quality data in clinical and operational decision-making is a major driver of IG adoption.
+“As organizations progress with their analytics efforts, many are recognizing that added focus on data quality and on data governance efforts are critical to achieving trust in their data and information,” the authors wrote.
+The top-rated driver of IG implementation was analytics and business intelligence at 29.7 percent, followed by data quality and trust at just over 15 percent.
+Moreover, nearly half of respondents said that they expect IG practices to benefit their analytics and informatics operations, further demonstrating the perception that IG is critical for navigating the data-driven future of healthcare.
+Participants were also asked whether their organizations had adopted data governance practices. Data governance ensures that providers can trust their data, which is crucial when making patient care decisions.
+“Given the foundational importance of data governance to IG, early adopters of data governance are well positioned to move toward the adoption of formal enterprise-wide IG programs,” the authors stated.
+Thirty percent of respondents said they have formal structures in place to support data governance, and 76.5 percent of providers said they would make data governance a top priority in IG projects.
+Although many organizations have made strides in understanding and utilizing IG strategies, the survey also shows that many still lack awareness, which can slow organizational adoption.
+More than 51 percent of respondents said that insufficient awareness and understanding of IG was a barrier to progress.
+In addition, 24 percent said they didn’t know if their organization had an IG program in place.
+The survey also asked participants about their knowledge of the AHIMA Information Governance Adoption Model (IGAM) competencies. Awareness and adherence ranked low, at just 25 percent.
+“These findings indicate the continued need for raising awareness on the depth, breadth, and importance of IG practices across healthcare, as well as the need to demonstrate benefits of and return on IG efforts,” the authors asserted.
+AHIMA recommended that organizations work to gain executive support for IG by demonstrating how IG can help address top challenges such as patient safety and interoperability.
+They also recommended beginning with IG projects that can immediately show organizational benefits and meet strategic goals.
+Once organizations have successfully implemented an IG plan, they will begin to see more efficient data handling and operational practices.
+The authors stress that going forward, IG will be necessary for the success of healthcare organizations.
+“Because data and information are fluid, shared, and exchanged throughout the healthcare ecosystem, the practice of IG has become not just a business imperative, but an ethical obligation for any information intensive healthcare institution,” the authors concluded.
+“In short, IG is essential to the health of the healthcare industry.”
+Tagged Big Data AnalyticsData IntegrityHealthcare Data GovernanceHealthcare Information Governance
+
+

@@ -1,0 +1,28 @@
+CancerLinQ Data Lake Gathers Electronic Records of 1M Patients
+
+October 24, 2016
+
+By Jennifer Bresnick
+October 24, 2016 - The CancerLinQ initiative now boasts electronic health data from one million cancer patients, adding to the platform’s ability to help oncologists across the nation improve their quality of care.
+The project, founded in 2013 under the auspices of the American Society of Clinical Oncology (ASCO), has leveraged data lake technology from SAP to grow steadily over the past few years to reach 1500 oncologists in 70 practices across most the United States, says CancerLinQ LLC CEO Kevin Fitzpatrick.
+“We are excited to reach this milestone and continue to be awed and inspired by the engagement and support from the oncology community,” he said in a press release. “As more records enter the CancerLinQ platform, it will enhance participating oncologists’ ability to improve the quality of care that they provide.”
+The system’s goal is to provide real-time feedback for oncologists by using the big data repository to uncover patterns in outcomes, benchmark performance against national guidelines, and provide clinical decision support. 
+Oncologists will not have to rely solely on clinical trial results, which typically include only 3 percent of patients diagnosed with a particular disease.  Instead, they can view data from all cancer patients included in the data lake, significantly broadening the opportunity to learn from past experiences.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+“One of the really interesting things about CancerLinQ is the fact that a physician will be able to look at her patients in an identified fashion, so she can interrogate her own patients and fire quality measures against them and look for her conformity against accepted guideline measures,” Fitzpatrick said to HealthITAnalytics.com in a 2015 interview.
+This feature may help users participate in value-based reimbursement programs or bundled payment initiatives by making it easier to spot shortcomings in performance on certain quality metrics.  It can also allow users to benchmark their performance against colleagues at other practices.  Strict care is taken to protect the personal health information of patients receiving care at other facilities, Fitzpatrick explained.
+“It would also allow her to have full access to the anonymized database of all of her colleagues’ experiences across North America and, ultimately, around the world,” he added. “It really democratizes access to information across the entire oncology community, independent of geography and independent of the type of care setting in which one practices.”
+“If we get this right as a diagnostic tool, CancerLinQ may become as important for the oncologist as the microscope is for the infectious disease specialists.”
+The system is potentially available to any practice in the United States, and can connect to the majority of major electronic health record systems through HL7 interfaces, although CancerLinQ has experienced interoperability frustrations during the process.
+READ MORE: Semantic Computing, Predictive Analytics Need Reliable Metadata
+“I think that sometimes the export of data out of systems just hasn’t risen to the same level of urgency as other initiatives,” said Fitzpatrick.  “Demands are being made of everyone, from the providers to administrators to payers to health IT systems.  I think everyone wishes that they could respond more nimbly to all the requests and all the good and worthy projects that exist within their domains, but there just aren’t enough hours in the day.”
+“But I have to say that I’ve been very impressed, pleased, and gratified by how helpful many of the EHR systems are when working with us so that clinicians are getting the full beneficial utility out of their systems.  I’m confident we’ll get where we need to go.”
+With one million patients in hand already, CancerLinQ is moving quickly towards gaining the scale that will allow it to achieve its goals, largely because its members see the inherent value in the ability to use big data analytics to improve the quality of care, Fitzpatrick said.
+“We live in a cynical age, but I’m incredibly impressed that the ASCO members onboarding onto CancerLinQ are going through the trouble of doing this without being compensated for these efforts,” he said. 
+“They do it because they care about quality. They do it because they have never had a tool before that allows them to look across their populations in this fashion. They do it because they have never had an opportunity to have access to the collective experience of their colleagues, and they know how important this can be to improving those outcomes and giving patients a better chance at recovery.”
+READ MORE: Big Data, Interoperability Top Black Book’s Trends for 2017
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+How Precision Medicine Will Shift from Research to Clinical Care
+Tagged Clinical Decision SupportClinical Quality MeasuresEHR InteroperabilityPrecision MedicineSemantic Data Lakes
+
+

@@ -1,0 +1,24 @@
+Building Emotional Content Using AI And NLP: The Power Of The Qordoba Strings Intelligence Platform
+
+10 Apr 2018
+
+The Qordoba Strings Intelligence Platform Is the First Content Management Platform to Use AI to Integrate Emotion Measurement
+Qordoba, the only platform enabling product and development teams to manage the words in their applications, announced a revolutionary patent registration for measurement of emotional tone in product and marketing content. For content marketing teams, Qordoba scores product content for style, brand, emotion, vocabulary, and grammar, empowering them to improve their product content.
+This is the first of many patents for Qordoba, which integrates machine learning-based affect detection between online video and text. This uses an unsupervised machine learning model to train a supervised neuro-linguistic programming (NLP) model. Qordoba’s unique technology allows users to actually measure the emotional content of product and marketing copy across 21 languages.
+Qordoba manages over 2 billion words every day for customers including Visa, the NBA, GitHub, Sephora, Conde Nast and Postmates. Based in San Francisco, Qordoba is backed by Upfront Ventures and Rincon Venture Partners.
+Qordoba Offers Affect Detection That Applies Artificial Intelligence and Machine Learning to Understand the Primary Emotion Conveyed in Written Text
+Qordoba is seeking a patent for scoring emotions in product and marketing content across different languages.
+Qordoba Strings Intelligence Platform
+Affect detection is a new area of computer science that seeks to apply artificial intelligence and machine learning to understand the primary emotion conveyed by written text. The Qordoba platform utilizes natural language processing techniques to identify the emotion most likely to be associated with a specific combination of words allowing developers and product teams to create better user interfaces (UI) at scale.
+Across different cultures, individuals can have different reactions to similar content, so marketers and brand stewards have found it critical to ensure their message is being received as intended. Qordoba offers the world’s first Affect Detection platform, which customers can use to write more impactful content.
+Affect Detection Platform and UX Managment Work Together to Bring Better Content Personalization 
+The market for User Experience (UX) management and design has given birth to hundreds of tools aimed at helping teams build better products. From tools for design and usability feedback to event tracking and user analytics, each solution helps build richer user experiences, however, the UX industry has largely overlooked words. Typically there are several handoffs between product teams, design, and engineering in a perilous and time-consuming effort for product teams to bring content to market, especially in different languages.
+May Habib, CEO, Qordoba
+At the time of this announcement, Qordoba co-founder May Habib, said, “For many companies today, managing written copy in their applications is a mess. The final copy is developed in Google Docs or Sketch, copied into source code by engineers, who end up writing more copy on their own, and the final product lives across dozens sometimes hundreds of files.”
+May added, “Copy is created by dozens, and in the enterprise, hundreds of different authors, with no automated system to see if people are adhering to a company’s brand voice or style. Some text is hard-coded into source code, where it becomes difficult to find and risky to update.”
+Content quality is also an issue. From simple issues such as spelling and grammar errors to complex issues such as an inappropriate emotional tone or divergence from official brand voice, managing the text part of an interface can be a minefield. Qordoba offers a managed interface layer, where product content is managed and measured in a central repository to improve the user experience and accelerate time to market. Different apps running on multiple channels stay consistent with new versions of interfaces even in multiple languages.
+Roadmap for Qordoba in a CMO’s Stack
+CEO May Habib added, “Interfaces matter. People can already customize and personalize content in CRM and email. Qordoba enables customization in software interfaces, apps, and products. Our plan is to have a permanent spot in the tech stack used to manage all the text everywhere. GitHub is used to manage code — Jenkins is used for managing, building, and deployment — Qordoba is used to manage all of the words in the user experience.”
+Currently, Qordoba is the leading content management platform for digital products, enabling enterprises to create, measure, optimize, and improve the customer experience and provide high-quality interface text to development teams. It is a cloud platform with an easy API that integrates with existing development technologies such as GitHub.
+
+

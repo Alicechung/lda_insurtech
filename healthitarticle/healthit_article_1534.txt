@@ -1,0 +1,21 @@
+CHIME Offers $1M for 100% Accurate Patient Matching Solution
+
+March 18, 2015
+
+By Jennifer Bresnick
+March 18, 2015 - The College of Healthcare Information Management Executives (CHIME) is putting $1 million up for grabs in search of an interoperable and scalable patient matching solution.  The competition hopes to encourage developers and innovators to create techniques to reduce duplicate chart creation, inaccurate data entry, patient safety errors, and potential data privacy breaches when two patients are confused with each other.
+“There is a growing consensus among payers and providers that a unique patient ID would radically reduce medical errors and save lives,” said CHIME CEO and President Russell P. Branzell, FCHIME, CHCIO. “Incomplete or duplicate health records present significant issues in terms of patient safety, and there is a pressing need for preventing, detecting and removing inaccurate records so hospitals can positively match the right data with the right patient in order to provide the best possible care.”
+“This needs to be the year of positive patient identification,” added CHIME Board Chair Charles E. Christian, FCHIME, LCHIME, CHCIO, Vice President and CIO of St. Francis Hospital in Georgia. “Healthcare CIOs have long struggled with a lack of national standards for eradicating the burdens of matching patient data when engaging in health information exchange.  As those charged with leading health information technology, we have a responsibility to ensuring the technology we’re implementing leads to better, safer, more efficient patient care.”
+CHIME isn’t the only organization investing in improved patient matching technologies.  At the beginning of 2015, the Workgroup for Electronic Data Interchange (WEDI) and The Sullivan Institute for Healthcare Innovation announced their “virtual clipboard” initiative, which has also attracted participation from HIMSS, MGMA, and a number of other healthcare stakeholders.
+Dig Deeper
+Illinois to Use Blockchain for Healthcare Credential Management
+The Role of Healthcare Data Governance in Big Data Analytics
+CPT, SNOMED-CT Codes Ally to Boost Healthcare Data Integrity
+The project hopes to streamline the patient intake and benefits verification process with the help of an underlying interoperable health information exchange framework that saves time and effort for providers and payers alike.  The average hospital requires three full-time employees to cull duplicate or mismatched information from patient health records, a 2012 CHIME survey found.
+“As health information exchange becomes more prevalent, patient matching is a perennial issue,” said Lynne Thomas Gordon, MBA, RHIA, CAE, FACHE, FAHIMA, CEO of the American Health Information Management Association (AHIMA).  “A solution would be a significant step toward ensuring the integrity of health information and, as a result, better patient care. AHIMA is proud to support this challenge.”
+Patient matching has been a lingering issue for EHR and practice management system developers hampered by the lack of widely adopted data standards and the absence of a national patient identifier.  Poor data integrity is a major contributing cause of medical errors that can take lives, the industry has found to its cost, and an 80 percent success rate when it comes to current patient matching technologies is simply insufficient.  The challenge will reward a solution that raises the accuracy rate to 100 percent.
+“Unintended injury attributable to patient data-matching error is a considerable, and growing problem in this era of health information exchange,” said Branzell.  “Despite years of development, no clear strategy on patient matching has emerged. Our hope is that this challenge will reach a diverse audience and inspire the kinds of ideas needed to implement change and improve patient outcomes.”
+The CHIME challenge will be opened this summer, utilizing the HeroX innovation platform co-founded by XPRIZE CEO Dr. Peter Diamandis.  Interested parties can pre-register for the challenge by visiting the contest site here.
+Tagged Health Information ManagementHealthcare Data ManagementPatient Data
+
+

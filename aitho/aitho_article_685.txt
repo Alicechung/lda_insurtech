@@ -1,0 +1,12 @@
+StorMagic Chooses Cryptsoft To Bring KMIP-based Key Management To Its SvSAN Data Encryption Solution For Hyperconverged Storage Environments
+
+03 May 2018
+
+Cryptsoft continues to extend its role as the global market-leading supplier of Key Management Interoperability Protocol (KMIP) technologies to the storage and infrastructure market segments, including virtual storage appliances and software, hyperconverged systems and encrypting storage controllers by adding StorMagic® SvSAN Data Encryption to Cryptsoft’s long list of valued customers in the storage vertical.
+As enterprise storage is evolving from a centralized NAS operated at company headquarters to distributed storage involving thousands of nodes at thousands of locations and the cloud, data encryption and therefore encryption key management have become a necessary component of modern day distributed storage architectures.
+Hans O’Sullivan
+“Cryptsoft is a key part of StorMagic’s SvSAN Data Encryption solution for edge computing,” said Hans O’Sullivan, CEO, StorMagic. “Encrypting data in hyperconverged solutions is critical for these environments because they typically don’t have a secure datacenter to depend on. Cryptsoft’s KMIP SDK has made it easy for us to integrate with the industry’s leading key management providers.”
+Marc Briceno
+“StorMagic’s customers need to be able to leverage a broad mix of existing in house and onsite key management systems (KMS) from a wide range of vendors that offer varying levels of KMIP standard compliance,” said Marc Briceno, VP Sales, Cryptsoft. “Our deep expertise and proven interoperability with all commercial KMIP based KMS in the marketplace, commercial or governmental, allows StorMagic and their end users to be confident that their innovative SvSAN and hyperconverged products will cleanly interoperate with every KMS they might encounter in their environment.”
+
+

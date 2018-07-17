@@ -1,0 +1,18 @@
+AT&T And CarForce Team Up On AI, IoT Service For Car Dealerships Globally
+
+26 Feb 2018
+
+AT&T IoT Technology and Platforms, Combined with CarForce AI and Machine Learning Help Car Dealerships Worldwide Better Manage and Predict Car Maintenance.
+T&T and CarForce are collaborating on a global solution that helps car dealerships, fleet managers, and repair shops better manage car maintenance and predict car issues before they happen. CarForce is choosing Denmark to launch an Internet of Things (IoT) solution in the first quarter of 2018.
+CarForce provides a software solution that uses in-car diagnostics to provide dealerships and large fleet managers with a near-real time dashboard on the health of their customers’ vehicles. Machine Learning and Artificial Intelligence (AI) are used to provide preventative and predictive vehicle maintenance.
+CarForce will launch its solution in Denmark through FTZ, a HELLA company, that has a distribution network of roughly 1,500 vehicle service shops. CarForce’s connected garage experience will first be available to about 80% of the Danish independent dealer and garage market, which includes up to 2.4 million cars. CarForce plans to launch in the U.S., France, and Germany later this year.
+“Software should be borderless. Using AT&T’s global connectivity and IoT platforms allows us to quickly build and scale CarForce into dealerships worldwide,” said Jessika Lora, founder and CEO of CarForce. “Plus, my team can focus on the software solution, not on logistics.”
+With CarForce, dealerships can provide an automated car maintenance service to customers that helps reduce vehicle downtime and increase efficiencies in parts supply and repair networks. In addition, CarForce can send customers automated alerts for regular maintenance like changing oil, notify them when a repair is needed, or even predict a tire blowout.
+“Working with CarForce, we’re helping to improve the car ownership experience,” said Joe Mosele, VP of IoT Solutions at AT&T. “Car owners no longer have to guess what’s wrong with their cars. It is vehicle ownership for the modern customer.”
+The AT&T Global SIM is plugged into the car’s diagnostic port and provides global connectivity to LTE and LTE-M networks. The AT&T IoT Platform collects the data and translates it for the CarForce software in the cloud. AT&T brings everything together edge-to-edge – from end points to connectivity to the cloud – wrapped in security.
+The AT&T LTE-M network is available in North America and Mexico and will enable longer battery life, improved coverage, and lower costs when compared to traditional IoT cellular connectivity.
+The IoT Platform used by CarForce will include AT&T DataFlow, an upcoming combination of our former AT&T M2X and AT&T Flow Designer products.  AT&T Data Flow will provide cloud-based development tools and resources that help businesses manage the flow of sensor data between IoT devices and business applications. AT&T DataFlow will make it easier for businesses to quickly build and launch IoT solutions and scale them for growth demands. AT&T DataFlow is available for preview by interested customers and is expected to be commercially available in the second quarter of 2018.
+In a recent IDC MarketScape report, AT&T was named as a leader among global IoT platform providers. “Customers cited a superior management portal, reliability of connectivity service, and an executive/partner team that is committed to their success as the top reasons why they chose to work with AT&T,” the report said.
+Read Also: Interview With Peter Cahill, CEO, Voysis
+
+

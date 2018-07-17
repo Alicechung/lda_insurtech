@@ -1,0 +1,44 @@
+How to Use Big Data for Tailored Population Health Management
+
+June 07, 2016
+
+By Gregory D. Berg, PhD
+June 07, 2016 - Let’s travel to the very near future of population health management. The hypothetical ABC Health Plan recently got a new member: Selma, a 57-year-old woman with heart failure.
+To help Selma manage her condition, improve her quality of life, and prevent unnecessary and costly hospitalizations, the health plan assigns her to a care management program.  
+Historically, a care manager might have spent days tracking down the correct phone number for Selma. Three phone messages later, Selma might have called back. But then Selma learned she had to take a 45-minute comprehensive intake questionnaire about her medical history, home life, economic status, etc.
+Not surprisingly, Selma made an excuse and hung up.  
+In the near future, a more targeted, problem-specific approach to care management will be used. A predictive model using big data analytics will flag Selma as a high-risk patient with medication adherence problems.
+The care manager will see that Selma is two weeks late in filling her prescriptions, based on pharmacy claims data. Plus, Selma has gained 4 pounds in a week, which is discovered from data retrieved from Selma’s digitally connected scale. This is a warning sign that her heart failure is out of control.
+After exchanging a few texts, which is Selma’s preferred communication mode, the care manager learns that Selma’s car broke down. The care manager then quickly solves the problem by arranging for Selma’s medicines to be delivered to her.
+Brief, targeted, and successful patient engagement scenarios like this will be possible thanks to the growing availability of various types of big data.
+New insights will be obtained from digital health monitors, social media, electronic health records, and other sources. Predictive models are also becoming more accurate in pinpointing how to best allocate scarce resources for care management.
+Given these advancements, we foresee a five-step model that will help health plans improve engagement with members around key issues impacting their health.  
+Focus on impactful interventions
+Much has been learned in recent decades about which care management interventions tend to bring the biggest benefits—for patients and payers. By focusing on these interventions, health plans can get a solid return on investment while helping their members.
+One example of an impactful intervention is getting patients to take their medications as prescribed. By improving medication adherence, health plans can significantly improve patient outcomes while reducing hospitalizations and other costly interventions.
+This is true for many types of health conditions, including heart failure, asthma, chronic kidney disease. The same types of care management approaches can be used to solve medication adherence problems regardless of what conditions a patient has.
+Another example of an impactful intervention is ensuring patients with serious or chronic conditions go to regular follow-up appointments with their physicians. This helps ensure patients are getting needed preventive care and screening tests to keep their conditions in check.
+A follow-up appointment after being discharged from the hospital has been shown to be particularly important in preventing readmissions.
+Determine which patients to engage
+Once health plans decide which impactful interventions they want to focus on, sophisticated data analytics need to be employed to identify and prioritize those patients who would most benefit from the interventions.  
+For example, pharmacy claims data can be insightful in identifying patients who are not adhering to medications. But claims data may not be enough.
+Timely clinical and demographic information from a patient’s electronic health record can be obtained through partnerships with providers. In addition, various types of socioeconomic data (e.g., incomes by zip code), consumer spending data, and other data can be helpful in painting a comprehensive picture of a patient’s situation.  
+Part of predictive modeling is determining which data variables carry more weight than others in terms of identifying which patients to focus on first. A patient’s overall risk score – that is, high-risk, medium-risk, low-risk – would certainly be weighted high in any care management model.
+This risk score is determined based on how advanced a patient’s disease is, whether a patient is likely to develop serious complications, and other factors. But other things may put a patient at the top of a care manager’s contact list, too.
+For example, when focusing on medication adherence, patients with conditions that are primarily controlled through medication would rise to the top of the list.
+Identify the right mode of engagement
+There are numerous ways to interact with people nowadays. And every individual has preferences for what communication mode they would want to use for different interactions.
+Data is available from vendors that can help pinpoint patient preferences. These data may reveal that a patient is more likely to respond to a direct mail piece than a phone call, or that another patient is on Facebook every evening.  
+This type of information can help care managers tailor engagement to each patient—whether that means reaching out via a text or tweet or arranging a face-to-face meeting. In some cases, the right mode of engagement might be through a patient’s trusted physician.
+If a patient has been regularly seeing the same physician for years, a care manager may want to enlist the physician’s help in engaging the patient.   
+Triage to the right care manager
+From a resource perspective, it can be costly to use a nurse for every care management intervention. And many interventions do not require a nurse’s clinical expertise.
+Many situations can be handled by a well-trained health resource coordinator. Data analytics can be used to predict which patients truly require a nurse and which do not, which can help ensure a cost-effective approach.   
+Track patient outcomes more effectively
+The final step in this targeted care management approach is to measure whether the health plan achieved its goals.
+For example, if a health plan decides to focus on medication adherence, what percentage of members are taking medications as prescribed at the end of a fiscal year versus at the beginning. In addition, overall costs and patient outcomes should be tracked.
+If health plans successfully carry out meaningful interventions for a significant number of members, those organizations will likely see benefits accrue to their bottom line.
+Gregory D. Berg, Ph.D. is Associate Vice President of Research and Outcomes at AxisPoint Health.
+Tagged Care CoordinationChronic Disease ManagementPatient Engagement StrategiesPopulation Health Management
+
+

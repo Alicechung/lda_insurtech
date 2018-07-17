@@ -1,0 +1,13 @@
+Qlik And CarpeDatum Announce Technology Partnership
+
+07 Feb 2018
+
+CarpeDatum’s TM1Connect Software Application Is Now a Qlik- validated Connector For IBM Planning Analytics Powered by TM1
+CarpeDatum and Qlik have bridged the gap between IBM TM1 and QlikView and Qlik Sense visual analytics tools. CarpeDatum’s TM1Connect software application is now a Qlik- validated connector for IBM Planning Analytics powered by TM1.
+TM1Connect makes analytics investments more valuable by expanding IBM TM1 throughout a company. TM1Connect eliminates the time-consuming challenge of translating TM1 data into various formats for visualization and reporting tools such as QlikView and Qlik Sense. With TM1Connect, conversions to relational data happen in real time.
+“TM1Connect is truly the translator that opens the world of visual analytics to data trapped in TM1,” said Steven Garno, Managing Partner of CarpeDatum. “Qlik customers who have standardized on TM1 or IBM Planning Analytics now have a solution for putting powerful visual analytics in the hands of business users.”
+Mike Foster
+Qlik’s Technology Partner Program drives value for customers and reseller partners through innovative integrations developed in collaboration between Qlik and industry-leading technology companies. The Technology Partner Program creates complementary products, extensions, integrations and connectors that help differentiate and enhance the Qlik visual analytics platform.
+“With this partnership, Qlik and IBM sales partners can leverage the strengths of both technologies, knowing that Qlik and CarpeDatum are working closely on our roadmaps to ensure continued compatibility to maximize the value of your TM1 investment,” said Mike Foster, Vice President of Strategic Technology Partners for Qlik.
+
+

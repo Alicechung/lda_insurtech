@@ -1,0 +1,12 @@
+Circonus Announces High Performance Analytics
+
+18 Jan 2018
+
+Enhanced Performance for the Circonus Query Language
+Circonus, Inc., creators of the IRONdb time-series database and Circonus real-time monitoring and analytics platform are proud to announce that the Circonus Analytics Query Language (CAQL) now provides significantly faster performance.
+Circonus has completely redesigned its CAQL batch processing engine to optimize performance of on demand analysis and is now able to fulfill a variety of critical queries much faster. Common tasks like calculating percentiles across histogram streams now boast speed improvements of 15x or more, with further enhancements in progress.
+CAQL stands apart from rudimentary store and retrieval systems. As part of the Circonus Monitoring platform, it enables a variety of innovative data analysis applications for complex problem-solving. Enterprises such as TouchTunes use CAQL for load forecasting, API performance analysis, data aggregation and drill down, anomaly detection, and more.
+CAQL is a dual stream and batch system servicing both the needs of (stream-oriented) alerting and (batch-oriented) modeling and analysis. CAQL embraces stream processing as a fundamental part of it’s ground up design. Stream processing is critical for alerting use cases. It was designed to process hundreds of thousands of queries across millions of streams in parallel, and it enables the Circonus streaming analytics engine with the capability to deliver rapid performance. Now, batch-oriented tasks will be just as fast.
+With this dual design, modeling large systems over years of data is now fast enough to be interactively driven. This means that for Circonus users, complex analytics can be obtained with similar speeds to the high performance they expect from rudimentary retrieval of simple data.
+
+

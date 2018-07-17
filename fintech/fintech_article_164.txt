@@ -1,0 +1,29 @@
+What exactly is ‘cryptojacking’, and how can businesses respond to the spiralling cyber threat?
+
+May 14, 2018
+
+The National Cyber Security Centre (NCSC) published a report listing ‘cryptojacking’ as one of the biggest cyber threats facing UK businesses. The report warned that up to 55% of businesses globally are already affected by these types of attacks, and that this figure is set to only rise as attackers exploit new techniques to hijack computers.
+
+ But what exactly is cryptojacking, and how can technology be properly leveraged to protect businesses from this spiralling threat?
+
+ Ben Williams, Director of Operations at Adblock Plus, explains: “Cryptojacking is the act of secretly using another’s computing device to mine digital currencies. To create new digital coins, miners must solve complex computational problems, requiring large volumes of computing power, energy and capital. By hacking into another’s computer however, attackers can bypass these barriers, and create new currencies with far less effort and costs.
+
+ “The technique of cryptojacking through malware has been used for many years, but hackers are now leveraging new, and more effective methods to do this, in the form of advert-based cryptojackers that reside on popular websites without knowledge of the host or user.
+
+ “These malicious adverts sit on extremely popular websites, forcing users into sacrificing up to 80% of their computing power without their knowledge and for nothing in return. These types of attacks are becoming increasingly frequent, attaching themselves to a range of extremely popular websites such as YouTube, UFC live-streams, and even governmental websites for the UK and US.
+
+ “This can be particularly damaging to businesses with high reliance on technology, often slowing down computers to disruptive levels and causing hardware errors due to over-working. To make matters worse, the mining programmes are often accompanied by adverts that display fake antivirus software that install even more dangerous malware on users’ computers, putting at risk any confidential or financial information held by an organisation.
+
+ “The NCSC recommends using an adblocker, or anti-virus programme with the capacity to block browser mining as the best way to prevent this. Adblockers offer the most accessible and cost-effective solutions to businesses, as they simply block most ads. Users of ad blockers can also employ features to block cryptomining scripts that reside on certain websites (and aren’t embedded in ads). Once more, they are free, and compatible with all the major web browsers through software extensions that are very easy to download
+
+ “Increasing pressure is being put on the likes of Google, and other website owners to protect users from these types of threats, but these systems are extremely hard to put in place, particularly for smaller organisations that do not have the resources to constantly update and maintain their systems from this evolving security threat.
+
+ “The more organisations that deploy these solutions, the less profitable the act of cryptojacking will become, as the pool of computers that attackers can tap into and exploit will rapidly reduce. These attacks can easily go unnoticed and chip away at an organisation’s IT infrastructure, so it is vital that business leaders are educated on the matter and well informed on the solutions available to them.”
+
+ About Adblock Plus
+
+ Adblock Plus is a web extension that addresses annoying and intrusive online advertising by putting users in control. It allows defining filters that determine what a website is permitted to load, as well as provide a way to collapse unwanted sections of a web page.
+
+ There have been more than 200 million downloads of Adblock Plus across the world and it has been the most downloaded and the most used extension almost continuously since November 2006. PC World rated Adblock Plus as a top innovation in its 100 Best Products of 2007 list, and in March 2010 the project collected the Linux New Media award for the Best Open Source Firefox Extension.
+
+

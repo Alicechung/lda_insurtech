@@ -1,0 +1,13 @@
+VoiceBase To Deliver Speech Analytics To Australia
+
+17 Mar 2018
+
+The Launch Of VoiceBase AU Ensures Enterprise Calls Will Be Processed Exclusively In Region, In Support Of Australia’s Data Protection Acts
+At Enterprise Connect, VoiceBase, the leading provider of AI-powered speech analytics announced it will be launching VoiceBase AU in Q2 of this year, guaranteeing Australian enterprise customers will have full sovereignty over all of their call data.  Specifically, VoiceBase will bring an instance of its Speech API platform online in Australia so that all of its customer’s calls will be processed and stored in region as specified by the Australian Data Protection Acts.
+“As a call center provider to many of Australia’s largest financial institutions, we are very sensitive to the privacy and protection of our customer’s call data,” said Nick Collett, General Manager of Peakbound. “We are pleased to see VoiceBase step up to address the challenges in providing data sovereignty for our market, which has limited the deployment of cloud based speech analytics to this point in Australia,” Collett continued.
+VoiceBase provides developers and enterprises with a rich collection of speech analytics features delivered from a fully PCI DSS Level 1 Certified API platform.  These features include speech-to text, knowledge extraction, conversation metrics, call categories and predictive analytics. The company makes great use of artificial intelligence and deep learning technologies to power applications such as agent QA, customer journey, sales coaching and compliance.
+Jay Blazensky
+“As the need for enterprises to improve customer experience and compliance grows, so too does the demand for VoiceBase services and data privacy,” said Jay Blazensky, Cofounder and CRO of VoiceBase.  “We are committed to leading the migration of speech analytics to the cloud and are excited to extend our cloud-based speech API offering to the Australian market,” Blazensky exclaimed.
+VoiceBase is defining the future of deep learning and communications by providing unparalleled access to spoken information for businesses to make better decisions. With flexible APIs developers and enterprises build scalable solutions with VoiceBase by embedding speech-to-text, speech analytics, and predictive analytics capabilities into any big voice application. VoiceBase’s customers include Amazon Web Services, Oracle, The Home Depot, Twilio, Nasdaq, and Veritone. The company is privately held and is based in San Francisco, California.
+
+

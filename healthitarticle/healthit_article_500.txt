@@ -1,0 +1,59 @@
+Top 4 Ways to Use Blockchain for Healthcare Data Management
+
+April 18, 2017
+
+By Jennifer Bresnick
+April 18, 2017 - Along with machine learning, artificial intelligence, and the Internet of Things, blockchain has rapidly risen to become one of the healthcare industry’s most talked-about technologies. 
+The distributed ledger methodology promises to create an unprecedented level of accuracy, privacy, and security for healthcare stakeholders, offering an innovative new way to ensure robust data integrity while giving patients more control over their own data.
+While few organizations have yet operationalized blockchain technology for healthcare applications, the approach has the potential to reduce or eliminate many of the most significant challenges of health data management: data siloes, patient consents, data ownership, information governance, and the reconciliation of conflicting changes from multiple sources.
+“[Blockchain] can provide much more transparency balanced against confidentiality,” said Brian Behlendorf, Executive Director of Hyperledger. 
+“We can change the landscape by adopting blockchain – and hopefully cut the costs of bureaucracy and overhead that make healthcare so expensive.”
+READ MORE: Is Blockchain the Answer to Healthcare’s Big Data Problems?
+The industry is just beginning to ramp up its investments in this new data management strategy, although adoption is predicted to be swift and comprehensive. 
+Here are some of the top potential use cases for blockchain in the world of healthcare big data.
+IMPROVING PATIENT ENGAGEMENT THROUGH DATA ACCESS AND CONTROL
+In a blockchain, every member of the community holds its own local copy of the shared dataset.  When one entity wishes to make a change to that data, the potential edit must meet a series of cryptographic criteria that confirm the identity of the entity making the change.  Every member of the community must authorize the transaction before it can be confirmed, then each local copy of the data is changed to reflect the activity.
+The edit is then turned into a “block,” or a fixed event that had been approved and locked into place.  Over time, each block is added to the “chain” of events, thus leading to the methodology’s moniker.
+This strategy ensures that conflicting changes can be reconciled using the timestamps of the requested edits, and also lets members of a private blockchain community to retain control over who is allowed to make changes to the data.
+READ MORE: Google DeepMind: Blockchain Can Ensure Health Data Integrity
+If the data in question is an individual’s personal health record, then that patient could be put in complete control of who accesses the record and who can make changes.  Using a private blockchain, the patient could monitor the accuracy of edits such as new diagnoses, or even limit which providers are allowed to access sensitive information such as mental health data.
+“There’s an opportunity to capture the holy grail of health IT, which is to put the patient back in the center of their care,” Behlendorf said.
+“You can set different sharing parameters for different types of data.  Something like someone’s blood type might be shared with every organization, so that when that patient shows up unconscious while they’re on vacation at some hospital they don’t have a previous relationship with, they can receive the emergency care they need.”
+Other information, such as HIV test, could be restricted to just a few members of the blockchain, he added, in order to preserve a patient’s privacy.
+“You might not even want the network to know that there was an HIV test performed, let alone post the result in clear text to every member of the chain,” he said.  “The patient can play a role in defining when certain elements get shared and how widely that sharing goes.”
+READ MORE: Can Blockchain Give Healthcare Payers Better Analytical Insight?
+Patients could receive automated notifications when a party asks permission to access a certain piece of data or requests a change, giving individuals more control over how, when, and for what purpose their data is shared.
+And since blockchain edits all include detailed timestamps, patients could potentially view all activity on their account from a single location, preventing confusion over conflicts and creating more accountability across the spectrum.
+Blockchain could help providers overcome some of the fundamental challenges created by the lack of a single longitudinal health record for patients, said researchers from Beth Israel Deaconess Medical Center in a white paper describing its blockchain-based MedRec system for patient record management.
+“Patients benefit from a holistic, transparent picture of their medical history,” the authors said.  “Record maintenance can prove quite challenging to initiate as patients are rarely encouraged and seldom enabled to review their full record.  Patients thus interact with records in a fractured manner that reflects the nature of how these records are managed.”
+A blockchain approach may be able to increase patient agency, foster empowerment, and give individuals the data management tools they need to become more engaged and more proactive as they take charge of their own care.
+FACILITATING THE WORK OF COORDINATED CARE TEAMS
+In a similar vein, providers will be able to benefit from a trusted, unified view of an individual shared across the care team.  As value-based reimbursements continue to prioritize cooperative, long-term management of patients across multiple care settings, providers are in dire need of data management tools that can help rather than hinder the care coordination process.
+“There has been a lot of health and wellness related data that has been collected by care providers and individuals, but it has not been converted in consumable formats that enable a comprehensive individualized care plan that contributes to effective long term patient wellness,” wrote Ramkrishna Prakash, CEO of TrustedCare, Inc., in a paper submitted in response to the Office of the National Coordinator’s call for insight into blockchain in healthcare.
+“This stems from the key issue that most of these data are in individual silos of a given care provider and is not readily accessible by their ‘network’ partners engaged in the care of their patient.”
+Blockchain could be their answer.  If an individual’s records were centralized within a blockchain-based care management platform, both patients and providers could work together to harmonize the efforts of a care team with members operating at multiple facilities.
+Patients would no longer be responsible for toting files back and forth between multiple appointments or accurately recounting the recommendations of one specialist when visiting another.  Instead, providers can collaborate with one another more directly, while still leaving the ultimate authority for changes or edits in the patient’s hands.
+ADDRESSING MEDICATION RECONCILIATION AND PATIENT SAFETY
+Medication reconciliation is one of the most difficult and dangerous patient management tasks.  Even when patients can accurately remember all of their medications, errors in medication lists are shockingly common. 
+A study from the American Journal of Managed Care in 2015 found that 77 percent of patients have found discrepancies or errors in their active medication lists, while Express Scripts found in 2014 that close to 60 percent of patients taking opioids are also using prescriptions that could produce serious or fatal interactions.
+Patient safety isn’t just a care quality concern.  Negative events can have significant financial penalties attached for hospitals that do not prevent avoidable harm.
+Blockchain could again use its powers of centralization and distributed approval to address this critical issue.  If one provider writes a prescription that is identical to the recommendations of another clinician, the blockchain could flag the duplication and prevent the patient from doubling up on the same medication.
+If a provider tries to add a new medication to the active list but the patient has discontinued use of the drug based on the advice of another member of the care team, the patient can prevent the edit from being added to the chain.
+When a provider writes a prescription for a controlled substance like an opioid, or a pharmacy fills that prescription, every other pharmacy in the region could learn about it, preventing fraud, abuse, and addiction.
+And if a patient tries to remove a medication from the record on his or her own, a primary care provider could get a notification that may prompt a discussion about potential side effects that are discouraging use or the need to make changes to the care plan.
+STREAMLINING THE PATIENT MATCHING AND IDENTIFICATION PROCESS
+Patients are not static beings.  They change names, move house, switch providers, purchase new insurance plans, and have children.  Ensuring that a patient’s identity follows her throughout her entire lifelong journey along the care continuum without duplication, deletion, or other errors is an extremely difficult task.
+More than half of health information management professionals regularly encounter patient matching issues, said AHIMA in 2016, and patient ID issues consistently top industry lists of patient safety hazards and concerns.
+Misidentification of patients could lead to improper treatments due to lack of access to critical health data.  It also makes for a poor patient experience, which could negatively influence satisfaction scores.
+In the absence of a national patient identifier, blockchain may be the next best thing for keeping individuals and their records together.
+Blockchain could link disparate organizations more closely together, said Shahram Ebadollahi, Vice President for Innovations and Chief Science Officer at IBM Watson Health.
+“Everyone has their own health data repositories and their own electronic health records – the proposal here is not to replace those existing systems, but to supplement them with new exchange capabilities,” he said. 
+“If they want to increase the fluidity of data between different institutions, they can connect their existing repositories to the chain and improvement the movement of data while being sure they are doing so with the desires of the patient in mind.”
+This could promote the development of the patient-owned, centralized longitudinal care record and tie data much more closely to the individual in question. 
+Of course, this could require near-universal adoption of blockchain tools, but healthcare organizations appear fairly willing to make that happen.  A recent IBM survey found that the majority of organizations are likely to have some type of blockchain solution in place by 2020.
+Seventy percent of likely early adopters of blockchain tools are eager to put the methodology to use for health record management, while 66 percent believe the approach could significantly reduce the frustrations of lackluster interoperability and incomplete access to key patient data.
+“We believe that the threshold to entry for healthcare providers will be relatively low,” Ebadollahi said.  “If someone chooses to participate in a network, they can use the ‘as a service’ strategy to get off the ground without a large infrastructure investment.” 
+“Whatever network they choose to develop, they will be able to see the benefits from the trust they can have in the datasets that will be generated collectively as part of their community.”
+Tagged Blockchain in HealthcareHealth Information ExchangeHealth Information ManagementHealthcare Data GovernanceHealthcare InteroperabilityListsPatient Access to Health Data
+
+

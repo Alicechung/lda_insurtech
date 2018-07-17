@@ -1,0 +1,21 @@
+Why does big data need to be transformed into little data?
+
+September 25, 2013
+
+By Kyle Murphy, PhD
+September 25, 2013 - Why does big data need to be transformed into little data? The answer to that is simple: you can’t easily make sense of big data until it is analyzed and delivered in a comprehensible way to the end-user.
+A new report by Thomson Reuters about the role of big data in the pharmaceutical industry illustrates the importance of transforming petabytes of information into actionable data. In a survey of information technologies in the pharmaceutical industry, respondents revealed the pressures that were on them as a result of the amount of data coming in one end and the need for valuable information to come out the other.
+One emerging challenge is in the area of understanding the market as a result of having to aggregate disparate sources of information and derive a cohesive meaning from them. “It reflects both the change in the Pharma market dynamics, caused by the greater influence on prescribing behavior by payers, and the promise of rich patient-level data from electronic health records,” the authors explain.
+For those in the healthcare industry, this notion of market dynamics sounds similar to the need to manage the health of patient populations on a small and large scale. With trends such as personalized medicine and population health management gaining support, healthcare and pharma face similar challenges in dealing with big data and therefore should be able to learn from one another.
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Opioid Awareness Week Focuses on Population Health Management
+Epic Systems Integrates Geisinger Population Health Toolkit
+The lesson being learned in pharma is the need to make big data small — that is, digestible. “To realize the value of all this data, we need to reduce it to human proportions,” write the authors.”Little Data is the data we are equipped to handle it comprises reliable, evidence-based facts that scientists can use in models, visualizations and analyses.”
+This realization highlights the need to address the human issues of big data, especially the need for an intermediary to deliver actionable data to the end user. “Converting big data into little data into actual content is a skill. The skill set of a Big Data engineer includes understanding how to acquire, order, map and visualize content,” the authors explain.
+In the context of the patient, it is even more important to have this meaningful data in the hands of end-users. “In patient understanding, the challenges to get the data in one place and filter the output so that the interesting correlations stand out from the ‘noise’ of correlations that are either obvious or spurious,” they add.
+These so-called big data engineers need to understand the importance of three areas in particular: storing data, knowledge representation, and deep learning/analysis.
+In the end, the promise of a data will not be realized unless it gets into the right hands. “That job is mostly about getting the right data to the right people in a way that they can use it to do their job smarter. The information providers need to recognize that the big data opportunity is not about the technology per se, it’s about learning to work environment where the data (Big or otherwise) has to flow to be relevant,” the authors conclude.
+Tagged Big Data AnalyticsEHR AnalyticsHealthcare AnalyticsPatient DataPopulation Health Management
+
+

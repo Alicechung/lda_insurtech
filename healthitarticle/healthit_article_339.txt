@@ -1,0 +1,35 @@
+56% of Hospitals Lack Big Data Governance, Analytics Plans
+
+September 29, 2017
+
+By Jennifer Bresnick
+September 29, 2017 - Despite growing excitement and high investment in big data analytics to support ongoing innovation in healthcare, long-term planning and data governance are not a very strong suit for the majority of hospitals responding to a survey by Dimensional Insight.
+The poll of more than 100 hospital technology executives found that 56 percent of organizations do not have comprehensive, enterprise-wide information governance plans in place – although 49 percent state that they are planning to put a framework in place during the next twelve months.
+“As the amount of data continues to grow, and as healthcare organizations recognize the need to make better use of data, having an effective data governance strategy in place is more important than ever,” said Fred Powers, co-founder and CEO of Dimensional Insight.
+Dig Deeper
+EHR Scribes Save Time, But Do They Produce Accurate Health Data?
+Health Information Governance Strategies for Unstructured Data
+Healthcare Analytics, Information Governance Will Build a Future for HIM
+Data governance and information governance, two interconnected concepts that cover the lifecycle of data from creation and use to protection and destruction, are critical for ensuring an adequate level of integrity for patient safety, reliable analytics, and positive patient-provider experiences.
+Adequate governance can reduce or prevent duplicate records, make electronic health records easier to use, ensure that organizations are receiving all the reimbursement they are entitled to collect, and form the foundation for predictive analytics, machine learning, and other cutting-edge initiatives that rely on quality datasets.
+And as value-based reimbursements become an ever more potent force in the healthcare industry, hospitals and health systems must be certain that the data used for quality measurement, financial benchmarking, and performance assessments is accurate, timely, and trustworthy.
+At the moment, few hospitals can fully rely upon their data assets to chart a course into performance bonuses or shared savings.  
+Source: Dimensional Insight
+Seventy-one percent have identified discrepancies between data from different branches of the organization, such as clinical versus financial departments.  Fifty-one percent have seen discrepancies between clinical departments.
+Half of respondents said they have experienced disagreements on understanding existing internal business rules, while a similar number admitted that their organizational definitions of key performance indicators (KPIs) do not always align with industry standards.
+With the vast majority of organizations measuring up to one hundred KPIs within their enterprises, an overarching data governance plan is vital for building trust across the organization’s many moving parts – a top priority for 67 percent of respondents.
+Unfortunately, organizations have yet to overcome the familiar trifecta of challenges that seem to stall every one of the industry’s improvement initiatives: lack of talent and budget, lack of time, and insufficient buy-in from the board room.
+Seventy percent of participants said constrained resources are preventing them from implementing an enterprise-wide governance plan, while 41 percent added that they simply do not feel as if they have the time.
+Thirty-five percent cited budget concerns, either shying away from anticipated costs or feeling as if there would be an insufficient return on the investment.
+Twenty-six percent said other challenges, including cultural resistance and apathy from leadership, have limited their ability to lock a data governance plan into place.
+Those obstacles were prevalent throughout the process of implementing an overarching governance structure. 
+Among the organizations who already have broad governance principles in operation, fifty percent admitted to variance in leadership buy-in and 36 percent noted that interdepartmental conflict slowed down the implementation process.
+Close to half of organizations have had to settle for at least some paper-based or non-automated processes.  Only a third have implemented fully-automated data governance capabilities.
+For the 44 percent who have achieved enterprise-wide governance and the 31 percent who are in the middle of the implementation process, the rewards of improved data integrity and reliable KPIs can be many. 
+Sixty percent said improving care quality was a primary goal for their governance work, while 45 percent added that ensuring regulatory compliance was a main focus. 
+Forty-one percent anticipate a rise in patient safety, and a combined 50 percent expect a boost in their ability to manage organizational care costs and the challenges of new payment models.
+As value-based care creates a sense of urgency for hospitals and health systems to leverage their data assets to enable more informed decision-making, providers are encouraged to drive good governance into the enterprise at every level.
+“There is still a need to make the governance process easier for everyone involved so that data is consistent, well-documented and trustworthy,” said Powers. “The time is now to make that a reality for healthcare.”
+Tagged Data IntegrityHealth Information ManagementHealthcare Big Data AnalyticsHealthcare Data GovernanceHealthcare Information Governance
+
+

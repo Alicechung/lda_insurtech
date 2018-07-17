@@ -1,0 +1,21 @@
+AI Start-up NovuMind Helps European City Improve Their Green Life
+
+30 Dec 2017
+
+Early morning on October 23, the Norwegian Public Roads Administration (NPRA) set up a small AI-powered device on the side of Prinsens Gate in Trondheim, the third biggest city in Norway. For several hours, it reliably counted the number of bicycles on the road: 104 northward and 111 southward. “This will help the NPRA monitor the use of non-motor vehicles and assess the implementation of green transportation policy,” said an NPRA representative.
+NovuMind AI-powered Bicycle Counter Helps European City Improve Their Green Life. 
+The AI-powered device, a smart bicycle counter, is the brainchild of NovuMind – an AI start-up from Silicon Valley. Unlike previous measures NPRA has tried, NovuMind’s smart bicycle counter is an example of a new wave of “edge computing” devices, where the AI capability is built into each single device. Benchmarked against humans, it achieved an accuracy of 96.4%, which is better than all previous solutions that the NPRA has tested.
+Ren Wu
+“NovuMind is dedicated to improving people’s lives through Artificial Intelligence by making things think.” Ren Wu, founder and CEO of NovuMind said. “Unlike other deep learning technologies that capture images and videos of the traffic and upload them to the cloud to process, the NovuMind smart bike counter uses edge computing, where each single device has the ability to detect and count.”
+Kar-Han Tan
+“In our way, no images will be transmitted nor stored, and little extra load will be added to the cloud when the bike counter system is scaled up. As European countries respect privacy much more than other countries, this is an opportunity where edge computing can fulfill the requirements that cloud computing can’t.” Kar-Han Tan, VP of Engineering at NovuMind said.
+The onboard AI capabilities give the device the ability to count bicycles as a human would, and sends only the counted data to the cloud, without any accompanying images or video. This protects both rider privacy and increases scalability by decreasing data storage.
+Scarlett Teng
+“Edge intelligence will pave the way for a new generation of smart and green cities. We believe that Edge Intelligence is the best way to build scalable, future-proof, city- and country-scale systems.” Scarlett Teng, AI Engineer of NovuMind said.
+The cooperation between a historic city and NovuMind is largely due to a shared desire for greater environmental awareness. In Norway, a lot of efforts have been put into making cities like Trondheim more environmentally friendly with reducing carbon dioxide emission through tolls, higher parking fees, and even requiring permits for cars to enter the city. Reducing the number of cars improves air quality, which in turn makes it more pleasant to commute by bicycles.
+“If all the bicyclists drive cars instead, there will be a 5km-long congestion in Trondheim”, a representative from Trondheim municipality said, “We not only want the cyclists to continue riding bikes, but we also want more people to ride bikes. Not only the young but also the elderly people and their grandchildren.” According to the representative, Trondheim intends to invest more in bicycle infrastructures next year, which the government hopes to encourage more people to ride bicycles.
+“Real-time information about traffic flow in cities is critical to intelligent optimization of public transportation, safety, and emergency services,” stated Ren Wu.
+Wu added, “Our sensor is a low-cost, versatile, non-invasive device that can be dynamically reconfigured to simultaneously locate, count, and track multiple different types of traffic flow, including automobiles, pedestrian, bicycle, and even animals. Detailed traffic data can then be continuously reported to system cloud servers with a negligible load to existing networking, storage, and computing infrastructure because the high-bandwidth raw sensor data is processed on-device using state-of-the-art Deep Artificial Neural Networks powered by NovuMind in-house developed ASIC. The smart bicycle counter is only the first piece in NovuMind’s Smart City Solutions.”
+As cities implement new initiatives and policies to address climate change and other issues, data collected from existing infrastructures can become irrelevant or inadequate.
+
+

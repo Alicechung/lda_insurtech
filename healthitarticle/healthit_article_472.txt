@@ -1,0 +1,30 @@
+Deep Learning Network 100% Accurate at Identifying Breast Cancer
+
+May 12, 2017
+
+By Jennifer Bresnick
+May 12, 2017 - A deep learning network developed at Case Western Reserve University earned a 100 percent accuracy score when identifying the presence of invasive forms of breast cancer in pathology images.  The machine learning tool was consistently more accurate than human pathologists at identifying the delineations of tumors in whole biopsy slides.
+"If the network can tell which patients have cancer and which do not, this technology can serve as triage for the pathologist, freeing their time to concentrate on the cancer patients," said Anant Madabushi, a biomedical engineering professor at Case Western Reserve and co-author of the study.
+The research, completed by an international team of experts and published in Scientific Reports, used 400 biopsy images with very high pixel counts.  Each image was approximately 50,000 x 50,000 pixels, allowing the deep learning network to identify malignancies at a detailed scale.
+Dig Deeper
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Top 4 Machine Learning Use Cases for Healthcare Providers
+How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+The network then examined 200 images from The Cancer Genome Atlas and University Hospitals Cleveland Medical Center.  The tool was able to identify the presence or absence of cancer in a whole slide 100 percent of the time.
+On a pixel by pixel level, the deep learning network made the same determination – cancer or not cancer – in each individual pixel 97 percent of the time, allowing the tool to be highly accurate when outlining the extent of the tumor’s boundaries and spread.
+Two years ago, when the research was performed, the training process lasted two weeks and each slide took between 20 and 25 minutes to process. 
+Madabhushi, who is also the Director of the Center of Computational Imaging and Personalized Diagnostics at Case Western, estimates that a supercomputer in 2017 could be trained in less than a day, and that each slide could be analyzed in less than a minute.
+"To put this in perspective," he said, "the machine could do the analysis during 'off hours,' possibly running the analysis during the night and providing the results ready for review by the pathologist when she/he were to come into the office in the morning."
+While the deep learning network performed its well-defined task admirably, Madabhushi isn’t ready to tell healthcare organizations to replace their pathologists with machines.
+"The network was really good at identifying the cancers, but it will take time to get up to 20 years of practice and training of a pathologist to identify complex cases and mimics, such as adenosis," he said.
+Still the research adds to a growing body of evidence that machine learning will soon take on important roles as diagnosticians and pathologists. 
+At Indiana University-Purdue University Indiana, machine learning also reached 100 percent accuracy when asked to predict remission rates for acute myelogenous leukemia.
+In 2016, Stanford University researchers trained a computer to accurately identify the differences between two types of lung cancer, and ended up with an algorithm that could predict survival rates more accurately than its human counterparts.
+And a similar study from Google earlier in 2017 found that machine learning was able to identify images of metastasized breast cancer somewhat better than flesh-and-blood pathologists.  Compared to a human accuracy rate of 73 percent, the algorithm achieved 89 percent accuracy when looking at the same slides.
+However, the researchers in that study echoed Madabhushi’s warning that the limited successes of machines are not enough to replace the broad experience and judgement of a highly trained pathologist.
+As deep learning, machine learning, and artificial intelligence become more refined and sophisticated however, human diagnosticians may soon be relying on algorithms to supplement and verify their work, the team from Google said. 
+“We envision that algorithm such as ours could improve the efficiency and consistency of pathologists,” said Martin Stumpe, Technical Lead, and Lily Peng, Product Manager at Google.
+“For example, pathologists could reduce their false negative rates (percentage of undetected tumors) by reviewing the top ranked predicted tumor regions including up to 8 false positive regions per slide. As another example, these algorithms could enable pathologists to easily and accurately measure tumor size, a factor that is associated with prognosis…[and] has a profound impact on a patient’s therapy.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsMachine LearningMedical Research
+
+

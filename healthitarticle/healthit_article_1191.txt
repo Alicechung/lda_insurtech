@@ -1,0 +1,28 @@
+Epic Tanks on EHR Usability, Interoperability Scores for EDs
+
+October 29, 2015
+
+By Jennifer Bresnick
+October 29, 2015 - Epic scooped up the unenviable distinction of being the lowest rated major EHR for usability and interoperability within the emergency department setting, according to the latest Black Book poll. 
+With distinctive workflow and information accessibility requirements, emergency department physicians were deeply unsatisfied with being forced to use more genetic EHR functionalities geared towards broader care settings, the survey found. 
+These technology shortfalls are contributing to ED congestion, low consumer satisfaction scores as emergency departments see significant increases in patient visits.
+Seven out of eight hospitals in the United States have reported at least an 18 percent increase in ED visits over the last year, largely attributed to the growing number of patients covered under high deductible health plans and a shrinkage of primary care provider availability, the survey said.
+Dig Deeper
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+Hyperledger Brings Healthcare Blockchain Closer with Fabric 1.0
+Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+Inadequate emergency department information systems (EDIS) are compounding the difficulty of moving patients through the triage and treatment process efficiently, added participants.
+The problem is so significant that more than a third of hospitals with more than 150 beds are planning to replace or are currently in the process of replacing their EDIS software in 2016.  Nearly seventy percent of these facilities intend to choose best-of-breed EDIS systems that can integrate seamlessly with the hospital’s existing EHR.
+"Most best of breed EDIS solutions, not all, are fined tuned for the emergency department environment and workflows," said Doug Brown, Managing Partner of Black Book. "In contrast, enterprise EHR solutions have typically been very generic with difficult customization processes and long implementations for emergency departments."­
+Close to 40 percent of physicians and ED managers currently using enterprise EHR emergency modules say they are moderately or highly dissatisfied with their current EDIS technology, but almost all of those participants said that they are not able to replace their systems due to larger organizational mandates or a lack of budget.
+Providers using technology from Epic Systems expressed the strongest dissatisfaction, Black Book found.  Eighty-six percent said the company’s solutions could not integrate appropriately with best-of-breed EDIS solutions, and 83 percent noted that Epic software did not provide widespread connectivity to access external medical records.
+In contrast, competitors including Cerner, Allscripts, Healthland, Evident CPSI, and MEDITECH enterprise EHR technology rated much higher for usability, with more than three quarters of respondents noting significant usability enhancements since 2010.
+When asked about what features they most desire in a replacement EDIS suite, healthcare providers prioritized interoperability above all.  Ninety-three percent of providers thought connectivity and interoperability were among the top six items on their wish list. 
+Other must-haves for replacement software included physician productivity improvements (89 percent), usability (86 percent), tablet and smartphone integration (87 percent), diagnosis enhancements (70 percent), and better reporting capabilities (66 percent).
+“Obvious games changer in the EDIS replacement environment are developments in EDIS interoperability and mobility," Brown observed.
+Healthcare organizations that have already undergone the EDIS replacement process are seeing immediate benefits, the poll also found.  Seventy-eight percent of hospitals that replaced their EDIS technology in 2014 or the beginning of 2015 say they have improved their reporting capabilities in just three months. 
+A similar number reported better customer service outcomes, and 44 percent of large hospitals with more than 200 beds noted visit cost reductions of between 4 and 12 percent when compared to the previous year.
+These gains may be partly attributable to the fact that decision-makers are including end-users in the EDIS selection process much more frequently.  While only 7 percent of ED physicians and 2 percent of ED nursing staff were included in the decision making process in 2010, those numbers have jumped in 2015 to 70 percent of physicians and 16 percent of nurses.
+Tagged Analytics InfrastructureEHR InteroperabilityInteroperabilityQuality Of Care
+
+

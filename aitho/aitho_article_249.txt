@@ -1,0 +1,12 @@
+CallMiner Introduces Platform For Real-Time And After-Contact Customer Engagement
+
+20 Jun 2018
+
+New Interaction Analytics Modules Provide End-To-End Customer Intelligence Using Scalable Eureka Platform Engine.
+CallMiner, the leading platform provider of award-winning speech and customer engagement analytics, announced today at Customer Contact Week 2018 the launch of its comprehensive CallMiner Eureka platform and new analytics modules: Analyze, Coach, API, Redact, and Alert. Powered by the Eureka data mining engine, the new modules are built to meet the full range of customer intelligence needs from real-time to post-contact analysis.
+Each of the AI-driven analytics modules now leverage the core Eureka data processing engine that was enhanced earlier this year. By consolidating all modules onto a single platform, customers benefit from faster improvements, shared administration, and greater interoperability across the entire product suite.
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+“Our new analytics modules were aptly named to focus on the key pillars of engagement analytics – Analyze, Coach and Alert, plus API for data integration and Redact for security,” said Bruce McMahon, Director of Product Management at CallMiner. “Deploying all of these modules on the scalable and elastic Eureka mining platform is the culmination of our 2018 goal of a true cohesive platform concept with full product and data integration.”
+With the consolidated platform, customer interaction data can now seamlessly transfer from real-time analysis in Alert to post-contact categorization and scoring in Analyze as calls are mined through a single data processing engine, saving both time and cost. In addition to speed, the scalability of the single Eureka engine provides the ability to mine data from tens of agents up to tens of thousands of agents at any given time. Data can also be extracted from or pushed to any of the modules with the real-time ingestion API, a core pillar of the CallMiner SaaS platform model.
+
+

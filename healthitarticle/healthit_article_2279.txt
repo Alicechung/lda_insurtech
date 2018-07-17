@@ -1,0 +1,22 @@
+What role will CMS play in healthcare big data, analytics?
+
+September 16, 2013
+
+By Kyle Murphy, PhD
+September 16, 2013 - A core requirement of any successful healthcare analytics platform is a robust data set, and one of the healthcare organizations with the biggest amount of health data is the Centers for Medicare & Medicaid Services (CMS). But how does the federal agency plan to use this big data to improve healthcare delivery through statistical analysis? The answer to that question is rather difficult to piece together as a result of the strict rules and regulations in place governing what kinds of things CMS do with the data it has aggregated.
+“In Hill meetings and congressionals, issues of authority and privacy, confidentiality, and information security are really taking the forefront,” says Robert Tagalicod, Director of the Office of E-Health Standards and Services (OESS) at CMS.
+“I don’t want to get ahead of our data strategy folks,” he continues, “because we’re talking to our counsel and what is allowable by law, what was intended by law, because even with the health insurance exchanges we’re finding out that although the business case for big data in terms of health coverage, we need to be very careful about how we share that data.”
+Although CMS is not in a position to say with complete confidence what its healthcare big data and analytics plans will be, the department is acutely aware of possible applications, such as in the form of accountable care organizations.
+Dig Deeper
+Big Data Analytics Link Economic Wellness to Population Health
+State-Led Programs Help Meet Population Health Management Goals
+Predictive Big Data Analytics Identify High-Risk ED Patients
+“We do know that we have to use big data in order to inform, for example, ACOs — so how do we use that to build better care and manage risk,” explains Tagalicod, “In terms of the business of case, it’s big data regarding claims and payments vis-à-vis standards and quality.”
+What is immediately clear to OESS and CMS is the need to get whatever data it is collecting through reporting programs — from meaningful use to the Physician Quality Reporting System (PQRS) — in the right state for analysis. “In terms of standardization and normalization, let me tell you: We realize that whether it’s PQRS or other pay-for-quality, pay-for-reporting quality, it is CMS’s challenge to normalize the data and actually simplify and align them,” adds Tagalicod.
+Achieving that level of standardization and normalization requires alignment across CMS’s array of programs and initiatives with the systems used to receive this reported information:
+That means defining what the numerator and the denominator is across those programs. It also means building the systems to do that, to support that kind of normalization and standardization whether we use it through metadata or whatever the thing is to get us to the next step. The reason why I mention metadata is because it’s consistent with the administration’s white papers and directives through ONC. Those are the kinds of things we’ve been forced in a good way to look at and get to the next step.
+Few healthcare organizations currently have the ability to combine clinical and payment data although that is certainly the purpose behind strategic partnerships between EHR vendors, providers, and payers. For CMS, that task carries with it additional responsibilities of balancing its statutory powers with demands from the public.
+“We are looking very carefully at our authorities and how we can move forward to do the kinds of things that we need to do and people are calling us to do,” says Tagalicod.
+Tagged Applied AnalyticsBig Data AnalyticsHealthcare AnalyticsHealthcare Data StrategyPhysician Quality Reporting System PQRSPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,36 @@
+Healthcare Big Data Silos Prevent Delivery of Coordinated Care
+
+August 19, 2016
+
+By Brent Clough
+August 19, 2016 - Complaints about silos in healthcare are nothing new. For a patient to fill a single prescription, there are several disconnected groups that need to work together to move the process forward. The specialist and the primary doctor have to connect and share information, and the payer and provider need to be on the same page.
+Unfortunately, for patients across the country, these stakeholders are moving at different speeds and in different directions, preventing true collaboration across organizations.
+Typically, the proposed solution is to increase communication or integrate different departments. It’s an issue that many have cited as something that is holding back efficiency in healthcare.
+But it’s not just frustrated patients that are the outcome of this system—people are actually dying. Take Hepatitis C as an example, which is a highly treatable disease.
+Yet data from Trio Health shows that 17 percent of patients don’t start their prescription and another five percent are still pending after 150 days.
+READ MORE: Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+A recent report from the Centers for Disease Control and Prevention revealed that the number of deaths related to Hepatitis C in the US reached a record high in 2014, and that the disease now kills more Americans than any other infectious disease.
+A broken system
+Healthcare is an inherently fragmented industry, whether between departments at a single hospital or between the broader patient stakeholders. Along a single patient’s journey, dozens of departments, specialists and stakeholders will be involved from physicians and specialists to manufacturers and pharmacists.
+Consider the impact of doctors as an example. Physicians caused a 16 percent decline in real-world performance of prescription drugs for Hepatitis C patients according to a recent study.
+Physicians are not intentionally putting patients at risk, but what is happening is symptomatic of a larger issue in the healthcare world, where a lack of real-world data and an absence of knowledge sharing is hurting patients.
+READ MORE: Medicare Bolsters Population Health Focus with Payment Changes
+This siloed nature of healthcare prevents physicians, pharmaceutical companies, manufacturers and payers from accessing and interpreting important data sets, instead, encouraging each group to make decisions based upon a part of the information rather than the whole.
+This results in short-term fixes that don't actually do anything to improve the sustainability of operations, or to resolve the root problem. For patients this is really bad news, as it results in delays in diagnosis and delays in access to treatments and appropriate care.
+The need for better big data
+Unfortunately, it’s not just about better sharing of data—it’s about making decisions based on actual patient experiences. Typically, when studies on the efficacy of treatments are conducted, they are based on data collected within the vacuum of a clinical trial, not considering the implications of all the different touchpoints throughout the patient journey. What happens if there’s a delay in filling a prescription or a drug isn’t taken exactly as recommended?
+Disparate healthcare stakeholders are preventing the use of real-world data for decision making. As manufacturers, specialty pharmacies and physicians continue to operate in different worlds, they end up with no insight and are unable to:
+READ MORE: Psychosocial Data, Big Data Analytics Can Improve Patient Care
+Quantify real-time payer delays, denials and lost revenue
+Quantify physician burden related to time to fill, transfers, etc.
+Quantify pharmacy performance (on time, late, not performed)
+Healthcare continues to operate in its traditional silos, sorted and specialized by area of care, industry and stakeholders. As a result, this forces each patient to take control of their healthcare treatment, and lead the process of updating each new doctor on their situation, who they’ve visited and what they’ve been treated with.
+The next generation of healthcare will operate with the patient in mind and allow stakeholders to share and analyze real-world data, allowing insight and better decisions based on fact, not assumptions.
+Driving change across the care continuum
+For healthcare to make progress and step beyond the silos, it’s going to need to take real-time communication and make it convenient and valuable for all key stakeholders. Traditional electronic health records (EHRs) have proven ineffective and rely on physicians to spend the requisite time to update patient data.
+The next generation of information sharing will need to take a three-pronged approach to breakdown communication barriers, with pharmacies as the primary drive patient data sharing. All three stakeholders, physicians, manufacturers and pharmacies, will use a single platform to share patient data and examine other trends based on real-world data.
+This approach not only will take the burden off of physicians, but will improve operations for the other stakeholders and puts the patient first. Furthermore, these stakeholders will no longer rely on clinical trials to make patient recommendations, but will use real-world data created by this platform to understand trends and deliver the right treatment.
+Brent Clough, CEO of Trio Health, co-founded the company in 2013. Prior to this, Brent founded IntrinsiQ Financial in 2004, which merged with IntrinsiQ Research in 2006.  His team at Trio Health has researched and published numerous studies on patient outcomes based on real-world data.
+Tagged Care CoordinationPopulation Health ManagementQuality Of Care
+
+

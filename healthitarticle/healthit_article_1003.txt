@@ -1,0 +1,33 @@
+Partners Data Lake Offers Healthcare Analytics as a Service
+
+March 17, 2016
+
+By Jennifer Bresnick
+March 17, 2016 - The sprawling Partners HealthCare system is continuing to churn through the largest Epic EHR implementation project to date.  But the network, which includes Massachusetts General Hospital and Brigham and Women’s Hospital, has much more than just a new interface on its mind with its $1.2 billion investment.
+Big data analytics is a key component of the complex transition, and Partners already has a history of success with innovative clinical decision support tools like QPID. 
+In order to add to their analytics toolkit while continuing to attract world-class clinical research and technical development talent to the Boston area, the health system is pairing its new EHR with the Integrated Data Environment for Analytics (IDEA) platform.
+This tool, developed in conjunction with EMC, is geared towards researchers and investigators working on everything from precision medicine projects to developing apps for clinical decision support and patient care. 
+The platform relies on data lake technology, and provides a secure environment for analytics without forcing each research team to reinvent the same underlying infrastructure, says Brent Richter, Associate Director of IS Operations and Director of Enterprise Research IS at Partners.
+READ MORE: CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+“What we’re trying to enable is research,” Richter said to HealthITAnalytics.com.  “Instead of taking an app-by-app approach like some other organizations, we are building a platform that provides a foundation for different groups to leverage in a secure and private way.”
+Partners has already implementing an enterprise data warehouse that can accept data from its Epic systems, Richter explained, but the IDEA platform will also give users access to additional datasets.
+“We’re putting public domain data in there, as well as institutional data,” he said.  “And then investigators can bring their own data, too.  That’s what’s unique about the platform.  It provides tools, storage, and technology, and the security wrapped around it, so investigators don’t necessarily have to think about the infrastructure.  But they can bring their ideas and begin to leverage those tools to develop their area of interest.”
+In the future, the platform will be able to ingest imaging data from radiology and pathology sources, as well, which will help to cultivate a rich and robust common data set that researchers draw upon for their work.
+“The IDEA platform is based on the concept of a data lake,” said Dave Dimond, Chief Technology Officer for EMC’s Global Healthcare Business.  “It’s built around a framework called I2B2, which is becoming the de facto standard for translational medicine.”
+READ MORE: Precision Medicine, Population Health Share Strategies and Goals
+“Our goal in collaborating with Partners is to help them essentially get into the business of accelerating pharmacovigilance, clinical trials, and really creating the capability to grow their grant portfolio which they do as a service.”
+Data lakes are becoming a popular way to store massive volumes of healthcare data that may or may not have a clear use case at the moment. 
+Unlike traditional relational databases, data lakes do not need to lock data into any particular format, category, or framework. 
+Instead, a graph database or data lake can apply a standardized tag to each data element, and the tags can be combined and recombined in endless ways to produce nearly unlimited insights.
+This fluid dataset allows unprecedented flexibility, and provides researchers with the opportunity to query the database in ways they may not even have envisioned when the data was initially collected.
+READ MORE: “Data Lake as a Service” Enables Internet of Things, Precision Medicine
+Combined with the growing interest in application-based healthcare technologies and plug-and-play data standards, data lakes can become an important resource for vendors, developers, and academics looking to meet the challenging needs of providers and patients.  
+“With the standards that are coming out, like FHIR, that will provide additional standards-based abilities to create these applications,” said Richter.  “For application development and clinical innovation, and also from the research perspective, having access to these capabilities is just going to light everything up.”
+For Partners, the IDEA platform will be an important strategic asset to complement its transition to its new Epic EHR system. 
+“As healthcare providers continue to adopt more centralized EHRs, there’s going to be a lot of data available,” Richter predicted.  “We are one of those institutions that see that as an advantage for research and development, but also for grants and funding.  We wanted to speed that transition.”
+In return for bringing research revenue, prestige, and insights into the Partners system, investigators will gain the ability to focus on what matters to their particular area of expertise without having to spend time or money on building the same big data analytics capabilities from scratch again and again.
+“We didn’t want those groups that are thinking about doing this to take the time to figure out the infrastructure and then have to figure out what analysis they wanted to run or machine learning they want to apply across all of this data,” Richter said. 
+“We wanted them to think about their specific challenges and what questions they want to ask and how they want to provide those results.  There is a lot of talent in the Boston area, and thousands of researchers working on similar projects.  It doesn’t make sense to have them all constantly reinventing the wheel.”
+Tagged Analytics InfrastructureInterviewsMedical ResearchSemantic Data Lakes
+
+

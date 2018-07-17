@@ -1,0 +1,18 @@
+Genomics, data analytics help predict breast cancer outcomes
+
+December 13, 2013
+
+By Jennifer Bresnick
+December 13, 2013 - Breast cancer patients are getting some significant help in their fight against the disease from genomics and sophisticated data analytics, according to a pair of studies recently released by University Hospitals (UH) Case Medical Center and Caris Life Sciences.  By examining the DNA of patients and changes in their tumors after exposure to chemotherapy or other treatments, researchers are increasingly able to predict which therapies have the greatest potential to eliminate the cancer and increase long-term survival.
+“Genomics is the new frontier of cancer research, and this study shows that we may be able to accurately determine what treatment methods will and will not be effective for individual patients after just one dose of medicine,” said Lyndsay Harris, MD, study investigator and Director, Breast Cancer Program, UH Seidman Cancer Center and Professor of Medicine at Case Western Reserve University School of Medicine. “The ability to understand potential clinical outcomes for patients earlier in the treatment process would provide physicians with better opportunity to personalize patients’ medicines according to their own tumor responses.”
+UH researchers compared tumor biopsies to determine the rate and type of mutation to the cells before and after chemotherapy and surgical intervention.  Using deep genetic sequencing, the study allowed them to compare the rate of clonal mutations to the progress of a patient’s health, thereby determining that the clonal abundance after brief exposure to therapy could accurately predict the patient’s outcome.
+At the 2013 CTCR-AACR San Antonio Breast Cancer Symposium, Caris Life Science presented similar research targeted to aggressive and deadly triple negative breast cancer (TNBC), which makes up around 10% of all breast cancers in the United States.  “While metastatic triple negative breast cancer may be responsive to chemotherapy, it is very challenging to treat, as there are very few proven targeted therapies for this cancer sub-type,” said Joyce O’Shaughnessy, MD, from Baylor Sammons Cancer Center. “The data presented in this study contributes to the growing body of research dedicated to uncovering new or unconsidered therapeutic targets and strategies for TNBC patients.”
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Artificial Intelligence Could Take Over Surgical Jobs by 2053
+O’Shaughnessy and her team profiled 5500 breast cancer patients to identify potential molecular differences between sub-types, and to pinpoint features of TNBC that could be affected by drug intervention.  The researchers were able to identify several gene features and mutations that might benefit from targeted therapies.
+“Protein expression analysis by immunohistochemistry (IHC) in particular, provided some potentially important clinical insights for oncologists treating TNBC patients,” said Zoran Gatalica, MD, DSc, Executive Medical Director at Caris Life Sciences. “For patients with very limited therapeutic options and/or aggressive disease, like those diagnosed with TNBC, Caris’ holistic approach to molecular profiling is critically important, as it provides both genomic and proteomic analyses of their cancer’s molecular alterations.”
+Tagged Applied AnalyticsClinical AnalyticsMedical ResearchPatient CareQuality Of Care
+
+

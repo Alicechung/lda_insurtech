@@ -1,0 +1,30 @@
+HHS, Epic, Cerner, More EHR Vendors Make Interoperability Pledge
+
+February 29, 2016
+
+By Jennifer Bresnick
+February 29, 2016 - LAS VEGAS – At a keynote address during the 2016 HIMSS Conference and Exhibition, HHS Secretary Sylvia Burwell announced a broad industry initiative to further health data interoperability, information sharing, and patient engagement.
+More than a dozen professional organizations, the five largest healthcare systems in the country, and electronic health vendors representing 90 percent of the EHR market in the United States have all agreed to implement three core principles to reduce information blocking, increase patient access to their own health data, and embrace national interoperability standards, including those related to privacy and security.
+“These commitments are a major step forward in our efforts to support a healthcare system that is better, smarter, and results in healthier people,” Burwell said.  “Technology isn’t just one leg of our strategy to build a better healthcare system for our nation – it supports the entire effort.”
+“We are working to unlock healthcare data and information so that providers are better informed and patients and families can access their healthcare information, making them empowered, active participants in their own care.”
+Dig Deeper
+Top Health IT Groups Ask Congress for Patient Identification Tools
+AMIA: Health Informatics Can Help Overcome the Big Data “Deluge”
+Top 10 Challenges of Big Data Analytics in Healthcare
+Vendors including Epic Systems, Cerner, Allscripts, athenahealth, CPSI, GE Healthcare, MEDITECH, and NextGen, as well as organizations like Surescripts and providers including Geisinger Health System, Kaiser Permanente, Intermountain Healthcare, and Partners Health, have agreed to participate. 
+The commitments address three of the biggest concerns about the use and flow of data in a time of widespread change across the healthcare industry.
+Consumer access to information is considered a cornerstone of healthcare reform efforts, as fee-for-service reimbursement fades and value-based payments demand more engagement from patients.  This group of stakeholders will further consumer data access by helping patients learn how to share their information, direct it to their desired location, and reassure them that their privacy and security are of utmost concern.
+Many of the leading health IT developers, including Epic Systems and Cerner Corporation, are employing the HL7 Fast Health Care Interoperability Resources (FHIR) to enable the flow of data across disparate health IT systems, a strategy that has full support from rule makers.
+In addition to strengthening the technical infrastructure for health data interoperability, the participants pledge to eliminate information blocking, a topic that has been hotly contested across the industry during the past year.
+While vendors have insisted that they do not take part in malicious or purposeful data blocking, an April report by the Office of the National Coordinator raised questions – and eyebrows – with its veiled accusations about the prevalence of this detrimental practice.
+HHS hopes that the adoption of federally recognized and industry-endorsed data standards will make the possibility of information blocking a thing of the past. 
+Many organizations have already started to follow the benchmarks laid out in the ONC’s Interoperability Standards Advisory, which is updated annually to keep up with the latest developments and best practices.
+“The future of the nation’s health delivery system is one where electronic health information is unlocked and shared securely, yet seamlessly, to put patients at the center of their own care,” added National Coordinator Karen DeSalvo.  “This broad agreement by leaders in health and health IT across the nation brings us much closer to our vision for a truly learning, connected health system.”
+The agreement follows several other cooperative efforts that combine the economic power of EHR vendors with the influence of private industry groups and the guidance of federal regulators.
+In October, a dozen notable EHR vendors signed a pact to develop an objective measurement framework for health data interoperability, following loud public outcry at the possibility that these companies and others were engaging in purposeful information blocking.
+Private industry efforts to increase interoperability, including the CommonWell Health Alliance and Carequality, have also made strides in recent months. 
+The newly announced commitment, along with the Federal Health IT Strategic Plan and Nationwide Interoperability Framework, are designed to take advantage of nearly universal EHR adoption in hospitals and continually climbing implementation rates among providers. 
+In a press release, HHS called the commitment a “major milestone in assuring that [EHR] systems talk to one another – a critical foundation for precision medicine and a healthcare system where providers are paid for quality and collaboration.”
+Tagged EHR InteroperabilityHealthcare Data GovernanceHealthcare Data StandardsHIMSS16Interoperability
+
+

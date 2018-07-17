@@ -1,0 +1,16 @@
+Algolux Wins The Vision Product Of The Year Award At Embedded Vision Summit
+
+23 May 2018
+
+CANA Deep Neural Network Software for Robust Perception Recognized as Best Automotive Solution
+Algolux, the leading provider of machine learning optimization platforms for autonomous vision, has won the Vision Product of the Year Award at the Embedded Vision Summit. Algolux was presented with the award for Best Automotive Solution for its CANA full-stack deep neural network (DNN) for robust perception as determined by an independent panel of computer vision expert judges.
+“We congratulate Algolux on the recognition of its CANA DNN software for robust computer vision perception as Vision Product of the Year Awards, Best Automotive Solution.”
+Jeff Bier, founder of the Embedded Vision Alliance
+Open to all Embedded Vision Alliance® Member companies, the Vision Product of the Year Award winning entries are selected by an independent panel of judges based on innovation, impact on customers and the market, and competitive differentiation.
+Perception accuracy for autonomous vision in challenging imaging conditions, such as low light and adverse weather, is mission-critical for safety in ADAS and autonomous driving. CANA applies a novel end-to-end DNN that integrates the image formation model with the high-level computer vision model to significantly improve accuracy versus today’s alternative state of the art approaches.
+Allan Benchetrit
+“We are honored to win this Vision Product of the Year Award for automotive. This acknowledgment from computer vision industry experts provides distinct recognition that we are uniquely addressing critical challenges,” said Allan Benchetrit, Algolux President and CEO. “The award highlights how Algolux’s autonomous vision technology is on its way to making a meaningful impact on the mission-critical concern of safety in the development and deployment of vision systems in the automotive industry.”
+Jeff Bier
+“The Vision Product of the Year Awards recognize the most innovative products and technologies addressing the industry’s hardest challenges in computer vision,” said Jeff Bier, founder of the Embedded Vision Alliance. “We congratulate Algolux on the recognition of its CANA DNN software for robust computer vision perception as Best Automotive Solution.” 
+
+

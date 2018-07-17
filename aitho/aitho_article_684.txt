@@ -1,0 +1,18 @@
+Aqua Security Integrates With Google Cloud Security Command Center, Providing Enterprises With Enhanced Container Runtime Security
+
+04 May 2018
+
+Aqua’s expertise in full lifecycle container security helps Google Cloud customers secure applications running on Google Kubernetes Engine
+KubeCon — Aqua Security, a platform provider for full lifecycle container and cloud-native security, today announced its partnership with Google Cloud to bring container runtime security capabilities to Cloud Security Command Center(Cloud SCC), a security and data risk platform enabling enterprises to gather data, identify threats, and act on them before they result in business damage or loss.
+Effective container runtime security hinges on security response teams being able to quickly detect and respond to security threats on live containers– from detection, to remediation, to forensics. With new container security capabilities and partners available through Cloud SCC, customers can view security alerts for Kubernetes Engine clusters in a single pane of glass and choose how to best take action.
+Aqua’s integration with Cloud SCC provides real-time visibility into container security events and policy violations, including:
+Inventory of vulnerabilities in container images in Google Container Registry (GCR), and alerts on new vulnerabilities
+Container user security violations, such as privilege escalation attempts
+Attempts to run unapproved images
+Policy violations of container network, process, and host resource usage
+Upesh Patel
+“We are thrilled to collaborate with Google Cloud on making containerized applications even more secure for customers using the Google Cloud Platform,” said Upesh Patel, vice president of business development at Aqua Security. “With the kind of visibility and control Aqua can provide to users of Google’s Cloud SCC, we’re opening the way to easier, more centralized control of container deployments, and allowing for faster customer adoption.”
+Andy Chang
+“At Google, we’ve had a decade’s worth of experience building – and securing – containers. We are constantly developing new solutions to ensure customers are armed with the tools needed to combat today’s security challenges,” said Andy Chang, Product Manager, Google Cloud. “With new container runtime security capabilities in Cloud SCC, and technical integrations such as with Aqua Security, we are giving customers access to the tools they need to protect containers.”
+
+

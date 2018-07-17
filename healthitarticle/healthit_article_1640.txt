@@ -1,0 +1,33 @@
+IOM Outlines Best Practices for Clinical Data Sharing
+
+January 16, 2015
+
+By Stephanie Reardon
+January 16, 2015 - To share or not to share? That is often the question that healthcare providers face when gathering clinical data. Clinical data sharing requires regulation in order to protect the privacy of participants and sponsors. Yet clinical data has also proven useful for the advancement of medical research and the improvement of care. To tackle this problem, the Institute of Medicine (IOM) has organized a committee to piece together appropriate practices for clinical data sharing.
+“Many of the risks associated with sharing clinical trial data may be mitigated by controlling which parties can access data and under what conditions,” the IOM report states. “Policies for granting access to data should be in the service of several goals—protecting the privacy of participants; reducing risk of invalid analyses or misuse; avoiding undue burdens on data users and harm to investigators and sponsors; and enhancing public trust in clinical trial data sharing.”
+The IOM committee has outlined four principles in their report to be used as guidance when sharing clinical trial information:
+Fully utilize beneficial clinical trial information  while limiting data-sharing risks
+Respect the privacy of participants whose data is shared
+Foster public trust and awareness of clinical trials
+Share trial data in an unbiased manner
+These principles will be utilized differently depending on various factors, such as data sharing concerns and potential risks. Additionally, the IOM committee determine the best stage and conditions in the clinical trial lifecycle at which each data type should be shared.
+Dig Deeper
+AMIA: Health Informatics Can Help Overcome the Big Data “Deluge”
+Why Patient-Reported Outcomes Data is Key to Healthcare Quality
+AHRQ to Grant $5M for Big Data Patient Safety Learning Labs
+The committee decided the data will be shared based on the following goals:
+give an opportunity for clinical trials to publish results prior to allowing secondary investigators access to the data
+permit secondary investigators access to trial data after time has passed (no longer than 18 months) or reproduce information from a published analysis.
+protect the sponsor’s commercial interests so that they see an investment return
+IOM indicates in their report that challenges could hinder progress of future data sharing:
+lack of data platform storage infrastructure to manage trial sizes
+data platforms lacking in ease of use and are not intuitive for users
+clinical trials workforce is too small
+data sharing costs are not sustainable
+It is the IOM Committee’s opinion that allowing public access to clinical trial information is appropriate and may open the door for sharing other types of data (if those involved in the data set are not opposed to the data being shared).
+A press release from the United States Senate Committee on Finance indicates that public access to this type of information may be easier to gain with the introduction of the bipartisan Ensuring Access to Clinical Trials Act, legislation. Senate Finance Committee Ranking Member, Ron Wyden, D-Ore.; Finance Committee Chairman Orrin Hatch, R-Utah; and Senator Edward Markey, D-Mass introduced this legislation on January 9th, which would allow people receiving Supplemental Security Income (SSI) and Medicaid to continue to be involved in rare disease clinical trials. Currently, a 2010 version of the law is set to expire in 2015 if it is not renewed.
+“We all know what’s at stake and how it’s often difficult to find participants for rare disease clinical trials,” Wyden said. “This law has helped increase the number of people who can participate and, hopefully, be a part of the effort to improve treatments and find cures.”
+“Clinical research is the key to unlocking the cures of the future. Patients should never be forced to choose between their benefits and the promise of a clinical trial,” Markey added. “This legislation will help more people with rare diseases participate in these critical trials, improving the chances of finding cures and better treatments for those with rare diseases.”
+Tagged Applied AnalyticsClinical Data
+
+

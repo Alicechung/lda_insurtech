@@ -1,0 +1,21 @@
+UCSF Takes Aim at Health Data Interoperability with New Platform
+
+October 26, 2015
+
+By Jennifer Bresnick
+October 26, 2015 - EHR vendors aren’t the only ones with a newly vested interest in health data interoperability, and they certainly don’t have a lock on the health information exchange innovation marketplace.   In conjunction with Cisco, the University of California at San Francisco is hoping to bring its own ideas to the big data table by developing a dedicated, collaborative interoperability center to design and test information exchange protocols across health IT platforms and devices.
+“Fragmentation of information is one of the most challenging impediments in health care today,” said Michael Blum, MD, UCSF associate vice chancellor for Informatics and director of the UCSF Center for Digital Health Innovation, which will oversee the initiative. 
+“In human terms, the consequences are enormous: the lack of complete information on our patients leads to poor, costly care, delays in diagnosis or treatment, and dissatisfied patients - all due to health information systems that cannot communicate with one another,” he added. “In this age of apps, social media, and mobile communications, this status quo is completely unacceptable to both patients and providers. We plan to change all of that with this partnership.”
+At the university’s Mission Bay campus, experts will work to develop a platform capable of achieving many of the industry’s most difficult interoperability goals: sharing critical patient information in a vendor-agnostic environment, ensuring complete and accurate records are available at the point of care, and integrating disparate sources of data from technologies such as wearables, mHealth apps, and remote monitoring devices.
+Dig Deeper
+CT Medical Society Announces New Health Information Exchange
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+“All of us experience varying states of wellness and illness in our lives and contact many points of care, where important data is generated. We move freely between those points of care, but our data does not,” said Aenor Sawyer, MD, a UCSF orthopedist who has taken an active role in establishing the partnership. 
+“With this interoperability platform in place, the volumes of health data generated from clinical and non-clinical sources can be integrated and analyzed, resulting in accessible and actionable information and, ultimately, better care.”
+For its part, Cisco hopes to join the growing ranks of infrastructure corporations carving out a niche in the lucrative healthcare space.  By developing healthcare-specific applications in conjunction with UCSF researchers, the company hopes to establish new territory in the health data interoperability sphere.
+“There is a tremendous opportunity to integrate the field of health care,” said Mala Anand, senior vice president of Software Platforms Group, Cisco. “By connecting the data, processes and experiences together across the participants in the health care ecosystem, we have an opportunity to truly transform health care. We’re very excited to be embarking on this journey with UCSF - a leader in health sciences research and patient care.”
+The platform will be piloted at UCSF Medical Center, but the partnership’s leaders envision quick expansion to other sites within the University of California health system, including UCSF Benioff Children’s Hospital and John Muir Health and Hospice by the Bay.
+Tagged Analytics InfrastructureHealth Information ExchangeInteroperability
+
+

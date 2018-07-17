@@ -1,0 +1,33 @@
+FDA Drafts Docs on Next-Gen Sequencing for Precision Medicine
+
+July 20, 2016
+
+By Jacqueline LaPointe
+July 20, 2016 - As part of its effort to advance precision medicine and genomics research, the Federal Drug Administration (FDA) has released two draft guidance documents that would implement regulatory processes for developing and using next-generation sequencing tests.
+The agency devised the guidance proposals after collaborating with genomic experts, industry stakeholders, healthcare providers, and patients at four public workshops.
+“Based on this input, we crafted draft recommendations that we believe will encourage innovation and advance the goal of precision medicine: to speed the right individualized treatments to patients sooner,” said Jeffrey Shuren, MD, JD, Director of the FDA’s Center for Devices and Radiological Health.
+“Precision care is only as good as the tests that guide diagnosis and treatment. The FDA’s job is to ensure that doctors and patients can depend upon the accuracy, reliability and clinical validity of these tests. It’s our hope that this approach will achieve just that.”
+The two draft guidance documents are designed to offer a flexible and adaptable approach to regulatory oversight of next-generation genomic tests. The FDA aims for the documents to open the market to variations in development and bolster innovation of these technologies.
+READ MORE: Cancer Detection Company Gets $900M from Pharma, VC Investors
+In the first draft guidance, titled “Use of Standards in FDA’s Regulatory Oversight of Next Generation Sequencing (NGS)-Based In Vitro Diagnostics (IVDs) Used for Diagnosing Germline Diseases,” the FDA outlines how developers can design, create, and validate next-generation genomic sequencing tests for rare hereditary diseases.
+The agency also included provisions for using FDA-recognized standards to show analytical validity, such as how well a test can identify the presence or absence of specific genomic changes.
+Next-generation sequencing tests could be exempted from premarket notification requirements under this document, especially as the FDA continues to form standards for genomic tests. With more standards, the FDA explained that the safety and effectiveness of these tests can be assured using general controls.
+In the second draft guidance, titled “Use of Public Human Genetic Variant Databases to Support Clinical Validity for Next Generation Sequencing (NGS)-Based In Vitro Diagnostics,” the FDA describes how test developers can use clinical evidence from FDA-recognized public genome databases.
+By using FDA-approved evidence, the draft guidance hopes to develop easier pathways for marketing clearance and approval for next-generation sequencing tests. The FDA explained that test developers could use the databases to support clinical claims for their tests and ensure their clinical interpretations of genomic test results are accurate.
+READ MORE: Precision Medicine Study Highlights Role of Machine Learning
+However, the approved databases described in the document only contain human genetic variants and do not include databases that are used for microbial genome identification as well as the detection of antimicrobial resistance and virulence markers.
+The FDA developed the guidance proposals as part of its role in the Precision Medicine Initiative. The agency is tasked with establishing regulatory policies that foster genomic testing innovation and ensure that next-generation sequencing tests are safe and effective for consumers.
+“Targeting the right treatments to the right patients at the right time is the goal of the President’s Precision Medicine Initiative,” said Robert Califf, MD, FDA Commissioner. “Soon, patients will have a much more complete picture of their health than in the past, informed by their genetic and genomic makeup. The FDA is preparing for this exciting approach at multiple levels.”
+The agency has asked the public to make comments on the draft guidance documents during the 90-day comment period.
+The FDA’s push to develop regulatory guidelines on next-generation genomic sequencing comes at a time when these tests are becoming a staple in precision medicine.
+READ MORE: Pharma, Tech Companies Set to Restructure Healthcare Big Data Market
+While genomic sequencing tests cost millions of dollars a couple of years ago, researchers can now sequence the human genome for a couple of thousand dollars in just a few days. Most of these tests can also reduce diagnostic times and provide more personalized treatment options.
+“The depth of the analysis that can be done now is staggering,” Dr. Giselle Sholler, Chair of the Neuroblastoma and Medullablastoma Translational Research Consortium, told HealthITAnalytics.com.  “When we first started [using genetic sequencing for precision medicine applications], it would have taken over two months, but now we can do it in near real-time for our patients.”
+Based on new technologies that provide cheaper tests and faster results, the next-generation sequencing market is expected to be worth more than $27 billion by 2022, accounting for a 40.1 percent compound annual growth rate.
+As the demand for next-generation sequencing tests grows, federal agencies, like the FDA, are seeking ways to help the healthcare industry standardize the tests and ensure that providers and patients are reaping the rewards from precision medicine efforts.
+Dig Deeper:
+• Can Next-Gen Genomics Ease the Precision Medicine Bottleneck?
+• How Precision Medicine Will Shift from Research to Clinical Care
+Tagged GenomicsPersonalized MedicinePrecision Medicine
+
+

@@ -1,0 +1,21 @@
+Predictive Analytics Reduces Readmissions for Heart Failure
+
+May 14, 2015
+
+By Jennifer Bresnick
+May 14, 2015 - A predictive analytics algorithm developed by researchers at the University of Texas at Dallas can help to lower the rate of preventable 30-day readmissions for congestive heart failure, according to a study published this month in Information Systems Research.  The study demonstrated how predictive analytics that flag patients at a high risk of returning to the hospital can help healthcare providers meet CMS goals to reduce unnecessary admissions in order to cut spending across the healthcare system.
+Using data from 67 Texas hospitals over a four-year time period, the researchers were able to create a predictive analytics algorithm that could successfully identify the three key questions of population health management: whether an event like a preventable 30-day readmission will occur, how often it will happen, and when it is most likely to take place. 
+“Close to 30 percent of congestive heart failure patients were readmitted within 30 days from 2006 to 2010 in the Dallas-Fort Worth region,” said study author Dr. Zhiqiang Zheng, a professor of information systems at the Naveen Jindal School of Management at UT Dallas. “Building an early warning system that identifies predictors for likely readmissions is crucial.” 
+“Our study highlights the role of predictive analytics not only to identify high-risk patients, but also to reduce the costs associated with future readmissions of patients who suffer from chronic diseases,” added Dr. Indranil Bardhan, professor and area coordinator of information systems and lead author on the study. 
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Duke Health Achieves Stage 7 Maturity Score from HIMSS Analytics
+Natural Language Processing, AI to Foster Clinical Decision Tools
+The UT Dallas team found that hospitals with more extensive use of health IT systems for cardiology management and administrative tasks were less likely to experience higher rates of 30-day readmissions for congestive heart failure.  They also found evidence that patients who receive care at the same healthcare organization throughout their chronic disease management journey were significantly less likely to experience multiple readmissions, indicating the important role that care coordination can play in improving outcomes.
+The use of predictive analytics to forecast service utilization and patient outcomes has become an important goal for many healthcare organizations seeking to get ahead of the value-based reimbursement curve.  As payments begin to shift towards rewarding quality instead of quantity, CMS and private payers have both been targeting preventable 30-day readmissions as a key indicator of patient management and care quality. 
+While few organizations are currently capable of using predictive analytics on a large scale to increase operational efficiencies and forestall adverse events for patients, those that have implemented a wider array of available health IT technologies, such as remote monitoring, real-time clinical analytics derived from EHR data, and health information exchange with pharmacies to ensure medication adherence have seen a great deal of success with their population health management initiatives.  
+“Hospitals should consider the use of innovative information technologies, including electronic health records and patient portals, to improve communication between patients and clinicians in order to improve the quality of care delivery to patients with chronic diseases such as congestive heart failure,” Bardhan said.
+“Hospitals can use the approach that we have developed to not only identify and stratify patients based on their readmission risk propensity,” he added, “but also reduce their frequency of future readmissions by delivering appropriate treatment and providing more efficient post-acute care.”
+Tagged Big Data AnalyticsClinical AnalyticsPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,15 @@
+Mapbox To Bring AI-Powered Vision SDK To Microsoft Azure IoT Platform
+
+01 Jun 2018
+
+Mapbox announced it will integrate its Vision SDK with Microsoft Azure IoT platform, enabling developers to build innovative applications and solutions for smart cities, the automotive industry, public safety and more.
+The Mapbox Vision SDK provides augmented reality (AR) navigation, driver alerts for speed limits, pedestrians, vehicles and other event-based triggers for responsive apps. The integration with Azure IoT Hub will provide developers with a holistic solution that aggregates cloud data using artificial intelligence (AI) and machine-learning technologies to send reports.
+Mapbox plans to integrate the open-sourced Azure IoT Edge runtime, which provides custom logic, management and communications functions for edge devices. Events detected from the Vision SDK integrated with Azure IoT Edge will enable developers to build responsive applications that both provide immediate feedback to the driver as well as stream semantic event data into Microsoft Cognitive Services for additional analysis.
+Reports include sending collision incidents to an insurance platform, providing information about heavy traffic or blocked roadway alerts to a dispatch network, or activity about a crossing intersection to a business intelligence platform analyzing route paths. In addition, the integrated solution provides reliable and secure connection for the devices running the Vision SDK to Azure IoT Hub.
+Mapbox’s Vision SDK runs neural networks directly on a user’s mobile device or embedded hardware within a vehicle to segment the environment and detect discrete features, like other vehicles, pedestrians, speed limits, construction signs, crosswalks, vegetation and more.
+Eric Gundersen
+Tara Prakriya
+“The future of location is building live maps in real time from distributed sensor networks embedded in vehicles and mobile devices at scale,” said Eric Gundersen, CEO of Mapbox. “Every vehicle and mobile device utilizing the Vision SDK creates a better map, and this same data is streamed back to Microsoft Azure for further processing. The Vision SDK not only runs in real time to improve the driving experience in the vehicle, but also generates data for the back end to update the map based on changing conditions, powering larger solutions for smart cities or insurance companies.”
+“The intelligent cloud and intelligent edge brings a wide range of possibilities for the future of smart cities, transportation, public safety and more,” said Tara Prakriya, group program manager, Microsoft Azure at Microsoft Corp. “By integrating Mapbox’s Vision SDK with Azure IoT Hub, developers will have the power of Microsoft’s global-scale cloud platform and advanced AI services to ingest data in real time.”
+
+

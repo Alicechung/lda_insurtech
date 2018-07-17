@@ -1,0 +1,45 @@
+Using Business Intelligence to Fine-Tune Operating Room Utilization
+
+December 06, 2017
+
+By Jennifer Bresnick
+December 06, 2017 - Surgical space is a finite resource for hospitals and health systems, and it is also one of the most important.  Long wait times for an operating room are simply unacceptable for most physicians and their patients, especially when emergency situations arise.
+Even worse is an OR that has booked for a provider but consistently remains empty during the scheduled hours, says Yi-An Huang, Director of Operations at Boston Medical Center (BMC) – especially when the mismatch could be avoided through better big data analytics and the use of business intelligence tools.
+Yi-An Huang, Director of Operations at Boston Medical Center
+Source: Xtelligent Media
+Boston Medical Center has around 400 beds and 24 operating rooms. “That means scheduling OR time can be extremely complex,” Huang explained to HealthITAnalytics.com. 
+“It’s not a very good look when you have physicians complaining that their patients can’t get into the OR fast enough, but when you go to check on the situation, the room is empty because it was blocked off for someone who didn’t end up using it.”
+Surgery can be an unpredictable specialty, he added, and an individual provider’s needs might change from week to week. 
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+“They might need two hours or ten hours,” he said, “and they might not always be able to tell us what the number will be in advance.  We need to make sure we have time available when something takes too long, or gets changed, or becomes an emergency and needs to be booked in right away.”
+Surgeons have very full schedules that include more than just operating time, Huang said.  “They have clinic consults; they have meetings.  So you want to make sure they can schedule those things with some degree of certainty – you can’t just tell a surgeon they have to jump into the OR whenever it happens to be free.”
+Balancing adaptability with predictability was a difficult task for Huang, who doesn’t have a large in-house analytics team to help him take on the challenge.
+“When I started at BMC, there was very little data available about OR scheduling and what we were doing,” he recalled.  “We had just transitioned to Epic Systems, and we were trying to set up some of the analytics and reporting to understand whether our surgical teams were effectively using the time that was allotted to them.”
+“Epic has a lot of strengths, but we couldn’t get exactly what we needed in this case.  I was actually taking the PDF reports we got from Epic, copying and pasting the data into Excel, and re-working the data so we could use it for what we needed.”
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+Using Excel as a fallback wasn’t sufficient for this use case, Huang said, even though the ubiquitous data management tool can provide healthcare organizations with some analytics capabilities.
+“Hospitals have so much data available these days, but we’re still cutting that data with stone tools,” he stated.  “You can have a great data warehouse, but if you don’t have the right applications on top of that to perform meaningful analytics, you’re probably going to rely heavily on Excel.”
+“That’s a classic stone tool.  You can get the job done with some effort, but it’s not very pretty, and you can’t really get as deep into the data as you might want to.”
+Healthcare organizations are in desperate need of better business intelligence, he continued.  Without a firm grip on utilization metrics, patient challenges, and available resources, providers will be unable to meet the high-pressure challenges of value-based care.
+“Every hospital or health system has to learn to use their data better and understand their patients better so they can intervene to improve outcomes quicker and more effectively, especially if they want to compete in the value-based care market,” he stressed.
+READ MORE: Big Data, PCP Engagement Aid Mount Sinai with Population Health
+Small tweaks to a population health management approach, for example, could produce significant returns in patient health as well as spending.
+“The classic illustration is buying an air conditioner for chronic asthmatics – that’s a minor up-front investment, but it can help improve their quality of life and lower costs significantly down the line.  But if you don’t have the data or the insight into that data to identify those patients who could benefit from a program like that, you’re leaving money on the table.”
+With a targeted business intelligence tool at his disposal, Huang is now able to adjust OR booking slots more easily and more often, ensuring that providers who need extra time can get it – and those that don’t are not inhibiting the work of their colleagues.
+“Now instead of spending two hours a month putting together custom reports in Excel, I can go into Hospital IQ and get data in a usable format to get the answers I need,” said Huang.
+Having better business intelligence at his fingertips has actually made some tough conversations easier, he added.
+“There was definitely a phase where I really needed to go to providers and explain where the data came from and how we constructed our metrics,” Huang acknowledged. 
+“They wanted to make sure it was reliable enough to make decisions, which is a great thing for providers to care about and bring up to their analytics leaders.  The rest of it was just getting people used to the fact that this was how we were going to allocate OR time from now on.” 
+Checking the scheduling every two or three months allows Boston Medical Center to keep on top of staffing changes, identify opportunities for improvement, and answer questions from the surgical teams.
+“The fact that we are doing this in an objective way, transparently and backed by data, has made people feel more included in the process, which reduces friction when we have to make a change they might not particularly like.”
+“I can go to them and say, ‘Listen, the data shows that this time isn’t getting used.  We’re going to reallocate it, but we’re also going to watch it and see if that change is effective or not.  That way, we can add back the time if it turns out to be warranted.’”
+Speedier access to data that is tailored to the specific use case at hand has enabled Boston Medical Center to continue developing a culture of reliance on data for operational decision-making.
+“Because we can get the data so much more easily, we can be very responsive and turn this into a continuous improvement process,” explained Huang. 
+“We are able to have much more thoughtful, informed, and intentional conversations about all the little adjustments we need to make in order to maximize utilization of a finite resource.” 
+Executives, clinicians, and other stakeholders are more willing to collaborate when sharing a single, trusted source of information, said Huang.
+“There is a lot more scrutiny of our processes, but it’s not negative or punitive in nature.  The conversations have shifted from ‘I think this might be happening’ to ‘here’s the data that supports my theory about this trend.’  That’s a much better conversation to have.  It’s less contentious, and more actionable.”
+“Even though some of our tools are still stone tools, there are a lot of opportunities to use them more effectively.  We’re examining our processes and using data to understand performance.”
+“That is an organizational culture shift that has happened over time, and I really believe it means we’re headed in the right direction.”
+Tagged Analytics InfrastructureFinancial AnalyticsHealthcare Business IntelligenceHospital QualityInterviewsValue Based Care
+
+

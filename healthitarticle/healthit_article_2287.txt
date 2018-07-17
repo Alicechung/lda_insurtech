@@ -1,0 +1,17 @@
+Patient privacy, data security concerns plague analytics
+
+September 04, 2013
+
+By Jennifer Bresnick
+September 04, 2013 - Anyone who has cringed after reading a news item about a careless data breach knows that patient privacy is nothing to take lightly.  Since data analytics relies on collecting and storing huge banks of sensitive personal health information (PHI), privacy concerns will naturally follow.  Data stored for analytics use is usually thoroughly deidentified, stripped of any information traceable back to a specific patient, but is that always enough?  Do you even know what kind of protections you need to keep your datasets safe?
+Healthcare analytics is such a new field that even the professionals aren’t always sure what exactly needs to be taken into account.  “We don’t know what all the use cases are, and the use cases and data needs will change over time,” explains John Houston, VP of Privacy and Information Security at the University of Pittsburg Medical Center, to iHealthBeat. “It is hard to say what we need to have in place because we don’t know the types of things we are going to be doing.”
+While employee controlling access to the data, encrypting everything, and filling in all the check boxes to prevent criminal data breaches or accidental data loss can certainly keep many of the demons at bay, patient privacy is a wide-ranging issue with any number of tentacles.  The Health Insurance Portability and Accountability Act (HIPAA) lists 18 identifying variables that need to be stripped from data before using the information for analytics, including phone numbers and email addresses, medical record, health plan, and social security numbers, geographical data, and date elements including birth and death dates and admissions or discharge information.
+“Is there a way we can accomplish what we need to do without using data that could be stolen, hacked or mislaid? If we can avoid using identifiable data, we should do so even if it is legally permissible. That, in and of itself, solves a lot of problems and issues associated with information security,” Houston said.  Removing all possible personally identifiable information (PII) reduces the likelihood of paying stiff fines for HIPAA violates and a hefty sum for patient notification and identify theft remediation.
+Dig Deeper
+VA, DeepMind Partner for Machine Learning, Predictive Analytics
+EHR Data Fuels Accurate Predictive Analytics for Suicide Risk
+EHR Data Mining, Patient Outreach Can Aid Hypertension Care
+With new possibilities cropping up at a rapid rate as the field expands, each situation must be dealt with on an individual basis, Houston says.  “So much of this is in its infancy.  The best thing we can do right now is put the governance in place, so as we come up with these new and novel use cases we can make sure we do the right things.”
+  Tagged EHR Patient DataHealthcare AnalyticsPatient Care
+
+

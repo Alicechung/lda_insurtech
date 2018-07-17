@@ -1,0 +1,12 @@
+WorkFusion And Owliance Group Bring AI-powered Cognitive Automation To France
+
+25 Oct 2017
+
+WorkFusion and Owliance Group announced the first deployment of AI-powered cognitive automation in France. This marks the first time that a French organization has automated a business process using both RPA and cognitive automation capabilities.
+Owliance Group, a provider of insurance business process outsourcing (BPO) services, was looking to automate the processing of Social Security logs, which involves data extraction from unstructured documents and subsequent entry into the core insurance system. Previous efforts to digitize this process with rule-based Robotic Process Automation (RPA) technologies had failed, as the processing of such diverse and unstructured data required cognitive automation capabilities not included in standard RPA software.
+With WorkFusion’s AI-powered Smart Process Automation (SPA), Owliance has been able to automate nearly 60% of the process, reducing manual intervention to exceptions handling. “By leveraging these new technologies we show that we can redesign the way we deliver our services,” says Owliance Managing Director, Zyed Ben Chaabane. “For us, Intelligent Automation is a strategic priority, and we are thrilled to share the value it creates with our customers.” Owliance now plans to bring WorkFusion to more of its insurance customers in France.
+This deployment also marks a significant milestone for WorkFusion in France, says Adrien Cipel, WorkFusion VP of Sales EMEA who is based in the company’s Paris office. “We’re proud to count Owliance as a customer. The company has a great vision for how to bring the value of RPA and cognitive automation to their customers and help large insurers transform.”
+Owliance is the leading provider of business process outsourcing (BPO) services in France, working primarily with health and protection insurers. The group also produces the Owlink software.
+WorkFusion’s Intelligent Automation empowers enterprise operations to digitize. WorkFusion combines all of RPA and AI-powered automation capabilities that global businesses need to digitize into enterprise-grade products purpose-built for operations professionals. Operations teams at data-intensive organizations, such as global banking and financial services companies, healthcare and insurance providers, and BPO firms use WorkFusion Intelligent Automation to become leaner, more productive and agile. WorkFusion is headquartered in New York City with offices throughout the US, EMEA and APAC.
+
+

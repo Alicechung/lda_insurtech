@@ -1,0 +1,12 @@
+AI Incorporated Presents Design For An Autonomous Refuse Receptacle Robot
+
+10 Mar 2018
+
+With This Invention Replacing Full Trash Cans Will Require Less Intervention On The Part Of Individuals
+AI Incorporated, Canada’s pioneering robotics and artificial intelligence research company, is working on a design for an autonomous refuse receptacle robot. A new application for mobile robotics, the new AI enhanced robotic system allows for a continuous cycle of mobile robotic devices to work in order to provide the end user with unending service.
+  With this new application in mobile robotics, the company plans to use its Simultaneous Localization and Mapping (SLAM) technology combined with deep learning and to pioneer in a new generation of robots. The autonomous refuse receptacle robot is an application for the company’s Versatile Self Localizing Autonomous Platforms (VSLAP). This new robot proprietary software called the Quantum Slam Operating System helps companies mobilize any given machine. With this invention replacing full trash cans will require less intervention on the part of individuals. When full, the bins will simply leave their post and an empty one will come to replace them. Where implemented, this system will eliminate the unpleasant task of emptying a filthy trash bin from human chores.
+“Robots are best suited to partake in the work that humans do not wish to conduct,” said Ali Afrouzi, CEO of AI Incorporated and bObsweep Inc. “Not only will these devices be able to navigate themselves, but by autonomously providing this perpetual service to the end user, no lapse in service will ever exist. A continuous service that will ease the lives of individuals in all walks of life.”
+The system utilizes multiple robotic devices each of which contains a comprehensive navigation system using a combination of SLAM, deep reinforcement learning, and computer vision. These devices will be able to map their environment, travel autonomously, communicate with each other, and monitor their internal contents with an extensive array of sensors. This new system for robots allows for a level of autonomous devices only imagined in science fiction, bringing us ever closer to the smart cities of the future.
+AI Incorporated is a tech company that specializes in autonomous robotic devices. AI Incorporated offers Q-OS which is a SLAM enabled Operating System to companies in need of smart mobile platforms. It also provides Versatile Self Localizing Autonomous Platform devices to facilitate autonomy for companies that need it.
+
+

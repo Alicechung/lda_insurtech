@@ -1,0 +1,23 @@
+Using population health management for provider improvement
+
+December 27, 2013
+
+By Jennifer Bresnick
+December 27, 2013 - If there’s one thing that upper management and in-the-trenches clinicians can agree upon, it’s the need to make the best possible use of limited resources.  From the largest hospital chains to the smallest critical access facilities, the process of cutting costs and raising quality performance begins with a deep understanding of the population receiving services.  By utilizing EHR information and community resources, data analytics can illuminate the pathway to an efficient, technology-driven organization finely tuned to the needs of its patient clientele.
+Assembling a population portrait
+Every healthcare organization has so much more unused data than it realizes.  Each patient check-in provides a new data point for a complex picture of financial and clinical activity.  Harnessing these data streams isn’t always easy, and gaps in collection and reporting must be closed before analytics can truly take hold.   While some hospitals are using health information exchange and public data sources to add fuel to the fire, less mature analytics systems must first look locally.
+Emergency room utilization, 30-day readmissions, and infection rates are all standard indicators of hospital quality, but population health management includes variables like local socioeconomic status, vaccine rates, and insurance coverage.  The rate of cell phone and computer ownership can be a sign of potential health literacy, and the number of accessible grocery stores is a key indication of how well the community is able to control its nutrition and related chronic conditions like diabetes, obesity, and hypertension.
+Dig Deeper
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+New Collaboration to Support Diabetes Prevention, Management
+Partnership Offers Chronic Disease Management at Pharmacies
+Physician, know thyself
+Hospitals also need to examine themselves internally.  While the importance of public quality scorecards can’t be underestimated in this age of fierce competition between hospitals, organizations that are truly focused on quality and cost control need to take a good hard look at their own staff, too.  Performance benchmarking isn’t just a nuisance required by CMS.
+Measuring the process as well as the outcomes can help show how well physicians understand the population they are working with.  Can they spot pre-diabetes in time to get it under control?  Are they in tune with the latest heart health standards to prevent long-term complications from high blood pressure?  Are they aware of the high costs of medications that many low-income patients simply can’t afford?  Asking these questions can lead to the redesign of workflows and resource utilization that can raise efficiency and provide better care.
+Engaging with the community
+Arguably the most important step is bringing preventative healthcare and awareness into the community.  Whether it’s providing free clinic services to reduce ER visits or working with long-term care facilities or retail pharmacies to extend the integration of the healthcare system, patients need to know that providers are more than just a place to avoid when they can’t afford their co-pays.  Patients are increasingly turning to alternate methods of communication like mHealth and telehealth, which present an enormous opportunity for providers to reach out and grab patients right where they live.
+Incorporating risk scores and predictive analytics can help providers understand the ebb and flow of community activities and keep one step ahead of spikes in public health needs associated with issues like seasonal flu.  Providing resources like video discharge notes, and patient portals for easy communication can connect patients to providers in lasting ways that go far beyond the basics of Stage 2 Meaningful Use patient engagement requirements.
+Providers may have their work cut out for them as they seek ways to batten down the hatches during a storm of financial and clinical pressures, but improvement will begin by developing a clear picture of the population and what is at stake for the community they serve.
+  Tagged Applied AnalyticsEHR and Patient EngagementEHR Data AnalyticsmHealth and Population HealthPatient CarePopulation Health ManagementPredictive AnalyticsQuality Of Care
+
+

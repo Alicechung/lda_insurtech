@@ -1,0 +1,14 @@
+Smartcalls – A New Web Service From Voximplant – Automates Outbound Call Campaigns With Advanced Speech Recognition Capabilities
+
+20 Apr 2018
+
+Voximplant, a cloud communications platform built specifically for web and mobile app developers, today announced the launch of Smartcalls, an intelligent and customizable web service that enables businesses to create outbound call campaigns with robust voice recognition capabilities. Using Smartcalls, organizations can easily create campaigns and begin placing calls in as little as five minutes – and with no programming or technical knowledge required.
+Because Smartcalls is able to recognize and intelligently comprehend human speech (via Google Cloud and Amazon Polly), businesses can design complex call scenarios in which customers can respond to questions in multiple ways. This allows for a broad set of possible call flows. Call scenarios are designed using Smartcalls’ easy-to-use visual editor, enabling users to intuitively create call logic by assembling blocks that represent the sequence of actions taken by the automated system. This logic can include: placing a call, asking questions by using one of Smartcalls’ synthetic voice options to read scripted text, recognizing and recording voice responses, repeating calls in scenarios where a previous call went unanswered, and more.
+Each block of logic within the visual editor replaces and automates actions that would otherwise be conducted by human operators, while eliminating human error and other limitations. Smartcalls comes with several pre-assembled, plug-and-play scenarios that enterprises can quickly adapt for their needs.
+Vasily Sazhko
+Every assembled call scenario can then be deployed in call campaigns, and be easily managed by specifying call delivery time and contact sheet rules. These rules allow for multiple call groups, time zone-specific settings, and other variables for dynamic campaign execution.
+“Our data shows that using Smartcalls can be up to three times less expensive than using human operators, and the service can reduce the cost of maintaining a call center by at least 25%,” said Vasily Sazhko, Smartcalls Product Director, Voximplant. “At the same time, Smartcalls completely removes the human factor in outgoing call campaigns, taking away human error in dialing and call execution and delivering greater reliability and efficiency for businesses.”
+Alexey Aylarov
+“In our experiences working with companies across many different industries, we’ve recognized the opportunity that businesses have to significantly improve their current customer communications (and help their budgets) by using voice bots and automation,” said Alexey Aylarov, CEO, Voximplant. “We’ve built Smartcalls to be as convenient as possible for users regardless of technical background. We invite businesses to try the Smartcalls visual editor and see just how easy it is to launch an effective call campaign in just minutes.”
+
+

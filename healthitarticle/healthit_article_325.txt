@@ -1,0 +1,25 @@
+ONC Challenges FHIR Developers to Create Secure API Servers
+
+October 11, 2017
+
+By Jennifer Bresnick
+October 11, 2017 - As more and more healthcare organizations begin to adopt the HL7 Fast Healthcare Interoperability Resources (FHIR) as a way to engage in health information exchange, the security of those transactions must be top of mind for developers and participants.
+But since FHIR itself is not a security protocol, says Steve Posnack, MS, MHS, Director of the ONC Office of Standards and Technology, the framework requires an extra layer of security to ensure that data is protected as it flows between entities.
+“Thankfully, many security standards already exist for web services and can be applied to FHIR,” Posnack wrote in a blog post on HealthIT Buzz. “Specific to health IT, the Argonaut Project’s Data Query Implementation Guide, being deployed by many health IT developers, points to the SMART APP Authorization Guide for its security layer.
+Dig Deeper
+FHIR Finally Brings the Internet to Bear on Healthcare’s Big Data
+Can FHIR Spark Health Information Exchange, Interoperability?
+4 Basics to Know about the Role of FHIR in Interoperability
+“Implementing security in health IT is necessary and some of the specifications are not for the faint-hearted, but it’s important that the industry gets as much experience as possible when deploying secure, FHIR servers.”
+To jumpstart the creation of these necessary components, the ONC is offering $50,000 in prizes to developers who create secure FHIR servers using current industry standards and best practices.
+“Ultimately, the Challenge aims to identify unknown security vulnerabilities in the way open source FHIR servers are implemented, and will result in a hardened code base from which all stakeholders can benefit as they deploy FHIR servers in the future,” Posnack said.
+The contest will include two stages.  Three winners of the initial Server Build Stage will advance to the server building track of Stage 2 with the opportunity to collect $10,000 at the end of the competition. 
+The second stage will focus on vulnerability discovery.  The three winners of the first stage will need to operate their FHIR servers throughout Stage 2, and subject their code to teams competing to identify as many security vulnerabilities as possible. 
+The top three teams who discover the most flaws will be eligible for up to $7500, as well as two $2500 bonus prizes for most confirmed vulnerabilities discovered in a single FHIR server and demonstrated ability to change patient data in a FHIR server.
+“At the end of the Challenge, the winning servers’ source code from Stage 1 must be made publicly and openly available consistent with the MIT License, along with a list of all confirmed security vulnerabilities discovered during Stage 2,” Posnack said.
+The friendly competition aims to close as many hidden security holes as possible in existing FHIR servers in an effort to create the next generation of turn-key FHIR code that meets the SMART on FHIR Authorization technical requirements, the challenge website says.
+Industry stakeholders will then be able to build upon these foundations with confidence that their applications can function in alignment with industry best practices.
+“Through this transparent process and outcome, we encourage stakeholders to step up and update the published code to further harden each server’s code base,” Posnack concluded.  “Now…let’s get ready for a showdown!”
+Tagged Data SecurityFast Health Interoperability ResourceFHIRHIE Security
+
+

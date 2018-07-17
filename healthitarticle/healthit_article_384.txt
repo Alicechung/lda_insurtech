@@ -1,0 +1,34 @@
+Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+
+August 10, 2017
+
+By Jennifer Bresnick
+August 10, 2017 - Artificial intelligence and cognitive computing systems may be attracting a lot of hype across the healthcare industry, but the developers of these innovative data analytics techniques are already cashing in on their promises as forward-thinking investors and curious customers start to get in on the ground floor.
+The artificial intelligence in healthcare market is expected to grow at a staggering 48 percent compound annual growth rate (CAGR) between 2017 and 2023, says Research and Markets in a new report. 
+The ambitious figure even tops another recent prediction from Market Study, which pinned the CAGR for artificial intelligence products at 40 percent over a similar time frame, driven largely by drug discovery and imaging analytics.
+By the middle of the coming decade, Research and Markets believes, the sector is anticipated to be worth close to $22.8 billion, fueled by the need to coordinate care, manage electronic health records, and improve efficiency across the care continuum.
+“The deep learning segment accounted for the highest share in 2016 and is expected to dominate the market from 2017 to 2023, owing to increase in use of signal reduction, data mining, and image recognition,” the report states. “The natural language processing segment witnessed the highest growth rate in 2016.”
+READ MORE: Can Artificial Intelligence Relieve Electronic Health Record Burnout?
+Natural language processing (NLP) forms the foundation for many subsequent big data analytics tasks, including much of what is considered to be the focus of artificial intelligence: the analysis of unstructured data.
+“Used as a part of artificial intelligence systems, applications of NLP technologies are being deployed for predictive analysis and clinical decision support systems,” said Transparency Market Research earlier this summer in a market recap that predicted a $4.3 billion opportunity for NLP developers.
+“The global healthcare natural language processing market is expected to receive an impetus from the uptake of these technologies by several companies for extracting knowledge from several clinic documents via machine learning or deep learning applications.”
+Provider-facing artificial intelligence tools are in high demand, with the market segment devoted to health information management and EHR-related technologies projected to see a 46.9 percent CAGR during the forecast time frame.
+Leading companies in the space are Google, IBM, Microsoft, Welltok, and General Vision, the report says.
+READ MORE: Healthcare Data Access is Biggest Artificial Intelligence Bottleneck
+At the same time, cognitive systems, content analytics, and discovery software tools are gaining steam as complex big data analytics and the need for actionable clinical decision support take center stage for providers, payers, and other stakeholders.   
+Cognitive computing tools offer their users suggestions about how to make decisions that lead to optimal results by identifying patterns and trends in very large data sets.
+“It is very difficult to access and keep track of each and every individual data due to the rise of big data,” says a brief from MarketResearchReports.
+“Therefore, it is necessary to implement competitive intelligence and advanced analytics tools that are likely to help gather, examine, and distribute intelligence of products, competitors, and customers, and also help discover deeper insights, generate recommendations, and make predictions.”
+The market for cognitive systems and discovery tools is likely to see a 23.5 percent CAGR until 2025 as techniques including data mining, pattern recognition, neural networks, and graph analysis become increasingly sophisticated.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+However, healthcare organizations will need to pay close attention to how they create, manage, and store their data in order for artificial intelligence and cognitive systems to thrive.  Implementing strong and comprehensive data governance programs now will be a key factor for success in the future machine learning and AI environment.
+Luckily, healthcare providers have a wide array of data governance and health information management (HIM) tools to choose from – and the number of vendors making waves in the HIM space is growing.
+According to a new Mercom Capital report, health information management technologies received $683 million in venture capital funding in the second quarter of 2017, topped only by investments in personal health technologies. 
+The growing interest in managing and leveraging healthcare data has contributed to a 36 percent increase in venture capital investment over the first half of 2016, the report adds.  The second quarter of 2017 saw some of the highest investment rates in digital health tools, with $2.4 billion spent on innovative health IT products.
+“This was the best half and best quarter ever for digital health companies as a result of a few very large deals. We are now comfortably on pace to have the biggest funding year for digital health companies,” said Raj Prabhu, CEO and Co-Founder of Mercom Capital Group.
+As artificial intelligence continues to grab headlines in the healthcare industry, providers will need to carefully choose between innumerable products and services purporting to offer the best possible clinical decision support and analytics capabilities.
+Potential purchasers should be aware that true artificial intelligence that is wholly reliable for independent healthcare decision-making is not yet on the market – and that the results of any machine learning or cognitive computing systems they do implement will be largely dependent on the quality, integrity, and accessibility of their big data stores to begin with.
+In order to prepare for a market in which artificial intelligence is a meaningful competitive differentiator, providers should ensure that they have a strong understanding of the basic principles of information governance, privacy, and interoperability before they invest in tools that make attractive claims about their decision-making prowess.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareHealth Information ManagementHealthcare Data GovernanceMachine Learning
+
+

@@ -1,0 +1,30 @@
+Patient Matching Issues Increase Costs, Threaten Patient Safety
+
+April 12, 2018
+
+By Jessica Kent
+April 12, 2018 - Patient matching issues that result in duplicate records and repeated medical care cost an average of $1950 per patient per inpatient stay and over $800 per ED visit, according to a Black Book survey of 1392 health technology managers.
+Survey participants also estimated that 33 percent of all denied claims are a result of inaccurate patient identification or incorrect information.  Claims denied for these reasons cost the average hospital $1.5 million in 2017 and the US healthcare system over $6 billion annually.
+Patients generate an overwhelming amount of data in every healthcare encounter. Positive outcomes depend on complete, accurate, and up-to-date data, but differences in how health systems classify, store, protect, and share this information can often result in duplicate or inaccurate patient records.
+Dig Deeper
+Patient Matching Hampered by Poor Data Standardization
+Data Integrity Strategies for Patient Matching, Identification
+Patient Matching, Health IT Standards Critical for Interoperability
+Black Book researchers set out to identify gaps, challenges, and successes in patient identification processes, and found that patient matching issues are still prevalent among healthcare organizations. These issues have serious implications for both patient safety and care costs.
+"As data sharing grows and challenges in connectivity are tackled, resolving patient record matching issues has become more urgent and complex," said Doug Brown, Managing Partner of Black Book Research.
+"Despite the increases in record sharing among providers, increased risk and cost from redundant medical tests and procedures because of fragmented data trapped in siloes makes tracking patients especially difficult."
+In addition to increased costs and patient safety hazards, organizations that must correct inaccuracies in patient records risk losing time.
+The survey found that in hospitals with over 150 beds and hundreds of thousands of patient records, the average data clean-up per organization averages longer than 5 months, including implementing process improvements such as data validity checking, normalization, and data cleansing.
+However, enterprise master patient index (EMPI) tools can give organizations an advantage when it comes to patient identification.
+Hospitals that have used EMPI tools since 2016 have reported patient matching accuracy rates of 93 percent for patient registrations and 85 percent for externally shared patient records among non-networked providers.
+In contrast, hospitals without EMPI support tools reported current match rates of 24 percent when organizations exchange patient records.
+EMPI users reported that prior to implementation, an average of 18 percent of their organizations’ patient records were found to be duplicates.
+The top-rated EMPI vendor among survey participants was QuadraMed, ranked first for clinician training, reliability, and user satisfaction.
+NextGate, a cloud-based solution, was ranked second overall. The product was rated highly for its range of offerings and delivery excellence.
+Cerner was ranked eighth overall and was rated well for efficient deployment and implementation.
+Patient data sharing can ensure that different providers across the healthcare industry have a comprehensive picture of patient health. However, when this data is incomplete or duplicated, it can put patients at risk and result in unnecessary costs.
+The survey results reveal the importance of seamless data sharing and the potential of EMPI tools to accurately identify and match patient records.
+“Ultimately, the real challenge of identity management and parsing together a longitudinal health record has to do with integration and interoperability," Brown concluded.
+Tagged Health Data ExchangeHealthcare CostsHealthcare InteroperabilityPatient MatchingPatient OutcomesPatient Safety
+
+

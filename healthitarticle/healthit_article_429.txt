@@ -1,0 +1,35 @@
+mHealth, Socioeconomic Data Address Diabetes Care Disparities
+
+June 22, 2017
+
+By Thomas Beaton
+June 22, 2017 - Three studies presented at the American Diabetes Association’s (ADA) 77th Scientific Sessions assessed the ways in which mHealth and socioeconomic data can decrease care disparities among patients with diabetes.
+These methods, the ADA suggests, address issues with how different populations in the US experience access to high quality care for their chronic disease.
+The use of mHealth by community workers can help with healthcare mobility and access to care regardless of socioeconomic barriers, while a thorough analysis of socioeconomic data gives stakeholders better insights into the most pressing health concerns among diverse diabetic populations.
+Empowering community health workers with mHealth
+In the study "Community Health Workers, Mobile Health, or Both for Management of Medicaid Patients with Diabetes," patients who used a diabetes management app and/or met with a community health worker (CHW) met an average 1.3 additional wellness and clinical goals including lowering hemoglobin, blood sugar, and diabetes duress.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+On-the-ground community health workers could help to bridge gaps in care created by socioeconomic issues, the study found. Using care methods that are fluid and mobile provides new advantages for the complexities of diabetic care.
+“Diabetes self-care is complex and can be a burden for many patients," said study author Michelle Magee, MD, associate professor of medicine at Georgetown University, and the Director of the MedStar Diabetes Institute.  
+“Evidence to show both the potential impact of CHWs and the potential use of mobile health applications to improve health outcomes, as detailed in this study, are needed in order for health care systems to comfortably invest dollars to these new patient support approaches. Our study shows that these two strategies can significantly improve patient health,” he said.
+CHWs and the use of the app were tested both separately and together among 166 Medicaid patients with type 2 diabetes who receive care in primary practices or diabetes clinics. Before the study was conducted, the patients had average hemoglobin levels of 10.5 percent, and they were not meeting three or more established wellness goals.
+Final results of the study found that patients experienced the biggest decreases in hemoglobin levels when empowered by both the app and the CHW.
+READ MORE: CDC Works to Improve Public Health Data Analytics, Surveillance
+Social media learning to competency-based training  
+"A Social Media Learning Collaborative Approach to Competency-Based Training in Diabetes" found that interactive learning collaboratives with social-media like functions could be beneficial for translating diabetes research findings into clinical practice. The research team also found this could be a novel approach to competency-based training that meets  clinical care guidelines from the ADA and American Association of Clinical Endocrinologists.
+The purpose of the study was to develop a new method of continuing education for providers which can address socioeconomic factors that inhibit diabetic care. The interactive learning collaboratives offer providers new layers of education that address variations in diabetes treatment.
+“Relying on the published literature and more passive online courses to translate research findings into concepts that can be applied in practice is not sufficient, and often does not result in knowledge retention or a change in behavior," said study author Donald C. Simonson, MD, MPH, ScD of the Division of Endocrinology, Diabetes and Hypertension at Brigham and Women's Hospital and Harvard Medical School in Boston.
+“There is large variability in treatment response that is not well quantified. Some patients respond very well to particular therapies, while others patient do not; and much of this variability can be explained by the personal characteristics of the patients,” he said
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+The investigators pooled data from 19 clinical trials with a total of 6,954 patients on 38 diabetes regimens from 1,002 clinics, and used EHR data from 233,627 diabetes patients.
+This method helped the team to estimate the odds that a patient would achieve glycemic control with different treatment regimens, based upon individual personal characteristics. These characteristics included how age, gender, socioeconomic status, education, race and ethnicity, body weight, and current glycemic control impact the effectiveness of various treatments.
+Analyzing ethnic differences to calculate risk of type 1 diabetes
+The study "Ethnic Differences in Progression to Type 1 Diabetes in Relatives at Risk" found that that race and ethnicity play a role in how type 1 diabetes develops.  The study also found that obesity impacts the development of type 1 diabetes differently in patients of differing ethnic and racial groups.
+Investigators used data from TrialNet's Pathway to Prevention Study screening program, which offers screenings for relatives of patients with type 1 diabetes. This screening can identify a relative’s risk for inheriting type 1 diabetes, often up to 10 years before symptoms emerge.
+The trial participants were between 1 and 49 years old and consisted of the several racial/ethnic groups. Twelve percent were Hispanic/Latino, 3 percent were African American of non-Hispanic origin, 1.4 percent were Asian/Pacific Islanders, 79.3 percent were white of non-Hispanic origin, and 4.3 percent were "other" of non-Hispanic origin.
+
+"The differences in type 1 diabetes development among races/ethnicities discovered in this study are striking," said Mustafa Tosur, MD, a fellow in the pediatric diabetes and endocrinology division of Texas Children's Hospital at Baylor College of Medicine.
+“The research demonstrates that racial and ethnic differences should be taken into consideration when counseling family members who are at-risk of developing type 1 diabetes, and when designing preventive care and treatment options,” he said.
+Tagged Chronic Disease ManagementmHealth and DiabetesPatient Engagement AppsPopulation Health
+
+

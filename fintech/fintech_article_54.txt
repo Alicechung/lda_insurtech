@@ -1,0 +1,13 @@
+GDPR Arrives – FIDO Alliance Comments on What it Means for Online Authentication
+
+June 26, 2018
+
+On Friday, May 25, 2018, the General Data Protection Regulation (GDPR) finally came into effect, requiring all companies that deal with European Union citizens to implement strengthened data protection safeguards. Ahead of this FIDO Alliance, an ecosystem for standards-based, interoperable authentication, outlined what every organisation should know when it comes to authentication in the age of GDPR.
+
+ Brett McDowell, executive director of the FIDO Alliance, made the following comment: “The GDPR is undoubtedly the most significant update to European data protection law in decades and the stakes for businesses are high, with potential fines of up to €20m or 4 percent of global turnover for non-compliance. Though there are many considerations for businesses operating under this new regulation, among them is authentication. As we’ve seen, passwords are no longer fit for purpose as means of authentication, a fact highlighted in numerous studies that attribute password compromise as the root cause for the vast majority of data breaches that have taken place in recent years. Alternative options such as biometrics now exist that leverage the technology at our fingertips to greatly improve security while simplifying the user experience.
+
+ “However, as the GDPR recognises, data such as biometric markers are highly sensitive, and are discouraged from being stored and managed in central databases where the data is more vulnerable to mass exposure. A breach of this nature would have serious consequences for both users and organisations.
+
+ “FIDO standards were designed with privacy in mind by leading companies in security, payments and internet services, and strictly prohibit biometric or similar data from being stored and matched on servers. Instead, we advocate a modern, decentralised approach to authentication where users authenticate by using a private key on their smartphone, laptop, or other personal device, to sign a cryptographic authentication challenge from the service provider’s server. If biometrics are used in the FIDO model, it is to verify the correct user is authorising the use of the private key. Sensitive information therefore never leaves the user’s device and GDPR compliance costs related to managing biometric data is a non-issue.”
+
+

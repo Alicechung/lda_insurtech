@@ -1,0 +1,19 @@
+Lucidity Debuts Digital Advertising Blockchain Protocol
+
+10 Apr 2018
+
+Solution Delivers Supply Chain Transparency & Resolves Data Discrepancies
+Lucidity, the digital advertising blockchain protocol to deliver transparency and trust, today announced the public launch of its marketing analytics protocol on the Ethereum blockchain. The company, which has been quietly building its solution since its founding in 2017, is focused on tackling the digital advertising industry’s data discrepancy problems through a decentralized system that verifies a single, auditable set of data analytics for stakeholders.Lucidity opened a successful beta early in Q1, and the protocol is already delivering results for its partners.
+Blockchain Solution for a Broken Ecosystem
+At a time when digital advertising is plagued by data discrepancies, billing inefficiencies, and billions in fraud each year, Lucidity has created a blockchain technology that verifies each marketing event to ensure ultimate accuracy, security and consensus, allowing players in the ad ecosystem to transact more efficiently.
+In establishing an immutable data source for campaign tracking, Lucidity also allows partners to tap into solutions or apps built on the Lucidity protocol such as fraud prevention, fee transparency, and more.
+Sam Kim
+“Our vision is to bring total, indisputable transparency to the digital advertising supply chain so honest players in our industry can benefit,” said Sam Kim, CEO and Co-founder of Lucidity. “Blockchain presents an opportunity to solve a major industry problem. We are successfully operating a powerful protocol and are building game-changing apps on top of it, with input from the world’s most forward-thinking advertisers and technology partners. We’re not just a whitepaper, and we’re excited to bring a tried and tested product to market so the advertising industry can finally transact with trust.”
+Partners and Technology
+Lucidity will be opening its protocol to additional partners. Existing private beta campaigns will also be expanded with select advertisers and DSPs. Lucidity is the only blockchain-based solution to date that doesn’t require partners to undergo major technical integrations or change their current workflows. Clients simply install a tracker.
+Additionally, Lucidity is amongst the first companies in the world to successfully implement Plasma, a side-chain processing solution to solve for Ethereum’s scaling and speed issues, Lucidity is built for the modern programmatic advertising landscape. Lucidity can process millionsof transactions per second to assure campaign metrics are verified quickly and efficiently.
+For advertisers, Lucidity’s blockchain-based solution provides a unified set of data, free of discrepancies and fraud, that can be used to gauge effectiveness. For publishers, Lucidity helps them own their identity and transparently prove the value of their inventory. The end result is a protocol that resolves data discrepancies, making billing faster and performance reports more accurate.
+Lucidity is a member of the IAB Tech Lab’s Blockchain Working Group, the Enterprise Ethereum Association, and Hyperledger.
+Lucidity (formerly known as KR8OS) is a digital advertising blockchain protocol bringing transparency and trust to digital advertising. It is the only company that uses blockchain technology for digital advertisers and publishers to mitigate fraud, transact with trust, and maximize ROI. Built on the Ethereum blockchain, Lucidity resolves data discrepancies so billing is faster; prevents fraud by eliminating publisher domain spoofing; and enables supply chain payment tracking so advertisers know exactly where their budgets are going. Lucidity was founded to tap the power of blockchain and cryptography to bring total, indisputable transparency to the digital advertising supply chain for a cleaner ecosystem in which honest players can benefit the most. The company is based in Los Angeles.
+
+

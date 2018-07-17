@@ -1,0 +1,59 @@
+Value-Based Care Requires Good Big Data, Better Communication
+
+June 28, 2017
+
+By Jennifer Bresnick
+June 28, 2017 - Brevity may be the soul of wit in the literary world, but it’s the opposite of a good thing when it comes to safe, comprehensive, and cost-effective patient care. 
+In the value-based care environment, where multiple entities may be financially responsible for the same patient’s long-term outcomes, thorough communication between care providers is essential for ensuring that services aren’t unnecessarily duplicated or accidentally forgotten as individuals move across the care continuum.
+Unfortunately, it’s not always easy to get healthcare organizations on the same page.  A fragmented health IT environment, differing levels of investment in pay-for-performance reimbursements, and conflicting cultural priorities often prevent providers from working together in data-driven harmony.
+INSUFFICIENT RESOURCES BREED PROVIDER FRUSTRATIONS
+“If we’re not looking forward into the future of a deeply connected care continuum, it’s going to cause problems for our providers and for our patients,” said Nikhyl Jhangiani, Program Manager of Distance Health in the Office of Clinical Transformation at the Cleveland Clinic.
+“There are clinicians from every specialty and every region in the country who want to improve the quality of services they can provide to their patients, but based on their limited resources and communication channels, they very quickly run into barriers,” he added, speaking at the June 2017 Value-Based Care Summit in Chicago.
+READ MORE: Value-Based Care Starts with Basic Population Health Management
+Many of those barriers originate in the health IT arena, where healthcare organizations continually struggle with interoperability woes and inconsistent data standards that stymie the flow of big data between disparate systems.
+But an equal number of challenges – or perhaps even a greater number – have to do with insufficient processes and outdated attitudes among care providers who have not yet adapted to the heightened demands of value-based care.
+Kristopher R. Brickman, MD, FACEP
+Source: Xtelligent Media
+Transparent and comprehensive communication are essential for success in the pay-for-performance world, said Dr. Kristopher Brickman, FACEP, Director of the Emergency Department at the University of Toledo Medical Center and medical director at eight skilled nursing facilities (SNF) in the Ohio area.
+“For years, I have watched long-term care patients end up in my emergency department – often for very inadequate reasons,” he said.  “What we experienced day after day is an enormous disconnect between skilled nursing facilities and the hospital itself.”
+“It’s amazing how in a hospital environment, we all realize that internal communication is the basis for delivering quality care. But hospitalists just end up sending their highest morbidity and most difficult patients to a post-acute care facility with virtually no communication channels whatsoever.  They just get emptied out into the SNF environment and we only hear about them again when they come back to the ED for an acute problem.”
+READ MORE: Why Value-Based Care Must Inspire Partnerships, Data Exchange
+The lack of communication is an extremely expensive problem, he pointed out, especially when hospitals start to become financially responsible for preventable readmissions and longer-term outcomes.
+“Every time a SNF nurse calls a medical director about a patient with an acute problem, like chest pain or abdominal pain, it translates into a $4700 charge,” Brickman explained.  “Essentially, 60 percent of the patients ended up getting admitted, and they all got sent to the ED because that’s the natural answer to every one of these acute questions.”
+“And of course, the ED docs are practicing medicine in a vacuum, because there’s no one to tell us what’s going on with these patients.  So we have to do every test in the book to rule out every problem.  As you can imagine, the majority of these patients get admitted, which adds to the expense and the disruption to their lives.”
+Those costs – not to mention any quality or performance penalties for subsequent hospital-acquired conditions and patient safety issues – could be avoided with better communication between the skilled nursing environment and the main hospital.
+DEVELOPING DATA EXCHANGE BETWEEN DISPARATE ORGANIZATIONS
+“There is a complete disconnect between the SNF world and the rest of the care continuum,” lamented Brickman.  “None of the facilities are on the same system.  There is no data being pushed out to me, and I’m dealing with the sickest of the sick.” 
+READ MORE: Understanding the Growth, Value of Healthcare Big Data Analytics
+“In this environment, that technology isn’t there.  It’s trailing behind and patients are suffering because of that.  Those are the bridges we’re trying to cross right now to bring communication into long-term care.  As I look at where we need to go in value-based care, there’s going to be some heavy lifting in this space.”
+At the Cleveland Clinic, Jhangiani is working through similar concerns about data interoperability – this time between the three major hospital systems that own much of the market share in Northeast Ohio.
+“A lot of what we’re doing is working closely with providers at other organizations, and the major question we have to keep asking is about whether or not the data is correct, whether we can trust it, and whether we can make good decisions based on what we have available to us,” he said.
+Nikhyl Jhangiani
+Source: Xtelligent Media
+Patients often seek care within more than one health system, which complicates the task of tracking each individual’s activities.
+“We receive major benefit from having Care Everywhere from Epic,” said Jhangiani.  “One of the other regional health systems is also an Epic shop, so data can be read and understood directly by our providers.  However, we start to run into problems when trying to communicate with the health system that uses Allscripts.  Finding a way to improve communication across different entities is the biggest problem we have right now.”
+“If all providers aren’t on the same electronic health record, or there’s no interoperability between different health records, how are we going to keep getting the information we need from all those settings to ensure that the patient stays in a good place with their health?” he asked.
+On the other end of the spectrum, in rural East Texas, panelist Mark Anderson’s main issue isn’t necessarily fostering communication between health systems. 
+That’s because there are few larger organizations left to speak to one another.  Five out of the six acute care hospitals in his area have folded to financial pressures and shut their doors, leaving patients with urgent care, primary care, and telehealth as their most accessible choices for their routine needs.
+With a high proportion of diabetic patients to care for under risk-based contracting arrangements, the Chief Operating Officer of the East Tx ACO/IPA is also turning to technology as the way to narrow communication gaps, help physicians coordinate with one another, and disseminate information on healthy habits to a far-flung community.
+“We have 120 doctors in this geographic area, but they’re on 26 different EHRs,” he said. “I’ve got data coming in from 5 different EHRs on the same patient, and I can’t bring it all together to develop a picture of that individual’s health, or to perform risk stratification that will let us identify the patients most in need of our help.”
+“We know if we can work with our highest-risk patients, we can lower costs.  Diabetes is a disease that can be managed if you can get everyone together.  But getting the data is a problem.”
+ENGAGING PATIENTS TO CUT COSTS AND IMPROVE OUTCOMES
+Anderson might not always feel as if he has all the data he needs, but it isn’t for lack of trying. 
+“We know that the key to patient management is identifying those at the highest risk and highest cost and working with them first,” he said.  “We are able to track our interventions and understand risk profiles.”
+“We have ten care coordinators and a health IT system that tells us exactly who we need to call and when we need to call them.  We’re collecting a lot of social and behavioral information, too.  A lot of times we find that our healthcare costs are going up because the patient is depressed, so we’re paying for behavioral health visits now.”
+Since March of 2016, East Tx ACO/IPA has cut costs for its diabetic population by more than 18 percent, Anderson said. 
+Mark R. Anderson, FHIMSS, CPHIMS
+Source: Xtelligent Media
+And as the region’s provides polish up their patient engagement and community communication skills, he is expecting that number to keep moving upward. 
+“Patients don’t usually want to be unhealthy, but sometimes they just don’t know that what they’re doing isn’t good for them,” he explained.
+“We had a lady come in the other day who had not been to the doctor in a year.  She had an A1C of 13.5,” he said, drawing gasps from the crowd. 
+“Anyone who is familiar with diabetes knows that’s extraordinarily high.  We did a health risk assessment with her and found out that she had pretty much every risk on the page.  She was 54 years old, but she was drinking 20 drinks a week.”
+After creating a detailed care plan for the patient and educating her about the right way to care for her chronic disease, her blood sugar dropped from 580 to 125, Anderson continued. 
+“Just by getting her to be compliant with the basics,” he said.  “It’s true that she’s still drinking 18 drinks a week, but some other changes that she made are helping with her care.  That’s due to sharing the right information in a way that makes sense to her.  That’s sometimes all it takes to reduce someone’s serious risks.”
+Patient engagement and meaningful conversations with individuals and their families are an essential supplement for technology, Jhangiani noted.
+“No matter how much we think we can do with remote monitoring and providing population health management services, none of that is going to make a difference if they don’t understand why drinking 20 alcoholic beverages a week isn’t good for their health,” he said.
+“It’s up to the providers to leverage technology to provide better education.  Ultimately, that leads to a better health system overall, because if we’re able to give patients more information about how to take care of themselves, that will translate into fewer high-acuity situations brought on by not understanding chronic disease management and self-care.”
+Tagged Care CoordinationChronic Disease ManagementInteroperabilityInterviewsPopulation Health ManagementValue Based CareValue Based Care SummitValue Based Reimbursement
+
+

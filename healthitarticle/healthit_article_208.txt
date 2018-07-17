@@ -1,0 +1,32 @@
+Machine Learning Complicates FDA Clinical Decision Support Guidance
+
+February 07, 2018
+
+By Jennifer Bresnick
+February 07, 2018 - The FDA’s recent guidance on classifying and regulating clinical decision support (CDS) systems is currently too ambiguous for developers to effectively follow, contends the the American Medical Informatics Association (AMIA) in a response to the draft framework.
+The FDA guidance, published in accordance with provisions in the 21st Century Cures Act, is intended to help developers and vendors understand which CDS products may require more extensive review by the regulatory agency.
+But the guidance is not as clear as it could be when it comes to the fastest-growing category of clinical decision support tools: those that are powered by artificial intelligence, neural networks, or other machine learning methodologies.
+Systems that present recommendations to providers, but allow providers to act on their own judgment without relying primarily on those suggestions, are not subject to being included in the “medical device” category, the FDA says. Tools and products categorized as medical devices are subject to additional FDA oversight.
+The FDA has interpreted this to mean that clinical users should be able to come to the same conclusions as the CDS tool without the technology. 
+READ MORE: Can Healthcare Avoid “Black Box” Artificial Intelligence Tools?
+“The sources supporting the recommendation or underlying the rationale for the recommendation should be identified and easily accessible to the intended user, understandable by the intended user (e.g., data points whose meaning is well understood by the intended user), and publicly available (e.g., clinical practice guidelines, published literature),” the FDA said.
+For example, a software tool that matches existing patient diagnoses with published reference literature to recommend a certain recognized treatment guideline would not be considered a “medical device,” since a provider could reasonably come to that conclusion on his or her own with some manual work.
+But higher-level tools that make recommendations based on sophisticated big data analytics, including many types of imaging analytics and predictive analytics, would require an extra level of review and approval.
+Increasingly, these diagnostic-oriented tools are relying on machine learning techniques to come to their conclusions.  And frequently, these methodologies are too complex for laypersons to understand.
+“Functionalities based on a trained neural network, multivariate regressions, or fuzzy logic will be difficult, if not impossible, for clinicians or patients to readily inspect or evaluate the clinical reasoning behind the recommendations,” AMIA says.
+READ MORE: 3 Keys to Drive Adoption of Artificial Intelligence in Healthcare
+“In these cases, the calculations are hidden within a ‘black box’ that is trained on perhaps millions of data points, and no amount of inspection time will enable a clinician to review and/or evaluate as described in the guidance.”
+As a result, a tool similar to the example that matches diagnoses to a specific clinical guideline might have to be classified as a medical device if it uses a deep learning algorithm to draw in hundreds of data points, including genomic test results, social determinants of health, and proprietary data assets, to make its recommendation.
+The FDA has not yet provided a clear line between the first case and the second, says AMIA.
+“As written, we are concerned this guidance will result in many low-risk software functionalities, developed in-house and as marketable products, being subject to regulation unnecessarily and inconsistently when compared to related FDA guidance,” says AMIA.
+“Some members report that finalization of this guidance as written will require various functions already in use for patient care to be pulled from their live environments and subject to regulation.”
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+“We anticipate lingering confusion among developers and clinicians trying to determine whether specific decision support software is, or is not, considered a device,” the organization predicts.
+The issue is further complicated by the fact that clinical decision support tools are intended, by their very nature, to supersede the abilities of human clinicians.  Without more clarity around the thresholds of risk, patient safety, and data transparency, developers will be unable to bring new innovations to market.
+“Traditional FDA regulatory controls are dependent on levels of risk to patient safety and public health were the device to fail. This draft guidance includes no such considerations,” AMIA pointed out.
+To remedy this omission, AMIA suggests that the FDA invite the public to discuss standards for data transparency and the ongoing evolution of clinical decision support in a machine learning world.
+“AMIA recommends that FDA develop a decision algorithm that includes dimensions of risk and potential harm, so that FDA’s regulatory focus is appropriately calibrated to achieve the dual goal of protecting patient safety and enabling innovation,” the letter added.
+“We urge the FDA to convene stakeholders to better understand how machine learning methods and similar tools may present risk of harm to patient safety, and to consider issuing guidance that addresses disclosure of key elements.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportClinical Decision Support SystemsMachine Learning
+
+

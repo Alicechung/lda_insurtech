@@ -1,0 +1,33 @@
+EON Blockchain Usability
+
+July 26, 2017
+
+According to some enthusiasts, blockchain industry may really disrupt the world financial system or at least radically change it. However, none of the existing platforms is universal and meets all the specific criteria to become an integral part of modern finance. In particular, all the blockchain solutions are now facing two fundamental challenges: low transaction per second bandwidth and extensive memory usage by the whole blockchain platform.
+
+ Low bandwidth is like catching a taxi on the street at rush hour — blocks are passing by, but they cannot include more transactions due to a standard block size. As a result you have to wait long hours for your transaction to be confirmed. It could be even worse: during the transaction boom such confirmation can take a few days.
+
+ Scalability is more a kind of a long term issue. First a few years when blockchain does not occupy much space on the computer it may be not very evident. But in the future, when it will require a few thousands terabytes, this problem will be impossible to ignore. One of the possible solutions is simply to delete the very first blocks, but this undermines the core idea of the blockchain itself — the main proof of each cryptocoin value lies in its history, and without it there would be no evidence that a cryptocurrency is actually valuable.
+
+ To overcome these challenges the Exscudo team decided to develop its own solution, free from the drawbacks. That is how EON blockchain was created.
+
+ EON Scalability & Bandwidth Breakthrough
+
+ Flexible and rapid, EON was designed to withstand extremely high loads. Each EON block is signed at least every 3 minutes and contains 4000 transactions. It is evident that its standard load is 1300 transactions per minute — the volume 3 times bigger than the Bitcoin’s blockchain. However, at the time of peak loads the EON’s blocks can be signed as soon as 4000 transactions are made, so the EON bandwidth is restricted only by the network speed between the nodes.
+
+ EON also features revolutionary blockchain archivation. Unlike other blockchains, in EON you do not need to download all the blocks from the first one — only the latest blocks are enough to run the node. At the same time you can easily access all the historic data on a remote archival node. In EON it is a user who defines the maximum depth of the blockchain stored on his or her node: a usual one, which does not require much space on the hard drive, or an archival one, which stores all the data.
+
+ EON Ecosystem and Synergy of Exscudo solutions
+
+ EON blockchain is a universal basis for various services and applications. All Exscudo products are EON-based: an exchange, a mobile wallet and messenger, partner bank cards tethered to the Exscudo wallet, a b2b merchant service —  these products together form the whole Exscudo ecosystem. Though it is a complex system, it offers users very simple and friendly solutions so they have no need to know how it all works.
+
+ Everyday users can manage their accounts anytime and in any place with a multifunctional mobile wallet “Channels”. They can store funds in cryptocurrency, make payments or transfers. A debit card, connected to the wallet account is another unique feature Exscudo offers. It can be tethered to any wallet — with traditional money or cryptocurrency. A user can now pay for his pizza or groceries with an Exscudo card as if it was a VISA or a MasterCard.
+
+ Exscudo has a number of multifunctional products for legal entities as well. For example, institutional investors can use the highly secure, flexible and scalable Exscudo exchange with professional trading terminals and APIs. All the transactions within the exchange are made without any intermediaries. Besides simple exchange operations and margin trading it can also be used to invest in bitcoins, place funds in different currencies and to issue cards for employees.
+
+ EON platform can also be used in digital business. Our merchant is the ready-to-use solution for internet shops to accept payments in cryptocurrency. Besides, any company can issue its own token based on the EON, releasing to the market a new kind of asset during the ICO.
+
+ EON Blockchain was created by professionals for everyone: from an unbanked person with only a mobile phone, to a large financial company which trades huge volumes on the exchange. EON is a multifunctional, fast and secure blockchain, which makes it a suitable solution for most financial services.
+
+ Find more here
+
+

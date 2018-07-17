@@ -1,0 +1,27 @@
+Unique Device Identifiers in Claims Could Aid Healthcare Analytics
+
+May 17, 2017
+
+By Jennifer Bresnick
+May 17, 2017 - Adding unique device identifiers (UDIs) to claims data could significant improve patient safety and healthcare analytics, argues a new letter to CMS and the FDA, and speeding up the regulatory process requiring the change “would equip patients, clinicians and researchers with better data to prevent harm and reduce cost.”
+The letter, signed by nearly two dozen payers, providers, professional societies, and industry observers, urges CMS and the FDA to bring to life a concept they have already endorsed by working with the X12 claims committee to implement changes.
+UDIs have been mandatory on most US medical devices, including implants, since 2013.  Device labelers are required to upload data about their products to the Global UDI Database (GUDID), maintained by the FDA.  The database is open to researchers and the public.  
+Dig Deeper
+Device Registries Support Use of Unique Device Identifiers
+Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+How Patient Safety Organizations Encourage Data Collection, Quality Care
+However, despite recommendations from Congress and the Office of the Inspector General, unique device identifiers have not yet been added to the standard health insurance claims document. 
+While claims currently include information about procedures involving medical devices that have occurred, they do not contain data about the brand or model of device used in the patient.  The omission makes it difficult to identify potential adverse events related to the device or track patient outcomes over time.
+“Claims, unlike many other health data sources, provide information on patient outcomes across providers and over time. Researchers—including at FDA—have used claims to study drug safety and other aspects of the healthcare system,” the letter explains.
+In addition to improving patient safety and the ability to engage in analytics, speedy access to UDI data may also reduce costs.  
+“The Inspector General of the Department of Health and Human Services found that the failures of just seven cardiac implants cost $1.5 billion to the Medicare program and $140 million in out-of-pocket costs to beneficiaries,” the stakeholders noted. “To more quickly detect these problems as well as prevent patient harm and avoid those costs, the Inspector General recommended the addition of device identifiers to claims.”
+There may be broad agreement across the industry that UDIs are a valuable addition to the world of patient safety and healthcare analytics, but the process of updating insurance claims forms is a lengthy one. 
+The X12 committee, which is responsible for setting electronic data interchange (EDI) standards and XML schemas for business processes across a number of industries, recently released a draft recommendation that approved the inclusion of UDIs on insurance forms.
+However, that document is just the first step in a long process of stakeholder input and regulatory activity.  And even if the recommendation goes into effect, healthcare providers and device manufacturers will likely have an implementation grace period that lasts several years, the missive points out.
+“Given this lengthy process, these revisions will likely take effect in approximately 2021; missing this window of opportunity could delay the addition of device identifiers—and better data to prevent patient harm—for a decade or more.”
+CMS and the FDA should do what they can to accelerate the changes, said the signatories, which include Aetna, the American College of Cardiology, Geisinger Health System, Intermountain Healthcare, Premier Inc., the Alliance of Community Health Plans, and the Pew Charitable Trusts.
+“The UDI system can only achieve its potential to improve patient care once it is included in health data sources, including health insurance claims forms,” the letter states.
+“As this process continues—including through eventual rulemaking by CMS—your agencies have a critical role in advancing patient safety and reducing costs through the addition of device identifiers to claims. We urge you to continue advancing this critical policy that has support across the healthcare system.”
+Tagged Analytics InfrastructureClaims ManagementClinical AnalyticsCMSPatient SafetyPopulation Health Management
+
+

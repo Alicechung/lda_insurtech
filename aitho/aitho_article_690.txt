@@ -1,0 +1,14 @@
+U-blox Announces Commercial Launch Of LTE Cat M1 And NB-IoT Module With Global Coverage
+
+03 May 2018
+
+Next Generation Industrial And Automotive Navigation Applications Demand Next Generation GNSS Technology
+u-blox, a global provider of leading positioning and wireless communication technologies, is pleased to announce the commercial launch of its SARA‑R410M‑02B LTE Cat M1 and NB-IoT module with global coverage. SARA‑R410M-02B utilizes a multiband RF front-end solution to enable up to sixteen LTE bands within a single hardware version, which can vastly simplify diverse deployments worldwide and provide enormous operational efficiencies.
+SARA‑R410M‑02B also offers notable software-based configuration advantages within a single version of firmware. LTE bands can be enabled or disabled based on changing criteria such as the establishment of roaming agreements among operators. The flexibility extends further through system selection of the radio access technology (RAT) as either a single or preferred connection. The approved operator profiles for AT&T, Verizon, and Telstra are all included as pre-existing and selectable within software. The module has regulatory certification approvals in Taiwan (NCC) and EMEA (RED)broadening the global commercial reach.
+ Patty Felts
+“What this provides in terms of direct benefit and advantage is the ability to defer configuration decisions to ‘zero-hour’.  Be it at the end device’s point-of-manufacturing, point-of-installation or even perpetually in the future, configuration decisions can be made with SARA‑R410M‑02B for LTE band applicability, the selection of the desired operator, and/or for the preferred LTE radio interface,” explains Patty Felts, Principal Product Manager, Product Center Cellular at u-blox.
+SARA‑R410M‑02B targets long life, low-maintenance, cost-sensitive, lower-power consumption, extended battery life applications such as smart buildings, people and asset tracking, agricultural monitoring, connected health, usage-based insurance, smart cities and smart meters.
+u-blox: By 2021, there are forecast to be 27 billion connected devices on the planet. Our communication, positioning, and timing products and services already form the heart of this flourishing Internet of Everything. With chips and modules designed to meet the needs of the industrial, automotive, and consumer markets, u‑blox will help you create your secure, connected world.
+Read More: Interview With Adam Meyers, VP, Intelligence At CrowdStrike
+
+

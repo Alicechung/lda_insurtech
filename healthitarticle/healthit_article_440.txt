@@ -1,0 +1,22 @@
+Provider Coalition to Use Machine Learning for Type 1 Diabetes
+
+June 13, 2017
+
+By Jennifer Bresnick
+June 13, 2017 - A three-year collaboration between several top healthcare providers will leverage machine learning techniques to improve the identification and treatment of Type 1 diabetes. 
+Funded by a grant from the Leona M. and Harry B. Helmsley Charitable Trust, Children's Mercy Kansas City and the Joslin Diabetes Center will work to deploy machine learning technology that will flag intervention opportunities for pediatric patients with the chronic disease.
+"Advancing care for type 1 diabetes (TD1) has traditionally been difficult as we are working to better understand the impact of clinical and sociodemographic risk factors on outcomes, while also incorporating these insights into patient management strategies," said Mark Clements, MD, PhD, Medical Director for the Pediatric Clinical Research Unit at Children's Mercy Kansas City.
+Dig Deeper
+Machine Learning Predicts Leukemia Remission with 100% Accuracy
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+Top 4 Machine Learning Use Cases for Healthcare Providers
+"Due to the development of machine learning technologies we can now make these data points immediately useful to individuals who are delivering care, not just those conducting research. This project aims to not only prove we can generate accurate type 1 diabetes learning models, but also use this information to proactively improve health outcomes and impact the wider type 1 diabetes community."
+Around 1.5 million people in the United States live with TD1, which often develops during childhood.  Unlike Type 2 diabetes, which typically affects adults, the development of TD1 is not tied to lifestyle issues such as obesity or poor diet and cannot be prevented.
+However, proper management of Type 1 diabetes requires the same level of constant care and attention to key vitals such as blood glucose levels.  Patients who take a proactive approach to managing their diabetes early in the course of their disease tend to have better long-term outcomes, research has shown.
+"For individuals living with T1D, we have learned much about risk factors for suboptimal health outcomes, but there remain significant opportunities to proactively identify and engage our patients who are at risk for future deterioration,” said Sanjeev Mehta, MD, MPH, Joslin Diabetes Center's Chief Medical Information Officer and Director of Quality.
+“Predictive analytics holds promise in this area as well as in the identification of novel clusters of patient factors that could identify high-risk patients,” he added.  “This learning health system will further our goal of leveraging the power of our data to identify and proactively support patients who are at risk for clinical deterioration to positively impact their health and general well-being."
+Mehta and Clements will lead the project along with Susana Patton, PhD, CDE, Associate Professor of Pediatrics at the University of Kansas Medical Centerm and Leonard D'Avolio, PhD, CEO and founder of Cyft and Assistant Professor at Harvard Medical School and Brigham and Women's Hospital.  Cyft, Inc. is providing the machine learning technology to power the collaboration.
+ "We can no longer be a 'wait and see' industry,” D’Avolio said. “Instead we're pulling real insights from disparate data sources and using these to inform clinical care. We're thrilled to partner with these leading institutions to serve such a critical patient population, and believe that the work this new learning health system will accomplish could fundamentally change how we care for people with T1D and their families."
+Tagged Analytics InfrastructureChronic Disease ManagementClinical AnalyticsHealthcare QualityMachine Learning
+
+

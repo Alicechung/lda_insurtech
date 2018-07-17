@@ -1,0 +1,25 @@
+Cyber security breaches: lessons to be learnt?
+
+November 16, 2016
+
+High profile cyber security breaches seem to have become a regular occurrence — the latest one at Tesco Bank is a spectacular example: according to some press reports it involved the theft of £2.5m from 9,000 customers’ accounts, which had to be reimbursed by the bank — not to mention the extreme inconvenience caused to customers. It would be unfair however to single out Tesco Bank: the truth is cyber security is often paid lip service but is not always near the top of the agenda. Are such security breaches an unavoidable cost of doing business or failures of senior management and security professionals? As is often the case the truth is somewhere in between. So what are the lessons that we may learn from such large scale security breaches? Here are just two areas of concern based on my experience testing and auditing security over the last 12 years, including at some of Britain’s largest financial services organisations.
+
+  
+
+ Accepting risk without understanding or properly managing it
+Risk is the lifeblood of businesses. It is by taking risks that businesses meet market demands and make profit. Sometimes however risk is not understood or properly managed, particularly when it comes to IT and security. Risk acceptance process, where senior management formally accepts a particular technological or process risk is not always the well-understood and well-managed process that outsiders may imagine. When management ‘accepts’ risks without fully understanding their technological context and consequences it sets in motion chains of events that either have a considerable degree of unpredictability or may in fact be the equivalent of jumping into the sea with rocks right beneath the water surface. When it comes to cyber security there are some risks that cannot be rationally accepted because their likelihood or impact is very high. Some simple examples of such risks would be exposing untested financial applications on the Internet or not enforcing software patching and anti-malware controls on desktops.
+Lesson to be learnt? Some risks cannot be rationally accepted and must be appropriately managed.
+
+ Thinking of cyber security as a product, not as a process
+Many years ago Dr Bruce Schneier, who should need no introduction, has said that ‘Security is a process, not a product’. In just seven words he has managed to identify a problem and propose a solution to it. Too often ‘security’ is marketed by vendors and consultants as a product you can and should buy, be it a firewall, anti-malware software, intrusion detection system, etc. and too often customers fall for that marketing. What is not often marketed is the need for organisations to have the appropriate effective processes that are key to security. Security threats have human actors behind them and constantly evolve and get more sophisticated – defences need to do the same. While having the appropriate tools is important, using whatever tools you have in the effective, consistent, repeatable and appropriate way is critical. Firewalls need appropriate firewall change management processes; software development needs appropriate secure software development processes; operations require appropriate operations security processes and so on.
+Lesson to be learnt? Buying ‘stuff’ will not make your business secure; improving your people, processes and practices will.
+
+ These are just two areas of concern and much more can be said about the technological, economic and psychological reasons behind security breaches. In fact some of the cutting edge research in security is in the economics of security, in particular by Prof. Ross Anderson of Cambridge University. It is important however to realise that the unprecedented complexity and interdependence of our distributed systems, software, networks and infrastructures means that we are well past the stage where any one person or organisation could hope to fully know and understand how exactly everything works or fits together. Despite our best efforts security breaches will continue to happen. What we can do however is reduce their likelihood and impact by building security in and operating effective security management processes that reflect the growing sophistication of cyber security risks.
+
+ 
+
+ Edgar ter Danielyan
+Edgar is principal consultant at Danielyan Consulting, a security engineering and penetration testing consultancy specialising in fintech.
+www.danielyan.com
+
+

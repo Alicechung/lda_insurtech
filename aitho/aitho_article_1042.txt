@@ -1,0 +1,16 @@
+Pensa Announces Maestro NFV Integration With Linux Foundation ONAP
+
+28 Mar 2018
+
+New Executive Leadership Hire from Hewlett-Packard Enterprise Will Accelerate Growth
+Pensa, a provider of intelligent automation software technology, today announced the open integration of the Pensa Maestro NFV platform with the ONAP project, a coalition of 50+ of the world’s largest communication service providers (CSPs), networking and cloud technology providers.
+Pensa announced its integration of Maestro NFV with the Open Network Automation Platform (ONAP) at the Linux Foundation Open Networking Summit (Booth 26). The integration will enable enhanced interoperability with ONAP using Pensa Maestro NFV, the first full stack automation platform for intelligent planning, design, validation, and delivery of carrier-grade Network Functions Virtualization (NFV) services.
+ONAP is an open source project of Linux Foundation which provides an industry-leading set of capabilities for policy-driven orchestration and automation of network functions. The integration will enable CSPs and enterprises to manage the lifecycle of NFV network services.
+Pensa Maestro NFV is a software platform that simplifies and accelerates the design and validation of NFV services, including Virtual Network Functions (VNFs) and the underlying physical server hardware. With the advent of 5G wireless technology, CSPs will need to create a more flexible and cost-effective infrastructure with NFV to support mobile growth, IOT, and on-demand services.
+Pensa Maestro NFV provides the ability to introduce new services quickly and efficiently. Pensa Maestro NFV’s simple and user-friendly design makes it easy to create extremely complex network services composed of multi-vendor technologies. Pensa Maestro NFV, by performing both static and dynamic validation, ensures that network designs are correct and that they will work as intended, reducing the risk of human error and eliminating the user from having to test each process by hand or write new code.
+Tom Joyce
+Pensa Maestro NFV also estimates and optimizes required hardware to ensure the proper underlying infrastructure is in place to support the newly designed network services. Pensa Maestro NFV is designed to work with any orchestration platform and provides a fully validated network service design that is compatible with the CSP’s choice of orchestrator.
+“Pensa is a founding member of Linux Foundation Networking Fund and a strong supporter of open source networking projects,” said Pensa CEO Tom Joyce. “Pensa has received overwhelming demand from industry participants to support ONAP as more service providers move toward the ONAP platform.”
+The Linux Foundation Networking Fund is the host organization for the most critical open networking projects including ONAP, OPNFV, OpenDaylight and others. Pensa Maestro NFV also integrates with ETSI OSM, as well as other commercial orchestration platforms.
+
+

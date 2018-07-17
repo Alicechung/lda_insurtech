@@ -1,0 +1,47 @@
+Laying the Groundwork for Actionable Healthcare Analytics
+
+August 01, 2016
+
+By Jennifer Bresnick
+August 01, 2016 - Even the longest journey must start with a single step, but when it comes to healthcare analytics, that first leap of faith can seem incredibly daunting. 
+Financial concerns, data integrity woes, a lack of qualified talent can all quickly paralyze a provider’s progress, and an endless array of competing initiatives can sap time, enthusiasm, and resources from even the most forward-thinking organization.
+As the value-based care environment continues to gain stream, the vast majority of healthcare organizations are actively interested in developing their big data competencies, and the remainder have at least a vague, nagging feeling that they should probably start developing the data-driven competencies that will prepare them for the future of reimbursement and quality reform.
+But where should these providers start, and how can they overcome the organizational and technical challenges involved in making that first movement forward?
+For Dr. Danyal Ibrahim, a practicing emergency physician and the Chief Data and Analytics Officer at Saint Francis Care in Connecticut, the best place to begin is with a solid grasp of the basics. 
+READ MORE: EHR, Big Data Analytics Success Hinges on Holistic Change Management
+Without the right partnerships and a strong, diverse big data analytics team, healthcare organizations will find it very difficult to create an analytics infrastructure that delivers actionable, meaningful data to the point of care.
+Breaking down data siloes and developing a big data roadmap
+The first hurdle may also be the biggest, Ibrahim told HealthITAnalytics.com.  Identifying and overcoming data siloes is the key to creating a streamlined data analytics infrastructure that can tell the patient’s story in a comprehensive, meaningful manner.
+“The point of analytics is to help make better decisions on a timelier basis,” Ibrahim said.  “But as we all know, there are so many times when our data ends up siloed, and pieces of information end up going to all different places that cannot communicate with one another.”
+“So one big component goes to the finance department, and other to IT, and another to the quality improvement team.  So even though the data is supposed to be connected around a single patient’s story, ultimately it lands in different siloes all around the organization, and that can be a big barrier to using data to improve care.”
+READ MORE: Data Governance Key to Hospital’s Natural Language Query Project
+Healthcare organizations may wish to map out how data flows across the organization, who is responsible for the data when it reaches each end-point, and how current processes synthesize and aggregate information to present to caregivers.
+“You must bring all the stewards of your data together,” said Ibrahim.  “That’s the first task.  The second is to redesign the analytics team with value in mind, because ultimately, our goal is to meet the Triple Aim of better care, more cost effective care, and better experiences for patients.  Value is inherent in the story of healthcare reform – not just components of it, but the whole story.”
+In order to understand value, and the quality benchmarks that help to define and measure success, organizations have to examine their data analytics foundations and take a hard look at their existing competencies and the gaps that may prevent them from achieving their goals.
+“Ask yourself if you have a really strong platform that is able to map your data sources and bring the data together,” Ibrahim suggests.  “Can you aggregate it, normalize it, curate it, and then expose it to different types of analyses so that you can ultimately deliver reports in a way that is meaningful?”
+For organizations to be able to answer “yes” to all of those questions, providers need to build a healthcare analytics team that integrates IT skills with clinical experience to reduce the big data problem areas that can derail the decision-making process.
+READ MORE: Healthcare Big Data Success Starts with the Right Questions
+Read: Preventing Big Data Pain Points During a Healthcare Encounter
+“A strong analytics team will start with technical capability,” Ibrahim said.  “A good team will include financial analytics, clinical skills, SQL development skill, data warehousing skills, and it also needs to have a data science component.  You need the skills to conduct statistical modeling and natural language processing.”
+“If you have these pieces of the puzzle, you are really lucky, and are off to a really good start.”
+Creating strong partnerships and good communication with vendors
+The next critical component is to forge strong partnerships with technology providers.  Health IT vendors may offer a selection of skills and tools that organizations cannot cultivate in-house, and these complementary competencies are often the missing link for a healthcare analytics program.
+While outsourcing is becoming a very popular strategy for organizations that do not feel prepared to take on the full burden of building and maintaining a big data project, Ibrahim advises that providers invest in a best-of-both-worlds strategy. 
+Instead of outsourcing everything to a vendor who may not understand the organization’s unique needs and goals, providers may wish to keep certain aspects of the project in-house while taking advantage of the experience and resources of external consultants, vendors, and other business partners.
+“As we move from volume to value, there are going to be so many more challenges in front of us,” he said.  “The way we get paid – the whole reimbursement model across the industry is changing.  Because of that, we have to be very creative and very smart with the way we design healthcare analytics.”
+“I am a believer in the middle way when it comes to sourcing your technology skills.  I don’t think you can completely outsource everything to a vendor and have that organization supply all your tools and dashboards, but at the same time, it’s very hard to develop a full team from scratch and maintain a data center.”
+Read: How to Choose the Right Healthcare Big Data Analytics Tools
+Look for health IT vendors that have a track record of success with organizations of a similar size, scope, and type, Ibrahim recommended, and make sure that the representatives assigned to work with your team are responsive and open to engaging in frequent and productive conversations.
+“I would advocate for a really strong partnership between an in-house core analytics team and a matching vendor team,” he said. “You have to engage with a partner that you can lean on, and one that is accountable to you.  Your organization may have good, solid core skills, but the vendor also has to have strong customer support levels and be flexible enough to make the changes you need.”
+Prioritizing clinical involvement for workflow design
+When healthcare providers think about big data analytics, they often jump straight to the cutting edge of precision medicine, semantic data lakes, real-time predictive analytics, and cognitive computing. 
+But Ibrahim points out that it is important not to forget that the majority of decisions in the clinical setting are a little less complicated, yet just as important.
+“Many times, in healthcare, we have a lot of work to do that is very, very basic,” he said.  “So on one hand, we can talk about using unstructured data and natural language processing, or creating a sophisticated predictive model for machine learning to solve complex problems.  But in reality, most of what we do in healthcare does not necessarily require that.  It’s important not to ignore the fundamentals.”
+Clinical staff should be directly involved in the process of mapping out the day-to-day workflows that can prevent negative medication interactions, remind providers to administer a routine screening, or coordinate transitions of care, Ibrahim says.
+“It is really critical to have clinical leadership and a clinical champion, because they are the ones that can drive real change,” he explained.  “Just having the ability to do analytics doesn’t make the change.  It’s about improving relationships and making sure that the workflows make sense.”
+“I believe the clinical folks, the ones who are really the caregivers and the champions of the caregivers, are the ones who can really make or break an analytics initiative,” he added.
+Even though he is an executive leader, Ibrahim views his own involvement in the data analytics development process as more of a behind-the-scenes producer, bringing together ideas from across the organization to drive innovation, progress, and change.
+“As the Chief Data and Analytics Officer, it is my job to be in the background so I can support them, work with them, and tailor our tools to their needs,” he said.  “We all share the same success, but ultimately, I truly believe they are the ones who need to in the forefront, and the executives have to act as a supporting team behind them.”
+Tagged Analytics InfrastructureBest PracticesHealth Information ManagementHealthcare Business IntelligenceInterviews
+
+

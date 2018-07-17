@@ -1,0 +1,34 @@
+Frost & Sullivan Recognizes HPE For Its Innovative Technology Solutions In The Global OSS Transformation Industry
+
+10 Jul 2018
+
+HPE’s vTeMIP solution helps CSPs and enterprises consolidate management systems across the cloud, data centers, and workplace
+Based on its recent analysis of Operations Support Systems transformation, Frost & Sullivan recognizes Hewlett Packard Enterprise (HPE) with the 2017 Global Stratecast Technology Innovation Award for its vTeMIP solution—a virtual operations support systems (OSS) assurance platform designed to help network operators consolidate management systems and automate their operations.
+Hewlett Packard Enterprise
+Read More: The Promise and Potential of AI for the Insurance Industry
+Two of the more chaotic architectural changes in the communication industry have been network function virtualization (NFV) and software-defined networking (SDN). Communication service providers (CSPs) drive NFV while suppliers drive SDN. Both are plagued with challenges in creating and settling on solutions for these new architectures, with the biggest challenge being how to bridge the gap between new architectures and core, legacy network and support systems.
+The three main difficulties of this challenge are the management of hybrid operations, composable services, and network programmability. The challenge for managing hybrid operations is effectively ensuring hybrid networks include: legacy-based physical core and edge infrastructure and support software; a combination of NFV, SDN, and cloud network technologies; myriad ecosystem partners; and multiple management and orchestration architectures. Regarding composable services, CSPs have only recently reached the point where customers can customize their service bundles. In most cases, CSPs are not yet capable of supporting composable services from many perspectives. Finally, system integration time and costs are still too high despite efforts to reduce them.
+Read More: AI Breakthrough Announces Inaugural Award Winners
+“Legacy networks still urgently need greater efficiency gains and agility because the vast majority of services still traverse this network and will do so for several years to come. Neither the core business nor core support functions can be ignored in favor of all-new platforms; they must be part of a comprehensive solution,” said Tim McElligott, Senior Consulting Analyst at Stratecast | Frost & Sullivan.
+HPE, a global technology leader, is focused on developing intelligent solutions that allow customers to capture, analyze and act upon data seamlessly from edge to core to cloud.
+In May 2017, HPE released a new version of its core legacy service assurance platforms1. The new platform is a completely rebuilt and re-coded virtual OSS assurance platform, now called vTeMIP. It was designed to help network operators consolidate management systems and automate their operations. The new platform provides a manager-of-managers solution, joining operations processes across telecom, IP, and the IT domains. It works with other HPE OSS software products to enable reduced operational costs, less downtime, higher service quality, and enhanced operational agility across multi-vendor, multi-technology services.
+Read More: Insurtech: the new AI disruption is hitting insurance
+The platform is primarily an innovative approach applied to vTeMIP and how HPE applies other new OSS and management and orchestration capabilities to work across physical and virtual networks.
+The benefits derived from vTeMIP and HPE’s new OSS approach include:
+Continuity of the customer experience across technology domains and throughout the transformation process
+Introduction of intent-based service modeling
+Increased automation and programmability
+A single interface for managing both physical and virtual network functions and associated services
+A shift toward an Agile/DevOps approach to network management
+Built-in disaster recovery
+Multi-vendor mediation capabilities that address network products from Cisco, Huawei, Ericsson, Nokia, Tellabs, and more
+Read More: Interview with Akemi Tsunagawa, Founder and CEO, Bespoke Inc
+“HPE has taken a trusted, reliable legacy operations management tool into the virtual realm. vTeMIP is deployable as a virtual OSS assurance solution in a micro-services delivery model, and it also supports both physical and virtual network functions. vTeMIP makes the portfolio more of an end-to-end solution for fulfillment and assurance,” said McElligott.
+For CSPs with a hybrid PNF/VNF network, vTeMIP works for both environments. It can also function well in a virtual environment. The product is available as a standalone solution, but its alarm handling, mediation, fault management, performance management, root-cause analysis, service impact analysis, and other functions are designed as a set of individual virtualized functions and can work as a micro-services architecture.
+Rather than reinvent the wheel, HPE reached back to one of the industry’s most trusted solutions, took its concepts to heart and rebuilt it for the virtual future. The resulting OSS approach not only safeguards the existing legacy business for CSPs, but also provides a path forward while also safeguarding the CSP customers’ experience. For its strong overall performance, HPE has earned Stratecast’s 2017 Global OSS Transformation Technology Innovation Award.
+Read More: Millennial Parents Feel More Secured about AI Babysitting their Generation Alpha Kids!
+Each year, Frost & Sullivan presents this award to the company that has developed a product with innovative features and functionality that is gaining rapid acceptance in the market. The award recognizes the quality of the solution and the customer value enhancements it enables.
+Frost & Sullivan Best Practices awards recognize companies in a variety of regional and global markets for demonstrating outstanding achievement and superior performance in areas such as leadership, technological innovation, customer service, and strategic product development. Industry analysts compare market participants and measure performance through in-depth interviews, analysis, and extensive secondary research to identify best practices in the industry.
+Read More: UK and France to strengthen ties in Artificial Intelligence and data
+
+

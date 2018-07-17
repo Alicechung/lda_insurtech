@@ -1,0 +1,25 @@
+EON as a particular case of transactional business and regulations
+
+December 3, 2017
+
+EON blockchain is a hybrid system without any bottlenecks. It is safe, resilient, flexible, scalable with speed of client-server solutions. Due to all these features it can be applied in many industries and solve several problems.
+
+ Three case studies listed further are representative.
+
+ Case #1: Taxation.
+
+ Current tax collecting system is generally outdated. Fraud, errors, bankruptcies and tax avoidance result in VAT gap. In 2015 the European Commission reported a VAT gap of 151.5 BILLION , it means a loss of 12% of the total expected VAT. Besides, people spend more and more time on preparing and paying taxes. According to the World bank, in 2016 an average person spent 218 hours on it, while in 2005 the figure was 196 hours. Taxation system based on EON blockchain can make tax collecting more effective. Most of workflow is done automatically and human factor is excluded, therefore errors, fraud and evasion are not possible. It is a win-win solution: although people cannot use grey taxation schemes, they do not need to worry about possible errors and spend hours paying taxes, and regulators enjoy tax collection at lower cost.
+
+ Case#2 Healthcare.
+
+ There are three major issues in healthcare industry that EON blockchain can solve: medical data storage, costs and security. Medical data is a very sensitive information, and it is important to store it properly. Currently, all the patient data is stored in local databases with few possibilities of sharing it between multiple organizations. Medical histories are often lost or forged, and the whole system of storage lacks transparency. Security is not less important here. Recently Health Service of Great Britain underwent a massive cyber attack. In result patient records were made unavailable, connections between computers and medical equipment were brought down, operations cancelled and appointment schedules, internal phone lines and emails were rendered inaccessible.
+
+ Besides all that healthcare is losing billions on unnecessary services, excessive administrative costs and fraud. The global average loss from fraud rate from 1997 to 2016 is 5.58%, which is equal to $4.39 trillion. This sum is more than two-thirds greater than the UK’s entire GDP and more than twice as much as the sum which Europe spent on healthcare in 2014. Administrative costs generally vary from 12 to 25 percent of the whole hospital spending. A decentralized system of patient data storage is a solution to all these problems. As data is not stored on one server problems which usually appear when server fails are removed. Blockchain provides the highest level of security, and EON flexibility allows to manage properly even the most sensitive data. All accesses in the system are personalized and there are different levels of access to patient data for healthcare organizations, patients and regulators. Privacy of access is mathematically provable. Most of the processes in the system will proceed automatically, it means that services and maintenance costs will be reduced dramatically. Due to EON blockchain transparency fraud will not be possible and human factor will be excluded.
+
+ Case#3 Marketing and Client Loyalty Programs.  
+
+ Nowadays every brand has its own client loyalty program, with its own scheme and authorization method. Therefore, users have lots of different cards, most of which they never use. Not more than 20% of all the liability points are actually being used. A unified decentralized system of client loyalty programs based on EON is eager to simplify users’ life and helps brands to create engagement system. Each brand has its own loyalty program and issues its own tokens, having access only to its client’s information. Several brands can collaborate developing multi brand loyalty programs of different levels of complexity.
+
+ Although clients data is kept private and this privacy is mathematically provable, brands have wide opportunities for analysis. They can segment the generalized impersonal data about their customers and provide them with personalized offers. At the same time all the users have common identificator and have access to all the clients loyalty programs they participate in via their personal account.
+
+

@@ -1,0 +1,27 @@
+AIG utilises blockchain for “smart” insurance solution pilot
+
+16th June 2017 - Author: Luke Gallin
+
+Global insurer American International Group (AIG) and Standard Chartered have partnered with International Business Machines Corp (IBM) to create a “smart” insurance solution that utilises blockchain technology to make complicated insurance policies much simpler.
+
+
+
+AIG and UK-based international bank Standard Chartered have now completed a blockchain pilot, using the open-source Hyperledger Fabric protocol, which was built by IBM.
+
+The pilot “smart” insurance contract tested a commercial insurance master policy that was written out of London and applied to local policies in Kenya, the U.S., and Singapore, explains the firms.
+
+“We chose these three territories because of their importance to Standard Chartered and also because of their regulatory complexity, so that we could fully test how blockchain technology might make these contracts work more efficiently,” explains Emily Jenner, Head of Insurable Operational Risk at Standard Chartered.
+
+Adding; “As a global bank we have to ensure consistent, trustworthy and secure financial transactions, be that as part of our business or as customers ourselves. By creating a process by which we can arrange multinational insurance contracts through blockchain we not only have transaction security but contract certainty across multiple business locations.”
+
+The pilot revealed real-time visibility into the insurance protection that enables recipients to be notified automatically when an insurable event takes place, a transition away from the traditional platform that sees each counterparty hold its own records.
+
+Multinational insurance can be cumbersome because of varying global regulations, paperwork and also payment returns, so having a centralised system is expected to increase efficiency and make things far simpler.
+
+In a statement, the Chief Executive Officer (CEO) of Commercial at AIG, Rob Schimek, said; “Our pilot proves blockchain has a powerful role to play in the future of insurance. Any technology, including blockchain, that can increase trust and transparency for an industry whose pillars are built on that, should be fully explored. We’re excited to be delivering innovation that matters to our clients – and co-developing key components of this new technology together.”
+
+The statement also explained that the pilot both recorded and tracked events and was able to trigger policy payment, while providing the security that no single party was able to make any changes to coverage absent the approval from others in the network.
+
+General Manager of IBM Blockchain, Marie Wieck, said in a statement; “There is tremendous opportunity to apply advancements in blockchain technology to transform the insurance industry. By creatively leveraging smart contracts to help address tough regulatory requirements across different markets, we are seeing the enormous impact blockchain can have to improve efficiency and open up new business models.”
+
+

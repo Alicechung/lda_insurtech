@@ -1,0 +1,14 @@
+Achain Proposes Solutions To Blockchain Scalability During Vietnam Blockchain Week
+
+13 Mar 2018
+
+Achain, A Public Blockchain, Has Created A New Consensus Called RDPoS (Result DPoS). RDPoS Is A Consensus Built Upon The Original, Community-Famous DPoS
+Ho Chi Minh City drew thousands of blockchain enthusiasts in search of knowledge during Vietnam Blockchain Week, causing a major hotel room shortage. These enthusiasts came from various industries, including e-commerce, fintech, finance and, of course, blockchain.
+The two-day event (March 7 and 8) saw many subjects discussed and debated. The most heated of them all was scalability of the blockchain.
+Since the Crypto-Kitties’ disruption of the Ethereum -creating network congestion and traffic for all users of the Ethereum blockchain, scalability of blockchain has been the critical issue for the mass popularization of the technology. Lighting network, sharding etc. are among the next initiatives lining up to increase capacity and throughput of the blockchain. Apparently, the blockchain community is trying to find a technical breakthrough to reach the mass adoption of decentralized technology.
+Achain, a public blockchain, has created a new consensus called RDPoS (Result DPoS). RDPoS is a consensus built upon the original, community-famous DPoS. It optimizes block generation nodes as well as delegated nodes on the blockchain network and reduces the time needed to reach a consensus among delegates, thus creating faster TPS for Achain.
+Another solution Achain proposed to solve the scalability blockchain technology is their so-called ‘forking theory.’ The solution, in essence, is to build parallel systems of forks that achieve processing goals in reaction to individual real-world events and cooperate as a single system.
+“We are trying to build a blockchain network by forking to create different functional forks or ‘sub-chains’ that will improve performance and create new application scenarios. Overall, we believe this is a great solution to blockchain’s scalability issues,” Kyle Lu, Partner & VP of Achain added.
+Achain as a platform has great technology and prospects. As was later confirmed by Achain’s community, the Achain ecosystem has over 30 dapps and more than 80 smart contracts running on the network. With as many dapps and smart contract as major public blockchain platforms, Achain has provided an alternative solution to developers featuring scalability and cost efficiency. The team is actively growing their communities across the globe and bringing more dapps to the table. It is only a matter of time before Achain becomes the mainstream solution for blockchain adoption.
+
+

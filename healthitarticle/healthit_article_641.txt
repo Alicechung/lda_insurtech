@@ -1,0 +1,37 @@
+Population Health Tool Using EHR Data Reduces HIV Impact in MA
+
+December 22, 2016
+
+By Jennifer Bresnick
+December 22, 2016 - Public health officials in Massachusetts are working to create an interoperable population health management system using EHR data to identify and engage HIV patients at risk of falling away from recommended treatment protocols.
+The system, called the Massachusetts Virtual Epidemiologic Network (MAVEN), has helped 86 percent of participating HIV patients achieve viral suppression, according to a new study in the American Journal of Managed Care, furthering the state’s goals of eliminating new HIV infections all together.
+Developing an interoperable, state-wide public health network to monitor more than 19,000 patients is fraught with challenges, writes a team of researchers from the Massachusetts Department of Public Health and AHRQ, rooted in the siloed and highly variable nature of electronic health record data.
+“The current system to identify individuals with HIV who are ‘out of care’ at community health centers requires analyzing and reconciling Massachusetts surveillance data with patient records via time-intensive monthly telephone conference calls with health centers,” the team explains.
+Reconciling lab results against clinical data can help to determine whether a patient is maintaining his or her treatment protocols.  If not, public health field workers conduct outreach and encourage patients to reengage with their regimens.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+Since 2005, MAVEN has started to streamline this process by collecting electronic lab data of positive HIV tests, cluster of differentiation 4 (CD4) cell count results, and viral load data.  The system can also accept information collected by field epidemiologists, such as patient interviews, HIV care assistance information, and partner services, the study says.
+There were a number of big data challenges when developing the system, the researchers said, including the basic issue of connecting different electronic health record products at a time when interoperability was not a pressing concern. 
+Community health centers across the state use a number of different EHR products, including offerings from Epic, NextGen, and GE Centricity, all of which collected, formatted, and stored individual data elements in their own unique ways. 
+Some systems were not configured to collect data elements central to identifying and monitoring HIV patients, many of which are related to socioeconomic determinates of health. 
+Gender and sexual identify, exposure risks, housing status, and income rates all contribute to building risk scores for HIV infection, but these data elements are usually poorly standardized or contained in free-text notes if they are collected within the EHR at all.
+READ MORE: AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+Each clinic also has unique protocols for documenting the type of encounter and issues addressed during an individual consult, many of which may not rely on standardized clinical coding systems like ICD-10. 
+Unless the visit documentation includes an order for a viral load count or a prescription for HIV-related medications, it may be difficult to determine whether a visit counts as an HIV care encounter.
+“A related challenge to identifying a clinic visit relevant for HIV medical care is the ‘missed visit’ issue, which is the indicator that clinics are using to generate out-of-care line lists,” the team wrote.
+“Missed visits are another indicator of care retention; a missed visit is not always captured in the EHR, but rather in a separate practice management or appointment system that is not interoperable with the EHR. Additionally, even when identifying a missed visit is possible, it has been difficult to define whether that missed visit was HIV-related.”
+During the first years of the MAVEN pilot, officials also had to contend with a quickly changing vendor landscape. 
+READ MORE: Cerner Pilot Uses Population Health Analytics for Chronic Care
+“Several community health centers were transitioning to a different EHR during the project,” the authors explained. “Prior to the transition, the mapping of local codes had been completed between their original EHR reporting portal and its gateway to MAVEN. With the transition to their new EHR systems, the time- and resource-intensive process of building a map between the EHR and MAVEN needs to be repeated.”
+Significant updates to existing EHR products may also change the way certain data elements are documented, the study adds, and the ongoing brisk trade in EHR replacements will certainly continue to be a concern.
+To overcome these obstacles, the team recommends that future data-driven population health management initiatives keep data integrity and EHR data access concerns top of mind when designing a program.
+“Early identification of what is, and is not, available in the EHR system(s)—particularly where multiple systems and clinics are involved—is highly recommended,” the study stresses.
+“All project partners should agree on the goals of data capture and flow to establish feasibility and an appropriate timeline for implementation. Explicit communication about standardized data definitions and entry expectations at the clinic level is imperative to capturing robust and useful data.”
+Projects should choose initial implementation sites that are all using the same EHR to iron out design and usability issues before moving to more complex data integration tasks.
+Continued enhancements of the system will allow public health officials to address some of these challenges by breaking down internal data siloes, consolidate streams of information, and start to improve population health management by incorporating risk stratification for HIV patients.
+“MAVEN workflows and reports will be augmented to enable the identification and triage of patients who are not linked to care, who are not receiving treatment, who appear to be out of care, or who appear to be receiving suboptimal treatment,” the study says. “The health department can then conduct follow-up and provide feedback to health centers to inform clinical quality improvement efforts.”
+“Consolidation of the data elements necessary to monitor the HIV care continuum will provide opportunities for enhancement of public health services and response. EHR data will augment efficient oversight of the HIV care continuum. With enhanced health IT infrastructure, we hope to facilitate engagement and retention in HIV care to maximize the benefits and contribute to prevention.”
+Using Risk Scores, Stratification for Population Health Management
+Why HIE Data Analytics are Critical for Behavioral Healthcare
+Tagged Chronic Disease ManagementEHR AnalyticsHealthcare Data GovernanceHealthcare InteroperabilityPopulation Health Management
+
+

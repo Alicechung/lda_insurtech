@@ -1,0 +1,33 @@
+Machine Learning Underpins Predictive Analytics for Hypertension
+
+February 05, 2018
+
+By Jessica Kent
+February 05, 2018 - A predictive analytics model using machine learning to extract patient EHR data effectively predicted patients at high-risk for hypertension and could ultimately improve care quality and reduce healthcare costs, according to a study published in JMIR.
+In the US, hypertension is both incredibly prevalent and very costly. The team set out to assess whether using predictive analytics tools could allow providers to target high-risk populations for hypertension treatment or lifestyle interventions.
+They developed a risk prediction model and then adopted a machine learning algorithm that would extract relevant patient data and assign a final predictive risk score to each individual.
+Dig Deeper
+Machine Learning, Imaging Analytics Predict Kidney Function
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+How Machine Learning Could Revolutionize Healthcare Diagnostics
+Researchers collected EHR and US census data from all patients who visited any health facilities within the state of Maine between January 1, 2013 and December 31, 2015, and split patients into retrospective (2014 hypertension diagnosis) and prospective (2015 hypertension diagnosis) populations.
+With the machine learning algorithm, the prediction model reached an area under curve of 0.917 in the retrospective population and 0.870 in the prospective population.
+Of the 381,544 individuals labeled as very low risk for hypertension, 1.19 percent were affected by hypertension within the next year.
+Of the 41,329 individuals categorized as very high-risk patients, 50.93 percent were diagnosed with hypertension within the next year.
+60,065 individuals had confirmed diagnoses of hypertension. The prediction model correctly classified more than a third of these patients as high-risk patients, while it falsely classified only 7.54 percent as low risk patients.
+The model was also able to identify which data elements drive or are associated with hypertension diagnosis. These included age, the presence of comorbidities, clinical utilization costs, and social determinant factors.
+Individuals less than 35 years old comprised 89.27 percent of the very low risk category, while the very high-risk category mainly consisted of people over the age of 65.
+Additionally, 98.44 percent of individuals in the very high-risk category suffered from other chronic diseases, including type 2 diabetes. As a result, the individuals in this category also had the highest costs for outpatient visits, inpatient admissions, and prescriptions.
+These findings align with past research. A previous study from the Agency for Healthcare Research and Quality showed that although just 17 percent of Medicare beneficiaries suffer from six or more chronic conditions, they account for more than half of all spending on chronic disease beneficiaries.  
+The hypertension prediction model’s assessment of socioeconomic factors revealed disparities between the very high risk and very low risk populations. Those with lower levels of education displayed a positive correlation with hypertension risk, while those with college degrees or higher displayed a negative correlation.
+The prediction model showed that the high-risk population also included those with a lower income, those who benefited from public insurance, and those who lived in areas close to convenience food stores but far from parks.
+As the researchers note, identifying the factors that drive hypertension diagnosis in patients is critical.
+“Developing a personalized longitudinal intervention plan is important to prevent or delay the development of incident hypertension, as well as to reduce corresponding health care expenditures,” they wrote.
+Providers who understand that most high-risk hypertension patients also suffer from other chronic diseases could actively monitor and treat the diseases that may lead to hypertension development.
+In addition, the evidence from this study shows that a high concentration of parks in a living area can reduce hypertension risk by making low-cost exercise options more freely available, suggesting the need for community interventions as well.
+Healthcare organizations can initiate community interventions through partnerships with local organizations and public health officials to boost community health and alleviate social disparities.
+The researchers are confident in the ability of their predictive model to extract relevant patient data, identify high-risk individuals, and help providers develop personalized treatment and prevention plans.
+“Integration of such predictive analysis into clinical prescriptive solutions may help health care providers target high-risk populations, tailor the prescription and intensity of treatment solutions to such high-risk cohorts, improve decision making and patient adherence to prescribed intervention, and eventually benefit individuals’ health and quality of life while reducing health care costs,” the researchers conclude. 
+Tagged Care QualityChronic Disease ManagementChronic Disease PreventionEHR Data MiningMachine LearningPopulation Health Management
+
+

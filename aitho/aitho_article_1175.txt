@@ -1,0 +1,16 @@
+Exabeam Tackles Compromised IoT Threat
+
+16 Mar 2018
+
+New Entity Analytics Product Uses Machine Learning to Flag Suspicious Device Behavior
+Exabeam, the next-gen SIEM company, today announced a new product that uses machine learning to spot compromised IoT and other devices. Exabeam Entity Analytics discovers the normal behavior of medical, industrial, networking, home and mobile devices, and uses that baseline to alert security teams when unusual events occur.
+Device security is becoming increasingly important as the number of networked devices grows. According to Gartner, over 8 billion IoT devices were in use in 2017. Many of these devices are vulnerable due to default credentials, un-updated software, or lack of management. Recent stories of CCTV cameras used to mount denial of service attacks, compromised HVAC systems used to gain entry into corporate networks, medical devices hacked to disrupt medical care, and even drones used to compromise IoT light bulbs, illustrate the scope of the problem.
+Sylvain Gil
+To combat compromised devices, Exabeam Entity Analytics uses machine logs to monitor for suspicious activity, including devices trying to access proprietary servers or networks, uploading or downloading larger than usual volumes of information, or sending packets to unusual locations or in unusual patterns. Security administrators are presented with a prioritized list of risky devices for investigation, with the potential to automatically remediate the problem by isolating it on the network or potentially reconfiguring.
+Key features include:
+Automatic creation of activity timelines for devices, giving analysts a full picture of when a device started demonstrating unexpected behavior
+Calculation of risk scores for each device, with detail drill down and pivoting to speed investigation
+Unsupervised machine learning that automatically discovers normal behaviors of all devices on a network
+“Humans are really only half of the problem, and maybe not even half given how fast robotization and automation are growing,” said Sylvain Gil, vice president of product at Exabeam. “To help identify risky devices, we took the same analytics engine we perfected for user behavior and applied it to the device problem, with the same timelines and risk scores that have really helped our customers.”
+
+

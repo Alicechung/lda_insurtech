@@ -1,0 +1,19 @@
+Online colorectal cancer risk score helps streamline screenings
+
+January 30, 2014
+
+By Jennifer Bresnick
+January 30, 2014 - A colorectal cancer risk calculator developed by researchers at the Cleveland Clinic Lerner Research Institute has been published online in order to help physicians target the right patients for screenings while letting other patients avoid unnecessary tests.  By analyzing data on more than 180,000 patients, Brian Wells, MD, PhD of the Department of Quantitative Health Sciences in Cleveland Clinic’s Lerner Research Institute was able to develop an algorithm based on more than a decade of information.
+“Creating a risk calculator that includes multiple risk factors offers clinicians a means to more accurately predict risk than the simple age-based cutoffs currently used in clinical practice,” said Wells. “Clinicians could decide to screen high-risk patients earlier than age 50, while delaying or foregoing screening in low-risk individuals.”
+The Colorectal Cancer Predicted Risk Online (CRC-PRO) tool consists of about a dozen questions with separate surveys for men and women.  Simple risk factors such as amount of physical activity, consumption of red meat, family history, and use of aspirin combine to produce a percentage risk of developing cancer within ten years.  Patients can fill out the questionnaire on their own or with their physician.
+“It takes specific characteristics that you or I have and it makes predictions based on that,” said Michael Kattan, chair of the Department of Quantitative Health Science and co-author of the accompanying study. “That’s critical for effective decision-making.  “Tools like this represent another step toward personalized medicine that will ultimately improve efficiency, outcomes and patient care.”
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Deep Learning Network 100% Accurate at Identifying Breast Cancer
+Among cancers that are not gender-specific, colorectal cancer is the second leading killer of patients in the United States.  In 2010, more than 131,000 patients were diagnosed with the disease, and 52,000 died.  While routine screenings, including colonoscopies, are suggested for patients over the age of 50, only 63% of adults received proper screenings in 2008, leaving 22 million people out of date with recommended care.
+“Just having this tool will help us more efficiently decide who to target for screening,” added Wells.  “The calculator can predict risk better than physicians,” he said. “We’re hoping in the future that the folks who make the guidelines will catch onto this, too.  We hope to see more of these types of risk calculators, not just for cancer.  So many decisions are based on a single risk factor. Patients are a lot more complicated than that.”
+Cleveland Clinic has published an impressive collection of online risk tools for diseases ranging from brain and bladder cancer to coronary artery disease and Type 2 diabetes.
+Tagged Applied AnalyticsBig DataClinical AnalyticsClinical DataClinical IntelligenceMedical ResearchPatient Data
+
+

@@ -1,0 +1,29 @@
+Allianz’s captive insurance blockchain prototype shows efficiency potential
+
+7th November 2017 - Author: Luke Gallin
+
+Allianz Risk Transfer (ART), a division of Allianz Global Corporate & Specialty (AGCS), which is part of global insurer Allianz, has created and successfully implemented a blockchain prototype solution for a global captive insurance program of an existing ART client.
+
+ART collaborated with Ernst & Young (EY) as blockchain advisory service provider and Ginetta, a digital agency, to create and successfully implement the blockchain prototype solution. Furthermore, as part of the prototype, ART has partnered with Citi Treasury and Trade Solutions, which provided the payment processing services for the prototype.
+
+According to Allianz, the prototype shows that the efficiency of international insurance transactions can be significantly increased, with accelerated and simplified deal completion.
+
+AGCS Board Member, Hartmut Mai, commented; “We are currently seeing many blockchain applications in the financial services industry and we are eager to explore the potential of this exciting technology in the corporate insurance segment. The captive blockchain prototype is one further example of our commitment to leverage new technologies and drive innovation in insurance.”
+
+Blockchain technology enables all parties involved in captive insurance program, which are inherently complex, to be automatically connected, which includes the captive management, local subsidiaries and also the fronting insurer. Blockchain operates as a distributed ledger that is shared among a network of users, with any amendments to data being shared in real-time, creating a faster, transparent, secure and ultimately more efficient way of distributing information.
+
+Principal at ART, Yann Krattiger, said; “Our captive insurance blockchain prototype demonstrates that regular transactions and cash transfer between fronting insurers and clients can be significantly accelerated and simplified. Automated processing replaces the exchange of thousands of emails and massive data files. Each process is transparent and can be tracked in real-time. Our customers benefit from increased speed, reliability and auditability.”
+
+The captive insurance blockchain prototype from Allianz was built on the Blockchain framework, Hyperledger Fabric 1.0, and focuses on both professional indemnity and property insurance policies, for a captive insurance program that has local subsidiaries in the U.S., China, and Switzerland.
+
+Allianz explains that the blockchain analyses the annual policy renewals, premiums payments, and claims submission and settlement process flows of the captive insurance cycle, and then translates these processes into the distributed ledger environment which reduces the time from start to policy, from policy to premium, and from claim to settlement.
+
+EY Project Manager, Isabella Brom, commented; “The captive insurance blockchain prototype is a prime example of EY’s approach on co-innovating with our clients. It allowed us to demonstrate and trial the power of distribution and decentralization in the transformation of the insurance industry, using the Hyperledger Fabric Composer toolset to achieve fast and flexible prototype results.
+
+“The project deepened our and our client’s understanding of how applied blockchain technology will not only fundamentally change insurance as we know it but also create new business models.”
+
+Global Head of Channel, Enterprise and Account Services, Citi Treasury and Trade Solutions, said; “Citi is very proud to have been able to help Allianz achieve this industry milestone. By leveraging innovative, new technologies such as Allianz’s blockchain protoype and CitiConnect® API, we are able to partner to design new business models and rapidly implement them in a matter of weeks.”
+
+While Alan Cabello, Project Lead and Innovation Manager, AGCS Central and Eastern Europe, added; “With blockchain much focus is put on the technology, yet in reality perhaps 10% of the work is related to technology. The other 90% is rethinking the underlying processes and these in the end are all about people.”
+
+

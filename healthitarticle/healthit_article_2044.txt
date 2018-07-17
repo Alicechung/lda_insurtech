@@ -1,0 +1,17 @@
+Mayo Clinic, VC investors bring analytics to the bedside
+
+March 21, 2014
+
+By Jennifer Bresnick
+March 21, 2014 - The Mayo Clinic has teamed up with a group of health IT investors, including Rock Health, to launch Ambient Clinical Analytics with more than a million dollars in seed funding and a mission to transform the way physicians in the ED and ICU receive patient data.  The spin-off company will leverage and commercialize clinical decision support technologies developed by Mayo Clinic, including patient flow applications for the emergency department and a “sepsis sniffer” to conquer one of the most insidious conditions of the ICU.
+Two major tools, called YES Board and AWARE, will be the foundation of the organization’s offerings.  AWARE helps to filter EHR data on particular patients into a single dashboard, allowing clinicians to view only the most important information in an intuitive way.  The Ambient Warning and Response Evaluation (AWARE) system is being tested in a pilot program funded by a CMS Healthcare Innovation Award over the next three years.
+“The amount of data behind AWARE is vast, but unlike any other system I’ve used, AWARE shows me what I need to see, at the point of care, organized in the way I think. As a result, I can approach patients in a more standardized and organized fashion,” said John M. Litell, DO, attending physician, emergency and critical care medicine at Beth Israel Deaconess Medical Center and assistant director of emergency medicine research at St. Vincent Hospital.
+“The impetus behind creating AWARE was that I would arrive in the ICU and spend the first hours just coming to terms with basic patient facts. Other physicians face the same situation. By applying technology to this situation, we found a way to hit the ground running. The application was designed to make transitions of care safer and more efficient,” added Brian Pickering, MD, a founding clinical team member for Ambient Clinical Analytics.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+YES Board helps clinical staff with the complicated process of triaging and tracking patients who enter the emergency room.  Vern Smith, MD, and Andy Boggust, MD, founding clinical team members, said, “The fast-paced environment of emergency rooms requires the ability to rapidly assess the needs of patients, the severity of their illnesses, assign staff, and determine next steps. The intent of the YES Board was to make all of those things available at a glance without moving in and out of different applications, allowing for improved patient satisfaction and the ability to deliver care at a lower institutional cost.”
+Tagged Analytics InfrastructureBig DataClinical AnalyticsEHR AnalyticsHealthcare AnalyticsHealthcare Data ManagementHealthcare Data Strategy
+
+

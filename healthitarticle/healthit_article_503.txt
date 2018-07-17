@@ -1,0 +1,29 @@
+ONC Highlights Its Precision Medicine Initiative Collaborations
+
+April 13, 2017
+
+By Jennifer Bresnick
+April 13, 2017 - The Precision Medicine Initiative (PMI) is alive and well at the Office of the National Coordinator, where partnerships with other key government agencies are laying the big data groundwork for more personalized care. 
+Collaborations with the NIH, the FDA, the Office for Civil Rights, Department of Defense, and Department of Veterans Affairs are helping to develop the technologies and governance frameworks that will underpin the All of Us Research Program, the ambitious attempt to collect a vast pool of clinical, genomic, and lifestyle data for research applications.
+“PMI will advance the nation’s ability to accelerate scientific discovery and improve clinical care through an innovative approach that takes into account individual differences in people’s genes, environments, and lifestyles,” said ONC Chief Scientist Teresa Zayas Caban and Health Scientist Administrator Kevin Chaney in a Health IT Buzz blog post this week.
+The Precision Medicine Initiative is a hybrid public-private initiative that intends to advance the nation’s understanding of how to tailor therapies to patients based on their particular genetic responses to treatments and vulnerabilities to diseases.
+The centerpiece of the project is the PMI Cohort, a biobank and clinical data repository that aims to recruit at least one million patients to donate their data to researchers who can use the information to answer a variety of pressing questions about cancer, neurological diseases, and chronic conditions.
+READ MORE: Precision Medicine, Population Health Share Strategies and Goals
+“Put simply, PMI will enable us to better predict which treatments will be most effective for which patients – and health IT is foundational to achieving its promise,” Zayas Caban and Chaney added.
+ONC will be working with its partner agencies to ensure that patient data is safely and securely accessed and shared across the precision medicine community.
+“To advance the goals of PMI, over the past year ONC, in partnership with NIH, launched three separate but related activities assisting in making this ambitious vision a reality: Sync for Science (S4S), S4S Privacy and Security, and Sync for Genes,” they wrote.
+Sync for Science participants will use open APIs and FHIR standards to facilitate the donations of data to the All of Us research program and help to develop a national ecosystem for patient-mediated data access using similar technical standards.
+Harvard Medical School, as well as a handful of EHR developers, are currently developing and piloting APIs embedded in patient portals to allow users to access and share EHR data with All of Us researchers.
+READ MORE: Precision Medicine Partnerships Foster Promises of Breakthroughs
+“Eventually, as the program expands beyond the pilot sites, more participants will be able to share EHR-based clinical data via S4S with the All of Us Research Program and, eventually, other research studies,” ONC says.
+The Sync for Genes pilot is also getting off the ground in an effort to improve the pipelines for sharing the genomic data widely used in precision medicine research. 
+In January, five research groups started to test the suite of standards developed by the HL7 Clinical Genomics Workgroup, focusing on issues including family health histories, sequencing quality, tumor testing, tissue matching, and next-generation sequencing solutions.
+“Feedback from the pilots will used by Sync for Genes to ensure the development of open source validation scripts and implementation guidance documents to support needs in the field of genomics for others to utilize,” the ONC officials explained. “Ultimately, Sync for Genes will create a foundation for widespread use of genomic data to be shared in the All of Us Research Program and future studies.”
+Patients are understandably concerned about who will be accessing their personal health data and for what purposes, which is why the ONC and NIH have also launched the S4S API Privacy and Security initiative.
+READ MORE: Precision Medicine Sparks New Conversations about Patient Data
+The project will  “independently assess whether S4S API pilots implement appropriate privacy and security principles, verify and validate necessary safeguards, and provide privacy and security tips to facilitate participants’  sharing of EHR-based clinical data with the All of Us Research Program via the S4S API,” Zayas Caban and Chaney said.
+With funding and regulatory support from the 21st Century Cures Act, the ONC and its partners will continue to build a strong foundation of standards and health IT architecture to enable precision medicine to reach its full potential.        
+“ONC looks forward to making the PMI vision a reality by supporting health care research and delivery through interoperable health IT,” the authors concluded. “These projects are just a few examples of how ONC, working together with federal and industry stakeholders, can accelerate innovation through pilots and testing and advancing standards.”
+Tagged Clinical AnalyticsGenomicsMedical ResearchPrecision MedicinePrecision Medicine Initiative
+
+

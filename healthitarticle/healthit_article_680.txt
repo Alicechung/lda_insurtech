@@ -1,0 +1,47 @@
+Value-Based Care Starts with Basic Population Health Management
+
+November 16, 2016
+
+By Jennifer Bresnick
+November 16, 2016 - Healthcare organizations and their payer partners are learning very quickly that the transition from volume to value-based care is significantly more complicated than signing on the dotted line to switch reimbursement rates from one payment model to the other. 
+The process of embracing pay-for-performance care can be full of uncertainty, requiring a concerted effort – and some degree of trial and error – to develop partnerships, educate staff, engage patients, and implement population health management strategies that result in true improvements to patient outcomes.
+At the Fall 2016 Value-Based Care Summit, attendees received a crash-course in the fundamentals of this new approach to delivering quality care, including developing the health IT infrastructure required to move data along the care continuum and the challenges of retooling workflows and other processes to create more efficient, effective organizations.
+For Chip Howard, Vice President of Payment Innovation at Humana, strong partnerships across the care continuum are the bedrock upon which value-based care must be built. 
+Good relationships between providers and payers – and providers and patients – are required to ensure that every stakeholder understands their responsibilities and becomes an active participant in architecting the value-based environment.
+“Value-based care is a journey we have to take together,” he told HealthITAnalytics.com.   “Under these arrangements, Humana and the payer industry in general will not be successful unless our provider partners are successful.”
+“It behooves us all to work together and collaborate to make sure we have the infrastructure in place – and make sure we have the trust and relationships required for these arrangements.” 
+Since financial risk and incentive opportunities are predicated on well-defined patient outcomes, the first step for providers diving into the value-based ecosystem is to untangle the attribution problem, Howard says.
+“Know your population.  That’s number one.  Most organizations will have a wide variety of payers and varying reimbursement models.  They’re going to be measured against a variety of quality standards, as well.  Every provider has to be sure about how they are being measured and where their opportunities for improvement lie.  They can’t do that without knowing their population.”
+During or after the enrollment process, patients are often asked to choose a primary care provider for the record, Howard explained, something that Humana and many other payers actively encourage.
+“Self-selection is the strongest way to align a member up front with the person who is going to be providing the vast majority of their care,” he said.  “Sometimes it’s a requirement and sometimes it isn’t, but we always highly encourage it.  If you think about the goals of value-based care, it’s very important to be sure that the primary care provider is going to be the quarterback for the patient’s care.”
+While most payers provide detailed reports to providers about the members attributed to their practices, patients sometimes select a provider because it is necessary to complete their paperwork, but don’t actually visit the office for care until they experience an acute need. 
+That leaves providers financially responsible for patients they have never met, which makes it difficult to develop plans for allocating resources or designing new patient-facing initiatives.   
+“On the patient side, we do a lot of member outreach to urge the patient to see their physician, which seems antithetical to the old fee-for-service world,” said Howard.  “But in a value-based environment, it’s crucial to have that alignment with the PCP, and have that member actually go to the office to get their physical, get their wellness checks, and establish a strong relationship.”
+“Providers will usually start to conduct outreach to those patients, too, in order to bring them in and start to understand their needs.”
+How to Get Started with a Population Health Management Program
+Once a healthcare organization defines its pool of attributed patients, they now have the basic data required to engage in the next important population management task: risk stratification and targeted interventions.
+“After we establish attribution, there is a wide variety of data available about what chronic conditions those members have, whether or not they have been in the hospital recently, what their quality results are, and if they need any interventions,” said Howard. 
+“Learn what data sources are available and make sure you take advantage of them,” he suggested.  “Some payers distribute raw claims data for providers to use for analytics.  That’s a great, rich source of information – if you’re ready to take that step towards analytics.”
+Providers who aren’t necessarily prepared to dive into claims data or other big data sources can turn their gaze inward, instead.  Electronic health records are an excellent source of insight into clinical needs, and can help to identify utilization or disease trends, gaps in care, opportunities for improvement, and performance on process measures.
+There are challenges with relying solely on EHR data for analytics to support value-based care, however. 
+“One of the big problems with population health management in a pay-for-performance model is the fact that patients don’t currently have a complete, portable health record,” Howard acknowledged, and gathering enough high-quality data to make informed decisions can be difficult. 
+If a newly-attributed patient has not yet visited the clinic, for example, they may not have sent over their records from their previous providers, either. 
+And even if they do provide historical data, the records may not be in a compatible or machine-readable format, leaving clinicians to scroll through endless PDFs of scanned documents or a ream of handwritten notes from the fax machine. 
+Without natural language processing or manual data extraction, this information can be hard to include in population health or risk stratification analytics projects, and patients with little structured data in the system may not be properly accounted for.
+Preparing the Healthcare Revenue Cycle for Value-Based Care
+The alternative, which is for each provider to collect their own data about the patient, may pose similar data integrity and accuracy problems.
+“Most of the information patients give to their providers is based on their own recall,” said Howard.  “When a patient goes to a new physician, they fill out questionnaires about prior surgeries, medications and allergies, and chronic conditions.  The physician uses that as a starting point, and then they build it up as they go along.  That can present some data quality issues.”
+But Howard is optimistic that healthcare stakeholders will continue to work towards developing seamless, longitudinal records for patients that will smooth the transition to value-based care.
+Even without this capability, value-based care and a population health approach to managing patients is paying off for Humana, he added.
+“We’re doing a lot in the value-based space, and we measure our results every year.  We are seeing very positive outcomes.”
+Quality, efficiency, and utilization metrics for 1.2 million Medicare Advantage numbers support his assertion.
+“In 2015, we saw 19 percent improvements on HEDIS score results in the value-based population versus the traditional payment system,” he explained.  “The screening rate for colorectal cancer was up by 8 percent and the breast cancer screening rate by 6 percent.  Osteoporosis management improved by 13 percent in the value-based population.”
+“Emergency room visits were down by 6 percent, largely because of enhanced access to care after hours.  For older adults in vulnerable population groups, pain management assessments rose by 5 percent and medication reviews by 10 percent in the value-based population.”
+Just under two-thirds of Humana’s individual Medicare Advantage members are in value-based relationships, which demonstrates the payer’s commitment to pushing forward with the transition. 
+“All of these improvements have helped us see a 20 percent reduction in medical cost versus traditional Medicare,” Howard said.  “We’ve consistently seen positive results year over year in the value-based world versus the non-value-based system.”
+Many providers are still searching for the partners that will help them start along the journey of pairing population health management strategies with financial incentives, and Howard hopes that they see their payers as valuable sources of information, experience, and expertise.
+“It’s a journey together.  I can’t repeat this enough,” he said.  “For us, it’s about meeting providers where they are along the value-based continuum and having the programs, tools, resources, and capabilities to assist those providers as they make this change.”
+“In the fee-for-service environment, there was a lot of competition between payers and providers, and not a whole lot of collaboration, but that is changing.  We are all in this together, and mutual success is going to drive success for our patients, as well.”
+Tagged Chronic Disease ManagementHealthcare PayersInterviewsPopulation Health ManagementValue Based Care
+
+

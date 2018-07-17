@@ -1,0 +1,12 @@
+AKA, Developer Of AI Engine ‘MUSE’, Joins NVIDIA Inception Program
+
+05 Mar 2018
+
+AI AKA announced its acceptance into the NVIDIA Inception program, a comprehensive global initiative to support the innovation and growth of startups that are driving new breakthroughs in artificial intelligence and data science.
+AKA, Developer of AI Engine ‘MUSE’, Joins NVIDIA Inception Program
+AKA’s ‘MUSE’ is an AI engine that uses deep learning-based NLP technology to generate entirely new sentences which have not been previously programmed. Through search-based learning, MUSE utilizes conversations with users, annotated data from a variety of fictional and creative texts, and information available on the internet to find the most appropriate answer to the user’s input.
+At the direction of NVIDIA, AKA undertook the application process and was acknowledged as a good fit for the program after extensive review. As a member of the program, AKA now has direct access to NVIDIA’s latest GPU technology, deep learning expertise, and a global network of partners and customers.
+“NVIDIA’s GPU-accelerated platforms are essential for high-computing needs behind the training and inference models in AI engines,” said Rammi Nam, Head of AI Team at AKA. “We are so excited to be joining the program, and believe that NVIDIA’s network of AI innovators and its state-of-art GPU technology will help advance our learning algorithms powering MUSE.”
+Meanwhile, AKA’s MUSE API consists of 30 artificial intelligence APIs covering natural language processing and vision cognitive tools. AKA is currently discussing on presenting the API with prospective partners ranging from global semiconductor chip makers to automobile, consumer electronics, and telecommunications companies, as well as global toy manufacturers and entertainment firms.
+
+

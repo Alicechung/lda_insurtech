@@ -1,0 +1,28 @@
+$3M Grant Will Aid EHR Data Management, Chronic Pain Research
+
+March 10, 2016
+
+By Jacqueline LaPointe
+March 10, 2016 - An Indiana University-Purdue University Indianapolis (IUPUI) researcher has received $3 million in grants to develop health information technology for chronic pain patients and better processes for EHR data management and patient health information access, according to a press release from IUPUI.
+Christopher Harle, PhD, is an associate professor in the Department of Health Policy and Management at IUPUI. He is an affiliated scientist of the Regenstrief Institute’s Center for Biomedical Informatics.
+His research primarily focuses on health information systems, in particular how healthcare actors adopt, integrate, and manage electronic health records.
+The US Department of Health and Human Services Agency (HHS) awarded Harle a $1.1 million grant to develop health information technology to improve care for patients with chronic pain.
+Dig Deeper
+The Role of Healthcare Data Governance in Big Data Analytics
+CPT, SNOMED-CT Codes Ally to Boost Healthcare Data Integrity
+AMIA Advises PCORI on Sharing Big Data for Health Research
+Harle recognizes a challenge that patients and primary care physicians face with chronic pain. Both patients and doctors report having poor experiences treating the condition.
+“We want to understand at a pretty basic level how clinical work happens for chronic pain in primary care, how a doctor and other health care providers obtain information about patients when it comes to chronic pain, how they use that information at a detailed level, and how they make decisions regarding treatment,” Harle said.
+“We want to understand those decision-making processes and the information needs of health care providers as well as the information they may not have.”
+Patients of chronic pain experience more than physical symptoms.  Oftentimes, the condition can be biological or psychological. This makes it challenging to explain symptoms, identify the source, and prescribe appropriate therapies.
+Treatment for chronic pain is just as problematic. Typically, patients are prescribed opioids, which are addictive and often abused. Prescribed opioids also interact poorly with other medications and therapies.
+“Maybe we need better systems to collect that data and process it and communicate it to physicians in a way that they can take that information and modify treatment,” Harle added.
+Harle intends to use the $1.1 million grant to develop health IT systems that assist primary care physicians with understanding chronic pain and how to treat it effectively.  One example is a tool for reporting prescriptions for controlled substances, so primary care physicians have access to the knowledge about a patient’s potential to misuse prescribed drugs.
+Harle also received a $1.9 million grant from the National Institutes of Health (NIH) to create an interactive software that helps patients understand the informed consent process.
+When a patient sits in a doctor’s office with a large stack of paperwork, more often than not, he or she will sign on any line just to see the doctor. Patients may not understand the significance of what they signed and how their electronic health record information is shared.
+“It's potentially much larger and more comprehensive than that file folder you might imagine sitting in your family doctor's filing cabinet,” Harle said in reference to a patient’s personal health data.
+Harle plans to develop an interactive software to be used primarily in an academic or research-based medical office. A patient could log in and go through the process of informed-consent.
+Patients could develop the knowledge about EHR and informed consent through a software based tool, rather than asking medical staff.
+Tagged Health Information ManagementHealthcare Data GovernanceMedical Research
+
+

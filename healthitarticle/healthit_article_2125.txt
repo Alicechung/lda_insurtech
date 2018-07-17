@@ -1,0 +1,18 @@
+2.5 petabytes of centralized cancer data to accelerate genomics
+
+January 08, 2014
+
+By Jennifer Bresnick
+January 08, 2014 - The National Cancer Institute (NCI) is planning a major new project to bring staggering amounts of cancer research data to the cloud.  The Cancer Genome Atlas, anticipated to be 2.5 petabytes in size, will centralize the work of the NCI and provide a standardized API interface for new studies that will benefit from access to the wealth of analytical data.
+“The growth of large-scale DNA sequence data for cancer research and its routine use in translational science is rapidly out-stripping the required computational capacity for storage, processing, network transmission, and analysis,” says a proposal intended to attract contractors to help build the system.  “Groups ranging in size from single laboratories and investigators to large multi-institutional consortia are generating large-scale data at an exponential pace.  The ability to access and analyze genomic data and associated clinical annotations collected from various studies is critical to accelerating research and making new discoveries.”
+Centralizing the data repository will allow researchers to quickly access data that would take weeks or months to download in its entirety to a local server.  Large-scale computational analytics is increasingly requiring more bandwidth and more technical and financial support than is available to the majority of academic or commercial researchers, illustrating the necessity for new methods of storage and access.  “A ‘Cancer Genomics Cloud’ has the potential to democratize access to NCI-generated genomic data and provide a more cost-effective way to provide computational support to the cancer research community,” the proposal says.
+Cancer research has already benefitted enormously from the combination of large-scale clinical analytics with traditional trial methods.  The American Society of Clinical Oncology has started to develop a “learning health system” called CancerLinq to provide a data aggregation service based on patient data collected directly from EHRs.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Does Social Determinants Data Enhance Population Health Analytics?
+“Today we know very little about the experiences of most people with cancer because their information is locked away in unconnected servers and paper files,” said Sandra M. Swain, MD, President of ASCO.  “CancerLinQ will transform cancer care by unlocking that wealth of information and enabling every patient to be a cancer knowledge donor.”  Other advances include the use of real-time clinical analytics to detect the effectiveness of interventions and tailor treatments for breast cancer patients based on their DNA.
+NCI will be awarding several pilot contracts for the technical design and structuring of the new system in 2014, with the only major stipulation being that the cloud be based on national, reproducible technical standards.  The key feature of the infrastructure will be the application programming interface (API) that will allow diverse research institutions to easily access the same data as their peers.  The NCI also plans to allow researchers to analyze their own private data alongside the hosted resources in the cloud.
+Tagged Applied AnalyticsBig DataBig Data AnalyticsClinical AnalyticsClinical DataClinical IntelligenceMedical ResearchPatient Data
+
+

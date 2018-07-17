@@ -1,0 +1,21 @@
+New O’Reilly Survey Results Shed Light On Artificial Intelligence Skills Gap
+
+16 Apr 2018
+
+Findings Explore Industry Usage, Adoption and Barriers to Deep Learning for Business Applications
+O’Reilly, the premier source for insight-driven learning on technology and business, today announced the results of its 2018 Artificial Intelligence (AI) survey, “How Companies Are Putting AI to Work Through Deep Learning.” Focused on deep learning, a technique used primarily for supervised machine learning, the survey explores the adoption of tools and techniques to build AI applications and the barriers that hinder business adoption.
+Findings suggest that the democratization of AI and deep learning applications will continue, as development tools and libraries improve. However, the shortage of AI-trained engineers and developers will persist. For example, while 54% of respondents indicated AI will play a big role (35%) or essential role (19%) in their organization’s future projects, lack of skilled people was the number one bottleneck reported.
+Other key findings of the survey include:
+28% of respondents are already using deep learning, but a majority (71%) have not yet started.
+Of those already using deep learning, most are using it to make sense of structured or semi-structured data or text.
+13% cited computer vision, used to gain a high-level understanding from digital images or videos, as the application of deep learning they are most interested in.
+20% reported lack of skilled people as a bottleneck, when compared to other barriers, such as hardware and compute resources, data related challenges, company resources and culture, and accuracy and efficiency of DL models.
+A majority (75%) responded that their company is using an in-house or external AI training program.
+73% indicated they have begun using deep learning software; TensorFlow, an open-source software library for dataflow programming, was the most popular AI-tool cited.
+70% said cloud services are important to the application they’re building.
+Only 8% of respondents believe that deep learning will not play a role in their future projects.
+Other techniques also factor into how respondents build AI systems. For example, 45% of respondents are using or evaluating reinforcement learning.
+“Despite some claims that AI is over-hyped, these results show that we can expect more companies to use deep learning to improve their own products and services in the coming year,” said Ben Lorica, O’Reilly chief data scientist and AI Conference chair. “With that will come a tremendous emphasis on training at every level – from college degree programs to professional trainers – as businesses seek to develop the deep learning skills of their own staff.”
+For almost 40 years, O’Reilly has provided technology and business training, knowledge, and insight to help companies succeed. Our unique network of experts and innovators share their knowledge and expertise through the company’s Safari training and learning platform and at O’Reilly conferences. As a SaaS learning platform, Safari delivers highly topical and comprehensive technology and business learning solutions to millions of users across enterprise, consumer, and university channels.
+
+

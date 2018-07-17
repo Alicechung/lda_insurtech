@@ -1,0 +1,37 @@
+Psychosocial Data, Big Data Analytics Can Improve Patient Care
+
+August 15, 2016
+
+By Clay Richards
+August 15, 2016 - The fact that health outcomes tend to be worse for patients in poverty or who have lower levels of education should come as no surprise to many clinicians. But most hospitals have only worked around the margins to incorporate concerns about income, race, mobility, and dozens of other psychosocial factors into their care plans.
+This is especially true of post-hospitalization care plans, where factors outside the control of doctors and nurses can exacerbate health issues and increase costs.
+The reasons why the medical community has failed to act on these factors aren’t complex. There are few incentives to do so, and few hospitals have invested in tools that include psychosocial information to support decisions and leverage community resources that have grown up to deal with these issues.
+The good news is that these tools exist, and they are becoming more important as health care policy evolves to include value-based care.
+Why aligning incentives matters for the bottom line
+READ MORE: How NPs, PAs Add Value to Population Health Management Teams
+Patient care after hospitalization is becoming a greater concern for the government and private payers alike. Some surveys show that the greatest variation in Medicare spending arises from post-acute care. Other initiatives point to the rate of hospital readmissions as a low-hanging fruit.
+What these initiatives are targeting, of course, is wasteful spending in the US health care space in an effort to slow its staggering rate of growth.
+These efforts have come at a time when massive, terabyte-sized data sets of patient outcomes are inundating systems. Solid tools are available to gather and interpret that information to guide decisions. Good decision support tools don’t just flag high-risk patients, they drive action-oriented insights. When case managers design a plan for post-acute care, evidence-based databases and research can help answer the questions, “Where did patients like this one do best? How many hours of therapy services were optimal for patients like this?”
+Imagine an 89-year-old diabetic elder from a poverty-stricken neighborhood who is hospitalized with pneumonia. Working without a clinical decision support tool that asks the right questions about home life, a clinician might recommend that he be sent home with instructions for a visiting home health aide. In many cases, and probably very commonly, this might be an appropriate course of treatment, but not this time.
+What a clinical decision support tool might uncover is that the patient’s spouse and primary caregiver is herself recovering from a double hip replacement a few weeks prior. In addition, neither the patient nor his wife have access to transportation. Sending him home without proper caregiver support or transportation, limited mobility, and low financial resources is a veritable recipe for readmission.
+READ MORE: Value Proposition Hard to Find for Care Coordination Tools
+In a fee-for-service model, hospitals have little incentive outside their good conscience to work to reduce readmissions. The hospital can bill for the initial pneumonia visit, along with the subsequent readmission. And while no one would argue that a readmission would benefit the patient, the drive to reduce readmissions significantly is still absent in many facilities.
+However, this mindset is shifting as government and private payers seek to reduce variations in costs and see the value in reducing the number of avoidable readmissions. Hospitals with large numbers of Medicare and Medicaid patients who are readmitted face stiff financial penalties.
+Value-based care models, such as bundled payment programs, in which hospitals are exposed to some financial risk for inefficient care, are spreading and could increase downside risk for care givers.
+Even under diagnosis-related groups (DRGs), paying close attention to psychosocial factors can also reduce the number of stays in a hospital bed, reducing the variable cost the hospital faces in a model in which the providers are paid a lump sum.
+What happens before and after the hospital
+READ MORE: Smart Big Data is Key to Population Health, Value-Based Care
+So what are these psychosocial factors, and how do they play out? There are literally hundreds of them, all with varying levels of impact. Poverty, education level, and access to transportation are the big ones, but there are others, some of which may be surprising.
+The patient’s own view of his or her health can influence outcomes, as can depression and other mental health issues, and the simple motivation to get well and stick to a health plan. These factors could point to the need for a home health aide to ensure compliance to medication regimens – or even a therapist to help deal with self-esteem issues.
+Likewise, factors that impact care aren’t limited to the condition of the patient, but his surroundings too. Good tools take into account whether there are stairs in a patient’s house, and if so, how many steps are in each flight.
+Decision support tools can also encourage case managers to leverage community resources in developing a plan to transition home. If the patient lacks access to transportation, but is otherwise eligible to return home, case managers may find themselves researching the quality and accessibility of a Meals on Wheels program.
+There is one factor that has perhaps the biggest effect on outcomes. The importance of caregivers cannot be overstated. Caregivers can help with physical recuperation and greatly aid mental health – helping to reduce the sense of isolation that so many people with reduced mobility feel.
+Psychosocial factors – and the ability to use resources to pay for care outside a clinician’s typical expertise – can be financially beneficial in value-based care models. That’s because under some payment models, providers may be financially responsible for a whole range of health outcomes for 60- or 90-day periods. Such arrangements, for example, might make it financially feasible for a provider to offer mental health counseling to a patient who recently underwent a joint replacement if the provider can reasonably anticipate that counseling could improve outcomes. 
+Tying it all together with information, knowledge, and practice
+We’ve seen a broader recognition of the role social determinants play in health, and this is starting to play out in the policy arena. Congress recently mulled the Helping Hospitals Improve Patient Care Act, which deals with payments to hospitals serving a high proportion of low-income patients.
+But whether Congress acts or not, the coming shift in financial incentives and patient benefits alone means that hospitals should begin taking social determinants into account.
+Data is the start, but it doesn’t end there – data is just information. It must be translated into knowledge, then informed action that comes from information and experience when embedded into a clinician’s daily workflow.
+Clay Richards is the President and CEO at naviHealth, a post-acute care management company. 
+Tagged Care CoordinationClinical Decision SupportPopulation Health ManagementValue Based Care
+
+

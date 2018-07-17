@@ -1,0 +1,24 @@
+HIE, standardization are critical for healthcare analytics: Q&A
+
+October 17, 2013
+
+By Jennifer Bresnick
+October 17, 2013 - In order to form a complete picture of a patient’s health and activities, an individual provider needs much more than what goes in to her EHR.  She needs data from a patient’s cardiologist, and podiatrist, and the emergency room he visited last week.  Health information exchanges (HIEs) have been working hard to connect providers with different EHR systems in a given geographical area, allowing information to flow freely from one facility to the next.  Lauren Fifield, Senior Policy Advisor at Practice Fusion, sat down with HealthITAnalytics to discuss how HIEs can contribute to data analytics, and how they can provide value in the field to providers looking for insights into their patients’ health.
+How will standardizing data across providers make analytics easier?
+Standardized data will make it possible not for just interoperability, but for interoperability that works well.  So if I’m a doctor and I’ve diagnosed something and I send it to another doctor, it will mean the same thing in a totally different EHR environment.  That hasn’t always been the case even in the paper world.  This isn’t an EHR problem alone: it’s a clinical terminology problem.
+And it also means that from a data analytics perspective, the fact that an apple is an apple can really help with population health management and public health initiatives when looking at the geography of individuals and understanding where there are trends in causal or corollary relationships.  When data is translated in a universal way, it becomes reliable to use and easy to aggregate in a meaningful way.
+Dig Deeper
+44% of Payers, Providers Find Population Health Tools Effective
+Top Healthcare Business Intelligence Companies by Hospital Users
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+Are cloud-based EHRs and HIEs competing in the same space?  How do they impact each other?
+In a world of the cloud, you don’t really need HIE.  All of our providers, for example, have their own EHR home, but they’re all on one instance of the application, and the data can be centralized.  So analyzing data across the cloud is easy.  However, if we’re trying to get really good care coordination, if all EHRs aren’t going to be on one cloud, having good exchange between them and making sure there are good standards will make sure it’s easy to import data points into the cloud for analytics.
+I don’t know if actual HIEs in the noun form will be able to do that, but in the verb form, health information exchange will be critical for getting analytics to the point of being useful for an individual.
+One thing that’s interesting about HIEs and RECs is that eventually the funding runs out, and all of them will have to figure out a way to move forward.  The ones that will be successful will be the ones who quickly convert to providing SaaS and figure out ways to bring value to providers with population health.  If some don’t survive, that’s okay.  But the ones that really enter the market and compete successfully, then they’re going to be the ones that end up helping.
+How will HIEs survive long-term?
+It’s potentially through analytics.  Healthcare is incredibly local.  Every time an entrepreneur asks me “how do I make this thing that works nationally?” I say, “you don’t understand how local it is.”  It’s local down to a town or a city.  And one thing that HIEs have going for them is that they can act locally, so they can serve the needs of that community really well.  
+Nebraska has an HIE that’s incredibly successful, for example, but they have a different landscape of health IT and patients and hospitals than does the City of New York.  So each HIE is going to have to do what serves that local population really well.
+One thing I can see them doing is figuring out how to act with one another, and that could be sort of a market.  If they had the coordination where they’re serving that local market but then rolling up and federating could be valuable, particularly because patients are more and more wanting care across borders.  There are a lot of misconceptions about the uses or the value of raw data.  Unless it’s about Britney Spears or there’s some particularly vast amount of data, it’s not really that useful for anything.  Analytics is about identifying the trends and presenting that insight to the people who matter.  
+Tagged Analytics InfrastructureBig DataClinical IntelligenceHealthcare Data AnalyticsHIE AnalyticsPopulation Health Management
+
+

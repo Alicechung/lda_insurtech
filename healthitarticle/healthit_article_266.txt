@@ -1,0 +1,56 @@
+PwC: Artificial Intelligence, IoT, Population Health Top 2018 Trends
+
+December 13, 2017
+
+By Jennifer Bresnick
+December 13, 2017 - 2018 is set to be another big year for healthcare organizations as they start to come to terms with emerging technologies, like artificial intelligence, while mastering the complexities of population health management, the Internet of Things (IoT), and collaboration within their communities.
+Providers will be faced with myriad challenges over the next twelve months, says a new report by the PwC Health Research Institute (HRI).
+These will include addressing key social determinants of health, harnessing the power of connected medical devices, controlling the flow of opioids, and improving the patient experience.
+As the healthcare industry enters a new year fraught with regulatory uncertainty, the looming specter of political upheaval, and the constant threat of natural disasters, ransomware, and workforce shortages, providers will need to prepare themselves for a seemingly endless variety of trials and tribulations.
+To succeed in this difficult environment, providers will need to develop a series of new competencies and leverage an array of technologies to engage patients, develop visibility into opportunities for improvement, and safeguard sensitive data.
+READ MORE: Big Data, FHIR, Machine Learning Dominate Top 10 Stories of 2017
+“Stakeholders cannot hold back and take a 'wait and see' approach," said Kelly Barnes, PwC US Health Industries and Global Health Industries Consulting Leader. "They need to lean into the changes and proactively consider key areas for investment, forge partnerships and pursue efficiencies that enable the delivery of better healthcare to all.”
+“Companies that look beyond the daily news cycle churn and social media feeds to focus on their customers while remaining nimble in the face of change are most likely to succeed in 2018."
+ALTERING OPIOID PRESCRIBING PRACTICES TO REDUCE THE RISK OF ADDICTION
+Unfortunately, the opioid epidemic is not likely to end in 2018, although public health officials and healthcare providers are working diligently to curb the spread of substance abuse and addiction as quickly as possible.
+Many providers will alter their prescribing practices in the coming months, PwC says, in an effort to reduce the number of patients who unintentionally develop dependence through misuse or overuse of legally-provided medications.
+Source: PwC HRI
+Fifty percent of providers will make changes to their prescribing guidelines in 2018, PwC says.  Organizations will also work with payers, public health officials, pharmacies, community organizations, and first responders to take a more proactive approach to opioid addiction and its subsequent fallout.
+READ MORE: 70% of Residents Feel Prepared for Population Health Management
+Using data analytics to monitor prescribing patterns and conducting risk stratification focusing on the social determinants of health will be an important part of this work. 
+COLLABORATING WITH THE COMMUNITY TO ADDRESS SOCIOECONOMIC CHALLENGES
+Successful population health management initiatives don’t stop once the patient exits the clinic.  The socioeconomic determinants of health, such as food and housing security, transportation access, education, and employment contribute significantly to a patient’s ability to make healthy decisions and maintain their wellness.
+Providers often feel as if they have little control over what patients do in their free time, but establishing stronger partnerships with community organizations may give them more visibility and influence where their patients live, work, and play.
+A 2016 poll by HRI found that 73 percent of provider executives and half of payer executives had already created, or were in the process of developing, community-based collaborations focused on socioeconomic challenges.
+Understanding how to develop these programs and target them to high-needs groups is difficult, however.  HRI found that 78 percent of providers lack the data they need to identify socioeconomic needs.
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+“While clinicians routinely gather standard demographic information in their electronic health records (EHRs), social and lifestyle information—beyond tobacco and alcohol use—is spottier,” the report added.
+“Only 4 percent of clinicians responding to an HRI survey said they use community data sets to fill in the blanks. Data sharing partnerships and cross-sector collaborations will be critical to match patients with the support services they need.”
+In 2018, both payers and providers are expected to continue developing these competencies to create healthier environments for consumers.  Patients want to take advantage of these initiatives, the study pointed out.
+Seventy-two percent of consumers surveyed by PwC want their doctors and insurance companies to create links within their communities.  Somewhat fewer (59 percent) think it’s important for their employers to have similar ties, but the number of consumers who expect outreach and involvement is still significant. 
+ENSURING SECURITY WITHIN THE GROWING INTERNET OF THINGS
+Patient-provider communications are increasingly happening through the Internet of Things: the expanding network of medical devices, apps, consumer-grade wearables, and home monitors that allow providers to collect and analyze vital new datasets.
+A bruising series of ransomware attacks, major data breaches, and phishing schemes has the healthcare industry on edge going into 2018 – and the IoT may be the weakest point in providers’ cybersecurity defenses.
+Leveraging the IoT for chronic disease management, remote patient monitoring, and big data analytics starts with a firm foundation of privacy and security, PwC stresses.
+“Internet-connected medical devices are holding the health system together—playing critical roles in such tasks as patient care, medical records and billing—but each connected device is a potential door for cybercriminals,” says the report.
+“Following a year marked by major, industrywide cybersecurity breaches and a 525 percent increase in medical device cybersecurity vulnerabilities reported by the government, hospitals must take quick, decisive action to maintain data privacy, secure connected medical devices and protect patients.”
+Source: PwC HRI
+But not every organization knows how many devices they even have, PwC continues, which makes it difficult to know how secure their networks are.
+Only 64 percent of respondents to PwC’s Global State of Information Security Survey (GSISS) have conducted a risk assessment of their IoT devices – only 55 percent of those organizations have put security controls in place.
+Security breaches can have devastating consequences for an organization’s reputation.  More than a quarter of consumers affected by a hacking incident have decided to change providers or insurers.  Thirty-eight percent would be leery of choosing a hospital associated with a hacked medical device.
+Organizations that have not conducted security assessments or put access controls in place should make those projects a top priority in the coming year.
+ARTIFICIAL INTELLIGENCE WILL OFFER INSIGHT AND AUTOMATION…BUT WILL 2018 BE ITS YEAR?
+Healthcare providers tend to view new technologies with trepidation instead of excitement, but machine learning and artificial intelligence may be somewhat of an exception to this rule. 
+Organizational leaders, at least, seem eager to understand the potential of AI tools to automate processes, reduce costs, improve insights, and create better consumer experiences – but the jury is still out on whether or not the advanced analytics strategy will pay dividends in the near future.
+Respondents to PwC’s polling seem bullish on the prospect: thirty-nine percent of executives are investing in machine learning and AI already.
+Source: PwC HRI
+Healthcare leaders are envisioning AI as a driver for a number of use cases, including virtual assistants (31 percent), automated data analytics (29 percent), research reports and information aggregation (26 percent), and decision support (21 percent).
+“Business executives told PwC they hope to be able to automate tasks such as routine paperwork (82 percent of respondents), scheduling (79 percent), time sheet entry (78 percent) and accounting (69 percent) with AI-enabled tools,” the report adds.  Many of these initiatives are already underway.
+Interestingly, however, organizations are making the distinction between “investment” and “implementation.”  While three-quarters of organizations are investing in AI, just 20 percent believe they currently have the tech savvy to succeed with implementing it.
+This disconnect may lead to a slower adoption curve than indicated by the hype around machine learning and AI tools.
+While 2018 is poised to be a very interesting and challenging year for healthcare organizations, it may not be an artificially intelligent one.  Organizations are advised to look to their data governance, quality, and analytics competencies to ensure they are laying a strong foundation for the eventual adoption of machine learning tools, PwC says.
+Thoroughly reviewing the basics of data governance and information management will serve organizations in good stead for a number of 2018’s upcoming trends, including health information exchange to support population health, identifying risks in socioeconomically challenged populations, securing the IoT, and developing insight into opioid misuse.
+For providers who are starting out the year with confidence in their data, 2018 is likely to bring success across a number of key initiatives to improve the quality and delivery of patient care.
+Tagged Artificial Intelligence in HealthcareChronic Disease ManagementHealthcare Internet of ThingsMachine LearningPatient EngagementPopulation Health Management
+
+

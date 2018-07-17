@@ -1,0 +1,18 @@
+Will Facebook and Twitter unlock new clues to sleep disorders?
+
+February 27, 2014
+
+By Jennifer Bresnick
+February 27, 2014 - If there’s one thing providers are starting to learn about technology-enabled healthcare, it’s that data is everywhere.  From standardized EHR reporting to remote monitoring sensors to the words that come out of a patient’s mouth in the exam room, healthcare organizations are in the very beginning stages of learning how to capture, harness, and dive deeply into an increasingly mighty river of data streams.
+While organizations may still be struggling with deriving insights from structured clinical notes and providing clinicians with timely reporting at the point of care, a research team from Boston Children’s Hospital and Merck are planning to tackle sleep disorders through the messiest of data flows: social media networks like Facebook and Twitter.
+John Brownstein, PhD, a member of the Boston Children’s Informatics Program, will lead a study that intends to identify patterns in social media postings in order to predict sleep deprivation and insomnia.  With sleep disorders affecting more than half of patients in the United States, including 30% of the population with some form of chronic sleep disorder, this under-studied aspect of patient health presents significant opportunities to understand and target help towards a large percentage of people who might not always understand why they can’t seem to feel well.
+The study will look at data from Twitter, including tweet content and the time and frequency of postings, as well as Facebook activities like log-in times and comments, to create a portrait of a patient’s daily activities and identify his or her most active use periods.  If the patient is complaining of sleeplessness at three in the morning, for example, when his daily routine requires him to be at work by 9:00 AM, the researchers will be able to flag him as a likely candidate for follow-up from a primary care provider.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Geisinger Announces New National Precision Health Initiative
+“This project is using new data sources to carry out basic epidemiology research on sleep disorders and better understand the patient experience of insomnia,” Brownstein says. “The social media content people produce could teach us a great deal about factors driving sleep disorders, and help uncover new populations of insomnia patients that haven’t yet been described.”
+“We are very interested in pushing the boundaries of the science of social media and to see this as an opportunity to better understand the patient voice, in this case, how people share information about sleep problems and their day-to-day impact on quality of life,” added Sachin Jain, MD, MBA, chief medical information and innovation officer at Merck.  “This data source could offer a powerful tool to monitor the sleep health of a city, state or country, and it may offer additional tools in the prevention or treatment of insomnia.”
+  Tagged Applied AnalyticsBig DataClinical AnalyticsClinical DataClinical IntelligenceEHR Patient DataMedical Research
+
+

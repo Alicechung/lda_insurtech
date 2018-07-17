@@ -1,0 +1,114 @@
+Flow of data through HIEs is critical for analytics success
+
+September 03, 2013
+
+By Jennifer Bresnick
+September 03, 2013 - No man is an island, wrote John Donne, and no health system can think of themselves as isolated anymore if they want to succeed in the new era of healthcare reform.  Health information exchange (HIE) is becoming increasingly vital to hospitals as accountable care makes every provider responsible for what all their partners are doing.  Shared risk and shared success depends on shared information – and having the tools to collect, analyze, and act on that information quickly and effectively.
+“Health information exchanges are beginning to do something that hasn’t been possible in the past; they are able to break down the silos of information, presenting aggregated patient views with rich clinical content,” explained Sandlot Solutions CEO Joe Casper to the Institute for Health Technology Transformation.  “Value is derived when more and better information is shared across stakeholders to improve the coordination of care. Further, when the data can be leveraged to create patient engagement, when the exchange can support new business models that manage risk, then stakeholders will see true value.”
+Whether analytics programs focus on predicting risk or managing existing business and clinical conditions, good data is the foundation of good information, says Rodney Hamilton, MD, Chief Medial Information Officer at Informatics Corporation of America.  “Because of the sporadic and ad-hoc nature of how IT slowly worked its way into healthcare over several decades, clinical data has been input, displayed and analyzed by countless clinical systems that have no, or very little, alignment with one another.  Healthcare is looking for tools to help get its arms around this volume of data to reorganize, re-interpret and re-align it for use by multiple stakeholders across multiple institutions and regions.”
+As state and regional HIEs work to standardize data from their end, as it’s collected from EHRs and transmitted through their infrastructures, health information management professionals are making sense of that data on the receiving end.  The use of continuity of care documents (CCDs) as a basic standard for HIE has helped to turn fragmented, scattered, incomplete data into something analytics professionals can work with.  By aggregating and “normalizing” this data, clinical data repositories can become an effective way to sort and view information.  “These capabilities and tools form the basis for the access, synthesis and use of structured and unstructured data that will take the exchange of clinical information to the next level,” Hamilton predicts.
+HIMSS Stage 7 Awards Recognize EHR Use, Clinical Analytics
+How Big Data Analytics Underpins Every Healthcare Trend
+Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+Definitive Healthcare Acquires Provider Database Publisher
+Healthcare Big Data Analytics Suffers from “Fragmented” Approach
+ONC: Public health reporting relies on EHR infrastructure
+Apple Explores Medical Data with Health Records API, Patents
+Texas Governor Signs EHR Interoperability, HIE Legislation
+UIHC Wins HIMSS Davies Award for EHR Use, Analytics
+Population Health Scorecard Shows Geographical Divides in Quality
+Calls for Stage 3 Meaningful Use Delay Intensify with New Bill
+Will Half-Hearted Commitment Scupper Healthcare Data Analytics?
+Tailored analytics bring power to population health management
+IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+37% of Hospitals Get Top Quality Marks from The Joint Commission
+Will Facebook and Twitter unlock new clues to sleep disorders?
+CMS Releases Health Payment Info to Aid Data Transparency
+Should CMS Nix Stage 2 Meaningful Use Patient Engagement?
+CT Medical Society Announces New Health Information Exchange
+ONC: Don’t Let HIPAA Errors Hinder Population Health Management
+Enthusiasm for Cutting Admissions May Harm Medicare Patients
+Chronic disease patients: EHR access outweighs privacy risks
+IOM: Use EHRs More Efficiently for Patient Safety, Diagnostics
+ACOs Must Have Better Data for Population Health Management
+Colorado Payers Build Online Care Coordination Portal
+NIH Grants $11.6M for Precision Medicine, Care Disparities Work
+83 Intermountain Clinics Become Patient-Centered Medical Homes
+Machine Learning Complicates FDA Clinical Decision Support Guidance
+Collaboration, Big Data Help Phoenix Children’s Focus on Value-Based Care
+How Did Maine’s State HIE Become a Big Data Analytics Beacon?
+Surgeon General, Healthcare Orgs Pledge to Tackle Opioid Abuse
+Big Data, Interoperability Top Black Book’s Trends for 2017
+How to Gather Good Data for Healthcare Claims Accuracy Testing
+Private Payers Driving Value-Based Payment, Accountable Care
+Patient engagement, HIE pose challenges for population health
+Providers Quick to Blame Vendors for HIE, Interoperability Woes
+2014 Million Hearts Challenge urges hypertension control
+CMS Proposes Coverage for Next-Gen Precision Medicine Test
+UChicago wins $1.55M for hepatitis C population health project
+77% of Patients Experience Inaccurate EHR Medication Reconciliation
+Payers Wary of Outsourcing Big Data Analytics, Health IT Tasks
+Payer Partners for Precision Medicine, Offers Genomics Payments
+Feb. 25 HIMSS14 vendor news, announcements, & demonstrations
+Artificial Intelligence in Healthcare: Augmentation or Companionship?
+IBM Watson, Mount Sinai Launch New Precision Medicine Projects
+Big Data, Artificial Intelligence, IoT May Change Healthcare in 2017
+What Are the Clinical Analytics Lessons from EHR Adoption Data?
+MGH, MIT partner on clinical analytics, diagnostics research
+What role will CMS play in healthcare big data, analytics?
+Predictive Analytics Help Identify Military Suicide Risk
+Microsoft Revs Up Healthcare Artificial Intelligence Projects
+Epic, IBM Watson Embrace FHIR for Healthcare Big Data Analytics
+Missile defense analytics can spot sepsis before physicians
+ONC Targets Health Data Interoperability with New “Tech Lab”
+Change Healthcare Pushes Scale, Finds Value in Blockchain
+IoT, EHRs to Push Healthcare API Market to $243M by 2024
+Big Data Integrity Needed to Use Genomics for Care Coordination
+Senators Urge CMS to Reconsider Hospital Compare Quality Ratings
+Accountable care extends Medicare hospital funds to 2030
+AMA, AHA to Prioritize Hypertension, Chronic Disease Management
+3 Ways to Win the EHR, Health IT Argument on Thanksgiving
+Study: Automated readmissions review not yet sensitive enough
+Risk score roundup: How EHR analytics are changing healthcare
+Chronic Disease Management Costs 17 Times More than Average
+What are the basic pillars of population health management?
+IBM Grows Watson with $2.6B Truven Health Analytics Purchase
+Changing Leadership at CMS, ONC as New Administration Moves In
+Genomics, Big Data Bring Precision Medicine to Pediatric Cancer
+Health IT Helps Hospitals Win Quality, Patient Safety Awards
+UCSF Receives $85M NIH Grant for Precision Medicine Research
+Anthem’s HealthCore Offers Big Data Access for Healthcare Analytics
+ONC, NIH Pilot Adds Genomic Data Specifications to HL7 FHIR
+Data Governance, More Attention Required for Patient Safety
+Researchers study falls among the elderly with data analytics
+PGHD, Genomic Data Predicted to Power Clinical Decision Support
+Mental Health Care Disparities Impact Population Health
+CMS Issues Last Call for ICD-10 End-to-End Testing Volunteers
+AMA Renews Commitment to Public Health after Election Results
+AI, Machine Learning as a Service Set to Overhaul Healthcare
+CMS Expands Promising Medicare Diabetes Prevention Program
+ONC, NIH Launch S4S Program for Precision Medicine Research
+Can a 4-Question Survey Improve Chronic Disease Management?
+EHRs Can Aid Chronic Disease Management in Urban Settings
+CHIME, DirectTrust Partner for “Universal” Health Data Exchange
+HIMSS Analytics Refreshes EMRAM, Looks to Real Health IT Value
+Gaps in Chronic Disease Care Leave Patients, Docs Frustrated
+Pressure ulcer predictive risk score may be inaccurate
+Academic Medical Orgs Leap into Precision Medicine Initiative
+DOE, NCI Developing AI, Big Data Tools to Advance Cancer Research
+Decoding the Top 10 Buzzwords of Healthcare Big Data Analytics
+WEDI: Show your progress on data standards, patient engagement
+ICD-10 National Pilot highlights data quality issues
+ONC Health Data Resource Enhances Patient Data Sharing, Access
+What Does “Pick Your Own Pace” MACRA Mean for Data Analytics?
+Information Blocking? Prove It First, Say EHR Vendors to ONC
+Intel: Wearables, big data will track Parkinson’s disease
+54% of providers think data transparency will boost quality
+Survey: CMIOs feeling crunched by finding value in health IT
+Care Coordinators Improve Colon Cancer Screening Follow-Up
+Are Clinical Trials Diverse Enough to Ensure Patient Safety?
+HIE and analytics will continue to blend in scope and purpose as data exchange becomes ever more important to providing quality care.  HIE and analytics are both interested in providing better workflows, better clinical decision support, and better information to physicians as they complete their daily tasks while providing business intelligence on a broader scale by giving organizations everything they need to know about a patient population.
+“The blending of HIE and analytics is the inevitable next step on the path toward the seamless exchange of clinical information,” Hamilton concludes.  “The power of these technologies together provides a solution that can extract, translate and synthesize that data to turn it into usable clinical information giving physicians and providers the information they need when they need it to improve patient outcomes and reduce costs.”
+  Tagged EHR Patient DataHealth Information ManagementHealthcare AnalyticsHIE Analytics
+
+

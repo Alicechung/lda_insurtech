@@ -1,0 +1,23 @@
+Social Media Big Data Mining May Improve Population Health
+
+February 02, 2015
+
+By Stephanie Reardon
+February 02, 2015 - Indiana University (IU) School of Nursing and ChaCha,an online and mobile publisher,that provides a question and answer service through text messages, have partnered together to allow researchers at Indiana University Purdue University of Indianapolis to improve their understanding of a variety of health and cultural topics through big data mining.
+The data shared through ChaCha is a large selection of questions users submitted anonymously in 2009 through 2012. IU’s researchers will focus on health and wellness questions within the database.
+Through this collaboration, a laboratory with researchers from the IU schools of nursing, informatics and computing, and liberal arts, called the Social Network Health Research Lab at Indiana University School of Nursing, has been created. The lab is located on the IU-Purdue University Indianapolis campus.
+“This extraordinary partnership with ChaCha will allow IU researchers to amplify the patient voice in understanding health conditions,” said Chad Priest, Social Network Health Research Lab director and principal investigator. “We will be able to match anonymous social network information with aggregate health outcomes to map health-related dialogue occurring through social media networks.”
+Dig Deeper
+Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+Leveraging the Patient-Centered Medical Home for Older Adult Care
+Epic Systems Wins Best Overall Health IT Suite in KLAS Rankings
+Michael T. Weaver, interim dean of the IU School of Nursing, agrees that the collaboration will provide a unique opportunity to be able to see healthcare problems from their patients perspectives to improve quality of care.
+“We have the potential to determine which health topics are of greatest concern, what outcomes are most desirable, and how patients view particular treatments and practices,” Weaver said. “These data have potentially great economic and health care implications.”
+Mathew Palakal, executive associate dean and professor  in the School of Informatics and Computing seems excited by the challenges and solutions that may come through the partnership.
+“Discovering usable information from the ChaCha text data poses an interesting and exciting Big Data challenge in informatics utilizing natural language processing (text mining),” said Palakal, “Researchers require real-time exploration of the data, and hence, complex text-mining algorithms based on Hadoop computing platforms will be developed in order to facilitate active research on the ChaCha data.”
+This partnership is just one of many trending big data analytics plans to improve healthcare quality. According to a previous report, many healthcare facilities could benefit from utilizing Google Trends,a free tool that allows users to browse popular search topics and manipulate data. More research is needed to improve  the effectiveness of the tool.
+As the utilization of social networks increase, population health management professionals seeking big data sources may find these networks useful. Researchers are increasing their use of services such as Facebook, Google, and Twitter to help identify what patients are most concerned about. Twitter has been especially useful in tracking adverse drug occurrences and patients with a higher-risk of catching HIV.
+Facebook has apparently taken note of the trend of patients openly discussing their health issues online, another article indicated. In October, Facebook officials were meeting with healthcare experts and research companies in an attempt to develop new healthcare applications.
+Tagged Big DataPopulation Health Management
+
+

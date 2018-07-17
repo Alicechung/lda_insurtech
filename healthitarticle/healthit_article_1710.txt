@@ -1,0 +1,19 @@
+Can Healthcare Informatics turn EHR Data into Phenotypes?
+
+December 05, 2014
+
+By Jennifer Bresnick
+Using healthcare informatics to turn EHR data into phenotypes will speed research and clinical analytics.
+December 05, 2014 - Electronic health records may be great at collecting and storing numerous types of clinical data in great quantities, but the healthcare industry continues to struggle with the question of how to turn all of that information, including standardized and unstructured data elements, into actionable insights.  The National Science Foundation is hoping to change that by enlisting researchers at Georgia Tech, the University of Texas Austin, Vanderbilt University, and Northwestern University to categorize EHR data into phenotypes using informatics and data analytics expertise.
+“As available now, databases of electronic health records are diverse and massive, but they are also messy and heterogeneous. There’s a lot of noise,” said Jimeng Sun, Associate Professor at Georgia Tech’s School of Computational Science and Engineering and lead principal investigator for the four-year, $2.1 million grant. “Our charge is to find ways to make the information more robust and easier to read, thus leading to meaningful clinical concepts without extensive labor and time.”
+The project plans to tackle some of the major challenges of translating EHR data into phenotypes, or meaningful concepts centered around specific health traits, diseases, or diagnoses.  These challenges include the sheer scale of the data being produced on a regular basis, which prohibits the use of traditional methods, the adoption of standard phenotyping protocols across multiple institutions, ensuring accurate patient representation, and developing data quickly enough to be useful.
+“Traditionally it takes six to 18 months to develop an algorithm for a single phenotype, which is too long,” said Joshua Denny, Associate Professor of Biomedical Informatics and Computer Science at Vanderbilt. “There is also a tremendous need for developing high-throughput phenotyping methods that can directly model the interactions among heterogeneous information sources.”
+Dig Deeper
+Will Big Data Analytics Rescue Lackluster Electronic Health Records?
+Which Population Health Companies Get Top Marks for Value?
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+The project will provide a replicable framework for the generation of phenotypes that will limit the intensity of the labor involved in the process.  Some of the target phenotypes include hypertension, Type 2 diabetes, hypothyroidism, atrial fibrillation, rheumatoid arthritis, and multiple sclerosis.  The framework will also be useful for infrastructure that can accept and analyze EHR-derived phenotype information but cannot produce data on their own.  “Overall, the proposed framework is expected to have a major impact on translational clinical research including clinical trial design, predictive modeling, epidemiology studies and clinical decision support,” the project abstract says.
+“The principal investigators plan to deliver tutorials and organize workshops at relevant computer science and medical informatics conferences with the goal of sharing research results and developing a community,” the project description continues. “The [investigators] will develop outreach modules that focus on freshmen and under-represented students, as well as educational sessions for clinical researchers who are currently performing phenotyping in academic medical centers. Thus, the project has a significant component that integrates research and education as well as providing for new scientific insights.”
+Tagged Analytics InfrastructureApplied AnalyticsEHR Data Analytics
+
+

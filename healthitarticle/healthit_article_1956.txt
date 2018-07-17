@@ -1,0 +1,18 @@
+FDA using EHR data analytics to monitor drug safety
+
+June 25, 2014
+
+By Jennifer Bresnick
+June 25, 2014 - The FDA is using EHR data and information from electronic claims to give drug safety monitoring a boost, writes Janet Woodcock, MD, in a blog post for FDAVoice.  Using an active surveillance pilot called Mini-Sentinel, the Agency has enlisted 18 major clinical partners to provide secure, deidentified patient data to examine massive quantities of information related to the effectiveness and safety of pharmaceuticals.
+With EHR adoption reaching critical mass, the FDA is eyeing ways to harness the wealth of data produced by these systems in order to answer serious questions about patient safety without relying on voluntary reporting, which is slow, inefficient, and may not accurately capture all necessary information.  With Mini-Sentinel, FDA researchers can query the pool of data provided by the partner organizations, pulling data to analyze how a certain drug is being prescribed and how patients have responded to it.  The analytics system would not be possible without an investment in industry-wide data standards, Woodcock notes.
+“We need to further standardize the data and the way it is exchanged,” she writes. “This work will allow computer systems to better ‘talk’ to each other and, ultimately will lead to better treatment decisions as clinicians will have a more complete picture of their patients’ medical histories, including visits with other providers. 21st Century data sharing also will expand opportunities for researchers to ask questions that may improve our understanding of how and when drugs should be used. EHRs are only part of the puzzle, though. Defining standards for capturing data from clinical trials, and using standard terms for items such as ‘adverse events’ or ‘treatments’ will allow researchers to combine data from different clinical studies to learn more.”
+Mini-Sentinel can survey more than 4 billion pharmaceutical dispensary events and 4.1 billion patient encounters, covering potentially more than 150 million lives with 350 million person-years of observation, Woodcock says.  The astonishing scope of the project will help to reinvent the way drug safety is measured.
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+The FDA has previously explored the use of EHR data monitoring with a request for information in January, seeking access to data on up to 15 million patients to track the long-term effects of pharmaceuticals on safety and quality.  While the request for vendor input didn’t include a timeline or specific structure for the proposed data network, the project would be just one of many initiatives attempting to wrangle large-scale EHR data for medical research and clinical analytics.
+“FDA is actively engaged with standards-setting organizations to develop solutions that aid researchers, medical product developers and healthcare professionals in their efforts to increase our collective knowledge and tools in medicine,” Woodcock concludes. “We collaborate with, and support others in our health care system and in the research community who are working on efforts to harness the power of electronic healthcare data. We applaud those endeavors and encourage others to join these efforts.”
+Tagged Applied AnalyticsBig DataMedical ResearchPatient Safety
+
+

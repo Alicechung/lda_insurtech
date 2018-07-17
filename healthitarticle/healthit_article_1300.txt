@@ -1,0 +1,37 @@
+Final ICD-10 Preparation Checklist for Hospitals and Physicians
+
+August 18, 2015
+
+By Jennifer Bresnick
+August 18, 2015 - It may still be pool party weather in most of the country as the dog days of August slowly slink by, but cool temperatures and an undoubtedly cool reception for October 1, 2015 are right around the corner.  With little evidence that ICD-10 will be delayed yet again, and pending legislation to further ease the transition stuck in Congressional limbo, providers must steel themselves for the oncoming coding storm.
+Healthcare organizations may feel like there’s little time left to get ready for the new code set during the final few weeks of the ICD-10 preparation period, but the American Hospital Association (AHA) is urging providers to take advantage of whatever time is left by making sure they have completed a series of basic tasks included in a newly released checklist.
+In conjunction with a series of quick reference guides from CMS and specialty-specific ICD-10 resources available on the government’s Road to 10 preparation command center, the AHA hopes that the checklist will help hospitals and other providers ensure their readiness before the deadline arrives.
+The checklist recaps the majority of the ICD-10 preparation tasks providers must undertake before signing off on their readiness projects.  With fewer than fifty days left until the transition, the vast majority of these steps should be complete – or at least well underway. 
+Here are the top items to keep in mind when surveying you organization for ICD-10 readiness.
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Checking and testing internal systems
+Ensure that all health IT systems accepting, generating, or transmitting ICD-10 codes are accounted for with a thorough impact assessment.  Are all of these systems upgraded to ICD-10 specifications? 
+Are you still waiting on new products?  If so, do you have a firm deadline for delivery?  Will there be enough time to deploy, integrate, and test any upgrades before October 1?
+Are you planning to use any automated clinical documentation improvement or computer assisted coding (CAC) tools?  Are your staff members prepared and trained to use these products?  How will they affect productivity and accuracy?
+Conducting external testing and communication
+READ MORE: Provider Data Management Offers Payers a Blockchain Use Case
+Have you conducted acknowledgement testing with Medicare?  All providers may submit claims for acknowledgement testing at any time up until October 1.  Can you produce and transmit an ICD-10 claim that will be accepted by CMS systems?  If not, are the errors administrative in nature (e.g. incorrect NPI or invalid dates of service) or are they technical?  What must be done to correct these errors?
+Have you conducted full external testing with your private payers?  If using a clearinghouse, is the organization fully prepared for ICD-10? 
+Be sure to ask all financial business partners about their ICD-10 preparedness status.  This includes entities not covered under HIPAA mandates, including worker’s compensation and auto insurance providers.  These entities are not required to make the transition to ICD-10, though many are planning to.  If a partner is lagging behind, is there anything you can do to help?  Are there any workarounds that can be developed to avoid potential complications?
+Have emergency contact information for your Medicare Administrative Contractor (MAC) and commercial insurers on hand, the AHA suggests, in case claims are delayed or a glitch arises.  When encountering a problem, be sure to know your business partners’ processes for resubmitting claims for reimbursement. 
+Ensuring financial preparedness and contingency planning
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+Track current reimbursement metrics under ICD-9 to provide a baseline for your financial health before the switch.  Be aware of how long claims typically take to process, and how often a claim is accepted on the first pass.  These measures will help to gauge productivity and revenue cycle management after ICD-10 implementation.
+Be sure to account for all ICD-10 related costs, including coder and physician training and health IT infrastructure upgrades.  Ensure that these one-time expenditures are clearly labeled to reduce confusion.
+Starting October 1, 2015, monitor submitted claims to help identify potential problems, delays, or errors.  Payers provide access to claim status information through their online portals or use of the HIPAA transaction standard for claims status, the AHA states.
+Understand your options for securing advanced payments should your organization run into financial hardships from the switch.  CMS has provided guidance on applying for advanced payments, available here.
+Investigate the feasibility of establishing credit lines or gathering sufficient cash on hand to cover for severely delayed reimbursement cycles.  HIMSS has suggested that providers attempt to secure at least six months of cash or credit to mitigate any financial hiccups.
+Preparing staff for the impacts of the switch
+Establish baseline productivity metrics for your coders while they are still using ICD-9.  While some estimates predict that productivity may drop as much as 80 percent for poorly prepared coders, practice and dedication can mitigate those losses significantly.  Health information managers and ICD-10 implementation leaders should use standardized metrics to pinpoint where coders may be struggling and target education accordingly.
+Ensure that coders understand the details of the CMS and AMA joint announcement.  Be certain that they are still working to the highest possible level of specificity and detail even though CMS will not seek to deny claims due to certain accuracy mistakes.
+Reassure physicians that increased documentation requirements need not be as onerous as they might think.  Provide refresher education on including key ICD-10 concepts, such as laterality, in routine clinical documentation.
+Be sure that everyone in the organization, from executive staff to clinicians to coders, understand the ultimate purpose of ICD-10: to improve data integrity, foster more accurate care, and ensure more appropriate payments for diagnoses and procedures that could not be coded under the three-decade-old ICD-9 system. 
+While the switch may be disruptive over the next few months, organizations that have successfully prepared for ICD-10 implementation over the past few years may see their efforts bear unintended fruit.  Keep these potential benefits in mind when wrapping up the last few tasks for a successful ICD-10 transition.
+Tagged Health Information ManagementHealthcare Data GovernanceICD-10
+
+

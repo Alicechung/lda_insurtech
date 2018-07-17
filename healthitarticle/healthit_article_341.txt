@@ -1,0 +1,25 @@
+CA Children’s Hospitals Win Davies Award for Analytics, Safety
+
+September 25, 2017
+
+By Jennifer Bresnick
+September 25, 2017 - Patient safety improvements supported by big data analytics and health IT tools have secured the 2017 HIMSS Enterprise Davies Award for Lucille Packard Children’s Hospital and Stanford Children’s Health.
+The hospitals improved safety for pediatric patients by leveraging electronic health records and other data-driven tools to bolster reporting practices, alert clinicians about potential problems, and flagging at-risk patients for enhanced monitoring.
+"Stanford Children's Health has worked diligently to improve patient care in various aspects, such as medication administration safety interventions, prevention of nephrotoxic kidney injuries (AKI), and improvements in care for congenital heart defects," stated Jonathan French, CPHIMS, senior director, quality and patient safety, and director, Davies Award of Excellence Program, HIMSS.
+Dig Deeper
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+"In utilizing their clinical effectiveness program to maintain focus on positive patient outcomes, they have displayed strong commitment to setting and accomplishing their organization's goals. HIMSS congratulates the team members of Stanford Children's Health on being selected as a 2017 HIMSS Enterprise Davies Award Recipient."
+The organizations presented three case studies that led to the award, all of which highlight the importance of forging effective partnerships across the clinical, technological, and executive domains.
+"The close collaboration and integration between the Stanford Children's Health Information Services team and clinical leadership, with our collective goal of improving health outcomes for children and expectant mothers, is a key factor in our successful adoption of health information technology," said Ed Kopetsky, chief information officer.
+The first initiative, focusing on the prevention of acute kidney injuries (AKIs), used the EHR to identify and monitor patients required to take more than three nephrotoxin medications.  Pediatric patients overexposed to these drugs risk significant kidney damage.
+By collaborating with pharmacists to proactively monitor patients in the higher risk category, providers have been able to reduce nephrotoxin exposure rates by 39 percent.
+The EHR has also been a boon for congenital heart disease patients, who have seen a 34 percent decrease in post-operative length of stay thanks to a care standardization program. 
+Using EHR data and analytics, providers are now able to learn more effectively from the recent experiences of previous patients, allowing them make better informed decisions in the future.  The program has saved nearly 300 hospital days for this patient population.
+Medication administration processes have also benefitted from a big data approach.  By using digital bar code scanning to verify medication dispensing, the organizations have reduced missed doses by 21 percent, cut wasted medication doses by 66 percent, and achieved a significantly lower rate of medication errors.
+"This is a significant milestone for Stanford Children's Health," stated Christopher G. Dawes, president and chief executive officer of Packard Children's and Stanford Children's Health.
+"We are honored to be recognized for our accomplishments in advancing care for children and expectant mothers, which are achieved through excellent partnerships with our clinicians and leveraging innovative health information technologies and data analytics."
+Tagged EHR AnalyticsHealthcare QualityHIMSSHospital QualityPatient SafetyPopulation Health Management
+
+

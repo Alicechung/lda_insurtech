@@ -1,0 +1,21 @@
+IBM Watson Gets SNOMED CT Infusion to Enhance Data Analytics
+
+April 03, 2017
+
+By Jennifer Bresnick
+April 03, 2017 - IBM Watson is continuing its extensive medical education by adopting the SNOMED-CT clinical concept coding system to enhance its machine learning and data analytics. 
+The partnership between IBM Watson Health and SNOMED International, the coding system’s parent company, will make it easier for the supercomputer to identify and analyze references to standardized clinical terminology.
+"SNOMED CT presents clinically-relevant concepts and modifiers consistently and comprehensively, providing a 'global language of healthcare'," said Lisa Rometty, Vice President of Global Markets for IBM Watson Health.
+Dig Deeper
+IBM Watson Expands Role in Imaging Analytics, Population Health
+SNOMED CT Code Framework Will Aid EHR Reporting, Interoperability
+IBM Watson Health, FDA Partner for EHR, IoT Blockchain Project
+"Standardizing our offerings on SNOMED CT supports our efforts to provide customers and collaborators with clear information to help clinicians as they consider medical decisions and support the efficient delivery of quality care."
+More than 30 countries rely on SNOMED CT to identify, structure, and code clinical concepts, allowing easier exchange of information and large-scale analytics.  The code set is integral to many electronic health record systems, and can be cross-mapped with other popular terminologies, including ICD-10, LOINC, and the CPT codes used for billing in the United States.
+SNOMED CT is the standard terminology for Certified EHR Technology, according to the Office of the National Coordinator, and is a vital tool for recording patient history data, socioeconomic information, medication use, lifestyle factors, and similar data not typically available as standardized concepts in other coding languages more geared towards diagnoses and procedures, like ICD-10.
+The new partnership will allow Watson to apply its cognitive computing abilities to this information and other data stored in the SNOMED CT format.
+"SNOMED's agreement with IBM Watson Health breaks new ground," said SNOMED International CEO Don Sweete. "Imagine the impact of feeding SNOMED CT's 325,000+ concepts into Watson's cognitive capabilities. The possibilities for clients, and the healthcare industry in general, are almost limitless."
+As Watson continues to move into precision medicine, population health management, and artificial intelligence projects that require a more holistic view of individuals and the determinates of their health, the SNOMED partnership may help the company deliver more robust clinical decision support and personalized data analytics insights in the future.
+Tagged Analytics InfrastructureClinical AnalyticsMachine LearningPopulation Health ManagementSemantic Computing
+
+

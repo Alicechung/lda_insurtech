@@ -1,0 +1,11 @@
+Snaps Integrates With Adobe Campaign To Enhance Leading Enterprise Brand’s Messenger Chatbots With CRM Data
+
+16 Feb 2018
+
+With this integration, Adobe Campaign customers can further extend their campaign channel to Facebook Messenger, Twitter DM, Skype, and other platforms
+Conversational marketing platform, Snaps, one of the select companies listed in Facebook’s Platform Development Providers, announces an integration with Adobe Campaign, part of Adobe Marketing Cloud. Snaps enterprise chatbot platform empowers marketers to segment and engage customers through conversation across messaging and voice apps.
+One benefit of Snaps platform is brands can leverage their existing tools and databases. Through the integration with Adobe Campaign, brands will now be able to implement their Adobe Campaign data right within an individual’s Facebook Messenger chatbot conversation. Adobe Campaign enables the orchestration and execution of personalized cross-channel marketing campaigns to fuel meaningful customer experiences.
+With the integration, Adobe and Snaps enterprise customers can quickly create an exceptional chatbot experience that utilizes all existing customer data. Brands can also utilize the chatbot as an endpoint capable of reading and writing customer profile data such as preferences, addresses, purchase history, and more.
+Snaps is featured in the Adobe Exchange Directory under the personalization category. “At Snaps, our vision is to enable truly personal experiences for consumers, and to lower the cost and effort for enterprise brands to deliver personalization to their customers,” said Christian Brucculeri, CEO, Snaps.  There are three initial use cases to integrate Adobe Campaign into the Snaps platform. First, the integration allows brands to get a more complete picture of their customer. This is made possible by associating email addresses, connected with Adobe Campaign, to chatbot users. Second, brands can now leverage a user’s purchase history to deliver notifications such as status updates and tracking numbers directly on their messaging platform of choice. All existing purchase history can be accessed via the bot for use cases such as reordering, returns, and recommendations. Finally, brands can send transactional messages, which are defined within Adobe Campaign.
+
+

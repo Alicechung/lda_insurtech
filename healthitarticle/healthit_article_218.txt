@@ -1,0 +1,30 @@
+Natural Language Processing May Boost Patient EHR Understanding
+
+January 31, 2018
+
+By Jessica Kent
+January 31, 2018 - Using a natural language processing (NLP) tool to link medical terms to simple definitions could improve patient EHR comprehension and the patient portal experience, according to a study published in JAMIA.
+Chen et al. developed NoteAid, an NLP system that defines medical terms in EHR notes for adults at or below the average literacy level. Ten physicians evaluated the system’s medical definitions and user interface in order to provide the research team with feedback.
+Physician gave generally positive comments about the system’s usability, display, speed, and quality of lay definitions. Suggestions for definition-related improvements included adding more medical terms and improving the accuracy of some terms.
+Dig Deeper
+Natural Language Processing Could Translate EHR Jargon for Patients
+What is the Role of Natural Language Processing in Healthcare?
+Natural Language Processing, AI to Foster Clinical Decision Tools
+Physicians judged a total of 12 terms as inaccurate, or 6.2 percent of unique terms linked to lay definitions by NoteAid. Eleven were ambiguous terms or acronyms whose definitions did not fit the specific context of the EHR notes.
+Physicians suggested improving definitions for 20 terms (10.3 percent) to improve clarity and specificity. Physicians judged 91 terms (14.8 percent) to need lay definitions but were missed by NoteAid.
+Chen et al. added 4,502 more definitions to the system after receiving physician feedback, which improved NoteAid’s recall of medical terms from 0.565 to 0.787. Additionally, the team will address the problem of definition ambiguity by developing automatic methods to predict senses of ambiguous terms in EHR notes.
+Physician comments about the system’s user interface were minimal, including adjustments to the display to enhance the system’s clarity and usability.
+The research team made several improvements; for example, shifting the placement of certain buttons and modifying labels to improve clarity.
+Chen et al. contend that with patient testing and further improvements, their system has the potential to enhance patient access to their EHR data.
+“Enhancing patient access to their clinical data is a central component of patient-centered care,” they wrote.
+Although many patients now have access to their health data through patient portals, the research team points out that an estimated 36 percent of American adults have limited health literacy, which can impact their understanding of medication and treatment plans.
+A 2016 poll found that while 60 percent of patients had access to their EHR data, only 22 percent used the information to make medical decisions. Fifteen percent had difficulty understanding their EHR information.
+“EHR notes are written for documentation and communication between health care providers and contain abundant medical jargon that can confuse patients,” researchers wrote.
+Patients can also be confused by patient portal user interfaces, which may make them hesitant to adopt and use the technology.
+Collecting physician opinions on both the user interface and the quality of the NoteAid definitions allowed Chen et al. to make necessary improvements to both components of the system. The team is optimistic that the system’s few simple operations will allow patients with various stages of computer skills to easily use it.
+In addition, NoteAid received positive physician feedback despite the many challenges that came with developing NLP systems for patient EHR comprehension. Elements like physician shorthand and misspellings complicate the ability of systems to recall medical terms and can cause meaning ambiguities. The generally positive physician response suggests that the tool has great potential to be useful for patients.
+The next steps for the NoteAid research team will be to engage patients in using the system and to make further improvements based on their feedback.  
+“Tools such as NoteAid may have the potential to improve patient EHR comprehension, which, when used concurrently with patient portals, can improve patient experience, engagement, and health knowledge,” Chen et al. concluded. 
+Tagged EHR Data AnalyticsEHR Patient DataNatural Language ProcessingPatient Health Literacy
+
+

@@ -1,0 +1,55 @@
+DATx Brings the Blockchain Revolution to Digital Advertising
+
+July 5, 2018
+
+With investigations into Facebook-Cambridge Analytica resulting in lawsuits, and GDPR coming into effect, digital advertising’s unbridled collection and usage of user data is finally meeting legal resistance. The digital advertising industry, previously opaque and behind-the-scenes, is finally being pulled into the light, with the public waking up to the full reach and power of the industry.
+
+ But in today’s technologically accelerated age, laws may not be enough to protect user privacy. Current legal frameworks evolved over centuries, whereas today’s advances in digital technology, following Moore’s law, are growing at an exponential rate.
+
+ Andrea Matwyshyn, a professor at the University of Pennsylvania’s Wharton School, who tracks the intersection of law and technology points out, “Generally, [the law] is at least five years behind technology as it is developing.”
+
+ By leveraging technological advances, we can proactively address areas where laws fail to keep up the pace.
+
+ Blockchain technology, the underlying mechanism behind Bitcoin, is one such example. Renowned for ability to keep data secure and anonymous, blockchain keeps an immutable, traceable digital ledger on digital “blocks” linked together through digital cryptography. In the case of Bitcoin, these blocks store transaction data, but in practise, it could store any data
+
+ With the rapid development of blockchain’s potential applications across a range of industries, blockchain technology has finally made its way into the digital advertising world. A leading example of this integration is the DATx project, initiated by the Cosima Foundation based in Singapore.
+
+ DATx is a project that wishes to build a whole new digital advertising ecosystem that gives data rights back to users. At the IBM Avazu blockchain salon in Beijing, Mona Du, global lead of business development at DATx, explained the vision in the keynote address: “In the digital advertising industry, users are not respected. They have no say over their own data rights. Through blockchain technology, DATx hopes to achieve greater data privacy and security.”
+
+ Users participating in the DATx ecosystem can opt into giving their data to advertisers and media platforms to receive DATx token incentives. Furthermore, they are able to select different levels of data authorisation for different media channels. This data is gathered, stored, and encrypted on the blockchain.
+
+ No personal identifying information is collected; behaviour data comes in the form of feature tags that are linked to a user’s UID, which cannot be traced back to an address or name. If users opt in to provide their data, users not only get paid for their data, but are exposed to higher quality ads and content they actually want to see.
+
+ DATx elaborates, “We have a user account system and account behaviour file that enables uniqueness, cryptography, and blockchain storage. Based on the principle of user consent, this data is ultimately owned by the user. Users choose which media channels to open up their data to, with different levels of authorisation.”
+
+ The DATx project doesn’t just give users a fairer playing field in the industry, it benefits all the players in the system, establishing an digital advertising ecosystem incentivising mutualistic interactions between users, advertisers, and media platforms.
+
+ While media platforms and advertisers are now feeling the squeeze from new digital privacy laws, they have always faced their respective pain points in the traditional digital advertising industry.
+
+ Media platforms have always had to host ads to pay for their servers, content, and maintenance costs in exchange for website traffic. Services like Adblock became mainstream as a result of the poor quality of advertisements. Paywalls have been set up as an alternative monetisation model at the cost of low website traffic.
+
+ In addition, with centralisation of user behaviour data, the “walled garden” phenomenon has arisen. Most media platforms have no access to comprehensive user profiles of the visitors they get, as user behaviour data isn’t shared across different media platforms. The end result is media platforms are unable to deliver quality ads to their visitors, and have no choice but to host low quality ads.
+
+ On the DATx platform, when users opt in to provide their data, media platforms have full access to the user’s complete user profile, which includes how they browse and interact with content across the entire range of sites they visit. This allows media platforms to host accurate targeted ads, maximising eCPM for better monetisation of their website traffic, which would also increase without low quality ads and paywalls.
+
+ “Half the money I spend on advertising is wasted; the trouble is I don’t know which half.” Most people in the advertising business have heard this quote, attributed to John Wanamaker, a pioneer in marketing. Almost a century after his death, even with the arrival of digital marketing and programmatic advertising, his quote still remains relevant.
+
+ For advertisers, the problem is manifold. Much like with media platforms, they are unable to reach their target audience with precision, as they lack access to accurate user profiles. Even with programmatic advertisements, which essentially amounts to automation, precision is still lacking and doesn’t allow for customisation of ads to effectively connect with the audience.
+
+ In addition, click fraud, operated through bots, is rampant within the industry, with many advertisers slowly losing trust in the entire industry itself. The World Federation of Advertisers, whose members include McDonald’s, Coca Cola, and Visa, has warned that digital ad fraud is ‘endemic’. $14.5 billion USD was lost due to mobile ad fraud alone, amounting to over 10% of all revenue spent on mobile ad fraud in 2017.
+
+ DATx taps into cutting edge big data analysis techniques and AI recommendation systems to help advertisers find their audience and reach them efficiently. Furthermore, understanding that native advertising is currently the most effective digital advertising technique, DATx leverages its access to comprehensive user profiles to allow advertisers to employ customised native advertising. All of this results in increased ROI on ad placements for advertisers.
+
+ Blockchain technology, with its clear and traceable audit trails, allow DATx to implement effective anti-fraud measures to prevent all forms of ad fraud ranging, from basic click fraud to sophisticated illegal traffic. Utilising intricate algorithms that can easily verify real human interactions with ads, DATx hopes to eliminate ad fraud on its platform to bring back advertiser confidence in digital marketing
+
+ Lastly, settling payments in DATx token allows DATx to be a truly global, cross border project. As cryptocurrency by-passes the inefficiencies and fees of cross border transactions, all parties participating in the DATx ecosystem are guaranteed secure and rapid payments that are easily traceable.
+
+ DATx works closely with Avazu, a global advertising platform with nearly 10 years of operational history. Avazu Private Exchange (APX), DATx’s launch platform, provides a strong opportunity for widescale adoption; APX is host to 1000+ advertisers, 3000+ high-quality media platforms, 200+ applications, and 10 billion in daily traffic. Considering the fact that user base size has an exponential impact on a project’s viability and success in the digital advertising industry, the visibility and technical support provided by Avazu give DATx a strong competitive edge.
+
+ Aside from Avazu’s resources, DATx has technical and strategic partnerships with a wide variety of blockchain projects, providing DATx the opportunity to explore cross-chain solutions for filling digital advertising needs in a variety of industries.
+
+ Currently, DATx token price has been growing despite the bearish trends across the rest of the crypto market. Listed on HADAX, Huobi Korea, Kucoin, IDEX, and HitBTC, DATx token price has shown strong signs of a bull run ahead.
+
+ According to the DATx roadmap, full integration on the APX platform will be completed by the end of 2018. DATxChain, the main public chain the project is developing, will launch early 2019. With the full deployment of the project, DATx will hopefully reach their goal of “establishing fairer and more transparent game rules for the digital advertising industry”.
+
+

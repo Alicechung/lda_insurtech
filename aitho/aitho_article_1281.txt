@@ -1,0 +1,17 @@
+Imanis Data Raises $13.5 Million In Funding And Names John Mracek As CEO
+
+06 Mar 2018
+
+Industry Veteran and New Capital to Drive Customer Adoption and Accelerate Company Growth
+Imanis Data, the creator of a machine learning-based data management platform that includes cloud migration and backup/recovery tools for modern data platforms, today announced that it has raised $13.5 million in capital and named John Mracek as its new CEO. Imanis Data will leverage the funding and top executive talent to capitalize on the strong demand the company is seeing for its suite of data management solutions and strengthen relationships with major cloud players. Participants in the round include existing investors Canaan, ONSET Ventures, Intel Capital, and Wipro Ventures, as well as new investor Asset Plus Capital. Former Imanis Data CEO Nitin Donde will continue with the company as Chief Operating Officer (COO), where he will lead product and technology.
+Organizations are increasingly adopting hybrid strategies to deploy modern platforms, such as NoSQL databases, Hive and HBase, on-premises and in the cloud. Mission-critical applications on these platforms are exposed to data loss, ransomware attacks and personally identifiable information (PII) exposure that can cost companies millions of dollars. Ensuring that data is protected, archived, and made available to application developers is absolutely essential.
+Imanis Data simplifies data management. Its intelligent solution enables migration from on-premises data platforms to the cloud; protects data in the event of a ransomware attack, accidental deletion, or corruption; copies production data for testing and development without creating data security risks; and archives data for long-term retention to ensure business continuity.
+John Mracek
+“With the proliferation of modern big data platforms, organizations are struggling with basic data management needs for these platforms and are looking for solutions. The recent acquisition of Datos IO by Rubrik is evidence of this expanding market segment. Imanis Data is the best solution on the market and is trusted by leading Fortune 500 companies from the finance, retail and healthcare industries. I’m excited to join Imanis Data and take the business through its next phase of growth,” said Imanis Data CEO John Mracek.
+Niles Ho
+An industry veteran, Mracek brings executive leadership experience in big data, machine learning, advertising technology and enterprise software. Previously, he was CEO of NetSeer, Inc., a machine learning-based advertising technology company where he experienced the challenges and opportunities of managing modern data in real time on a massive big data scale. While there, he grew the venture-backed company from pre-revenue through the company’s sale in 2017. He has also held leadership roles at AdKnowledge, eBay, Yahoo!, Adobe and Apple, as well as other startups.
+Deepak Kamra
+“Imanis Data was just too good of an investing opportunity to pass up – the right product, at the right time with the right team in place to execute on the tremendous potential,” said Niles Ho, Managing Partner at Asset Plus Capital.
+“We’re thrilled to add John to the Imanis Data leadership team to continue the company’s explosive growth trajectory,” said board member Deepak Kamra, a general partner at Canaan. “He has a proven track record of success and deep expertise scaling companies, so we’re looking forward to seeing the great strides the company will make.”
+
+

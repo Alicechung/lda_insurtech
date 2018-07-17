@@ -1,0 +1,33 @@
+EHR Timestamp Data Can Help Monitor, Improve Clinical Workflows
+
+January 17, 2018
+
+By Jessica Kent
+January 17, 2018 - Organizations can use EHR timestamp data to improve clinical workflows by approximating the time it takes to complete common tasks. The data may be able to help providers with refining scheduling methods, analyzing EHR use, and quantifying how trainees interact with health IT systems, according to a study published in JAMIA.
+In order to better understand how this dataset could help optimize interactions with the EHR, Researchers observed and collected workflow data from four ophthalmologists within Oregon Health and Science University’s (OHSU) Epic EHR system.
+They compared the observations of workflows to timestamp data generated within the EHR, and found that EHR timestamps provided a reasonable approximation of workflow.
+Dig Deeper
+EHR Tech Support with Clinical Focus Enhances Patient Care Quality
+EHR Workflow, Big Data Combine for Population Health Management
+Using the EHR to dive into data mining, clinical analytics
+For three of the four physicians, the EHR timestamp measurements were within one minute of the observed reference exam times on average.
+Additionally, 84.3 percent of the EHR calculated exam times were within three minutes of the observed times, indicating that this dataset could offer providers an accurate substitute for manual observation.
+“There are many possible uses of this large set of timing data available from all EHRs,” the researchers wrote.  
+The team applied their findings to three different studies. The first used simulation models to test staff and exam room allocations and scheduling strategies that would prevent long wait times.
+The models showed that adding staff and exam rooms didn’t reduce patient wait times, but scheduling patients who need more time toward the end of the day did help to control wait times throughout the day.
+In addition to reducing patient satisfaction, long patient wait times can threaten healthcare revenue. This is especially true as the industry increasingly turns to value-based reimbursement models, in which clinicians are rewarded for providing timely access to quality care.
+Researchers also applied their findings to a study on daily EHR use, and found that ophthalmologists use their EHR for an average of 3.7 hours per day. They also found that clinic volume and appointment complexity are two major factors that affect EHR use.
+In general, researchers found that as patient volume increases, EHR use time decreases. However, they also found that when appointment complexity increases, so does EHR use time.
+Since physicians with the highest clinic volume tend to see less complex patients, and vice versa, these findings suggest that patient volume is limited by the work required during exams. EHR use makes up a significant part of that work.
+In fact, a 2017 study found that clinicians spend approximately 5.9 hours of an 11.4-hour workday on EHR documentation. This excessive amount of time spent on data entry has led to a spike in physician burnout, which negatively affects quality and cost of care.
+Researchers also applied their findings to a third study that examined the impact of trainees on workflow. They found that trainees were associated with significantly longer appointment times for both fellows and residents.
+While there are programs in medical schools that allow students to interact with EHR data before entering residency, the researchers write that these results show the effects trainees have on the “efficiency, productivity, and financial viability of academic medical centers.”
+The application of EHR timestamp data to studies like this can lead to better planning and reimbursement models for clinics’ training activities, the researchers state.
+Using this type of metadata can help justify EHR improvements. EHR optimization requires technology experts to assess the current system in place, and to examine how users interact with the EHR.
+Knowing the factors that significantly impact EHR use can help experts decide where to make improvements, and ultimately increase EHR efficiency.  
+Studying clinical workflow is a key way to gain insight for improving physician productivity. Providers are currently under pressure to see more patients in less time, and many believe that EHRs have only added to time pressure.
+However, as the researchers indicate, workflow studies often require observational data that is too resource-intensive. The results of this study show that existing EHR timestamp data can help organizations boost physician productivity and increase patient satisfaction.
+“These applications show the power of using existing EHR timing data for clinical workflow studies that would not have been possible otherwise and the possibilities for applying these methods to studies in other clinical settings,” the researchers concluded.
+Tagged Clinical AnalyticsClinical DocumentationEHR BenefitsEHR Data AnalyticsEHR Data Mining
+
+

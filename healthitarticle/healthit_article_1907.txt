@@ -1,0 +1,18 @@
+Predictive analytics tool pinpoints future doc shortages
+
+August 04, 2014
+
+By Jennifer Bresnick
+August 04, 2014 - Researchers at the University of North Carolina Chapel Hill have developed an interactive online tool to help healthcare organizations tackle one of the most insidious challenges to a sustainable care system: the ever-present threat of physician shortages.  With some estimates predicting a shortfall of more than 130,000 physicians by 2025, the FutureDocs Forecasting Tool hopes to uncover the root causes of the doctor drought at a local level and aid universities, healthcare organizations, and other entities in addressing the problem before it reaches crisis levels.
+“It’s important to recognize that the national dialogue about physician supply has been narrowly focused until now,” said Erin Fraher, PhD, leader of the development team at the Program on Health Workforce Research and Policy, part of the Cecil G. Sheps Center for Health Services Research at UNC-Chapel Hill. “Using the number of physician specialists in a region as a sole indicator of how well patients’ needs will be met in the future is neither accurate nor useful. Instead, we need to emphasize how alternative combinations of physicians can provide the needed services in a market area.”
+The tool allows users to examine models of future physician employment on a community level, taking into account policy issues like the expansion of Medicaid and health insurance exchanges in certain states, as well as average physician retirement rates, utilization of supplementary staff such as nurse practitioners and physician assistants, and redistributions of Graduate Medical Education (GME).
+The model has already highlighted several key shifts in the healthcare employment market, including the high impact of population growth and aging on the use of health insurance and the increasing prevalence of female specialists in areas that have traditionally been dominated by male practitioners.
+Dig Deeper
+VA, DeepMind Partner for Machine Learning, Predictive Analytics
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Desire for Predictive Analytics Outpaces Hospital Investment
+“This model is not intended to provide a single right answer to address physician shortages,” said Fraher. “Our hope is that the FutureDocs Forecasting Tool will reframe how people think about physician supply and demand, and that the data each customized criteria selection yields will help educate and engage stakeholders to create actionable workforce policy at the local and national levels.”
+The Institute of Medicine (IOM) released a report last week recommending changes to the nationwide investment in GME to address current deficiencies and provide a solid foundation for future physician education.  Strategic investment in the Medicare GME fund, currently at $9.7 billion, will be crucial for securing sufficient levels of employment.  The report also recommends that policymakers speed the transition to accountable care in order to encourage physicians to embrace pay-for-performance reimbursement structures and foster population health management in the quickly changing healthcare landscape.
+Tagged Healthcare Business IntelligencePatient CarePredictive Analytics
+
+

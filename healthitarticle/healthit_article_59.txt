@@ -1,0 +1,22 @@
+Anthem’s HealthCore Offers Big Data Access for Healthcare Analytics
+
+May 29, 2018
+
+By Jessica Kent
+May 29, 2018 - HealthCore, a wholly-owned subsidiary of Anthem, has announced that life sciences companies can now access its big data assets to leverage for analytics. The datasets longitudinal medical and pharmacy claims data from over 48 million individuals and lab result data from more than 17 million individuals.
+The HealthCore Integrated Research Database (HIRD) offers life science researchers the opportunity to answer questions about how their products fit into treatment patterns, whether their products impact the correct populations, and whether their targeted clinical trials are likely to generate meaningful discoveries.
+The datasets will be accessible through the Instant Health Data Platform developed by analytics company Boston Health Economics.
+Dig Deeper
+How Big Data Analytics Companies Support Value-Based Healthcare
+Healthcare Big Data Analytics Plays Critical Role in Quality
+Reviewing the Progress of Health Data Access, Interoperability
+“Researchers using the HIRD and the Boston Health Economics platform now have the ability to create a code definition library, identify specific population groups, specify baseline and outcome variables, conduct statistical analyses, and produce reports – all in an easy-to-use interface,” said Mark Cziraky, vice president of research for HealthCore.
+“Ultimately, this unique combination of the HIRD and Boston Health Economics’ Instant Health Data Platform will enable our clients to improve insights and decision making in healthcare.”
+Using the HIRD, researchers can conduct rapid investigations on de-identified data from patients with products from the real world and not in a clinical trial setting.
+Researchers can characterize patient populations, conduct feasibility assessments, optimize trial and research designs, assess unmet needs, and perform complex safety and efficacy analyses.
+If the research design requires going beyond de-identified claims data, the HealthCore team can use its broader HealthCore Integrated Research Environment on the same group of patients and physicians defined by the Instant Health Data Researcher. This will allow clients to conduct focus groups and surveys with both patients and providers.
+This will also enable clients to include more detailed resource use and cost of care analysis, review and validate clinical records, and design and implement site-based observational studies and pragmatic clinical trials.
+“We are excited to bring the HIRD database to our customers for the very first time, opening up new possibilities for gaining insights from this large, rich patient population using the most widely-adopted real-world data analytics platform,” said Joseph Menzin, founder and CEO of Boston Health Economics.
+Tagged Clinical trialsHealthcare Big Data AnalyticsMedical ResearchPatient Data Access
+
+

@@ -1,0 +1,17 @@
+IBM healthcare analytics to combat malaria, dengue fever
+
+September 30, 2013
+
+By Jennifer Bresnick
+September 30, 2013 - Johns Hopkins University and IBM are teaming up to bring predictive analytics to developing nations in an attempt to reduce the occurrences of deadly diseases like malaria and dengue fever, according to new research published in the Journal of Theoretical Biology.  By using big data to predict outbreaks of the illnesses, which kill more than 100 million people per year, researchers hope to be able to pinpoint public health crises before they develop, potentially saving millions of lives.
+Big data experts aren’t just looking at clinical information.  Environmental data such as rainfall, temperature, and soil conditions can help flag conditions that may produce a higher-than-average number of malaria-carrying mosquitoes, and tracking the movement of people through airports or along highways can give a detailed picture of how disease vectors move through the population.
+In order to get a handle on the many streams of data needed to produce results, IBM created a modeling system called the Spatio Temporal Epidemiological Modeler (STEM), which allows researchers to combine a variety of non-clinical data sets with pure disease information, letting analysts see how environmental or human factors combine to produce outbreak conditions and allow illnesses to spread.
+“We want to make it easier for people to gather and use data for research with open-source tools,” said James Kaufman, public health manager at the IBM Almaden Research Center. “The thing that makes the greatest difference in the ability to make predictions about disease is the quality of your data. But most often there is a limitation in the data you have access to. Public health officials can’t afford to act on speculation during an epidemic. They need accurate and timely access to data to see what the potential spread of a disease might be for a given geographic region over a period of time.”
+Dig Deeper
+Six Pediatric Hospitals Create Personalized Medicine Coalition
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+“All of Us” Precision Medicine Program Enters Beta Testing
+“It is important to recognize the synergistic effort of theoretical and computational scientists, disease experts and public health officials making a difference in how rapidly and effectively we fight infectious diseases,” said Simone Bianco, UC San Francisco, Bioengineering and Therapeutic Sciences. “We have to be ready at the drop of a hat to parse through disparate data from global disease surveillance systems, conduct computationally intense research and transfer our knowledge to public health officials to help them visualize population health, detect outbreaks, develop new models, and evaluate the effectiveness of policies.”
+Tagged Big Data AnalyticsClinical AnalyticsHealthcare Data AnalyticsMedical ResearchPopulation Health Management
+
+

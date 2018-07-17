@@ -1,0 +1,45 @@
+Population Health is Top Data Analytics Challenge for Providers, Payers
+
+February 06, 2018
+
+By Jennifer Bresnick
+February 06, 2018 - Healthcare payers and providers are focusing their big data analytics work on population health management says a new survey conducted by Deloitte on behalf of NEJM Catalyst, but have yet to overcome many of the major challenges involved in delivering proactive, impactful patient care.
+Eighty-four percent of 357 respondents believe that big data analytics is either “very” or “extremely important” for their long-term competitive success. 
+During a leadership forum that brought together many top executives from health systems and payers across the nation, participants highlighted the urgency of moving up the maturity curve – but doing so in a measured, meticulous manner that would lay the groundwork a transparent, collaborative quality improvement ecosystem.
+“[Data has to] direct decisions in a way that providers care about and that we know will actually impact patient care,” said Rachael Jones, Staff Vice President for Payment Innovation Analytics at Anthem. ““I think we all want to reduce spend and reduce premiums to save money, but the larger ‘why’ to me is [to be] in service of the member.”
+Providers expressed similar commitment to using their data to keep patient at the center of the care process.  The survey revealed that health systems are making good on that promise by funneling their resources into creating insights for clinical care.
+READ MORE: PCPs Lack Time, Tools to Address Social Determinants of Health
+Delivering actionable insights to help providers get upstream of chronic diseases and tracking the success of practice transformation efforts are two of the driving imperatives for developing big data analytics infrastructure and reporting.
+Seventy-seven percent of leaders said the primary focus of their analytics efforts is guiding clinical leadership towards better decisions.  Fifty-nine added that supporting population health management was also high on the agenda, while 46 percent wanted to provide resources directly to caregivers of complex patients.
+Source: NEJM Catalyst
+Half of respondents are able to identify high-cost patients using their existing analytics capabilities, and 49 percent can conduct population risk assessments.
+Over the next three years, 78 percent of a subset of 45 respondents said that they would be increasing investment in clinical analytics.
+By the end of the decade, 88 percent plan to offer analytics-driven population health management tools to their providers.  Seventy six will specifically develop data analytics insights that include information on patients’ social determinants of health.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+However, organizations on both sides of the payer-provider equation are still struggling to liberate their data assets from deeply-entrenched siloes, cultivate the competencies required to create meaningful reports, and craft holistic portraits of individuals using innovative data sources like social determinants data and community factors.
+Only 41 percent of respondents can currently assess the health needs of a given population.  And fewer are able to integrate referrals to meaningful community-based social services into their workflows.
+Source: NEJM Catalyst
+Many providers simply do not know what to do with social determinant information if they management to get it – and without the ability to match problems with possible solutions, population health management efforts could stall out, cautioned Dave A. Chokshi, MD, MSc, Chief Population Health Officer at OneCity Health and NYC Health + Hospitals.
+“If we know what’s going to move the needle on outcomes – but we can’t actually match up the intervention with a clear need in front of us – then we have to address the interventions, right?” he asked.
+In order to close that gap, providers and payers need access to timely, trustworthy, and comprehensive data on patients in their clinical and community environments.  But collecting that data from its disparate locations and integrating it appropriately is still a tall order for many organizations.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+Sixty-one percent identified working through integrating clinical and business data as a major challenge over the next three years.  Fifty-four percent are still struggling with EHR interoperability, while 34 percent said obtaining data at all will be an ongoing concern.
+Bringing in data from external sources, including information from care partners and payers, will also continue to be difficult over the next few years.
+In the meantime, as providers and payers navigate these challenges, many are getting creative about using the big data they have to extract actionable insights.
+“We’re using data that wasn’t meant to be used in the way that we want to use it. We’re using the billing data to do population health management. Boy, is that a challenge,” said Pamela Peele, PhD, Chief Analytics Officer of UPMC Insurance Services Division and UPMC Enterprises.
+Adding to the complexity is the fact that many providers are still not incentivized to address socioeconomic concerns, pointed out Benson Hsu, MD, MBA, FAAP, Chief Medical Analytics Officer at Sanford Health.
+“In the current environment, I’m not 100 percent held accountable for solving all those social problems,” he said.  Unless a health system is taking on full financial risk for a population, providers still have a greater motivation to meet the more traditional goals of fee-for-service reimbursement.  
+Over the next few years, many participants expect the rise of value-based care to bring those incentives into closer alignment.
+But some are concerned that their analytics will not be moving quite fast enough to keep up.  Extracting the full financial and clinical potential from addressing social determinants requires providers and payers to rely on novel data sets that are often unstructured or hidden within free text.
+Patients may casually mention a circumstance that is contributing to their poor health, such as being unable to secure regular transportation to the clinic or pharmacy, and these data points may make it into a physician’s narrative note.  But because it is not captured in a standardized field, risk stratification algorithms may not be able to take the information into account.
+Thirty-six percent of providers and payers believe that accommodating unstructured data will still be a challenge over the next three years.
+Some providers are employing natural language processing (NLP) tools to extract these meaningful but messy data elements and ensure that care is appropriate, cost effective, and socioeconomically relevant.
+“We have started to work with NLP to blend free text data such as physician notes in with discrete data such as labs, medication dosages, etc.,” says Scott Weingarten, MD, Senior Vice President and Chief Clinical Transformation Officer at Cedars-Sinai Health System. 
+“You don’t know from discrete data elements how long the patient has had lower back pain, and you need to know that to determine if imaging studies may be appropriate.”
+It will likely be necessary to optimize electronic health records to collect some of these data elements in a more standardized way, and to focus on implementing data governance programs that account for currently unstructured data – as well as data that could be structured better.
+Creating a strong foundation of good governance now will help providers and payers move towards clinical and financial improvements they need in the near future.  But healthcare organizations must also recognize that sometimes reasonably good data can be infinitely preferable to no data at all.
+“You can spend an infinite amount of money getting the data, cleaning the data, and by the time you get that data in the perfect format, it’s old, it’s out of use, and the opportunity has been missed,” said Richard Vaughn, MD, Chief Medical Officer at SSM Health.  
+Data doesn’t have to be perfect to be useful, he said.  “It just needs to be better that what you’re getting today to drive the correct insight moving forward.”
+Tagged Analytics InfrastructureChronic Disease ManagementClinical AnalyticsHealthcare Business IntelligencePopulation Health ManagementPredictive AnalyticsPreventive Care
+
+

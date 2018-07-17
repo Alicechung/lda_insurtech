@@ -1,0 +1,23 @@
+The Internet of Things is driven by network, not devices, says GlobalData
+
+May 8, 2018
+
+At the recent Mobile World Congress, Cisco rolled out a new networking and device management platform for Internet of Things (IoT) practitioners that promises to enable the creation of extremely large-scale deployments without breaking the bank.
+
+ However IoT at scale can be expensive in terms of delivering basic device interconnectivity and management costs. Therefore IT buyers, especially those seeking to build an IoT solution at scale, need to tick a number of boxes when researching an IoT platform partner says GlobalData, the data and analytics company.
+
+ Brad Shimmin, Service Director, Global IT Technology and Software, at GlobalData commented, ‘‘This is especially true for companies seeking to optimise operations and explore data-driven business opportunities across an existing, sizeable base of customer products like toasters, refrigerators, or mobile phones. However, bandwidth is not cheap, nor is the back end processing power required to support a huge number of devices”.
+
+ Therefore IT buyers need to understand how the partner will address device and networking issues as raised by Cisco. But they also need to carefully consider the language spoken across an IoT network, selecting a platform partner capable of tackling the task at hand in the most efficient manner. In response to  problems of scale, Cisco has rolled out a new platform (Cisco Jasper Control Centre for NB-IoT) that optimises device communications over low-power wide area networks. Cisco’s Control Centre software has already garnered the interest of some sizeable telecom operators with more than 15,000 end customers. One operator in particular, China Unicom, intends to use Cisco’s new platform to eventually scale to support over 100 million new IoT devices over the next 24 months.
+
+ Shimmin continued, ‘‘That sort of scale will be crucial for market opportunities like smart cities and agriculture, where transformational business insights depend upon a real-time, holistic view of all instrumented devices. Solutions like Jasper Control Centre for NB-IoT serve as a reminder that the best solution to the performance / cost equation lies in controlling both network bandwidth usage as well as device power requirements. IoT practitioners need to consider not only the medium (the network) but also the protocol, which is the language spoken between devices and back end services.’’
+
+ Currently, IoT developers can pick and choose from among a plethora of protocols, some built to purpose like MQTT, others repurposed from more generic communication requirements as with HTTP. However, not all IoT protocols are created equal. Regardless of network efficiency, some IoT protocols will simply cost more to operate than others, especially at scale. This disparity is most visible in the way public cloud platform providers like Amazon, Google, Microsoft and SAP approach IoT protocols from a financial standpoint.
+
+ For most cloud IoT providers a protocol like MQTT affords a more refined approach to communications, which in turn allows a more refined approach to billing. On Google Cloud Platform, for instance, customers are billed for the entire HTTP payload within both device requests and responses. Customers using MQTT, however, are only billed for messages specific to actionable requests, and not for messages used to simply maintain state or make or break a connection.
+
+ About GlobalData
+
+ 4,000 of the world’s largest companies, including over 70% of FTSE 100 and 60% of Fortune 100 companies, make more timely and better business decisions thanks to GlobalData’s unique data, expert analysis and innovative solutions, all in one platform. GlobalData’s mission is to help our clients decode the future to be more successful and innovative across a range of industries, including the healthcare, consumer, retail, financial, technology and professional services sectors.
+
+

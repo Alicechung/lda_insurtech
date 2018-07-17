@@ -1,0 +1,16 @@
+Hortonworks Extends Collaboration With Microsoft To Drive Big Data Workloads To Azure
+
+19 Jun 2018
+
+Customers Benefit from Deployment Choice of Azure IaaS or Azure HDInsight
+Hortonworks, Inc., a leading provider of global data management solutions, today announced it has renewed and extended its long-standing relationship with Microsoft to give enterprise customers greater agility and flexibility when moving big data workloads to the cloud. The collaboration now gives customers more choice as to where their analytic and Internet of Things data workloads run.
+Customers can deploy Hortonworks Data Platform (HDP), Hortonworks DataFlow (HDF) and Hortonworks DataPlane Service (DPS) products natively on Microsoft Azure infrastructure as a service (IaaS) to extract value from data of all types. Additionally, customers can also use Microsoft Azure HDInsight, a fully managed service powered by Hortonworks Data Platform, which delivers Apache Hadoop and Apache Spark.
+According to IDC1, “IT buyers are shifting steadily toward cloud-first strategies.” That means customers need a simple, fast and flexible path to run data workloads in the cloud to accelerate the ability to uncover new business insights. Hortonworks’ global data management platforms enable organizations to rapidly deploy modern data applications across hybrid data architectures on-premises, in the cloud and out to the edge. When combined with the global scale and agility of Azure, Hortonworks enables organizations to manage the entire lifecycle of their data within a cloud infrastructure.
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+Hortonworks and Microsoft have been pioneering cloud solutions together for over six years through a strategic collaboration spanning joint engineering and go-to-market motions, giving customers the most flexible big data environments. Hortonworks and Microsoft continue to invest and collaborate in the open source community, which ultimately reduces vendor lock-in for customers. Whether the customer wants to adopt a hybrid data architecture or go all-in on cloud, they have choices with Hortonworks and Microsoft teaming together on Azure IaaS and HDInsight deployments.
+Rohan Kumar
+“Our customers are increasingly adopting a hybrid data architecture, as cloud deployments offer excellent use cases for ephemeral analytic workloads,” said Rob Bearden, chief executive officer, Hortonworks. “With the option to deploy HDP, HDF or DPS workloads on Azure IaaS, or use HDInsight, customers can take whichever path to the cloud that fits their business needs best. We are proud of our work with Microsoft and the cloud solutions we’ve developed together that are driving tremendous value for our joint customers.”
+Read More: Will Artificial Intelligence Bring An End To Stupid Meetings?
+“We are giving customers the most choice as to how they move data workloads to the cloud, on Azure or Microsoft HDInsight for an enterprise-grade managed service that makes it easier for end users,” said Rohan Kumar, corporate vice president, Azure Data. “We look forward to continuing our collaboration with Hortonworks to accelerate innovation in the cloud.”
+
+

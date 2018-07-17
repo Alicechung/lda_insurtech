@@ -1,0 +1,33 @@
+Data Integrity Groups Rally for a National Patient Identifier
+
+March 23, 2016
+
+By Jennifer Bresnick
+March 23, 2016 - Nearly twenty years after Congress decided that the United States wasn’t ready for a national patient identifier, the healthcare industry is ramping up its efforts to challenge the government’s decision.
+Working with a drastically different technical landscape and the staggeringly complex of ensuring health data interoperability across a tangled care continuum, many providers and advocacy groups are convinced that the time is now for a streamlined, standardized way to ensure that the right data is following the right patient.
+“Having accurate and complete patient information is essential to delivering quality care and driving important healthcare initiatives such as health information exchange,” said AHIMA CEO Lynne Thomas Gordon, MBA, RHIA, CAE, FACHE, FAHIMA to HealthITAnalytics.com.
+Industry stakeholders, including AHIMA, have repeatedly stated that a national patient identifier (NPI) could be the key to smoothing over many of the interoperability concerns that plague providers’ efforts to ensure high levels of data integrity and patient safety.
+While the landmark HIPAA rule included a provision to create a national identifier back in 1996, Congress stepped in three years later to put a ban on any federal funding to create a patient identification system.  Concerns over privacy and the potential for unauthorized access of a patient’s entire medical history led to the prohibition, but the industry has been fighting back against these fears for several years.
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+In 2013, the success of the EHR Incentive Programs prompted a renewed interest in the possibility of an NPI.  Meaningful use set the stage for large-scale health information exchange, and the rapid rise of value-based reimbursement frameworks has given providers a financial stake in cultivating care coordination across these systems.
+“EHRs have become more prevalent and have reached a stage where the lack of a patient identification strategy has become a daunting challenge that threatens patient privacy and safety,” said Thomas Gordon in a public statement. “AHIMA is confident the technology exists to solve this problem while ensuring that patient privacy is protected.”
+The technology may exist, but it is not finding its way into the mainstream healthcare system just yet.  Earlier this year, AHIMA released an industry survey which stated that half of health information management professionals face regular patient identification challenges. 
+Three quarters of respondents said they deal with duplicate records or patient matching irregularities on a weekly basis, yet less than half of organizations have a quality assurance program in place to address identification issues.
+Poor data standardization and haphazard implementation of data governance principles are partly to blame for this state of affairs.  Insufficient information governance could lead to fragmented health records or the misidentification of patients with similar demographic data.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+“Even more concerning is the potential for different patients being identified as the same, resulting in the possibility of improper care rendered on the basis of inaccurate patient information,” AHIMA added.
+This week, AHIMA added fuel to the NPI fire by launching a petition to remove the federal budget ban and allow HHS to investigate the best methods for creating a national patient identification system.
+“Opening the discussion on the need for a national voluntary patient safety identifier provides an opportunity to address patient safety concerns while keeping patients at the center of decisions about access to their information,” Thomas Gordon said.
+AHIMA isn’t the only organization participating in the discussion.  The College of Healthcare Information Management Executives (CHIME) is another stalwart champion of the NPI.  Not only is the organization calling loudly for progress on this critical component of health information exchange, but CHIME is putting its money where its mouth is.
+With one million dollars in prize money up for grabs for a 100 percent accurate patient matching technique, CHIME is hoping to jumpstart a private industry initiative to come up with a secure, standardized, usable solution to the problem the government is reluctant to address.
+READ MORE: ONC Offers $75K for Better EHR Patient Matching Algorithms
+“What percentage of the time do you want to be correctly identified when you walk into the hospital?” asked CHIME President and CEO Russell P. Branzell, FCHIME, CHCIO.  “How about your loved ones and family members?  Is 99 percent good enough?”
+“You don’t want to have a one percent chance of not walking out of the hospital because someone looked at the wrong record.  That’s just not acceptable to us and our organization, so we’re going to fix it.”
+CHIME and AHIMA are not alone in their insistence that a national patient identifier could be a leap forward in patient safety and data integrity.  Interoperability and governance partners like WEDI, NATE, MGMA, HIMSS, and the Sequoia Project are all working on ideas that will help to reduce the likelihood of patient matching errors that could lead to adverse events or suboptimal care.
+AHIMA’s ideas center on a voluntary, opt-in system where patients could choose their own identifier, much like they create their own usernames and passwords for websites.  Patients could decide to use the identifier when accessing their records or sending information to members of their care team.
+But federal funding and support may be required to implement any possible solution across the entire industry.  As Congress focuses more on the problems of interoperability and the flow of data across disparate systems, they may be willing to take another look at the need for a national identification system. 
+In the meantime, industry stakeholders must continue to make the argument that an NPI is necessary, AHIMA says.
+“We encourage patients, healthcare professionals, and the public to sign our online petition to ask our leaders to take a look at the critical issue of patient matching,” Thomas Gordon said. “We want to make healthcare safer, more efficient, and more effective for all patients. AHIMA believes a voluntary identifier—created and controlled by patients—will do just that.”
+Tagged Healthcare Data GovernanceHealthcare Data StandardsInteroperabilityPatient Safety
+
+

@@ -1,0 +1,22 @@
+EHR Alerts Increase HPV Vaccine Rates Ten Times Over
+
+May 11, 2015
+
+By Jennifer Bresnick
+May 11, 2015 - EHR alerts that help providers remember to start or complete the HPV vaccine for pediatric patients have significantly increased the rate of protection against cervical cancer.  Patients between the ages of 9 and 18 were three times more likely to start the vaccine series and ten times more likely to finish the entire course when EHR alerts were available to their primary care providers, found a study published this month in the Journal of the American Board of Family Medicine.  
+Patients aged 19 to 26 were six times more likely to start and eight times more likely to complete the series, adding to the 33 percent protection rate amongst adolescent girls for the relatively new vaccine against strains of the human papilloma virus (HPV). 
+Only 28 percent of patients complete the three-injection series within recommended timeframes, the study says.  Nearly 85 percent of patients have missed one or more opportunities to receive the vaccine when visiting their primary care providers for other routine or acute services.
+“This age demographic often includes a group of patients that typically don’t go to the doctor as often as other groups unless they are ill,” said the study’s lead author Mack Ruffin IV, MD, MPH, professor of family medicine at the University of Michigan Medical School, researcher at the Comprehensive Cancer Center, and member of the Institute for Healthcare Policy and Innovation.
+Dig Deeper
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+SC Online Population Health Dashboard Reveals Community Disparities
+Meeting the Challenge of Healthcare Consumerism with Big Data Analytics
+“We found that simply alerting patients and providers during an office appointment increased uptake and completion of the HPV vaccine series,” he added. “Our findings suggest that these prompts through the electronic health system may be a valuable tool in encouraging more people to protect themselves from cancer.”
+The study divided more than 15,000 patients into two groups: one group was seen by providers equipped with EHRs but without specific HPV vaccine alerts, and the other with EHRs and alerts that prompted clinicians to administer or follow up on the vaccine. 
+“The provider alert was a simple list of services needed,” the researchers explain. “For the HPV vaccine, the alert was ‘HPV’ followed by the needed vaccine in the series. As part of this active prompting system, providers were required to respond to the HPV vaccine prompts with 1 of the following options: done, ordered, patient declined, patient not eligible, discussed, or not addressed. If results indicate not addressed or if additional vaccinations are due, the prompt returns at the following visit.”
+The EHR alerts not only increased the incidence of vaccination, but also the timeliness of the doses.  The reminders were particularly effective for increasing HPV vaccination rates among African-American patients, who have been less likely to start or complete the series, the study adds.
+When they are non-intrusive to the provider workflow, EHR alerts have been shown to have a significant positive impact on the delivery of preventative care and population health management services, additional studies and pilots have shown.  From drug safety to aortic aneurysms, subtle reminders to clinicians to complete tasks that may not be top of mind during short patient visits can increase screenings and other routine care.  For a service such as the HPV vaccine, which has only been available for a few years, an EHR alert can be a simple and effective way to ensure that patients are properly protected against many cancer-causing strains of the virus.
+“We’re a long way away from achieving the HPV vaccination rates we’d like to see,” Ruffin said, “but our findings potentially identify another valuable step in helping us get closer to our goal.” 
+Tagged EHR UsePopulation Health ManagementQuality Of Care
+
+

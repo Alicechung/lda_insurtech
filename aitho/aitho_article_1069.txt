@@ -1,0 +1,17 @@
+UiPath Human-to-Robot Chat Assistance With Humley
+
+25 Mar 2018
+
+Humley Virtual Assistant to Provide Chat and Speech-Driven Control to RPA
+Humley, the Cognitive Assistant platform, and UiPath today announced a partnership to provide an artificial intelligence (AI) assistant chat solution to help UiPath customers manage robotic processes using natural language.
+Following the demonstration of these capabilities Humley plans to extend and deepen the integration between the two platforms in the coming months, making the Humley Assistant available to UiPath customers, continually improving the breadth of control available from the assistant.
+UiPath is creating a strong ecosystem of partners to help deliver increasingly efficient enterprise RPA deployment by ensuring that a rich marketplace of leading partner technologies can offer a powerful, pre-integrated, value-added function to the already highly successful UiPath solutions in place.
+Boris Krumrey
+“Conversational Natural Language engagement is a huge growth area for both personal and business use across the globe,” said Boris Krumrey, Chief Robotics Officer of UiPath. “Speech and text driven access to initiate and operate robotic process automations is a new channel of user interaction to RPA using conversation. Humley has demonstrated how a virtual assistant can be deployed to support RPA management and build Voice or Chat User Interfaces which will help customers innovate in regards to the ‘how and where’ they access robotic process automations. What we like about Humley is that it works with other leading technologies such as IBM Watson and Microsoft Cognitive Services.”
+This conversational engagement approach allows speech and text control using a virtual assistant interface ensuring the Human can bring in RPA processes as and when needed alongside other assistant integrated processes.
+Adam Harrold
+“Bringing Natural Language Engagement technology to RPA through our virtual assistant is an exciting proposition for our customers and channel partners,” said Adam Harrold, Managing Director of Humley. “UiPath is creating a powerful, best of breed partner ecosystem of integrated partners and Humley is delighted to be part of that ecosystem and looks forward to helping maximise efficiencies through the combination of AI and RPA.”
+Founded in 2014, Humley provides an AI powered Cognitive Assistant platform to improve customer experiences in a ‘chatbot’ or ‘Virtual Assistant’ setting, within the enterprise marketplace. Humley can diagnose and resolve customer pain points using unscripted natural language as well as manage processes all of which gives enterprise customers the ability to communicate in their own words, through their preferred channel.
+Built for both business and IT, UiPath is the leading platform for Enterprise Robotic Process Automation (RPA). The company is at the forefront of the digital business revolution, achieving nearly 800 percent revenue growth in 2017. UiPath combines an easy-to-use automation design capability with breakthrough computer vision technology, security and scalability to enable the rapid development and deployment of software robots (digital workers) that dramatically improve business productivity, compliance and customer service, across both back-office and front-office operations.
+
+

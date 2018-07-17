@@ -1,0 +1,21 @@
+UIHC Wins HIMSS Davies Award for EHR Use, Analytics
+
+November 26, 2014
+
+By Jennifer Bresnick
+A focus on patient safety through advanced EHR use has helped the UIHC snag the 2014 HIMSS Davies Award.
+November 26, 2014 - University of Iowa Hospital and Clinics is the recipient of the 2014 HIMSS Enterprise Davies Award, which recognizes healthcare providers for outstanding use of health IT.  The prize focuses on organizations that have achieved excellence in EHR adoption and optimization, clinical analytics, and patient safety, and is awarded to organizations that have reached the top two stages of the HIMSS EMR Adoption Model (EMRAM) by creating an integrated, data-driven patient environment.
+“University of Iowa Hospital and Clinics (UIHC) have done a tremendous job of leveraging information technology to integrate efforts to improve quality and the financial bottom line at the same time,” said Jonathan French, HIMSS director of quality and patient safety. “UIHC’s use of information technology to improve care delivery and documentation has resulted in significantly improved clinical outcomes leading to cost avoidance, efficiencies, reduction in claims rejections, and increased revenue. Thus, UIHC has achieved a positive return on investment without even factoring in meaningful use dollars.
+“The Davies Committee and HIMSS congratulate the University of Iowa Hospital and Clinics staff for its focus on improving the health outcomes of their patient population through the effective use of health IT,” French added.
+UIHC includes the state’s only large academic medical center as well as a children’s hospital and the biggest multi-specialty group practice in Iowa.  The system employed nearly 1,600 physicians in 2013 and close to 1,900 nurses.  The healthcare system was recognized for its Stage 7 achievement in March of 2014.
+Dig Deeper
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+Unique Device Identifiers in Claims Could Aid Healthcare Analytics
+How Soon Will Healthcare Connect Machine Learning with Consumers?
+Among the achievements that helped UIHC win the award are the use of standardized guidelines, EHR alerts, and clinical analytics to produce significant reductions in adverse events.  The organization reduced adverse drug event (ADE) counts from nine per year in 2010 to two per year in 2013 and cut preoperative antibiotic order errors by 71 percent.  They also raised adherence to pediatric immunization guidelines by 50 percent, and increased adherence to anticoagulation procedures for venous thromboembolism by a third.
+UIHC made a concerted effort to improve patient safety by leveraging the EHR as a sophisticated monitoring and analytics tool.  They used computerized provider order entry (CPOE) to provide warnings for dosage errors and contraindication, and installed automated dispensing cabinets in more locations to monitor medication usage and overrides.  UIHC was also able to integrate more than 17 different types of bedside medical devices into the EHR workflow, which saves time for nurses and helps to monitor changes in patient status in a more immediate way.
+“We are absolutely delighted with this recognition,” stated Kenneth P. Kates, UIHC Chief Executive Officer. “The entire information technology department, in partnership with our outstanding clinical staff, has achieved astounding progress in delivering on multiple goals.  Nothing trumps the quality and safety of patient care, and we believe that the investment we made in our information technology systems and processes is clearly helping us achieve that goal.”
+UIHC will be officially recognized for its achievements at the 2015 HIMSS Conference in Chicago. Applications for the 2015 award cycle may be submitted from January 1 to May 31, 2015.
+Tagged Analytics InfrastructureEHR UsePatient Safety
+
+

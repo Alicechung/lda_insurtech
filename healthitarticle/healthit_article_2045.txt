@@ -1,0 +1,19 @@
+Hospitals providing inappropriate treatment for infections
+
+March 20, 2014
+
+By Jennifer Bresnick
+March 20, 2014 - Antibiotic-resistant superbugs have changed the way clinicians need to tackle bloodstream infections, but many community hospitals may not be keeping up with newer tactics. A study from researchers at Duke Medicine indicates that more than a third of patients do not receive the appropriate treatment for their conditions, potentially leading to serious complications or death.
+Bloodstream infections affect approximately a quarter of a million patients per year in the United States, and can cost tens of thousands of dollars to treat.  Many of the infections are directly related to treatments such as surgery, catheters, and other invasive devices, or from living in long-term care facilities and prior hospitalizations.
+After surveying 1470 patients treated in community hospitals from 2003 to 2006, the research team found that more than half of bloodstream infections are healthcare-related but started to produce symptoms before hospital admission.  A further 29% of cases were acquired within the community, while 15% were the direct result of a current healthcare setting.
+“Our study provides a much-needed update on what we’re seeing in community hospitals, and ultimately, we’re finding similar types of infections in these hospitals as in tertiary care centers,” says Deverick Anderson, MD, MPH, associate professor of medicine at Duke and the study’s lead author. “It’s a challenge to identify bloodstream infections and treat them quickly and appropriately, but this study shows that there is room for improvement in both kinds of hospital settings.”
+Dig Deeper
+KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+Decision Support, Big Data Analytics Reduce Hospital Blood Use
+CA Children’s Hospitals Win Davies Award for Analytics, Safety
+S. aureus and E. coli were the bugs most commonly responsible for bloodstream infections, with MRSA clocking in as the most common multi-drug resistant germ. “There’s a misconception that community hospitals don’t have to deal with S. aureus and MRSA, but our findings dispel that myth, since community hospitals also see these serious infections,” Anderson said.
+That misconception is putting patients in danger when they enter community hospitals that may not be aware of the latest treatment guidelines.  Thirty-eight percent of patients with infections received inappropriate empiric antimicrobial therapy, the study shows, or were prescribed the wrong antibiotic the first time around.  Patients with recent previous admissions or those who spent time in a nursing home were among the most likely to receive the wrong treatment for their conditions.
+But EHRs typically contain important clues to better treatment options, Anderson says.  “Developing an intervention where electronic records automatically alert clinicians to these risk factors when they’re choosing antibiotics could help reduce the problem,” he suggests.  “This is just a place to start, but it’s an example of an area where we could improve how we treat patients with bloodstream infections.”
+Tagged Healthcare Business IntelligenceHealthcare QualityHospital QualityPatient CarePatient Safety
+
+

@@ -1,0 +1,17 @@
+Is healthcare set for a big data revolution with IBM Watson?
+
+September 17, 2014
+
+By Jennifer Bresnick
+September 17, 2014 - Many healthcare organizations are still working on understanding how clinical and financial data can be transformed into actionable insights, but IBM’s Watson supercomputer may be speeding up the process significantly.  After launching a series of data analytics offerings throughout the past few years, Watson is opening up its computing muscle to the masses by allowing organizations to upload their data for free to the IBM cloud.  The Watson Analytics service hopes to allow smaller organizations, including those who haven’t been able to capture a data scientist, access to the same powerful tools that their bigger competitors have been spending millions to develop in-house.
+“Watson Analytics is designed to help all business people – from sales reps on the road to company CEOs – see patterns, pursue ideas and improve all types of decisions,” said Bob Picciano, Senior Vice President, Information and Analytics Group, IBM. “We have eliminated the barrier between the answers they seek, the analytics they want and the data in the form they need. The combination of Watson-fueled analytics to magnify human cognition, the vast potential of big data, and cloud-scale delivery to PCs, smart phones and other devices is transformational.”
+The “freemium” service, which combines Watson’s enormous computing capacity with advanced natural language processing and a cloud-based platform, will provide predictive analytics that could help healthcare organizations identify opportunities to reduce costs, capture more consumers, improve efficiencies, and close gaps in patient care.  IBM claims that the service will automate the process of locating and priming data for use in an analytics engine, a task that takes up half the time of an analytics project.
+IBM has been steering Watson to tap into the lucrative big data analytics market since the supercomputer’s winning debut on Jeopardy!, and has made healthcare a top priority since the beginning, from figuring out how to better train medical students to boosting the speed and quality of clinical trials for cancer therapies.  IBM even hopes to take on the onus of modernizing the Department of Defense’s EHR capabilities, and snagging an $11 billion contract in the process.
+Dig Deeper
+Lack of Talent, Direction Afflict Healthcare Data Analytics Plans
+Top Healthcare Business Intelligence Companies by Hospital Users
+The Difference Between Clinical Decision Support, Big Data Analytics
+For healthcare providers, especially those without dollars to burn on implementing a data warehouse and robust analytics pipeline, the latest cloud-based offering could be an important entry point into the world of big data.  “Watson Analytics is a tool to let every business user harness all the power we can deliver,” said Alistair Rennie, General Manager of Business Analytics to Forbes. “It’s a fundamental departure in the power that each user can have at their fingerprints. It’s like how people got comfortable with spreadsheets over time.”
+Tagged Analytics InfrastructureBig DataHealthcare Business IntelligenceHealthcare Data Analytics
+
+

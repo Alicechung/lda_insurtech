@@ -1,0 +1,37 @@
+70% of Orgs Planning Precision Medicine Will Deploy Within 2 Years
+
+June 09, 2017
+
+By Jennifer Bresnick
+June 09, 2017 - Precision medicine is quickly approaching its mainstream tipping point as organizations pursue the benefits of delivering personalized care to patients. 
+Nearly 70 percent of healthcare organizations that are planning precision medicine projects will begin to implement new strategies within the next two years, says HIMSS Analytics in its latest data brief.
+Twenty six percent of organizations responding to a survey are currently undertaking precision medicine projects – slightly down from the 28.5 percent who reported the same in 2016. 
+“There continues to be limited adoption across the U.S. hospital market as organizations may not have the necessary funds, technology, or clinical expertise on hand to initiate programs and provide precision medicine at the point of care,” the brief states.
+“However momentum continues to increase around the level of interest in developing this emerging clinical approach and while organizations currently conducting precision medicine expand their current approach across more clinical areas.”
+READ MORE: Precision Medicine, Population Health Share Strategies and Goals
+Oncology remains the largest area of focus for providers investing in personalized medicine.  More than 62 percent of respondents said that precision cancer diagnostics and treatment were already in use at their organizations. 
+Cardiology was similarly popular, with 50 percent of respondents reporting a genomics-based approach to heart health.  Nephrology, endocrinology, and prenatal care also captured the attention of participants.  
+Source: HIMSS Analytics
+Interestingly, investment in precision medicine for neurology has dipped significantly since the previous poll.  In 2016, 38.5 percent of organizations were using genomics and individualized data to research and treat neurological issues such as Alzheimer’s disease and Parkinson’s disease.  That number dropped to 16.7 percent in 2017.
+Academic medical centers and integrated delivery networks (IDNs) remain at the forefront of the precision medicine landscape, with 100 percent of academic medical centers and one-third of IDNs saying they are currently conducting some sort of precision clinical care. 
+Stand-alone hospitals and multi-hospital health systems are less likely to be doing the same, with 20.5 percent of independent hospitals and just 10.5 percent of health systems engaged in a precision approach to patient care.
+READ MORE: FHIR Can Move Genomics from Prediction to Precision Medicine
+Bed size also plays into this dynamic, with close to half of all organizations with more than 500 beds stating that they have a personalized medicine program underway.  Just twenty percent of hospitals under 50 beds reported the same, although pervasive uncertainty about existing programs may be skewing the data.
+Seventy percent of respondents from mid-sized hospitals said they were not sure about their organization’s precision medicine activities, while 60 percent of multi-hospital health systems were similarly unsure about their precision medicine status.
+In contrast, respondents were significantly more certain about the technologies used to support their initiatives. Just 16 percent said they were not sure about their health IT infrastructure arrangements.
+Source: HIMSS Analytics
+Close to a quarter of organizations are relying wholly on in-house solutions, while 16 percent have adopted dedicated precision medicine platforms to meet their needs. 
+Thirty-six percent have adopted a hybrid approach, mixing and matching in-house systems with tailored precision medicine tools to give them access to the data and analytics they need to make personalized decisions.
+READ MORE: Precision Medicine Partnerships Foster Promises of Breakthroughs
+This represents a significant jump from 2016, when just 18 percent of providers took the hybrid approach. 
+While “hybrid” and “health IT” are not terms that typically live in harmony together, the study does not provide information on whether or not the decision to utilize multiple systems was intentional or not – nor whether or not the conglomeration of tools is a negative for the organization. 
+Adding a home-grown clinical decision support or genomics module to existing electronic health record tools could enhance existing capabilities significantly, allowing providers to reap the rewards of sophisticated analytics without major investments in entirely new infrastructure.
+Many academic medical centers and IDNs are undertaking research projects and collaborations or have launched start-up divisions that focus specifically on precision medicine IT development, which puts a new spin on the idea of home-grown health IT.
+In-house solutions are starting to leverage the rapid interest and investment in machine learning and cognitive computing tools, which promise to revolutionize clinical decision-making. 
+Academic medical centers and vendor partners have eagerly jumped into the machine learning research environment, architecting algorithms that can predict leukemia remission rates, analyze imaging studies to distinguish between similar diagnoses, and speed the process of sequencing tumors to aid in diagnostics and targeted treatment for cancer patients.
+Alongside the steadily progressing national Precision Medicine Initiative (PMI), these efforts are contributing to the swift development and deployment of personalized care techniques for patients across a number of treatment areas.
+“The next two years in the adoption and development of precision medicine programs – as well as IT solutions and infrastructure to address precision medicine – will be significant,” HIMSS Analytics says.  
+Organizations that have not yet committed to precision medicine programs, or are not sure that their current technology competencies will allow them to succeed with personalized care, will need to quickly develop the skills and health IT tools that will position them at the forefront of this impactful new approach to patient care.
+Tagged Analytics InfrastructureClinical AnalyticsGenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

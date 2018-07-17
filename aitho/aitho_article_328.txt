@@ -1,0 +1,20 @@
+Cloud Security Alliance Issues Recommendations On Firmware Integrity In The Cloud Data Center
+
+13 Jun 2018
+
+Group calls for more standardization from hardware manufacturers to improve security
+The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining standards, certifications and best practices to help ensure a secure cloud computing environment, today released a new position paper from the Cloud Security Industry Summit (CSIS) Technical Working Group—Firmware Integrity in the Cloud Data Center. In it, key datacenter development stakeholders share their recommendations on building cloud infrastructure using secure servers that enable customers to trust the cloud provider’s infrastructure at the hardware/firmware level.
+Read More: Microdrones Participates In NVIDIA Jetson Developer Meetup At Embedded World 2018
+Specifically, the position paper identifies gaps in the industry which make it difficult to meet NIST requirements with ‘standard’ commodity servers and offers ways in which to build servers designed to meet the NIST requirements (including calling out missing technology when applicable), along with additional requirements that could further strengthen the level of security of servers.
+John Yeoh
+“With the increasing level of sophistication of attackers and nation state threat mitigations, it’s critical to build a new, more secure generation of servers. The hardware/firmware industry must do a better job of building firmware with high code-quality and minimal potential for vulnerabilities at the firmware level. It’s our hope that this paper initiates discussion on the matter and subsequent action,” said John Yeoh, Research Director/Americas, Cloud Security Alliance.
+Read More: Microdrones Participates In NVIDIA Jetson Developer Meetup At Embedded World 2018
+“It’s vital that supply chain security can be verified every step along the way from component to system to solution,” continued Yeoh. “The CISC’s opinion is that these requirements can be met without cloud vendors having to design and build specialized hardware but rather through standardized commodity hardware.”
+Among the gaps that CSIS singles out for immediate attention by hardware manufacturers are:
+First-instruction integrity – The ability to ensure integrity of the first instruction (the first code or data loaded from mutable non-volatile media) in a way that is verifiable by the cloud provider and not just by the manufacturer.
+Chain-of-Trust for peripherals – The ability to leverage the host root of trust and other roots of trust to create a chain of trust to peripherals (e.g. for PCIe devices or other symbiont devices).
+Automatable Recovery – The ability to perform automated recovery back to a known boot-time state upon detection of corrupted firmware (after initial boot).
+Read More: Do You Have A Response Plan In Case Of A Data Breach Under GDPR?
+The Cloud Security Industry Summit Technical Working Group is a group of Cloud Service Providers (CSPs) and stakeholders in cloud, with a mission to evolve faith in cloud computing for the broad benefit of enterprise and cloud service providers, partnering an industry team evolving a coordinated approach for cloud security. The group includes members from top cloud service providers including 1&1, IBM, Cloud Security Alliance, Microsoft, Oracle, Rackspace, Swisscom and others. Intel Corporation serves as facilitator for the group.
+
+

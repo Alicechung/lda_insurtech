@@ -1,0 +1,15 @@
+RapidMiner And Informatica Bring AI-Powered Data Analytics To The Enterprise
+
+23 May 2018
+
+Integration Between Informatica and RapidMiner turns predictive models into prescriptive actions
+RapidMiner, the data science platform for analytics teams, announced today at Informatica World that it has formed a partnership with Informatica, the Enterprise Cloud Data Management leader. Enterprises are drowning in data, turning to artificial intelligence as a paradigm shift to help identify hidden insights and complex relationships. Through this new partnership, Informatica users can now embed predictive models created in RapidMiner inside Informatica data pipelines, empowering business teams to take specific actions based on prescriptive recommendations.
+Read More: How Citizen Health Is Redesigning Healthcare With An Open & Transparent Marketplace
+RapidMiner makes analytics teams more productive through an open and extensible data science platform. RapidMiner unifies the entire data science lifecycle, from data prep to machine learning to predictive model deployment. Organizations can build predictive models and put them into production faster than ever, using RapidMiner’s lightning fast visual workflow designer and automated modeling capabilities combined with the Informatica Data Cloud.
+Jeff Bashaw
+Ronen Schwartz
+“We’re thrilled to form a partnership with Informatica,” said Jeff Bashaw, Vice President of Channel and Corporate Development at RapidMiner. “We have a shared vision for the generational opportunity of artificial intelligence, and through this partnership we’ll be delivering new capabilities to our customers. For example, a financial services organization is using RapidMiner and Informatica to predict consumer needs, providing their lending team with prescriptive recommendations to minimize customer churn and identify cross sell opportunities.”
+Read More: James Rodriguez To Launch Cryptocurrency With SelfSell
+“It is exciting to see machine learning and artificial intelligence driving digital transformation,” said Ronen Schwartz, senior vice president and general manager, Cloud, Big Data, Data Integration, at Informatica. “The Informatica integration with RapidMiner provides broad and trusted data for our customer’s AI initiatives, decreasing the cost of developing and deploying machine learning models.
+
+

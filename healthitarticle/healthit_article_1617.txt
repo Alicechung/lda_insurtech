@@ -1,0 +1,20 @@
+HIEs Can Facilitate Stage 2 MU, Population Health Management
+
+January 29, 2015
+
+By Jennifer Bresnick
+January 29, 2015 - Health information exchange (HIE) organizations are playing an increasingly important role in helping providers meet data exchange requirements of Stage 2 meaningful use, along with the broader principles of population health management.  In a 2014 survey of public and private entities, the HIMSS HIE Committee found that HIE organizations are providing more data exchange and analytics services that support the growth of care coordination, clinical decision support, and population health management features to help providers meet or exceed the objectives of the EHR Incentive Programs.
+The latest round of data from the HIE community is a follow up to a 2013 poll, in which the same organizations were asked similar questions about the capabilities they offer to their provider communities.  Overall, HIEs have made significant progress in building up population health and data analytics services, promoting data security, and encouraging the use of features like secure messaging and patient reminders.
+In 2013, for example, HIEs were split nearly evenly between offering computerized provider order entry (CPOE) services and being unable to do so.  In 2014, three-quarters of HIEs can now provide the capability.  Eighty-nice percent of respondents can record demographics, up 15 percent from the previous year, while 20 percent more HIEs can enable providers to send and receive patient reminders through the network.
+Sixty-three percent of HIEs use LOINC or another data standard to provide normalized lab data, up from 57 percent twelve months prior, while 53 percent can send lab information to their state’s department of health on their members’ behalf.  Secure messaging through the Direct protocol has also seen a leap in popularity, rising from 59 percent in 2013 to 79 percent the following year.  Reporting to immunization registries stayed approximately the same over the course of the survey period at 59 percent, but cancer registry reporting jumped from 13 to 21 percent.  One hundred percent of HIEs have conducted a thorough security risk analysis.
+Dig Deeper
+Health Data Exchange Could Save Medicare $3.12 Billion a Year
+For Opioids and Substance Abuse, Big Data Analytics Is Just the Beginning
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+HIEs are also focused on facilitating patient engagement and care coordination capabilities for their customers.  Summary of care transmissions increased from 70 percent to 84 percent over just one year, while 47 percent of organizations allow patients to view and download their personal health information, an increase of 15 percent since 2013.  Access to advanced directives and end-of-life planning for seniors remains scarce, however, with just 32 percent of health information exchange organizations offering a record of a patient’s final wishes.
+
+Clinical decision support is the only service that has seen a measurable decrease, albeit a small one.  While 9 percent of organizations could provide CDS in 2013, just 5 percent indicated that they could help with decision making in 2014.  This may be because providers are working to integrate CDS software into their in-house EHR and data analytics infrastructures, making HIE-based decision support superfluous.
+Health information exchanges can be a vital support for providers seeking inexpensive yet effective ways to meet the data exchange requirements of Stage 2 while raising the bar for population health management.  As HIEs continue to widen the scope of their offerings, providers will have access to analytics and reporting about patients in their own care, as well as the care of the community at large, to improve coordination, reduce errors or repeated services, and provide higher quality services to patients across the care continuum.
+Tagged Analytics InfrastructureHealth Information ExchangePopulation Health Management
+
+

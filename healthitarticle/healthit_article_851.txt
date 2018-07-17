@@ -1,0 +1,43 @@
+Cognitive Computing Use Grows in Precision Medicine for Cancer
+
+July 11, 2016
+
+By Jennifer Bresnick
+July 11, 2016 - While the national Precision Medicine Initiative and its private industry counterparts are not focused solely on the search for a cure for cancer, the strategies, tools, and technologies that comprise this multi-faceted effort are well-suited for the task.
+Advanced big data analytics systems, including cognitive computing and semantic computing powerhouses, are making it possible to ingest and dissect truly massive volumes of clinical data, genomic data, community-level health determinates, medical literature, and clinical trial results to paint a uniquely detailed target on tumors and other malignancies.
+Vice President Joe Biden’s Cancer Moonshot has further enhanced industry excitement and commitment around using precision medicine techniques to make cancer a thing of the past.
+“This isn’t about a single person,” the Vice President said in June at a kickoff summit that attracted hundreds of researchers and cancer advocates.  “It’s about us.  It’s about not giving up hope and having the urgency now.  These are breakthroughs that are just beyond our grasp.  I urge all of you to think beyond your comfort zone.”
+The healthcare community has quickly taken the sentiment to heart, and the initiative has successfully rallied dozens of public and private participants to share big data, collaborate on research, and even lend out their processing power to their peers.
+READ MORE: FHIR Can Move Genomics from Prediction to Precision Medicine
+Quickly coming to the forefront of the precision medicine ecosystem is cognitive computing, which uses sophisticated natural language processing and complex algorithms to essentially mimic the way the human brain crunches data to generate conclusions from seemingly unrelated points of information.
+Not only does this approach require immense computing clout, but it also relies on having access to a variety of large-scale data sets.  Leading cognitive computing experts already have both of these well in hand, says Vanessa Michelini, Distinguished Engineer and Master Inventor leading the genomics division of IBM Watson Health.
+“Cancer is a natural choice to focus on, because of the number of patients and the available proof points in the space,” she told HealthITAnalytics.com.  “There’s this explosion of data – not just genomic data, but all sorts of data – in the healthcare space, and the industry needs to find the best ways to extract what’s relevant and bring it together to help clinicians make the best decisions for their patients.”
+Read: How Precision Medicine Will Shift from Research to Clinical Care
+Watson has become a central figure in both the Precision Medicine Initiative and the Cancer Moonshot, and quickly seized on the wealth of cancer data available.  It is currently working with organizations like the New York Genome Center to centralize and leverage accessible datasets.
+READ MORE: Despite Possibilities of Precision Medicine, Challenges Remain
+“In the last year, we have partnered with sixteen cancer institutes in an early adoption mode to develop the system in a collaboration to help translate the genomic data, combined with all the medical literature and information available, to personalize treatment options,” Michelini said.
+“It’s a very exciting time.  It’s a great thing to see the Precision Medicine Initiative coming together.  We are uniquely positioned to make a significant impact in precision medicine, and partners like the New York Genomic Center are key for us to continue this journey together.”
+The company, which has rapidly commercialized its Watson cognitive computing services across a number of healthcare and other industry applications, believes that cognitive computing may be the only way to synthesize the impossibly large amounts of cancer research data being produced every day.
+“There are a lot of publications,” said Michelini.  “In 2014 alone, there were 140,000 academic articles published related to cancer.  It’s almost impossible to keep up with that.”
+Journal articles and other publications are, by their nature, full of unstructured data, she added, which means that traditional big data analytics tools cannot ingest and analyze the information.  It takes cognitive capabilities to speed-read thousands of articles and extract the specific data points relevant to a user’s query. 
+READ MORE: “All of Us” Precision Medicine Program Enters Beta Testing
+“New information is coming out every day,” she said.  “You need to be able to get that to the fingertips of whoever needs to make a decision.”
+The results are presented in terms of confidence intervals, she explained, which give clinicians some extra support for making decisions about a specific treatment path or therapy. 
+“There is a very clear need for this kind of technology, because research institutions – and even our competition on the vendor side – have been working with manual curation,” said Michelini.  “Everybody figured out that would be impossible to keep up with.  There is a huge need for faster, less labor-intensive technology.”
+Developing these technologies will be the key to scaling precision medicine and genomics to meet the needs of millions of cancer patients.
+"Genetic alterations are responsible for most cancers, but it remains challenging for most clinicians to deliver on the promise of precision medicine due to the sheer volume of data surrounding each decision that needs to be made," said Dr. David J. Shulkin, Under Secretary for Health at the Department of Veterans Affairs, which announced a new partnership with Watson this week.
+“We see an opportunity to scale access to precision medicine for America's veterans, a group most deserving of the best care in the world,” he added.
+As part of the project, IBM and the VA will work to develop a genomic testing pipeline that will culminate in a point-of-care report that identifies the most likely mutations that have caused a specific patient’s cancers, and a list of possible treatment options that would address that mutation.
+"The power of cognitive computing is its ability to ingest, understand and find patterns in massive volumes of disparate data – which is one of the fundamental barriers to precision medicine today," said John Kelly, Senior Vice President at IBM Research and Cognitive Solutions.
+The VA is also taking a leading role in the PMI and Cancer Moonshot.  In addition to investing more than $50 million in 250 research programs addressing cancers prevalent in the veteran population, the Department is attempting to gather genomic and clinical data for its Million Veteran Program, a biobanking initiative that is already almost half way to its participation goal.
+Read: Top 5 Basics to Know about the Precision Medicine Initiative
+As part of the Cancer Moonshot Summit, the VA announced a collaboration with the Department of Energy (DOE) that would apply the DOE’s big data analytics knowhow to the cohort, illuminating new insights into cancer, mental health issues, and cardiovascular disease. 
+The Department will also work with the DOD and National Cancer Institute to leverage new strategies in proteogenomics to advance lung cancer research.
+That project, as well as the work with Watson Health, will make research results available to other institutions and members of the research community, the VA said, in order to enhance the health system’s overall progress.
+Taking an open approach to these efforts will produce “tremendous potential benefits for patients, researchers and society,” Kelly added. “Watson Health is IBM's own moonshot, and we share the Vice President's vision and goals to advance the fight against cancer through data and collaboration."
+Cognitive computing is likely to continue to be an important technology for the PMI and the Cancer Moonshot as these major initiatives grow, evolve, and expand. 
+“We say that we’re transitioning from the programmatic era of computing to computers that can learn and reason,” said Michelini. “In the future, we envision that every healthcare decision will be supported and informed by a cognitive computing assistant.”
+The volume of medical literature will keep increasing exponentially as researchers make progress in the fields of genomics and precision treatments, and these heavy-duty analytics systems will no doubt be key to sifting through mountains of studies, journal articles, and trial reports to extract meaningful insights that may revolutionize the way cancer care decisions are made in the clinical setting.
+Tagged Clinical Decision SupportGenomicsInterviewsMedical ResearchPrecision MedicinePrecision Medicine Initiative
+
+

@@ -1,0 +1,20 @@
+Semarchy Updates XDM Solution, Gives Business Users Even More Control Of Their Data
+
+24 Oct 2017
+
+New Version Continues Company Mission to Deliver Real Business Value via Intelligent MDM™
+Semarchy, the Intelligent Master Data Management (MDM) company,  announced the further innovation of its ground-breaking xDM platform. xDM version 4.2 is designed to meet the MDM and Collaborative Data Governance™ demands of global brands, for enterprise-scale production environments.
+The company will unveil key features and highlights at the MDM & Data Governance Summit this week in New York, including:
+Reimagined Duplicate Management UX
+xDM 4.2 empowers data stewards by generating graphs detailing the relationships between automatically-detected record duplicates. This allows them to more easily understand fuzzy-matched suggestions, and to explore these relationships deeper. The updated user interface turns splitting or merging into a simple drag-and-drop exercise, making it even easier for non-technical staff members to use. Business users are able to focus on making decisions, while xDM handles details such as security and audit trails, ensuring only permitted data can be accessed or changed, and appropriately tracking all changes.
+Survivorship and Override
+Adding to the comprehensive data survivorship capabilities announced with xDM, control has become even more granular. Users can now define finer survivorship rules for individual fields or groups of fields. Survivorship rules select the most useful data as golden values, maximizing the impact of the MDM consolidation hub. Moreover, user-defined overrides now allow data champions to easily fix anomalies. These features expand multi-domain capabilities, by enabling the MDM system to evolve from pure consolidation to a hybrid model naturally.
+Guided Data Authoring
+A natural authoring experience guides users through the steps (called “Steppers”) needed for data creation and editing. Authoring automatically adapts to the user’s persona, role and privileges. Workflows support approval processes, and provides impact analysis. This helps users avoid data wrangling, and enables them to focus on analysis and operational data requirements.
+Matching Entities Authoring
+xDM v4.2 supports guided authoring for all types of entities: Basic, ID, and fuzzy-matched. The authoring experience uses the Steppers for data creation, authoring, and override functionality. Following the persona and role-based access controls common to xDM, authoring automatically adapts to the privileges of each user.
+xDM now provides a comprehensive, guided, simple and consistent authoring experience that serves business users and data stewards alike. This delivers on the company’s mission to turn data consumers into data producers, with almost no formal training.
+An Upgrade
+xDM v4.2 is designed to make upgrading for existing Semarchy customers as easy and painless as possible. Smart wizards have been built to assist designers during the upgrade process, migrating data entry and duplicate management workflows to xDM v4 Steppers, duplicate managers, and workflows, making a transition to the next generation MDM seamless.
+
+

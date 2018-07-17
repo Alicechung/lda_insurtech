@@ -1,0 +1,20 @@
+Domino Data Lab Partners With SAS To Accelerate Data Science Work In The Cloud
+
+12 Jul 2018
+
+Cloud-Deployable Technology Empowers Innovation Breakthroughs With Faster Research Processes and Streamlined Model Delivery
+Domino Data Lab, provider of an open data science platform, today announced a partnership with analytics software leader SAS that paves the way for organizations to become model-driven via enterprise-grade data science success in the cloud. Users will be able to run SAS® Analytics for Containers seamlessly in the cloud, using Domino as an elegant orchestration layer for infrastructure provisioning and management while facilitating and automating knowledge management, collaboration, and reproducibility.
+Analytics organizations will uncover breakthroughs faster while reducing capital expenditures on infrastructure. SAS Analytics for Containers on Domino offers several notable benefits:
+Accelerates research, allowing users to launch multiple SAS environments for model building.
+Reduces model delivery friction by deploying multiple SAS applications simultaneously on Domino’s elastic compute infrastructure.
+Eliminates rework, automatically tracking every detail of each SAS experiment including data, code, SAS version, environment, discussions, parameters, and results.
+Enhances collaboration and provides complete reproducibility of past work.
+Follow Us
+Nick Elprin
+“Our mission at Domino is to help organizations become model-driven by offering an open platform that makes it quick, easy, and cost-effective for data scientists to work together, regardless of what tools or environment they run on,” said Nick Elprin, co-founder and CEO of Domino. “SAS remains the industry leader in data science and analytics tools, with a presence in 96 of the top 100 companies on the Fortune 500 list. This partnership will allow leading organizations to unify all their workloads and tools, unlocking new breakthrough products and operational efficiency gains.”
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+Gavin Day
+“SAS customers need both flexibility and governance when deploying data science and analytics programs, and SAS has developed a platform that supports both these imperatives,” said Gavin Day, senior vice president for US commercial sales at SAS. “The partnership with Domino extends that approach, allowing SAS customers to embrace an easy-to-deploy cloud implementation based on the latest container technology.”
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+
+

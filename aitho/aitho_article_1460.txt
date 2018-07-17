@@ -1,0 +1,28 @@
+Enterprise Chatbot Platform Leader Kore.ai Releases Bots Platform 6.1; Names Citigroup’s Ex-CIO As Strategic Advisor
+
+13 Feb 2018
+
+Next generation capabilities bring conversational AI benefits much closer for enterprises
+Kore.ai Inc., a leader in conversational AI solutions for the enterprise sector, today announced the release of Bots Platform 6.1 version, which comes with features that promise to deliver a whole new experience of bot building for global companies. Sporting a new look and feel, the latest version of Bot Builder enables enterprises to get things done quicker and easier, and empowers them to better analyze how well their chatbots are performing against user expectations.
+“Kore.ai has a powerful and unique combination: The unlimited potential for growth and strategic relevance in an emerging technology space, and a culture that Raj has fostered of collaboration, diversity, respect, and innovation. I could not be more excited to join Kore.ai.”
+As conversational computing becomes mainstream, chatbot platforms are expected to deliver more by handling multiple tasks with greater analytics. Kore.ai’s new platform has features for supporting bot-to-bot communication via universal bots, enabling better natural language processing (NLP), facilitating deeper understanding of bot performance, and delivering greater efficiencies in terms of handling multiple intents in a single sentence or more intuitive user interface. In addition, the platform now supports 22 digital, IVR and voice assistant channels – so a single bot defined once can be instantly deployed across all channels with channel specific configurations as needed.
+More than 75 of the Fortune 2,000 companies and increasing ecosystem of developers wanting to develop bots on our platform will get benefited with this new release.
+Raj Koneru
+“Our promise has always been to design an end-to-end platform, running in the cloud or on-prem, creating secure, smart, conversational and quick-to-market bots for enterprises. We’ve bolstered our Kore Bots Platform with rich new capabilities for enterprises, and are also bringing in fresh thinking into how AI-powered conversational solutions could be engineered better for specific industries. To advise us on how to create strategic digital value through great customer engagement, we are expanding our team. I am thrilled to welcome Devendra Kumar (DK) Sharma, former CIO of Citigroup International, into the Kore.ai family,” said Raj Koneru, CEO and founder of Kore.ai.
+Devendra Sharma
+Florida-based DK Sharma will be part of Kore.ai’s advisory board and will assume his duties with immediate effect, he said.
+Accepting his appointment, Devendra Kumar (DK) Sharma said, “Kore.ai has a powerful and unique combination: The unlimited potential for growth and strategic relevance in an emerging technology space, and a culture that Raj has fostered of collaboration, diversity, respect, and innovation. I could not be more excited to join Kore.ai.”
+The Kore Bots Platform 6.1.0 Features
+A whole new bot builder experience
+Bot Builder 6.1 comes with collapsible sidebar navigation and revised layouts for getting things done quicker and easier.
+Better Bot Insights
+The latest platform allows enterprises to analyze bot performance to view most frequent utterances that matched or failed to match any intent. It demystifies natural language processing by providing a detailed analysis of how user utterances are processed by its NLP engine for better intent identification. In addition, how user defined utterances are classified against each bot task can also be viewed graphically now.
+Universal Bot
+The latest platform enables developers to string together individual bots to create a multi-purpose, branded universal bot or virtual personal assistant (VPA) that communicates with multiple bots for a person. The universal bot essentially takes the user’s requests and determines which bot to call to tackle the task at hand, multi-tasking on the person’s behalf.
+Smart Alerts
+This feature automatically subscribes bot users to alert notifications as part of dialog journey. Alert parameters can be dynamically passed to the bot during runtime and notifications can be auto expired based on preset limit.
+IVR Voice Support
+Kore.ai’s IVR integration (channel) allows customers to integrate their IVR application flows with conversational bots built on kore.ai platform. This integration allows synchronous or asynchronous https communication with IVR systems to further help customer support. The new channel, at a functional level, help companies to integrate their existing processes to the conversational bots to deliver better customer communication and faster query resolution.
+ 
+
+

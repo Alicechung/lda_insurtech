@@ -1,0 +1,21 @@
+Predictive Risk Score Targets Highest Cost Patients
+
+December 04, 2014
+
+By Jennifer Bresnick
+Predictive risk scores that target expensive patients with chronic diseases can help to make interventions more effective.
+December 04, 2014 - Researchers at Weill Cornell Medical College have developed a predictive risk score that flags patients likely to incur high costs for their care, according to a study published this week in PLOS ONE.  The Charlson comorbidity index, named for lead author Dr. Mary Charlson, examines a patient’s burden from 23 chronic conditions to predict the patient’s costs of care in the coming year.  The study found that the score works more accurately than using prior hospitalizations as a measure of future impact, and is equally as accurate as relying on prior costs and diagnostic cost group (DCG) data.
+“To be successful in reducing health care expenditures, interventions have to identify the patients who are most likely to have sustained high costs,” the study explains. “If not targeted precisely toward such patients, interventions will cost more than they will save. Studies have shown that both prior costs and prior hospitalization overestimate subsequent health care utilization and neither reliably identifies those who have stable high costs from year to year.”
+“Likely as a result, intervention programs that have targeted beneficiaries using these definitions have not demonstrated savings,” the study adds. “Thus, to date, most interventions have not been successful in reducing costs in patients with multiple chronic diseases. Our hypothesis is that they did not efficiently target the patients at highest risk of high future costs.”
+The researchers examined the data of 187,000 adult and pediatric patients in 2009 and 2010 by assigning different weights to different common chronic conditions that typically affect healthcare utilization.  In 2010, the total healthcare costs for the patient population were approximately $670 million.  Patients with the highest scores on the comorbidity index accounted for 6.5% of the population yet incurred $154 million, or 23 percent, of the year’s total costs.
+Dig Deeper
+Challenges of Applying Predictive Analytics to Population Health
+Web-Based Health Risk Assessments Accurately Flag Depression
+Population Health is Top Data Analytics Challenge for Providers, Payers
+The study also found a direct correlation between higher comorbidity index scores and increasing numbers of hospitalizations.  The data also showed the impact of mental health disorders on healthcare spending by noting that the 5.9% of patients who were diagnosed with depression or dementia incurred 11% of spending during the study period.
+A report by the Agency for Healthcare Quality and Research (AHRQ), released earlier this fall, contained similar findings about the impact of the sickest patients on overall spending.  That study found that the top 5% of patients were responsible for nearly 30% of chronic disease spending, with the top 1% costing close to $100,000 per year.
+Dr. Charlson, Chief of the Division of Clinical Epidemiology and Evaluative Sciences Research at Weill Cornell and Executive Director of the Center for Integrative Medicine, says, “The statistical modeling using complicated risk algorithms can be hard to translate directly into clinical practice. So the million-dollar question in healthcare is how you identify people who are likely to be hospitalized and to be repeatedly hospitalized?”
+The answer lies partly with providers themselves, who can shift the trajectory of uncontrollable spending by “[teaching] patients the skills to manage their own diseases and to work directly in an empowered fashion with their physician,” Charlson says.
+Tagged Chronic Disease ManagementPredictive Analytics
+
+

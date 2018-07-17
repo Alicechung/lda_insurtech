@@ -1,0 +1,29 @@
+CMS Seeks Info on Medicaid Big Data Analytics, Warehouse Modules
+
+June 29, 2016
+
+By Jennifer Bresnick
+June 29, 2016 - CMS is probing the healthcare industry’s interest in helping to develop plug-and-play big data analytics tools and data warehousing systems for the nation’s collection of Medicaid organizations. 
+In a request for information issued this month, the agency is asking for public comment on the availability of modular, standards-based solutions for data warehousing and identify management solutions, the interoperability challenges related to integrating these tools with existing systems, as well as suggestions about how to structure vendor pre-certification for these tools.
+“CMS envisions that modular solutions and architectures for state Medicaid enterprise systems will promote the reuse of technical solutions among states, minimize customization and configuration needs, and increase competition in the Medicaid Enterprise marketplace,” the RFI explains.
+CMS provides billions of dollars in funding each year to further the development of health IT within the Medicaid ecosystem, but requires that Medicaid Management Information Systems (MMIS) receive CMS certification before states can collect federal funding for system operations.
+A modular approach to developing and implementing big data management technologies will hopefully reduce costs, cut the time to certification, increase competition, and promote the adoption of standards-based tools that can be reused across the fifty-six separate Medicaid administrators across the country. 
+READ MORE: Big Data, Interoperability Top Black Book’s Trends for 2017
+Modular systems may also help to improve care coordination and encourage Medicaid agencies to participate in large-scale population health management projects.
+“Open, reusable system architectures help ensure states’ ability to efficiently implement, maintain, and upgrade systems and share clinical and administrative data across public health and human services systems designed to deliver person-centered services and benefits,” CMS says.
+As with previous CMS initiatives, however, the certification process is not always smooth and painless.  Vendors may be discouraged from pursuing development in the Medicaid space due to the difficulties of obtaining certification for MMIS systems and the payment requirements that accompany the process.
+CMS is interested in hearing industry comments about the possibility of a voluntary pre-certification program which would allow developers to get a head start on the evaluation process. 
+In addition to taking comment on recommended criteria and procedures for implementing a pre-certification program, CMS would also like to receive input on whether or not these steps would foster innovation and accelerate the development of interoperability in the Medicaid space.
+READ MORE: Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+Other topics up for consideration within the RFI include the challenges and risks of integrating data warehousing technology with existing enterprise systems, which data standards and common models may be appropriate for creating these warehouses, what big data analytics tools are available to utilize with warehousing technologies, and whether or not potential warehousing solutions would be viable if organized in a modular structure.
+Medicaid modernization has received a great deal of attention throughout the first half of 2016, and CMS has ramped up its efforts to get health IT developers interested in creating new options for the agencies that serve millions of America’s poorest and most needy patients.
+At the beginning of the year, Acting CMS Administrator Andy Slavitt called Medicaid modernization “one of the single biggest opportunities in the healthcare sector.”
+“There is great opportunity to do this in a manner that respects and capitalizes on the ability of each state to innovate in a way that’s appropriate to the needs of its local population, but also one that aligns with national goals for improving the delivery system,” he wrote in a blog post, noting that the addition of more than 13.5 million new Medicaid or CHIP patients since the Affordable Care Act has strained a structure already struggling to provide top quality care to its vulnerable patients.
+“Serving the Medicaid consumer better takes meaningful investment in infrastructure to help serve low-income individuals, many with less regular interactions with the health care system, coordinate care, organize long-term services and support, and ensure quality measurement and delivery system reform plans can be executed.”
+READ MORE: IBM Watson, Siemens Partner for Population Health Management
+In May, Slavitt traveled to Silicon Valley to urge entrepreneurs to reiterate his message and address the gaping holes in Medicaid’s outdated and fragmented data management systems.  
+“There are always new IT procurement and opportunities for new, innovative vendors in this space,” he said, reminding developers that CMS will match investments at 90 percent using federal funds.  “This industry is primed for a new era — Software as a Service (SaaS) software – that has real time capabilities and requirements and federal sponsorship for a 90 percent match on qualifying IT investments.” 
+Interested parties must send commentary by July 14, 2016 to be assured consideration.  For more details about replying to this request for information, please click here.
+Tagged Analytics InfrastructureCenters for Medicare & Medicaid ServicesHealthcare Data Warehouse
+
+

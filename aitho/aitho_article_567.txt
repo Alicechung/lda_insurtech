@@ -1,0 +1,21 @@
+Motion Gestures Launches Breakthrough Gesture Recognition Platform And Closes $1.65 Million USD In Seed Financing
+
+16 May 2018
+
+Revolutionary software enables creation of a gesture interface in minutes, without programming or data input.
+Motion Gestures, a Canadian machine learning startup specializing in gesture recognition software, today launched a breakthrough platform for gesture recognition applications. The software is a significant advance over conventional approaches and dramatically reduces the time, cost, and effort of building a gesture interface for any system, device, or app. It supports gesture recognition with a wide variety of motion, touch, and vision sensors and can be deployed on cloud, gateway/hub, and embedded platforms.
+Watch our video!
+The patent-pending technology defines the state-of-the-art in gesture recognition in six fundamental ways:
+No need to code custom gestures. Just draw the desired motion trajectory on a mobile or tablet screen and edit it.
+No need to collect data for training gesture models. The system generates data automatically for model training.
+No need to build gesture models for different sensors. Once a model is ready, utilize it with any supported sensor.
+No need to build gesture models for different platforms. Once a model is ready, deploy it on any supported platform.
+No limitation in gesture choices. Choose from a library comprising letters, numbers, shapes, symbols, and rotations.
+No complicated testing procedures. Test any gesture using your smart phone and receive comprehensive feedback.
+Motion Gestures also announced today closing of $1.65 million USD in seed investment. China Canada Angels Alliance (CCAA) led the round that also included participation from Golden Triangle Angel Network (GTAN), Keiretsu Forum, and Propel(x) The financing will be used to further the development of company’s gesture recognition platform and initiate international marketing.
+Alan Yang
+Alan Yang, Vice President of CCAA, said: “Gesture recognition is the new frontier of human machine interaction.  We are very impressed with Motion Gestures’ platform’s ability to popularize and de-mystify gesture interaction. We see major applications of its gesture recognition software in key business verticals, such as wearables, automotive, mobile phones, consumer electronics, home automation, medical devices, virtual reality, toys, drones, and robotics, to name a few.”
+Kashif Kahn
+“We believe gesture recognition as a human machine interface is today where voice recognition was five years ago,” said Kashif Kahn, CEO and Co-Founder of Motion Gestures. “We want to dominate this emerging space by offering a powerful solution that eliminates the difficulties of building a gesture interface and helps bring gesture control into consumer mainstream. We invite developers to experience the power of our breakthrough platform via use of a free developer license.”
+
+

@@ -1,0 +1,15 @@
+Qualys Integrates With Security Command Center For Google Cloud Platform
+
+23 Mar 2018
+
+Integration provides visibility, continuous security and compliance seamlessly across cloud workloads
+Qualys, a pioneer and leading provider of cloud-based security and compliance solutions, today announced its integration with the Cloud Security Command Center (Cloud SCC) for Google Cloud Platform (GCP), a security and data risk platform helping enterprises to gather data, identify threats, and act on them before they result in business damage or loss.
+Cloud SCC provides security teams a single pane for security features, policies, and insights across Google Cloud platform. Qualys’ integration expands on existing data within Cloud SCC by adding vulnerability management and threat data for compute engine instances within a GCP project.
+This new capability builds on Qualys’ prior GCP integration to give customers visibility of Qualys data within Cloud SCC and allow DevOps and security teams to protect their workloads by gaining full visibility of vulnerability and threat posture at-a-glance. Users can further drill down to find details and actionable intelligence for every identified vulnerability and can navigate with a single click back to their Qualys subscription for additional reports and threat intelligence.
+Customers can gain access to Qualys-generated vulnerability and threat posture data within Cloud SCC by deploying Qualys’ lightweight Cloud Agents on workload images. This step will either bake the agent within the image or automatically deploy the agent in the compute engine instance.
+Philippe Courtot
+“As businesses leverage new technologies to accelerate their digital transformation efforts and move into the cloud, their focus needs to shift towards building security into applications, as well as interconnected devices, right from the start. And this is what Google is doing with their Cloud Platform, helping businesses build security into the fabric of their workloads,” said Philippe Courtot, chairman and CEO, Qualys.
+Andy Chang
+“Now more than ever, the cloud is where an increasing number of enterprises are turning to protect their data and stay secure,” said Andy Chang, Senior Product Manager, Google Cloud. “With Cloud Security Command Center, we are helping security teams gather data, identify threats, and quickly act on application and data risks. By working with industry leaders like Qualys, we are giving our customers the capabilities they need to keep up with today’s ever evolving security challenges especially as they move workloads to the cloud.”
+
+

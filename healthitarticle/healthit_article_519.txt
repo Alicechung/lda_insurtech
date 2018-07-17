@@ -1,0 +1,59 @@
+Top 4 Machine Learning Use Cases for Healthcare Providers
+
+March 31, 2017
+
+By Jennifer Bresnick
+March 31, 2017 - As healthcare providers and vendors start to show off more mature big data analytics skills, machine learning and artificial intelligence have quickly rocketed to the top of the industry’s buzzword list.
+The possibility of using intelligent algorithms to mine enormous stores of structured and unstructured data for innovative insights has long tantalized the provider community, but a fragmented health IT landscape and sluggish analytics development have thus far kept that reality at bay. 
+However, changing financial pressures are starting to incentivize predictive, preventive population health management, which has led in turn to an industry-wide effort to break down data siloes and open up the doors to large-scale analytics. 
+And as a new crop of data science breakthroughs ripen in the field of machine learning, healthcare now has the opportunity to seize upon a slew of revolutionary tools that use natural language processing, pattern recognition, and deep learning to support better care.   
+The industry still has a great deal of work to do before the real-world applications of machine learning and artificial intelligence match the frenzied hype, but some organizations have started putting their supercomputing prowess to work on a number of exciting use cases.
+READ MORE: Artificial Intelligence in Healthcare: Augmentation or Companionship?
+From clinical decision support and imaging analytics to security and precision medicine, machine learning is already putting its stamp on the healthcare big data analytics environment.  Here are some of the top initiatives and most intriguing research projects that are currently harnessing these tools.
+IMAGING ANALYTICS AND PATHOLOGY
+Improving imaging analytics and pathology with machine learning is of particular interest to healthcare organizations, who would otherwise be leaving a great deal of big data on the table. 
+Machine learning can supplement the skills of human radiologists by identifying subtler changes in imaging scans more quickly, potentially leading to earlier and more accurate diagnoses.
+A number of technology industry stalwarts have already started to invest heavily in imaging analytics and pathology projects. 
+IBM Watson is rolling out a clinical imaging review service to help identify aortic stenosis, while Microsoft is targeting imaging biomarker phenotyping to supplement its cancer research efforts.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+Academic institutions are also getting in on the ground floor of advanced pattern recognition.  At Indiana University-Purdue University Indianapolis, researchers are turning machine learning algorithms loose on pathology slides to predict relapse rates for acute myelogenous leukemia.  In a small study published earlier this year, one algorithm was able to identify patients who would relapse with 100 percent accuracy.
+And at Stanford University, machine learning tools performed better than human pathologists when distinguishing between two types of lung cancer.  The computer also bested its human counterparts at predicting patient survival times.
+Meanwhile, Google researchers have already exceeded the accuracy of human pathologists examining images of metastasized breast cancer tissue, reducing false negatives to one-quarter of the human clinical rate.
+NATURAL LANGUAGE PROCESSING AND FREE-TEXT DATA
+From the EHR to the MRI, unstructured data is everywhere in the healthcare industry – either intentionally or otherwise. 
+PDF images of faxed lab reports, voice recordings of consumer interactions, and free-text EHR inputs all pose significant challenges for traditional analytics tools, but machine learning offers a novel way to extract usable meaning from these data sources.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Using natural language processing (NLP), machine learning algorithms can turn images of text into editable documents, extract semantic meaning from those documents, or process search queries written in plain text to return accurate results.
+Anne Arundel Medical Center is using a natural language interface, similar to any of the widely-known internet search engines, to allow users to access data and receive trustworthy results.
+With an interface built on top of the organization’s EHR, “you can ask something like ‘how many denials did we have last month?’ or ‘how many patients do we have with a particular cancer diagnosis?’” said David Lehr, Executive Director of Analytics at AAMC.
+“It draws on the sources of information that include data about denials, and then puts the appropriate source in front of the user to answer that question.  If it can’t find a specific answer, it can still identify where the answer might be so that the user can dig into the data and find out what they want to know.”
+NLP can also be put to work on collections of free-text, such as unstructured clinical notes in the EHR, academic journal articles, patient satisfaction surveys, or other narrative data.
+In one project from the United Kingdom, researchers applied natural language processing tools to physicians’ evaluations of their peers, and discovered that the NLP tools agreed with human assessments of the content up to 98 percent of the time.
+“The complexity of open-text information means that, unlike the scores from validated patient-reported experiences and outcome measures, the words cannot simply be ‘added up’ to create insight and meaning,” the researchers explained. “As such, the task of making sense of such data has historically been completed manually by skilled qualitative analysts.”
+But NLP could significantly shorten that process, allowing providers to interact with consumers and business partners more organically without losing time on processing the data afterward.
+CLINICAL DECISION SUPPORT AND PREDICTIVE ANALYTICS
+The ability to extract meaning from large volumes of free text is also critical for clinical decision support and predictive analytics – another area where machine learning is starting to shine.
+Identifying and addressing risks quickly can significantly improve outcomes for patients with any number of serious conditions, both clinical and behavioral. 
+At Beacon Health Options, a behavioral health management company, machine learning can clarify a fuzzy diagnosis process and help forestall mounting complications in complex patients.
+“We sit on an awful lot of data, which is organized in a very traditional claims-based model,” said Dr. Emma Stanton, Associate Chief Medical Officer for Beacon Health Options. “We can see whether someone has had an outpatient appointment or an inpatient admission, but the data doesn’t tell us a great deal about whether or not the patient has actually gotten better as a result of accessing that care.”
+“So while we are a data-driven company and rely on that information for everything we do, we are keenly aware that there are limitations in our insights due to the way that data is organized and analyzed.  There is a tremendously exciting opportunity to use machine learning to improve those processes and dig deeper into that data and all the other variables that impact an individual’s life.”
+Beacon Health Options is using machine learning to fine-tune its risk stratification capabilities, allowing case managers to reach out to high-risk patients more proactively and better coordinate their care.
+On the clinical side, researchers at the Icahn School of Medicine at Mount Sinai (ISMMS) are using algorithms to distinguish between two heart conditions with very similar presentations.
+“Our approach shows a promising trend in using automated algorithms as precision medicine techniques to augment physician-guided diagnosis,” said study author Joel Dudley, PhD, Director of the Institute for Next Generation Healthcare and Director of the Center for Biomedical Informatics at ISMMS.
+“This demonstrates how machine-learning models and other smart interpretation systems could help to efficiently analyze and process large volumes of cardiac ultrasound data, and with the growth of telemedicine, it could enable cardiac diagnoses even in the most resource-burdened areas.”
+Across the country, the University of California San Francisco’s Center for Digital Health Innovation (CDHI) and GE Healthcare are creating a library of predictive analytics algorithms for trauma patients in an attempt to speed up the delivery of critical care.
+Researchers at Weill Cornell Medical School and Carnegie Mellon University are also using machine learning to identify variations in spending patterns and create clinical pathways for chronic disease management, potentially lowering costs and improving outcomes for patients with longer-term needs.
+CYBERSECURITY AND RANSOMWARE
+Clinical and financial applications are just the beginning for machine learning.  Cybersecurity and patient privacy are critical concerns for every healthcare provider, and intelligent algorithms may be the best way to plug gaps in their defenses.
+Machine learning could help reduce the rising threat of ransomware, which is a piece of malware that prevents organizations from accessing certain files or components of infrastructure, as well as more traditional security threats.
+The ability to patrol security perimeters with more sensitivity and responsiveness than humans could be a major victory for the industry.
+“The application of machine learning and artificial intelligence solutions to health IT infrastructures is going to rapidly transform the sector by providing a mechanism through which providers and vendors can protect clinical health data that is stored locally or in the cloud,” wrote James Scott, Senior Fellow at the Institute for Critical Infrastructure Technology in a recent report. 
+Machine learning tools could be used to “identify patterns of normal usage and alert or flag events that are out of the ordinary…[or] calculate a risk score for specific events as they happen based on the similarity or not to the normal behavior observed for the user performing the specific events,” added ICIT Fellow David McNeely.
+User and entity behavior analytics could alert organizational authorities to suspect attempts at accessing patient data or other protected information, and are able to do so much more quickly and comprehensively than the typical human.
+At the end of 2016, IBM Watson announced its Cyber Security Beta Program that harnesses Watson’s machine learning and cognitive computing skills to flag cyber threats.  The company said that 40 organizations across multiple industries are taking part in the pilot.
+"Customers are in the early stages of implementing cognitive security technologies," said Sandy Bird, Chief Technology Officer, IBM Security. "Our research suggests this adoption will increase threefold over the next three years, as tools like Watson for Cyber Security mature and become pervasive in security operations centers."
+Only a scant handful of healthcare organizations are currently dipping their toes into the deep waters of machine learning, but those that are moving ahead with these strategies are charting the way towards an exciting future of sophisticated algorithms that can enhance human skills.
+As machine learning becomes more advanced and reliable, healthcare organizations will find no shortage of potential applications and use cases for this new generation of big data analytics technology.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportHealthcare Data GovernanceImaging AnalyticsListsMachine LearningNatural Language Processing
+
+

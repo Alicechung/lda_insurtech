@@ -1,0 +1,26 @@
+CMS Data Element Library Promotes Health Information Exchange
+
+June 25, 2018
+
+By Jessica Kent
+June 25, 2018 - CMS has announced the availability of the Data Element Library (DEL), a database that will promote health information exchange, increase communication among healthcare facilities, and enhance care coordination.
+The DEL is a free, centralized resource that allows providers, vendors, researchers, and the public to view patient health assessment data from post-acute care organizations, such as nursing homes and rehabilitation hospitals.
+Patient health assessments can include demographics, medical problems, and other kinds of health evaluations. These data elements have all been standardized to facilitate seamless communication between every post-acute care facility that uses them.
+Dig Deeper
+Health Information Exchange Brings Higher Quality, Lower Costs
+How Care Management, Care Coordination Differ in Health IT
+CMS to Require Health Information Exchange for Long-Term Care
+Healthcare organizations can then integrate this data into their electronic health record (EHR) systems, where it could be used for multiple purposes, including quality measurement and improvement.
+The DEL also includes the health IT standards for collecting health information, which are nationally recognized methods of sharing data between health IT systems.
+The combination of these standards and data elements stored in the DEL will make it much easier for health IT vendors to incorporate information into post-acute care providers’ EHRs, which will facilitate seamless communication of health data between providers and improve care coordination, CMS says.
+“We’re excited to add this important building block to the foundation for interoperability that CMS is helping to establish,” said CMS Administrator Seema Verma.
+“The DEL supports the use and sharing of data, and aligns with MyHealthEData, a government-wide effort strengthening the interoperability of health information.”
+The MyHealthEData Initiative aims to keep patients at the center of healthcare and improve their ability to access, collect, and share their health data in an interoperable manner.
+As another integral piece of MyHealthEData, CMS is seeking to update Medicare payment policies and rates under the Inpatient Prospective Payment System (IPPS) and the Long-Term Care Hospital (LTCH) Prospective Payment System (PPS).
+The changes would allow patients to have broader access to hospital price information while improving the EHR experience for providers.  
+Additionally, the DEL aligns with the organization’s recent effort to rebrand the EHR Incentive Programs as the Promoting Interoperability programs.
+“The DEL also closely aligns with CMS’s Patients Over Paperwork initiative focused on reducing administrative burden and costs while improving care coordination, outcomes and patients’ ability to make decisions about their own care,” Verma said.  
+Through these initiatives and programs, CMS expects to increase interoperability and health data exchange among healthcare organizations, enhance care coordination, and improve patient health outcomes. 
+Tagged Care CoordinationCMSHealth Information ExchangeHealth IT InteroperabilityMyHealthEData Initiative
+
+

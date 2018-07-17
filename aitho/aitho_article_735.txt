@@ -1,0 +1,14 @@
+Meet Turing Video’s Intelligent Security Robot, Nimbo
+
+27 Apr 2018
+
+Nimbo Is Designed To Detect Security Violations Or Anomalies And Approach The Area With Light/Audio/Video Warnings That Correspond To The Situation
+Nimbo collects HD video evidence and pushes notifications to security personnel, including live video streaming to mobile devices.
+Nimbo’s video is powered by Salient’s CompleteView VMS. CompleteView’s Dynamic Resolution Scaling allows faster remote callup of live video streams, enabling users to observe and respond to the security situation in real-time. Dynamic Resolution Scaling reduces the video bitrate to the smallest possible size without sacrificing frame rate or quality, allowing the Nimbo to operate on 4G data networks with the lowest data consumption and operating costs.
+Chris Meiter
+“In keeping with Salient’s commitment to advanced technologies, robotics and artificial intelligence are cornerstones of Salient’s approach to being the central hub of an advanced total security solution,” says Chris Meiter, President of Salient Systems. “CompleteView is the command and control application allowing users to plug in their preferred access, robotics, video analytics, and other technologies for a smarter and complete security solution.”
+Salient offers comprehensive video surveillance management systems designed for the full range of surveillance technology needs from analog to IP to Cloud. Based on open architecture, CompleteView, Salient’s Video Management Software, scales from entry level to enterprise and provides everything needed to manage a multi-server, multi-site video surveillance installation from desktop, laptop, and mobile smartphones.
+Turing Video is pioneering the robotics industry with leading artificial intelligence and navigation systems for security robots. Located in the heart of Silicon Valley, Turing Video develops state-of-the-art deep learning, edge computing and self-patrolling technology to enable robots to assess situations and collaborate with human beings and drones in real-time, keeping facilities and inventory secure.
+Read More: Bridging The Gap Between Physical And Digital Security Using AI
+
+

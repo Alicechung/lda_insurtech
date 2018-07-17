@@ -1,0 +1,25 @@
+AMIA, Dryad Partner for Healthcare Research Big Data Access
+
+April 13, 2017
+
+By Jennifer Bresnick
+April 13, 2017 - The American Medical Informatics Association and the Dryad Digital Repository have announced a new partnership that will expand the availability of healthcare research big data for the validation, repetition, and expansion of published studies.
+Dryad is a curated online databank where researchers can upload and share the data used in their studies.  The resource promotes transparency within the research community and allows the potential reuse of datasets for future exploration.    
+The project aligns with the healthcare industry’s newfound focus on open data and the development of data commons, especially in light of the growth of precision medicine and the anticipation of artificial intelligence. 
+Dig Deeper
+Will Precision Medicine Create Healthcare “Data Dumpsters”?
+The Difference Between Big Data and Smart Data in Healthcare
+Top 4 Machine Learning Use Cases for Healthcare Providers
+Stakeholders are starting to develop creative new ways to make extremely large datasets available for researchers at institutions across the country – and the globe – as advances in data analytics, genomics, informatics, and machine learning start to demand more fodder in order to produce accurate and meaningful results.
+“The JAMIA community is uniquely positioned to help develop a biomedical and healthcare data commons in which data, software, and systems are easily findable, accessible, interoperable, reusable, and privacy protected. With this special focus issue we are taking the right steps in this direction,” said JAMIA Editor Lucila Ohno-Machado, MD, PhD.
+The first fruits of the partnership will come in the form of a special issue of the Journal of the American Medical Informatics Association (JAMIA) focusing on data science. 
+The theme, “Biomedical Data Science: Sharing Digital Objects to Accelerate Discoveries and Ensure Reproducibility of Results” will illustrate the benefits of sharing and reusing data for such purposes as population health management and biomedical research.
+“Data-driven discovery is becoming a widely accepted strategy for developing new knowledge in the biomedical sciences and increasing the yield of knowledge from data generated in the course of inquiry,” says JAMIA’s call for submissions to fill the issue, which will be published in November of 2017.
+“These new approaches to discovery require new methodologies, novel ways to store and locate data, greater sophistication of metadata, indexing and cataloging of data, new data structures, and a full range of new analytical approaches. Data that result from various analyses also need to be indexed, stored, and linked back to the analytic pipelines so these data can be reproduced.”
+JAMIA notes that in order to allow researchers to reproduce and validate the results of their peers, they will need to share more than just the raw data.  “It is thus also important to share not only results, but also software or other digital objects (e.g., containers) that operate on the data,” the website states.
+For the special data science issue, therefore, JAMIA is actively seeking submissions that will make these associated resources available to the research community.
+“In addition to primary investigations applying advanced analytic pipelines to data already stored in repositories, desirable contributions also include the reports of full set of digital objects that are produced. These digital objects might include original data, software, software pipelines, containers, virtual machines, intermediary data, and metadata strategies that support FAIR principles,” the journal says.  “Software code and data must be made available freely reusable by deposit with the manuscript or in well-known repositories unless a waiver is granted by the editors.”
+Manuscript submissions are due by May 15, 2017, with initial acceptance decisions expected in July.  Interested parties may access more information about the submission process by clicking here.
+Tagged Analytics InfrastructureHealthcare Big Data AnalyticsHealthcare InformaticsHealthcare Information GovernanceMedical ResearchPrecision Medicine
+
+

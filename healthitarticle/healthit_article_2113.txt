@@ -1,0 +1,17 @@
+EHR analytics creates drug safety dashboard at VA hospitals
+
+January 15, 2014
+
+By Jennifer Bresnick
+January 15, 2014 - Using 19 key metrics found within the electronic health record, a team of pharmacists at the Veterans Affairs Sierra Pacific Network have created a drug safety dashboard to flag potential adverse events during inpatient stays.  Janet Carmichael, PharmD, who led the project, says that use of the dashboard has decreased mortality rates and helped at least 113,000 patients avoid potentially life-threatening complications over the three years the program has been in use.
+Presenting the findings of the pilot program at the American Society of Health Systems Pharmacists (ASHP) 2013 Midyear Clinical Meeting, Carmichael noted that the team had to pick and choose the most applicable metrics out of more than 400 measures collected by the EHR.  Patients were often receiving incorrect medications due to clinician alarm fatigue and inattention.  Improper drug administration has been a pressing issue for VA hospitals across the country, with facilities in Memphis and San Francisco experiencing patient deaths and overdoses due to poor EHR use and a lack of safety measures.
+“We have pharmacists and pharmacist-led teams solely dedicated to looking through the dashboard results, identifying patients with suboptimal medication management, reviewing their records, and choosing from a variety of interventions, depending on the patient-specific situation,” Carmichael said.  “Any health system with an [EHR] can implement a similar novel pharmacovigilance tool, shifting patient care toward a more proactive versus reactive model.”
+One measure that significantly improved patient safety, Carmichael explained, was a metric that flagged heart failure patients who were receiving eplerenone or spironolactone but whose records either didn’t show a recent administration of potassium or serum creatinine, or whose blood work showed high potassium or low serum creatinine levels.  By placing a closer watch on these patients through the dashboard’s alerts, the hospitals were able to reduce hospitalizations and maintain a hold on emergency room visits due to hyperkalemia.  The mortality rate for these patients dropped from 9.3% before the pilot to 7.5% afterwards.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+EHR Sample Size Matters in Machine Learning, Predictive Analytics
+“This is a great example of how big data analytics can be leveraged to gather information and to generate important clinical insights so that patient safety can be improved,” said William Owad, the senior vice president of Operational Excellence at Cardinal Health, in Dublin, Ohio, who was not involved with the VA project.  Owad presented Carmichael’s team with the Award for Excellence in Medication Use Safety for their work on the project.
+Tagged Applied AnalyticsBig DataClinical AnalyticsEHR AnalyticsMedical ResearchPredictive Analytics
+
+

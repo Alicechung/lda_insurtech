@@ -1,0 +1,55 @@
+Shifting Healthcare Business Intelligence Market Offers Opportunities
+
+June 22, 2018
+
+By Jennifer Bresnick
+June 22, 2018 - Business intelligence (BI) tools form the backbone of big data analytics infrastructure for many healthcare organizations, especially those wending their way through the process of transitioning from volume to value.
+The ability to combine financial information with operational and clinical data is crucial for generating the actionable insights that can guide a wide variety of cost-saving initiatives.
+Software vendors play a key role in this process.  Choosing the right vendor can enable speedy and tangible returns on the investment – and picking the wrong one could leave unlucky organizations in the lurch.
+Providers who are currently in the middle of the decision-making process aren’t going through the challenge alone. 
+A whopping 91 percent of organizations are planning to undertake at least one technical adoption project in the next twelve months, says a new survey from Ernst & Young, with data analytics tools topping the wish list.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+"Analytics is a key element of the digital transformation we are currently witnessing throughout the health industry," said Christer Johnson, Principal, Ernst & Young LLP, and Health Analytics Advisory Leader.
+"Without it, organizations are less equipped to capture value, control costs, maintain or grow market share, and improve patient outcomes in an increasingly competitive market."
+The competitiveness of the market extends to the developer community, as well. 
+With the electronic health record (EHR) market largely saturated, and the rise of new influences like artificial intelligence forcing vendors to innovate, consumers of technology are in a prime position to take their pick of top quality offerings.
+They are using that power to invest in a variety of tools, platforms, and systems that can help them integrate, visualize, and take action on shifting patterns in financial and clinical outcomes.
+READ MORE: Can Health IT Platforms Support Success as Artificial Intelligence Looms?
+Data from the Definitive Healthcare database helps provide a snapshot of business intelligence software adoption among hospitals and health systems as the industry enters the second half of 2018.
+INTEGRATED DELIVERY NETWORKS LIKELY TO GO WITH THE TRIED AND TRUE
+Larger integrated delivery networks (IDNs) have typically been among the earliest adopters of analytics technologies, and have had some time to suss out what works for their organizations and what simply does not.
+After working through these experimental periods, the majority of IDNs included in the data sample have settled on major, well-known vendors for their BI needs.
+Some IDNs are using more than one vendor to meet their requirements, and so may be represented more than once in this selection of 727 software implementations. The data does not represent all IDNs or all software installations in the nation.  Some popular BI vendors may be missing from this data.
+Source: Xtelligent Media / Definitive Healthcare
+Perhaps unsurprisingly, Epic Systems has maintained its grip on the largest portion of the business intelligence market, with one-third of software implementations.
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+The next-closest competitors, SAP and Conduent, only comprise 11 percent and 9 percent of the market, respectively.  Conduent is now the owner of the Midas Plus technology suite.
+The rest of the pie is divided into relatively small slices.  Tableau, Strata Decision Technology, and Oracle have very slight leads over the rest of the field, but the majority of the IDN environment is highly fragmented. 
+Twelve percent of software installations are for vendors with one percent or less of the total volume, indicating a thriving opportunity for smaller competitors to stake a claim in the sector, even among the biggest – and potentially most lucrative to work with – health systems in the nation.
+CRITICAL ACCESS HOSPITALS SHADOW THEIR LARGER COLLEAGUES
+On the other end of the hospital size spectrum, the marketplace looks remarkable similar.  Critical access hospitals (CAHs), often viewed as among the least likely to show analytics maturity, are closely mimicking their IDN peers with their business intelligence choices.
+Source: Xtelligent Media / Definitive Healthcare
+Epic Systems once again reigns supreme in terms of market share, with 36 percent of the 870 CAH software implementations included in the sample.  SAP gains some ground among smaller organizations, enjoying 19 percent of the environment.
+Conduent, Oracle, and Strata Decision Technology hold relatively steady among CAHs, but MEDHOST is a more popular choice among smaller facilities than it is in the IDN world.
+Interestingly, the proportion of critical access facilities choosing other vendors is smaller, with just 9 percent of CAHs working with vendors representing less than one percent of the total sample.
+CAHs, which have been slower to adopt EHRs and analytics than many larger hospitals, may have benefitted from a wait-and-see approach, allowing more eager entities to identify effective solutions before they committed to a strategy.
+Skipping over the period of homegrown, patchwork technologies may actually position these resource-strapped organizations for more immediate success, buoyed by access to tried-and-tested technology platforms from vendors that have survived the initial wave of experimentation.
+OPPORTUNITIES ABOUND AMONG HOSPITALS OF ALL SIZES
+When segmented by bed size instead of mission statement, the overall hospital landscape appears only marginally different.
+MEDHOST and Conduent make significant gains among entities with fewer than 150 beds, but Epic still takes the crown for enabling business intelligence insights with between 27 percent and nearly 32 percent of the smaller hospital BI installations.
+Source: Xtelligent Media / Definitive Healthcare
+Business analytics tools from Allscripts also make a stronger showing as bed size increases.  The company gains about one percent of the market across the size categories, and maintains a steady rate of utilization as the scale moves up to the largest facilities. 
+Among hospitals and health systems with more than 500 beds, Allscripts ends up capturing 3.7 percent of the sample specifically for its BI offerings.
+Source: Xtelligent Media / Definitive Healthcare
+Epic, too, expands its lead as the number of beds increases.  Among hospitals with 350 to 500 beds (a sample of 416 installations), the company snags nearly 38 percent of the market.  When the facilities top 500 beds, Epic comprises almost 44 percent of the sample.
+MEDHOST, however, loses market share as hospital size increases, ending up with just a sliver of the large health system environment in this sample.
+The smallest facilities are the least likely to partner with a wider variety of vendors, the data reveals. 
+Only 20 percent of hospitals with 1 to 50 beds are working with BI vendors outside of the top defined companies, compared to almost 30 percent of mid-sized hospitals and a quarter of the largest entities.
+Still a fifth of the market is nothing to sneeze at for new entrants to the BI sector.  Start-ups and non-traditional players have numerous opportunities to secure clients in a fragmented environment, especially as organizations explore the possibilities of machine learning, artificial intelligence, and other emerging technology strategies.
+As the healthcare system moves deeper into value-based reimbursement, hospitals of all sizes and types will need to equip themselves with analytics tools that can help them access and leverage insights from their data assets.
+Vendors offering standards-based BI tools with the capability to integrate disparate datasets may yet find that hospitals and health systems are eager to engage in new partnerships as the industry climbs the maturity ladder.
+With the Ernst & Young survey predicting frenzied activity over the next 12 months, especially for products that can improve the consumer experience while creating better outcomes, business intelligence vendors have the chance to showcase their wares to a very receptive audience.
+"Patients, providers and payers alike benefit from the emerging technologies that provide the types of connected experiences already seen in other industries. The growing adoption of these digital initiatives is another indicator that US health care is now embracing the era of convergence,” said Carole Faig, US Health Deputy Leader, Ernst & Young, LLP.
+"Whether we are talking about improving health outcomes, patient experiences or internal operations, those who are embracing tech today will be more prepared as we enter the consumer-centric health industry of tomorrow."
+
+

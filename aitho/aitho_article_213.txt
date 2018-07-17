@@ -1,0 +1,18 @@
+New Messaging Platform Poised To Revolutionize Clinical Information Analysis, Sharing
+
+25 Jun 2018
+
+Secure Exchange Solutions FETCH and SPOT, addressing interoperability for payers and providers
+Secure Exchange Solutions today announced the launch of FETCH and SPOT, a next generation platform that will revolutionize the transmission and intelligent analysis of clinical information at critical points of care. FETCH and SPOT will be showcased during the America’s Health Insurance Plans (AHIP) Institute and Expo, June 20-22nd at the San Diego Convention Center. FETCH and SPOT together optimize risk-based model decision support by leveraging existing interoperability standards and Artificial Intelligence (AI).
+Follow Us
+The platform is significant as health insurance companies continue to struggle to achieve effective information sharing with providers, resulting in costly expenditures across the health care system. In addition, health plans need to leverage intelligent automation services based on machine learning and cognitive computing to positively affect member health and reduce healthcare costs. FETCH and SPOT help meet both needs.
+Read More: Interview With Gabby Nizri, CEO And Co-Founder, Ayehu
+FETCH automates electronic retrieval and sharing of clinical data for care and quality management, improving cost and performance for both payers and providers. By transmitting data through DIRECT secure messaging protocol and FHIR, FETCH makes use of existing EMR technology investments and supports the automated request of medical records, making it cost-effective for providers and payers to implement.
+SPOT AI automates the discovery of critical insights from text of member health records and evaluates appropriateness of coverage and authorization requirements for treatment either before or after the claim is submitted. It can also be used to evaluate incoming faxes so that they can be indexed into payer workflows. SPOT uses Linguamatics Natural Language Processing AI engine and clinical reasoning capabilities to support these processes.
+Read More: Think Next: Microsoft For Startups China Enables Chinese Innovations To “Go Global” And Overseas Innovations To “Go China”
+Dan Kazzaz
+Combined, FETCH and SPOT provide the solution payers and providers need to effectively make informed decisions, in real time, at critical points in the care and payment processes.
+“FETCH and SPOT solve the challenge of clinical data sharing for providers and payers by combining the strength of Direct messaging, X12 and HL7 standards, and health vocabularies with AI technology,” said Dan Kazzaz, CEO, Secure Exchange Solutions. “The critical feature of the new platform is the use of AI to absorb existing payer treatment guidelines into the process. The fact that part of the technology is already embedded in all Meaningful Use compliant EMRs makes it cost-effective and a win-win for the industry.”
+Read More: Quanergy Solid State LiDAR Wins Juniper Research Top Automotive Award
+
+

@@ -1,0 +1,35 @@
+AMIA: NIH Should Focus on Data Exchange, Access in Science
+
+April 10, 2018
+
+By Jessica Kent
+April 10, 2018 - The American Medical Informatics Association (AMIA) has recommended that the National Institutes of Health (NIH) leverage its informatics programs and education efforts, support changes in academic promotion and tenure, and adjust its grant process to ensure that its Data Science Strategic Plan fully promotes data exchange and access.
+“Data sharing has become such an important proximal output of research that we believe the relative value of a proposed project should include consideration of how its data will be shared,” AMIA wrote in its comments.
+“These kinds of changes will be force-multipliers for the NIH, as they will encourage broad improvements to how data are collected, shared, and reused.”
+Dig Deeper
+Why Value-Based Care Must Inspire Partnerships, Data Exchange
+Healthcare Data Access is Biggest Artificial Intelligence Bottleneck
+Reviewing the Progress of Health Data Access, Interoperability
+The NIH released its Data Science Strategic Plan in March 2018. The plan sets out objectives across five goal areas: data infrastructure; modernized data ecosystem; data management, analytics, and tools; workforce development; and stewardship and sustainability.
+The foundation of the plan is to ensure that all grants align with the principles of the Findable, Accessible, Interoperable, and Reusable (FAIR) data practice.
+This plan will help the NIH capitalize on the opportunities presented by advances in data science, such as machine learning and artificial intelligence, the organization said.  
+It will also help the research community overcome key challenges, including increasing costs of data management, siloed data resources, and misaligned funding streams that deter improved data sharing.
+AMIA noted that it strongly supports the development of the Data Science Strategic Plan and praised the NIH for several tactics that would capitalize on advancements in data science while addressing persistent data challenges.
+These strategies include efforts to develop distinct funding streams for data and software resources, as well as efforts to establish incentives for grantees who utilize or donate to qualified databases and repositories.
+However, AMIA also stated that NIH will need to leverage its existing biomedical informatics programs, grants, workforce training and education efforts as part of its data science strategy. AMIA stated that informatics will be integral to data science as the healthcare field utilizes more sources of data.
+“The future of clinical research and medicine is awash in data,” said AMIA President and CEO Douglas B. Fridsma, MD, PhD, FACP, FACMI.
+“If data science is discipline by which knowledge or insights are extracted from data, informatics is the application of such knowledge and insights to biomedical and clinical information systems for the betterment of discovery and patient care. Both disciplines are interrelated, complementary, and necessary to the NIH’s.”
+AMIA also recommended that NIH support institutional change within the realms of academic promotion and tenure. To do this, the NIH should establish both infrastructure investments and direct funding for scholars who create useful public databases, knowledge repositories, and software tools.
+AMIA noted that while funding and professional recognition of scholars will be particularly important, investments in data infrastructure will enable data stewardship, curation, and maintenance.
+Additionally, AMIA stated that NIH must make changes to its grant process to ensure that grants fully align with FAIR principles.
+“The NIH must go beyond adherence to FAIR principles and require that grantees also adhere to such principles as a condition of funding,” AMIA said in its comments.
+“Moreover, the NIH must develop policies that incentivize adherence to FAIR principles, and develop capacity to assist grantees in this endeavor.”
+To do this, AMIA recommended that NIH make Data Sharing Plans a “scoreable” element of grant applications subject to existing NIH policies.
+In addition, AMIA suggested that NIH include software code and algorithms in the “rigor and reproducibility” section of grant applications.
+To facilitate these changes, AMIA suggested that NIH have qualified experts in biomedical informatics and data science review applicants’ data sharing plans and differentiate between high-quality data plans and low-quality plans.
+The AMIA stressed that these recommendations will help NIH achieve the goals of their Data Science Strategic Plan.
+“The NIH is to be commended for seizing a historic opportunity to transform how research is performed and how discovery is translated to care, given our ongoing digital revolution,” said AMIA Board Chair and Regenstrief CEO Peter J. Embi, MD, MS, FACMI.
+“However, the NIH will need a dedicated assembly of experts to support its ambitious goals. AMIA and the entire informatics community stands ready to help.”
+Tagged Big Data AnalyticsHealth Data AccessHealth Data ExchangeHealthcare Informatics
+
+

@@ -1,0 +1,12 @@
+CMS makes healthcare analytics easier with new data tools
+
+November 14, 2013
+
+By Jennifer Bresnick
+November 14, 2013 - Healthcare data analytics will be getting a whole lot easier for researchers interested in Medicare and Medicaid information with the launch of the Virtual Research Data Center (VRDC), CMS announced at a White House event this week.  Researchers will be able to access and manipulate a wide variety of datasets directly from their desktops through a secure portal, potentially saving tens of thousands of dollars in permission and transportation costs while offering quicker access to information.
+“We’re acutely aware of the huge potential that CMS data holds for creating a more efficient, higher quality health care system, and researchers play a large part in this transformation,” said CMS Administrator Marilyn Tavenner in a statement.  “By providing researchers with secure, timely, and affordable access to CMS data, the agency is making it easier to do the important research that will lay the foundation for better quality and lower costs in the health care system.”
+The system will allow data scientists to access enough data for a year-long project for approximately $40,000, which includes technical training and ample cloud storage space, eliminating the need for researchers to install and maintain their own data warehouse infrastructure.  Cloud access also ends the need for costly physical transportation of large data sets, which can cost a researcher up to $100,000 a year and is currently only conducted on an annual basis.  All personally identifiable information for beneficiaries remains within the CMS data environment, which will help safeguard against data breaches or misuse of the data.
+The available data covers everything from chronic condition prevalence and patient outcomes to Medicare and Medicaid utilization and prospective payment systems.  The information will help healthcare organizations develop a richer portrait of patient needs and identify opportunities for improvements to the care delivery system.  The VRDC falls under the White House’s Big Data Research and Development Initiative, which aims to improve researchers’ ability to extract knowledge and insights from large and complex collections of digital data.
+Tagged Big DataClinical AnalyticsHealthcare AnalyticsHealthcare Business IntelligenceHealthcare Data ManagementPopulation Health Management
+
+

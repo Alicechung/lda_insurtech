@@ -1,0 +1,48 @@
+EHR Workflow, Patient ID Woes Top 2016 Patient Safety Error List
+
+April 14, 2016
+
+By Jennifer Bresnick
+April 14, 2016 - Electronic health records have once again scooped the unenviable top spot on ECRI Institute’s annual patient safety risk list.  While last year’s list identified data integrity errors as the foremost patient safety concern for healthcare organizations, the biggest worry in 2016 is EHR workflows that do not fall in line with the way health IT systems are configured for optimal use.
+Healthcare organizations are constantly updating their EHR systems: adding new modules, changing logic rules in the backend, adjusting data collection methodologies, and switching new features on and off.  
+However, “after the implementation [of new technologies], people continue to do things the same way and really don’t adjust the health IT system or their workflow,” said Robert C. Giannini, NHA, CHTS-IM/CP, patient safety analyst and consultant, ECRI Institute. 
+This can result in inadequate data collection, poor data integrity, and gaps in patient information that could lead to serious patient safety events.
+ECRI suggests that providers involve their frontline EHR users in the planning, configuration, and testing phases of new health IT implementation projects.  They should also pay close attention to common workarounds and develop an event reporting system that allows users to flag worrisome events in a blame-free environment.
+READ MORE: Vendors Push Big Data Analytics, but Hospitals Focus on Safety, Security
+The communication shortfalls that can result from inadequate EHR workflows happen often, ECRI says, though they do not typically result in severe patient safety events.  But many of the other items on the list have the potential to be much more serious, including:
+Patient identification errors
+ECRI joins the growing number of healthcare stakeholders deeply concerned about patient identification, or the lack thereof.  As calls for a national patient identification system echo across the care continuum, the patient safety risk list points out that patient ID errors are both exceedingly common and potentially very serious.
+Errors that occur during registration can become exponentially more harmful as a patient travels through an episode of care, says Stephanie Uses, PharmD, MJ, JD, patient safety analyst and consultant, ECRI Institute.  The “broad implications” of an initial misidentification can even affect post-acute care, she added.
+Lack of behavioral health management in other care settings
+READ MORE: EHR, CPOE “Value Chain” Begins and Ends with Patient Safety
+Failure to identify patients with immediate needs for behavioral healthcare can cause significant problems in the hospital setting, ECRI says.  Patients who become agitated or violent due to psychiatric conditions can cause harm to both clinicians and themselves.
+In addition to training staff members to respond appropriately to emergency situations involving aggressive patients, providers should seek better ways to integrate behavioral healthcare records with routine EHR data, allowing providers to better identify potential problems and treat patients holistically when required.
+Inadequate cleaning of endoscopes
+After a spate of patient deaths and infections in California from insufficiently reprocessed flexible endoscopes, this hard-to-clean item of medical equipment often requires patient safety warnings. 
+“These scopes have been designed to do a special job in the hands of the physician, but they haven’t necessarily been designed to be easily cleaned and disinfected,” says James Davis, MSN, RN, CCRN, CIC, HEM, senior infection prevention analyst, ECRI Institute.
+READ MORE: FDA Antibiotic Stewardship Tool Offers Centralized Data Resource
+Healthcare providers should pay close attention to their cleaning and reprocessing procedures for this type of equipment to reduce the likelihood of deadly infections.
+Failures in care coordination and follow-up with test results
+Care coordination is a constant challenge for healthcare systems that may not enjoy full health data interoperability or health information exchange.  Spotty communication between primary care providers, specialists, surgeons, and inpatient clinicians means that critical test results often get lost somewhere along the line, leading to repeated procedures or uninformed decision-making.
+In addition to reexamining communication methodologies, providers should encourage patients to make follow up appointments to ensure that they receive the information required for future treatment plans.
+Insufficient monitoring of respiratory status for patients receiving opioids
+Proactively monitoring patients receiving opioid medications can help to avoid brain injury or death from respiratory depression, ECRI says.  Providers, especially nurses, should use sedation scales and risk scores to decide when rescue treatment is appropriate.
+Health IT tools, such as continuous pulse oximetry monitoring, predictive analytics based on patient vitals, or medical device alerts sent to a centralized patient management facility can also help to ensure that harm does not result from this condition.
+Medication errors related to metric/imperial conversions
+Simple conversion errors, unfortunately common in the only country in the world that has not fully embraced the metric system, can be deadly for patients – especially children.  Recording patient weight in kilograms instead of pounds, or confusing grams and milligrams, can result in deadly overdoses.
+ECRI suggests that healthcare organizations should stop using patient scales that record weight in pounds to eliminate the potential for error at the source.  Clinical decision support tools that flag unexpected entries into the EHR could also help to reduce potential patient safety events.
+Unintentionally retained objects during surgery
+The euphemistically named “unintentional retention” of objects during surgery is also a frequent entry on patient risk lists. 
+While surgical staff members usually count the number of objects used during a procedure before and after the event, “counting is a human process that’s very prone to error, especially in a busy environment where multiple things are happening simultaneously,” says Gail Horvath, MSN, RN, CNOR, CRCST, patient safety analyst, ECRI Institute.
+Organizations should create an environment of team-based accountability to prevent the significant harm that can result from objects left inside a patient after surgery.  
+Inadequate antibiotic stewardship
+Antibiotic stewardship is becoming an area of serious concern for organizations desperately battling the financial and quality implications of hospital-acquired infections.  With penalties and patient lives on the line, providers must take the time to understand the issues behind overuse or misuse of antibiotics.
+More than three quarters of hospitals may be overusing antibiotics, the CDC said in 2014, due to patient and caregiver pressures, treatment of asymptomatic infections, or the indiscriminate use of broad-spectrum antibiotics.
+Providers must use these medications more judiciously if they wish to slow the evolution of superbugs that are highly resistant to current therapies.
+Overall failure to embrace a culture of safety
+Executive leaders must foster a culture of patient safety if they wish to reduce preventable patient harm, says Mary Beth Mitchell, MSN, RN, CPHQ, CCM, SSBB, ECRI patient safety analyst and consultant.
+“Embracing a culture of safety is the foundation for mitigating any of the concerns on the Top 10 list.  If the organization does not embrace a culture of safety, it will be difficult to address any of the issues that the organization may face. No matter how much an employee wants to embrace this, if leadership doesn’t embrace this, it’s not going to happen.”
+Providers must make a concerted effort to identify their unique trouble spots and brainstorm solutions.  Whether organizations turn to health IT tools, like predictive analytics and clinical decision support, or simply focus on instilling a sense of shared accountability through human-centered care improvement strategies, addressing patient safety concerns is a vital activity for every healthcare facility.
+Tagged Care CoordinationEHR WorkflowHospital QualityPatient Safety
+
+

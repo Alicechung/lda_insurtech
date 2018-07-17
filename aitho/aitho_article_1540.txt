@@ -1,0 +1,13 @@
+Deep Cognition And Exxact Announce AI Server Appliance Partnership
+
+06 Feb 2018
+
+Deep Cognition and Exxact announces new partnership to bring robust AI server appliances to market.
+Exxact Corporation, a leading provider of high performance computing, and Deep Cognition, a leading provider of software that simplifies and accelerates AI, announced a new partnership today. The collaboration resulted in Exxact’s high performance computers pre-configured with Deep Learning Studio, Deep Cognition’s software platform to simplify and accelerate AI development and deployment. The final product is a simple yet powerful AI Server Appliance that brings the promise of AI to all organizations with and without data science/AI expertise in-house.
+Exxact Deep Learning Studio Solutions are equipped with the latest in GPU hardware and are designed for maximum performance and efficiency. Each solution is tested, validated and fully turnkey, enabling the ability for developers to get started with Deep Learning Studio the moment their system is on. Deep Learning Studio, provides a comprehensive GUI to develop, train, deploy and manage AI. Highly advanced modeling is supported through robust integration with leading AI frameworks such as TensorFlow, Keras and MXNet. For more information about the full suite of deep learning resources available with Exxact servers, please click here. To learn more about Exxact Deep Learning Studio solutions, please click here.
+Mandeep Kumar
+“Our new partnership with Deep Cognition will bring forth a new portfolio of simplified, turn-key systems to help organizations advance their AI research with ease,” said Jason Chen, Vice President of Exxact Corporation. “By combining Exxact systems with Deep Learning Studio software, we have created solutions that are ready right out of the box and enables users to easily design, train, and deploy deep learning models without any coding involved.” 
+“AI has tremendous potential to transform organizations in 2018 but the path to success is fraught with challenges. Our partnership with Exxact to bring powerful AI server appliances to market removes many of those challenges.” said Mandeep Kumar, Chief Executive Officer, Deep Cognition.
+ 
+
+

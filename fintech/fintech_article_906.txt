@@ -1,0 +1,27 @@
+BLOCKCHAIN FOR INSURANCE – THE CHANGE IS HERE
+
+March 14, 2017
+
+Insurance has a reputation for being a late adopter of technology, to suffer from a low level of client trust and to have inefficient (and often manual) processes. As a consequence, the adoption of a new technology that provides significant efficiency improvements, introduces systematic trust, allows comprehensive improvements to business processes and reduces the need for intermediaries, will disrupt existing incumbents if they choose to not exploit it.
+
+ Major themes where blockchain can be utilised in insurance include:
+
+ • As a single trusted ledger – this offers major operational efficiency gains through reduced/removed reconciliation and decreased auditing. It also delivers a significant reduction in the time taken to undertake processes by improving visibility to common, consistent, data. A Trusted Ledger can act as a register of ownership, accreditation, etc. and can link in with IoT to provide complete traceability.
+
+ • As a product – particularly through smart contracts to accelerate and automate processes – there are several projects underway to radically improve claims handling.
+
+ • As an aid to digitisation – some areas of the market remain paperbased. Blockchain-based solutions will help the transition to zero touch processing. An example of a move in this direction is from Traity/Kevin, a micro-insurance/p2p solutions, backed by Australian insurer Suncorp. It uses a chatbox-fronted blockchain solution to provide small financial transaction protection (currently up to $100).
+
+ • As an integration of multiple technologies – using IoT and robotics to capture data, AI to perform complex analytics and blockchain to record events, data and documents in an immutable, trusted, form, will create many new insurance opportunities – already there are several stealth projects underway bringing together shipping container trackers, AI and blockchain to provide supply chain transparency, improved trade finance mechanisms and putting trade credit insurance platforms into place. The volumes and values involved in international trade make the use cases highly attractive and may lead to a shift of InsurTech startups looking at commercial, and not just consumer, insurance.
+
+ Insurance is a major contributor to the UK economy. It provides significant employment and tax revenues and yet InsurTech has, until now, been overshadowed by FinTech and has received little Government support. This was very much the theme of the discussions at the recent All Party Parliamentary Group on Financial Services and Insurance. The Government clearly sees InsurTech as a growth area and its likely we will see more active support for startups.
+
+ The insurance sector is embracing both the InsurTech sector in general, and blockchain in particular, with alliances such as B3I (Blockchain Insurance Industry Initiative – with 15 insurance/reinsurance members) and R3 (which includes insurance companies from Asia and the USA). The establishment of consortia, along with industry standards bodies such as ACORD (a Global Insurance Standards organisation), will enable interoperability between blockchains Customers experience in the insurance sector still lags way behind. Blockchain allows insurers to start developing models that reduce the burden on customers such as less data re-entry, one touch buying. This can be supported with greater control over digital identity using hash functions and will allow multiple platforms to be developed that can interact with each other. The FinTech community seems to be filled with challenger banks and alternative payment providers, all of whom are competing against existing banks and service providers. The InsurTech community seems to be more collaborative with startups working with existing insurers and we’re likely to see this trend grow as blockchain startups aligns with organisations that already have a major foothold in insurance.
+
+ Finally, EU GDPR contains some interesting provisions for which blockchain might be uniquely suited. Article 29 in particular relates to data portability and it’s possible that blockchain could provide the means for customer data to be transferred from one insurer to another if a customer wishes to change their provider.
+
+ GARY NUTTALL, Managing Director,
+
+ Distlytics Ltd
+
+

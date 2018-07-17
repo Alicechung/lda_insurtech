@@ -1,0 +1,18 @@
+ICD-10 National Pilot highlights data quality issues
+
+October 25, 2013
+
+By Jennifer Bresnick
+October 25, 2013 - The ICD-10 National Pilot Program, conducted by HIMSS and WEDI between 2012 and 2013, was supposed to identify the major trouble spots facing the industry as the mandated conversion date of October 1, 2014, drew closer and closer.  In that respect, the program was a wild success.  The number of problems exposed by having medical coders practice their ICD-10 skills is staggering.  For health information managers and data quality experts, the results of the pilot highlight key issues to keep in mind whenever humans interact with datasets.
+ICD-10 is intended to give payers, medical researchers, and analytics professionals much more granular data than they could get from its predecessor, ICD-9.  With thousands of new codes structured to capture specific information, such as laterality and subsequent encounters, analytics is slated to get a significant boost in granularity.  However, so many additional things to remember mean plenty of things for coders to get wrong.  With an overall accuracy rate of just 63%, and many specific codes hovering around 30% accuracy, the pilot clearly showed that producing quality data in ICD-10 is no simple task.
+Some of the mistakes were basic, such as coders mixing up an O and a zero, or an L and a one.  Sometimes the documentation they were given was incomplete – or upside down, due to an error when scanning sample cases into the system.  Coders often skipped marking down the laterality, leading to a less specific code than required.  They sometimes forgot to add a procedure code to the claim.  All these claims would likely be denied by payers, leading to significant lost revenue and the need for extra manpower to resolve disputes with health plans.
+And perhaps most disappointing for those investing heavily in computer assisted coding (CAC) tools, coders who relied too much on encoders tended to “zone out” and trust the computer even when it was incorrect.  “Coders should not become so dependent on encoders that they forget when/if there is a need to override,” the report warns.  “This is a problem today that will not necessarily go away with ICD-10.”
+Dig Deeper
+Business Intelligence Tools Bring Insights to Organ Donation Network
+Population Health is Top Data Analytics Challenge for Providers, Payers
+70% of Healthcare Execs Pin Growth to Big Data Analytics Skills
+Some of the pitfalls were expected, such as the 50% productivity loss when slogging through unfamiliar ICD-10 claims.  The large number of relatively minor mistakes by AHIMA-trained ICD-10 coders may be a little more surprising, but must be anticipated in every organization moving forward.  These quality issues will likely plague the majority of ICD-10 datasets, at least until coders get the hang of the tricky upgrade, which may take months.
+Analytics projects that plan to incorporate ICD-10 data should be sure to check the accuracy and completeness of all information to ensure that it will produce useful results.  This process should begin with a comprehensive clinical documentation improvement program, to ensure that coders receive the best data possible to begin with, and end with a thorough internal and external testing process, to verify that ICD-10 codes are being transmitted and stored properly wherever necessary.
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Business IntelligenceICD-10ICD-10 Analytics
+
+

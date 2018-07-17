@@ -1,0 +1,33 @@
+VA Falls Short on EHR Use to Document Suicide Risk, Prevention
+
+May 22, 2017
+
+By Jennifer Bresnick
+May 22, 2017 - Clinicians within the Department of Veterans Affairs are not sufficiently adhering to suicide prevention and treatment protocols for high-risk patients, according to a new report from the Office of the Inspector General (OIG).
+In a review of more than two dozen Veterans Health Administration (VHA) locations, the OIG found that clinicians often fail to document required treatment plans, follow-up activities, and other suicide prevention protocols in the electronic health record. 
+More than 45 percent of new clinical hires do not complete required suicide risk management training within 90 days of beginning their work due to poor administrative support for the program, insufficient understanding of requirements, and a lack of time allocated to training.
+The report highlights worrying weaknesses in the VA’s efforts to curb an epidemic of suicides among the veteran population.  While the VA has undertaken suicide prevention initiatives since 2006, veteran suicides accounted for 18 percent of all self-inflicted deaths in the United States in 2014.
+Most of the facilities surveyed had adequate processes in place to respond to referrals from the Veterans Crisis Line, the OIG found, and conducted thorough analyses of situations when a patient did die by suicide.
+READ MORE: VA, DOE Launch Healthcare Big Data, Machine Learning Project
+However, the review of 1175 patient records across 28 facilities found significant shortcomings in other areas of patient management, including:
+Eighteen percent of facilities did not conduct at least five community outreach activities or events per month, as per VHA requirements.
+Eleven percent of EHR records for high-risk patients did not contain Suicide Prevention Safety Plans (SPSPs).  A safety plan should be a collaborative patient-provider effort, and must include information on recognizing warning signs, employing coping mechanisms, contacting family and caregivers, and reducing the potential for use of lethal means.
+Thirteen percent of inpatient SPSP records did not contain contact information for family and friends that may help intervene in a crisis.  The rate of missing contact information jumped to more than 25 percent of outpatient SPSP records.
+In 20 percent of inpatient cases, clinicians failed to document that a patient or caregiver had received copy of the suicide prevention safety plan.
+Patient record flags (PRFs), or alerts identifying patients as high-risk for suicide, were not included in 13.6 percent of eligible inpatient EHR files. Clinicians did not document review of PRFs during the previous 120 days for 25.4 percent of EHRs.
+Among those patients with PRFs on file, clinicians failed to document reasons for continuing or discontinuing PRFs in 14.5 percent of EHR files. Clinicians often cited high workloads as a reason why they did not follow documentation procedures.
+In 10.6 percent of cases, suicide prevention coordinators (SPCs) were not notified when a high-risk patient was admitted to a VHA facility.
+SPCs or mental health providers failed to evaluate high-risk patients at recommended intervals in 15 percent of cases.
+While many of the documentation deficits revealed by the report actually show improvement over previous assessments, the OIG stressed that Veterans Affairs facilities still have significant room to improve their processes.
+The report strongly recommends that the VA maintain adequate compliance rates with suicide prevention activities by increasing outreach, adhering to EHR documentation procedures, and making a concerted effort to train staff appropriately to meet patients’ needs.
+Acting Under Secretary for Health Poonam Alaigh, MD, concurred with all of the OIG’s recommendations and laid out target dates and details for how the Department plans to meet its goals.
+In addition to addressing its compliance shortfalls, the VA has undertaken a number of initiatives aimed at leveraging big data analytics and patient-centered care strategies to predict patients at risk of suicide. 
+READ MORE: VA Precision Medicine Databank Hits 500,000 Participants
+In April, the VA announced the opening of the Center for Compassionate Innovation, which will identify and promote promising strategies for helping patients with post-traumatic stress disorder, traumatic brain injuries, chronic pain, and higher risk of suicide.
+The VA and Veterans of Foreign Wars of the US (VFA) also recently unveiled a partnership with Walgreens that plans to expand access to care and educate patients about mental health and substance abuse issues. 
+And several weeks after the VA received the OIG report, the Department of Veterans Affairs and the Department of Energy launched their Big Data Science Initiative, a joint effort to leverage machine learning and predictive analytics to study suicide risk, among other issues. 
+The project will harness the immense Million Veterans Program databank, which currently includes genomic and clinical data on more than half a million VA patients, to develop a more accurate and sensitive suicide risk assessment score.
+These efforts, along with the VA’s stated intent to improve adherence to suicide prevention and treatment guidelines, may help to stem the epidemic of self-harm among veterans.
+Tagged Chronic Disease ManagementDepartment of Veterans Affairs VAEHR UsePopulation Health ManagementPredictive Analytics
+
+

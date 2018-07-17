@@ -1,0 +1,40 @@
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+
+December 18, 2017
+
+By Jennifer Bresnick
+December 18, 2017 - Giving physicians individualized data on how their opioid prescription rates compare to their peers may not have a measurable effect on reducing the number of patients who receive the medications, according to a new perspective piece published in the New England Journal of Medicine.
+Using data from athenahealth to identify clinicians with higher than average and lower than average opioid prescribing rates in Massachusetts, researchers found few differences before and after providers were given reports on their prescribing habits, even among clinicians who were far above the benchmark for their specialty.
+Massachusetts suffers from one of the highest rates of opioid overdose deaths in the country, said the team, whose members hail from Harvard, Brigham and Women’s Hospital, MGH, and the National Bureau of Economic Research.  The state ranked seventh in overdose deaths in 2015.
+“The gravity of the opioid epidemic in the United States barely needs introduction. The numbers speak for themselves: in 2015, more than 33,000 Americans died from an opioid overdose, according to the CDC,” says the article.
+“The dramatic rise in opioid prescribing in the United States since the 1990s is frequently blamed as a driver of this epidemic, and policymakers have focused substantial energy on curbing prescribing rates.”
+READ MORE: For Opioids and Substance Abuse, Big Data Analytics Is Just the Beginning
+In March of 2017, the state Department of Public Health emailed reports to all prescribers of controlled substances with data on their current and historical prescribing rates, as well as mean and median rates for physicians in the same specialty.
+“Such peer comparisons have shown promise for influencing physician behavior in other settings,” the team said. “How they affect opioid prescribing, however, particularly when comparisons are done on a statewide level, is unknown.”
+“Such programs can easily backfire, if they inadvertently provide an incentive to increase opioid prescribing among physicians with below-average prescribing rates, or they may simply be ineffective.”
+After comparing prescribing data from 284 Massachusetts physicians with information from 864 providers in other areas of the country, the research team believes the latter is most likely.
+“We found no evidence that opioid-prescribing rates in Massachusetts fell as compared with rates in other states after the reports were released,” the article states. 
+READ MORE: Addressing Opioid Abuse with Analytics, Population Health Strategies
+“We also observed no reductions in opioid prescribing among the highest-volume opioid prescribers, who would presumably have been alerted that their prescribing rates differed substantially from the norm.”
+Source: NEJM
+The team suggests that several factors may have contributed to the apparent ineffectiveness of this particular program.  The Department of Public Health had less than a year to plan and executive the initiative, and may not have been the right organization to communicate with physicians.
+Data coming from medical boards, specialty societies, or health systems might be more impactful, they pointed out.  And providers may be more likely to respond to different benchmarks: instead of sharing mean and median prescribing rates, future efforts might consider highlighting outliers above the 90th percentile or below the 10th percentile.
+“We believe that the Massachusetts state legislature and public health department deserve praise for passing and quickly implementing a statewide policy based on modern behavioral economics principles,” the authors stressed.
+“However, this example highlights a major challenge in addressing such a rapidly evolving crisis: swift action requires rapid evaluation, ideally with a control group. There is little time to waste on ineffective — or, worse, counterproductive — policies that use the finite resources of local governments and tax the limited ability of physicians to respond to new regulations.”
+READ MORE: Communities Tackle Opioid Abuse with EHRs, Population Health
+Many existing opioid prescribing monitoring and control strategies have had tepid impacts on the downstream rates of abuse or addition. 
+Even the nationwide push to implement and connect state-level prescription drug monitoring programs (PDMPs) has not uniformly improved provider behaviors.  Drug monitoring databases are most effective in states where their use is mandated and where the data is updated and shared on a frequent basis, the authors assert. 
+“When such features aren’t included and use is optional, clinician adoption is disappointingly low and valuable data are neglected,” they said.
+“Other well-intentioned policies that make intuitive sense — such as setting limits on the quantity of opioids that patients can receive at one time, making doctor shopping illegal, and sending letters to physicians who have the highest opioid-prescribing rates — have had no meaningful effect.”
+The article notes that opioid prescribing volumes have actually fallen by 12 percent since their peak in 2012, yet overdose deaths have markedly increased, due in large part to the growing availability of fentanyl.  Individuals who cannot access legal opioid prescriptions are also likely to turn to heroin, and may risk exposure to infection and transmittable diseases when using needle-injected substances.
+“We simply do not know which policies will strike the right balance between promoting safe opioid use and avoiding unintended consequences,” the team said.
+To find out, however, governmental agencies should make a concerted effort to collaborate with community leaders and healthcare providers to devise meaningful, cost-effective, data-driven methods for reducing the impact of opioids on individuals.
+“Evaluations do not have to be multiyear, multimillion-dollar projects to provide actionable results if the right relationships can be facilitated between researchers and data providers,” said the team.
+“Governments could cultivate resources to enable rapid data gathering using existing systems. PDMPs contain detailed information on opioid prescriptions. Several EHR vendors have cloud-based systems with up-to-the-minute data on physician practices.”
+Partnerships between PDMPs, public health departments, and electronic health record vendors could enhance the real-time surveillance of vulnerable populations. 
+Other existing data analytics and population health management strategies, such as linking opioid prescribing data to patient outcomes and the use of naloxone by public health services, could also supplement the process of making policy decisions. 
+“The opioid crisis requires the swift creation of decisive policies that promote safe use of opioids and prevent overdoses,” the article concludes. “In addition to regulating opioid prescribing, there are many other policy challenges, such as controlling the illicit market for powerful synthetic opioids like fentanyl and improving access to addiction treatment.”
+“In all these cases, delaying the evaluation of new programs could cost thousands of lives if ineffective policies are aggressively pursued. Productive collaborations among state governments, data providers, researchers, and public health officials to couple policy with evaluation could help to identify lifesaving policies worth spreading.”
+Tagged Analytics InfrastructureChronic Disease ManagementClinical AnalyticsEHR AnalyticsPopulation Health ManagementPreventive Care
+
+

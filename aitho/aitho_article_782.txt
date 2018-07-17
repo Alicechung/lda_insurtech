@@ -1,0 +1,15 @@
+BlueConic Introduces Consent Management For GDPR
+
+23 Apr 2018
+
+Consent Management Solution Empowers Marketers to Build Consumer Trust
+BlueConic, the world’s leading customer data platform (CDP), today announced availability of its GDPR (General Data Protection Regulation) Consent Management solution. In addition to capturing individual rights requests associated with GDPR, the new solution enables marketers to request consumer consent for each intended marketing purpose, persistently store individual consent status in person-level profiles, and honor individual consent across their martech ecosystem by seamlessly integrating related data across systems.
+Cory Munchbach
+“The new regulation presents an opportunity for marketers to build consumer trust in their brands,” explains Cory Munchbach, senior vice president of Strategy at BlueConic. “GDPR forces marketers to think carefully about the value of each piece of customer data that they collect. How will the data be used? Why would a customer provide this data? Those marketers that put customer perspective first will not only be successful in achieving GDPR compliance, but also in gaining loyalty from customers.”
+BlueConic is the customer data platform for marketers that want flexibility and control over the consent management process to ensure it keeps up with their rapidly changing needs and audience-based tactics. From proactively asking consumers for consent, to monitoring the rates of consent given, and ensuring consent is synchronized across platforms, BlueConic puts marketers in control.
+Core capabilities within BlueConic’s customer data platform make GDPR consent management possible – Those capabilities include persistent person-level profiles that store individual-based consent along with other audience attributes, and the ability to manage known and anonymous audience data across all systems.
+BlueConic Helps Brands Make Connections Across Systems – Many marketers are intimidated by the idea of managing consent across the myriad of customer touchpoints and dozens of martech and adtech databases within their ecosystem. But BlueConic’s solution allows marketers to acquire consent within one platform and push it out to the other platforms.
+Martijn van Berkum
+“BlueConic has been the leader in enabling customer data compliance ever since the Cookie Law first hit the EU,” says Martijn van Berkum, CTO & co-founder of BlueConic. “With half of our customers based outside of the U.S, we are focused on delivering customer data solutions that empower marketers to adhere to global policies. That’s why we’ve gone above and beyond other customer data platforms by offering an end-to-end solution for GDPR compliance – individual rights request management and consent management in one integrated solution.”
+
+

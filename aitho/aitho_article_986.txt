@@ -1,0 +1,16 @@
+Unbound Technology’s Unbound Key Control Now Available In The Microsoft Azure Marketplace
+
+03 Apr 2018
+
+Unbound Virtualizes HSM and Key Management for Protecting Critical Assets in Azure
+Unbound Technology, a world leader in Software-Defined Cryptography (SDC), today announced its Unbound Key Control (UKC) is available in the Microsoft Azure Marketplace. Now customers can purchase UKC directly from the Marketplace in a pay-as-you-go model to manage and control keys for their applications on Azure, providing a complete solution for the biggest pain points of protecting, controlling and managing cryptographic keys in the public cloud and in hybrid cloud environments. Unbound breaks the boundaries of traditional key management with a unique pure-software solution that combines both hardware-level security guarantees with the agility, scalability and efficiency of software.
+“We are excited to offer Unbound Key Control to Microsoft Azure customers”
+Traditionally, the best way to protect cryptographic keys was to lock them within dedicated hardware such as a hardware security module (HSM). However, today’s digital business and the extensive use of cloud services require the flexibility of software solutions that match the agility and scalability of cloud infrastructure. Unbound provides a one-of-a-kind pure-software solution with hardware-level security, based on its innovative virtual hardware security module (vHSM) technology, which is backed by rigorous security proofs and uses advanced multiparty computation (MPC) algorithms. Unbound Key Control eliminates a critical single point of compromise in security architectures by ensuring the most sensitive keys never exist in the clear at any point in their lifecycle.
+Oz Mishli
+By becoming available in the Azure Marketplace, Unbound is offering another solution for customers looking to protect, manage and control their cryptographic keys within Azure, with an elastic and easy-to-use software solution that supports all general-purpose crypto and key management use cases and APIs. Use cases such as CA, PKI, code signing, data encryption, app-level encryption, blockchain key management and many others can now be easily supported on Microsoft Azure with a click of a button. UKC is FIPS 140-2 certification pending.
+Sajan Parihar
+“We are excited to offer Unbound Key Control to Microsoft Azure customers,” said Oz Mishli, VP of products at Unbound Technology. “Now, Azure customers can easily deploy another enterprise key management solution that offers hardware-level security, with the agility and elasticity of a software solution. It also fully supports hybrid cloud environments, seamlessly connecting with on-premises HSMs and key management systems, as well as workloads on other clouds.”
+Sajan Parihar, Director, Microsoft Azure Platform at Microsoft Corp. said, “We’re excited to welcome Unbound Key Control by Unbound Technology to the Microsoft Azure Marketplace, which gives our partners great exposure to cloud customers around the globe. Azure Marketplace offers world-class quality experiences from global trusted partners with solutions tested to work seamlessly with Azure.”
+ 
+
+

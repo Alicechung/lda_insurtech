@@ -1,0 +1,11 @@
+Telit Releases Two Modules Enabling European Market To Enjoy Advanced IoT Applications And Services
+
+19 Mar 2018
+
+Certified modules reduces development time, testing and certification, accelerating time to market
+Company provides European market with ability to deliver Wi-Fi to cloud and many other smart IoT applications
+Smart IoT Conference – Telit, a global enabler of the Internet of Things (IoT), today announced the release of two new modules, the WE866E4-P and the ME910C1-E2. Designed to meet European specifications requirements, the modules bring forth the ability to bring advanced IoT applications to market such as smart buildings, smart energy, industrial applications, medical devices and others.
+“Our modules were designed with the European market in mind, eliminating the guesswork associated with what standard to use for IoT projects in the region,” said Yossi Moscovitz, Telit President of Products and Solutions.  “We are providing the industry the ability to digitally transform by creating new opportunities for our customers to achieve innovation. We’re pleased to be a key part of enabling the promise of Smart IoT that we are seeing during this week’s conference.”
+Telit’s WE866E4-P is a fully integrated dual band, dual mode, combo Wi-Fi (802.11 a,b,g,n) and Bluetooth Low Energy (BLE) 5.0 module, with an extremely small footprint (285 sq. mm) that provides an easy and cost-effective way for manufacturers to add wireless connectivity to the products. Module comes up with an integrated tri-core system-on-chip, with dedicated CPU’s for IoT application, Wi-Fi and BLE. The module is self-contained with full Wi-Fi, BLE and TCP/IP networking stacks along with a complete suite of security features such as Secured Boot, Flash encryption, Copy Protection, HTTPS and WPA/WPA2 Personal & Enterprise security modes. For more information, visit: http://info.telit.com/low-power-wi-fi.
+
+

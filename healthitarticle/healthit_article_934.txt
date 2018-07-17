@@ -1,0 +1,31 @@
+Incomplete Data Leads to Underestimates of Patient Safety Deaths
+
+May 04, 2016
+
+By Jennifer Bresnick
+May 04, 2016 - Approximately 250,000 patients are known to die from human mistakes, diagnostic errors, system failures, and preventable patient safety events each year, according to new data from Johns Hopkins, making known medical errors the nation’s third leading cause of death in 2013 – but this may be a low-ball figure.
+The study, published in the BMJ this week, points out that this figure, as well as previous estimates from organizations like the CDC, may be seriously underestimating the number of deaths caused by patient safety concerns, since medical errors are rarely recorded in documentation as the primary cause of death.
+"Incidence rates for deaths directly attributable to medical care gone awry haven't been recognized in any standardized method for collecting national statistics," said Martin Makary, professor of surgery at the Johns Hopkins University School of Medicine, to the Johns Hopkins Hub.
+"The medical coding system was designed to maximize billing for physician services, not to collect national health statistics, as it is currently being used."
+Makary and Michael Daniel, a research fellow who also worked on the study, have estimated that the true rate of death from medical errors is closer to 400,000 patients each year, which would be greater than the four following causes of death – COPD, suicide, firearms, and motor vehicles – combined.
+READ MORE: Alarm Fatigue, Health IT Woes Top ECRI 2017 Patient Safety List
+Recorded medical errors are only less deadly than cancer, which contributes to 585,000 deaths per year, and heart disease, which is the nation’s number one killer.  The cardiovascular condition was responsible for 611,000 deaths in 2013. 
+In a letter to the Centers of Disease Control and Prevention (CDC) accompanying the journal article, the study authors argue that the healthcare system has failed to collect medical error data appropriately, due to limitations in the way patient data is coded and documented.
+“Currently, the CDC uses a deaths collection system that only tallies causes of death occurring from diseases, morbid conditions, and injuries,” they explain.  “The information on death certificates filled out by physicians, funeral directors, medical examiners, and coroners form the basis of an annually updated list of the most common cases of death.”
+These forms rely on ICD codes to capture these causes of death, but since ICD codes were primarily developed for billing purposes, and only include diagnosis and procedure codes, they do not allow for documentation to list medical errors as a primary cause of death.
+While the ICD-9 code system in use in 2013 has since been updated, even the new ICD-10 code set does not allow providers the capability to list human error as a cause of death, Makary and his colleagues state. 
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+In order to appropriately capture an error as a primary contributor to mortality, the health system would need to add an additional field on death certificates “to inquire if immediately preventable complications stemming from the patient’s medical care was the primary contributor to the patient’s death.”
+Adding such a field would give patient safety researchers a wealth of new data to explore, and would allow providers to take a closer look at the human errors that may be contributing to irreparable harm, the authors argue. 
+If nothing else, it would spark “more honest conversations” about the issue, and would help healthcare organizations develop and disseminate standardized best practices for patient safety in an open and blame-free way.
+"Unwarranted variation is endemic in health care," Makary said. "Developing consensus protocols that streamline the delivery of medicine and reduce variability can improve quality and lower costs in health care. More research on preventing medical errors from occurring is needed to address the problem."
+The CDC, and the healthcare organizations that rely on its data for investing in quality improvements, should “strive for accuracy,” the letter added, especially since the data set is often used to guide discussions about funding and the future direction of medical research. 
+READ MORE: 21% of Patients See Medical Errors, but Providers Deny Responsibility
+“The US government and private sector spend a lot of money on heart disease research and prevention.  They also spend a lot of money on cancer research and prevention,” the researchers said.  “It is time for the country to invest in medical quality and patient safety proportional to the mortality burden it bears.” 
+“This would mean research in technology that reduces harmful and unwarranted variation in medical care, the non-technical (behavioral) and communication skills that prevent harm, ways to improve the diagnostic accuracy, and the prevention before and rescue after an adverse event.”
+Dig Deeper
+Patient Safety, Engagement Relies on Crafting a Culture of Change
+Data Governance, More Attention Required for Patient Safety
+Tagged Hospital QualityPatient SafetyQuality Of Care
+
+

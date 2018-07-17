@@ -1,0 +1,24 @@
+Machine Learning Tool IDs Macular Degeneration as Well as Humans
+
+July 05, 2018
+
+By Jessica Kent
+July 05, 2018 - Researchers from the Johns Hopkins University Applied Physics Laboratory (APL), together with collaborators at the Johns Hopkins School of Medicine, have developed a machine learning tool that can detect age-related macular degeneration (AMD) with as much accuracy as human ophthalmologists.
+AMD is the number-one cause of blindness among individuals over 50. The condition causes lesions that can blur the central vision necessary for individuals to read, recognize faces, and drive.
+Much of the vision loss from AMD is irreversible, so treatable lesions must be detected before significant vision loss has occurred.
+Dig Deeper
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+How Machine Learning Could Revolutionize Healthcare Diagnostics
+Machine Learning Algorithm Outperforms Cardiologists Reading EKGs
+“We’ve been able to show the feasibility of automated fine-grained classification of AMD severity that only highly trained ophthalmologists can achieve,” explained APL’s Philippe Burlina, a co-principal investigator for the project.
+“These techniques have the potential to provide individuals with automated grading of images to identify AMD or monitor those individuals with earlier stages of AMD for the onset of the more advanced stages when prompt treatment may be indicated to reduce the risk of blindness.”
+This project builds on other research efforts from APL.
+In 2015, APL collaborated with the Johns Hopkins Wilmer Eye Institute to find ways to automate AMD diagnosis.
+Additionally, the team has applied machine learning to optical coherence tomography (OCT), a noninvasive imaging technique that provides high-resolution, cross-sectional images of the retina. These techniques can diagnose other retinal diseases such as diabetic retinopathy, and they also have the potential to diagnose vascular and neurodegenerative disorders.
+APL researchers believe their work demonstrates the potential for clinicians to use artificial intelligence and machine learning tools to enhance imaging analytics for diagnosing different types of diseases.  
+In the future, the research team plans to expand its efforts to Thailand, Brazil and France to find out how machine learning algorithms trained on a database of specific ethnicities and demographics can be applied to different ethnicities and conditions.
+“We were able to show that machines can do as well as humans for diagnosing AMD,” Burlina said.
+“So now we have started looking at other retinal diseases, and how to combine images with other sources of information — demographics, lifestyle factors such as smoking, and sunlight exposure — to automatically perform prognosis and predict the probability for five-year risk of developing the advanced form of the disease. The end goal is to help clinicians and guide treatment.”
+Tagged Artificial Intelligence in HealthcareImaging AnalyticsMachine LearningMedical imaging
+
+

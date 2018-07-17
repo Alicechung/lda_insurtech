@@ -1,0 +1,29 @@
+Comodo CA Expands Beyond TLS/SSL Certificates And Launches New IoT Device Security Service
+
+03 Jul 2018
+
+Connected Devices and Networks Now Have Greater Protection Against Cyberattacks on a Scalable, Cost Effective Platform
+Comodo CA, a worldwide leader in digital identity solutions, today announced the launch of its IoT PKI (Public Key Infrastructure) Manager, a new IoT device security platform, designed to protect devices and networks against cyberattacks. The platform is available across a wide range of industries and applications including industrial automation, medical devices, automotive, telecommunications, smart city/smart buildings and in consumer electronics.
+Hackers operating in a digitally pervasive, connected environment are increasingly gaining access to IoT devices with no security embedded and exposed vulnerabilities. The new Comodo CA IoT unified portal directly addresses this problem by enabling trusted, third-party, mutual authentication of devices to networks. This secure identification and connection is essential for the health and safety of both end-user devices and the networks to which they connect. Comodo and its partners are working together to deliver a platform that is built to scale, quick to implement, easy to manage and cost effective for global ecosystems and enterprise IoT deployments.
+Follow Us
+Damon Kachur
+“The continued use of self-signed certificates, shared keys and default passwords for IoT device security is leaving IoT devices and networks increasingly vulnerable to imminent cyberattacks,” said Damon Kachur, Head of IoT Solutions at Comodo CA. “Comodo CA’s platform ensures that only authenticated and approved devices are connecting to the correct, corresponding private network or ecosystem. This reduces the risk that IoT devices can be compromised, endanger people’s lives or privacy or be used in DDoS or hacking attacks.”
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+Comodo CA IoT PKI Manager benefits organizations by:
+Differentiating IoT products by contributing to their security by design, throughout the product lifecycle
+Bringing secure devices to market quickly
+Building an ecosystem of trust from devices to customers and partners
+Using x.509 PKI certificates and custom hybrid TLS/SSL certificates, the Comodo CA IoT PKI Manager provides a high-availability, batch-issuance system that allows administrators to easily enroll and download and decrypt certificate batches quickly and efficiently. It also meets requirements for industry standards from WiMAX Forum, GSMA, Zigbee, OCF and Joint Venture – Silicon Valley.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+Technical features include:
+CA Signing & Hosting Services
+Batch PKI Certificate Issuance
+Identity & Registration Certificates
+Device Authority Partnership for KeyScaler
+Automated Certificate Installation & Provisioning
+Certificate Life-Cycle Management
+HSM Provisioning & Management.  Partnership with Gemalto
+“IoT is a developing technology use case that demands strong security. There are already billions of devices connected to the global internet, and some researchers are predicting 50 billion by 2020. Enterprises using IoT devices should look to companies like Comodo CA that can help secure connections to their private networks in a thorough and simple way,” said Jon Oltsik, senior principal analyst at ESG. “IoT security is often looked at as a ‘one-and-done’ approach. Comodo CA can offer the ability to change out a PKI certificate at any time, throughout a connected device’s full lifecycle, adding a new level of consistent security that we just haven’t seen before in this space.”
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+
+

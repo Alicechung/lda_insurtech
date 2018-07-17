@@ -1,0 +1,33 @@
+Using Claims, Lab, and Clinical Analytics to Discover Diabetics
+
+August 09, 2016
+
+By Fatima Paruk, MD, MPH
+August 09, 2016 - Combining and normalizing data from numerous, disparate sources to effectively manage population health across the spectrum of care is necessary, yet presents us with significant challenges today.
+Through industry innovation and collaboration with national and state policy makers, findings from large-scale population health data analytics can identify high risk patients, inform interventions, eliminate redundancy, and reduce the cost of managing populations across different care settings.
+Delivery of such insights through actionable, point-of-care solutions embedded within the workflow can make it easier for clinicians to leverage analytics and do the right thing. These data-driven quality improvement efforts can to better patient outcomes without adding additional burden to clinicians.
+Today, we are starting to tap into the power of analytics to fight diabetes, one of the world’s most complex and costly chronic diseases. Studies estimate that diabetes affects 8 percent of the US population, but confirming this in patients who are undiagnosed and identifying those at highest risk remains challenging.
+Traditionally, providers relied on electronic health record (EHR) data or claims data to identify patients with chronic disease for population health management efforts. But given the widespread variation in how the diagnoses are documented within EHRs (if documented at all), new algorithms to more accurately define and manage populations were necessitated.
+READ MORE: Eye Docs Looking for Big Data, Population Health Analytics Research
+Based on early data analysis of 40 million records, we’ve found that providers who use only traditional EHR documentation are often missing half of their total diabetic population.
+Diabetic patients are hiding in plain sight
+Finding undiagnosed diabetic patients requires extensive data aggregation and normalization of multiple data sources. Looking beyond the ICD-10 diagnosis codes that exist in clinical records a rules engine approach can be applied to claims, laboratory and pharmacotherapy data to identify additional patient with chronic diseases.
+In an initial analysis of a health system with 4 million patients, we identified the diabetic population via various sources:
+• 28 percent through EHR data – the provider had specifically diagnosed this patient as diabetic in one of several data fields within the clinical record
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+• 28 percent through claims data – a diabetes diagnosis appeared only on claims data, but was not present in the patient’s EHR
+• 44 percent through labs and medications – for example, high HbA1c results that indicate diabetes or patients who have prescriptions to control the disease
+Identifying the entire diabetic population can help clinicians truly effect change. With the right visualization tools based on real-time data, clinicians can facilitate early intervention, address gaps in care and prevent disease progression.
+Going beyond identification: Trends and predictive medicine
+Understanding how patients have responded to treatment can help predict which patients are at greatest risk for developing retinopathy, stroke, heart disease or other complications from diabetes.
+READ MORE: EHR Natural Language Processing Flags Social Determinant Search Terms
+Using historical insight from 40 million records in real populations has helped us better understand pathogenesis of disease among different groups of people. If we can show positive patient results from 150,000 other diabetic patients with similar body mass index (BMI), or race or age, we can empower people with understanding and responsibility for their own health.
+When analytics and data are available and meaningful at the point of care, clinicians are in a better position to help patients improve outcomes. For example, with diabetic patients, primary care providers can identify compliance with bi-annual HbA1c tests ordered by other providers from alternative facilities to eliminate redundant testing, identify true gaps in care, and comply with value-based care funding initiatives.
+Once we have defined at-risk patients, we can begin to look go beyond traditional EHR data.   While complex social and environmental risk factors impact diabetes outcomes – this information is not necessarily in the health data, necessitating the addition of non-health data sources in order to create a more complete picture of health. 
+For example, counselling a patient on diet modification is unlikely to help if your patient has access only to fast-food delivery because they can’t walk, or resides in a “food desert” where fresh fruits and vegetables are unavailable. With targeted, informed interventions, patients can get treatment tailored to and relevant to their environments, which may include dietary advice, exercise programs or medication availability.
+It’s exciting to watch the industry move towards a holistic approach to integrated clinical care, made possible by informatics and interoperability among data sources, EHRs, devices, and social/environmental data.
+Looking to the future, precision medicine will revolutionize the way clinicians care for patients. Through extrapolating big data insights and predictive modelling, clinicians will be able to develop individualized patient care plans and optimize patient outcomes.
+Fatima Paruk, MD, MPH, is the Chief Medical Officer at Allscripts Analytics. She provides medical leadership to a world-class team to develop, design and deploy predictive models to improve health. She is a physician and public health specialist that has been extensively involved in health systems and global surgical initiatives. She has established injury surveillance systems in low-resource settings, worked to identify gaps in care and promote hospital quality improvement worldwide. In addition to her executive role, Fatima remains committed to disaster response and recently authored Kenya’s National EMS policy.
+Tagged Chronic Disease ManagementClinical AnalyticsPopulation Health ManagementPreventative Care
+
+

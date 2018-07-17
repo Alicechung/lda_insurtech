@@ -1,0 +1,32 @@
+Mayo Offers Patient Education through Epic MyChart, Wellpepper
+
+March 08, 2018
+
+By Jennifer Bresnick
+March 08, 2018 - Mayo Clinic is now offering its trusted patient education resources to Epic Systems customers through the enhanced MyChart mobile patient portal app and the Wellpepper patient engagement platform.
+Announced at HIMSS18 in Las Vegas, the two collaborations allow patients to view video content and care reminders related to their specific chronic conditions, enabling more comprehensive management and developing patient self-care competencies.
+“Mayo Clinic Care Plans deliver the most trusted content and guidance based on more than 150 years of medical practice,” says Steve Ommen, MD, a Mayo Clinic cardiologist who is medical director of Mayo Clinic Center for Connected Care.
+“Patients, health care providers, care managers and other caregivers can have confidence that the care plan, health information and patient education content from Mayo Clinic, and available through MyChart Virtual Care, is there to help them more actively engage in, and better manage, one’s health, improve outcomes, and potentially bend the cost curve in the process.”
+The partnership includes resources targeted to a number of chronic conditions, including asthma, diabetes, COPD, and congestive heart failure.  Patients undergoing knee and hip replacements will also be able to engage with content and support as they recover.
+READ MORE: CMS Announces Patient-Centered Data Sharing Initiative
+“Integrating Mayo Clinic Care Plans into MyChart Virtual Care will help simplify and improve patient engagement, while helping providers and caregivers better manage patient health and well-being,” says Carl Dvorak, President of Epic Systems.
+“We look forward to continued innovation with Mayo Clinic on this and other collaborations.”
+Access to the educational resources is integrated into the MyChart Virtual Care features of the mobile app, Sean Bina, VP of Access Applications at Epic told HealthITAnalytics.com at HIMSS18.
+“Mayo offers the best patient education in the world, which I can access in video format if I’m a COPD patient, for example,” he said.  “And I can document that I viewed and understood it, which is a very important piece of the care management puzzle.”
+“Not only do my clinical team providers know that they’re giving me the education - now they know that I have actually reviewed it, I’m engaged in what I’m looking at, and I am confident enough with what I learned to say that I understand it.”
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+In addition to reviewing video content aimed at explaining common symptoms or offering tips on self-management, patients can complete short questionnaires related to their health experiences to check if symptoms are worsening or improving.
+"Based on how I answer these questions about my daily function or my experience with one of my diagnosed conditions, there’s a decision tree to analyze the information I’ve provided,” Bina explained.  
+“As a result of those answers, my patient self-care to-do list might change and I’ll get a notification saying I should take specific steps.  That content is coming from Mayo. This is can trigger alerts to my clinicians that they need to call me or I need to change a therapy, or even if I should call 911.”
+The ability to dynamically alter the care plan allows both patients and providers to be more responsive around chronic care management and engage in better experiences on both sides of the equation.
+As the healthcare industry shifts more and more towards a value-based, consumer-driven ecosystem, providers need to start investing in care strategies that prioritize the patient experiences, said Bina.
+READ MORE: Epic App Orchard Encourages Developers to Use FHIR, Open APIs
+“One of the things we hear most is that they’re making a drive towards consumerism and trying to understand what that means for their organizations,” he said.  “To do that, they really need to provide a lot of options for patients so they can become more engaged.”
+“That means doing a little more than just offering online scheduling, bill pay, or medication refills.  Creating a trusted and effective way for patients to do basic self-triage, video visits, and engage more comprehensively with their own information is going to be key for achieving the goals of population health and value-based care.”
+The Mayo Clinic partnership with Wellpepper offers access to similar care planning tools for providers using any electronic health record.  Mayo Clinic Care Plan templates for several common conditions will be available through the Wellpepper Marketplace, said CEO Anne Weiler.
+"We are thrilled to launch the Wellpepper Marketplace starting with one of the leading academic medical centers in the world," said Weiler. "Our customers and their patients will benefit immensely from access to Mayo Clinic best practices. Analysis of patient experience and outcomes from these care plans will enable continual improvement and new insights to deliver better care."
+Sharing trusted and accessible patient education resources with Wellpepper consumers as well as within the Epic platform is a natural next step for Mayo, which has long set the standards of best practice across multiple clinical fields.
+"Wellpepper and Mayo Clinic share a continuous commitment to providing care that ultimately benefits patients," said Ommen. "We look forward to the opportunity to share our best practices with other health systems through the Wellpepper platform."
+Tagged Chronic Disease ManagementEpic MyChartEpic SystemsHIMSS18Patient EngagementPatient Engagement AppsPopulation Health Management
+
+

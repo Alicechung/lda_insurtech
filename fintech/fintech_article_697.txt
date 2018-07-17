@@ -1,0 +1,39 @@
+Blockchain in Trade Finance
+
+July 24, 2017
+
+Adding intermediaries into an equation or chain rarely translates into efficiency, but leads to costs, complexities and increases the risk of errors and missteps. The vast transactional chains in the financial industry serve the livelihoods of many providers across the entire ecosystem, yet it does not always benefit the end users and their commercials.
+
+ Core Challenges in Trade Finance
+
+ Trade finance is a notoriously cumbersome process dominated by intermediaries and it is an area of financial services which has made little progress in terms of automation. Settlement can take weeks depending on the jurisdictions involved in the supply chain, and the process is notoriously opaque. Instructions for remittances and verifications and approvals are often authorised with limited visibility into the transactional chain, which can lead to oversights and duplications.
+
+ It is often contingent on unique rules and mechanics across different countries, at conflicting levels of development. Many of these processes involve a host of intermediaries including entities which lie outside of financial services such as customs agents, health and safety inspectors, and transport groups.
+
+ Analysis by the Organisation of Economic Co-operation and Development (OECD) estimated 15% of the overall value of traded goods comprised of hidden costs, much of it a result of manual processes. The OECD added this translated into losses of $100 billion per year. At a time when revenues are under significant pressure, this is a huge sum.
+
+ This lack of automation not only deters efficiency, but puts organisations at risk of fraud, or unwittingly failing to spot criminal transactions. In an era where banks and other corporates have been slapped with record fines for sanctions breaches or substandard anti-money laundering protections, trade finance is an area where vast improvements need to be made if regulators are to be kept at bay.
+
+ Criminals are increasingly sophisticated, and adept at forging documentation to facilitate money laundering activities. While banks and financial services have made inroads in other areas of fraud detection, trade finance is a laggard. Its operational flaws are shortcomings that urgently needs correcting, and it is something which Blockchain is increasingly playing a meaningful role in addressing.
+
+ Blockchain in Trade Finance
+
+ So how could Blockchain remedy some of the destabilising faults in trade financing? A report by the European Banking Association (EBA) acknowledged Blockchain could play a positive role in trade finance through automation, which would eliminate manual processes, duplication and other paper-trails. The real-time settlement and reporting characteristics of Blockchain would also hasten transactions in these complex supply chains, and scale down costs through digitisation.
+
+ Transparency and risk mitigation is key. Having a digitised record of trade financing transactions that cannot be tampered with, and one which is stored in real-time will help banks’ risk analytics across these complex networks. Payments and the transportation of goods could be more easily monitored through such a system. Automation will also reduce human error, and potentially facilitate standardised practices and processes across diverse markets.  The legal and administrative paperwork long associated with trade finance could be significantly reduced through the use of smart contracts.
+
+ Smart technology can also be deployed to identify fraudulent or suspicious transactions throughout the chain, in what will help banks in their fight against money laundering or other criminal activities. Such tools will be vital given the underlying complexity in global supply chains and trade financing activities.
+
+ The technology is already being beta tested by a number of financial institutions. Deutsche Bank, HSBC, KBC, Natixis, Rabobank, Societe Generale and UniCredit are cooperating and helping to build a Blockchain platform – “Digital Trade Chain” – to streamline trade finance processes. A statement from the consortium said the platform would simplify trade finance processes for SMEs by addressing the challenge of managing, tracking and securing domestic and international trade transactions.
+
+ The statement acknowledged large corporates often utilised documentary credits to reduce business risks, but this was not always suitable for SMEs or companies that prefer open account solutions. The platform, it said, would accelerate the order-to-settlement process and curb administrative paperwork, and provide total transparency. Other providers are experimenting with similar Blockchain concepts.
+
+ However, Blockchain technology’s applicability in trade financing is several years in the making. While there have been various rounds of beta testing, these have been low key. Trade financing is an activity that often involves multiple counterparties in far flung parts of the world, and a common Blockchain standard and platform enabling total interoperability must be created before its use cases can become widespread.
+
+ Reaching an agreement on any industry consortia group that satisfies all stakeholders is never an easy process. Regulators in certain jurisdictions may also be hostile, and this too will need to be resolved. Fortunately, major economies have seen significant regulatory support for Blockchain concepts, but this cannot be taken for granted in all markets. Blockchain technology is likely to become more mainstream in trade finance, but industry participants must be patient and not rush its development.
+
+ Adam Leonard, BlockEx CEO
+
+  
+
+

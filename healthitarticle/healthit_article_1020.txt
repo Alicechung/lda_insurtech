@@ -1,0 +1,42 @@
+Healthcare Big Data Analytics Partnerships Make News at HIMSS16
+
+March 04, 2016
+
+By Jennifer Bresnick
+March 04, 2016 - As the healthcare industry buckles down to face the eventual end of meaningful use, the transition to alternative payment models, and the “silver tsunami” of aging patients in need of chronic disease care, the vendor community is broadcasting a new message loud and clear: we’re all in this together.
+Instead of continuing to view big data as a competitive advantage by hoarding patient information behind impenetrable proprietary walls, developers are heeding the cries of frustrated customers and placing interoperability, collaboration, and new partnerships at the forefront of their efforts.
+At the 2016 HIMSS Conference and Exhibition, attendees were all abuzz at the news of a broad industry interoperability agreement between some of the largest EHR vendors, providers, and other stakeholders in the country.  
+HHS has hailed the commitment to data sharing and standards adoption as a major step forward for patient-centered care and quality improvements.
+But the biggest names weren’t the only ones to make big news. 
+READ MORE: Natural Language Processing, AI to Foster Clinical Decision Tools
+Many additional vendor announcements focused on ways to bring the industry together around population health management, clinical decision support, and big data analytics as they seek to equip providers with the tools they need to navigate a new healthcare reality.
+As the dust settles and more than 40,000 healthcare experts make their way home from Las Vegas, HealthITAnalytics.com brings you a roundup of just a few of the press releases detailing how stakeholders are helping to cultivate a collaborative big data analytics ecosystem to enhance patient care across vendor lines.
+Healthcare Services Platform Consortium announces new members
+The Healthcare Services Platform Consortium (HSPC), a provider-led interoperability effort focused on developing an open Service Oriented Architecture (SOA) platform for healthcare, announced new additions to its membership rolls. 
+The Department of Veterans Affairs (VA), Open Source Electronic Health Record Alliance (OSEHRA), Cognitive Medical Systems, VigiLanz, Veratics, MedRed, InterSystems, AEGIS.net, American College of Obstetrics and Gynecology (ACOG) and The Center for Healthcare Transparency, as well as new individual members, have joined the organization at the beginning of 2016.
+READ MORE: Clinical Decision Support May Boost ID of Chronic Kidney Disease
+Stan Huff, MD, Chairman of the HSPC Board, said, “To have a healthcare juggernaut such as the VA join HSPC is indicative of how important this movement is. We are looking for them and all of our new members to have significant contributions to enhancing patient care through the consortium. I am also very excited to welcome our new members as they will provide excellent leadership to the growth of HSPC.”
+Qlik and Nordic partner to enhance Epic Systems use with big data analytics
+Qlik, a provider of visual analytics technologies, and Nordic, a healthcare services company with expertise in Epic Systems technologies, are partnering to bring actionable big data analytics insights to Epic customers. 
+“The partnership between Nordic and Qlik brings together two industry leaders in the healthcare space, enabling mutual clients to dive deeper into their organizational data and uncover insights to inform decision making,” said Qlik Vice President of Healthcare Sales in North America, Brad Copeland.
+“Together, Qlik and Nordic bring an unmatched expertise in healthcare and Epic environments, along with top-notch quality services and software, enabling healthcare customers to truly become agile as they face unprecedented change.”
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+Philips, Mayo Clinic bring big data to the ICU
+After a multi-year collaboration with the Mayo Clinic and Ambient Clinical Analytics, Royal Philips is bringing cloud-based clinical decision support to intensive care units with its new big data dashboard, the company announced this week.  Enhanced patient monitoring and more sophisticated tracking on quality metrics will help clinicians analyze complex patient data in a speedy and efficient way.
+"The amount of patient data available in the Intensive Care Units is incredible, but it also places a substantial burden on the acting clinician to make quick and effective patient care decisions while making sense of mountains of information," said Vitaly Herasevich, MD, PhD, of Mayo Clinic, one of the co-inventors of the technology.
+"This new solution is formatted as a real-time dashboard that organizes information the way a clinician processes data in a real-life patient scenario to facilitate decision making. This reduces stress, saves time, supports workflow and enhances the care process while allowing multiple members of a patient's care team to be on the same page."
+Infosys, Microsoft partner for better clinical decision support
+Better population health management, increased customer retention, and improved operational efficiencies are the goals of a partnership between Infosys and Microsoft Corporation, the two companies announced at HIMSS16. 
+By integrating Infosys big data technologies with Microsoft’s Cortana Analytics suite, the partners hope to enable providers to gain deeper insight into structured and unstructured data sets.
+"This relationship will provide managed care organizations with the tools to improve clinical and operational effectiveness at a reasonable cost. It will also provide healthcare call centers with contextualized customer support and self-service options to both consumers and healthcare workers," said Manish Tandon, Executive Vice President, Global Head, Healthcare, Insurance and Life Sciences.
+"Cortana Analytics is a fully managed big data and advanced analytics suite that enables customers to transform data into intelligent action," added Joseph Sirosh, Corporate Vice President of the Data Group, Microsoft. "The technology we have today at Microsoft, and the deep collaboration with Infosys, will enable novel healthcare solutions that make smarter decisions, improve customer service, and uncover new possibilities to transform patient care faster than ever before."
+GE Health Cloud brings new app partners on board to connect imaging systems
+Imaging analytics is a complex segment of the big data ecosystem, and GE Healthcare is building up a broad partnership to unlock its potential for cardiologists, radiologists, and surgeons.
+The GE Health Cloud has brought aboard several new members, the company announced at HIMSS16, as it pursues its goal of connecting more than two million imaging machines worldwide.
+“The GE Health Cloud will host powerful analytical tools and services that turn mountains of data into actionable insights, which help drive better outcomes for healthcare providers,” said John Flannery, President and CEO, GE Healthcare. “This is the future of healthcare: software developers, hospitals, academic institutions and manufacturers joining together to improve patient care and enable an industry-wide transformation to value-based care – and we are honored to showcase real progress here at HIMSS.”
+The new partners will tackle technical problems such as interoperability and information sharing, machine learning, and data visualization.
+“Leveraging the GE Health Cloud, we look forward to developing next generation solutions that utilize our proprietary quantification and visualization algorithms together with deep learning to advance diagnostic imaging capabilities in neurology, oncology and many other areas of healthcare,” said Fabien Beckers, PhD, Founder and CEO of Arterys, one of the new participants.
+The app-based ecosystem of tools will be available to providers on a subscription basis, GE said.
+Tagged Clinical AnalyticsClinical Decision SupportHIMSS16InteroperabilityPopulation Health Management
+
+

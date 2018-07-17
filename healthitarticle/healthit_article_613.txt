@@ -1,0 +1,30 @@
+UCSF, Intel Partner for Healthcare AI, Deep Learning Project
+
+January 19, 2017
+
+By Jennifer Bresnick
+January 19, 2017 - The University of California San Francisco and Intel Corporation have partnered to create a deep learning analytics platform that will deliver clinical decision support and predictive analytics capabilities to its users.
+The platform seeks to harness the power of innovative big data sources, including information from genomic sequencing, the Internet of Things, and medical devices.
+“While artificial intelligence and machine learning have been integrated into our everyday lives, our ability to use them in healthcare is a relatively new phenomenon,” said Michael Blum, MD, associate vice chancellor for informatics, director of the Center for Digital Health Innovation (CDHI) and professor of medicine at UCSF.
+Dig Deeper
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Microsoft Takes on Blindness, Eye Care with AI, Machine Learning
+Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+“Now that we have ‘digitized’ healthcare, we can begin utilizing the same technologies that have made the driverless car and virtual assistants possible and bring them to bear on vexing healthcare challenges such as predicting health risks, preventing hospital readmissions, analyzing complex medical images and more.”
+Deep learning is a branch of machine learning that takes its cues from the structure of the human brain, employing algorithmically generated “neurons” to process input in a layered, distributed manner.
+“Deep learning environments are capable of rapidly analyzing and predicting patient trajectories utilizing vast amounts of multi-dimensional data,” Blum explained.
+“By integrating deep learning capabilities into the care delivered to critically injured patients, providers will have access to real-time decision support that will enable timely decision making in an environment where seconds are the difference between life and death.”
+UCSF and Intel will develop a scalable “information commons” to integrate and store the vast volumes of data required to drive the artificial intelligence platform.  Intel technology will support the information management, data curation, algorithm training, and testing processes required to validate results for use in the clinical environment.
+“We expect these technologies, combined with the clinical and scientific knowledge of UCSF, to be made accessible through the cloud to drive the transformation of health and healthcare,” said Blum.   
+CDHI has been moving quickly to bring this vision to life.  In November of 2016, the organization announced a partnership with GE Healthcare to apply similar deep learning principles to imaging analytics.  
+Under that agreement, Blum and CDHI will work with GE Healthcare to create a “library” of deep learning algorithms that can detect abnormal imaging scans, allowing clinicians to act quickly and confidently when treating trauma patients.
+“This partnership is about the future of healthcare – technology, analytics and cloud computing power all combining to enable clinicians to make faster decisions for better patient outcomes,” said John Flannery, President and CEO of GE Healthcare.
+“By working hand-in-hand with a leading academic medical center like UCSF to design, build and verify new deep learning tools, we are defining how digital health solutions can be seamlessly integrated into care.”
+GE Healthcare and Intel join a growing list of mainstay technology giants attracted by the largely untapped big data analytics opportunities in the healthcare sector. 
+Companies including Microsoft, SAP, Dell Services, IBM, and Google have all invested heavily in healthcare units or spin-offs that aim to apply emerging machine learning strategies to complex problems such as imaging analytics, cancer research, and clinical decision support.
+Intel views its newest partnership as a way to develop the deep learning competencies required scale up its abilities in the artificial intelligence market while scooping up a portion of the multi-billion-dollar machine learning marketplace.
+“This collaboration between Intel and UCSF will accelerate the development of deep learning algorithms that have great potential to benefit patients,” said Kay Eron, general manager of health and life sciences in Intel’s Data Center Group.
+“Combining the medical science and computer science expertise across our organizations will enable us to more effectively tackle barriers in directing the latest technologies toward critical needs in healthcare.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportMachine LearningPredictive Analytics
+
+

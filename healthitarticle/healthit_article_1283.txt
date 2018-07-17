@@ -1,0 +1,23 @@
+EHR Clinical Decision Support Weighs Benefit, Harm of Screenings
+
+August 31, 2015
+
+By Jennifer Bresnick
+August 31, 2015 - Electronic health records may not be the documentation tool of choice for many unhappy clinicians, but the developers of clinical decision support technologies hope to change their opinions by creating proactive, data-driven features that validate best practices and improve patient safety.  
+In a small study designed to test the role of EHR clinical decision support in population health management, researchers from Yale University, the Department of Veterans Affairs, and the New York University School of Medicine created a CDS algorithm that weighs the benefits and risks of colorectal cancer screenings for frail patients to help providers choose a personalized course of action.
+As one of the leading causes of cancer deaths in the United States, colorectal cancer presents an enormous challenge for providers, says the study published this month in the American Journal of Managed Care.  In 2013, approximately one-third of adults between the ages of 50 and 75 had not received recommended screenings, which include fecal occult blood tests and colonoscopies.  
+While colorectal cancer screenings are highly effective at catching the disease during its early stages, when prognoses are more positive, colonoscopy comes with certain risks that may not be appropriate for patients in delicate health.  
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+GE, Roche Partner for Big Data Analytics, Precision Medicine Platform
+Transparency is Key for Clinical Decision Support, Machine Learning Tools
+Even though clinical guidelines suggest that providers take individual patient health status into account when considering testing, “in practice, colorectal cancer screening is as common among those with severe comorbidities as among healthy persons,” the authors write, because there is no clear methodology for applying this general notion in the primary care setting.
+To help providers accurately assess the benefits and risks of ordering colonoscopies for this subset of patients, the researchers created a clinical decision support algorithm and compared its results to the recommendations of human primary care providers.
+The study of 24 patients spread between 22 PCPs was designed around a “payoff time” framework, which aimed to pinpoint the moment at which the benefits of colorectal cancer screening outweighed the risks for frail patients.  Using previously published research to estimate the predicted life expectancy for similar patients, the researchers added eighteen common risk factors to the algorithm to develop a recommendation based on a personalized risk score.
+The researchers adapted the clinical reminder system used by the VA to include the colorectal cancer screening score. The algorithm modified the EHR reminder for a screening when it detected that the patient’s life expectancy was shorter than the calculated “payoff time,” giving clinicians the option to electronically record patient frailty as the reason why the screening was not performed.
+While the study was limited to just a few patients, its results may have wider implications for EHR clinical decision support.  The algorithm closely mirrored the decisions of human clinicians: the CDS tool and the PCPs both identified the same six patients as candidates for a screening; the tool actively recommended against screening for four patients, and the PCPs agreed on three of those cases.
+“PCPs who had patients enrolled in the intervention phase indicated interest in having payoff time information for all patients eligible for CRC screening,” the study says, which may provide clinical decision support developers with a way to convince skeptical EHR users that CDS tools can deliver benefits for patient care.  
+As patient safety becomes a bigger financial concern, as well as an ongoing clinical struggle, the use of EHR clinical decision support to provide validation and encourage adherence to quality and safety guidelines may help providers avoid financial penalties while bolstering their tailored population health management programs.
+Tagged Analytics InfrastructureClinical AnalyticsClinical Decision SupportPopulation Health Management
+
+

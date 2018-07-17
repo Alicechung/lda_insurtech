@@ -1,0 +1,28 @@
+Wearable Devices, Machine Learning Detect Signs of Stroke
+
+April 19, 2017
+
+By Jennifer Bresnick
+April 19, 2017 - A combination of wearable devices and a machine learning algorithm to interpret a common test for signs of stroke could provide an accurate and reliable way to identify patients with motor pathway damage, finds a study published this week in the Journal of Medical Internet Research.
+The stroke classifiers were up to 92 percent accurate for detecting stroke.
+Researchers from the Yonsei University College of Medicine in South Korea asked 16 stroke patients and 10 healthy patients to undergo the pronator drift test (PDT), a simple exam that flags upper arm weakness after a stroke.  Such weakness indicates damage to the patient’s motor skills pathways.
+Dig Deeper
+Machine Learning, NLP Help with Physician Skill Benchmarking
+AI, Machine Learning as a Service Set to Overhaul Healthcare
+Top 4 Machine Learning Use Cases for Healthcare Providers
+During the test, patients are asked to close their eyes and hold their arms outstretched with their palms upward.  A clinician then measures the movement of each arm to determine the degree of weakness in the limb.
+Since time is of the essence when treating stroke, patients who complete the exam as quickly as possible are likely to receive appropriate care sooner. 
+Using machine learning to create a clinical decision support tool for providers can enhance the accuracy and reduce response time for patients, the study suggests.
+“To reduce hospital delay and efficiently dispatch patients in emergent medical services, integration of machine learning methods with mobile devices with sensors might be useful,” the authors hypothesized.
+“In addition, evaluation by neurologists may be delayed in busy emergency room. To overcome these limitations and improve patients’ care, a simple bedside tool and objectifying the results are important.”
+In the study, each patient was given an off-the-shelf wristband that contained a Bluetooth-connected wearable device equipped with an accelerometer.  The accelerometer, a common feature in many fitness bands and even the average smartphone, can measure movement with a high degree of sensitivity.
+Participants were asked to hold the testing position for 20 seconds.  During that time, the algorithm extracted and analyzed key features of the accelerometer data that indicate whether or not a person is suffering from stroke symptoms.  The program then used a series of machine learning techniques to examine 17 groups of classification criteria from 121 datasets.
+The algorithms produced high levels of accuracy, sensitivity, and specificity when applied to the data.  Only two healthy patients were misclassified as stroke patients when using the random forest approach to data analysis.
+The study lends additional evidence to the idea that machine learning could quickly become a valuable tool for identifying subtle abnormalities in patients that may be difficult for human clinicians to spot. 
+Machine learning algorithms have produced highly accurate results when applied to questions of pathology, for example.  Research from Google shows that an algorithmic approach can identify metastasized breast cancer nearly as accurately as humans, while a separate study from Indiana University-Purdue University Indianapolis predicted remission rates for a type of leukemia with 100 percent accuracy.
+While the South Korean stroke study was small in scale and more research must be completed on the subject, the idea of using wearable devices and machine learning to diagnose and monitor stroke patients is a promising one. 
+In addition, the use of a widely available, non-specialized tool like a consumer-grade wearable device for stroke detection could result in a very low barrier to entry for clinicians and patients.  If developed into a patient-facing app, the tool could also be used to monitor ongoing rehabilitation progress, the study suggests, or for continually monitoring high-risk patients for signs that a stroke event is occurring.
+“Sensors and machine learning methods can reliably detect stroke signs and quantify proximal arm weakness,” the study concluded. “Our proposed solution will facilitate pervasive monitoring of stroke patients.”
+Tagged Clinical AnalyticsClinical Decision SupportMachine LearningWearable Devices
+
+

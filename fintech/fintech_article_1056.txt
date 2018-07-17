@@ -1,0 +1,27 @@
+Blockchain technology used to solve KYC issues for South American banking consortium
+
+October 21, 2016
+
+A key problem with managing KYC requirements is that customer data is held by a number of different financial institutions and on a number of different registries, with no discernible way of identifying a single source of truth. This data is kept private by each institution holding the data, whilst efficiently sharing specific items of customer data between institutions is challenging from both technical and governance perspectives. Governments have tried to solve this problem with national registries, as is the case in a number of LATAM countries. However, holding and distributing data from centralised and siloed databases incurs a number of problems.
+
+ Firstly, data stored centrally in a single location is a problem inherent to any database, where centralised stores of sensitive information are ideal targets for a malicious attack. Whilst there are sophisticated security systems in place to prevent hackers getting their hands on private information, if attacks do penetrate these defences the information stored within is not encrypted. This means that if a hacker persists in an attack long enough get past the security they will have full access to all the data within that database, which can then easily be copied or exported.
+
+ Secondly, as each institution maintains their own copy of KYC data, there are huge inefficiencies in maintaining a number of duplicate copies of the same data, not to mention the administrative burden of continuously reconciling data with other siloed data stores of the other institutions within the consortium. Data reconciliation of this kind incurs a huge administrative cost and slows down the speed of services for customers.
+
+ Thirdly, allowing access to only specific parts of a customer’s KYC profile in an automated way is difficult with current processes. As it stands today, requests for information must be manually processed, where the institution requesting the information must be verified as having the right permissions and the institution handing over the data must select the correct components of the data to share. Inherently this leads to either over-sharing or under-sharing information and is subject to human error.
+
+ Applied Blockchain, a blockchain consultancy and distributed application development firm, has been working with one of the largest commercial banks in South America to develop a KYC solution that solves each of these problems using distributed ledger (blockchain) technology and smart contracts. The application, currently in development, brings together a number of banks within the same group onto a private blockchain, where each of the member banks and the national registry office share an identical copy of the same KYC information. If one member of the consortium updates a customer’s information, the registry updates across all other copies automatically, meaning that there is a single source of truth, rather than a number of imperfect duplicates.
+
+ As the data is shared and stored in multiple locations, each with their own bank-grade security protection, this model is far more secure than the centralised model as an attacker would need to compromise more than half of the consortium member systems simultaneously to achieve consensus and gain control. Moreover, even if an attacker where theoretically able to gain access to the majority of these super-secure systems, private customer data stored on the blockchain is encrypted and therefore useless for a hacker without the private keys needed to decrypt the data.
+
+ The final and perhaps most important component is the use of smart contracts to define different permissions for different consortium members. Smart contracts enable companies to translate actionable business logic into computational logic, where real world business agreements can be coded into a contract that self-executes when pre-defined conditions are met. In normal terms, smart contracts can be used to establish restrictions on which members of the group are allowed to make changes to certain pieces of data. In addition to this, Applied Blockchain have also developed a proprietary Privacy Framework, which allows smart contract data to be dynamically hidden from some parties and revealed to others.
+
+ For the case of the South American banking consortium, this means that consortium members can be automatically granted permission to access specific parts of customer KYC information based upon their membership status. For example, a regulator can see all information for all customers across the whole group, whilst a given bank may only have partial or no access to the same information for a specific selection of customers, depending on the rules outlined by the members of the consortium when setting up the private blockchain.
+
+ 
+
+ by Peter Bidewell, CMO, Applied Blockchain
+
+ 
+
+

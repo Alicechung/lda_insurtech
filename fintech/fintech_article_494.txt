@@ -1,0 +1,15 @@
+EON testnet was successfully updated
+
+November 21, 2017
+
+Exscudo is happy to announce the beginning of Stage One of EON blockchain testing! Testnet is the early version of EON, flexible new generation blockchain created by Exscudo.
+
+ When EON blockchain testnet was launched on October,4 the functionality available for the public testing was limited. Only the peers run by Exscudo developers were accepted by the net. Users could launch the peer, make transactions but the blocks they generated did not enter the net. So basically the functionality available for users to test was limited mainly to transactions testing. At the Stage One the following features were added:
+
+ “Scaling down” is a method of blockchain archivation used in EON blockchain. Due to this scheme users do not have to download all the blocks from the first one to run the node, but at the same time can easily access all the historic data on a remote archival node.
+
+ Enabling users’ peers to participate in block generation means they will now be accepted by the net and have an extended functionality. Users can update their peers using the source code published on Github by Exscudo team: https://github.com/EonTechnology/server
+
+ Peer map enabling everyone to monitor EON blockchain testnet in real time was already launched earlier. After the update they can not only could see Exscudo developers’ peers, but also track their own nodes.
+
+

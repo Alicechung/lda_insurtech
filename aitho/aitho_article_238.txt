@@ -1,0 +1,31 @@
+Vade Secure Launches AI-Based Email Security Add-On For Office 365
+
+22 Jun 2018
+
+Solution Delivers Best-In-Class Protection Against Phishing, Spear Phishing And Malware; Provides Microsoft Partners With A Value-Added, High-Margin Solution for Office 365 Clients
+Vade Secure, the global leader in predictive email defense, announced a new offering for Office 365 customers looking to enhance protection against advanced phishing, spear phishing, and malware attacks. Vade Secure for Office 365 is the only email security solution that’s fully integrated into Office 365, offering a native user experience and best-in-class filtering accuracy powered by artificial intelligence.
+Value-Added Cloud Service for Microsoft Partners and MSPs
+Vade Secure for Office 365 is closely aligned with Microsoft’s partner-first, cloud-first strategy. Built from the ground up with a cloud-native, API-based architecture, the new offering natively integrates with Office 365 and runs on Microsoft Azure, providing Microsoft Partners, Cloud Solution Providers (CSPs), and Managed Service Providers (MSPs) with a complementary, high-margin solution for their Office 365 customers.
+Nabil Chebbi
+“As one of the largest global Microsoft CSPs, Crayon is at the forefront of helping clients realize the benefits of Microsoft Office 365. At the same time, we recognize that Office 365’s dominant market share has made it a popular target for cybercriminals,” said Nabil Chebbi, Vice President Cloud Sales and Marketing Enablement, Crayon Group. “We’re impressed with Vade Secure’s track record of blocking advanced threats, and we’re excited to add their solution for Office 365 to our portfolio so that we can offer our clients an easy, transparent, and effective way to enhance their email protection.”
+Read More: Google And AI Predictions: When Am I Dying?
+Fully API-Based for a Native Office 365 User Experience
+Gartner estimates that by 2020, 50 percent of Office 365 clients will use third-party security solutions. Many traditional email security products are based on legacy gateway architectures that render certain Office 365 security features ineffective, but Vade Secure’s new, API-based solution integrates seamlessly with Office 365, allowing organizations to augment native Office 365 security features, rather than displace them.
+Specific benefits of Vade Secure’s API-based architecture include:
+Ease of deployment: With a few clicks, admins can authorize Vade Secure to access their email flow and configure their filtering policies—no MX record changes required.
+Native user experience: The solution is fully transparent, allowing end users to continue using the familiar Office 365 interface, without a separate quarantine.
+Insider threat protection: Vade Secure scans internal messages sent between employees to protect against attacks originating within the organization.
+Predictive Defense Powered by Artificial Intelligence
+Vade Secure for Office 365 blocks advanced attacks from the first email using machine learning models that perform real-time behavioral analysis of the entire email, including any URLs and attachments. Vade Secure leverages data from more than 500 million inboxes around the world to feed its machine learning models and ensure a best-in-class catch rate.
+Read More: Interview With Gabby Nizri, CEO And Co-Founder, Ayehu
+Specific AI and machine learning benefits include:
+Anti-phishing: Vade Secure crawls suspicious URLs and pages in real time, following any redirections to determine whether the final page is fraudulent. The solution performs this analysis both when the message is received and any time a user clicks.
+Anti-spear phishing: Vade Secure builds an anonymous profile that establishes employees’ normal communication patterns. Upon detecting spoofing attempts, a fully customizable banner is displayed within the email alerting the user.
+Anti-malware and ransomware: Going beyond simply scanning attachments, machine learning algorithms perform a comprehensive analysis of the origin, content, and context of emails and their attachments to block unknown, polymorphic malware.
+Adrien Gendre
+“Hackers are increasingly targeting Office 365 users with email-based attacks as an entry point to exploit data, files, and contacts from other Office 365 apps,” said Adrien Gendre, Chief Solution Architect, Vade Secure. “While native Office 365 security catches most spam and known threats, many organizations are strengthening their defenses with a layered approach. Vade Secure for Office 365 complements tools like Exchange Online Protection, leveraging artificial intelligence to block advanced phishing, spear phishing, and malware attacks.”
+Experience the Power of Vade Secure for Office 365 at Microsoft Inspire
+Vade Secure for Office 365 will be on display at Microsoft Inspire, which will take place July 15-19, 2018 in Las Vegas, NV.Microsoft partners are encouraged to stop by booth #1729 to see a demonstration of the new solution, as well as learn about the benefits of joining the Vade Secure Partner Program.
+Read More: EY And Microsoft Launch Blockchain Solution For Content Rights And Royalties Management
+
+

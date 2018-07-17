@@ -1,0 +1,19 @@
+ONC releases EHR patient safety guides and tools
+
+January 30, 2014
+
+By Jennifer Bresnick
+January 30, 2014 - While many population health management tools are intended to help keep patients out of the hospital, it’s impossible to avoid all inpatient services.  For those people who do spend some time admitted to the ward, patient safety is a key area of concern.  Poorly documented medication regimens, lax monitoring of condition changes, and a lack of clear communication between members of the care team or clinicians and the patient herself can heighten the risk of adverse events or death.
+To help providers use their technology to prevent such situations rather than cause them, the Office of the National Coordinator has released a series of guides and tools as part of the Health IT Patient Safety Action and Surveillance Plan.
+The Safety Assurance Factors for EHR Resilience (SAFER) Guides include checklists and planning tools covering the spectrum of patient care covered by health IT.  The foundational guides, which add to resources developed by the Agency for Healthcare Research and Quality (AHRQ), include self-assessments for systems such as CPOE and clinical decision support, as well as addressing workflow and organizational culture issues that may negatively affect procedures.  The Health IT Patient Safety Plan was released in July 2013 to help providers understand and mitigate the risks involved in using technology during treatment.
+“A basic premise of the Health IT Safety Plan is that all stakeholders have a shared responsibility to make sure that health IT is safely implemented and that it is used to improve patient safety and care,” said Jacob Reider, MD, chief medical officer at ONC. “The SAFER Guides combine the latest applied knowledge of health IT safety with practical tools that will help providers—working closely with EHR developers, diagnostic service providers, and others—effectively assess and optimize the safety and safe use of EHR technology within their organizations.”
+Dig Deeper
+Will Clinical Decision Support, Health IT Cut Diagnostic Errors?
+CDC Focuses on Patient Safety with Expanded Sepsis Education
+Genomics, Clinical Decision Support Combo Cuts ED Visits by 42%
+The clinical process guides cover issues like patient identification and clinician communication, as well as warning providers about the impact of incompletely implemented systems or poorly thought-out workflows. “ Substantial evidence suggests that well-designed decision support not only enhances the quality of care, but directly improves patient safety by decreasing common errors and preventing omissions or missed opportunities that result in patient harm,” the guide states. “In spite of this, many EHRs do not have robust or reliable decision support features, and poorly implemented IT systems have been shown to introduce errors that adversely affect care.”
+“Collaboration between clinicians and staff members while completing the self-assessment in this guide will enable an accurate snapshot of the organization’s CPOE and CDS status (in terms of safety), and even more importantly, should lead to a consensus about the organization’s future path to optimize EHR-related safety and quality.”
+“With the release of these guides, stakeholders now have ready access to additional evidence-based knowledge and practical tools to optimize EHR safety,” said Jon White, MD, director of AHRQ’s Health IT portfolio.  “Consistent with the Health IT Safety Plan, health care providers and those who support them will use these guides to develop a culture of safety, shared responsibility, and continuous improvement around health IT.”
+Tagged Analytics InfrastructureClinical Decision SupportHospital QualityPatient CarePatient SafetyQuality Of Care
+
+

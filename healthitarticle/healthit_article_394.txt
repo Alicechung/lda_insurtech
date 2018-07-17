@@ -1,0 +1,66 @@
+How Big Data Analytics Underpins Every Healthcare Trend
+
+July 31, 2017
+
+By Jennifer Bresnick
+July 31, 2017 - While the concept of leveraging big data analytics has quickly moved from cutting-edge novelty to fundamental competency for healthcare organizations, many providers still struggle to turn information overload into actionable insight.
+The challenges of working with big data are many.  From siloes and interoperability woes to security, staffing, and workflow integration, creating a positive impact with data analytics can seem like a very frustrating proposition for healthcare providers.
+Yet the rewards of persistence are significant, especially for organizations struggling to remain competitive in an uncertain financial environment. 
+Using big data to stay on top of the latest trends in clinical care, reimbursement models, and population health management could be the difference between closing down a facility and experiencing record growth.
+“By leveraging big data and scientific advancements while maintaining the important doctor-patient bond, we believe we can create a health system that will go beyond curing disease after the fact to preventing disease before it strikes by focusing on health and wellness,” writes Lloyd B. Minor, MD, Dean of the Stanford School of Medicine, in a new brief exploring the big data revolution.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+“Whether it is health wearables or on-demand testing, better hospital software or algorithms capable of catching disease more effectively, rapid change is taking place because of increased access to big data and advanced data analytics.”
+As the healthcare industry evolves and brings big data closer to the core of its clinical, financial, and administrative operations, providers who have a strong understanding of how data fuels the various moving parts of the care continuum will be better equipped to leverage analytics for their own – and their patients’ – benefits.
+How is big data altering the healthcare landscape, and how can healthcare providers stay on top of the latest breakthroughs in applying advanced analytics to their business intelligence and clinical care goals?
+RESEARCH AND PRECISION MEDICINE
+Big data has meant massive advances in the realms of precision medicine and clinical research.  Oncology, neurology, cardiology, and other specialties have seen lightning-fast progress towards personalized therapies, more accurate diagnostics, and collaborative clinical decision support tools that make it easier to get ahead of deadly diseases.
+Next-generation genomic sequencing has changed the game for tumor patients, while speedier drug discovery and more detailed information on socioeconomic and lifestyle factors have opened up new pathways for treating complex or rare diseases.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“Experts are using new sources to structure clinical trials more efficiently, reducing the cost and length of time needed to conduct medical research,” the report points out. “With advanced analytics and accessible databases, researchers seeking participants for clinical trials can now harness the power of data to identify patients with specific conditions and the most effective sites for recruiting.”
+Big data biobanks, such as the Million Veterans Program, the “All of Us” cohort run by the National Institutes of Health, and private initiatives from providers such as Geisinger and Kaiser Permanente are making it possible to analyze patient data at scale, giving researchers unprecedented opportunities to dive into the genetic roots of disease.
+Source: Stanford University School of Medicine
+Partnerships and collaborations are an important feature of the precision medicine landscape, allowing research institutions to access large volumes of data from thousands or millions of patients at a time.   
+In January, the American Association for Cancer Research and a group of eight international research organizations released more than 19,000 de-identified genomic records covering 59 types of common cancers to accelerate investigations into personalized therapies.
+“Only by working together will information flow freely and patients benefit rapidly,” said Charles L. Sawyers, MD, FAACR, AACR.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+The development of a collaborative, open, and interoperable research infrastructure will be key for continuing the early positive progress of the research community, Stanford adds.
+“Experts foresee a loop of data generation with two potential outcomes,” the report explains. “A closed loop process is already taking place today, in which information passes through a two-way channel between the patient and the company capturing the data. This system gives the patient information about their health while simultaneously affording the company data to analyze.”
+“In the future, experts aspire to an open loop system that allows the data generated to feed directly into medical research and fuel new discoveries. With the potential to replace many studies typically conducted in labs, big data will be positioned to revolutionize the process of medical research as we know it.”
+PATIENT EXPERIENCES AND INTERACTIONS
+Big data is already a standard feature of daily life for consumers outside of the clinic, especially when it comes to retail and social media. 
+Consumers have developed an expectation that interactions with service providers are tailored to their individual needs and desires, and have become largely comfortable with the idea that their past actions can be used to predict their future wants.
+Healthcare has lagged behind somewhat in its ability to create a responsible, predictive patient experience, but the industry is quickly catching up to its peers in other sectors as the financial incentive for delivering preventive, proactive care increase.
+“Industry experts say medical decisions are now being based on more robust statistics. For a growing number of people, there is now sufficient longitudinal data from their entire lives, which allows medical experts to answer questions about a patient’s health based on more than just global or national statistical averages,” says the report.
+“In time, physicians will be able to identify benchmarks that are defined by a patient’s specific health history, as well as community health standards.”
+Patient-specific data is increasingly available through a new generation of devices and applications that collect information through wearables, home monitors, and smartphones. 
+This Internet of Things will eventually allow patients and providers to work together for more effective chronic disease management, deeper engagement, and more open communication.
+Source: Stanford University School of Medicine
+“Soon, medical centers, rather than tech and fitness companies, will become the de facto providers of wearables,” Stanford predicts. “In fact, a majority of people [participating in a 2016 PWC survey] already agree that they would be excited to experience wearable technology from a doctor (65 percent), from a hospital (62 percent) or a health insurance company (62 percent).
+This influx of personalized data will dramatically alter the patient experience and how consumers interact with their providers. 
+But in order to ensure those alterations are positive ones, the health IT vendor community must focus on developing electronic health record and patient engagement tools that reduce the burdens of data collection, access, and reporting.
+At the moment, clinicians spend about half their time on administration, data entry, and documentation and only 33 percent of the day face-to-face with patients, says the AMA, which is not an ideal ratio.
+While the industry is trending towards incorporating even more data assets into routine care for patients, especially those with chronic diseases, vendors must help providers address the technology issues that sap time and energy from the clinical workflow before big data can become a truly effective tool for improving the patient experience.
+PREDICTIVE ANALYTICS AND MACHINE LEARNING
+Part of enhancing the patient experience is ensuring that patients receive necessary care in a timely and convenient manner – and that they are able to access the support they need in between in-person clinic visits. 
+“Experts expect it won’t be long before health data allows doctors to build more accurate patient profiles and predictive models to more effectively anticipate, diagnose and treat disease,” says Stanford.
+“Another outcome of increased monitoring will be more data on healthy people (rather than exclusively on the sick) allowing for earlier detection of disease.”
+While the Internet of Things may soon help to alert providers to changes in habits, vitals, and even emotional wellbeing, healthcare organizations tend to rely on more readily available strategies today.
+The proactivity trend will also take root as predictive analytics tools become more accurate and accessible.
+The advent of machine learning and artificial intelligence is allowing for the development of more detailed risk profiles, easier detection of emerging health concerns, and more personalized treatments for acute conditions.
+“Algorithms with machine learning capabilities are proving as effective as or more effective than human diagnosticians, including cases such as spotting cancers in test results,” the report says. 
+Machine learning algorithms already approach the diagnostic skill of cardiology experts reading EKGs and pathologists identifying leukemia and breast cancer. 
+Integrating machine learning into diagnostic and care delivery processes is a top priority for most healthcare organizations. 
+One recent survey found that 84 percent of executives believe artificial intelligence will soon transform healthcare, while three-quarters think that the ability to access AI-driven decisions will be a competitive differentiator in the very near future.
+Predictive analytics enabled by machine learning may be among the industry’s buzziest trends, but providers will have to immediately start laying firm big data foundations for these tools if they wish to leverage them appropriately.
+“As data continues to define the health care space, physicians will be required to understand technology to properly take advantage of new tools at their disposal to make data analysis more useful,” cautions the Stanford brief.
+“As machine learning becomes a growing component of health care, specialists in data science, governance and IT infrastructure will become vital to the practice or health system.”
+Source: Stanford University School of Medicine
+Effective data management may not be the most exciting healthcare trend, but it will be one of the most important. 
+Strong data governance frameworks and clear guidelines for clinical documentation and reporting will allow organizations to harness their big data assets for machine learning tools and other analytics projects.
+Without an underlying strata of clean, complete, accurate, and trustworthy big data, organizations will struggle to take advantage of the movement towards data-driven personalization, precision medicine, tailored insights, and proactive patient care.
+“Maximizing the potential of data in health care will require two key components,” the report concludes. “First, it will require a data-literate workforce that can understand how to manage, analyze and interpret complex data. This will be especially critical as efforts to facilitate and manage interoperability continue.”
+“Secondly, organizations must make investments in infrastructure, analytical tools and data governance solutions. Today, organizations can collect vast amounts of data, but insights cannot be drawn if they lack the technical expertise to interpret it or proper tools to analyze it.”
+As the industry moves closer towards overcoming both of these challenges, patients and providers can anticipate continued breakthroughs in care quality, engagement, and personalized experiences that drive better outcome and a more efficient, cost-effective healthcare continuum.
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Big Data AnalyticsHealthcare Data GovernanceMachine LearningPopulation Health ManagementPrecision MedicinePredictive Analytics
+
+

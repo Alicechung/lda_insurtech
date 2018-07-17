@@ -1,0 +1,14 @@
+AppSheet Adds Intelligence To App Creation With Spec™, A Natural Language Interface For Anyone Building Apps For Work
+
+24 May 2018
+
+Spec asks the user to describe the app they want to build in plain-English phrases. This is an easy, fast way for anyone, technical or non-technical, to create powerful apps customized for their business needs.
+Today, AppSheet announced the availability of Spec, a new feature that uses artificial intelligence (AI) and natural language processing (NLP) to create an easy, fast way for anyone, technical or non-technical, to create powerful apps customized for their business needs.
+AppSheet is a fast-growing startup solving big, big problems. Millions of businesses have the need for custom apps, but don’t have the time or resources to hire app developers. With AppSheet, anyone in a company can create a customized app that fits exactly what they need. Over the last three years, more than 200,000 app creators have successfully used AppSheet to build apps without writing a single line of code.
+Read More: Trescon’s World Blockchain Summit To Touchdown In Frankfurt
+With the launch of Spec, AppSheet lowers the barrier to entry even further, providing an interface that’s friendly to technical and non-technical users alike. Spec asks the user to describe the app they want in simple English sentences. It combines NLP with data-driven learning to intuit what kind of app the user wants, and to build it interactively in real-time. To do so, Spec learns from other users creating similar apps as well as from historical data from the AppSheet platform. Because Spec works at the level of ideas rather than app artifacts, an app creator can rapidly conceptualize an app and see how it works before deciding to finalize the details and deploy it. As more people use Spec to build apps, it will learn from their use and add more intelligence to the app creation process.
+Praveen Seshadri
+“Traditionally, the world of app development has been walled off from business teams. The conventional wisdom is that you need to hire expensive developers and write a lot of code to build apps,” said Praveen Seshadri, CEO of AppSheet. “The reality is that we’ll never have enough trained developers to create all the apps that businesses need. And no-code platforms like AppSheet allow business users to create apps themselves without writing code. With the addition of Spec, the platform starts to understand the user instead of the user having to understand the platform. We have the potential to move so rapidly from ideas to apps. It is a real breakthrough.”
+Read More: James Rodriguez To Launch Cryptocurrency With SelfSell
+
+

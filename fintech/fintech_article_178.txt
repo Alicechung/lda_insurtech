@@ -1,0 +1,23 @@
+Tink Launches API Platform for Developers
+
+May 9, 2018
+
+The Swedish fintech introduces its developer platform, democratising access to financial data and helping third-party providers create next-generation products for customers.
+
+ Swedish fintech Tink launched their API platform, granting developers in companies of all sizes, across any sector, access to Tink’s technology. This will allow developers to use Tink’s Account Aggregation and Categorisation products via a self-serving platform, empowering them to quickly build and launch customer centric products for their end users. While PSD2 will be taking full effect in the next 18 months, Tink already aggregates beyond PSD2 payments data, allowing developers to access more than the data connected to payment accounts.
+
+ Tink lets developers access financial data from more than 300 banks in a single API, once the end user has given their consent for this data to be accessed. The developer platform will make it faster and easier for developers to experiment and launch new and innovative customer-facing products. The complexity of authentication, and the end user’s interaction with banks, is handled entirely by Tink – leaving developers to focus on utilising the data and building a superb user experience. 
+
+ The solution isn’t limited to fintechs, but can be used by developers across any sector who would benefit from accessing financial data to improve their products for end users.
+
+ While the initial launch will support banks in the Nordics, the platform will soon be rolled out across Europe and continuously expand with additional features and developer tools. Tink is already live with partners including SBAB, who has launched a ‘mortgage challenger’ by aggregating their consumers’ mortgage data via Tink, using information on current mortgage rates to offer them a better deal. 
+
+ Commenting on the launch, Fredrik Hedberg, CTO and co-founder at Tink, said: “At Tink, we have been trailblazing PSD2 since 2012. The ability to aggregate data is what has enabled Tink to grow into the business it is today. We know from experience that there are countless developers out there with brilliant ideas – but innovation has been held back by the lack of access to financial data. Businesses can now come to us and implement something new in just a day, instead of having to wait for banks to open their APIs in two years’ time. By democratising access to financial data, Tink is tearing down the barriers to innovation, and becoming the missing link that has stopped these ideas from becoming reality”.
+
+ Roni Bicér, founder and CEO of Kreditz says: “After we receive permission, we use Tink’s APIs to aggregate transaction data from our end user’s accounts. Our algorithms then use the data to build a real time credit score which can be used in P2P payments. It helps  sellers who want to know which potential buyer has a reliable credit history and can, for example, make payments on a rental property, or when buying a car. Tink’s API platform is super easy and user friendly; the possibilities that the APIs present us with are endless. With this technology available to developers, I expect to see a wealth of new user friendly products coming to market.”
+
+ About Tink
+
+ Founded in Stockholm in 2012, Tink provides easy-to-use APIs as building-blocks to create next-generation banking services. Its products include Account Aggregation, Payment Initiation, Personal Finance Management and Product Recommendations that are offered as a managed service. Tink can be used to develop standalone services or be integrated into existing banking applications. The company has 70 employees and its partners include SEB, ABN AMRO, BNP Paribas Fortis, Nordea, Klarna, Nordnet, Qliro, SBAB and Collector. Creades, Sunstone Ventures, SEB Ventures, Nordea, Nordnet and ABN AMRO Ventures have invested in Tink. In addition to its Enterprise offering, Tink has been live with its consumer app on the Swedish market since 2013, and gained over 500 000 users. The app allows users to connect all bank accounts and credit cards, providing a complete overview of their finances. Users can also make payments, open bank accounts, and get tailored recommendations for financial products on the market, enabling customers to make better financial choices.
+
+

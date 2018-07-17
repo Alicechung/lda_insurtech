@@ -1,0 +1,73 @@
+Top 10 Challenges of Big Data Analytics in Healthcare
+
+June 12, 2017
+
+By Jennifer Bresnick
+June 12, 2017 - Big data analytics is turning out to be one of the toughest undertakings in recent memory for the healthcare industry. 
+Providers who have barely come to grips with putting data into their electronic health records (EHR) are now being asked to pull actionable insights out of them – and apply those learnings to complicated initiatives that directly impact their reimbursement rates.
+For healthcare organizations that successfully integrate data-driven insights into their clinical and operational processes, the rewards can be huge. 
+Healthier patients, lower care costs, more visibility into performance, and higher staff and consumer satisfaction rates are among the many benefits of turning data assets into data insights.
+The road to meaningful healthcare analytics is a rocky one, however, filled with challenges and problems to solve.
+READ MORE: Understanding the Many V’s of Healthcare Big Data Analytics
+By its very nature, big data is complex and unwieldy, requiring provider organizations to take a close look at their approaches to collecting, storing, analyzing, and presenting their data to staff members, business partners, and patients.
+What are some of the top challenges organizations typically face when booting up a big data analytics program, and how can they overcome these issues to achieve their data-driven clinical and financial goals?
+CAPTURE
+All data comes from somewhere, but unfortunately for many healthcare providers, it doesn’t always come from somewhere with impeccable data governance habits.  Capturing data that is clean, complete, accurate, and formatted correctly for use in multiple systems is an ongoing battle for organizations, many of which aren’t on the winning side of the conflict.
+In one recent study at an ophthalmology clinic, EHR data matched patient-reported data in just 23.5 percent of records.  When patients reported having three or more eye health symptoms, their EHR data did not agree at all.
+Poor EHR usability, convoluted workflows, and an incomplete understanding of why big data is important to capture well can all contribute to quality issues that will plague data throughout its lifecycle.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+Providers can start to improve their data capture routines by prioritizing valuable data types for their specific projects, enlisting the data governance and integrity expertise of health information management professionals, and developing clinical documentation improvement programs that coach clinicians about how to ensure that data is useful for downstream analytics.
+CLEANING
+Healthcare providers are intimately familiar with the importance of cleanliness in the clinic and the operating room, but may not be quite as aware of how vital it is to cleanse their data, too. 
+Dirty data can quickly derail a big data analytics project, especially when bringing together disparate data sources that may record clinical or operational elements in slightly different formats.  Data cleaning – also known as cleansing or scrubbing – ensures that datasets are accurate, correct, consistent, relevant, and not corrupted in any way.
+While most data cleaning processes are still performed manually, some IT vendors do offer automated scrubbing tools that use logic rules to compare, contrast, and correct large datasets.  These tools are likely to become increasingly sophisticated and precise as machine learning techniques continue their rapid advance, reducing the time and expense required to ensure high levels of accuracy and integrity in healthcare data warehouses.
+STORAGE
+Front-line clinicians rarely think about where their data is being stored, but it’s a critical cost, security, and performance issue for the IT department.  As the volume of healthcare data grows exponentially, some providers are no longer able to manage the costs and impacts of on premise data centers. 
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+While many organizations are most comfortable with on premise data storage, which promises control over security, access, and up-time, an on-site server network can be expensive to scale, difficult to maintain, and prone to producing data siloes across different departments.
+Cloud storage is becoming an increasingly popular option as costs drop and reliability grows.  Close to 90 percent of healthcare organizations are using some sort of cloud-based health IT infrastructure, including storage and applications according to a 2016 survey. 
+The cloud offers nimble disaster recovery, lower up-front costs, and easier expansion – although organizations must be extremely careful about choosing partners that understand the importance of HIPAA and other healthcare-specific compliance and security issues.
+Many organizations end up with a hybrid approach to their data storage programs, which may be the most flexible and workable approach for providers with varying data access and storage needs.  When developing hybrid infrastructure, however, providers should be careful to ensure that disparate systems are able to communicate and share data with other segments of the organization when necessary.
+SECURITY
+Data security is the number one priority for healthcare organizations, especially in the wake of a rapid-fire series of high profile breaches, hackings, and ransomware episodes.  From phishing attacks to malware to laptops accidentally left in a cab, healthcare data is subject to a nearly infinite array of vulnerabilities.
+The HIPAA Security Rule includes a long list of technical safeguards for organizations storing protected health information (PHI), including transmission security, authentication protocols, and controls over access, integrity, and auditing.
+In practice, these safeguards translate into common-sense security procedures such as using up-to-date anti-virus software, setting up firewalls, encrypting sensitive data, and using multi-factor authentication. 
+But even the most tightly secured data center can be taken down by the fallibility of human staff members, who tend to prioritize convenience over lengthy software updates and complicated constraints on their access to data or software.
+Healthcare organizations must frequently remind their staff members of the critical nature of data security protocols and consistently review who has access to high-value data assets to prevent malicious parties from causing damage.
+STEWARDSHIP
+Healthcare data, especially on the clinical side, has a long shelf life.  In addition to being required to keep patient data accessible for at least six years, providers may wish to utilize de-identified datasets for research projects, which makes ongoing stewardship and curation an important concern.  Data may also be reused or reexamined for other purposes, such as quality measurement or performance benchmarking.
+Understanding when the data was created, by whom, and for what purpose – as well as who has previously used the data, why, how, and when – is important for researchers and data analysts.
+Developing complete, accurate, and up-to-date metadata is a key component of a successful data governance plan.  Metadata allows analysts to exactly replicate previous queries, which is vital for scientific studies and accurate benchmarking, and prevents the creation of “data dumpsters,” or isolated datasets that are limited in their usefulness.   
+Healthcare organizations should assign a data steward to handle the development and curation of meaningful metadata.  A data steward can ensure that all elements have standard definitions and formats, are documented appropriately from creation to deletion, and remain useful for the tasks at hand.
+QUERYING
+Robust metadata and strong stewardship protocols also make it easier for organizations to query their data and get the answers that they are expecting.  The ability to query data is foundational for reporting and analytics, but healthcare organizations must typically overcome a number of challenges before they can engage in meaningful analysis of their big data assets.
+Firstly, they must overcome data siloes and interoperability problems that prevent query tools from accessing the organization’s entire repository of information.  If different components of a dataset are held in multiple walled-off systems or in different formats, it may not be possible to generate a complete portrait of an organization’s status or an individual patient’s health.
+And even if data is held in a common warehouse, standardization and quality can be lacking.  In the absence of medical coding systems like ICD-10, SMOMED-CT, or LOINC that reduce free-form concepts into a shared ontology, it may be difficult to ensure that a query is identifying and returning the correct information to the user.
+Many organizations use Structured Query Language (SQL) to dive into large datasets and relational databases, but it is only effective when a user can first trust the accuracy, completeness, and standardization of the data at hand.
+REPORTING
+After providers have nailed down the query process, they must generate a report that is clear, concise, and accessible to the target audience. 
+Once again, the accuracy and integrity of the data has a critical downstream impact on the accuracy and reliability of the report.  Poor data at the outset will produce suspect reports at the end of the process, which can be detrimental for clinicians who are trying to use the information to treat patients.
+Providers must also understand the difference between “analysis” and “reporting.”  Reporting is often the prerequisite for analysis – the data must be extracted before it can be examined – but reporting can also stand on its own as an end product.
+While some reports may be geared towards highlighting a certain trend, coming to a novel conclusion, or convincing the reader to take a specific action, others must be presented in a way that allows the reader to draw his or her own inferences about what the full spectrum of data means. 
+Organizations should be very clear about how they plan to use their reports to ensure that database administrators can generate the information they actually need.
+A great deal of the reporting in the healthcare industry is external, since regulatory and quality assessment programs frequently demand large volumes of data to feed quality measures and reimbursement models.  Providers have a number of options for meeting these various requirements, including qualified registries, reporting tools built into their electronic health records, and web portals hosted by CMS and other groups.
+VISUALIZATION
+At the point of care, a clean and engaging data visualization can make it much easier for a clinician to absorb information and use it appropriately. 
+Color-coding is a popular data visualization technique that typically produces an immediate response – for example, red, yellow, and green are universally understood to mean stop, caution, and go.
+Organizations must also consider good data presentation practices, such as charts that use proper proportions to illustrate contrasting figures, and correct labeling of information to reduce potential confusion.  Convoluted flowcharts, cramped or overlapping text, and low-quality graphics can frustrate and annoy recipients, leading them to ignore or misinterpret data.
+Common examples of data visualizations include heat maps, bar charts, pie charts, scatterplots, and histograms, all of which have their own specific uses to illustrate concepts and information.
+UPDATING
+Healthcare data is not static, and most elements will require relatively frequent updates in order to remain current and relevant.  For some datasets, like patient vital signs, these updates may occur every few seconds.  Other information, such a home address or marital status, might only change a few times during an individual’s entire lifetime.
+Understanding the volatility of big data, or how often and to what degree it changes, can be a challenge for organizations that do not consistently monitor their data assets.
+Providers must have a clear idea of which datasets need manual updating, which can be automated, how to complete this process without downtime for end-users, and how to ensure that updates can be conducted without damaging the quality or integrity of the dataset.
+Organizations should also ensure that they are not creating unnecessary duplicate records when attempting an update to a single element, which may make it difficult for clinicians to access necessary information for patient decision-making.
+SHARING
+Few providers operate in a vacuum, and fewer patients receive all of their care at a single location.  This means that sharing data with external partners is essential, especially as the industry moves towards population health management and value-based care.
+Data interoperability is a perennial concern for organizations of all types, sizes, and positions along the data maturity spectrum. 
+Fundamental differences in the way electronic health records are designed and implemented can severely curtail the ability to move data between disparate organizations, often leaving clinicians without information they need to make key decisions, follow up with patients, and develop strategies to improve overall outcomes.
+The industry is currently working hard to improve the sharing of data across technical and organizational barriers.  Emerging tools and strategies such as FHIR and public APIs, as well as partnerships like CommonWell and Carequality, are making it easier for developers to share data easily and securely.
+But adoption of these methodologies has not yet hit the tipping point, leaving many organizations cut off from the possibilities inherent in the seamless sharing of patient data.
+In order to develop a big data exchange ecosystem that connects all members of the care continuum with trustworthy, timely, and meaningful information, providers will need to overcome every challenge on this list.  Doing so will take time, commitment, funding, and communication – but success will ease the burdens of all those concerns.
+Tagged Analytics InfrastructureData IntegrityHealthcare Big Data AnalyticsHealthcare Data GovernanceHealthcare Information GovernanceInteroperabilityListsPrimers
+
+

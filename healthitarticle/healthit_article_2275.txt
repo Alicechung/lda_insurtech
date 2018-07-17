@@ -1,0 +1,18 @@
+Study: Automating healthcare imaging access helps cut costs by 39%
+
+September 19, 2013
+
+By Jennifer Bresnick
+September 19, 2013 - Automating prior authorization for high-cost imaging studies such as CT scans and MRIs using a combination of clinical guidelines and data analytics can cut healthcare costs by as much as 39%, according to a study in the Journal of Managed Care Medicine.  By diverting patients away from unnecessary emergency room visits and using an algorithm to determine when advanced imaging services are necessary or not, hospitals can increase patient safety, boost physician engagement, and control spending.
+By implementing an automated authorization solution that followed Milliman Care Guidelines (MCG) based on individualized patient data, hospitals that took part in the study were able to decrease the unnecessary use of imaging studies, saving money for the hospital, the patient, and the payer.
+“There’s good evidence that advanced imaging services such as CT, MRI, and PET scans are over utilized,” said Dr. Anthony N. Akosa, VP of Medical Affairs and Informatics at Advantage Health Solutions, an Indiana-based health plan that conducted the study. “This is not just a cost issue. It’s also a patient safety and care quality issue, particularly for scans emitting ionizing radiation. Our study strongly suggests that pairing automated authorization with evidence-based clinical guidelines – as the MCG solution does – can ensure delivery of safe, effective care while also reducing medical costs by 39% or more.”
+“AHS piloted automated prior authorization system utilizing Milliman Care Guidelines with all the providers to improve efficiency in their offices and reduce the number of calls they have to make to the health plan to request prior authorization,” the study explains. “The system allows the provider or office staff to enter an authorization request and if it meets the Milliman evidence-based clinical guidelines, the requester would immediately receive an approval notice, thereby avoiding a phone call or fax to the health plan.”
+Dig Deeper
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+Six Pediatric Hospitals Create Personalized Medicine Coalition
+Eye Docs Looking for Big Data, Population Health Analytics Research
+As part of a larger study on the effectiveness of accountable care, researchers used a combination of physician metrics, performance dashboards, and a staff member dedicated to care coordination to illustrate where gaps in care occurred and how to increase efficiency when providing services to plan members.  The utilization of advanced imaging studies was one of the quality metrics followed by the study, which financially incentivized physicians to pay closer attention to key aspects of care including prescriptions and emergency room use.
+“Engaged primary care physicians can bend the cost curve by effectively managing overutilization of services,” the study concludes.  The combination of automated analytics, clinical guidelines, financial incentives, and active care coordination for patients indicates that “equipped with accurate information, physicians are better able to champion effective care,” said Jon Shreve, chief executive officer of MCG. “We’re pleased to work with partners such as AHS to explore new, evidence-base avenues that support accountable care.”
+Tagged Clinical AnalyticsClinical IntelligenceHealthcare AnalyticsMedical ResearchPopulation Health Management
+
+

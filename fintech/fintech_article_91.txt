@@ -1,0 +1,47 @@
+Blockchain – the dark side…
+
+June 12, 2018
+
+By Pavel Kravchenko, Founder at Distributed Lab for The Fintech Times.
+
+ People admire decentralised technologies – they are expected to change the world and so on. Centralisation is considered wrong, but the problem is that it’s still hard to find any ultimate decentralised solution implemented in the real world.
+
+ Governance issue
+
+ Before applying Blockchain in practice, there’s an essential activity that is to be accomplished — specify the governance. We’re dealing with a decentralised environment, where decision making is carried out on the basis of consensus because participants don’t trust each other. If there was a certain entity that’s in charge of upgrading the system, dealing with certain difficulties in it and so on, the system would be centralised. Thus, it is extremely hard to determine correct conditions from the very start. Conditions that would allow accurate decision making in the network, which doesn’t have a responsible party, but a ‘decentralised community’ that, by means of consensus, decides what to do.
+
+ Ethereum split as an example.
+
+ We won’t be going into many details here, but just discussing the very essence. Some hackers found a vulnerability in Ethereum’s smart contract and stole $50m in Ether. So, Vitalik Buterin decided to ‘take it back’ by upgrading the protocol artificially. In this way, change the past state of Ethereum’s blockchain and ‘create’ a new one, that no longer has a ‘bad transaction’. The community was the one to decide, whether to do it or not. If an individual agrees, he must upgrade his equipment. In a natural way, the community was split in two: those who decided to stay with the original chain (which is now called Ethereum Classic) and those who accepted the change (it was the majority, so this chain is currently the main chain of Ethereum).
+
+ As you can see, the situation was quite controversial, and that is how the problem with governance brings us to another issue, which is responsibility.
+
+ Responsibility
+
+ People are used to centralised governance systems and that’s a fact, because you can always find someone to blame. If you bought a car and it broke down after a week of use, you go and claim your money back. The same thing happens when you use a service on a centralised entity. You have problems with your bank account, you go to the closest branch and they help you fix the issue.
+
+ In case of a decentralised network, you take all the responsibility, because you are involved in the process of managing the state of the system, together with everyone. Even the court is unable to implement a solution that contradicts the protocol rules, because management of digital assets is, for now, beyond the power and authority of the court.
+
+ The concept of responsibility in decentralised systems is extremely vague. People should accept the fact that each participant takes their own risks, but, at the same time, governments should work on new legal models.
+
+ Constantly growing volume of data If we draw a parallel between the centralised accounting system and the decentralised one, there is one substantial difference – the centralised ledger only stores the final condition of the database. For example, Alice sends 1$ to Bob; her account no longer has the data, referring to the 1$, while Bob’s has. With the blockchain, we have a chain of blocks (sorry about the tautology) which stores the whole history of changes that have ever happened for the network’s entire existence.
+
+ Constantly growing volume of data is not a critical limitation, but rather a peculiarity of the technology, to which a different approach should be applied.
+
+ Capacity issue
+
+ Most commonly, a decentralised network has a lower capacity than a centralised one. Having a centralised server that processes all the data, services such as Mastercard or Visa are able to verify thousands of transactions per second. While in a decentralised system, the data must be spread across all the participants of the network and all participants must reach consensus about this data.
+
+ On top of that, the necessity of storing large amounts of data imposes some additional limitations. As a result, we have two factors that eventually lead to slower performance of the system. In this way, Bitcoin’s throughput is as low as around 3 tps.
+
+ Confirmation time issue
+
+ It’s quite obvious that delays which occur due to the fact that participants should reach consensus among each other, directly affect the response time of the whole network. A fully confirmed transaction in Bitcoin takes up to about an hour. Five blocks after your transaction has been verified is considered an optimum result, when you can be fully confident that everyone has agreed on it.
+
+ Nevertheless, it’s worth noting that problems with capacity and confirmation delays in decentralised networks like Bitcoin, Litecoin and Ethereum are almost resolved by solutions such as payment channels and the Lightning network.
+
+ Some consensus protocols do not solve the very problem of the network throughput, but considerably increase the performance factor. In this way, the Bitshares protocol allows a fully decentralised payment network to compete against centralised services, such as Visa and Mastercard, even as it stands today.
+
+ To sum up, all the challenges the Blockchain technology is currently going through are, in one way or another, related to the infancy of the ecosystem. As people get used to the new way of working, it will undoubtedly create positive changes in society.
+
+

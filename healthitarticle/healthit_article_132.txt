@@ -1,0 +1,36 @@
+AHA Precision Medicine Platform Offers Up Data for Machine Learning
+
+March 29, 2018
+
+By Jessica Kent
+March 29, 2018 - Precision medicine driven by machine learning offers the promise of tailored, individualized treatment, improved patient outcomes, and better overall population health.
+However, the promise of precision medicine is often overshadowed by the data challenges that can accompany it. Many healthcare organizations that are excited by the prospect of precision medicine still struggle not only to access patient data, but also to generate the actionable insights necessary for individualized care.
+The American Heart Association’s (AHA) Institute for Precision Cardiovascular Medicine is working to overcome these challenges and accelerate solutions for cardiovascular diseases.
+Jennifer Hall, PhD, Chief of the AHA Institute for Precision Cardiovascular Medicine
+Source: Xtelligent Media
+AHA is partnering with the Duke Clinical Research Institute (DCRI) to develop and test machine learning methods on AHA’s cloud-based Precision Medicine Platform, which allows researchers from all over the world to collaborate and access big data assets.
+“The AHA Precision Medicine Platform acts as a data marketplace,” explained Jennifer Hall, PhD, chief of the AHA Institute for Precision Cardiovascular Medicine.  
+READ MORE: How Precision Medicine Will Shift from Research to Clinical Care
+“It was developed to give researchers the tools they need to succeed in today’s environment, and that means really breaking down the walls to siloed data sets and making them available to every researcher to accelerate discoveries.”
+Instead of requiring collaborators in different institutions to download the same datasets and analyze them separately, the Precision Medicine Platform allows researchers to access secure shared workspaces in the cloud and connect with collaborators simultaneously.
+“We’ve created a platform where the researcher goes to the data,” Hall said. “You and I could collaborate on an analysis of a particular set of data in the cloud today together, and then we’d know where the latest version was. We could both see the analysis.”
+“This type of platform has become a very powerful tool in today’s environment, and something that we all need to accelerate science forward.”
+Researchers also have the option of bringing their own data into their secure workspaces to share with their teams, Hall added.
+READ MORE: Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+“It’s plug-and-play. You can plug your own data in there. It’s only seen by you and your collaborators, and you can merge that with other data we have on the platform.”
+In addition to data access, AHA and DCRI are working to provide researchers with cutting-edge analytical tools that will further enhance precision medicine exploration.
+There are currently over 80 analytical tools available within the platform, and the partnering organizations are planning to create even more.
+“The strategic alliance that we’ve made with Duke is so important, because we have the experts who have the deep knowledge of all of the artificial intelligence and machine learning tools that are available. The partnership allows the American Heart Association and Duke to come together to create new tools that are not even available today,” Hall said.
+Artificial intelligence and machine learning are showing promise in a number of clinical areas, such as detecting sepsis and identifying breast cancer. AHA and DCRI will be providing necessary infrastructure to support even more innovations and breakthroughs, said Hall.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+“There is great potential in machine learning and other artificial intelligence methods to discover new insights. There are new findings showing that retina scans are an early predictor of heart disease, for example, and we never would have had that information before had we not been able to pool all this data together and bring artificial intelligence and machine learning to the table,” Hall said.
+Cloud computing plays an important part in that discovery, she said.
+“Cloud computing is able to analyze data at a faster pace, and when we’re talking about the billions and billions of data points that we’re using for these types of machine learning and artificial intelligence programs, we really need that kind of power,” said Hall.
+Access to the Precision Medicine Platform is free, she added.  After signing up, a user will receive a login name and password. Researchers can use their own workplace for a modest per-hour fee.  
+“You just sign in and you’re on your way to analyzing data, searching across different data sets, and using the tools in the Precision Medicine Platform that come with that workspace to help you analyze those datasets,” Hall said.
+AHA and DCRI expect to improve data access and utilize the benefits of the cloud with the Precision Medicine Platform. By enabling faster data sharing and analysis, the platform will allow researchers to accelerate advancements in precision medicine.
+“We’re just trying to provide a work space for people to collaborate, as well as to provide the tools,” Hall stated.
+“We’re extremely happy to be working with Duke Cardiovascular Research Institute, and we’re really looking for this to accelerate our field in cardiovascular disease and stroke research.”
+Tagged AHAArtificial Intelligence in HealthcareHealthcare Big Data AnalyticsInterviewsMachine LearningPrecision Medicine
+
+

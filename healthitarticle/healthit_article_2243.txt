@@ -1,0 +1,18 @@
+CMS using claims analytics to flag fraud, payment abuse
+
+October 11, 2013
+
+By Jennifer Bresnick
+October 11, 2013 - Think hospitals are the only ones using financial analytics to boost the bottom line?  Think again.  The Centers for Medicare and Medicaid Services (CMS) uses sophisticated analytics to identify suspicious claims from providers, save time and manpower while chasing down fraud, and keep providers as honest as possible as it doles out hundreds of millions in reimbursements every year.  The aptly-named Fraud Prevention System (FPS) has used predictive analytics since 2011 to eliminate waste and overpayments to hundreds of providers.
+In the first year of service, FPS saved three dollars for every one dollar spent on the program.  It prevented or identified approximately $115.4 million in improper payments, and brought 536 potential fraud cases to the attention of investigators while also adding detail to 511 ongoing cases.
+“CMS uses the FPS to target investigative resources to suspect claims and providers and swiftly impose administrative action when warranted,” says a 2012 report on the program’s progress. “When FPS predictive models identify egregious, suspect, or aberrant activity, the system automatically generates and prioritizes leads for review and investigation. CMS and its program integrity contractors use the FPS to identify, prevent, and stop potentially fraudulent claims.”
+Due to these improved analytics capabilities, CMS has doubled the number of revoked claims since 2011, throwing more than 14,000 fraudster providers out of the Medicare system.  “Most Medicare providers are honest and work hard to provide services to beneficiaries,” said Peter Budetti, CMS deputy administrator for program integrity.  “Unfortunately, there are some people trying to exploit the Medicare system.”
+Dig Deeper
+Healthcare Financial Analytics, Business Intelligence Market Takes Off
+Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+For providers operating on razor-thin financial margins and healthcare systems looking to trim waste and redundancy from their budgets, CMS’ successes with predictive financial analytics can be an important inspiration.  The adoption of analytics shifts the heavy lifting: previously, CMS employed a “pay-and-chase” scheme, where money was doled out before potential fraud was examined.
+The effort spent on attempting to recoup funds from crooked providers was inefficient, costly, and time-consuming.  Letting analytics do the work removes the manpower burden and prevents money from getting into the hands of criminals in the first place. “By leveraging sophisticated analytics tools in claims processing and provider enrollment, CMS is now better able to identify potentially fraudulent claims and prevent payment on those claims until they are verified as proper,” the report states.
+Tagged Analytics InfrastructureFinancial AnalyticsHealthcare Business IntelligenceHealthcare Data Analytics
+
+

@@ -1,0 +1,39 @@
+CMS Reform Model Fosters Care Coordination, Population Health
+
+September 07, 2016
+
+By Jennifer Bresnick
+September 07, 2016 - A CMS evaluation of the second year of the State Innovation Model (SIM) Initiative shows that the healthcare reform program may be starting to bear fruit in the realms of care coordination, value-based reimbursement, and overall population health management.
+According to an independent evaluation of the program, the six states participating in the Round 1 Model Test Awards have made progress with payment reform, health IT and data analytics infrastructure development, and patient-centered care.
+While there is little hard data as of yet to support the notion that the SIM Initiative has has a direct impact on reducing unnecessary utilization and raising overall outcomes, the program has successfully identified key challenges and provided much-needed insight into the process of healthcare reform.
+“In the SIM Initiative, CMS is testing models for how state governments can use their policy and regulatory levers to accelerate statewide health care system transformation from encounter-based service delivery to care coordination, and from volume-based to value-based payment,” explained CMS Principal Deputy Administrator and CMO Patrick Conway, MD, in an accompanying blog post.
+“SIM states are testing strategies to transform health-care across their entire state, specifically to have a preponderance of payments to providers from all payers in the state be in value-based purchasing and/or alternative payment models.”
+READ MORE: Will Risk-Based Population Health Management Take Off in 2017?
+The Round 1 Model Test Award states, which include Arkansas, Massachusetts, Maine, Minnesota, Oregon, and Vermont, are using more than $250 million in grant funding to explore how regulatory levers and innovative delivery models can put healthcare reform on the fast track.
+The SIM Initiative encourages state governments to improve the flow of health information across disparate organizations, and increase the number of providers engaging in patient-centered medical home (PCMH) models and other care coordination techniques.
+“Central to enhanced care coordination, population health, behavioral and physical health integration, and alternative payment models is the use of health information technology and a robust data infrastructure,” Conway said.
+Participating states have been raising their data reporting requirements, connecting more providers to the health information exchange ecosystem, and using data analytics to enhance quality by aligning metrics across multiple payers and incentive programs.
+These efforts have led to the growth of alternative payment models (APMs) in states such as Minnesota and Vermont.  In both regions, about half of the overall population are now receiving care under an alternative payment model.  In Vermont and Oregon, providers serving about 80 percent of Medicaid patients are now participating in a value-based payment environment.
+READ MORE: How Does the ONC Define HIE, Value-Based Care, Population Health?
+Accountable care organizations and patient-centered medical homes are also on the rise, the report found.  Vermont’s value-based successes are being driven in part by an investment in ACOs, which now offer services to most of the state’s residents.
+ACOs covering Medicare, Medicaid, and commercially insured individuals are actively engaging in coordinated care and population health management efforts driven by payments tied to quality benchmarks.
+Primary care providers participating in the Medicaid Blueprint for Health program can receive monthly care management payments based on their participation level in the PCMH model.  They can also receive per member per month (PMPM) payments for using care coordination to help curb opioid abuse.
+“Vermont operates a Medicaid-funded Hub and Spoke health home program for individuals with opioid dependence,” the report explained. “Hub providers receive a PMPM bundled payment for each patient for whom they can document a treatment and health home (e.g., care coordination) service was provided during the month; spoke providers are paid based on the average monthly number of unique patients for whom Medicaid paid a buprenorphine pharmacy claim.”
+Several other states are also using PMPM incentives to foster coordinated population health management within the patient-centered medical home setting. 
+READ MORE: What Does “Pick Your Own Pace” MACRA Mean for Data Analytics?
+“These payments help defray the costs of care coordination activities and investments in practice transformation needed to achieve and maintain PCMH or health home status,” says the report. “The payments are not at risk, except through requirements for the provider’s continued recognition as a PCMH or health home.”
+Medicaid-designated PCMHs in Arkansas receive a PMPM payment each quarter regardless of whether or not the patient sought care during the time period, while Maine’s Medicaid program only delivers incentives for individual beneficiaries when that patient has benefitted from care coordination services during the timeframe.
+As with many other healthcare reform initiatives, the SIM project has encountered a number of bumps in the road.  In addition to struggles with gaining stakeholder participation and consensus, some Test Award states, like Minnesota and Oregon, are facing difficulties with standardizing care while allowing for local flexibility.
+“Minnesota and Oregon have sought balance between maintaining flexibility in payment models demanded by regional variations, on the one hand, while achieving a consistent framework for the programs, on the other,” the evaluation says.
+“Minnesota is taking steps to ensure small and rural provider organizations have the financial capabilities to participate in the [Integrated Health Partnerships demonstration], and Oregon has elected to allow individual [Coordinated Care Organizations] to determine which APM they will implement.”
+Developing big data analytics infrastructure, health information exchange capabilities, and robust reporting requirements are also proving a challenge for SIM participants.  The six states are using a variety of tools to improve the flow of data across organizational lines, such as clinical dashboards and all-payer databases.
+In Minnesota, a workgroup will tackle the problem of standardizing data elements across disparate stakeholders, while Arkansas is utilizing an online portal to allow providers to view uniform reports from multiple payers.
+Despite all these efforts, however, “it remains too early to attribute specific quantitative results directly to the SIM Initiative,” Conway wrote.
+Many of the state projects, such as Oregon’s Coordinated Care Organizations (CCOs) and the continued growth of the wider accountable care ecosystem, have been supported and spurred on by additional initiatives, leaving SIM officials with the difficult task of teasing out the impact of the Test Awards themselves.
+But whether or not the SIM is directly responsible for state-wide improvements, progress is being made, Conway added.  “Analyses based on Medicare and commercial populations show that states were making progress on health outcomes, such as declines in emergency room visits and inpatient readmissions through models pre-dating SIM and models upon which SIM efforts are expanding.
+“Future evaluation reports will provide more detail on quantitative results and whether and how the SIM Initiative is affecting and accelerating trends in health outcomes and spending.”
+How to Get Started with a Population Health Management Program
+Breaking Down the Basics of the Patient-Centered Medical Home
+Tagged Accountable CareAlternative Payment ModelsPopulation Health ManagementValue Based Reimbursement
+
+

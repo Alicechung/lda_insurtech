@@ -1,0 +1,44 @@
+Epic, Cerner Get Tepid Population Health User Satisfaction Scores
+
+January 05, 2018
+
+By Jennifer Bresnick
+January 05, 2018 - Notable EHR vendors, including Epic Systems and Cerner Corporation, can’t match the user satisfaction scores of more dedicated population health management products, according to the latest KLAS Research market report.
+A series of user interviews from 2016 revealed that Epic, Cerner, Allscripts, athenahealth, and eClinicalWorks received only average approval for their population health management (PHM) capabilities, such as data aggregation and analytics, patient engagement, and care management.
+“Despite broad deployment and high customer expectations, the PHM solutions from EMR vendors garner only average or, in some cases, exceptionally poor overall satisfaction and are rarely among the top five performers in any vertical,” says KLAS in the full report, which was emailed to journalists.
+Lower satisfaction rates stem from concerns about flexibility, access to robust big data analytics tools, and insufficient support for customizing and optimizing systems that meet an organization’s unique needs, the report reveals.  
+Among vendors best known for their EHR offerings, Allscripts achieved the highest average satisfaction score at 7.0, while athenahealth and Epic tied for second at 6.7 out of 9.  Users ranked Cerner only very slightly lower at 6.6, despite approving more highly of the company’s data aggregation and analytics functions.
+READ MORE: How to Choose the Right Healthcare Big Data Analytics Tools
+eClinicalWorks, which has suffered some blows to its reputation in recent months due to several large lawsuits, trailed behind with 6.4 points.  However, the vendor received only half as many comments on its performance as most of its peers, which may affect its overall rating.
+Performance for the EHR vendor community has not changed much since last year’s assessment, in which dedicated population health vendors outstripped the broader EHR platform ecosystem.
+Population health vendors HealthEC and Forward Health Group topped the overall charts, with satisfaction scores of 94.2 and 94.1 out of 100 points, respectively.  NextGen Healthcare and Lightbeam scored similarly well, but only had limited user data to draw upon.
+“Especially within the data-focused verticals, all four vendors are highlighted for their willingness to collaborate, customize, and be highly responsive to challenges,” KLAS noted.
+“Provider organizations tend to be more satisfied with their solutions when they know that their vendor will provide the guidance and flexibility they need to be successful as opposed to a vendor that offers a wide range of functionality but might not provide the same level of hand-holding or customization.”
+READ MORE: Identifying Big Data Sources for Population Health Management
+For health IT vendors catering to larger customers, these personalized relationships may be difficult to develop and maintain, the report adds. 
+“This partly explains why some large vendors have lower performance ratings as they try to support comprehensive offerings for very large, very complex healthcare organizations.”
+“This is especially true for enterprise vendors and EMR vendors, whose customers have high expectations for comprehensive PHM functionality and future development. These higher expectations are present in the feedback from customers of several vendors, including Cerner, Epic, and Optum.”
+Interestingly, the big companies are also struggling to meet demand for big data. 
+Despite the ongoing, intense focus on increasing interoperability and connecting providers through networks such as Carequality, CommonWell, and CareEverywhere, EHR vendors are not viewed as data aggregation experts for population health purposes.
+READ MORE: Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+Instead, the top of the list is reserved for dedicated vendors, including Arcadia and Health Catalyst, who focus on functionalities like patient risk stratification, provider attribution, and sorting out quality measures to support value-based reimbursement arrangements.
+“Due to the high quality of their data, Arcadia, HealthEC, and Health Catalyst are also used by customers to create longitudinal patient records with their data, which is more easily done when vendors bring all the different pieces together and work closely with customers to help them identify their top PHM priorities going forward,” KLAS says.
+Unsurprisingly, the top data aggregation companies also scored highly on analytics capabilities, while Cerner, Epic, and athenahealth sink towards the bottom of the list.  Users again cited close collaboration as a key factor for satisfaction and success.
+athenahealth and Epic rebound slightly when it comes to care management: athenahealth received above average scores for satisfaction and depth of deployment, while Epic remains level with the pack.  While data on Allscripts is limited in this category, it did outperform the other EHR vendors in the survey.
+Once again, however, tailored population health tools take most of the top spots, with HealthEC, Enli, Health Catalyst, Forward Health Group, and i2i Population Health ranking highest in user satisfaction for the ability to create and execute care plans.   
+Epic regains some prominence when it comes to engagement.  It shines particularly brightly for users in clinician engagement – cracking the top five for the first time in user satisfaction for basic functionality.  The company also wins the crown for supporting organizational integration goals.   
+“While EMR vendors may not offer the most fine-tuned data in terms of showing clinicians what they want to see in the way they want to see it, they do all offer strong EMR integration, cutting out one more place that users have to sign in to, which matters to clinicians,” KLAS says.
+Epic’s Healthy Planet population health tools are integrated into its main EHR, which results in one of the largest user bases in the country and more seamless clinician access to PHM functions.
+“Epic customers don’t have to deploy an additional module to get access to Epic’s population health functionality,” the report explains.  “While much of the functionality is still maturing, Epic has set clear expectations with customers and given them a road map for future development.”
+“Many customers are using other vendors’ PHM tools in conjunction with Healthy Planet while they wait for Epic’s functionality to be further developed.”
+The Verona, WI company also earns some accolades for patient engagement, although KLAS points out that customer expectations in this area are fairly low.
+“To date, most provider organizations expect their vendors to provide only functionality; they do not feel actually getting patients to engage is their vendor’s responsibility,” the report says. 
+“For most vendors, customer feedback on their patient engagement functionality is very limited and is more high level. It is also variable—some organizations may be very satisfied with basic functionality currently and the promise of further development in the future, while others may expect to be seeing real results and patient engagement with their tools.”
+Among the EHR vendors, athenahealth received the highest scores for patient engagement, topped only by HealthEC and Forward Health Group.  Cerner and Allscripts slipped down to sixth and seventh place, respectively, followed by Phillips Wellcentive and Enli.
+Overall, the population health management technology environment remains somewhat difficult for potential customers to navigate.  Narrowly-focused PHM products receive high scores, but require additional investment. 
+Yet waiting for existing EHR vendors to ramp up their capabilities may not be a viable option in the increasingly complex value-based care ecosystem.
+Balancing functionality, maturity, customization, and cost can be a significant challenge for organizations working to make multiple simultaneous changes to their practices in order to support population health management. 
+Providers seeking out enhancements to their population health competencies should carefully evaluate their own organizations and the technology offerings on hand to find the optimal blend of price, scope, and performance to suit their individual needs.
+Tagged AllscriptsAnalytics InfrastructureCernerEHR VendorsEpic SystemsInteroperabilityPopulation Health Management
+
+

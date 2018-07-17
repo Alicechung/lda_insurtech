@@ -1,0 +1,36 @@
+Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+
+March 31, 2017
+
+By Jennifer Bresnick
+March 31, 2017 - 2017 may already be a quarter of the way gone, but healthcare executives are still hoping to score some major big data analytics infrastructure upgrades before the calendar rolls over again as they look towards a future of value-based care. 
+According to new research from Black Book, an electronic data warehouse (EDW) and a comprehensive enterprise resource planning (ERP) system are at the top of the wish list for the healthcare C-suite as clinical and financial experts acknowledge that they still lack the insights they need to succeed with value-based care and population health management.
+While more than three-quarters of respondents in hospital IT purchasing roles expect that their budgets and staffing levels will remain stagnant or decrease through the first half of the year, organizations that have not yet implemented a data warehouse are itching to put this foundational architecture in place.
+Dig Deeper
+How the Search for Smart Data Drives Healthcare IT Investment
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+The Role of Healthcare Data Governance in Big Data Analytics
+Smaller hospitals are particularly frustrated with their inability to capture, manipulate, and report on key patient data, with a whopping 94 percent of hospitals under 200 beds admitting that they do not have the information they need to engage in actionable population health management initiatives.
+Hospitals are not able to capture all the big data they need for value-based care
+Source: Black Book
+Financial executives are also flying blind, the survey added, which may be preventing their organizations from moving forward with value-based purchasing and risk stratification.
+Seventy-two percent of respondents said that their electronic health records do not produce reports that can help them with the revenue cycle components of population health management.
+As budgets shrink by an average of 13 percent, revenue cycle experts are also caught between a rock and a hard place when it comes to using data to improve internal efficiencies. 
+Executives are wary of spending big on ERP infrastructure, due to the large upfront costs, but organizations may be letting revenue slip through the cracks without full visibility into supply chain management and other spending patterns.
+Eighty-five percent of hospitals under 200 beds know they have underinvested in ERP in an attempt to avoid the sticker shock of a big-bang implementation, despite the fact that 93 percent of Chief Financial Officers recognize that they cannot reduce inefficiencies and begin the value-based care transition without a robust ERP system.
+Enterprise resource planning tools are in high demand, but tight budgets prevent investment
+Source: Black Book
+As also reported in several other recent industry polls, lack of big data analytics talent is a critical pain point for hospitals. 
+Skilled staff are in desperately short supply as the industry continues to work its way through a number of fundamental disruptions, leaving providers unable to tackle the basics of big data – let alone more complex items like precision medicine, machine learning, and artificial intelligence.
+Interoperability, another pillar of the value-based care ecosystem, will also remain on the back burner for cash-strapped organizations.  Eighty-four percent of hospitals that believe they are operating within EHR siloes will not address the issue in 2017. 
+And 88 percent of organizations with decreasing margins say that they have not been able to budget for interoperability concerns and data access challenges, which may not enable them to move forward with data warehousing and more advanced analytics any time soon.
+Instead of making major technology upgrades, smaller hospitals will spend their time and effort on less technical optimization projects, the survey says. 
+Eighty-two percent of CFOs at hospitals with fewer than 300 beds will work to revamp their revenue cycle management strategies by making shrewder decisions about outsourcing, bolt-on applications, and less expensive cloud technologies.
+Coding and clinical documentation improvement (CDI) are also under the microscope as hospitals try to squeeze out inefficiencies in their existing processes, but it is unclear how much they can achieve without new health IT systems to support their efforts. 
+Clean, complete, and accurate clinical documentation is a basic necessity of any meaningful big data analytics project, yet providers have continually struggled with data integrity and information governance. 
+Poor documentation not only makes coding and billing more difficult, but can also limit success with predictive analytics, population health, and health information exchange. 
+As hospitals try to address IT threats and risks from all angles, including security breaches, ransomware, and unplanned downtime, they will have to carefully choose how to apportion their limited funds to achieve maximum value.
+While a big upfront spend on a data warehouse might seem like a difficult pill to swallow, the right implementation strategy could enable significant improvements in actionable insights that can supercharge other cost savings and clinical quality improvement initiatives.  
+Tagged Analytics InfrastructureERP SystemsHealthcare Business IntelligenceHealthcare Data WarehouseHospital Revenue CycleRevenue Cycle Analytics
+
+

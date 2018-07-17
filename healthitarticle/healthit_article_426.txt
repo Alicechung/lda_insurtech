@@ -1,0 +1,34 @@
+Natural Language Processing, AI to Foster Clinical Decision Tools
+
+June 27, 2017
+
+By Jennifer Bresnick
+June 27, 2017 - Clinical decision support (CDS) tools that feed on unstructured big data are in high demand from healthcare organizations seeking to improve care quality and gain a competitive edge over their peers. 
+Driven by rapid advances in artificial intelligence (AI) and natural language processing (NLP) techniques that can extract actionable insights from complex and varied data sets, the newest generation of clinical decision support modules are likely to produce massive profits for health IT developers.
+According to a new series of market reports, the complementary rise of natural language processing, AI, and decision support technology will soon allow healthcare providers to engage with streamlined, intuitive workflows that include immediate access to insights from the electronic health record itself.
+The clinical decision support software and services market is predicted to be worth more than $1.5 billion by 2021, growing at a 12 percent compound annual growth rate (CAGR) from its 2016 level of $865.3 million, according to Markets and Markets.
+Web-based and cloud-based solutions are expected to comprise the majority of most attractive options for healthcare providers, the report continues. 
+READ MORE: What is the Role of Natural Language Processing in Healthcare?
+Established health IT companies including Cerner, Epic Systems, Allscripts, IBM, and McKesson are all angling to enhance their value by equipping providers with the decision support functionalities they need to succeed with population health management, value-based care, and personalized medicine.
+Many of these companies are already ranked very highly by healthcare consumers for their population health management toolkits, which mesh well with their existing EHR offerings. 
+As healthcare organizations increasingly take on risk-based contracts that require a deep understanding of how to proactively manage patients and identify those most in need of immediate intervention, providers are prioritizing the purchase of population health management and other health IT tools that offer robust clinical decision support capabilities.
+A recent Black Book report notes that 98 percent of prospective health IT purchasers are prioritizing offerings that include data-driven clinical decision making tools, especially if they integrate seamlessly with existing EHR infrastructure.
+Increasingly, top-shelf offerings are touting their reliance on artificial intelligence, machine learning, and natural language processing strategies in order to take advantage of the growing interest in these cutting-edge techniques.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+As healthcare organizations collect larger volumes of novel, unstructured data sources, such as patient-generated health data, satisfaction surveys, voice recordings, and video consults, they will need CDS software that can process and integrate natural language data.
+The surging desire for NLP tools will result in a global marketplace worth $4.3 billion by 2024, says Transparency Market Research.
+The NLP market is segmented into several different areas of technological development, including voice and video analytics, text summarization, and machine translation.
+“Used as a part of artificial intelligence systems, applications of NLP technologies are being deployed for predictive analysis and clinical decision support systems,” the report says. “The global healthcare natural language processing market is expected to receive an impetus from the uptake of these technologies by several companies for extracting knowledge from several clinic documents via machine learning or deep learning applications.”
+“The growing volume of unstructured clinical data and the unstoppable penetration of EHR systems are expected to fuel the growth of this market in the coming years.”
+READ MORE: Artificial Intelligence Could Take Over Surgical Jobs by 2053
+More and more healthcare providers are anxious to turn their documentation-based EHR systems into 360-degree clinical support and analytics platforms that augment and supplement the clinician’s decision-making skills. 
+Vendors across the care continuum are promoting the emerging discipline of artificial intelligence as the way to achieve this goal, relying heavily on machine learning to attract consumers to innovative products.
+AI may still be mostly hype and little substance, but that isn’t stopping healthcare organizations from snapping up clinical decision tools and big data analytics platforms that purport to be driven by artificial intelligence. 
+The global healthcare AI marketplace was already valued at $1.44 billion in 2016, and is slated to expand at a staggering 48 percent CAGR until 2023, resulting in a $22.7 billion opportunity for vendors and health IT companies.
+“Presently, the healthcare provider segment dominates and is expected to grow at a CAGR of 46.9 percent during the forecast period,” says Allied Market Research. “Increase in usage and application of AI systems is expected to improve patient outcomes and maintain electronic health records (EHR) and patient records to boost the market growth.”
+The natural language processing segment is expected to see the highest rate of growth during the forecast period, reinforcing the industry’s eagerness to generate actionable intelligence from unstructured data sets.
+The three complementary marketplaces are likely to open up significant new opportunities for healthcare providers, who will need to choose their investments carefully. 
+The challenges of developing integrated, interoperable, and seamless health IT ecosystems will no doubt remain a top concern for organizations faced with an endless array of offerings that leverage the latest technologies to deliver clinical intelligence at the point of care.
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsClinical Decision SupportMachine LearningNatural Language ProcessingPopulation Health ManagementPredictive Analytics
+
+

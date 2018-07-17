@@ -1,0 +1,16 @@
+New ‘Eventum’ Platform Detects Bogus Content In Minutes
+
+31 May 2018
+
+Slovenian Start-Up Eventum Is Tackling The Problem Of Fake News Using Its Blockchain-Based Wisdom-Of-Crowds Platform To Detect Phony Content In Minutes
+In an age of information overload, ‘Fake News’ has become a genuine problem. The proliferation of unverified, or even worse – completely fabricated – articles, posted on social media have been used as a weapon to influence entire populations, as seen in the most recent US election and the UK Brexit referendum.
+Eventum, a blockchain start-up, has developed technology to identify ‘fake news’ in a fast, cheap and secure way, by utilizing the age-old adage: ‘the wisdom of crowds’ together with blockchain technology.
+The platform works by paying real people to fact-check news and uses an advanced algorithm to reward speed and accuracy. In tests run on their ‘alpha network’, the Eventum platform was able to identify fake news stories in under three minutes. Such technology could be used to reduce or even eliminate the spread of misinformation on social networks and could become an essential weapon in the fight against fake news and propaganda.
+Read More: GameFace Labs Opens Pre-Orders For Android-Based VR Headset Powered By NVIDIA Jetson TX2
+Martin Milken
+Martin Milken, Eventum co-founder explains: “The Eventum network uses a combination of three elements: incentivized crowdsourcing, an advanced algorithm, and a blockchain, which allows us to detect fake news quickly and cheaply. Our technology could be used as a verification layer for existing news or to detect fake news before it’s even published.”
+Fake news detection is just one of the many uses for the Eventum network. The powerful platform can be used for collecting and verifying almost any information, including live news events and sports data as well as performing image recognition and content moderation.
+Eventum makes it easy for people to get paid for reporting on real-time events and information around them, while developers can get any data they want in a cheap, fast and secure data feed. It uses a ‘wisdom of the crowd’ principal and ‘blockchain-as-a-court-system’ on the Ethereum network to solve problems, including fake news, eSports data extraction and real-time feedback to AI algorithms. Eventum is based in Ljubljana, Slovenia, has an international team of 13, and has raised in excess of €5M in funding so far.
+Read More: Meet 20 Of The Most Powerful Women In The Tech World
+
+

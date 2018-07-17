@@ -1,0 +1,35 @@
+What Does “Flexible” ICD-10 Implementation Really Mean?
+
+July 28, 2015
+
+By Jennifer Bresnick
+July 28, 2015 - Earlier in July, the Centers for Medicare and Medicaid Services appeared to be answering the fervent wishes of the healthcare industry by announcing that it would commit to a “flexible” ICD-10 implementation process.  While the joint announcement was cheered by the American Medical Association (AMA) as a victory in the ongoing fight to ease the perceived burden of the new code set on beleaguered providers, it also seemed to seal the deal for October 1, 2015.
+This week, CMS released additional guidance to clarify what it means by a “flexible” ICD-10 implementation process, including an explanation of the specificity requirements that may or may not result in a denied claim.
+Here are the answers to some of most pressing ICD-10 implementation questions lingering in the minds of healthcare providers.
+Does the CMS/AMA compromise mean there is going to be another delay?
+No.  Barring some extraordinary legislative action, CMS fully intends to adhere to the planned October 1, 2015 transition deadline.  The guidance released by CMS and the AMA does not include language that would indicate another delay, nor does it provide for any dual ICD-9/ICD-10 coding.  Medicare’s claims processing systems do not currently allow for dual coding, and CMS has no plans to change that.
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Claims for services dated on or after October 1, 2015 must include a valid ICD-10 code or they will be rejected.
+What does CMS mean by a “valid” ICD-10 code?  What does a “code family” mean?
+This is where there may be some confusion.  It has been widely reported that CMS “won’t deny claims based on specificity,” but that doesn’t mean that providers have free reign over how they pick and choose codes.
+“ICD-10-CM is composed of codes with 3, 4, 5, 6 or 7 characters,” the guidance explained. “Codes with three characters are included in ICD-10-CM as the heading of a category of codes that may be further subdivided by the use of fourth, fifth, sixth or seventh characters to provide greater specificity. A three-character code is to be used only if it is not further subdivided. To be valid, a code must be coded to the full number of characters required for that code, including the 7th character, if applicable.”
+CMS has stated that it will not deny claims solely on the use of a less-than-optimally specific code, but that code must a) be a valid ICD-10 code included in the ICD-10 code book, and b) be from the correct family of codes.  That means that the selected code must be from the correct three-character subdivision.  
+READ MORE: Data Governance Key to Hospital’s Natural Language Query Project
+“For instance, category H25 (Age-related cataract) contains a number of specific codes that capture information on the type of cataract as well as information on the eye involved,” CMS says. “Examples include: H25.031 (Anterior subcapsular polar age-related cataract, right eye), which has six characters; H25.22 (Age-related cataract, morgagnian type, left eye), which has five characters; and H25.9 (Unspecified age-related cataract), which has four characters. One must report a valid code and not a category number. In many instances, the code will require more than 3 characters in order to be valid.”
+Does this flexibility guidance include the coding rules for National Coverage Determinations (NCD) and Local Coverage Determinations (LCD)?
+No.  CMS does not have the scope of coverage within this guidance to change the specificity requirements for NCD and LCD policies.  “Coverage policies that currently require a specific diagnosis under ICD-9 will continue to require a specific diagnosis under ICD-10,” CMS writes. “It is important to note that these policies will require no greater specificity in ICD-10 than was required in ICD-9, with the exception of laterality, which does not exist in ICD-9. LCDs and NCDs that contain ICD-10 codes for right side, left side, or bilateral do not allow for unspecified side.”
+Information on LCDs and NCDs is publicly available here.
+While CMS has said that it does not plan to deny claims based on ICD-10 specificity errors, a claim may be denied if it does not meet applicable policies, such as those mentioned above.  This is because this guidance does not allow for current automated claims processing edits to be modified.
+READ MORE: Nurse Informaticists Can “Triage” EHR Optimization Problems
+Will providers be told if their claims have been rejected due to an ICD-10 problem?
+Yes.  Providers will be told if their claims were rejected due to a lack of a valid ICD-10 code or lack of specificity required by existing NCD or LCD regulations.  Submitters should follow all existing procedures for revision and resubmission of rejected claims.
+Do the ICD-10 flexibilities include Medicare fee-for-service prior authorization requests?  Do they include Medicaid?
+“No, the audit and quality program flexibilities only pertain to post payment reviews,” CMS states. “ICD-10 codes with the correct level of specificity will be required for prepayment reviews and prior authorization requests.”
+The ICD-10 implementation flexibility guidance applies onto do Medicare fee-for-service claims billed under the Part B fee schedule.  The changes do not apply to primary or secondary Medicaid claims.  Federal matching funds will not be available to state Medicaid agencies for advance payments “that are not processed through a compliant MMIS and supported by valid, billable ICD-10 codes.”
+Will private payers adhere to Medicare’s new provisions?
+There is no requirement – and no guarantee – for payers to follow Medicare’s lead.  Private payers may deny requests if ICD-10 codes do not meet the highest standards of data integrity.  Each organization will need to determine whether it plans to offer any safe harbor provisions for providers.  If concerned, contact private payers individually to inquire about their plans for the ICD-10 switch.
+How should providers get answers to any other questions regarding flexibility provisions, advanced payments, ICD-10 specificity, or ICD-10 technical questions?
+CMS plans to implement an ICD-10 ombudsman program, which will be in place by October 1, 2015.  Until then, providers can contact their local Medicare Administrative Contractors (MACs) or explore CMS Road to 10 resources available online.  CMS has also released a public letter on the joint CMS and AMA statement regarding ICD-10 flexibility, which contains additional information. 
+Tagged Health Information ManagementHealthcare Data GovernanceICD-10
+
+

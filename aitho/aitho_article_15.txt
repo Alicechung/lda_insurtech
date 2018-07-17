@@ -1,0 +1,20 @@
+Valimail Extends Its Comprehensive, Identity-Driven IDEA™ Platform With Valimail Defend™ To Provide 360-Degree Protection Against Impersonation Attacks
+
+13 Jul 2018
+
+New Product Brings Automated Approach to Stop Friendly-From and Lookalike Email Impersonation Attacks Without Using PII
+Valimail, the world’s leader in automating email authentication, today announced its newest product, Valimail Defend™.
+Valimail Defend is the latest solution to be built on Valimail’s extensible and fully automated Valimail Identity-Driven Email Anti-impersonation (IDEA™) platform. Valimail Defend provides immediate, highly accurate, and effective email fraud protection, eliminating inbound email impersonation attacks, including friendly-from spoofing as well as lookalike-domain (sometimes called cousin-domain) attacks.
+Valimail Defend is the only automated, identity-driven solution that reliably blocks inbound impersonation emails. It is built on the foundation of the Valimail IDEA platform, with a unique automated approach that’s completely different from first-generation reporting solutions, and which does not require access to the content of the emails. Valimail Defend also leverages Valimail’s proprietary machine learning analytics, which, combined with its industry-leading dynamic catalog of third-party emailing services, provides a comprehensive solution with very low false positives. In addition, Defend generates actionable threat intelligence for take-down efforts and integration with other customer systems (e.g. SIEMs).
+Follow Us
+Valimail Defend complements the company’s existing automated email authentication solution, Valimail Enforce™, to provide a complete, 360-degree defense against email fraud and impersonation attacks, without using personally identifiable information (PII) and protected health information (PHI). This simplifies compliance with data privacy standards such as HIPAA, GDPR, and more.
+Valimail Enforce has the verifiably best track record in the industry for getting customers to enforcement (the point at which customer domains are actually protected from impersonation), and is the only email authentication solution on the market to offer guaranteed enforcement.
+Like Enforce, Valimail Defend also complements existing anti-spam solutions and secure email gateways (SEGs) to ensure the most effective layered defense for your organization.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+Vivek Raman
+“Valimail’s automated approach has proven to be both effective and efficient, as it’s saved us countless employee hours compared with other approaches and got us to enforcement effortlessly,” said Vivek Raman, Director of Engineering at Yelp. “We are excited about this next generation of automated anti-impersonation technology from Valimail, which will give us the full end-to-end solution.”
+Alexander García-Tobar
+“Our goal has always been to build a foundational trust layer for email that complements existing filtering and training solutions,” said Valimail CEO and co-founder Alexander García-Tobar. “We’ve built our cloud-first anti-impersonation solution to be completely automated from the ground up, and the data is clear: We have the highest rate of effectiveness in protecting our customers’ domains from impersonation. Valimail Defend is the latest step in the evolution of our deep industry expertise, giving enterprises and government organizations the most advanced protection against email impersonation.”
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+
+

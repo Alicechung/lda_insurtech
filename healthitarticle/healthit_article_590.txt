@@ -1,0 +1,33 @@
+Health IT Helps CA Children’s Hospital Win HIMSS Davies Award
+
+February 01, 2017
+
+By Thomas Beaton
+February 01, 2017 - The Children's Hospital of Orange County has joined an elite group of HIMSS Davies Award winners by demonstrating commitment to patient safety and care quality while leveraging health IT tools at an advanced level.  
+"CHOC has made significant investments in health information technology designed to enhance quality and patient safety – our highest priorities,” said Dr. James Cappon, chief quality officer, CHOC. 
+“We designed and implemented our electronic health record (EHR) with a focus on improving care.  Because building and using an effective EHR is not always easy, and is certainly expensive, it's gratifying to see measurable improvement from our efforts and investments.  Making kids' care better— making kids' lives better—is the ultimate outcome, and proves the value."
+Dig Deeper
+Epic EHR, Big Data Tools Bring 2016 HIMSS Davies Award to Mercy
+Patient-Reported Outcomes Use Relies on Health IT Usability
+Will the IoT Bring a Patient Engagement, Interoperability Revolution?
+CHOC earned its Davies Award based on four case studies where they cut care costs and drastically improved patient safety and outcomes.
+Reduction in catheter associated urinary tract infections (CAUTI)
+The first case study involved minimizing the use of urinary catheters in patient care. Through a standardized care bundle, education, and an EHR-enabled best practice guide, CHOC lowered the need for urinary catheters and significantly reduced catheter-associated infections.
+"The visibility of clinical and adoption data from the top down reinforces an organizational commitment to reducing serious patient harm and preventing HACs, including CAUTIs," CHOC said.  "Hospital-wide, CAUTI rates dropped from a mean pre-project rate of 1.86 per 1000 catheter days to 0.9 per 1000 catheter days in 2015, a 51.2 percent reduction."
+Improved care guidelines for asthma patients
+Through evidence-care guidelines on controlling asthma and an alert system that triggered when asthma patients were discharged without a home management plan, CHOC improved outcomes for asthmatic patients and developed 35 new care guidelines.
+"Since the implementation of the revised evidence-based guideline and order set and portal-enabled home management plan care documentation for asthma, CHOC drove down the average length of stay for asthma patients from 2.14 days to 1.72 days," said the case study. "Asthma readmissions within 30 days also fell from an average of 1.7 per quarter to 0.7 per quarter."
+Early warning systems for pediatric care
+CHOC also implemented an EHR-enabled Pediatric Early Warning System (PEWS) to trigger rapid response teams for deteriorating patients. As a result of PEWS, 369 children avoided resuscitation and several lives were potentially saved because of the early warning system.
+The balance of automated and personnel systems helped the CHOC save significant costs in emergency pediatric care.
+"While cost savings are difficult to precisely calculate because of the impact of the underlying condition(s), these studies suggest the potential for significant cost avoidance opportunities," CHCO said. "In fact, even using a conservative post-resuscitation cost of $50,000, with 369 avoided resuscitations, CHOC has saved $18.45 million in costs from this program."
+Centralized breast milk preparation
+Through barcoding and centralized breast milk preparation, the CHOC eliminated feedings of the wrong breast milk. Efficiencies associated with the centralized breast milk preparation helped record annual savings.
+"CHOC implemented centralized breast milk preparation including barcoding to effectively eliminate feedings of the wrong breast milk," the hospital said. "Efficiencies associated with the centralized processes for breast milk preparation resulted in annual savings of approximately $30,000."
+Improper breast milk administration causes concerns for infant health, CHOC noted in the case study.
+"The primary concern of a breast milk administration error is the health of the infant. While the risk of infection is low, breastmilk is a bodily fluid and concerns about transmission of Hepatitis B, Hepatitis C, and HIV exist. In addition, breast milk could result in an infant being exposed to medications or illicit drugs from another mother."
+Like other Davies award winners, CHOC gives other healthcare providers an idea of how to successfully use health IT tools like EHRs, monitoring and alert systems, and evidence-based guidelines to improve the value of care.  
+"CHOC demonstrates an enterprise-wide approach to collaboratively identifying clinical challenges, selecting IT interventions and developing workflows to address those challenges," said Jonathan French, senior director of quality and patient safety and Davies program director with HIMSS. "Through using information technology to standardize care and continually look to improve care delivery and outcomes, CHOC has significantly improved the quality and patient safety outcomes for their patients. HIMSS is proud to recognize CHOC as a 2016 Davies Enterprise Award winner."
+Tagged EHR AdoptionHIMSSPatient OutcomesPatient Safety
+
+

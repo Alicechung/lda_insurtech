@@ -1,0 +1,15 @@
+Palo Alto Networks Closes Acquisition Of Secdo
+
+25 Apr 2018
+
+For Palo Alto Networks, The Transaction Brings Sophisticated Endpoint Detection And Response, or EDR, Capabilities – Including Unique Data Collection And Visualization 
+Palo Alto Networks, the global cybersecurity leader, announced today that it has completed its acquisition of Israel-based Secdo. For Palo Alto Networks, the transaction brings sophisticated endpoint detection and response, or EDR, capabilities – including unique data collection and visualization – to Palo Alto Networks Traps advanced endpoint protection and the Application Framework in order to enhance their ability to rapidly detect and stop even the stealthiest attacks.
+Mark McLaughlin
+“The completion of this acquisition adds Secdo’s EDR capabilities into our platform and accelerates our ability to detect and prevent successful cyberattacks across the cloud, endpoint, and network,” said Mark McLaughlin, Palo Alto Networks CEO.
+Secdo’s thread-level approach to data collection and visualization goes far beyond traditional EDR methods, which only collect general event data. Once integrated with Traps and the Palo Alto Networks platform, this rich data will feed into the Logging Service and give applications running in the Palo Alto Networks Application Framework greater precision to visualize, detect and stop cyberattacks.
+Terms of the acquisition were not disclosed.
+About Palo Alto Networks: We are the global cybersecurity leader, known for always challenging the security status quo. Our mission is to protect our way of life in the digital age by preventing successful cyberattacks. This has given us the privilege of safely enabling tens of thousands of organizations and their customers. Our pioneering Security Operating Platform emboldens their digital transformation with continuous innovation that seizes the latest breakthroughs in security, automation, and analytics. By delivering a true platform and empowering a growing ecosystem of change-makers like us, we provide highly effective and innovative cybersecurity across clouds, networks, and mobile devices.
+Palo Alto Networks, Traps and the Palo Alto Networks logo are trademarks of Palo Alto Networks, Inc. in the United States and in jurisdictions throughout the world. All other trademarks, trade names or service marks used or mentioned herein belong to their respective owners.
+ 
+
+

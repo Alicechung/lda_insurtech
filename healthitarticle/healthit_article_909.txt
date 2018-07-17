@@ -1,0 +1,43 @@
+Big Data Analytics Can Bring Visibility, Value to Healthcare
+
+May 23, 2016
+
+By Jennifer Bresnick
+May 23, 2016 - The healthcare industry is often criticized for being ploddingly slow to innovate, reluctant to embrace new technologies, and unable to keep pace with quality measures and payment reforms intended to improve the quality of care. 
+The degree to which many providers have rebelled against regulatory initiatives like the EHR Incentive Programs and struggled with new reimbursement models like accountable organizations may seem to substantiate the notion that overwhelmed clinicians couldn’t care less about making the difficult changes necessary to cut costs, raise quality, and satisfy patients.
+However, nothing could be farther from the truth, says David Delaney, MD, Chief Medical Officer at SAP.  Providers are eager to do whatever it takes to deliver the best possible care to the patients who rely on them – but even the most accomplished and well-intentioned clinician will run into challenges if he or she doesn’t have the right tools for the job.
+Big data analytics are supposed to be the cure-all for the healthcare industry, closing the gap between what is expected of clinicians and how well they can actually perform at the point of care. 
+But reconciling those two very different things will require a great deal of investment in better technology, a willingness to take pointers from experienced industries, and better definition of what truly constitutes “value” in the healthcare setting.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+“What we really need in order to improve outcomes is end-to-end visibility across the spectrum of care at a service line level,” Delaney said to HealthITAnalytics.com.  “We say that we’re approaching quality improvements by implementing pay-for-performance, but it should be more appropriately termed ‘pay for conformance.’”
+“We’re paying for providers to hit process gates, but those gates not necessarily correlate with better outcomes.  We think most of them probably do, but we don’t have the data to justify everything that we’re asking of providers.”
+Despite the proliferation of digital documentation, a growing reliance on predictive analytics and risk scoring technologies, and a general recognition that population health management guidelines have the potential to improve the coordination and delivery of patient care, there is still confusion and frustration over how to best guide patients through a complex, convoluted care continuum.
+Much of that confusion stems from providers’ inability to access comprehensive, accurate, and up-to-date data for patients as they visit different providers who may not be affiliated with one another. 
+Healthcare organizations are still struggling with the basics of health information exchange and EHR interoperability.  Even with growing excitement around industry-wide data standards agreements and the development of new protocols like FHIR, day-to-day information sharing is still in its infancy.
+READ MORE: Top 5 Questions for Payers about Population Health Initiatives
+Providers haven’t been shy about voicing their concern that the push towards value-based reimbursements may be a little premature, Delaney said.   Providers do not believe they should be held accountable for outcomes if they don’t have the technology to manage patients – but at the same time, there may be little incentive for developers to create better patient management tools if there isn’t a strong business case for doing so.
+“We can’t be sure that we’re paying for better performance until we can track cost and quality outcomes at a patient level across the care continuum,” he said.  “Once we do that, then we can start shifting reimbursements to reward value and drive better outcomes.”
+“As the healthcare system starts to realize the importance of using data analytics to develop this visibility into value, the marketplace will generate the tools required to innovate and make sure that every patient is receiving the best possible care along the right service lines.”
+“That’s when big data will really start to line up with patient interests,” he added.  “Ultimately, patients want to get healthier and stay healthier in a safe and cost-effective fashion.  It’s the healthcare industry’s job to figure out how we can do that at scale for some very complex cases across the population.”
+Providers may feel as if they are caught between a rock and a hard place during this difficult transition period, but the healthcare industry isn’t the first sector to go through a rough digitalization process, said Delaney.  And there are lessons to be learned from those who have gone before.
+READ MORE: Big Data Analytics Link Economic Wellness to Population Health
+“Rather than reinventing the wheel and having to go through all of the false starts that other industries have suffered through, we have the chance to borrow from their successes, build on those lessons, and make them specific to healthcare,” he said.
+“I hate to make an analogy to manufacturing, because healthcare is the exact opposite of that in many ways.  Healthcare providers work with complicated, unpredictable human patients, so it’s never going to be the same as producing ten thousand widgets each and every day.”
+“But they’re both businesses in which it’s very costly to keep making mistakes.  If you’re unable to complete your tasks in a precise, reproducible fashion, and if you don’t know where your knowledge or distribution gaps are, then you can’t consistently produce high quality at a low cost.”
+Organizations may wish to start by developing clinical guidelines and standardized processes for the procedural side of healthcare, he continued, because many of those tasks are “pretty reproducible.” 
+Procedures that have a direct impact on patient safety, such as catheterizations, medication reconciliation, and infection control are a perfect place to apply these principles, and have already produced early results. 
+When healthcare organizations use health IT to ensure that their clinicians are sticking to the script on hand hygiene or antibiotic prescribing, patient outcomes measurably improve.  When they veer off course, avoidable utilization rates rise, outcomes decline, and costs increase.
+“We just need to create the guidelines and the precision around how to treat patients in a way that we can reliably follow to bring about better outcomes,” Delaney says.
+That is easier said than done, he acknowledges.  The sunset may be coming soon for meaningful use in the physician community, but the EHR Incentive Programs have left many healthcare organizations reeling from the financial and workflow impacts of implementing electronic health records.  And the journey is far from over: MACRA, MIPS, and alternative payment models (APMs) are likely to be just as challenging.
+“Competing initiatives” will still be a stock phrase in the healthcare lexicon for years to come, and it may seem like there is simply too much to do without enough money, manpower, or optimized data to get the job done.
+But Delaney believes that frazzled healthcare organizations should look at this fragmented, difficult landscape in a positive light.
+“We have such a great opportunity to get things right,” he stressed.  “In some ways, the system seems incredibly broken, and it’s very hard to face that.  But we can take a step back and look at some of our accomplishments and chart where we want to go.”
+“Healthcare is the largest sector in the largest economy in the world, the delivery of which was tracked on paper until just six or seven years ago,” he continued.  “Now, for the first time, we can see the digital record of what has happened to our patients, and there’s an enormous opportunity in that.”
+
+We are at the stage of beginning to integrate this data together to get an end-to-end look across the service line.  Once we have that, it’s just a question of honing the data and figuring out what quality markers are really important for outcomes.  Then we can take those metrics and optimize them using people, processes, and technology.”
+Dig Deeper
+Patient Safety, Engagement Relies on Crafting a Culture of Change
+How to Build a Successful Big Data Analytics Program in Healthcare
+Tagged Accountable CareHealthcare Big Data AnalyticsPay for PerformancePopulation Health Management
+
+

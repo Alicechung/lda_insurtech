@@ -1,0 +1,23 @@
+Predictive Analytics Flag Patient Medication Adherence Patterns
+
+October 06, 2015
+
+By Sara Heath
+October 06, 2015 - Costing the healthcare industry nearly $337 billion in 2013, medication nonadherence is a serious problem in chronic disease management and population health management. Although it may seem impossible to control whether or not a patient takes his or her medication, several industry professionals state that there is a potential solution where pharmacies provide early intervention to patients at risk of not adhering to a medication plan.
+According to a recent study conducted by Brigham and Women’s Hospital and CVS/Caremark, predicting medication nonadherence may be easier and more effective than one may think. The study took a sample of Medicare Part D enrollees receiving statin initiators and tracked their initial prescription filling habits within the first few months of treatment. Researches continued to track patients’ adherence patterns for the following 12 months.
+Overall, the researchers -- Jessica M. Franklin, PhD, Alexis A. Krumme, MS, William H. Shrank, MD, MSHS, Olga S. Matlin, PhD, Troyen A. Brennan, MD, JD, MPH, and Niteesh K. Choudhry, MD, PhD -- found that initial prescription filling habits were indeed an adequate predictor of continued medication adherence.
+For example, those patients who were more diligent about filling their prescriptions immediately were more likely to maintain better medication taking habits.
+Dig Deeper
+Synchronized Pick-Up Boosts Medication Adherence Up to 13%
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+Predictive Big Data Analytics Identify High-Risk ED Patients
+“In this cohort of Medicare beneficiaries initiating treatment with statins, we found that initial adherence during the first few months after initiation strongly predicted the 12-month adherence trajectory. Prediction was best when predicting consistent medication use and consistent nonuse,” the researchers report.
+What makes this research unique and effective, the researchers state, was that it placed patients into different strata based on their adherence patterns. Instead of categorizing patients as “adherent” or “nonadherent,” patients could be categorized in one of six trajectories. Trajectory 1 consisted of patients who consistently used their medications, trajectory 6 consisted of patients who consistently did not use their medications, and trajectories 2 through 5 consisted of patients somewhere between the other two trajectories.
+The use of multiple trajectories allows researchers to better pinpoint which patients could better benefit from nonadherence intervention. Specifically, this information helps researchers help patients who fall in trajectories 2-5.
+“These patients are not perfect adherers, but they also have not completely discontinued their medication. Therefore, patients with these dynamic patterns may be most susceptible to potential interventions that encourage adherence and those that help moderate adherers refill more regularly or avert discontinuation,” the researchers state.
+It also allows researchers to identify at which time those patients should be encouraged to continue medication use in order to be most effective.
+“[T]rajectory groupings differentiate between patients who struggle with adherence at different times during their medication use,” the researchers report. “For instance, patients in group 4 were identified well after observing 4 months of initial adherence. For these patients, this time coincides with a steep decline in adherence, followed by a period of sporadic medication use. Targeted interventions for patients predicted to be in group 4 could be implemented at this time.”
+This is particularly notable because the most effective time to intervene with group 4 may be different than for group 5. By customizing intervention plans, pharmacists are making their nonadherence efforts significantly more effective, showing promise for managing this population health issue.
+Tagged Chronic Disease ManagementMedication adherencePopulation Health ManagementPredictive Analytics
+
+

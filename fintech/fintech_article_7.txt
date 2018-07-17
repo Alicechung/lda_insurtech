@@ -1,0 +1,17 @@
+“Payments Experience will Continue to Improve and get Richer”
+
+July 12, 2018
+
+The Fintech Times spoke to Wim Raymaekers, Global Head of Banking Market at SWIFT, on the future of payment systems and improvements needed to deliver better customer experience.
+
+ With huge amount of investment pouring into the payments industry, the advent of new competitive entrants and the vast strides in innovation that are underway, it is impossible to say what the ‘systems’ will look like at this point. The certainty is that the payments experience will continue to improve and get richer – payments will get faster, safer, more predictable and more transparent.
+
+ A month agom card giant Visa crashed and sparked payment chaos across the UK and Europe. The failure once again raised the question of how to build more resilient payment networks, which are sufficiently fault tolerant. Do you have an appropriate strategy for that?
+
+ We don’t comment on third parties, but clearly security and resilience are key considerations in the payments area – whether for networks, service providers or key participants. At SWIFT, we take our own security extremely seriously – our ability to protect against issues, to detect issues and to recover from them. We continually invest in our security and we test it, we investigate and learn from any issues we encounter and we build in redundancy and plan and rigorously rehearse our recovery capabilities.
+
+ Gpi, our global payments innovation initiative, is the largest change in crossborder payments in over 30 years. Deploying cloud and API technology on top of our trusted network, gpi dramatically improves the customer experience in cross-border payments by increasing speed, transparency and certainty – all while retaining the benefits of SWIFTs extensive reach. The key parts of the gpi service include enhanced business rules to improve speed in the payment messaging chain and a secure cloud-based tracking database accessible via APIs. This enables the customer to track their payment message end-to-end giving them the visibility and delivery confirmation they require.
+
+ Read the full article Payments Systems of the Future here.
+
+

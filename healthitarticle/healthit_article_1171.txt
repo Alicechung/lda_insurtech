@@ -1,0 +1,28 @@
+Demographic Data Quality Key in Improving Patient Matching
+
+November 11, 2015
+
+By Sara Heath
+November 11, 2015 - Increasing patient demographic data quality can lead to significant improvements in patient matching systems, a new Sequoia Project report explains.
+Through a detailed case study of Intermountain Healthcare’s patient matching system, the Sequoia Project in conjunction with the Care Connectivity Consortium has determined several data input best practices to help improve patient matching systems.
+The Sequoia Project’s case study details a patient matching system overhaul at Intermountain Healthcare, and shows that a vital part of improving patient matching is increasing data quality control to ensure that data entry is consistent across all points of care. Additionally, The Sequoia Project found that fine-tuning patient identifier algorithms can improve patient information exchange. By taking both of those adjustments into consideration, Intermountain was able to improve its patient identifier matching rates by 90-95 percent.
+The primary method by which Intermountain improved patient matching was through data clean-up and normalization. Intermountain reviewed patient demographic data to ensure that it was properly input. Common data quality issues included misspellings, missing information, and typographical errors.
+Dig Deeper
+Better Medication Adherence May Bring $37 for Each Dollar Spent
+Brown Gets $1.1M to Study Medicare Post-Discharge Care Quality
+Retail Clinics May Expand Access to Care, But Don’t Cut ED Costs
+Specifically, Intermountain sought to enhance useful patient identifying traits to increase the effectiveness of its patient matching systems. The organization determined these traits on the following criteria:
+Completeness: At what rate is this trait captured and available?
+Validity: Is this trait known to be correct? Patient demographics consisting of default or temporary values (e.g. “Baby Smith” for newborn’s name) are complete but not valid.
+Distinctiveness: Is the trait able to uniquely identify a person? For example, a trait such as sex (i.e. administrative gender) is not associated to a single individual, whereas a trait such as an enterprise master patient index (EMPI) value is distinctive.
+Comparability: Is the trait structured, coded (or numerical), or is it free text in string format? An address is an example of a relatively difficult to compare trait, whereas a social security number (SSN) can be easier to compare.
+Stability: How much does the trait remain constant over a patient’s lifetime? Although examples exist to the contrary, traits such as gender, birth date, and Social Security Number tend to be relatively consistent over time. Other traits, such as current address, tend to change relatively frequently.
+Clearing up these issues improved Intermountain’s patient matching rate to 60-70 percent.
+During its data clean-up, Intermountain identified a group of patients who were consistently unidentifiable. After careful investigation, the organization found that these “fragile identities” often had lacking healthcare demographic data input, or there was another patient with nearly identical demographic data (such as a set of twins). To remedy these issues, Intermountain determined three steps to dealing with these patients, such as identifying the patient, identifying the lacking demographic data, and manually editing that data to improve the patient matching likelihood.
+Intermountain also performed the inverse for a group of patients it called the “Well Behaved Group.” These patients always successfully matched with their demographic data, so the organization took a closer look at them to develop best practices.
+“The single most important factor distinguishing this group from the fragile group was the presence of complete demographics,” The Sequoia Project wrote in the white paper. “The traits of this group of patients are being used to inform the best practices for the other patient groups including the human workflow implications such as ensuring hospital admissions staff are trained and motivated to enter and use robust and complete patient traits.”
+Data regulation and standardization is the most effective method for improving patient matching systems, the white paper claims. Although the process of updating and standardizing demographic data is an expensive and laborious endeavor, it promises future value and efficiency.
+“Once a patient’s records have been manually analyzed and remediated, that information can and should be leveraged in the future to prevent repeated manual rework on the same patient record… Those linking decisions should be stored in such a way that they can be reused in the future.”
+Tagged Care CoordinationData CapturePatient Data
+
+

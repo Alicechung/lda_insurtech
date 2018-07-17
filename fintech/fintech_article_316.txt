@@ -1,0 +1,35 @@
+Making sense of MIFID II
+
+March 17, 2018
+
+by Victoria Princewill for The Fintech Times
+
+ What Is It?
+
+ MIFID II is the moniker for the Market in Financial Instruments Directive, a piece of EU legislation that came into effect on 3rd January 2018. A series of financial reforms that aim to bring transparency and trust to financial markets, it’s regulated at a national level by the FCA and the Prudential Regulation Authority. Whilst MIFID II is, specifically, a revamped version of MIFID, when talked about MIFID II tends to refer to both the second MIFID and another piece of legislation, MIFIR. MIFIR is the shorthand for Regulation on Markets in Financial Instruments and Amending Regulation. Where MIFID II looks at the framework of trading venues [like regulated markets], MIFI seeks to overhaul the operational side of things, looking at the systems, processes and governance measures currently being adopted.
+
+ MIFID II was the EU’s response to the 2007/08 financial crisis, which revealed bankers as irresponsible — gaming the financial system for their own ends, and the financial markets as too complex — difficult for the public to grasp and hard to apply external oversight to. The abundance of agency and absence of oversight could, as the 07/08 crash reminded us, have devastating consequences. MIFID II and MIFIR became the answer, not only to the crash but to the problems of the first MIFID, which came into effect in November 2007, coinciding with the crash, inadvertently revealing that there were still huge problems with the financial framework and more regulations were required to manage it.
+
+ What Does it Do?
+
+ High level goals:
+
+ Below are two examples of some of the policies MIFID II intends to implement:
+
+ – Fair costs for market data
+
+ MIFID II aims to regulate how much companies can charge for access to their research. Until recently, investment banks could charge asset managers over $1m for an annual subscription, which allowed them to access their analyst research. The asset managers didn’t pay for the research directly; they received it for free and added the costs to their clients’ bills. MIFID II requires asset managers to ‘unbundle’ these services and outline how they will cover their firms research costs instead of forcing their clients to. As of 3rd January 2018, a large number of high-profile asset management firms have stated publicly they that will no longer bill their clients but absorb the costs themselves.
+
+ – Record-keeping
+
+ MIFID II is proceeding with its twin goals of accountability and transparency by insisting that firms document their client calls. Firms should record ‘conversations and communications with all clients where these relate to or intend to lead to the conclusion of a transaction, even where the transaction is not concluded.’ The content of these records should include not just the date, time & location of the meeting and the identity of those in attendance but also the content of the call, specifically details about the client order including the price, type of order, volume etc. Victoria Princewill
+
+ Why is it controversial?
+
+ Critics of MIFID II tend not to oppose it in principle but in practice. IT departments in investment banks are ill-equipped to deal with the surge in report and record-keeping that MIFID II is demanding. In order to meet MIFID II’s new accountability requirements, investment banks need to drastically update their IT platforms, developing new technology strategies to accommodate the new processes. This could either create a slew of new business for fintech consultancies or put smaller banks out of their own. The research policies have caused another anxiety. With asset managers having to fund their own research, not only will they need new software to manage their unbundling processes but we can expect them to be more selective with what they purchase, assuming they do at all. Fewer companies purchasing research could lead to a significant drop in the number of analysts being hired or retained.
+
+ In pursuit of a fairer financial system, MIFID II could force small firms to fold. We have to hope such an unfortunate irony doesn’t become the inadvertent fallout.
+
+  
+
+

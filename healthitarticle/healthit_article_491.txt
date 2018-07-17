@@ -1,0 +1,46 @@
+KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+
+April 25, 2017
+
+By Jennifer Bresnick
+April 25, 2017 - Hospitals searching for clinical analytics and patient surveillance tools for combating sepsis give high marks to functionalities provided by Epic Systems and Cerner Corporation, KLAS Research says in a new report. 
+The two competitors, primarily known for their electronic health record products, win out over other EHR-centric vendors in terms of meaningful real-time alerting, lowered mortality rates, reduced length of stay, and increased internal compliance with sepsis protocols.
+Sepsis is one of the most common killers in the hospital setting, with some recent research suggesting that up to half of all hospital deaths can be attributed to the fast-paced inflammatory response to infection. 
+Early detection and treatment is key for reducing mortality rates – and associated quality penalties for preventable deaths – and the majority of healthcare providers recognize the value that sepsis surveillance tools can bring. 
+Fifty-eight percent of organizations surveyed by KLAS said that their sepsis solutions are making a definite positive impact for their patients, while 11 percent said it was making something of a difference and 23 percent added that it was too soon after adoption to tell if it was producing results.
+READ MORE: Big Data Analytics Show More Sepsis Deaths in Large Hospitals
+One anonymous participant said that electronic monitoring helped to reduce antibiotic delivery time for patients with severe sepsis by half an hour.  Another facility saw mortality rates drop from 12 percent to 7 percent after going live with a surveillance product.
+Source: KLAS Research
+Organizations are looking to expand sepsis monitoring tools from the medical-surgical floors into the emergency department and ICU in an effort to better equip their providers with real-time alerting, clinical decision support, and protocol reminders required to prevent sepsis mortality. 
+Providers are also looking to train algorithms to detect the condition in special populations, including the elderly and pediatric patients, in an effort to equip them with the insights they need to deliver timely care.
+There are a multitude of vendor products available to help fill these needs, KLAS says.  Enterprise EHR vendors, analytics specialists, and infection control or surveillance vendors all offer their own takes on sepsis monitoring and response tools.
+Many providers feel as if purchasing modules from their existing EHR vendor is the “most natural” approach to supplementing their traditional patient monitoring tools, the report states. 
+READ MORE: Using Big Data Analytics, Systems Engineering to Tackle Sepsis
+Two-thirds of organizations interviewed by the research team have adopted sepsis technology provided by the same vendor as their core EHR infrastructure. 
+Others have tweaked existing alerts, templates, and tools in their EHR instead of purchasing new modules, while a small number of providers have built their own custom clinical analytics solution on top of their existing EHR.
+In order to gain more insight into the effectiveness of these methods and providers’ satisfaction with their vendors, KLAS interviewed customers using sepsis products from Allscripts, Cerner, Epic, McKesson, and MEDITECH. 
+Cerner and MEDITECH are the only vendors on the list offering dedicated sepsis modules.  Allscripts and McKesson offer custom sepsis solutions, while Epic provides alerting capabilities spun off of their existing product suites.
+Due to Cerner’s heavy focus on developing and marketing its St. John Sepsis Agent product, adoption among its customer base is high, KLAS notes. 
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+“Of the 29 Cerner organizations KLAS interviewed that have not already built a custom sepsis solution into Millennium, 28 have adopted St. John Sepsis Agent,” the report explains.  “The always-on algorithm and related alerting are available for free to Cerner customers, but organizations must pay for the advanced analytics and dashboard module.”
+MEDITECH has also developed a dedicated sepsis module called MEDITECH Surveillance.  “Adoption is relatively light among MEDITECH customers, as the solution is still new enough that awareness has not filtered down to all customers,” says KLAS. 
+Instead of taking advantage of the pre-packaged module, the majority of MEDITECH users interviewed had built their own custom solutions into their EHR products.
+In contrast to the out-of-the-box offerings from Cerner and MEDITECH, Epic requires its users to be somewhat more engaged in the development process.
+The company uses its Best Practice Advisory (BPA) alerting system to help users identify sepsis patients.  The strategy requires organizations to do much of the development work themselves, participants noted, leading to an overall perception that working with Epic’s sepsis tools requires a great deal more effort than leveraging products from Cerner.
+Forty-one percent of Epic users surveyed by KLAS mentioned that the company’s sepsis tools require “significant effort” to implement compared to just five percent of Cerner users who said the same, KLAS found.
+“We have built out a lot of alerts, order sets, and clinical decision support systems within our Epic EMR to help our doctors on the front line meet a very complex set of metrics,” explained one healthcare coordinator.
+“The Epic system is improving our physicians’ focus, especially the infection prevention module. There are tools in there that help with sepsis monitoring, reporting, and screening.”
+Meanwhile, McKesson offers a rules engine to its customers, although few have taken advantage of the functionality, and Allscripts users also have to undertake the initiative to develop a sepsis tool within the Sunrise Clinical Manager product.
+“Those that have reached out to Allscripts for help feel Allscripts is very focused on sepsis,” the report notes. “However, customers who are not proactive in reaching out are generally unaware of the fact that Allscripts can help—about half of interviewed Allscripts customers were unaware of any efforts by Allscripts.”
+Source: KLAS Research
+While 53 percent of respondents said they are using a sepsis surveillance tool tied to their EHR provider, 19 percent chose to invest in a third-party product instead.
+“Surveillance and infection control vendors make up the majority of these third-party considerations; providers feel these vendors are the next logical choice as many organizations already have a platform from one of these vendors in place,” said the report. “The few other considerations for third-party solutions center around analytics vendors or sepsis-specific solutions.”
+But third-party vendors, including Wolters Kluwer, Premier, and BD, don’t score higher than EHR vendors when users were asked about their perceived focus on sepsis technology.
+Source: KLAS Research
+Users expressed disappointment with limited functionalities and narrow reporting capabilities, and others stated that they only use these tools to supplement other more robust clinical decision support and alerting products.
+Few other vendor types, such as business intelligence vendors or analytics developers from other industries, are currently exploring the sepsis landscape, the report concludes, leaving the door open to new entrants with innovative approaches to surveillance in the future.
+“The sepsis-monitoring technology market is still relatively immature, and the ability to highlight outcomes is weak,” says KLAS.  Existing solutions are often homegrown or highly customized, leaving the market research organization with little insight into how to compare effectiveness across organizations. 
+As healthcare organizations continue to refine their analytics capabilities to include more real-time surveillance of patients, it is unclear whether the marketplace will veer towards increased customization on an organization level or if dedicated sepsis solutions – provided by third-party vendors or EHR giants like Epic and Cerner – will become the dominate form of patient monitoring.  
+Tagged CernerClinical AnalyticsEHR AnalyticsEpic SystemsHealthcare QualityHospital QualityPatient Safety
+
+

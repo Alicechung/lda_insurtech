@@ -1,0 +1,17 @@
+Packet And AMD Announce The EPYC Processor Challenge For Developers, Gamers, And SaaS Platforms
+
+06 Jul 2018
+
+The Joint Effort Offers Free Trial To Encourage Extensive Performance Testing of AMD EPYC Processors on Packet’s Bare Metal Cloud
+Packet, the leading provider of infrastructure automation solutions for developers, today launched a program with AMD (Advanced Micro Devices, Inc.) to encourage gamers, SaaS platforms and other performance-oriented users to evaluate its new AMD EPYC processor-based bare metal server configuration.
+Packet’s new “c2.medium” is based on AMD’s 24-core EPYC 7401P processor and includes 64 GB of RAM, dual 120GB boot SSD’s, two 480GB SSD’s, and dual 10G Mellanox Connect-X4 NICs. The configuration, which is built on Dell’s new R6415 PowerEdge line, is available on demand in four global locations (Tokyo, Amsterdam, Sunnyvale, CA, and Parsippany, NJ) for $1 per hour.
+“We’re incredibly excited about EPYC processors – and we know users will be as well once they try it,” says Sam Machiz, VP of Business Development and all-around hardware guru at Packet. “That’s why we’ve had so much fun working with our friends at AMD to craft an incentive program that we know will appeal to both longtime AMD fans and newcomers alike.”
+Read More: Working Together To Strengthen The Lives Of Rural Americans
+The AMD EPYC Processor Challenge at Packet offers users USD$250 in initial credit towards kicking the tires of the new system. Users who publish detailed teardowns comparing EPYC to their previous setup can receive another $1,500 in credit and will be entered to win a year’s worth of free EPYC processor usage at Packet (not to exceed $50,000).
+“The EPYC Processor Challenge is exactly the kind of aggressive go-to-market splash that users have come to expect from AMD,” said Dan Bounds, Senior Director of Datacenter Solutions at AMD. “As our momentum continues to grow with customers looking for a fresh approach to their workloads, we’re excited to collaborating with Packet, bringing the no-compromise performance and value of AMD EPYC processors to a new generation of users.”
+While bare metal has long been a favorite of AMD’s gaming customer base, the combination of 24 high performing physical cores and a modest price point are attractive to a wide variety of Packet’s global user base, from scale out SaaS platforms to Kubernetes-based applications.
+Zachary Smith
+“With players like Amazon and Vultr entering the bare metal market, we’re thrilled to be the first cloud platform to make the AMD product line directly available to users,” noted Zac Smith, Packet’s CEO. “The EPYC Processor Challenge is a fantastic example of how we users can push boundaries by inviting demanding users innovate directly on new hardware.”
+Read More: UK And France To Strengthen Ties In Artificial Intelligence And Data
+
+

@@ -1,0 +1,22 @@
+The Linux Foundation Launches Open FinTech Forum: AI, Blockchain, Kubernetes & Quantum On Wall Street
+
+14 Feb 2018
+
+New Event To Help Financial IT Executives Learn About Open Source Best Practices And Technologies
+The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the launch of a new event, Open FinTech Forum: AI, Blockchain, Kubernetes & Quantum on Wall Street (OFTF), taking place October 10-11, 2018 in New York City.
+OFTF will bring CIOs and senior technologists from financial services firms together with open source community maintainers and strategists to learn about building internal open source programs and get an in depth look at how to use the most disruptive open source technologies of the moment to drive efficiency and flexibility; enable new products, services and capabilities; strengthen license compliance; and attract and maintain top talent.
+Jim Zemlin
+“We’ve created this event in part because we’re seeing strong interest from the financial services industry in contributing to projects like Hyperledger, Cloud Foundry Foundation, Cloud Native Computing Foundation, OpenMAMA and others,” said Jim Zemlin, Executive Director of The Linux Foundation. “We want others to understand how they can be involved in open source as they evolve their own solutions. Open FinTech Forum will provide an opportunity for financial services firms to continue to learn the best ways to consume, and contribute to, open source technologies.”
+The two day forum will feature technical tracks on:
+Artificial Intelligence
+Blockchain/Distributed Ledger
+Kubernetes, Containers & Cloud Native Apps
+Networking
+Quantum Computing
+There will also be an in depth tutorial on building internal open source programs. The Linux Foundation in accepting proposals for sessions through July 13, 2018 at 11:59 pm PT.
+Registration is now open, and options include one day passes for tutorials on October 10th or keynotes and technical tracks on October 11, as well as a combo pass for both days. As with all Linux Foundation events, diversity and needs-based scholarships are available.
+The Linux Foundation events are where the world’s leading technologists meet, collaborate, learn and network to advance innovations that support the world’s largest shared technologies.
+The Linux Foundation is the organization of choice for the world’s top developers and companies to build ecosystems that accelerate open technology development and industry adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company.
+Read More: Interview With Tomer Kashi, Co-Founder & CEO, SkyWatch
+
+

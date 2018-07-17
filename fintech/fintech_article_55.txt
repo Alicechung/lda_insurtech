@@ -1,0 +1,41 @@
+NorthRow to verify international users for UK Open Banking
+
+June 26, 2018
+
+NorthRow extends remit to provide verification checks of FinTech and financial organisation users for Open Banking across European Union and globally.
+
+ NorthRow (a Contego solutions business), the RegTech and compliance specialist, has been chosen by the UK’s Open Banking Implementation Entity (the ‘OBIE’), to verify its users in the European Union and the rest of the world. The move follows the successful implementation of verification processes for UK users, streamlining services for customers.
+
+ The new partnership will see NorthRow verify users throughout the EU and the fast-emerging markets in Asia Pacific, including: India, the Philippines and Australia/New Zealand. The company will handle the identity proofing and verification processes for onboarding FinTech firms and other financial organisations, ensuring security and customer needs sit at the core.
+
+ The appointment is further testament to NorthRow’s leadership in providing the highest levels of identity verification. Its streamlined process includes: online application forms, real-time ID verification, ID document capture and verification, and video interviews.
+
+ OBIE was established by the UK Government’s Competition & Markets Authority (CMA) in September 2016, with a remit to increase competition, make the management of money easier, and ultimately enable personal and business banking customers to take control of their financial data.
+
+ Adrian Black, CEO of NorthRow, said: “We want to enable Open Banking to make timely, accurate and informed decisions about potential participants and onboard them quickly, so they can focus on expanding the initiative and ultimately give the end customer secure control of their finances. We have delivered a customised solution, ahead of schedule, that will provide the OBIE with an automated and seamless process for the FinTech onboarding journey.”
+
+ Under the initiative, retail financial services firms make a standard set of Application Programming Interfaces (APIs) available to companies regulated by the Financial Conduct Authority (FCA) or other national competent authority.  It opens the way to new products and services that could help consumers and small to medium-sized businesses get a better deal. It will also give them a more detailed understanding of their accounts, and help them find new ways to make the most of their money.
+
+ NorthRow’s platform has been customised to meet the international scope of Open Banking and provides a flexible solution to complex, multi-source checks, that are carried out at high speed.
+
+ Nigel Spencer, Head of Support Services at the OBIE said: “We have built a good working partnership with Northrow; their flexibility and innovation in the provision of a bespoke solution that also includes video ID verification has been proven with the success of the platform for UK users.”
+
+ About NorthRow
+
+ NorthRow is an established RegTech business that helps financial services organisations to improve operational efficiency and customer experience whilst reducing compliance risk.
+
+ NorthRow delivers a unique combination of automated and managed Identity Verification (IDV) and Know Your Customer (KYC) services via a single API, to make onboarding as frictionless as possible whilst meeting Anti Money Laundering (AML) and other compliance requirements, including MiFID II client suitability and appropriateness checks.
+
+ By automating and integrating a broad range of identity and compliance checks, NorthRow streamlines the complex onboarding and monitoring processes of financial services organisations. NorthRow combines mobile identity verification capabilities using facial recognition and voice recognition AI with data from an international range of commercial, open source and law enforcement sources to deliver risk scores and enriched data on corporate entities, individuals and ID documents.
+
+ About Open Banking
+
+ Open Banking is a new, secure way for customers to take control of their financial data and share it with organisations other than their banks. Open Banking has the power to revolutionise the way we move, manage and make more of our money. For businesses, it is about making the management of cashflow and receiving payments cheaper and easier. Open Banking will make things simpler, faster and more convenient.
+
+ It is the retail banking industry’s response to the UK Government’s request for fairer, more transparent banking and financial services, and follows the Competition and Markets Authority (CMA) investigation into the supply of personal current accounts (PCAs) and of banking services to small and medium-sized enterprises (SMEs).
+
+ Open Banking was created to enable innovation, transparency and competition in UK financial services. It is tasked with delivering the Application Programming Interfaces (APIs), data structures and security architectures that will enable developers to harness technology, making it easy and safe for individuals and SMEs to share the financial information held by their banks with third parties.
+
+ Open Banking will bring substantial benefits to individuals and SMEs greater market choice and greater control over their money and associated data, along with better and easier access to new financial services providers in a secure environment.
+
+

@@ -1,0 +1,18 @@
+EHR data analytics reveal subtypes of autism in children
+
+January 23, 2014
+
+By Jennifer Bresnick
+January 23, 2014 - The varied cluster of neurological, psychological, and physical symptoms clustered under the umbrella of autism often present slightly differently in each child, making it difficult for physicians and therapists to develop and act upon a treatment plan.  Research into the developmental condition is revealing new insights at a rapid pace as the rate of autism diagnosis grows substantially among young patients, and EHR data is becoming a valuable tool in the quest to identify, understand, and treat the underlying causes.  A new study from Harvard Medical School indicates that ICD-9 codes and other medical documentation can help classify patients into distinct subgroups and therefore illuminate the genetic basis for certain hallmarks of the condition.
+Lead researcher Isaac Kohane, Professor of Pediatrics at Harvard Medical School, has been working on algorithms that have identified the prevalence of comorbidities such as bowel complaints, frequent ear infections, type-1 diabetes, and seizures in children also diagnosed with autism.
+“Overall, children with autism who have seizures have trajectories or clusters of symptoms and other clinical findings that differ from those of children with autism who have anxiety disorders,” Kohane explains.  “These EHR-driven studies have also shown that such comorbidities are not spread evenly across the population, but cluster within specific subtypes of autism. The existence of these distinct subgroups suggests an underlying biological architecture that may represent distinct causative or compensatory mechanisms.”
+Kohane has developed a software package called i2b2 that helps extract data from EHRs using natural language processing and ICD codes for fuel.  Despite the widespread adoption of the software and its effectiveness in parsing clinical documentation, Kohane has only been able to distinctly classify about 10% of the 5000 autism cases evaluated, showing just how complex the disorder can be.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Deep Learning Network 100% Accurate at Identifying Breast Cancer
+The researchers were able to identify 45 symptoms that were sorted into three major subtypes, the first categorized by a high rate of seizures, the second by multisystem disorders like cardiac and auditory complaints, and the third primarily focused on psychiatric disorders.
+While a larger cohort of patients may yield even more major categorizations, the analytical approach to defining autism trajectories may help caregivers better understand the individual needs of their children and aid in predicting their health over time.  “With increasing awareness of the feasibility of electronic-health-record-driven studies, we will be able to tease apart the massive substructures of autism with unparalleled resolution and efficiency,” Kohane says. “We can anticipate an era when every autism clinical care visit also contributes to furthering our understanding of the disorder.”
+  Tagged Applied AnalyticsBig DataClinical AnalyticsClinical DataClinical IntelligenceEHR Patient DataMedical Research
+
+

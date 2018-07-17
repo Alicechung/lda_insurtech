@@ -1,0 +1,24 @@
+77% of Patients Experience Inaccurate EHR Medication Reconciliation
+
+August 07, 2015
+
+By Jennifer Bresnick
+August 07, 2015 - A study published this month in the American Journal of Managed Care found that more than three quarters of patients experienced a medication reconciliation discrepancy when researchers compared EHR data with pharmacy claims data.  
+Active medication lists in the patients’ primary care providers’ EHRs were highly likely to be incomplete or out of date, especially if the patient recently visited an emergency department, raising concerns over patient safety and care coordination.
+Medication reconciliation is a chronic challenge for the ambulatory care sector, particularly in care communities that lack strong health information exchange connections. 
+While pharmacies are becoming increasingly integrated into the EHR ecosystem, and pharmacy claims data is now more often available through ambulatory EHRs, keeping up with rapid changes in what a patient is actually taking versus what may have been prescribed to them is a difficult proposition. 
+Dig Deeper
+Sepsis “Sniffer” Brings Predictive Analytics to Patient Safety
+54% of Healthcare Pros Expect Widespread AI Adoption in 5 Years
+How Big Data Velocity Informs Population Health, Patient Safety
+Patients often discontinue medications without consulting their physicians – average rates of medication adherence hover around 50 percent – and treatments prescribed to “take if necessary” may not be accurately recorded.  Poor medication reconciliation puts up to 60 percent of opioid users at risk for serious adverse events, Express Scripts found in a recent study, due to inadequate flagging of potentially risky pharmaceutical combinations.
+Combined with the fact that three-quarters of physician visits result in at least one new prescription, discrepancies and insufficient documentation in the EHR may contribute significantly to the 3.3 million serious preventable adverse drug events experienced by patients each year, writes the AJMC research team from the Jefferson School of Population Health and Christina Care in Delaware.
+The study examined EHR and claims data for more than six hundred patients prescribed an antihypertensive drug between January of 2011 and September of 2012.  The 609 patients in the cohort produced 2947 individual medications that met the study criteria. 
+“Of these, 1401 (47.5%) were identified as discrepancies, 831 (59.3%) appeared only in the EHR, and 570 (40.7%) only in the pharmacy claims,” the authors explain, resulting in 76.9 percent of patients experiencing at least one discrepancy.  Twenty-eight percent of those errors involved controlled substances.
+The study highlights some of the critical impacts of health IT on patient safety.  A lack of real-time data, poor interoperability, and insufficiently automated health information exchange are often cited among the top reasons why health IT may be doing more harm than good for some patients, despite other evidence that suggests patient safety is actually increasing. 
+The rise of e-prescribing networks like Express Scripts and Surescripts are helping to smooth the process of exchanging up-to-the-minute medication data, and may be cutting the number of related adverse events.  Hospitals that use Surescripts to develop medication lists might be preventing between three and 26 adverse drug events per year, recent data from the network suggests, while saving more than a million dollars in unnecessary costs.
+Providers may also wish to encourage higher levels of patient engagement in order to improve the accuracy of medication reconciliation.  Patients are the ones who know best what they are taking and what has been discontinued, so offering opportunities through a patient portal or during the intake process to check and update medication lists can help to reduce the number of errors. 
+Geisinger Health System found that 89 percent of medication lists presented to patients during check-in required an update, while 91 percent of patients believed that volunteering their medication information would actively help to prevent potential mistakes.
+Tagged Analytics InfrastructureEHR Patient DataPatient Safety
+
+

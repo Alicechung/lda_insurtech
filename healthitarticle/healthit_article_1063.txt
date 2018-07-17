@@ -1,0 +1,33 @@
+EHRs Contribute to Patient Safety Risks, Communication Errors
+
+February 01, 2016
+
+By Jennifer Bresnick
+February 01, 2016 - Electronic health records may not be the only reason why patient safety is put at risk by poor communication and human errors, but they are certainly contributing to the problem, according to a report by CRICO Strategies. 
+The latest patient safety benchmarking report found that 30 percent of the medical malpractice cases filed between 2009 and 2013 involved failures in communication.  More than 7100 of those cases resulted in an adverse patient safety event or patient harm.
+“Whether face-to-face, by phone, or via the medical record, information exchange guides the patient’s diagnosis, treatment, and ultimately, his or her prognosis and outcome,” the report says. 
+“Patients and providers rely on information being timely, accurate, and accessible.  When communication is unreliable, then providers and patients dependent on being fully-informed are left vulnerable to medical errors that can lead to serious harm.”
+Provider-to-provider communication errors are just as prevalent as provider-to-patient lapses, and occur primarily in the inpatient and ambulatory settings.  Only eight percent of incidents were rooted in the emergency department.
+READ MORE: Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+Wherever they take place, the outcomes of these incidents tends to be relatively severe: forty-four percent of reported patient injuries resulted in significant harm, including death.  Nearly one in four of all “high severity” injury cases can be traced back to a communication failure.
+Many of these problems start with EHR documentation and inadequate health information exchange.  The study found that 12 percent of provider-to-provider errors result from poor documentation.  A further seven percent occur due to failures to properly read the medical record.
+Information overload, along with half-baked health information exchange pipelines, lead providers to make incorrect assumptions about who is receiving what data – and who is responsible for relaying the information to the patient. 
+“Workload pressure, cumbersome EHRs, lack of role clarity, distractions, workplace culture (and hierarchies) all contribute to communication failures,” the study adds. “A nurse or physician says or documents only what is critical before moving on to the next task; a colleague reads or listens with less than full attention amidst the chaos of a busy office or inpatient unit; a physician sees a patient for a scheduled visit without the expected test results necessary to conduct a thorough evaluation.”
+[pic]
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+“Miscommunication begets miscommunication,” the report points out, and gaps or discrepancies in the systems that help providers accurately relay information to the appropriate recipient can result in millions of dollars in financial losses in addition to serious patient safety deficiencies.
+When it comes to malpractice litigation, primary care providers often shoulder much of the blame.  Whether or not the PCP is participating in value-based reimbursement structures or care coordination programs like the patient-centered medical home, the primary care provider is responsible for ensuring that all members of a patient’s care team are up-to-date.
+However, general medicine practitioners are more likely than others to report miscommunications amongst providers and poor EHR documentation procedures.
+Among the 951 general medicine cases included in the study, 60 percent resulted in a high severity injury and 37 percent in death.  Thirty-nine percent of provider-to-provider communication cases include “insufficient, inaccurate, delayed, or illegible documentation of clinical findings.”  
+Forty-five percent of cases stem from a missed or delayed diagnosis, often involving cancer, while ten percent involve lackluster patient education about medications or other treatments.
+READ MORE: Healthcare Big Data Silos Prevent Delivery of Coordinated Care
+Ineffective communication amongst nurses in the inpatient setting is also a critical patient safety concern.  Of the 647 nursing-related malpractice incidents, 24 percent reflect poor patient monitoring, 38 percent involved miscommunication between providers about a patient’s condition, and 21 percent revolved around poor documentation of clinical findings.
+Eight percent of cases involved “unsympathetic responses to patient complaints.”
+“Many of the tragic events found in the malpractice cases reflect instances when communication almost happened: an effort to transfer information was intended, or even initiated, but not completed,” the report says.  “If only the nurse had been able to talk directly to the physician instead of a staff member; if only the note in the record had been more prominent; if only the patient’s wife hadn’t left the room; if only the nurse had not been afraid to ‘bother’ the physician in the middle of the night.”
+“Systems, processes, and a culture that encourages nurses to communicate (and, if necessary, escalate) concerns helps ensure that all communication is completed in an accurate and timely manner.  Otherwise, the lack of important patient information, or information discovered too late, leaves patients, nurses, and other providers vulnerable to harm and allegations of malpractice.”
+The study concludes by noting that malpractice cases involving provider-to-provider communication errors are significantly more likely to result in larger financial losses when the case is decided in favor of the patient. 
+Nearly half of suits involving provider-to-provider errors are closed with payment, averaging close to half a million dollars, compared to just 35 percent of provider-to-patient situations, which cost an average of just $381,000.
+CRICO suggests that healthcare providers invest in care coordination strategies and EHR documentation improvement programs that focus on developing smoother transitions of care.  Implementing clear, efficient, and effective coordination policies and procedures that promote patient-centered attentiveness and compassion, as well as open dialogue with caregivers, can help to reduce the number of preventable patient safety events that may lead to serious harm.
+Tagged Care CoordinationEHR UsePatient SafetyQuality Of Care
+
+

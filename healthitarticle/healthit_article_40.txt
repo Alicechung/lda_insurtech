@@ -1,0 +1,28 @@
+Machine Learning, Wearables Accurately Predict Poor Mental Health
+
+June 13, 2018
+
+By Jessica Kent
+June 13, 2018 - A machine learning algorithm can accurately identify risk factors for mental health issues, including high stress, by analyzing data collected from wearable devices, according to a study published in JMIR.
+Recent advancements in mobile and wearable devices have allowed researchers to passively collect real-time data on individuals without disrupting their daily lives. This data can help researchers inform individuals of their risk profiles and enable clinicians and patients to make more informed care decisions.
+The researchers noted that previous studies evaluating individuals’ real-time data to monitor stress and mental health have focused only on information recorded during sleep, or only on information collected by smartphones.
+Dig Deeper
+Machine Learning in Healthcare: Defining the Most Common Terms
+Wearable Devices, Machine Learning Detect Signs of Stroke
+AI, Machine Learning as a Service Set to Overhaul Healthcare
+To better understand behaviors and physiology associated with high stress and poor mental health, the team collected continuous wearable sensor and mobile phone data from 201 college students at a single university.
+Participants wore two sensors on their wrists that tracked skin conductance, skin temperature, and sleep and wake patterns, and each student completed two daily entries in electronic diaries. The researchers also developed a custom phone app that monitored location, timing of phone calls and text messages, and screen on and off timings.
+The team developed a data-check system to make data collection more efficient and applied a machine learning algorithm to identify features associated with stress and mental health.
+The results showed that wearable sensor features, such as skin conductance and temperature, generally identified factors associated with high stress and low mental health more accurately than modifiable behavioral features, such as timing of phone calls and text messages.
+Wearable sensor features reached 78.3 percent accuracy when classifying students into high or low stress groups and 87 percent accuracy when classifying good or poor mental health groups.
+In comparison, modifiable behaviors, including number of naps and study duration, achieved 73.5 percent accuracy when classifying high or low stress groups and 79 percent accuracy in mental health classification.
+These results demonstrate the potential for wearables, mobile phones, and machine learning to collect and evaluate patient data, identify risk factors, and improve health outcomes.
+“These new tools and methods can allow multimodal data in daily life to be captured more continuously, with greater accuracy and integrity of the data, and for long-term and at great scale,” the researchers stated.
+The team added that the machine learning models used in this study could be applied to other modalities that are controlled by autonomous activities, such as heart rate. Additionally, the group noted that the models could be improved by adding other features such as app usage or patterns extracted from text or speech.
+The researchers noted that there were several limitations to the study, including that it was conducted at a single university among socially connected groups of students. The work would need to be applied to other populations to determine the generalizability of this approach.
+Despite limitations in study population, the team said that their tools and methods could be useful to future investigations and to students who want to track their stress levels and mental health.
+“The features and models presented in this paper can be tested in similar multimodal ambulatory datasets collected in other future studies,” the researchers wrote.
+“Tracking stress and mental health conditions would help students better understand their stress and mental health conditions over multiple semesters, as well as help clinicians see how treatment affects students’ conditions if they receive treatment.”
+Tagged Artificial Intelligence in HealthcareBig Data AnalyticsMachine LearningMental HealthWearable Devices
+
+

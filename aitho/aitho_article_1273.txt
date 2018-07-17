@@ -1,0 +1,15 @@
+Bright Pattern Announces Groundbreaking Spring 2018 Release Of Its Cloud Contact Center Platform
+
+07 Mar 2018
+
+With this new release, Bright Pattern enters the next frontier in business continuity with active-active disaster containment option
+Bright Pattern announces the Spring 2018 release of its cloud contact center suite featuring an all-new architecture that strengthens Bright Pattern’s platform with the numerous capabilities that have been introduced over the last 18 months. These innovations propel Bright Pattern Contact Center forward in a number of key directions:
+New Paradigm of the Agent Workplace. The decluttered Agent Desktop dynamically selects the most relevant data elements to be shown on the visible part of the workspace. Built for speed and intuitive switching between channels, Bright Pattern’s new Agent Desktop increases agent efficiency by placing all omnichannel customer interactions together as conversations, in their context, and linking those conversations to multi-sourced customer data.
+Customer Recognition and Context Retention. The system looks up incoming interactions across both internal and external databases automatically to identify customers and enable new levels of personalization. Identified contacts remain persistent, allowing agents to recognize customers on any channel. This feature provides the added benefit of federating customer context from multiple CRMs and applications.
+Unique Disaster Containment. Active-active mode, unlike the commonly used primary-backup approach, allows for superior business continuity at all times. This approach ensures that all sites of the overall geographically distributed system share the transaction load. This ensures all parts of the system are operational and ready to pick up the failed site’s portion of transactions immediately.
+Enterprise Process Automation. The contact center can now play a larger part of any enterprise business process, performing human and scripted workflow actions driven by incoming interactions, outbound contact lists, APIs, and a number of triggers, such as customer sentiment, across all channels.
+Modular Artificial Intelligence (AI) Assist. Intelligent agent reply suggestion capabilities, bot-driven self-service, quality management efficiency improvements, sentiment routing, and much more, are enabled by pre-built and out-of-the-box AI and bot integrations, including Alterra, IBM Watson, and Reply.ai.
+“Spring 2018 is our most important release to date,” said Konstantin Kishinsky, CTO of Bright Pattern. “With its unprecedented reliability levels, we are uniquely positioned to address the needs of large enterprises for cloud contact center solutions.”
+The Spring 2018 release is available immediately to existing customers. The company will be working with its partners to provide a transition forward for OEM versions of its suite, including Zipwire.
+
+

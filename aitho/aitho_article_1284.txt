@@ -1,0 +1,14 @@
+ApacheCon And The Open Geospatial Consortium Team Up To Advance The Implementation Of Geospatial Data And Processing Across Apache Projects
+
+06 Mar 2018
+
+Furthers collaboration on second edition of popular community-driven conference track through new Community Partnership
+ApacheCon, the official conference series of The Apache Software Foundation (ASF), announced today the Geospatial Track, organized by the Open Geospatial Consortium (OGC), who will be supporting ApacheCon as a Community Partner. The track will be held at ApacheCon North America, 24-27 September 2018 in Montreal; the Call for Presentations is open through 30 March 2018.
+ApacheCon showcases the latest breakthroughs from ubiquitous Apache projects and upcoming innovations in the Apache Incubator, as well as Open Source development and leading community-driven projects “The Apache Way”. Building upon the success of the 2016 Geospatial Track, ApacheCon North America 2018 will once again provide participants the opportunity to learn about leveraging Apache projects for the development, implementation, and processing of geospatial information.
+“ApacheCon is unique in that its content is directly created by Apache project user and developer communities,” said Rich Bowen, Vice President of Conferences at the ASF. “We are pleased to see the geospatial community’s commitment to Apache software and look forward to extending our collaboration with the Open Geospatial Consortium in future events.”
+George Percivall
+Apache projects used in geospatial computation include Accumulo, Flink, Hadoop, Ignite, Jena, Kafka, Lucene/Solr, MapReduce, Marmotta, Mesos, SDAP (Science Data Analytics Platform), SIS (Spatial Information System), Spark, and more.
+“Two years ago, the first dedicated Geospatial Track held at ApacheCon led to two workshops that helped shape OGC’s Big Geospatial Data white paper,” said George Percivall, CTO and Chief Engineer at OGC. “Collaborating with the Apache community gives us the opportunity to connect with the people behind some of the most widely used projects in Open Source. We welcome proposals for presentations, and invite organizations to sponsor the Track.”
+ 
+
+

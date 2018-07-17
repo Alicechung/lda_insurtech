@@ -1,0 +1,95 @@
+Ten Tokens to Watch – June
+
+June 5, 2018
+
+This article is not financial advice, and buyers of these tokens do so at their own risk.
+
+ In a crowded market, it can be tough to make sense of those worth your attention or the dustbin. It’s even harder to know those worth your investment. Here is a quick and dirty guide to cryptos we like at Novum Insights— the blockchain market monitor— consider worth watching.
+
+  EOS
+
+ One of the most talked-about ICOs in the history of cryptocurrencies, EOS plans to issue a billion tokens across 350 rounds of token sales. Also known as ‘The Ethereum Assassin,’ EOS is a decentralised operating system designed to build commercial DApps similar to web-based apps by providing the right core functionality. Three of their promises which have captivated every developer are the elimination of transaction fees, tremendous scalability and user experience. The consensus mechanism EOS follows is called a delegated Proof-of-stake (DPoS) where multiple nodes are nominated as representatives by the network to provide the consensus to the transactions. This consensus mechanism was invented by Dan Larimer, founder of Steemit, one of the most heavily used blockchain and Bitshares,a protocol for decentralised assets exchange The other pivotal members in the team are Brendan Blumer (CEO, block.one) and Ian Griggs (co-inventor of Triple-Entry Accounting).
+
+ In Short: EOS is set to launch in June 2018 and we think it has significant growth prospects over the short and long term. One concern that we have is that there is going to be a slow adoption of developers willing to build on EOS, on the other side EOS has a huge amount of resources in order to incentivise developers to build on top of it. Will EOS be able to beat Ethereum’s networking effect?
+
+  ICONOMI
+
+ Iconomi is an ambitious fund management project for crypto investors who lets you invest in crypto without having to worry about keeping your investments secure. It assists new and experienced investors in the cryptocurrency industry. Sophisticated investors and fund managers will be able to create their own crypto portfolio and their own index, i.e. Digital Asset Arrays (DAA). Individuals will be able to benchmark the different performances of those DAAs and invest in the ones that they like the most.
+
+ They have issued Ethereum-based ERC-20 token called ICN. ICN token holders benefit from DAA fees collected ICN tokens to investors who receive dividends with the help of smart contracts. The ICN token holders are considered the owners of Iconomi and in this way their tokens look like equity shares.
+
+ The team is working extremely hard to launch a FIAT gateway to allow investors to participate in their projects using their bank accounts and list their DAAs to the maximum number of exchanges possible. The most intriguing quality of Iconomi is that it is facilitating new money flows into the cryptocurrency market.
+
+ In Short: Bringing potential new liquidity into the market by including a range of investors and institutions in their plans can open some opportunities to Iconomi and the market in future, though keep in mind the equity market has had these types of funds for years, maybe far longer.
+
+  NEO
+
+ Neo, the ‘Chinese Ethereum’, is the first open blockchain platform in China. Calling itself ‘the distributed network of the smart economy’. Neo envisions converting traditional assets to digital assets, creating digital identities for organizations as well as individuals, employing smart contracts using traditional programming languages like C#, C++ and Java, and developing more tools to enable the development of DApps by the community.
+
+ Neo’s blockchain has 100 million tokens to use for creating blocks, providing consensus, and managing the network. In addition the blockchain has 100 million GAS tokens which act as a unit of fuel and will be generated through a decaying algorithm 22 years long. The team is building a community to boost the development and popularity of its platform. It is China’s biggest coin with a fantastic team of Chinese developers and entrepreneurs who aim to make it one of the most valuable blockchain platforms available.
+
+ In Short: Neo is massively popular and is undeniably one of the most propitious cryptocurrencies trading in the market. With more projects building on top of its platform, we think Neo is bound to break new records.
+
+  ZILLIQA
+
+ Zilliqa launched as one of the most important solutions addressing the scalability of public blockchains. Blockchains succeed in scaling up linearly with the help of sharding. Sharding is the automatic splitting of network of nodes into parallel chains called shards, where each shard is synchronised with other shards to process the transaction in the form of micro-blocks. To be more specific it involves splitting the mining network into N chunks, each verifying 1/N transactions.
+
+ All these micro-blocks are merged to form a block, which is then added to the blockchain.
+
+ Zilliqa uses PoW simply to establish the identities of miners in the network and Practical Byzantine Fault tolerance (pBFT) as a consensus protocol to provide finality of the transactions. Due to pBFT, the entire history is not saved on the blockchain, rather only the latest state. This makes Zilliqa the only blockchain to improve scalability without sacrificing speed and decentralisation. Zilliqa will be implementing smart contracts on their network for their process executions.
+
+ The project has a long journey to travel as the release of dApps is scheduled for Q3 2018.
+
+ In Short: Once the release takes place, the developer community working on public blockchains will be able to fully understand the project’s prospects. We think all these attributes make Zilliqa a long-term hold with and, potentially, the sky is the limit.
+
+ AMBROSUS (AMB)
+
+ Ambrosus hopes to build a trusted, autonomous, secure, and efficient global supply chain system to keep a transparent and untampered history of records in order to execute commercial transactions. Ambrosus wants to make the quality of products, specifically food and medicine, universally verifiable with the help of Blockchain, smart contracts, and RFID sensors. The ecosystem can be divided into 4 divisions – Supply chain 2.0, Data Transformation, Direct Deals, and Distributed Versatility. The firm has a large core team of 23 members who have collectively built a strong foundation to succeed this project with incredibly diverse past experience. To name the few, CEO Angel Versetti has previously worked in Bloomberg, World Resources Forum, and United nations; CMO Stephen Croncota has served as CMO of Versace and Creative Director of Warner Bros; CPO Dr. Vlad Trifa is the founder of Web of Things and former Head of Digital Labs at Swisscom; and Project Manager Joseph Wang was a vice president at JP Morgan in New York and Hong Kong.
+
+ The project has a growing social media presence with one of the most active community of members.
+
+ In Short: This partnership consists of a very experienced team and is developing a product with enhanced utility. We think their approach and experience indicates a reasonably positive growth trajectory.
+
+  SHARPAY
+
+ Sharpay provides a solution to share content on multiple social media platforms using a single button. Although companies exist in the market who offer similar features, none of them use cryptocurrencies. Sharpay wants to revolutionise how digital content is monetised. Users will receive rewards for sharing and social influencers, celebrities, or anyone with large followers can monetise their posts using Sharpay token (SHRP). The team already includes Facebook, Twitter, Tumblr, Reddit, and LinkedIn in their button. This is one of the first projects which will provide cryptocurrencies for sharing content in pre-existing social media platforms. There are more than a millions of websites which are growing at the rate of 5-7% per year which takes the potential growth of this project quite high.
+
+ The team which made this vision plausible includes engineers, and financial executives. The SHRP token is an ERC-20 token and 1.42 billion tokens will be distributed in the sale at the price of 0.00003 ETH. The ICO is currently in market until May 31, 2018, and the hard cap is set at 45,000 ETH.
+
+ In Short: We think Sharpay may do what no other project has done up till now on a decentralised platform. The Sharpay button might be an internet revolution for shifting monetisation of time spent on social media to users.
+
+  HEDERA HASHGRAPH
+
+ Both bitcoin and Ethereum blockchains are facing a decrease in their transaction speed and an escalation of their transaction fees as the number of their participants grows. Hedera Hashgraph wants to do the opposite. Technically, Hedera has not built their decentralised platform, Hashgraph, on a blockchain, but uses Directed Acyclic Graph (DAG) which also provides decentralisation and network distribution with more security. Hedera’s hashgraph is capable of processing hundreds of thousands of transactions per second in comparison to Ethereum and Bitcoin’s PoW which process 5-7 transactions per second. If Hashgraph is able to provide consensus on transaction order and timestamps across the 5 continents, it could have the ability to take market share from Visa, which is running on a completely centralised platform. Hedera also follows Visa’s strategy of bringing banks together by developing a scheme which gives them equal power across the network.
+
+ One of the smartest decisions the team has taken is to build the entire base using Solidity, which is the language of Ethereum’s blockchain This also means the platform will be able to support smart contracts in their processes. MZ, the creator of Game of War, will be the first firm to build the decentralised applications on Hedera’s Hashgraph platform.
+
+ In Short: Hedera Hashgraph has a team of experienced professionals, innovative inventions, marvellous media presence, and rapid adoption across a variety of industries. It is a complete package and a prodigy in itself set for a high degree of success.
+
+  SKYFCHAIN
+
+ The cargo logistic Industry is in urgent need of innovation. Much of its future depends on a combination cost cutting and better management largely by making it unmanned. SKYFchain brings an interesting take using automation via blockchain. It is an open platform which will store all the events happening using cargo robots and in the supply chain in a blockchain. The platform has developed SKYFT tokens which will act as a unit to measure the cost of each record based on its type, frequency, and complexity of the transaction.
+
+ The project also ensures a continuous and sustainable development of the platform by transferring 25% of every token used to the Development Fund. The main objective of the platform is to unite all participants involved in the supply-chain market which include operators, customers, and even financial and government organizations. The project originally started in 2014 and has a long roadmap to cover given the innovations go far beyond the current market. The preICO launched on March 1, 2018, priced at 3.9 cents. A total of 1.2 billion tokens will be released in the market.
+
+ In Short: SKYFchain have already received a very enthusiastic response from investors and is destined to grow with further advancements.
+
+  EIRACUBE (RETT)
+
+ EiraCube is a Spanish start-up building the world’s first decentralised robotic pop-up chain of stores using technologies like blockchain, automation, and IoT. They expect robots and chat bots to replace humans in their stores to save on cost and increase consistency of experience. The company is partnering with some of the largest malls to employ robots instead of sales assistants and sell exclusive items from online merchants. Merchants will rent a shelf, send goods to the stores, and the robots will take care of the sales cycle. Each store will have inbuilt AI to evaluate the reviews and preferences of the customers. EiraCube plans tobe opening 30 stores by December 2019 in EU and Asia, and 300 stores globally by December 2020.The two limitations this project has are huge competitions and absence of a clear financial roadmap. But these limitations are balanced in part with a strong technical team with prior experience in AI. The technical roadmap is precise and clear with the MVP already ready to launch. Although the project could have operated without blockchain, it provides additional attributes of security, transparency, and immutability to the project. BRETT is an ERC-20 token with maximum supply limited to 1.5 billion. The company has set a hard cap of $10 million with a heavy bonus round of 40% and referral bonus of 5%. 20% of the tokens are locked in for the team, advisors, and bounties, and 30% will be used later to grow the retail chain further.
+
+ In Short: If the business keep to its technical roadmap, they may be a big success, though they are facing a stiff headwind from centralised platforms like Amazon and Withme.
+
+  ZEROSTATE (ZS)
+
+ ZeroState provides a decentralised solution to companies offering loyalty programs with the help of emotional intelligence. The ZeroState platform has an inbuilt application to evaluate customer emotions as they appear and as they are expressed about specific products and services. The individuals on the platform can share the valuations and earn with the help of ZS coin, which can be later exchanged for ETH. The platform can also act as a search engine and a social media 2.0 to make friends and interact with one another. The platform can be very successful in bridging the gap between user and the manufacturer. The user can sign up for free and will get rewarded for the reviews they leave for the products and in this way, they leave a large chunk of data to be analysed by manufacturers regarding their product. The reward is distributed using the wallets from the budget set for the promotion by the advertisers. All the activities of the business model will be stored in a blockchain and the users will be ranked based on their performances. The features of social filtering based on the emotions discerned from the reviews are also available. The project needs an impeccable team to make such kind of project succeed, and ZeroState has 12 members who can make this possible. The app was launched in App Store and Google play in January 2018, and it already has more than 70000 downloads with 40000 active users. ZeroState has planned to issue 19 million tokens in their 5 rounds of token sale. It is very highly rated by experts in the market and is very optimistically perceived by the investors.
+
+ In Short: It is one of the most creative ICOs in the market and is unquestionably a long-term hold for investors.
+
+ 
+
+ For more tokens to watch, check out last’s months Ten Tokens to Watch – April.
+
+ DISCLAIMER: THE ABOVE REFERENCES AN OPINION, AND IS FOR INFORMATION PURPOSES ONLY. IT IS NOT INTENDED TO BE INVESTMENT ADVICE.
+
+

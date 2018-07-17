@@ -1,0 +1,23 @@
+ADLINK Partners With FogHorn To Bring Edge Intelligence To Its Innovative IoT Digital Experiments As-a-Service
+
+10 Jul 2018
+
+ADLINK expands its groundbreaking DXS IoT digital experiments as-a-service with FogHorn to enable high fidelity, real-time analytics and edge-based machine learning. Approach is cloud-agnostic, while dramatically lowering data transport requirements
+FogHorn Systems, a leading developer of “edge intelligence” software for industrial and commercial Internet of Things (IIoT) solutions, today announced that it has partnered with ADLINK Technology, a global provider of edge computing, data connectivity and complete Industrial Internet of Things (IIoT) solutions, to bring edge intelligence to ADLINK’s recently announced IoT Digital eXperiments as-a-Service (DXS).
+ADLINK DXS offers testing of potential IIoT-based initiatives to determine the viability of possible solutions without the upfront cost and risk associated with a full solution commitment. The vendor-agnostic DXS provides organizations with all the benefits of digital experimentation and enables rapid evaluation of experiments, resulting in blueprints that can be replicated, scaled up and rolled out.
+Read More: Millennial Parents Feel More Secured about AI Babysitting their Generation Alpha Kids!
+FogHorn’s Lightning™ product portfolio brings a groundbreaking dimension to IIoT by embedding edge intelligence locally, as close to the source of streaming sensor data as possible. The FogHorn platform is a highly compact, advanced and feature-rich edge intelligence solution that delivers unprecedented low latency for onsite data processing and real-time analytics in addition to its machine learning (ML) and artificial intelligence (AI) capabilities. FogHorn’s cloud-agnostic approach offers a fully-integrated, closed-loop edge to cloud solution, maximizing real-time insights and rapidly iterating ML models to adjust to constantly changing operating conditions.
+Read More: Millennial Parents Feel More Secured about AI Babysitting their Generation Alpha Kids!
+The addition of FogHorn offers DXS customers several new benefits, including:
+Real-time, CEP-based streaming analytics – Built for advanced, low-latency, closed-loop industrial applications, FogHorn enables faster actionable insights for greater operating efficiencies such as uptime, yield and energy savings.
+Edge to cloud iterative ML – Continuous inferencing on all sensor data, including video, audio and 3D, is sent to the cloud to enhance the ML model, which updates the edge devices in rapid iterations. This results in higher quality predictive insights to drive asset performance and process improvements.
+Radically lower data persistence and transport requirements – Processing live data at the source reduces data networking and storage resources, reducing cloud storage and communications costs by 100-1,000x.
+Enhanced security posture – Edge processing eliminates the need to transmit critical OT data across networks, reducing security infrastructure, risk mitigation and regulatory compliance costs.
+Cloud-agnostic – Avoids cloud provider lock in and facilitates multi-/hybrid-cloud strategies, increasing bargaining power with cloud providers and reducing sourcing costs.
+Read More: The Promise and Potential of AI for the Insurance Industry
+Kevin Duffy
+“ADLINK is meeting a critical need in the market today with its DXS offering, giving organizations the tools and expertise to model multiple IIoT use cases with little risk or cost,” said Kevin Duffy, vice president of business development at FogHorn. “FogHorn is a natural extension of this initiative to bring the technical and economic benefits of edge intelligence into the modeling of IIoT projects. We’re very excited to be working with ADLINK.”
+“ADLINK DXS IoT Digital Experiments as-a-Service enables industrial organizations to think big, start small and work fast when integrating IoT-based functionality within new business models or processes,” said Andy Penfold, director of offering management, ADLINK IoT Solutions and Technology. “It’s very clear an edge to cloud approach will emerge as a primary design principle in IIoT production deployments, so adding the leading provider of edge intelligence into the DXS creates, in our opinion, the most advanced testing ground available for IIoT projects.”
+Read More: The Promise and Potential of AI for the Insurance Industry
+
+

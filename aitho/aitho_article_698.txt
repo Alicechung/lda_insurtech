@@ -1,0 +1,20 @@
+Algolux Announces USD $10 Million Series A-1 For Robust Autonomous Vision
+
+03 May 2018
+
+Addressing challenging scenarios where existing vision and imaging stacks fail
+Algolux Inc., the leading provider of machine-learning stacks for autonomous vision and imaging, is pleased to announce the closing of a USD $10M Series A funding round led by General Motors (GM) Ventures. The syndicate includes Drive Capital, Intact Ventures, and a follow-on investment from Real Ventures. The new capital will be used to advance the company’s ground-breaking technology and grow its global business development activities.
+Algolux has introduced innovative deep perception technology to enable autonomous vision, empowering vehicles and devices to address the difficulties posed by every-day scenarios like extreme lighting and adverse weather conditions. Deployments can lead to safer ADAS and autonomous vehicles, more accurate video security systems, and better mobile imaging in harsh circumstances, while accelerating the provider’s time-to-market.
+The need to deploy more capable and safer vision systems, combined with the company’s technical advantages, have helped accelerate recent wins with key customers in the automotive market, the company’s current focus. The company has also been collaborating closely with the automotive imaging and vision system community as a member of the camera-centric IEEE SA-P2020 Standard for Automotive System Image Quality, contributing to the development of methods and metrics to enable improved vehicle safety.
+Jason Nolte
+“Safety is the overriding priority for autonomous vehicle development. Complete autonomy will only be realized through a leap in perception and inference performance. Algolux’s unique machine learning applications can accelerate the realization of these performance gains for next generation perception stacks, and thus accelerate the advancement of safe autonomous transportation,” said Jason Nolte, GM Ventures Investment Manager.
+Mark Kvamme
+“Drive Capital is passionate about enabling the next generation of sensing systems, with a strong focus on how artificial intelligence can advance the state of the art. We’re excited to be an early investor in Algolux because we believe the company’s powerful approach to addressing the challenges in computer vision will accelerate phenomenal growth in the market for perception systems,” said Mark Kvamme, Partner at Drive Capital.
+Jason Nolte and Mark Kvamme will be joining the Algolux Board of Directors. They will serve alongside Alan MacIntosh (General Partner at Real Ventures), Chris Rowen (CEO of Babblabs and founder of Tensilica), and CEO Allan Benchetrit.
+Dr. Felix Heide
+“We are excited to see our innovative approach to autonomous vision and imaging stacks gaining so much traction. Today’s systems are facing extreme challenges in conditions that are actually ubiquitous in the real world and therefore essential for automotive safety,” said Dr. Felix Heide, co-founder and CTO. “At Algolux, we develop end-to-end vision stacks that eliminate parameters and processing blocks that traditionally have been hand-tuned and often fail in the important corner cases. By learning these parameters and processing blocks, our technology generalizes across sensor configurations and offers a natural way to design safe fusion systems.”
+Allan Benchetrit
+“We are delighted to welcome GM Ventures, Drive Capital and Intact Ventures to Algolux. As the number of cameras more than triple to over 45 billion in the next 5 years, providers will be challenged to meet the demand for complex technical specifications, especially with regards to safety in the automotive industry,” said Allan Benchetrit, co-founder and CEO. “Our growing customer engagement and the recognition from industry and strategic investors clearly validate that Algolux is filling a market need through increased vision system effectiveness, quicker time-to-market, and considerable cost savings.”
+ 
+
+

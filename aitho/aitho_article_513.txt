@@ -1,0 +1,16 @@
+Axon Announces First CJIS-Compliant Artificial Intelligence Training Center
+
+21 May 2018
+
+New center specifically designed for training AI models on public safety data
+Axon (Nasdaq: AAXN), the global leader in connected law enforcement technologies, today announced the completion of the industry’s first center for artificial intelligence (AI) training on public safety data. The AI center is the first of its kind for analyzing police-specific data and is designed to comply with the FBI’s Criminal Justice Information Services (CJIS) Security Policy. Public safety agencies must opt-in to share data with the center, where it will be used to train AI models that will automate workflows to make the public safety community more efficient. The center’s heightened level of security will enable law enforcement to take advantage of the benefits of artificial intelligence through Axon products while ensuring the data used to develop these systems is secure.
+The team of specialists at the AI training center will work on developing a range of future capabilities to help increase police efficiency and efficacy, including software to enable vehicle, speech and critical event recognition. Initially, the team will focus on training the AI algorithm for automatic license plate recognition to aid law enforcement in automated data analysis. Today, without the purchase of expensive, specialized hardware, officers must go through the process of manually viewing license plates and physically typing them into a system to match against a database.
+Moji (Mojtaba) Solgi
+“Officers spend, on average, two-thirds of each shift sitting behind a keyboard doing paperwork,” says Moji Solgi, Axon’s Director of AI and Machine Learning. “Our team is applying AI, machine learning and data science to common policing problems and eliminating pain points for agencies, including manual paperwork. The ultimate goal of the AI training center is to help accelerate the introduction of AI-powered capabilities for public safety.”
+Axon formed its AI Research Team in February 2017 after acquiring two AI research and engineering groups, Dextro and Misfit (previously part of Fossil Group, Inc.). Additional AI solutions the team is currently working on includes:
+Vehicle recognition: The ability to recognize the make, model, year, and color of vehicles on the road will help law enforcement in situations such as finding missing children.
+Speech transcription: Automatically converting speech to text is a step toward automating record keeping and data entry by police officers, eliminating manual paperwork.
+Critical event recognition: Developing an AI solution to detect officers’ actions, such as foot chases, could help notify other officers that a critical event is unfolding.
+With more than 24 petabytes of customer data currently active on Evidence.com, Axon is calling upon agencies who are willing to participate in the AI training program. Agencies interested in becoming a data partner can email AI@axon.com to learn more.
+
+

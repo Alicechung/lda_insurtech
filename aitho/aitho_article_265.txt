@@ -1,0 +1,18 @@
+Luminar Establishes Collaboration With And Investment From Volvo Cars
+
+19 Jun 2018
+
+Today, Luminar announced its deepened collaboration with Volvo Cars to provide its core LiDAR sensing platform to help plans towards deploying safe autonomous vehicles. The new Volvo Cars Tech Fund also announced today that its first investment is in Luminar.
+More than just providing the core sensing technology, Luminar has expanded into a perception development platform. Over the past year, Luminar created 3D LiDAR data infrastructure, labeling, and annotation tools to take full advantage of the new level of data quality produced by its sensors. Data sharing and close collaboration will be equally important for those developing their self-driving software on top of the Luminar data to quickly accelerate safe autonomy vehicle deployments. Volvo Cars is the first of Luminar’s partners to fully leverage its expanded platform.
+Austin Russell
+“Volvo is at the forefront of autonomous vehicle development, and their safety-centric approach to autonomy is directly aligned with our sensing capabilities,” said Luminar founder and CEO Austin Russell. “Our LiDAR is the first to deliver the necessary performance to enable safe and reliable long-range perception, which is required to unlock their goals of autonomy at highway speeds.”
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+Luminar is helping R&D efforts towards Volvo Cars’ vision to make autonomous vehicles a commercial reality. Safe, highway speed commutes require better than human perception capabilities up to 250 meters into the distance in order to safely make crucial driving decisions.
+Henrik Green
+“LIDAR is a key technology for enabling autonomous cars to navigate safely in complex traffic environments and at higher speeds,” said Henrik Green, senior vice president for research and development at Volvo Cars. “Our collaboration with Luminar allows us to learn more about its promising technologies and takes Volvo Cars one step further to the highly autonomous cars of the future.”
+Read More: Scale To Discuss How Self-Driving Cars Will Handle Unexpected Real-World Scenarios At The Information’s Autonomous Vehicles Summit
+Zaki Fasihuddin,
+“Luminar Technologies represents exactly the type of company and technology we seek to invest in, providing us with strategic access to new technologies, capabilities and talent,” said Zaki Fasihuddin, CEO of the Tech Fund. “Supporting promising young firms that are at the forefront of technological development will help us introduce cutting-edge technology that strengthens our leading role in the industry.”
+Of Luminar’s four major automotive OEM partners, Volvo Cars is the second to be publicly announced following Toyota Research Institute in September 2017. It follows an unveiling of its new sensor and aggressive production plans, ramping to a capacity capable of equipping every self-driving test vehicle globally by the end of 2018.
+
+

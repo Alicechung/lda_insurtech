@@ -1,0 +1,36 @@
+EHRs, Value-Based Care Constrain Personalized Medicine Progress
+
+April 18, 2017
+
+By Jennifer Bresnick
+April 18, 2017 - Oncologists are eager to embrace the potential of personalized medicine and genetically-driven precision therapies, but face many of the technical, administrative, and reimbursement challenges that afflict their peers in other specialties, finds the latest State of Cancer Care in America report from the American Society of Clinical Oncology (ASCO).
+The costs and frustrations of electronic health records (EHRs) and the administrative burdens of clinical quality reporting and regulatory compliance, coupled with a precipitous rise in cancer cases and persistent health disparities, are making it difficult for oncologists to offer consistently high-quality care for cancer patients.
+“Since 1991, we’ve been able to save 2.1 million lives because of significant advances in prevention, diagnosis, and treatment – something unimaginable even a decade ago,” said ASCO President Daniel F. Hayes, MD, FACP, FASCO.
+“But there’s still more work to be done to ensure that every patient with cancer, no matter who they are or where they live, has access to high-quality, high-value cancer care.”
+The number of patients receiving a cancer diagnosis increased by 2 percent between 2015 and 2016, the report states. 
+READ MORE: Precision Medicine, Big Data Partnerships Will Enhance Treatment
+Cancer accounts for a quarter of all deaths in the United States, with residents of the Appalachian region among the most likely to develop and die from the broad range of diseases that fall under the cancer umbrella.
+Patients in rural Appalachia, as well as less urbanized regions elsewhere in the country, are less likely to have access to oncology care.  On average, there is only one oncologist for 100,000 rural patients compared to 5 specialists for every 100,000 urban residents.  
+Source: ASCO
+Rising costs of care, disparities in insurance coverage, and changes to the payer landscape also contribute to significant strain on the cancer care ecosystem for both patients and their providers.  Approximately one-third of cancer patients incur significant debts during treatment. 
+More than half of those individuals, covered or not, owed $10,000 or more in out-of-pocket costs.  Three percent declared bankruptcy due to overwhelming financial hardship.
+Providers are also struggling to keep their heads above water.  While 43 percent are currently receiving some portion of their reimbursement from value-based case contracts, increasing regulatory burdens, including the advent of MACRA, are sapping time and money from oncology practices.
+READ MORE: Precision Medicine Summit Brings Big Data, EHR Ideas Together
+More than half of oncology providers surveyed by the ASCO said that administrative burdens and overhead costs are a top financial pressure.  Practices complete an average of 37 prior authorizations per physician every week, equating to about 16 hours of clinician time, the report said. 
+Providers spend $15.4 billion and an average of 785 hours per physician each year to complete quality reporting requirements.
+Forty-one percent cited drug pricing as a significant issue, while 39 percent added that electronic health record implementation presented a major financial challenge.
+Source: ASCO
+Oncologists are still doing their best to leverage the health IT tools at their disposal, however.  More than half share EHR data with their patients, and cancer care providers are invested in developing new strategies to leverage real-world evidence, expand data sharing, and improve the availability and accuracy of clinical decision support tools.
+“The cancer care community’s continued adoption of EHR systems provides an opportunity to develop learning health care systems in oncology,” says the ASCO.
+READ MORE: Precision Medicine, Big Data Analytics Intersect for Better Care
+“These systems’ use of big data supports better clinical decision making, enables quality improvement interventions, and facilitates new types of research studies. Ultimately, these systems should allow researchers and clinicians to leverage real-world experiences to improve cancer prevention, diagnosis, treatment, and survivorship care.”
+CancerLinQ, a data lake and clinical decision support system that was created by the ASCO, has quickly become an important tool for oncologists looking to push their precision medicine expertise forward. 
+More than seventy practices representing over 2000 physicians are currently leveraging the system.  CancerLinQ holds data on more than one million patients and provides real-time feedback to users looking to optimize their quality and care techniques.
+Genetic counselors are also helping to equip oncologists with the tools to combat the myriad challenges of modern cancer care.  Fifty-five percent of providers provide referrals to these professionals, while a quarter have at least one genetic expert on staff.
+These counselors are helping to expand the use of genetic testing to personalize treatment for patients based on their individual responses to therapies.  As the precision medicine research community continues to make breakthroughs in testing and personalized treatments, the role of genetic counselors is likely to keep expanding.
+Precision medicine can continue to save lives and reduce the impact of cancer on patients if payers, policymakers, and other stakeholders work together to streamline administrative processes, encourage value-based care adoption, improve EHR interoperability, and address care disparities, ASCO says.
+“We’re greatly encouraged by the incredible progress that’s occurring across a diverse set of stakeholder groups, who are united in their quest to make a transformed cancer care delivery system a reality,” said Hayes.
+“With continued focus, we can ensure that the highest quality, highest value cancer care is available and affordable for all cancer patients. Oncologists should be incentivized to provide high-quality care at high-value, rather than by volume, as has been the case in the past.”
+Tagged Clinical AnalyticsEHR AdoptionGenomicsMedical ResearchPersonalized MedicinePrecision MedicineValue Based Reimbursement
+
+

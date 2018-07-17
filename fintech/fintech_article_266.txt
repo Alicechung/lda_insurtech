@@ -1,0 +1,17 @@
+ITRS Releases Integrations to Monitor Leading Open Source Big Data Technologies
+
+April 7, 2018
+
+Real-time monitoring provider upgrades its solutions to allow customers visibility into big data ingestion, storage and processing technologies.
+
+ ITRS has released a set of six fully-supported integrations to monitor key big data technologies used in financial services today including Kafka, Hadoop, PostgreSQL, MongoDB, Cassandra and Elasticsearch. This means ITRS Geneos clients will now have the ability to troubleshoot, analyse and optimise the performance of applications running on a big data stack.
+
+ Despite initial hesitations, the financial organisations have been increasingly adopting open source technologies particularly for big data applications. Open source data technologies offer the financial sector large cost savings, better interoperability and greater data processing efficiencies.
+
+ As applications become ever more reliant on their underlying data infrastructure, monitoring tools play an increasingly important role. ITRS’ latest integrations allow enterprises to dig deeper into how the individual data technologies are performing in real-time and investigate how they impact the overall health of applications.
+
+ Mark Loader, Head of Product Management at ITRS, said: “Enterprises in financial services are increasingly running mission critical applications on big data platforms, from data ingestion to analysis. While most firms have successfully implemented these tools, what they lack is clear insight into how they are performing. This is where the value becomes a risk. Without the right monitoring systems in place, firms cannot maximise value from their big data investments – we’ve changed this. With our new integrations, companies can get full visibility into their data-driven applications.”
+
+ In the next months, ITRS will focus on integrating with container technologies. As banks make greater use of containers to power applications, ITRS will develop integrations to monitor the real time performance of these containers and orchestration tools.
+
+

@@ -1,0 +1,26 @@
+Poor Care Coordination Raises Chronic Disease Costs by $4500
+
+May 18, 2015
+
+By Jennifer Bresnick
+May 18, 2015 - Insufficient patient care coordination can increase the average costs of chronic disease management by more than $4500 over three years, finds a new study published in the American Journal of Managed Care, while failing to provide patients with a higher chance of adherence to recommended protocols.  Patients who received services from a higher number of providers, a situation known as fragmentation of care, were more likely to experience gaps in treatment that led to undesirable events such as preventable hospital admissions.
+“The US healthcare system suffers from high costs that do not yield commensurately high levels of quality,” write the researchers from Brigham Young University, Boston University, and the Harvard School of Public Health. “Although there are many competing explanations for this inefficiency, one area of relatively broad consensus is care fragmentation.”
+“According to the fragmentation hypothesis, care delivery too often involves multiple providers and organizations with no single entity effectively coordinating different aspects of care.  Poor coordination across providers may lead to suboptimal care, including important healthcare issues being inadequately addressed, poor patient outcomes, and unnecessary or even harmful services that ultimately both raise costs and degrade quality.”
+Using data analytics to parse through the insurance claims of more than 500,000 patients from 2004 to 2008, the researchers developed a fragmentation index to quantify how patients move across the care continuum, seeking services from primary care physicians, specialists, hospitals, and other healthcare providers. 
+Dig Deeper
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Identifying Big Data Sources for Population Health Management
+Using Claims, Lab, and Clinical Analytics to Discover Diabetics
+The index didn’t just take into account how many providers the patient visited in a year, but what proportion of their care was handled by each.  A patient with a strong primary care relationship and an occasional consult with a specialist would have a lower fragmentation index score than one who split her care relatively evenly between two or more organizations.
+By correlating the care coordination index with cost data based on Medicare reimbursement rates, the team examined where potential gaps in care occurred, whether or not they were adequately resolved, and how many preventable hospitalizations could be linked directly with inadequate provider communication and population health management.
+They found that patients with common chronic diseases such as cardiovascular disease, diabetes, and asthma, were two percent more likely to experience a preventable hospital admission if they fell into the highest quartile of care coordination as opposed to the lowest.  High fragmentation was associated with $4542 more annual spending than lower fragmentation, while patients who experienced lower levels of care coordination were nearly seven percent more likely to deviate from clinical best practices for their condition.
+Other results include the following:
+• Patients on the higher end of the fragmentation index were more likely to be older, female, and suffer from diabetes, COPD, hypertension, or chronic heart failure than patients with better coordinated care.
+• Patients with highly fragmented care experienced more than twice as many PCP visits as those with better care coordination.  They visited specialists six times as often, and were also likely to visit more primary care providers than their peers.
+• A standard deviation increase in fragmentation was associated with a 1.4 percent increase in likelihood that a patient would experience a preventable hospitalization.  The same increase was also associated with a $2642 increase in costs over 35 months.
+The research team had several theories as to why poor care coordination increased costs and reduced quality for chronic disease patients.  “One possibility is that with multiple providers each heavily involved in a patient’s care, no single provider is able to ensure that the entirety of a patient’s clinical needs are taken into account, leading to gaps in care as important issues go unaddressed,” the authors write.
+“The substantial coordination costs of managing input from specialists drives another possible explanation. Among PCPs with a fragmented style of care delivery, the time spent managing multiple specialists may be crowding out primary care physicians’ direct efforts to provide optimal care to their patients.”
+A lack of adequate health information exchange and EHR interoperability may be another underlying cause, the study adds, leading providers to repeat expensive tests or services unnecessarily.  While the paper did not directly examine how the providers involved in the study leveraged health IT systems to improve care coordination, other research has documented the important role that data exchange can play in keeping costs lower, preventing duplicate testing, and improving care delivery.
+Tagged Care CoordinationChronic Disease ManagementClinical AnalyticsPopulation Health Management
+
+

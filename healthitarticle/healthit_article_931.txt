@@ -1,0 +1,35 @@
+FDA: Big Data Standards, Interoperability Needed for Analytics
+
+May 05, 2016
+
+By Jacqueline LaPointe
+May 05, 2016 - In the second installment of its blog series about the challenges of evidence generation, the FDA has encouraged stakeholders to establish a national platform for interoperability and data sharing standards, which would advance big data analytics and precision medicine.
+A national framework for gathering healthcare data would act as “an umbrella for all activities that help inform all stakeholders about making treatment decisions,” wrote Robert M. Califf, MD, FDA Commissioner, and Rachel E. Sherman, MD, MPH, FDA’s Associate Deputy Commissioner for Medical Products and Tobacco, who previously identified interoperability as a core underlying requirement for precision medicine and advanced medical research.
+The FDA officials noted that health data gathered for one purpose, such as routine clinical care, can also be used to improve patient outcomes through medical research, safety monitoring, or care quality improvement.
+“The task of evaluating drugs, biologics, or devices encompasses different data needs and methods. However, all share a common attribute: the characterization of individuals and populations and their associated clinical outcomes after they have undergone diagnostic or prognostic testing or been exposed to a therapeutic intervention,” explained Califf and Sherman.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+CancerLinQ Partners with FDA for Precision Medicine Studies
+“In other words, the kinds of evidence needed to evaluate medical products for safety and effectiveness and the kinds of evidence needed to guide medical practice overlap substantially.”
+However, in the absence of national standards for data sharing, healthcare providers and researchers have faced significant challenges to the healthcare interoperability and health information exchange that would foster big data analytics and personalized medicine.
+In order to elevate the “secondary use” of health data, the industry will need to develop a new approach to data governance and exchange.
+“Creating knowledge requires the application of proven analytical methods and techniques to biomedical data in order to produce reliable conclusions,” stated the FDA leaders. “Until recently, such analysis was done by experts operating in centers that typically restricted access to data.”
+“Regardless of the specific reason, the result has been the same: widespread and systemic barriers to data sharing.”
+Many healthcare experts use a “walled garden” approach to generating and storing health data, explained the blog post. Some experts fear that increased data exchange could lead to unsecure personal health information or lackluster patient privacy processes. Others are concerned that the health data that they gathered will be used for irrelevant or unbefitting analysis.
+The blog post also noted that many healthcare stakeholders view data as a “competitive asset,” which poses a threat to interoperability and connectivity.
+To establish data sharing standards, the FDA officials outlines three guiding principles for developing a new approach.
+Healthcare stakeholders must establish standards on how health data is transmitted, shared, and analyzed. They should also integrate patient privacy and healthcare data security measures into the national platform.
+Additionally, stakeholders should develop transparent, consensus-based “rules of engagement” for using shared data, the blog post pointed out.
+National goals should also focus on furthering the public good and increasing healthcare interoperability, noted the FDA officials.
+According to the blog post, healthcare stakeholders could look to existing programs on how to create successful data sharing systems.
+For example, the FDA’s Sentinel Initiative established a patient safety surveillance system by scanning administrative and insurance claims databases as well as EHR systems for potential medical product issues. The program employs advanced EHR analytics to analyze millions of medical records and claims to identify adverse events.
+The National Patient-Centered Clinical Research Network (PCORnet) also uses EHR analytics to promote comparative effectiveness research. The initiative calls on healthcare stakeholders, including researchers and patients, to contribute their health data to research networks. By gathering large volumes of data, PCORnet aims to make it more convenient and less costly for clinical researchers to conduct studies.
+By building off of existing healthcare data sharing programs, healthcare stakeholders can further develop guidelines for communicating health information. Interoperability and data sharing standards could help providers and researchers translate large volumes of data into actionable practices that improve population health and precision medicine progress.
+“As substantial work already is being done in all of these areas, valuable experience is being gained,” wrote Califf and Sherman. “The next step is to ensure that these pioneering efforts coalesce into a true national resource.”
+Dig Deeper:
+• How Big Data Analytics Can Boost Provider Autonomy, Outcomes
+• Why Health Data Interoperability is Setting EHR Vendors on FHIR
+Tagged Clinical AnalyticsHealthcare InteroperabilityMedical ResearchPrecision Medicine
+
+

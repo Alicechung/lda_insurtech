@@ -1,0 +1,22 @@
+Bottos Launches Its Mainnet And The Bottos Data Marketplace
+
+31 May 2018
+
+The Bottos Data Marketplace Marks The First Step In Creating A New AI Ecosystem
+Bottos announces the launch of its mainnet and the Bottos Data Marketplace, a global data marketplace designed to foster innovation in artificial intelligence. As the first AI-dedicated public blockchain, Bottos aims to be a distributed artificial intelligence platform, and ultimately a new AI ecosystem.
+The Bottos Data Marketplace was created to eliminate the barriers to growth in AI projects through a simple equation: Blockchain + Data x AI. The users of the marketplace are classified into three categories: data providers, data requesters and data service providers (data validators, data taggers, and data cleaners). Each of the users play an important role in maintaining the ecosystem of the Bottos blockchain.
+Xin Song
+“We launched Bottos with the goal of making data more accessible and affordable”, said Bottos co-founder Xin Song. “Artificial intelligence will no doubt increase productivity in the future, and our Data Marketplace is blockchain-based technology to connect AI companies and data providers.”
+Read More: How Virtual Nurses Are Elevating Patient Care
+Data is a barrier to development for many AI companies; data acquisition can take up 50-60 percent of the budget for AI development, and model training can take up to 70 percent of a project’s time. Global giants like Facebook, Google and Amazon own huge amounts of data and sell it through limited agencies at a very high price.
+Bottos anticipates that its Data Marketplace will expand the opportunities for data and reduce data costs by as much as 30 percent in some cases, helping level the playing field for small and mid-size AI companies.
+Data security is a priority for Bottos, and the company is using several measures to protect data integrity, including encryption, digital signatures, community governance and distributed intelligent storage. When data is hashed and placed on the blockchain, it is sliced into thousands of pieces, and each of those pieces is stored in different places. Bottos also offers data verification services.
+The Bottos Data Marketplace is the company’s first DApp. In early June, Bottos will open source a portion of its codes for Bottos’ public blockchain, allowing developers to build any kind of AI-related DApp, including model marketplaces, data storage sharing networks and computing power-sharing networks.
+Bottos utilizes a multi-token system, with BTO as base tokens, DTO as data tokens and STO as resource tokens.
+“We aim to be a pioneer in the multi-token system,” said Song. “We see significant advantages over single-token systems, including less vulnerability to hacking and other cybersecurity problems.”
+Bottos transactions will involve smart contracts using BTO tokens, which can also be used for third-party services like data verification or cleaning.
+The BTO token is currently listed on ten exchanges, including Gate.io, Bibox, Bit-Z, LBank and CoinEgg.
+Bottos is building the infrastructure for AI development through blockchain technology in order to create a new decentralized AI ecosystem. The Bottos Data Marketplace provides a way to connect artificial intelligence companies and data providers. It is also a consensus-based, one-stop platform to implement the registration, distribution and transformation of data among different participants within the broad-based artificial intelligence ecosystem. Bottos is out to build the world’s most efficient data sharing network to enhance AI innovation and competitiveness.  Bottos utilizes BTO tokens and smart contracts for its blockchain-based transactions.
+Read More: Blockchain Company Expands Services In Bid To Offer Americans New Way To Access Healthcare
+
+

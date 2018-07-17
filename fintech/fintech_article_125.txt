@@ -1,0 +1,35 @@
+TSB tech glitch: Improvement that made things worse
+
+May 29, 2018
+
+In April 2018, TSB, the UK high-street bank, said it had a data malfunction that locked users out of their accounts for a week. Paul Pester, TSB’s CEO, was dragged before Parliament to provide an explanation for why this IT crisis occurred. Mark Hipperson, Centtrip CTO, looks at what happened and how fintech companies like us can better safeguard clients and steer clear of pitfalls ensnaring traditional banks. 
+
+ What was TSB trying to do?
+
+ TSB started a long-planned move of 1.3 billion customer records from its former parent company, Lloyds Banking Group, to Proteo4, a platform built by TSB’s Spanish owner, Banco Sabadell. The change-over, which started on Friday 20 April, was supposed to be completed over the weekend by 18:00 on Sunday. But on Monday morning millions of customers were unable to use online or mobile banking or had been given access to other people’s accounts.
+
+ Data migrations of this scale are highly risky. In fact, no UK bank has previously managed to carry out a transfer of this magnitude successfully. And TSB’s attempt was disastrous.
+
+ Was it avoidable?
+
+ Data transformation of millions of records from many disparate data sources is challenging.
+
+ And running a banking platform that should be available 99.999 per cent of the time at a minimum, with only five minutes of downtime a year, while people expect to have 24×7 access to their money, makes the task even more difficult.
+
+ However, with common project-management practices in place, this situation could have been prevented, or at least the chance of it occurring could have been significantly reduced.
+
+ Was anything missed out at the preparation stage?
+
+ Looking more closely at what happened and how the events evolved, it appears that some key IT best practices might have been omitted, such as:
+
+ And last but not least is proof of concepts (PoCs), which would have revealed any tech and planning errors. TSB should have run PoCs on test accounts, or even staff accounts, before the full release.
+
+ All companies should use these three key steps if and when they attempt anything similar to TSB:
+
+ Can fintech do things better?
+
+ Doing things outside of a mainframe environment is certainly a lot faster.
+
+ Modern challenger banking platforms such as Centtrip’s are built from the ground up and are open source and cloud-based. Consequently, we can achieve high availability of our products and services, resilience, high performance and top security at a fraction of the cost and complexity of legacy mainframe banking systems.
+
+

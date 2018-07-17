@@ -1,0 +1,33 @@
+Big Data, Clinical Intelligence Markets to See Major Growth
+
+December 26, 2017
+
+By Jennifer Bresnick
+December 26, 2017 - As consumers, regulators, and health insurers expect more and more from the provider community, healthcare delivery organizations are actively seeking out a new generation of clinical intelligence and big data analytics tools to equip them with actionable patient insights.
+Healthcare organizations will continue to invest in applications, infrastructure, and supporting services to support value-based reimbursement, population health management, and patient engagement efforts, leading to significant opportunities for vendors to put their wares in front of interested potential clients.
+The global clinical intelligence market is expected to see a 12.5 percent compound annual growth rate (CAGR) between 2017 and 2023, says Market Research Future, with North America leading with its appetite for clinical decision support tools, benchmarking applications, and population health management systems.
+MarketStudyReport.com projects a similarly bright future for the general healthcare analytics market, predicting a 12 percent CAGR until 2024 for technologies that can identify opportunities for financial savings, reduce clinical and operational waste, and improve the patient experience.
+While the high costs of these solutions may still restrict growth among cash-strapped organizations in North America – and particularly among entities in developing nations – the widespread recognition that big data analytics is a fundamental business requirement will continue to spur adoption.
+READ MORE: Meeting the Challenge of Healthcare Consumerism with Big Data Analytics
+A recent survey from HIMSS Analytics notes that 62 percent of organizations have a business intelligence platform in place, while 48 percent have adopted clinical intelligence tools.   
+A separate poll of CHIME members found that 40 percent of CIOs are planning to deploy analytics platforms within their enterprises in 2018, paying special attention to ensuring integration with existing systems and securing strong buy-in from their end users.
+“Organizations are becoming more sophisticated on how they approach IT implementation to address not only immediate needs but future needs as well,” said HIMSS Analytics. “The first phase of IT adoption across the healthcare market is over and the second phase has begun.”
+“Included in this second phase is leveraging analytical platforms to manage the clinical, financial and operational data and to make it actionable to the benefit of the clinicians, the patients and the organization.”
+This indicates that decision-makers aren’t just looking for big data tools for the sake of saying they have analytics capabilities: they’re looking for meaningful solutions to existing business problems and placing a premium on usability, interoperability, and productivity.
+READ MORE: Population Health, Value-Based Care Still Challenging for ACOs
+Vendors that acknowledge the need for intuitively designed products that integrate appropriately with legacy systems are likely to gain – or maintain – their lead in the health IT sector.
+Both reports cite some very familiar names as current market leaders, including Epic Systems, Allscripts, Optum, Cerner, IBM, and McKesson.
+All have been working feverishly to deliver technologies that enable providers to extract and leverage actionable insights on patients and performance, and few have been shy about advertising their successes.
+While Epic Systems is taking advantage of its scale and massive data assets, pinning many of its usability improvements on the promise of machine learning, Optum is growing its big data portfolio through a number of intriguing stakeholder purchases.
+Allscripts, meanwhile, has been touting its API-based health information exchange accomplishments, while Cerner feels confident that it can rise to the challenge of revamping the health IT capabilities of the beleaguered Department of Veterans Affairs.
+READ MORE: Artificial Intelligence to Make More Health Jobs Than it Eliminates
+These efforts must connect with the needs and preferences of healthcare organization consumers, however, if they are to meaningfully reduce inefficiency and raise quality. 
+In an environment where many top executives are still struggling with developing basic big data literacy, vendors may still have their work cut out for them when explaining the financial and clinical benefits their products can bring.
+Even tech-savvy organizations are cautious about investing in unproven new technologies.  Respondents to the HIMSS Analytics survey were particularly uncertain about being among the first to adopt artificial intelligence technologies, despite vendor enthusiasm.
+Thirty-seven percent of participants said that they believe artificial intelligence is still too immature to be useful for business and clinical intelligence.  A further 19 percent added that the business cases for this category of application were still too difficult to understand.
+For vendors, this produces an imperative to temper their excitement over emerging data science breakthroughs with a dose of reality: healthcare organizations are looking for proven results that can help them justify their large investments in new data analytics tools.
+“The use of clinical intelligence solutions across the US hospital market is steadily increasing and as organizations become more sophisticated from an IT standpoint it is expected their analytical capability will move in lockstep,” HIMSS Analytics said.
+“The market has a long way to go until a higher level of analytics maturity is achieved, but with continued data governance efforts and the implementation of analytics platforms to address emerging areas such as AI, healthcare organizations are moving in the right direction.”
+As organizations face increasing pressure to improve performance and cut costs over the next few years, striking the right tone and offering meaningful proof of success will be a key differentiator for vendors who hope to take advantage of the growing big data analytics market.  
+
+

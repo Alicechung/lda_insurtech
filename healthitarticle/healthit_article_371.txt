@@ -1,0 +1,31 @@
+Patient Matching, Health IT Standards Critical for Interoperability
+
+August 28, 2017
+
+By Jennifer Bresnick
+August 28, 2017 - Trustworthy interoperability of accurate, meaningful, and timely health data must be predicated upon reliable patient matching techniques and widely shared health IT standard, states the Pew Charitable Trusts in a letter addressed to National Coordinator Dr. Donald Rucker.
+In order for the healthcare system to reach the next level of health data exchange while ensuring privacy, patient safety, and optimal care quality, healthcare stakeholders need to invest in significant improvements to the ability to match electronic health records with the right individual so that data can be shared robustly across disparate systems.
+Through the 21st Century Cures Act, Congress has tasked the Office of the National Coordinator (ONC) with developing a trusted data exchange framework that will help the healthcare system achieve these goals, explains Ben Moscovitch, Manager of Health Information Technology at Pew.
+“As ONC works with EHR vendors, health information networks, healthcare providers and other stakeholders to advance a trusted exchange framework, we urge you to consider the role of patient matching and data standards in facilitating interoperability,” Moscovitch wrote.
+Both require an increased focus on data governance and data integrity, Moscovitch told HealthITAnalytics.com earlier this year, and true interoperability cannot occur until patient matching algorithms are much more reliable.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+“Patient matching is one of the critical pillars of interoperability,” he said.  “It’s very difficult to effectively exchange information among healthcare facilities without knowing which records should be linked together and which should remain separate.”
+“There’s quite a bit of variability in how providers address patient matching and the algorithms they choose to help them.  Enhancements to patient matching techniques will be necessary for realizing an interoperable healthcare system.”
+Poor patient matching techniques may lead to safety errors, duplicate or inappropriately merged records, denied claims, and low patient satisfaction, industry research has shown.
+In 2016, a Ponemon Institute survey found that 86 percent of more than 500 respondents have witnessed or known about a patient safety or medical error that resulted from misidentification of a patient.  More than three quarters stated that matching and identification issues contributed to up to 50 percent of their organization’s denied claims.
+“Researchers have found match rates as low as 50 percent when matching across healthcare facilities,” the letter added. “As a result, patients and healthcare providers may lack critical data to inform care decisions due to the inability to correctly link an individual with his or her record.”
+READ MORE: Health Information Governance Strategies for Unstructured Data
+“Facilities treating the same patient may not all belong to the same data exchange network. When this occurs, facilities must be able to identify and locate their patients’ records even when those records are held by other organizations and in another network. Through improved matching across networks, healthcare facilities can obtain data on their patients to enable care coordination, integrate and reconcile data, and access relevant information to avoid duplication of tests and other services.”
+Pew is currently conducting several research projects aimed at discovering how to better integrate industry-wide standards into the process of solving the patient matching puzzle.
+“For example, we are assessing whether the use of more detailed standards for demographic data—such as name and date of birth—could help enhance match rates. We are also examining whether individuals can be involved in matching their records,” says Moscovitch.
+“Similarly, we are conducting focus groups with patients and interviewing healthcare facilities to understand how they view patient matching, and their perspectives on biometrics and other unique identifiers that could be leveraged for matching.”
+The ONC is also urging industry stakeholders to tackle the issue, and is providing an attractive financial incentive for developers to volunteer innovative solutions.  In May, the agency announced up to $75,000 in prize money for the best new patient matching algorithm that could identify and reconcile known problems in a large set of test data.
+READ MORE: AHIMA: Information Governance is Key for Trusted Healthcare Analytics
+“From an interoperability perspective, the ability to complete patient matching efficiently, accurately, and at scale has long been identified as a key element of the nation’s health IT infrastructure,” said ONC Office of Standards and Technology Director Steven Posnack, MS, MHS, in a blog post on HealthITBuzz unveiling the contest.
+“Patient matching is almost universally needed to enable the interoperability of health data for all kinds of purposes.”
+As the ONC works with industry representatives to develop a nationwide exchange framework that can support true interoperability, the agency should prioritize the use of data standards to underpin seamless health information exchange, Pew reiterated to Rucker.
+“Achieving the vision of nationwide exchange of information, including across networks, requires that healthcare organizations are able to receive and process the data. Addressing challenges associated with standards can foster more accurate and robust data sharing so that the information is both available and usable.”
+“The development of an exchange framework for network-to-network data exchange offers ONC an opportunity to underscore the importance of addressing data standardization as a critical aspect of interoperability. We urge you to consider the role of improved data standards in furthering the trusted exchange framework.”
+Tagged Health Information ExchangeHealth IT InteroperabilityHealthcare Information GovernanceInteroperabilityNational Patient IdentifierONCPatient Safety
+
+

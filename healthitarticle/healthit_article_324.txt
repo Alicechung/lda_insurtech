@@ -1,0 +1,34 @@
+Coding, CDI Outsourcing Improve Case Mix, Healthcare Data Integrity
+
+October 11, 2017
+
+By Jennifer Bresnick
+October 11, 2017 - Healthcare organizations that partner with coding and clinical documentation improvement (CDI) outsourcing experts have seen more accurate claims coding, increased case mix indexes, and enhanced operational efficiencies, says a pair of new industry polls by Black Book.
+Three-quarters of hospitals and physician groups participating in the survey said that outsourcing has contributed to increased coding accuracy since the 2015 switch to ICD-10, while 85 percent of computer-assisted coding (CAC) and CDI outsourcing clients said they have seen quality improvements and increases in their case mix index.
+In a related survey, eighty-seven percent of hospital financial offers said that increases case mix index was one of their primary motivators for undertaking a CDI initiative.
+While CDI and computer-assisted coding received a great deal of attention during the ICD-10 transition, the importance of maintaining a high level of healthcare data integrity has only increased since the adoption of the new code set.
+High-quality clinical documentation is a crucial component of any successful big data analytics initiative, yet poor EHR usability often makes it difficult for physicians to create clean, complete, accurate, and trusted documentation for financial and clinical analytics purposes.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Outsourcing the health information management process to expert partners has become a winning strategy for many organizations.  Ninety-two percent of outsourcing clients said they were satisfied with their vendor relationships and were seeing outcomes that exceeded their expectations.
+Seventy percent of outsourcing clients are planning to extent their current contracts until 2020, which also indicates high satisfaction with their chosen paths.
+The rewards of developing a successful program can be significant, Black Book reported in 2016.  Nearly 90 percent of medium to large hospitals who outsourced their CDI efforts saw at least $1.5 million in reimbursement increases.
+“CDI solutions are the critical link in ensuring full and timelier reimbursements from insurers and payers, as well as avoiding costly penalties for non-compliance, hence hospital chief financial officers have become the greatest advocates for outsourced end-to-end coding,” said Doug Brown, Managing Partner at Black Book, at the time.
+Interest in outsourcing has actually increased since ICD-10, the new poll revealed.  Twenty percent of hospitals who have not yet adopted an end-to-end HIM, CAC, CDI, or transcription solution from a single vendor are “seriously considering” doing so in 2018 – nearly double the number of healthcare organizations considering a total outsourcing program before ICD-10.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+Voice-to-text transcription services are also gaining in popularity and producing results as providers search for strategies that can decrease the burdens of clinical documentation for their clinical end-users. 
+Technology packages from experienced health IT vendors are cutting costs and enhancing the quality and integrity of clinical documentation, the survey respondents said.
+Within one year of adoption, 83 percent of hospitals said that they had seen their transcription costs cut in half – or more – while increasing the transparency of their dictation and transcription processes. 
+Ninety percent added that they have streamlined their operations without negatively impacting clinical workflows.
+The rise of accountable care organizations and other value-based reimbursement contracts are putting pressure on organizations to accurately document their diagnoses and services for performance measurement purposes, making it even more important to implement tools and strategies that can improve documentation quality without overburdening providers.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+"This is projected to result in an exponential growth in the volume of structured clinical documentation and thus escalating the demand for CAC, CDI and transcription solutions to manage this data," said Brown. "Providers need solutions that increase coding accuracy, reduce overhead, and improve claims process productivity as they undertake alternative payment models."
+Ninety-four percent of physician groups and practice associations said that CDI is an essential area of focus to help meet the many challenges of value-based care in the outpatient setting.
+After reviewing client satisfaction surveys from close to 3000 organizations, Black Book tapped Nuance Communications as the leading vendor for end-to-end coding, CDI, transcription, and speech recognition technology.
+The company, which suffered a massive outage of its services after the NotPetya cyberattack earlier in 2017, received praise from 94 percent of its clients for recovering as quickly as possible, the survey added.
+Other vendors receiving recognition from their clients include PracticeSuite, Chartwise, 3M Health, Optum360, M*Modal, Claricode, Dolbey Systems, athenahealth, Flashcode, Aviacode, and Precyse nThrive.
+Optum360 was also named best outsourced provider for coding, while M*Modal received a nod for best transcription solutions outsourcing among hospital inpatient and physician ambulatory providers.
+As alternative payment models become more prevalent and organizations place more attention on leveraging their clinical data assets for predictive analytics, risk stratification, business intelligence, and other big data analytics initiatives, clinical documentation improvement will continue to be extremely important for providers across the care continuum.
+Choosing the right technology partner for partial or total outsourcing may help organizations maximize their revenue while accurately identifying existing case mix complexities and highlighting opportunities for clinical and financial improvements.
+Tagged Clinical Documentation ImprovementHealth Information ManagementHealthcare Information GovernanceICD-10 CodingRevenue Management Outsourcing
+
+

@@ -1,0 +1,36 @@
+ONC Playbook Breaks Down Health IT, EHR Tasks and Buzzwords
+
+September 27, 2016
+
+By Jennifer Bresnick
+September 27, 2016 - The healthcare industry seems to be largely driven by buzzwords: quick and snappy phrases that reduce complex, difficult, expensive and often confusing initiatives into keywords that may not mean much to the uninitiated. 
+From big data and population health management to electronic health records and value-based care, these short and sweet terms have come to define the new direction of one of the nation’s largest sectors.
+While many providers, vendors, and other stakeholders may assume that their personal interpretation of a certain concept is universal, there has been a great deal of disagreement over what these phrases really mean.  Some are so broad as to be little more than placeholders, while others contain so many detailed, technical components that an expert translator is required.
+To help standardize the healthcare lexicon and organize useful resources for providers, the ONC has produced a new Health IT Playbook that includes definitions, resources, and educational materials for stakeholders who wish to better understand the past, present, and future of healthcare reform – and maximize their investment opportunities while doing so.
+“Navigating electronic health record systems and figuring out what tools and functionalities are relevant and helpful to a particular practice or situation can be difficult,” wrote CMS Chief Medical Officer Thomas A. Mason, MD and Lauren Richie, MA, Director of the Learning & Engagement Division in the Office of Programs and Engagement. 
+READ MORE: Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+In addition to contending with the challenges of understanding key terms, concepts, and technical definitions, providers often struggle to apply this knowledge to actionable decision-making, Mason and Richie added in their blog post on HealthITBuzz this week.
+The interactive Playbook combines dictionary definitions of common buzzwords with learning guides, issue briefs, white papers, and examples of relevant initiatives to create a one-stop shop of health IT education from the provider community.
+The website includes an interactive map of federal funding opportunities and a revamped security assessment tool from the Office of Civil Rights is also available for providers concerned about meeting HIPAA requirements.
+Some additional key materials available in the guide include:
+• A list of qualified clinical data registries that can be used for 2016 Physician Quality Reporting System (PQRS) participation
+READ MORE: Epic Systems, Cerner Remain Leading Population Health Companies
+• EHR adoption, optimization, and data migration tips tailored to the user’s current project status
+• Detailed breakdowns of the components of Certified Health IT tools, including explainers on application programming interfaces (APIs) and the role of FHIR in health data interoperability
+• Data briefs, fact sheets and practice transformation ideas to help providers adopt patient engagement strategies
+• Guides to improving patient safety and care quality using electronic health records, clinical quality reporting, and big data analytics
+• Specialty-specific information about how to leverage EHRs for behavioral healthcare providers and pediatricians
+READ MORE: HHS Doles Out $87M to Promote Health IT, Analytics Adoption
+• Education and training materials to support HIPAA compliance while maintaining overall privacy and security of patient data
+“To help small practices apply these resources, the Playbook also includes success stories from leading practices about researching, buying, using, or switching health IT tools, including optimizing and tailoring them to specific practices or workflows,” Richie and Mason said. “We hope that these resources will help these and other practices resolve key issues and health IT implementation and use challenges.”
+Also available is a new EHR contracting guide, which addresses the topic of data blocking, said National Coordinator Dr. Vindell Washington and Acting CMS Administrator Andy Slavitt in a blog post of their own.
+“As we move to transform the health care system into one that delivers more coordinated care across various clinicians and providers, it is important that data is available to providers and patients when and where they need it,” they wrote.
+“We have discussed data blocking in the past – the practice of knowingly and unreasonably interfering with the exchange or use of electronic health information. One way that blocking occurs and prevents data from moving to follow the needs of the patient doesn’t involve the technology itself, but the business practices that can prevent interoperability. This subtle form of data blocking can occur through language and terms found in contracts for EHRs and other health information technologies.”
+The new guide will help providers recognize and avoid these suspect clauses in EHR adoption contracts in an effort to eradicate data blocking at the source. 
+Organizations will be able to “ask the right questions when selecting an EHR and better communicate their requirements to potential vendors, all while managing the expectations of both vendors and providers and providing a framework for negotiating reasonable contract terms that reflect best practice contracting principles,” Washington and Slavitt said.
+The Playbook and its resources are intended to be a dynamic resource that will adapt and change based on continued industry feedback, Mason and Richie said.  Some sections are currently “under construction” as the ONC gathers input into what additional materials may be helpful to the healthcare community as it works to overcome the myriad challenges of health IT adoption, EHR optimization, big data analytics, and widespread interoperability.
+“The guide, along with the Health IT Playbook, not only helps to support the interoperable flow of health information, but the Administration’s efforts to foster a cost efficient health care system,” Washington and Slavitt said.
+“Ensuring patient data is available to clinicians – and patients – when and where it is needed can improve coordination among providers, prevent duplicative appointments or diagnostic tests, and decrease costs to patients and the overall health care system.”
+Tagged Analytics InfrastructureEHR AdoptionHealthcare ReformPopulation Health Management
+
+

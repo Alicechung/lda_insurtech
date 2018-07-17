@@ -1,0 +1,26 @@
+Setting your EHR data free for clinical analytics
+
+September 03, 2014
+
+By Sponsored Content
+September 03, 2014 - Editor’s note: This piece is the first in a series of contributed articles discussing the healthcare analytics industry at large.  The series will address the big questions involved in building a clinical analytics program, from data warehouses to web portals, and examine how organizations can harness clinical data and health IT to produce valuable insights and improve patient care.
+We’ve heard time and time again how EHR data can be a valuable resource for providers, but many healthcare organizations are still struggling to utilize data to its fullest potential. I recently spoke with the CIO of a primary care practice in Rhode Island that was hosting their EHR on-site. For the last five years, the practice has been using this system across 15 providers. In need of a hardware upgrade, the practice now has amassed 500GB—half a terabyte— of patient and administrative data across only 15 providers.
+The thought of adopting additional hardware and larger backups can be overwhelming in the midst of EHR upgrades and new point of care interfaces, but access to this quantity of data can be instrumental in achieving meaningful population health management improvement. With over 30 megabytes of data for each patient this primary care practice manages, they have the opportunity to garner real insights across the entire practice, especially considering that less than a decade ago, most practices had access to only a sheet of paper.
+Dig Deeper
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+NIH to Bring Precision Medicine Data Collection to Patient Homes
+Healthcare Big Data, IoT, Cognitive Computing Markets Set to Grow
+    The time to achieve the promises of the EHR has arrived. Most products available continue to settle for claims data as a sole source of health information.   While claims data remains valuable—I use it every day for population analytics and cost/utilization management— it’s an abysmal proxy for true clinical data.
+        People in the healthcare industry continue to struggle to create effective prospective risk algorithms based only on a handful of diagnoses that show up on a claim, but we have so much more data to layer in now:
+• Problem lists can contain many diagnoses that have resulted in a claim, but could have dramatic impacts on patient health.
+• We can ask a patient whether he smokes or drinks, track vitals and see whether he fills his prescriptions.
+• Patient and family histories can be mined for risks that could be avoided through effective treatment.
+• How often do they cancel appointments?  Do they wait until acute events to show up?  These uncover patient activation measures and act as predictors to treatment adherence and overall health.
+• How much time does the doctor spend in the room with their patient?  Yes, we can tell that, too.
+Frustratingly, even as the industry begins to look at these measures, we all-too-often settle for vendor-supplied CCDs that contain only a sliver of the valuable data in the EHR.  The importance of EHRs in the pursuit of population health management is unquestionable, however, these systems were often not originally designed or implemented to capture and more importantly share these data.
+If you don’t have access to your data, you can always start with a call to your local (EHR customer service) representative.  If you do have access to this data – set it free!  You’ll be surprised what it can tell you.
+In the next article… we’ll discuss why this data is so hard to get at, as well as strategies for building a high quality and trusted integrated data asset.
+Nick Stepro and Arcadia Healthcare Solutions have been deep mining EHRs for nearly a decade to drive advanced population health and performance improvement.  They’ve integrated with over 20 of the leading EHRs, and are going after more all the time.
+  Tagged Big DataClinical AnalyticsClinical IntelligenceHealthcare Analytics
+
+

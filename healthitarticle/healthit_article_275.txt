@@ -1,0 +1,62 @@
+Big Data, PCP Engagement Aid Mount Sinai with Population Health
+
+December 04, 2017
+
+By Jennifer Bresnick
+December 04, 2017 - While the majority of healthcare organizations have at least recognized the importance of population health management, large integrated delivery systems with hundreds of locations and thousands of providers often find it difficult to drive positive changes into every corner of their vast domains.
+Patchwork technology, patient attitudes, poorly aligned financial incentives, and the innate challenge of getting scores of independently-minded clinics to overhaul their traditional processes while maintaining productivity can make a coordinated population health program seem like a nearly impossible task.
+Niyum Gandhi, Executive VP and Chief Population Health Officer at Mount Sinai
+Source: Xtelligent Media
+Luckily, the growing maturity of big data analytics tools is helping to forge new links between colleagues in large networks such as Mount Sinai Health System, giving executive leaders more actionable insight into how to collaborate in pursuit of value-based care and population health.
+Assuming financial risk while coordinating care for patients within the New York Metro Area is particularly challenging, Niyum Gandhi, Executive Vice President and Chief Population Health Officer, told HealthITAnalytics.com.
+Mount Sinai has been “pushing aggressively” into financial risk, expanding a decades-old managed Medicare and Medicaid program into a value-based approach that covers the majority of the health system’s patients. 
+READ MORE: Top 10 Challenges of Population Health Management
+But doing so has required leaders to change the attitudes of both providers and patients.
+“The New York Metro area is traditionally very oriented towards fee-for-service,” Gandhi explained.  “We have a fragmented provider market and a fragmented payer market, which is fairly unusual.”
+“Usually, even in a metro region, there are only one or two dominant hospital systems or health plans.  But in New York, you’ve got five large academic medical centers in the market, and you tend to have very rich commercial benefit plans from the large employers we have in the city.”
+Traditionally, patients tend to seek out specialists for each of their complaints instead of turning to a primary care provider first, he continued. 
+“There are so many excellent specialists to choose from within so many different networks, so patients don’t always see the point of first making an appointment with a PCP and then taking extra time off work to see a specialist.  They’d rather skip right to the second step, even if the costs are higher or there isn’t clear clinical necessity for doing so.”
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+Rising expenses are starting to ring alarm bells with employers, however, who are urging beneficiaries to reduce unnecessary utilization.
+“Employers are getting more serious about that,” Gandhi observed.  “We’re starting to see that if we invest in building the right kind of relationships with our patients at the primary care level, there is more receptiveness to utilizing the PCP as a central pillar of care coordination and referral.”
+PROVIDER BUY-IN CREATES A STRONG FOUNDATION FOR POPULATION HEALTH
+That shift in attitude is a key component of moving towards a population health mindset, both for patients and for providers.    
+Effective population health management requires providers to take a proactive stance with patients by developing consumer-centric processes underpinned by data-driven risk stratification, more touch-points, targeted interventions, speedy appointments, and seamless follow-up.
+“In the fee-for-service environment, the business model isn’t necessarily based on which patients are in your calendar, just that the calendar stays full,” said Gandhi.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+“But in a population health model, you need to shift from just managing the 23 patients who are coming into today towards managing the 2300 who aren’t coming in, but whose outcomes you’re financially responsible for.”
+At Mount Sinai, a variety of practice transformation efforts have driven the principles of coordinated care throughout a network of around 600 primary care providers, half of whom are employed by the School of Medicine.  The other half are community physicians aligned with the Mount Sinai clinically integrated network.
+“One of our big thrusts is to work with practices to transform every element of their care delivery model to help them achieve their population health goals,” said Gandhi.
+“We have focused programs on transitions of care after an ED visit or hospital discharge, developing outreach programs to close gaps in preventive care, disease-specific education for high-risk patients, and initiatives to enhance access for those individuals with barriers.”
+Strong physician buy-in is critical for ensuring that the health system’s efforts are not in vain.
+“Education and engagement are absolutely key,” Gandhi stressed.  “As leaders, we need to work with them around the success metrics for population health, how to get and use data more effectively, letting them know about the tools and resources available to them, and creating a funding model that helps drive enhanced incentives to them”
+“That includes changing resources, roles, responsibilities, workflow, policy, procedures – you name it.  It’s a lot of work, but it gets much easier when your providers understand the reasons behind the changes and are given the tools they need to succeed.”
+LEVERAGING BIG DATA ANALYTICS TO ACCESS MEANINGFUL INSIGHTS
+Some of those tools come from the IT department in the form of data analytics and health information exchange technology. 
+Mount Sinai uses an Epic Systems electronic health record for its employed physicians – the 300 School of Medicine PCPs plus a few thousand specialists – but the health system’s community-based physicians are using a number of different EHRs.
+“That can be a big challenge when it comes to sharing data,” Gandhi noted.  “We’ve had a data warehouse for a long time, and we are part of the regional HIE community as well as having our own private HIE that supports many of our data sharing initiatives.”
+However, population health management requires much more than just an EHR, he continued.
+“At the end of the day, EHRs are transactional in nature. They were built to drop bills for clinical services that are appropriately documented, and they serve an important role when doing that,” he said.
+"But there’s no button you press in the EHR that gives you guidance on what you need to do in order to more effectively manage your overall panel of patients.  That’s not what EHRs are designed to do.”
+Additional health IT tools are necessary to give providers the comprehensive insights required to serve patients with chronic diseases or emerging health concerns, he added.  In crowded urban areas like New York City, where provider choices are abundant, managing populations gets even more complicated.
+“Only about 60 to 70 percent of our patients’ hospital utilization happens at our hospitals,” he pointed out.  “Our PCP and specialty physicians cover a broader geography than our hospitals do.”
+“So if we’re going to start thinking about risk stratification, who is off their medications, or who was in the ED yesterday, we need a better set of data insights than most of us have at the moment.”
+A comprehensive technology platform focused on providing population health management capabilities is vital for larger organizations, Gandhi said.  Such a system must be able to seamlessly integrate different components of the big data picture, such as claims data and clinical data.
+“The claims data that gives us insight into external utilization isn’t really ingestible by our various EHRs,” he said.  “Getting a longitudinal view across all that claims data, plus the clinical data that is typically more real-time, and surfacing that to care teams in a way that is meaningful – that’s a capability we were missing, and it’s a gap we’re focused on closing right now.”
+“The idea of separate solutions for population health analytics, care management, and physician dashboards seemed like something that would not be effective in our environment, so we chose to work with Lumeris on this,” he added.  “The same data has to be accessible in the workflow for our physicians, as well as to the care managers and the executives who are evaluating performance.”
+AVOIDING COMMON ISSUES WITH HEALTH IT VENDOR SELECTION
+Committing to a population health management platform – and the vendor who provides it – can make healthcare organizations more than a little nervous. 
+In addition to keeping costs under control, providers must make certain that the tool will actually enhance their ability to engage in effective population health management, not frustrate clinicians and their patients.
+They must also keep in mind that technology is only part of the population health process, Gandhi asserted.
+“Population health management is actually the work required across the entire care continuum to improve health at scale,” he said.  “That’s a really, really hard problem to solve, and a lot of providers would love to believe that putting in a technology solution will make it happen for them.” 
+“But health IT is called ‘enabling technology’ because it’s supposed to enable you to take the next step – it doesn’t solve the problem on its own.”
+Positioning a technology acquisition as a first step down a longer path towards better patient management could help providers avoid some of the most common pitfalls of the selection and implementation process, he continued.
+“You need to make sure you aren’t being oversold, and that the vendor isn’t going to disappear as soon as you sign the contract.  You don’t want to have to spend your time, as an executive, yelling at a vendor to fix something because you needed it six months ago but couldn’t get them on the phone,” he said.
+“You need a partner that will bring in the right services to augment areas were you need support, and who can think about your population health management initiative as holistically as you want your physicians to do.”
+The unique needs of every healthcare provider, from large networks like Mount Sinai down to solo providers, makes it essential to find a vendor that will be adaptable and willing to solve challenging problems.
+“The team-based mentality has to extend to the partnerships you create with your vendors, because your implementation of a product is going to look very different than your competitor’s implementation – we are all working with different infrastructure, we have different needs, and we want the end result to work towards our individual goals,” said Gandhi.
+“It can set you back a couple of years if you make the wrong technology decisions, or rely too much on a new IT tool to fix your deeper process and engagement problems.”
+“If you want to drive better outcomes, you need to combine good technology with comprehensive planning and a really robust set of resources for your primary care providers so that they can do the work they need to do in order to care for patients most effectively.”
+Tagged Analytics InfrastructureChronic Disease ManagementHealthcare Big Data AnalyticsHealthcare Business IntelligencePopulation Health ManagementPreventive Care
+
+

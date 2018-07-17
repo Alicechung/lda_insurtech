@@ -1,0 +1,31 @@
+Predictive Big Data Analytics Identify High-Risk ED Patients
+
+July 28, 2016
+
+By Jennifer Bresnick
+July 28, 2016 - Reducing unnecessary emergency department utilization and avoidable hospital admissions is a top priority for many healthcare systems, especially those seeking to cut costs and eliminate waste in preparation for value-based care. 
+While coordinated care models such as the patient-centered medical home (PCMH) have successfully helped providers reroute non-critical patients away from the ED, the use of predictive big data analytics and risk score modeling may be required to identify patients that could benefit from early interventions and closer monitoring.
+In a study published this month in the American Journal of Managed Care, researchers from the Mayo Clinic explain how predictive analytics can use comorbidity and historical service utilization data to identify patients at high risk of ending up in the emergency department or the inpatient setting – and how this data can inform the decision-making of patient-centered medical homes and other coordinated care activities.
+“Changing the payment incentives to improve the organization of care delivery, including accountable care organizations, has led to a reorganization of delivery of care focusing on patient-centered medical homes,” the study explains.  “Many patient-centered medical homes stratify their populations and try to align the level of care with the needs of their patients.”
+As PCMHs work to allocate resources to their most needy patients and take a proactive approach to care, they require actionable insights for each individual.
+READ MORE: Population Health is Top Data Analytics Challenge for Providers, Payers
+“Two key questions need to be answered: Who is likely to have utilization, and what can be done for these patients?” the study says.
+While providers have invested in a number of different data-driven methodologies designed to answer these questions in a timely, comprehensive manner, the researchers suggest that a combination of big data analytics and manual, provider-driven patient selection may be most ideal for ensuring that needy individuals do not slip through the cracks.
+Developing a highly sensitive and accurate predictive analytics algorithm has been a challenge for the healthcare industry, which is still largely struggling to generate the clean, complete, and detailed clinical data required to feed analytics tools.  Existing algorithms may only include a small selection of data points, such as records of previous hospitalizations, comorbidity count, or frequent primary care visits, as a way to identify risk.
+But the Mayo researchers hypothesized that the addition of clinical and demographic data points, including current medications such as insulin and narcotics, mental health conditions, body weight, English language proficiency, and insurance status, may be able to craft a more accurate portrait of hospitalization or ED visit risk.
+To test the theory, the team examined electronic health record data from more than 84,000 adult patients assigned to certain primary care providers between 2010 and 2011.  The researchers divided the patients into six age categories, and used public or private insurance coverage as an indicator of likely socioeconomic status. 
+READ MORE: Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+The researchers also used Minnesota’s five-tier comorbidity system to understand likely risk of a crisis event.  The structure uses a 0 through 4 scoring method to sort patients into risk buckets based on the number of their known conditions.
+During the study, the team compared a basic predictive model using only the five-tier comorbidity system with their enhanced algorithm in an effort to identify patients very likely to experience a hospitalization or ED visit within the next year. 
+In both models, a high comorbidity count and previous hospitalizations and ED visits were the top predictors of future high-acuity events. However, the more detailed model identified a larger subset of patients that may be considered high risk, and also flagged a slightly different set of individuals that may warrant increased attention, the study says.
+“Patients identified as high-risk based only on the enhanced model, compared with those identified only through Minnesota medical tiering, were of younger age, had higher previous healthcare utilization, and had more frequent mental health conditions,” the authors explained.
+“Many of the high-risk enhanced model patients were aged less than 40 years compared with only 11 percent of patients being aged less than 40 years in the Minnesota medical tiering model.”
+READ MORE: Challenges of Applying Predictive Analytics to Population Health
+The enhanced model also pointed out that factors including the patient’s age, BMI, and mental health conditions, as well as the presence of anemia, heart failure, epilepsy, hyperlipidemia, and warafin and/or narcotic usage, were strong predictors of risk.
+“In comparing high-risk groups of the same size from both models and excluding patients identified in both models, 47 percent of the patients in the enhanced model experienced [hospitalization or ED use] compared with 32.5 percent of patients from the Minnesota medical tiering model,” the study concludes.
+The researchers note that the study could only take into account the experiences of patients who sought the majority of their care within the same medical system, and that missing or incorrect data within the EHR used as source material may slightly skew the results.
+However, the enhanced model may be a significantly more accurate and sensitive method of using predictive analytics to flag high-risk patients than a single variable system like the Minnesota comorbidity schema. 
+The addition of socioeconomic, demographic, and clinical data points to predictive analytics tools may be the key to helping patient-centered medical home and other preventative care systems reduce costs and utilization of high-acuity services.
+Tagged Chronic Disease ManagementClinical AnalyticsPopulation Health ManagementPredictive Analytics
+
+

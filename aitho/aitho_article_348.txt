@@ -1,0 +1,18 @@
+SK Telecom Teams Up With DJI To Bolster Drone Video Transmission Technology Using Mobile Communications Network 
+
+11 Jun 2018
+
+Together With DJI, Will Carry Out R&D on Drone-Based Live Video Control Solution Using Mobile Communications Network & Push For Global Sales And Marketing Plans
+SK Telecom announced that the company signed a MoU with DJI, the world’s leader in civilian drones and aerial imaging technology, to co-develop drone-based real-time video streaming product and solution, and cooperate on their global sales and marketing plans.
+Working together with DJI, SK Telecom aims to expand drone-based real-time video streaming technology using mobile communications network.
+During the partnership signing ceremony held on June 8, related officials from both companies took part, including Choi Nag-hun, Senior VP of IoT/Data Business Division at SK Telecom and Jan Gasparic, Head of Global Enterprise Partnerships at DJI.
+Read More: Kraken Joins NVIDIA Inception Program
+Under the partnership, SK Telecom will provide high-performance live video streaming encoder, mobile application and server software solution using the company’s high-performance live video streaming technology, “T live caster”. The solution will enable live streaming of HD footage on DJI drones and hand-held gimbal products such as the Osmo, with minimal latency via mobile communications network.
+When SK Telecom’s ”T live caster,” a technology optimized for high-quality live video transmission, meets drones developed by DJI, it is expected to bring about a positive impact on both commercial and personal drone markets. The combined technology will expand the uses for drones across industries including agriculture, logistics, exploration, public safety and the media and entertainment sector which includes TV broadcasting, YouTube, and Facebook Live that requires live streaming videos.
+Read More: GameFace Labs Opens Pre-Orders For Android-Based VR Headset Powered By NVIDIA Jetson TX2
+In the future, DJI’s drone flight control application, “DJI Go,” may also be integrated with SK Telecom’s streaming application, “T live caster Smart,” allowing DJI’s drones and gimbals to carry out video streaming via mobile communications network. Other opportunities may include integrating SK Telecom’s video reception and control server solution “T live studio” with DJI’s drone operations management solution “FlightHub” to help enterprises efficiently manage their drone operations in the field.
+The new solution will be first deployed in South Korea, the U.S. and Japan, and the service will gradually expand to countries across the world. At the time of 5G commercialization, video transmission app will run on 5G smartphones and tablet, rendering seamless streaming of ultra-high definition (4K or 8K) drone videos possible.
+About SK Telecom: Established in 1984, SK Telecom is the largest mobile operator in Korea by both revenue and number of subscribers. As of December 2017, the company holds around 50 percent of the market, with 30.2 million mobile subscribers including 22.87 million LTE subscribers. It has reached KRW 17.520 trillion in revenue in 2017. SK Telecom has led the advancement of mobile technologies ranging from 2G to 4G, and is currently setting important milestones in its journey to 5G. The company is not only leading innovation in the field of mobile network, but also providing IoT, media, home and platform services. SK Telecom is determined to play a significant role in the Fourth Industrial Revolution by achieving innovations and promoting shared growth with other players in the industry.
+Read More: NVIDIA Introduces HGX-2, Fusing HPC And AI Computing Into Unified Architecture
+
+

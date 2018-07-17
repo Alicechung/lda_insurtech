@@ -1,0 +1,57 @@
+Right Here, Right Now: Augmented Intelligence in the Wealth Management Industry
+
+April 17, 2018
+
+Nathan Gore, editor at The Fintech Times.
+
+ Whilst many predict Skynet or the complete takeover of AI-powered Robots, plenty of startups/companies are getting on with pragmatic AI solutions to helping humans, ones which are no less ground-breaking…
+
+ “If you don’t have an AI strategy – you are going to die in the world that is coming”- Devin Wenig, CEO, eBay
+
+ Artificial Intelligence (AI), and the implications it carries with it, is reaching into all walks of life, and into all professions. The Wealth Management sector is no exception to this rule. The heads of fund executives, portfolio managers, and financial advisors have been turned. They want to know what AI is, how it affects them, and how they get a chunk of this rapidly expanding pie. With Silicon Roundabout nearby, and deep into the heart of where many of these technological advancements are happening, SEI brought together a range of representatives from Wealth Management firms. The speakers were representatives of companies involved in some of the most interesting AI developments: Altus, IBM Watson, and Squirro.
+
+ Had SEI brought these people together to find out that their days are numbered, that they may as well sell up their companies and head off to the sunset in order to avoid the impending apocalypse? No, because the term of the day was ‘augmented’, as in Augmented Intelligence. These 3 companies presented the vision, commonplace within the burgeoning AI community, that AI is here to stay and, more importantly, that it is here to help- assisting humans in increasing their own performance and productivity. The Fintech Times, aided by SEI and these 3 fantastic speakers, delved into the world of AI and Wealth Management, to find out why these companies have been affected by AI, why they care, and what the AI companies are offering to them as the way forward.
+
+ Why does Wealth Management Need AI?
+
+ Simon Bussy of Altus began proceedings by sounding a warning to those within in the Wealth Management sector: “we are now seeing replacements that affect people working in wealth management or similar- no just the ‘blue collar’ workers that we usually talk about as being the first to be affected by these AI revolutions.” And this, principally, was why these attendees were here- developments in AI technology are something that intimately concerns themselves, their bosses, and their clients. They are all aware of the likelihood that we are reaching the end of the hype cycle with AI, and within the next 5 years we will be entering the pragmatic, disruptive stage.
+
+ According to Kai-Fu Lee, former head of Google research in China and a top tech investor, “This job replacement is happening now, and it’s happening in a true, complete decimation”. In the Wealth Management field, at least, this kind of impact is still a few years away. For now, the impact that we are most likely to witness is the use of AI technology to assist those within this industry, complementing human thinking and ability.
+
+ Digital Assistants, not Overlords
+
+ The vision, one espoused by these speakers and many others in the industry, is one of using AI as a beneficial tool. According to Don Schuerman, CTO of Pegasystems, “The best chess player in the world is not a human, or a computer, it is a human and computer playing together”. AI right now is all about taking the work that is being done by humans- and then helping to improve their capabilities.
+
+ A simple example of this, and one that we are all familiar with, is Digital Personal Assistants. Think of Siri; Google Home; Alexa. These technologies, connected into the IoT, are all about trying to revolutionise your personal life. But it is so, so much more than just consumer-level assistance in your own home.
+
+ For instance, take a company such as Pefin. Founded in 2011, their goal is to apply AI solutions to Wealth Management problems, in a way that can be accessible to all types of people. Marketing themselves as the world’s first AI financial adviser, they utilise AI and Machine Learning in order to assist humans, in this case in financial decision-making. Once again, the buzzword is ‘assist’, and this is indicative of this recent and growing trend. Hybrid ‘Digital Advice’ services – utilising both humans and ‘robo-advisers’, are on the rise, and now many are seeing their applications within the Wealth Management-sphere.
+
+ So why aren’t we replacing these pesky humans outright with these perfect AI robots? It is clear that people are not yet (and maybe will never be) ready for a completely  human-less interaction throughout their whole customer experience.
+
+ Everyone we spoke to at this event, from the wealth fund managers, to the organisers, to IBM Watson, all agreed that tactile response and feedback is something fundamental to how humans interact. This human desire can be evidenced in the recent rise/comeback of vinyl records- with 2.1m LPs sold over the past year. You can attribute this ‘Vinyl Revival’ to the tactile, analogue advantages that vinyl offers consumers, compared to downloads/streaming, and even CDs. This is reflected also in research done by Altus about digital advisors: 80% want to deal with a person as well, not just a ‘robot’.
+
+ Therefore, this outlines to us the role that humans are going to play whilst this technology continues to develop- providing a human ‘reassurance’. So if this is going to be our role, what will AI be focussed on improving? The answer: making us more efficient and productive in our various roles. The CTO of Wealth Wizards, Peet Denny, illustrates this: “some parts of the advice process can be mathematically proven, others require quite a large amount of memorisation or calculation. AI will handle these aspects. Leaving the more interesting and subtler edge cases to be handled by the human adviser.”
+
+ An Oxford Economics Analysis concluded that workers will spend 65% less hours on average doing routine administration, but 38% more time on creative and critical thinking. What this will mean for the overall wealth management landscape is unclear, but gains in productivity and time-efficiency are likely to be welcomed by many in the industry, and potential greater margins may encourage many new players to enter the market, companies and startups like Squiro, Pefin, Wealth Wizard.
+
+ It is all here, happening now
+
+ The future can sometimes seem like an exciting, if albeit far off, place. Think space – an industry with typically long time frames and little customer involvement (for example, how long will it be until an ‘average Joe’ can visit the Moon?). Not so with AI; it is already easily accessible and present in day to day life. Just think about the personal  assistants (Alexa, Google Home etc.) that many of us use in our homes every day. They already have a massive presence – and they are only going to get more intelligent and integrated into our lives.
+
+ How has it been made so easy for consumers to access this technology? The answer: by utilising the Cloud. By remotely processing and running all of this powerful technology, businesses are able to provide users with responsive and accurate results, complete with a personable front-end experience.
+
+ This was something that Ian Robotham, from IBM Watson, was also keen to reiterate at the SEI event- joking that perhaps he should have walked onto the sounds of ‘Right Here, Right Now’ by Fatboy Slim, to really ram home this point. With a tiered pricing structure, and a relatively accessible setup, people from all walks of life and all industries are going to be able to take advantage of this AI technology to make their lives easier and to make them significantly better at their job – “you don’t need to utilise IBM just to use this services” – anyone can access.
+
+ Referring back to Pefin, they are great example of another company that is using similar techniques to make sure their services are available to the masses. As their founder, Ramya Joseph, puts it: “Pefin was built to make sure anyone could access true fiduciary advice- from planning and saving to investing, in a way that only acts in their best interest.” Altus utilises its AI abilities in combining interactive chat and machine learning (alongside millions of different data points) to create a financial plan, and set out affordability, goals, and what investments for customers to make. The key point of its system is the buzzword of scale-ability, for a small business or customer use case, it falls into a very attractive price point. Everyone being able to access wealth management services and benefiting from them, at all levels, can only be a positive thing.
+
+ And it is not just the B2C relationships that are benefiting from such AI technology integration either- companies such as Squirro (in attendance at this event) are  taking this technology and applying it to business solutions. Founded in 2012, they describe themselves as a “modern Cognitive Insights Engine that uses Predictive Analytics, Machine Learning and more to enable you to turn even unstructured data into actions.” Using their technology, their goal and USP is to give companies who use their service a leg-up on the competition, by being able to spot trends and openings that much earlier. Again, their technology is already in place and being utilised by various firms right now, and is likely to grow more complex and ‘intelligent’ as their systems gather and process more and more data points.
+
+ Where Next?
+
+ It’s looking like companies specialising in AI technology have just found a range of new potential clients within the Wealth Management sector. Events, like this one run by SEI, appear important for giving these companies the information they need on how they can best utilise this new AI technology for themselves and their customers. It’s extremely interesting to witness, when a traditional industry meets an ever-changing and fast developing one, and both are seemingly able to help the other.
+
+ The range of benefits, such as an increase in productivity and efficacy, are very clear, even if the people responsible for signing these deals may one day find themselves largely redundant. The concerns of job losses, the power of AI, and the general economic social impact, apply to this sector as much as any- but insiders are taking a positive outlook- for now.
+
+ So does all this mean that digital advisers will now be taking care of all of our financial decisions? All the information points to the fact that perhaps we aren’t quite willing to trust all of our money with these ‘digital helpers’ just yet; with Altus customer research indicating that 41.5% of people would trust a digital adviser with no more than 24% of their total assets. These figures are only likely to change as more and more wealth management key players come on board with the technology, and the AI systems themselves become smarter and take on more and more of the responsibilities once left to human advisers. It’s not unthinkable to see a situation where people trust more than half of their assets with these advisers, in the not too distant future.
+
+

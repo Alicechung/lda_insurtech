@@ -1,0 +1,55 @@
+Artificial Intelligence Helps with Costs, Clinical Care at HIMSS18
+
+March 08, 2018
+
+By Jennifer Bresnick
+March 08, 2018 - LAS VEGAS - The annual HIMSS Conference and Exhibition is the perfect time of year for health IT vendors to unveil their latest and greatest offerings.  
+With a captive - and captivated - audience of more than 43,000 registered attendees at HIMSS18, vendors showcasing solutions that leverage artificial intelligence to trim excess utilization, recoup revenue, and improve clinical outcomes tended to draw the biggest crowds.
+Kicking off the weeklong celebration of innovation, CMS Administrator Seema Verma reiterated the importance of sharing data between patients, fellow providers, and health insurers in pursuit of a truly value-based care delivery system.
+Data will play an increasingly important role in developing a healthcare ecosystem that can produce higher quality care at lower costs, she stressed - and artificial intelligence is already becoming a very useful tool for healthcare organizations trying to achieve those goals.
+Hundreds, if not thousands, of health IT vendors are hoping to contribute to these efforts, and the nearly-endless stream of product releases and funding announcements from HIMSS18 exhibitors illustrate just how vibrant and fast-paced the AI and big data analytics industry has become.
+READ MORE: Mayo Offers Patient Education through Epic MyChart, Wellpepper
+Here are just a few of the many companies sharing their data-driven news during the celebration atmosphere of this year’s convention.
+AT&T, AIRA DEVELOP PRESCRIPTION READER POWERED BY ARTIFICIAL INTELLIGENCE
+AT&T and Aira are partnering to create a tool that can help people with low or no vision read their prescription labels.  
+Combining smart glasses with artificial intelligence algorithms, the assistive technology may help improve quality of life, medication adherence, and patient safety for blind or low-vision individuals.
+"Identifying pill bottles is a key challenge for the blind and those with low vision, including the elderly. Together with AT&T, we are addressing this problem with our pill bottle reader project," said Suman Kanuganti, CEO of Aira.
+"Creating a seamless experience is our top priority. Horizon, Aira's voice-first Smart Glasses, can activate Aira through one touch of a button, or by simply saying "Hey Chloe, to activate the AI assistant."
+READ MORE: Hashed Health Launches Blockchain Provider Identity Tool
+The smart glasses with built-in medication recognition technology  will be available in May, the two companies said.
+ORION HEALTH OFFERS PREDICTIVE INTELLIGENCE FOR COST-CUTTING WITH MACHINE LEARNING TOOL
+Orion Health has announced its Amadeus Intelligence engine that leverages machine learning to help providers reduce operating costs and improve the delivery of quality care.  
+"More than $1 trillion in the US is wasted each year on costly administration and avoidable hospital readmissions,” said Orion Health CEO Ian McCrae.
+“Orion Health's Amadeus Intelligence will use machine learning models initially to predict patient costs and readmission risks, analyze clinical and financial outliers and enable accurate diagnosis coding and quality metric reporting to improve decision making at the point of care and target resources which will result in significant cost savings."
+Synthesizing multiple datasets across the clinical, financial, administrative, and operational domains can better predict the likelihood of an individual patient experiencing a costly event, the company asserts.
+READ MORE: Vendors Push Big Data Analytics, but Hospitals Focus on Safety, Security
+Unplanned hospital readmissions are particularly expensive for healthcare organizations and undesirable for patients, yet they represent one of the most promising opportunities for machine learning to prove its value.
+"The key to making a meaningful impact on healthcare is in the accuracy of the prediction, and the ability to respond," said McCrae.
+"Tapping into the vast amounts of data available through many different sources -- including relevant genomic, socio-economic and behavioral data, information from devices, and data based on demographics and climate -- will engender better decision-making, drawing on information from entire populations to treat and manage a person's health. Today healthcare organizations need more accuracy in their predictive analytics to reduce operational costs and improve patient care and outcomes."
+The new tools will work with Orion’s existing analytics solutions to enhance visibility into operations and allow organizations to work with timely, relevant, and actionable insights.
+HUMAN API, CMS COLLABORATE TO BRING BETTER DATA TO PATIENTS AND DEVELOPERS
+To supplement the reinvigorated CMS effort to help patients access more of their own health data, Human API will help app developers connect to valuable datasets to create meaningful tools and analytics insights for Medicare beneficiaries.
+The Blue Button 2.0 API aims to solve many of the interoperability and data access problems that can prevent patients from taking more control of their health.
+"Partners integrating with Blue Button 2.0 like Human API furthers our mission at CMS to put the patient in control of their own data," said Kelly Taylor, Product Manager for the US Digital Service team leading the Blue Button 2.0 API development effort.
+"Human API has built a massive network of clinical data sources and EHR integrations, and is an ideal partner for CMS to launch our new Blue Button claims data API.  Companies like Human API are solving very hard interoperability problems that will benefit millions of Medicare beneficiaries and help advance medical research and population health initiatives."
+Analytics tools that leverage these datasets, including those powered by artificial intelligence, could help beneficiaries manage their chronic diseases, get ahead of adverse health events, and understand their spending patterns.
+"Human API's core value lies in our ability to connect and normalize health data from thousands of data sources, covering over 230 million U.S. consumers, through a single API," said Andrei Pop, Chief Executive, Human API.
+"Opening up CMS claims data for patient-centric interoperability represents an exciting opportunity for the whole healthcare ecosystem to benefit. With real-time access to their own claims data history, Medicare patients will discover many new opportunities to improve their health outcomes, participate in medical research and benefit from new digital health services."
+SALESFORCE EXPANDS CLOUD OFFERINGS, ANALYTICS TO IMPROVE CARE COORDINATION
+Salesforce is offering additional insights into patient management and care coordination through expanded cloud-based technology offerings, the company said this week.  
+New capabilities will allow healthcare providers to better identify gaps in care and monitor individual progress through tailored surveys and outreach tools.
+"The best experience we get anywhere becomes the experience we expect everywhere. As a result, the bar for the patient experience is rising, and the need for current, relevant and dynamic information from patients is greater than ever," said Dr. Joshua Newman, Chief Medical Officer, Salesforce.
+"The new Care Gaps, Assessments and partner solutions for Health Cloud enable organizations to raise the bar for the patient experience while lowering costs and improving outcomes."
+The solutions suite allows care management to gain additional visibility into how patients are interacting with their providers for chronic disease management and preventive care.  If patients fail to attend schedule appointments, for example, the system will alert the appropriate staff member to follow up with the patient.
+Online patient assessments also allow providers to maintain connections with patients between appointments.  Patients can fill out simple questionnaires about their symptoms, and if the results are concerning, providers can easily reach out to request an appointment or change a therapy.
+"With the increasing need to focus on the patient experience, online assessments provide healthcare organizations another valuable tool to increase personalization and engagement with their patients," said Lynne Dunbrack, Research Vice President for IDC Health Insights.
+"Online patient assessments can help both strengthen provider-patient relationships and improve patient outcomes."
+ARTIFICIAL INTELLIGENCE STARTUP RAISES $30 MILLION TO IMPROVE PROACTIVE PATIENT MANAGEMENT
+Medial EarlySign, an Israeli-based machine learning startup, has raised an additional $30 million from investors to develop and deploy its analytics solutions, bringing its funding to a total of $50 million.  
+The company combines existing health data sets, including electronic health record data and blood test results, to predict the development of specific diseases and highlight opportunities for early intervention.
+"There is an incredible volume of meaningful routine healthcare data. Yet, while these data are electronically stored and available, they are still underutilized, and providers can glean much more actionable intelligence from it," said Ori Geva, Co-founder and CEO of Medial EarlySign.
+"This is where Medial EarlySign comes in. Our unparalleled expertise in these data and predictive health technology allows us to provide valuable insights and create improved actionable opportunities for early intervention, improved decision making, more effective care management, and physician and patient empowerment.”
+“The insights we enable could bring added value to almost every interaction with the patient, with the potential to positively impact millions of lives."
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsCloud ApplicationsHIMSS18Machine LearningPopulation Health Management
+
+

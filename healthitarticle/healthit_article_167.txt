@@ -1,0 +1,29 @@
+Population Health Tools May Benefit from AI, Machine Learning
+
+March 14, 2018
+
+By Jessica Kent
+March 14, 2018 - Artificial intelligence and machine learning could help to accelerate a relatively immature market for population health management tools, according to a Chilmark Research report.
+Population health management (PHM) is closely associated with the success of value-based care, the report notes, which makes PHM a key strategy for transforming healthcare delivery and payment models.
+“The goal of most PHM programs is to improve the actual health status of a group of patients, and by extension, health outcomes for individual patients,” Chilmark says.
+Dig Deeper
+Population Health is Top Data Analytics Challenge for Providers, Payers
+How to Get Started with a Population Health Management Program
+How to Use Big Data for Tailored Population Health Management
+However, in order to see value from a PHM program, organizations must implement products that will help them navigate several key competencies, including data aggregation and analytics, care management, and patient engagement.
+To improve the overall health of a population, it is critical that providers have access to patients’ clinical and financial data, as well as data on the social determinants of health.
+The report notes that many vendors are in favor of integrating social determinants information into their products to offer a more comprehensive view of patients.
+But financial and clinical data is often more readily available to providers than information about social determinants of health. And even when social determinants data is available, it is usually in an unstructured format.
+Machine learning tools can enhance current products and extract meaningful data from patient records, Chilmark asserts.
+Natural language processing has shown promise for extracting social determinants terms hidden within EHRs and predicting patients at high risk for psychosocial challenges.
+Machine learning tools may also enhance the availability and usefulness of longitudinal patient risk scores.  
+“Such tools will build on retrospective or prospective risk to help PHM decision-making that points to effective treatment options that deliver better individual and population-level outcomes,” the report states.
+Integrating risk scores with care management plans that can help to mitigate or prevent adverse events is another crucial component of population health management - and another area where machine learning may be able to help.
+But providers and developers must avoid creating care management systems that remain separate from other data sources and patient planning tools, Chilmark warned.
+“As care management products collect more information about patients, these products risk becoming yet another data silo. Currently, most of these vendors have not addressed the need for data to flow from their solution to other systems.”
+Application programming interfaces (APIs) provide a possible solution to this problem. APIs allow one software program to access the services of another, making it possible to track patient data across different venues and enhance care management.
+Connecting disparate systems through APIs may allow machine learning algorithms to access the comprehensive datasets they need to support optimal decision-making.
+Despite the current limitations of PHM systems, the report asserts that these products will develop over the coming years. Advancements in artificial intelligence, machine learning, and other technologies will drive PHM solution improvements and allow healthcare organizations to manage larger patient populations and more diverse sources of data.
+Tagged Artificial Intelligence in HealthcareHealthcare Big Data AnalyticsMachine LearningPopulation Health Management
+
+

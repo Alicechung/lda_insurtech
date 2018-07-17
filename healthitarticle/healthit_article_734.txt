@@ -1,0 +1,23 @@
+FDA Holds App-a-Thon for Precision Medicine, Next-Gen Genomics
+
+October 05, 2016
+
+By Nathan Boroyan
+October 05, 2016 - The FDA is hosting an industry-wide development challenge to create apps that use next-generation sequencing (NSG) technology to pursue new precision medicine breakthroughs.
+“FDA is increasingly harnessing the power of supercomputers, the creative and collaborative culture of the scientific community, and novel approaches to technology to help achieve advances in diagnostics, therapeutics, and analytics that will ultimately benefit patients,” wrote FDA officials Zivana Tezak, PhD, and Elaine Johanson in a press release.
+“Perhaps no program personifies these efforts more than the online research portal precisionFDA, which was developed by FDA scientists with the help of leading minds from Silicon Valley as part of President Obama's Precision Medicine Initiative (PMI).”
+Launched in December 2015, precisionFDA is a cloud-based portal designed to enable researchers to collaborate on next-generation DNA sequencing projects or other efforts to offer individualized treatment or discover cures to serious conditions.
+Dig Deeper
+NIH Opens Up “All of Us” to Research Participants Nationwide
+Despite Possibilities of Precision Medicine, Challenges Remain
+IBM Watson, Mount Sinai Launch New Precision Medicine Projects
+More than 1,600 precisionFDA users have access to reference genome data, which provides researchers with a starting point for conducting DNA comparisons and potentially discovering disease-specific genomic markers or variances.
+The FDA app-a-thon will encourage developers and collaborators to add next-generation genomic sequencing software apps to the precisionFDA app library. “Apps in this case are executable commands using the Linux operating system that are ‘wrapped’ around NGS software,” Tezak and Johanson said.
+New, modified, or existing apps can be submitted for the contest, which the FDA says is an attempt to bring the NGS community together to develop new analytics tools that can be used on the precisionFDA platform.
+“Our goal is to build a robust reference library of apps and files so that precisionFDA can provide developers with everything they need to support development work on their software pipeline or tests,” the FDA says.
+“Ultimately this challenge, which closes Oct. 28, 2016, is a contest to engage the NGS community in the development of new genome sequencing analytical tools for use on precisionFDA. These apps can do a variety of useful activities such as simulations, benchmarking, data integration, mapping portions of the genome, or identifying genetic variants. Members of precisionFDA are encouraged to try out these apps by running them on the platform.”
+Interested developers can browse app-a-thon resources on the precisionFDA website to learn more about how to set up their own application challenge.
+The app-a-thon closes on October 28. The results will be announced by FDA Commissioner Robert Califf at the World Precision Medicine Congress in Washington, D.C., on November 14.
+Tagged Big Data AnalyticsGenomicsMedical ResearchPrecision Medicine
+
+

@@ -1,0 +1,18 @@
+Can a simple blood test predict how long you will live?
+
+January 02, 2014
+
+By Jennifer Bresnick
+January 02, 2014 - Predictive risk analytics may be turning an incredibly common blood test into an indicator of life expectancy and cardiovascular complications.  The complete blood count (CBC) is used by physicians every day, but new research from a team at Intermountain Medical Center Heart Institute in Utah has revealed that a second look at some underused data included in the test can make some powerful predictions.
+As part of a randomized clinical trial intended to test a cholesterol-lowering drug, researchers at Intermountain Healthcare and Brigham and Women’s Hospital in Boston examined more than 17,000 generally heart-healthy patients from around the world who had elevated C-reactive protein.  After following the cohort for five years, the study found that the CBC risk score developed by Benjamin Horne, PhD, director of cardiovascular and genetic epidemiology at the Intermountain Medical Center Heart Institute and colleagues was a strong predictor of life expectancy.
+Patients with low CBC risk scores remained healthy for longest, while those with a middling score had a 50% higher risk of death.  High CBC scores were associated with double the risk of mortality.
+“Physicians can now provide better care using the CBC risk score as a standard method to assess whether patients may have future health problems that lead to death,” said Dr. Horne. “Among apparently healthy individuals, this risk score can help physicians identify which patients have higher risk, as well as who they should focus further time and effort. The score also gives physicians excellent confidence in identifying low-risk individuals who don’t need as much attention or costly testing.”
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+University of California Forms Big Data, Precision Medicine Network
+FDA Asks for Input on Modernizing to Meet Public Health Needs
+“One of the beauties of this score is it uses clinically familiar, standardized medical information already in electronic format,” he added. “The financial cost is also almost zero because most patients already receive the CBC test. The clinical cost is also low, because of electronic medical records. Physicians receive this critical information about future risk, which adds to their knowledge about the patient, while it takes very little of their time or effort to obtain the information.”
+Predictive risk scores are becoming more common as EHR data is crunched in new ways, allowing physicians to use information they couldn’t access before.  The Intermountain Healthcare team is now beginning a clinical trial intended to study the use of the score among physicians, providing EHR results for half of patients and observing whether those patients receive better treatment or live longer than a control group.
+Tagged Applied AnalyticsMedical ResearchPopulation Health Management
+
+

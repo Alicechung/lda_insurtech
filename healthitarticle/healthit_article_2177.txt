@@ -1,0 +1,18 @@
+87M historical patient records digitized for data analytics
+
+December 02, 2013
+
+By Jennifer Bresnick
+December 02, 2013 - Professors at the University of Pittsburgh have digitized more than 87 million hand-written patient records from the last century in order to construct analytical models of the spread of infectious epidemics and gain valuable insight into the spread of public health threats in the future.  Dr. Donald Burke, Dean of the Graduate School of Public Health and Dr. Willem van Panhuis, along with colleagues from the School of Public Health, were able to extract information on 56 infectious diseases from weekly reports spanning the time period from 1888 to 2011.
+The dataset, nicknamed Project Tycho after Danish astronomer Tycho Brahe, has been published online and is freely available to the public. It has already been used by Pitt undergraduates to develop visualizations of disease vectors and historical outbreaks at a recent academic event.  Much of the data has been scanned, normalized, curated, and standardized by Burke and his team, providing a clear view of the historical track of diseases like diphtheria, measles, and rubella.
+“If we can analyze the patterns of epidemics in the past, what caused them to be large one year and small the next year, we’ll be in a much stronger position to predict the course of epidemics and the potential impact of interventions,” Burke said.  The data reveals that more than 100 million cases of contagious diseases have been prevented since 1924 by vaccination programs.
+One of the most striking results of the data, van Panhuis says, is the immediate effect of newly licensed vaccines on the incidences of some of these conditions.  “We saw in those displays how there were some very abrupt declines,” he said.  “I had not expected those very sudden changes.”  The team is also interested in examining resurgences of certain conditions, such as the pertussis outbreak of 2012, the largest since 1959.  They hope the data will be thorough enough to illuminate the reason behind the uptick.
+Dig Deeper
+All of Us Precision Medicine Network Expands with $13.8M in Grants
+FDA Holds App-a-Thon for Precision Medicine, Next-Gen Genomics
+Does Social Determinants Data Enhance Population Health Analytics?
+“Historical records are a precious yet undervalued resource. As Danish philosopher Soren Kierkegaard said, we live forward but understand backward,” explained Burke. “By ‘rescuing’ these historical disease data and combining them into a single, open-access, computable system, we can now better understand the devastating impact of epidemic diseases, and the remarkable value of vaccines in preventing illness and death.”
+The project has been funded by the Bill and Melinda Gates Foundation and the National Institutes of Health.  Further information on the project is available in the latest edition of the New England Journal of Medicine.
+Tagged Big Data AnalyticsHealthcare AnalyticsHealthcare Data AnalyticsHealthcare Data ManagementMedical ResearchPatient Data
+
+

@@ -1,0 +1,18 @@
+EHR Big Data Analytics Uncovers New Aid for Hypertension
+
+July 30, 2015
+
+By Sara Heath
+July 30, 2015 - As big data has emerged out of the growth of electronic health records (EHRs), physicians and researchers have found that they can conduct studies with larger amounts of patients that they may never have been able to before. That’s what happened for the Regenstrief Institute and Indiana University researchers who discovered that a combination of medications can lower blood pressure for hypertensive patients, according to a Regenstrief press release.
+The study, which involved de-identified information collected from EHRs between 2004 and 2012, found that the combination of triamterene, a drug prescribed to conserve potassium in the blood, and hydrochlorothiazide, a common diuretic, can help lower the blood pressure in hypertensive patients. The study shows that the triamterene enhances the blood pressure lowering of the hydrochlorothiazide.
+This shows the significant value big data has, as it allowed the researchers at the Regenstrief Institute to see an important connection between two drugs that can help many hypertensive patients.
+“This study is a perfect example of how we can learn about the previously unknown therapeutic effects of drugs from big data,” says Wanzhu Tu, Ph.D., first author of the new study. “In this case, big electronic medical record data are being used to answer questions that may otherwise be unanswerable.”
+Dig Deeper
+Epic EHR, Big Data Tools Bring 2016 HIMSS Davies Award to Mercy
+Cerner Pilot Uses Population Health Analytics for Chronic Care
+Humana: Can Artificial Intelligence, NLP, Voice Tools Revamp EHRs?
+This is a considerable breakthrough because it accomplished research a clinical trial would never have been able to. Due to the fact that clinical trials are expensive, time-consuming, and do not involve as much patient data, the conclusions drawn in this study would never have been possible in a clinical trial.
+“It is unlikely that a large clinical trial would be conducted to reexamine the blood pressure effect of triamterene, a drug that has been on the market since 1965,” Dr. Tu explained. “Yet smaller clinical trials simply do not provide sufficient power to determine the drug’s effect. Observational studies based on big data, like ours, provide a viable alternative.”
+Tagged Big DataBig Data AnalyticsEHR Analytics
+
+

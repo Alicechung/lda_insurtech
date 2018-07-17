@@ -1,0 +1,42 @@
+Partners Sets the Tone for Artificial Intelligence in Healthcare
+
+March 21, 2018
+
+By Jennifer Bresnick
+March 21, 2018 - Despite the fact that the healthcare industry hit its EHR saturation point some time ago, providers and vendors are still eagerly engaged in dialogue about the utilization and continued optimization of health IT tools.
+But the topics of debate have shifted away from how to become a digital enterprise and towards something bigger and more visionary: how to use an organization’s growing data assets to measurably impact cost, patient-provider experiences, and the quality of care.
+No discussion of these critical issues would be complete without at least a passing mention of machine learning and artificial intelligence – and for many organizations, including Partners Healthcare, these emerging strategies are at the center of the conversation.
+“Artificial intelligence will have succeeded when we no longer talk about it,” said Mark Michalski, MD, Executive Director of the MGH & BWH Center for Clinical Data Science.  “The health system will simply be smarter and better without the need to distinguish it from anything else.”
+“But for now, it’s something that we do need to talk about because there’s so much to discover and so many opportunities to refine our thinking and our approaches.”
+READ MORE: Artificial Intelligence Helps with Costs, Clinical Care at HIMSS18
+Partners Healthcare, which includes notable facilities such as Massachusetts General Hospital and Brigham and Women’s Hospital, is taking a leading role as a convener of those conversations by hosting the World Medical Innovation Forum on Artificial Intelligence. 
+The three-day event, held in Boston on April 23-25, 2018, will bring Partners experts, Harvard Medical School faculty, and numerous luminaries from the developer and vendor community to set the expectations and potential for AI in healthcare.
+“We are at this very exciting pivot point in healthcare, and AI is a catalyst accelerating the industry’s transformation,” says Partners Healthcare Chief Innovation Officer Christopher Coburn. “It isn’t going to take long at all for the effects of AI to spread across all of healthcare.”
+Many medical disciplines are already feeling those effects, agreed Michalski.  A radiologist by training, he is keenly aware that artificial intelligence is already becoming a force to be reckoned with in image-based specialties.
+“Machine learning has tremendous promise for diagnostics, including in my field of radiology,” he told HealthITAnalytics.com.  “It is very good at processing images, and characterizing the features in those images, to make radiologists more efficient and help them make their reports more quantitative and useful for the patients they serve.”
+READ MORE: AI for Imaging Analytics Intrigues Healthcare Orgs, Yet Starts Slow
+However, these early success don’t mean that artificial intelligence is going to be taking the place of pathologists, radiologists, and other diagnosticians in the near future. 
+While it is easy to get caught up in predictions of autonomous AI clinicians, Michalski suggests a bit of healthy skepticism about the notion that highly-trained individuals will be supplanted by machines any time soon.
+“We’re hearing a lot in the popular press about the power of this technology, and there are articles coming out from some very smart people that say artificial intelligence will replace certain job functions or categories, which can be a little bit intimidating or even a little frightening,” he acknowledged.
+“That comes from not yet fully understanding the boundaries of this technology and what it is really capable of doing.”
+Artificial intelligence may be starting to get very good at classification, but human intelligence is still required to supervise AI efforts and cast a critical eye over its results.
+READ MORE: CIOs Plan to Invest More in AI, Predictive Analytics, Big Data Tools
+“AI is very accomplished at some things, but it’s still not very good at performing other tasks,” Michalski noted.  “At the Center for Clinical Data Science, part of our mission is to define those boundaries and understand how these tools fail so we can improve them.  If AI was perfect, we wouldn’t have so much work to do every day.”
+Instead of replacing clinicians entirely, both Michalski and Coburn believe AI will take an important supporting role.
+“There’s a great quote that’s along the lines of ‘not all radiologists will be replaced by AI, but the radiologists who are not expert in AI will be replaced by the ones who are,’” said Coburn.
+“AI is going to help clinicians of all types improve the things they’re doing right now.  And it will also enable some things that have never been done before. Clinicians are curious about what that is going to look like and how AI can help them become more effective and efficient.”
+Using artificial intelligence to improve operational efficiencies and the EHR workflow are very attractive use cases, he added.
+“A lot of folks feel like the rise of electronic health records is coming between physicians and their patients,” he said.  “AI has the potential to reinforce the human aspect of healthcare and pull back a lot of the clumsiness of the technology interfaces we have today.  There’s a lot of hopefulness around that.”
+Top executives and developers from a number of organizations, including Epic Systems, Change Healthcare, Optum, Nuance, Microsoft, and Health Catalyst will share their views on how to create more intuitive EHRs and more intelligent decision-making opportunities in both the clinical and operational environments.
+Other sessions will focus on the role of AI in drug development and precision medicine, as well as the challenges of regulating technologies that leverage brand new approaches to collecting, analyzing, and sharing big data.
+“You’re going to see luminaries who are leading their segments of the field right now as well as folks who will be the absolute stars of their disciplines in five or ten years,” said Coburn. 
+“And there are no PowerPoints,” he added.  “We have worked hard to create opportunities for shared insights in a very rich, discussion-based format.  It’s all about communicating actionable ideas through conversations, which I think is the best way to learn.”
+To close out the event, Partners will be putting its money where its mouth is, Coburn continued, by awarding grant funding to a series of new machine learning and AI tools developed within the Partners community. 
+“We’re going to announce the ten internal technologies that we’re going to put $50,000 against,” he said.  “That’s $50,000 each.  We’ll also be sharing our faculty’s selections of the twelve AI technologies they think will be most disruptive over the next decade.”
+The event is designed to provide a comprehensive look at how artificial intelligence is currently used – and how it will evolve over the next few years – to significantly disrupt the health IT status quo, said Coburn. 
+Clinicians, developers, data scientists, health IT leaders, investors, and provider executives are all encouraged to attend the crash-course in machine learning and its impacts on the industry, he urged.
+“If you only had three days in all of 2018 to devote to AI, these would be the three days you’d want to spend doing it,” said Coburn.  “You’ll come out of there having learned what technologies are going to make the biggest impact and what areas of healthcare will be most affected by them.” 
+“It’ll be excellent preparation for making the right moves in your own organization, and we could all use as much preparation as we can get when it comes to making important decisions.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR WorkflowImaging AnalyticsInterviewsMachine LearningWorld Medical Innovation Forum
+
+

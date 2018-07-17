@@ -1,0 +1,28 @@
+VA Clinical Decision Support Cuts Unnecessary Lab Tests by 11%
+
+April 27, 2016
+
+By Jennifer Bresnick
+April 27, 2016 - The use of a clinical decision support tool geared towards overseeing laboratory utilization significantly reduced the number of unnecessary tests ordered by clinicians without affecting patient care quality, says a new study published in the American Journal of Clinical Pathology. 
+After implementing the laboratory utilization management system in an Indianapolis, Indiana branch of the Veterans Health Administration, total test volume decreased by a mean of 11.18 percent per year compared to pre-implementation levels. 
+Cost savings averaged more than $150,000 per year for the two years of the study program, yet the researchers found no adverse effects on patient care or changes in length of stay.
+“Health care expenditures in the United States continue to rise at an alarming rate. They are projected to reach $4.4 trillion by 2018,” wrote the authors, who hail from the Indiana University School of Medicine, Richard L. Roudebush VA Medical Center in Indianapolis, and Syracuse VA Medical Center in New York.
+Dig Deeper
+Understanding the Basics of Clinical Decision Support Systems
+6 EHR Patient Safety Strategies for Medication Orders, CPOE
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+“It is estimated that laboratory and pathology testing accounts for 4% of all yearly health care costs. It is becoming increasingly evident that cost stabilization and reduction, including within-laboratory services, are necessary to place our nation’s health care system back on a sustainable course.”
+In some settings, more than 40 percent of laboratory tests are considered unnecessary, wasteful, or redundant, the authors added, making lab utilization an important target for data-driven cost reduction strategies.  Redundant testing may leech up to five billion dollars from the healthcare system annually.  
+Big data analytics and clinical decision support tools, such as computerized provider order entry (CPOE) systems, may be able to reduce waste while maintaining a high quality of care.
+To test the impact of electronic clinical decision support on unnecessary lab orders, the VA integrated its laboratory expert system (LES) into its VistA health information management system.
+“The LES is a gatekeeper software system that allows the laboratory to suppress redundant testing by defining order frequency rules for specific tests or test panels for any given patient,” the study explains. “At the time of order entry into the Computerized Patient Record System, a request for a specific laboratory test or panel will be declined if the order exceeds the predefined rule for order frequency.”
+The system can be altered in situations where such guidelines would inhibit the provision of optimal care, such as the emergency department or ICU.  Individual providers could also contact the lab directly and request an exemption due to a patient’s specific needs.  Exemptions were always granted, the study notes, but tracked for subsequent review and feedback.
+The LES tool went live at the beginning of 2012 with rules governing the ordering of 23 different lab tests.  While the health system had seen a steady increase in test volume between 2004 and 2011, the trend reversed quickly.
+After implementation, the order rates for three common tests, including CMP, BMP, and CBC, dipped noticeably.  However, ten other high-volume tests that were not subject to the clinical decision support rules continued to trend upwards in volume.
+The researchers also calculated the cost savings involved in reducing test volume.  Using established contracted testing rates, they found that the laboratory saved a total of $206,214 between 2012 and 2014.  If the upward utilization trends established in 2011 had continued throughout the study period, the savings may have been closer to $470,000.
+“The above data strongly suggest that the LES system worked as intended and played a key role in suppressing unneeded testing,” the authors state, noting that there was no reduction in patient volume or bed days of care that might account for a similar trend.
+The study noted that the system produced few user complaints, a rarity when considering significant workflow adjustments.  “This likely reflects the buy-in and active involvement of the various service chiefs,” the authors added, and a willingness for all stakeholders to commit to making improvements.
+“The successful implementation of a test frequency filter for laboratory test utilization management is very heavily dependent on a strong working relationship between the laboratory, information systems specialists, hospital administration, and clinicians,” the study explained. “Monthly meetings allowed for continued monitoring for efficacy as well as refinements to the frequency filters. This peer-based approach allowed for better acceptance from the clinical staff.”
+Tagged Clinical AnalyticsClinical Decision SupportEHR OptimizationPatient Safety
+
+

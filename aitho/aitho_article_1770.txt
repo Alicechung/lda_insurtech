@@ -1,0 +1,13 @@
+Lunit Leads The Expansion Of AI In The Healthcare Industry
+
+03 Jan 2018
+
+X-rays are a form of electromagnetic radiation used to detect and diagnose various injuries and diseases, such as bone fractures, lung cancer, and breast cancer. Compared to computed tomography (CT) and magnetic resonance imaging (MRI) scans, x-rays are simpler and relatively less expensive. However, since the images must still be interpreted by doctors, the technique still has one critical weakness: occasionally, doctors fail to notice the signs of disease.
+Lunit’s AI interprets x-ray images and lowers the misdiagnosis rate
+Lunit Inc. has developed a deep learning-based technology for analyzing medical images that dramatically lowers the rate of misdiagnosis.
+Lunit Inc., a member company of the K-ICT Born2Global Centre, has developed a deep learning-based technology for analyzing medical images that dramatically lowers the rate of misdiagnosis. Currently, the AI technology is being subjected to a sophistication process in cooperation with major medical institutions in Korea, including Seoul National University Hospital, Severance Hospital of Yonsei University Health System, Samsung Medical Center, and Asan Medical Center.
+Anthony Paek
+Anthony Paek, the CEO of Lunit, explained, “The data-driven imaging biomarker (DIB) technology that Lunit proposed for the first time ever in 2015 is an AI system that has learned abnormal and clinically significant image patterns from big data.” He went on to add, “Currently, DIB technology has achieved an accuracy level comparable to that of human experts. In the future, however, we will have new DIB technologies capable of outperforming humans.”
+Lunit’s DIB technology, called Lunit INSIGHT, uses AI technology to analyze existing x-ray images to help doctors make more accurate diagnoses. So far, the results of clinical trials have shown that using this technology increases diagnostic accuracy by 14 percentage points. Based on deep learning, an AI skill-building practice that makes use of big data and artificial neural network technologies, Lunit INSIGHT is capable of accurately analyzing images. Paek explained, “Most medical imaging AIs have been directly and indirectly influenced by DIB technology. Since we now have access to the big data of hospitals and are capable of processing DIB learning from various perspectives, the future potential of our company seems quite high.”
+
+

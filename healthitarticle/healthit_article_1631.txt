@@ -1,0 +1,20 @@
+EHR Referral Program Speeds Patient Care Coordination at UVA
+
+January 22, 2015
+
+By Jennifer Bresnick
+January 22, 2015 - A three-year grant from the Center for Medicare and Medicaid Innovation is bringing electronic patient care coordination to the University of Virginia Health System (UVA).  As one of five academic medical centers piloting eConsults and eReferrals to better coordinate specialty care, UVA is aiming to reduce unnecessary appointments and free up physician calendars by allowing some consults to take place without the need for an office visit.
+“If you can answer the least complex questions using this model and reduce appointments by 10 percent, you can open up more appointments for patients who will truly benefit from face-to-face interactions with specialty physicians,” said Chris Ghaemmaghami, MD, UVA’s chief medical officer.
+The eConsults system is something like telehealth for providers: instead of patients logging in to a video call or sending a text message to get a quick answer for a health question, primary care providers send an electronic message – in this case through UVA’s EpicCare infrastructure – to a specialist.  The system allows the specialist to review the patient’s recent medical history to help him or her answer the query.  “This will ensure a specialist has all the information they need and that the consult is documented in the patient’s medical record,” added Mohan Nadkami, MD, from University Medical Associates.
+More complex patient inquiries can be sent through the eReferrals portion of the pilot, which allows the primary care physician to use a template structure to fill out relevant patient information for the specialist’s review.  The consulting physician can then decide whether to call the patient in for a face-to-face consult.
+Dig Deeper
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+How Does the ONC Define HIE, Value-Based Care, Population Health?
+CVS Retail Clinics, VA Partner for Care Coordination, Access
+The program, first announced in September, is also being tested at Dartmouth-Hitchcock Medical Center, UC San Diego Health System, University of Iowa Hospitals and Clinics, and University of Wisconsin (UW) Health.  CMS has enlisted a healthcare policy consulting firm to develop a sustainable reimbursement model that will allow the system to come to scale, should it be successful, as a way to contribute to accountable care structures already in place.
+“Given the accelerating shift to value-based reimbursement, enhancing the efficiency and effectiveness of care delivery is critical to academic medical centers’ success,” says Bob Browne, MPP, Vice President of Clinical Enterprise Integration at the University HealthSystem Consortium (UHC), an alliance of nonprofit academic medical centers focused on collaboration and performance improvement throughout the healthcare industry.
+“Consistent care coordination and timely access to the input of specialists through the use of e-consultation/e-referral technology is a novel way for AMCs to improve cost, quality, and access. UHC looks forward to collaborating with five of our esteemed AMC members and the AAMC to understand how this technology can have a positive impact on the future of health care delivery,” Browne added.
+UVA also hopes that reducing the number of unnecessary in-person appointments with specialists will help open up time slots for those who do need to be seen.  A 2014 survey by Merritt Hawkins found that the average wait time to see a specialist in the United States was 18.5 days, with significant variation between locations such as Boston, where it takes 72 days to see a dermatologist, and Dallas, where the average wait time is just 10.2 days to see a cardiologist, orthopedist, or obstetrician.
+Tagged Accountable CareCare CoordinationHealth Information Exchange
+
+

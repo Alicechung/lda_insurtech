@@ -1,0 +1,27 @@
+Picture Archive Communication System Use Widespread in Hospitals
+
+January 11, 2016
+
+By Jennifer Bresnick
+January 11, 2016 - Hospitals may be struggling to put many big data analytics technologies in place at the moment, but one tool that seems to have taken permanent root in most organizations is Picture Archive Communication System (PACS) technology.
+According to a new HIMSS Analytics Essentials report, radiology PACS technology is in “heavy use” across the industry, allowing providers to store and access electronic imaging studies in an economical and efficient manner.
+While there is room for improvement among the large number of hospitals using multiple servers across their organizations for their imaging storage needs, the adoption of cloud solutions and dynamic big data imaging repositories is on the rise. 
+Providers are also investigating increased mobile access capabilities, with 28.9 percent of respondents seeking tools that will allow PACS access on smartphones and 35.5 percent interested in products that allow easier access through tablets.
+Dig Deeper
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+Identifying Big Data Sources for Population Health Management
+Prescription Monitoring Program to Reduce Opioid Abuse in VA
+“While many organizations are comfortable with their PACS imaging technology, there seems to be some opportunity on an enterprise level to get as much information as possible into the hands of physicians at the point of care,” said HIMSS Analytics Research Director, Brendan FitzGerald. “Enterprise imaging viewing capabilities across numerous technology platforms could potentially aid in that effort.”
+HIMSS Analytics reports that PACS data is most often accessed through dedicated workstations, but that integration with EHR systems is on the rise.  Nearly half of providers said that they are using an enterprise image viewer that may offer more flexibility when it comes to viewing or sharing imaging data.
+As providers upgrade their technology to be more flexible and responsive to their growing interest in health information exchange, better EHR integration, and advanced analytics, the market for new PACS technologies is opening up to smaller, innovative vendors offering unique capabilities.
+At the moment, several large vendors dominate the PACS industry, according to data gleaned from Definitive Healthcare. The vendor landscape looks more akin to the EHR adoption environment, which is relatively consolidated, than the fragmented status of many other big data analytics and complementary technologies, though the leading PACS vendors are largely a separate set of companies.
+Of the 4605 hospitals that report having a PACS system in place, 21 percent use a product from GE Healthcare, with Philips Healthcare, McKesson, and FUJIFILM Healthcare snapping up a further 30 percent of the market.
+Nearly one in five hospitals is using a vendor with a smaller stake in the market, but only 34 individual organizations have proprietary systems in place for their image management needs.
+Ninety-three percent of small hospitals reported the use of a PACS system of some kind, the data shows.  While adoption rates for mid-size and larger hospitals appear to be closer to the three-quarters mark, not every hospital in the dataset reported its bed size, which may skew the results slightly.
+Basic PACS adoption is required to attain Stage 3 on the HIMSS EMR Adoption Model (EMRAM) scale, a feat which more than 93 percent of hospitals have achieved.  “Medical image access from picture archive and communication systems (PACS) is available for access by physicians outside the Radiology department via the organization’s intranet,” HIMSS explains.
+However, achieving Stage 5 on the scale requires “a full complement of radiology PACS systems provides medical images to physicians via an intranet and displaces all film-based images.  Cardiology PACS and document imaging are scored with extra points.”
+Only 64 percent of hospitals have achieved Stage 5 or above as of 2015.  The relatively lower rate of full PACS adoption may indicate opportunities for vendors to offer more sophisticated imaging storage and viewing products which will allow more robust clinical analytics, better integration of accompanying text documents such as PDF reports, and smoother health information exchange across disparate systems.
+“While the adoption level of existing radiology PACS implementations appear saturated, this study indicates there could be the potential for growth for organizations looking to adopt new technology focused on the ability to store, share and provide universal access to images,” the study concludes.
+Tagged Analytics InfrastructureBig Data AnalyticsHealth Information Exchange
+
+

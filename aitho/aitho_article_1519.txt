@@ -1,0 +1,16 @@
+EZuce And Emercoin Speed Up Adoption Of Blockchain Phone And Video Services
+
+08 Feb 2018
+
+eZuce is First Supplier to Use Blockchain to Improve Phone and Video Communications
+eZuce and Emercoin today announced plans to advance innovative communications services that leverage Emercoin’s ground-breaking blockchain technology and eZuce’s expertise in voice and video products. The partnership represents the first use of blockchain technology to reduce call connection times and costs for customers.
+The initial engagement around Emercoin’s ENUMER blockchain-based service is expected to expand to its network security services EmerSSL and EmerSSH and decentralized domain system EmerDNS. The expansion would increase system scalability, security and robustness and decrease management costs.
+Osman Duman
+“Enterprises will be the main beneficiaries of this new service. Calls made to a party whose phone number is found in the ENUMER blockchain database will be completed toll-free and significantly faster,” said Osman Duman, Chief Executive Officer of eZuce. “When you can locate your party and call direct across the internet via peer-to-peer SIP signaling, you do not need a third party to route the call. This is a great example of the blockchain and the internet working together to enhance the value of a service while collapsing its current inefficiencies.”
+Emercoin Chief Technology Officer Oleg Khovayko said he is glad that eZuce is applying Emercoin’s blockchain-based solutions to their products and business.
+“Our partnership is proof that blockchain technology is not only a solution for fintech businesses, but rather can be applied to a wide array of other industries,” said Khovayko. “We are happy to establish this valuable partnership with eZuce, and we believe it will benefit eZuce’s products and reduce telecom costs for their customers.”
+eZuce has successfully tested the ENUMER service on the Emercoin Blockchain. The company used eZuce’s uniteme™ unified communications platform as well as its open-source project version sipXcom. The tests showed the ENUMER service reduces the time it takes for calls to connect to intended phone numbers from three seconds to less than half a second.
+ENUM represents standard telephone numbers as Internet DNS names and links them to Session Initiation Protocol (SIP) addresses, the communication standard for internet telephony. When a call is placed to a phone number using ENUM, the call can be directly routed to the called endpoint over the internet, thus bypassing lengthy and costly routing. Even though the ENUM standard has existed for a long time and is easily implemented, its adoption has been hindered due to the lack of secure, reliable and open public platforms to provide trusted ENUM translations. Emercoin’s ENUMER makes all this possible with its blockchain-based service platform.
+Read More: AI-Powered ‘Intelligent’ Marketing Will Keep It Real
+
+

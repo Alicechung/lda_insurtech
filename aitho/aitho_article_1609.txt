@@ -1,0 +1,15 @@
+Cellula Robotics Ltd Successfully Demonstrates Its Imotus-1 Hovering Autonomous Underwater Vehicle
+
+30 Jan 2018
+
+During a Week of Testing at Local Pool Facility, Imotus-1 Navigated Using Proprietary Slam Algorithms and Was Shown To Hold Station, Waypoint Track, Maneuver Around Obstacles and Dock to an Underwater Charging Station
+Cellula Robotics Ltd. (Cellula) has successfully demonstrated its Imotus-1 Hovering Autonomous Underwater Vehicle. During a week of testing at local pool facility, Imotus-1 navigated using proprietary SLAM algorithms and was shown to hold station, waypoint track, maneuver around obstacles and dock to an underwater charging station. Inspection tools including point cloud map generation, high definition video, an ultrasonic thickness gauge and a light cleaning brush were also demonstrated.
+The docking demonstration was sponsored by Ocean Networks Canada. This demonstration included communications between Imotus and the docking station using a blue-light modem, followed by autonomous docking. When in the dock, Imotus received power and high bandwidth communication via a WiSub pin-less connector.
+Scott McLean, Director of Ocean Networks Canada, said, “this was an excellent demonstration of Canadian technology that has broad applications globally for both industry and research. Cellula Robotics has really created an exceptional platform that we are looking forward to applying in many areas. Demonstrating both wireless optical communications and contactless connectors for charging and high speed communications is an essential step to creating the next generation in hybrid AUV systems.”
+Imotus-1 uses Simultaneous Localization and Mapping (SLAM) algorithms to enable navigation, station keeping, route following and autonomous operation within confined space environments. Development of SLAM was made possible through funding from the National Research Council’s Industrial Research Assistance Program (IRAP).
+In the first quarter of 2018 Imotus-1 will be used in the North Sea for commercial survey and inspection work inside the structural legs of an offshore platform.
+Cellula Robotics Ltd. based in Burnaby, Canada, is a world-leading engineering solutions company that specializes in the turnkey design and production of seafloor intervention and subsea robotic systems.
+Ocean Networks Canada was established in 2007 as a major initiative of the University of Victoria, Ocean Networks Canada operates world-leading ocean observatories for the advancement of science and the benefit of Canada. The observatories collect data on physical, chemical, biological, and geological aspects of the ocean over long time periods, supporting research on complex Earth processes in ways not previously possible.
+NRC Industrial Research Assistance Program is Canada’s premier innovation assistance program for small and medium-sized enterprises (SMEs). It is a vital component of the NRC, a cornerstone in Canada’s innovation system, regarded world-wide as one of the best programs of its kind.
+
+

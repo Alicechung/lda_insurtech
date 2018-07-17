@@ -1,0 +1,19 @@
+AMA: Meaningful use must foster quality data, interoperability
+
+October 16, 2014
+
+By Jennifer Bresnick
+October 16, 2014 - Meaningful use isn’t doing its job when it comes to fostering clean, quality data and health IT interoperability, the American Medical Association (AMA) states in a letter to CMS and the ONC, nor does it allow for effective quality reporting.  As Stage 2 of the EHR Incentive Programs requires more sophisticated use of healthcare technology, the AMA questions whether meaningful use, as it stands, will help the industry achieve its data-driven quality improvement goals.
+“Physicians will always embrace technology that can help them provide better care for their patients and foster innovation, but improvements must be made to the Meaningful Use program in order for those goals to be achieved,” said American Medical Association President Robert M. Wah, MD, in a press release.
+“The whole point of the EHR Incentive Program was to build an interoperable health IT infrastructure that would allow for the routine exchange of important medical information across settings and providers and put medical decision-making tools in the hands of physicians and patients, yet that vision is not being realized and the lack of interoperability is stifling quality improvement,” Dr. Wah said.  “We must make the necessary changes to ensure that the Meaningful Use program requirements are in fact meaningful and deliver – not hinder – the intended improvements in patient care and practice efficiencies.”
+One of the AMA’s key recommendations on how to improve the meaningful use program centers on the streamlining of quality data reporting.  With a number of different quality initiatives requiring multiple reporting requirements and conflicting deadlines, it is difficult for many healthcare organizations to provide meaningful clinical data that can be used to analyze the true quality of healthcare delivery. The AMA suggests that CMS allow successful PQRS reporting to also meet the quality requirements of meaningful use, and to further align the reporting mechanisms and dates for both programs in order to ease the burden on providers.
+Dig Deeper
+Pew: Better Patient Matching, APIs Will Enhance Interoperability
+1304 Health Centers Share $100M in Quality Improvement Funds
+CMS QIO Awards Promote Patient Safety, Healthcare Quality
+For these efforts to be successful in providing a quality baseline for the shift to pay-for-performance reimbursements, interoperability across EHR and other health IT systems must be the focus of the industry’s ongoing work, the letter argues.
+Reporting on electronic clinical quality measures (eCQMs) often requires a manual upload from the EHR to CMS’ interface, which can include “hundreds or thousands of files per physician,” the letter points out.  “By maintaining the current infrastructure, CMS is actually hindering the move towards outcomes measures since physicians do not have access to real time information or frequent feedback to determine how they are doing with meeting quality requirements.”
+The blueprint also suggests that EHRs could better utilize “plug-and-play” APIs for clinical analytics capabilities, and that CMS, developers, and providers should work to develop well-defined information governance standards that will improve EHR flexibility and interoperability.
+Tagged Clinical DataHealthcare Data ManagementQuality Of Care
+
+

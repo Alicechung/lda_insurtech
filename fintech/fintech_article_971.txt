@@ -1,0 +1,33 @@
+Blockchain in Islamic Banking – Opportunities Aplenty
+
+December 21, 2016
+
+One of the key principles of Islamic Banking is based on having enforceable contracts which are fair, transparent and agreeable between the parties that engage in a banking transaction. Due to this, ethical banking methods are sought after as the end-consumer is well protected and gains full clarity about the undertaking, prior to the execution of a transaction. From a process stand-point, often this is considered to be cumbersome in terms of hefty paperwork, extended turn-around-times etc. As we all know, banking methods and systems have drastically changed over the decades, especially in the last few years due to the raging digital revolution. Ironically, at the same time, contracts and the processes and methods governing these, have progressed only at a snail’s pace. A new technology, called Blockchain, is currently climbing high on the hype cycle. Experts think that it promises to revolutionize the way we do business. I believe, Blockchain uniquely compliments Islamic Banking through the advent of smart contracts and transaction transparency across the chain.
+
+ The “Blockchain” concept originates from the need for record-keeping in the most intuitive manner. This technology tracks and records data across a digital ledger network made up of participating parties that will independently verify and store each instance of transaction or contract as it originates and changes. Simply put, it is a shared electronic ledger and all participants within the network can see all the transactions recorded within it.
+
+ It involves complex algorithms and verification from a peer-to-peer network of computers. A chain of blocks is created, wherein a block consists of a definite number of transactions carried out within a fixed period of time. Every block is linked to the previous block, and thus a chain of records is formed.
+
+ The distributed ledger system means that instead of data being kept only by two counterparties or in a central repository, they are verified and stored across hundreds or thousands of computers across the globe. Data, representing transactions or contracts, is accessible by all participants that check and record them with timestamps, while adhering to and respecting the data privacy.
+
+ Use of Blockchain in Islamic Banking will primarily affect the way payments, remittances and trading activities are conducted. This technology is fast moving ahead in getting stabilised towards the mainstream and promises to provide benefits in several areas:
+
+ One of the basic differences between Islamic Banking and conventional banking is the contractual relationship. The contract between a customer and a conventional bank is simple; a loan where interest is charged upon. But an Islamic contract is more complex, as it caters to the entire ecosystem of the transaction. Contract defines the relationship, which in turn defines the responsibilities and subject matter, the subject matter defines the sequencing and ownership requirements for the use in an economic transaction, the transaction defines the rewards and returns on the completion of the contractual obligation. Cause and effect, risks and compensating return, action and rewards are all covered upfront. Such a contract is beneficial to all parties equally, by being well and truly based on the ethical norms.
+
+ The concept of Smart contracts was first introduced in 1994. Smart contracts then had a long gestation period of inactivity and disinterest, because there was no platform that could enforce them, until the advent of Blockchain technology in 2009. Now, smart contracts are entering their prime by becoming a basic tenet of the overall Blockchain’s power.
+
+ Smart contract is a term used to describe computer program code that is capable of facilitating, executing, and enforcing the negotiation or performance of an agreement (i.e. contract) using Blockchain technology. The entire process is automated and can act as a complement, or substitute, for legal contracts, where the terms of the smart contract are recorded in a computer language as a set of instructions. The Islamic finance industry has to swiftly catch up on its conventional counterparts in leveraging Blockchain. Currently, Islamic financial institutions are exploring several interesting opportunities. First movers to apply Blockchain technology to Islamic finance are entrepreneurs and start-ups.
+
+ To sum it up, a desperate need has always existed in this regard. For the first time now, technology solutions, though in their infancy, are aiming to provide a long awaited disruption. Islamic Banks need to show courage and purpose in initiating early experiments to test the waters and to provide business guidance in making this mainstream. Best end-consumer adoption can be attained in applying Blockchain to simplify complex contracts rather than applying a new technology to get the same results, as achieved already.
+
+ Embracing Blockchain technology solutions in banks is not about being first in applying the technology but rather being mindful of the disruption (or the lack of it) in our results!
+
+ __________
+
+ This articles was written by an author, Zubair Ahmed, one of executives in Emirates Islamic, on Future Magazine’s request and the idea was born a few days ago within my discussion in Dubai with the author about a specific of islamic finance connected to blockchain values. I’ve found out absolutely fresh view on that.
+
+ 
+
+ Kate Shcheglova, editor-in-chief of “Future” magazine
+
+

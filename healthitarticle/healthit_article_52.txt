@@ -1,0 +1,33 @@
+Deep Learning Tool Tops Dermatologists in Melanoma Detection
+
+June 04, 2018
+
+By Jessica Kent
+June 04, 2018 - A deep learning tool identified melanoma in dermoscopic images with more accuracy than dermatologists, according to a study published in the Annals of Oncology.
+The convolutional neural network (CNN) scored ten percent higher in terms of specificity than human experts, indicating that deep learning could offer valuable clinical decision support to dermatologists.
+The team of researchers from a group of German institutions note that melanoma has emerged as an increasingly significant challenge to public health over the past decade, driving the need for early detection and prevention.
+Dig Deeper
+Machine Learning in Healthcare: Defining the Most Common Terms
+Top 4 Machine Learning Use Cases for Healthcare Providers
+How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Dermoscopy has proven to enhance the diagnostic accuracy of a naked eye examination, but dermatologists and medical practitioners who are formally trained in dermoscopic algorithms have demonstrated only average sensitivity in detecting melanoma, showing rates of mostly less than 80 percent.
+To improve melanoma detection, researchers trained and tested a deep learning CNN for differentiating dermoscopic images of melanoma and benign marks.
+The team set out to compare its diagnostic performance to that of 58 dermatologists of various levels of expertise.
+When provided with only dermoscopic images, the CNN achieved an average specificity of 82.5 percent, compared to the dermatologists’ average performance of 71.3 percent.
+The CNN also demonstrated an average area under the curve (AUC) of 0.86, while dermatologists had an average AUC of 0.79.
+When clinical information, including patient age, sex, and body site, was added to the dermoscopic images, dermatologists showed an improved specificity of 75.7 percent and an average AUC of 0.82.
+However, the CNN still outperformed dermatologists, demonstrating a specificity of 82.5 percent and an average AUC of 0.86.
+These results show the potential for deep learning algorithms to improve melanoma detection.
+“The results of our study demonstrate that an adequately trained deep learning CNN is capable of a highly accurate diagnostic classification of dermoscopic images,” the team wrote.
+Deep learning, a machine learning technique, has previously demonstrated its ability to draw precise conclusions from medical images and enhance clinical decision-making.
+Researchers at Case Western Reserve University built a deep learning network that proved to be consistently more accurate than human pathologists at identifying breast cancer, detecting the presence or absence of cancer in whole biopsy slides 100 percent of the time.
+Additionally, a recent deep learning model developed by Google proved to predict inpatient mortality, unexpected readmissions, and long length of stay more accurately than traditional predictive models, and could help clinicians verify their work.  
+While the success of deep learning tools is not enough to replace human clinicians completely, it is very likely that human diagnostics may soon come to rely on these algorithms to improve the accuracy of results.
+However, before that can happen, more research is needed to demonstrate the validity of deep learning tools.
+When discussing the limitations of their study, the melanoma researchers said that prospective studies will need to address physicians’ and patients’ acceptance of these algorithms, as physicians may not follow the recommendations of a CNN they do not fully trust.
+Researchers also pointed out that the limited availability of validated images led to a lack of images from diverse skin types and patients with genetic backgrounds. As a result, the team stated that larger and more diverse testing data sets will help confirm their results.
+Still, the team is confident that their results demonstrate the potential for deep learning techniques to enhance dermatologists’ work. These algorithms could serve as essential diagnostic tools in the near future.
+“Our data clearly show that a CNN algorithm may be a suitable tool to aid physicians in melanoma detection irrespective of their individual level of experience and training,” the researchers concluded.
+Tagged Clinical Decision SupportDeep learningMachine LearningMedical imaging
+
+

@@ -1,0 +1,23 @@
+Airlango Launches Crowdfunding Campaign For Advanced AI-Powered Drone
+
+12 Jul 2018
+
+Leveraging precision film techniques and artificial intelligence, Mystic flies and captures photos autonomously
+Today, Airlango launched Mystic, an advanced AI-powered drone with the ability to recognize and autonomously follow its owner, obey gesture commands from the ground, and take high precision photos without user interaction. It is available now on Kickstarter starting at the super early bird price of $459 USD.
+Yinian Mao
+Airlango’s proprietary technology is the first ever to include neural-computing based AI functionality and flight control on the same chipset. The company hopes to play a part in ushering in a new era of autonomous robots that serve the needs of users through advanced perception and neural processing.
+“The goal with Mystic is to create an advanced drone with integrated, never before seen features,” said founder Yinian Mao. “These features are meant to give users more opportunities to use drones in their endeavors, whether it is for work or for personal projects, with fewer tech restrictions than existing drones on the market.”
+Follow Us
+It comes with an array of features including, a Snapdragon 820 processor for higher efficiency, faster performance and stronger wifi, a 12 MP camera with hybrid image stabilization, and 30 minutes of flight time. Mystic also folds up light and compact, offering users a streamlined travel solution.
+Mystic uses technologies widely used in self-driving cars including stereo vision, object detection and tracking, visual positioning system, obstacle detection and avoidance, as well as navigation and planning algorithms.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+The drone comes with four different modes each with its own unique functionality. Using a combination of both artificial intelligence and machine learning, Safari Mode allows the drone to slowly fly itself along a user-defined route and autonomously take pictures at interesting scenes and objects. Gesture Interaction Mode allows users to take control of the drone using hand gestures. Mystic supports up to six gestures with the fastest response rate to date. Users can use preset gestures or define and assign their own gestures to a task.
+Owner Recognition Mode automatically syncs the drone to recognize and lock in on its owner and respond with a unique reckoning. This gives users the ability to control the drone using gestures only, Finally, the Autonomous Follow Me Mode leverages Airlango’s 3D tracking approach and lets Mystic reliably and autonomously follow an object and avoid obstacles.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+The object detection and tracking uses neural network models as well leverages the stereo vision with the algorithm to create a 3D geometric model to compute the distance from the vehicle to the object, and to plan the vehicle trajectory and to prevent the vehicle from hitting the object.
+According to Mao, Mystic is designed to offer a unique user experience to drone enthusiasts and new users alike.
+“With Mystic, we’re giving users the opportunity to know what’s it like to use a drone without having to worry about constantly maneuvering it,” he said.
+Mystic can perform precision film techniques with state of the art accuracy as well as smart techniques such as template photos with intelligent framing, autonomous circling, and more.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+
+

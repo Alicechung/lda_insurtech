@@ -1,0 +1,29 @@
+DOJ Leverages Big Data Analytics to Combat Opioid Fraud, Abuse
+
+August 07, 2017
+
+By Jennifer Bresnick
+August 07, 2017 - The Department of Justice has announced a new Opioid Fraud and Abuse Detection Unit that will largely rely on healthcare data analytics to identify and address misuse of controlled substances.
+The task force, which will focus specifically on slashing fraud originating in the healthcare system, will include twelve prosecutors overseeing regions that have seen devastating impacts from the ongoing opioid epidemic.
+Opioid overdoses and related health problems took the lives of close to 60,000 Americans last year, according to recent estimates.
+“I am announcing a new data analytics program – the Opioid Fraud and Abuse Detection Unit. I have created this unit to focus specifically on opioid-related health care fraud using data to identify and prosecute individuals that are contributing to this opioid epidemic,” said Attorney General Jeff Sessions.
+“This sort of data analytics team can tell us important information about prescription opioids—like which physicians are writing opioid prescriptions at a rate that far exceeds their peers; how many of a doctor's patients died within 60 days of an opioid prescription; the average age of the patients receiving these prescriptions; pharmacies that are dispensing disproportionately large amounts of opioids; and regional hot spots for opioid issues.”
+READ MORE: Addressing Opioid Abuse with Analytics, Population Health Strategies
+State governments have tried to collect meaningful data on the prescription and use of controlled substances through prescription drug management programs (PDMPs), using health information exchange to gather data in centralized locations.
+Missouri recently became the last state in the nation to boot up a data-driven drug management initiative after Governor Eric Greitens leapfrogged a contentious legislative process and signed an executive order requiring his state to create a system to address the “modern plague” of opioid abuse.
+Despite the fact that every state will now have some form of electronic prescription drug tracking system, collecting and utilizing opioid-related data to reduce overdoses, limit access, and prevent addiction is a continual challenge. 
+Data siloes and jurisdiction limits, combined with poor interoperability and fragmented data collection, make it difficult for officials to follow opioid prescriptions longitudinally and understand how drug-seeking behaviors play out across state lines.
+Earlier this month, a report from The President’s Commission on Combating Drug Addiction and Opioid Crisis urged federal stakeholders to improve information exchange between state PDMPs to help public health experts craft a more robust portrait of patients at high risk for abuse.
+READ MORE: Communities Tackle Opioid Abuse with EHRs, Population Health
+“In addition to sharing data between states and the federal government, the PDMP needs to be improved with regard to its ease of use, and inclusion of other data to assist prescribing doctors,” wrote the Commission, which also stressed the need for federal funding and technical support for state PDMPs.
+The report additionally recommended a significant increase in capacity at substance abuse treatment centers, an expansion of efforts to provide naloxone to community public safety organizations, and mandated education for prescribers to ensure that they are following clinical guidelines and making informed decisions about delivering care.
+“Ideally, clinicians should check their state PDMP before making the decision to prescribe either an opioid or benzodiazepine (several states already have this requirement in place), determine whether their patient has had an overdose, and other relevant information that can be summarized into categories of high to low risk,” suggested the Commission.
+Even low-risk patients without previous exposure to worrisome substance using behavior can end up dependent on opioids, however.  The DEA states that up to 80 percent of heroin addiction begins with the misuse of prescription opioids, Sessions said.
+While the vast majority of healthcare providers do their best to ensure responsible use of opioids for post-surgical pain management and chronic conditions, fraudulent prescriptions and mishandling of the opioid supply chain are all too common, he added.
+READ MORE: Big Data Analytics Cuts Medicaid Opioid Abuse, Ups Patient Safety
+“Earlier this month, the Department announced the largest health care fraud takedown in American history. DOJ coordinated the efforts of more than 1,000 state and federal law enforcement agents to arrest more than 400 defendants. More than 50 of these defendants were doctors and have been charged with opioid-related crimes, which means this was also the largest opioid-related fraud takedown in American history.”
+The twelve new controlled substance prosecutors will work with law enforcement, HHS, and local governmental partners to “target and prosecute these doctors, pharmacies, and medical providers who are furthering this epidemic to line their pockets,” said Sessions. “These prosecutors will be based in several states across the country, including Kentucky, West Virginia, Tennessee, and…Southern Ohio.”
+“With these new resources, we will be better positioned to identify, prosecute, and convict some of the individuals contributing to these tens of thousands of deaths a year. The Department is determined to attack this opioid epidemic, and I believe these resources will make a difference.”
+Tagged Chronic Disease ManagementElectronic Prescribing of Controlled SubstancesPopulation Health ManagementPreventive Care
+
+

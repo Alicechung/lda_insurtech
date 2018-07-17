@@ -1,0 +1,15 @@
+Plum Voice Announces The Release Of VoiceTrends 2.0 Call Analytics And Customer Experience Platform
+
+14 Mar 2018
+
+VoiceTrends 2.0 Includes More Detailed Customer Journey Visualization, Enhanced Data Metrics, And Improved APIs
+Plum Voice, a leading communications platform as a service (cPaaS) provider for the enterprise, today announced the release of VoiceTrends 2.0, the newest version of the company’s analytics and reporting toolkit, built specifically for its cloud communications platforms.
+With an improved visual interface, VoiceTrends 2.0 makes it easier than ever to visualize the customer journey and understand the customer experience for your voice channel. The redesigned, user-friendly interface provides more granular detail about application performance and the call-flow analysis feature includes enhanced data metrics. This allows users to quickly identify areas where callers struggle and to take corrective action to improve the customer experience.
+The new VoiceTrends 2.0 also provides access to raw data directly in the toolkit itself or through API access. This enables users to create custom dashboards, reports, and notifications for their voice applications.
+Matt Jones
+“We know how difficult it can be to get real, useful actionable data from voice applications. That’s why we’ve taken our analytics toolkit to the next level, not only by providing users with more data and better usability, but one of the most exciting things with 2.0 is API access to enhanced caller journey data. The potential for custom reporting is almost endless,” said Plum Voice CTO, Matt Jones.
+VoiceTrends is built-in to Plum’s cloud communications platform and development toolkits including Plum DEV and Plum Fuse.
+Plum Voice is a communications technology company that provides programmable platforms to automate customer interactions and business processes. Our products and services simplify the development and deployment of mission-critical voice and messaging applications to connect people to information, anytime from anywhere.
+Plum Voice powers interactive voice response (IVR), call routing, messaging, and voice communications for customers all over the world. Our clients range from medium- to large-sized enterprises across a wide variety of industries. Plum helps businesses strike the right balance between self-service automation and excellent customer experiences.
+
+

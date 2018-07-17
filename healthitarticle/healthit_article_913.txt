@@ -1,0 +1,46 @@
+Patient Engagement, Population Health Are Key to ACO Success
+
+May 18, 2016
+
+By Jennifer Bresnick
+May 18, 2016 - There is no standard recipe for success when it comes to developing an accountable care organization that can earn incentives through the Medicare Shared Savings Program (MSSP). 
+The chequered history of the initiative, which has faced an onslaught of criticism about its benchmarking methodologies and lackluster financial returns, may not seem all that appealing to an organization that is seeking to reach the next level of patient engagement and population health management.
+After all, most organizations feel as if they have enough quality reporting initiatives to tackle as it is, and preparing for the upcoming changes of the MACRA framework will no doubt sap additional time and resources from providers worried about meeting unfamiliar requirements.
+But the potential pitfalls of MSSP participation didn’t faze Community Health Network (CHN), a Minnesota-based accountable care organization (ACO) with 300,000 patients under its care. 
+In fact, this partnership between HealthEast Care System and Entira Family Clinics has achieved some remarkable results in patient engagement and hospital utilization during its first three years as an MSSP ACO.
+READ MORE: Real-Time Scheduling Data Helps BIDCO Manage Population Health
+By integrating analytics into a dedicated effort to improve patient engagement, chronic disease management, and the coordination of care, CHN has seen a 40 percent reduction in all-cause hospital admissions for patients enrolled in its program and positive patient engagement rates reaching above 90 percent.
+“HealthEast and Entira entered this ACO agreement because we knew that there are going to be a lot of things that neither of us can do alone as we move into a new world of population health management and accountable care that goes beyond our own clinics or hospitals or health systems,” said Dr. Tim Hernandez, Medical Director of Community Health Network and Entira Family Clinics, to HealthITAnalytics.com.
+“When we work together to align our values and our efforts, that’s the foundational element of building more seamless pathways across the entire care team.”
+The Medicare Shared Savings Program provided CHN with the perfect “safe place” to deepen its commitment to managing patients more effectively, Hernandez explained.
+“There are a lot of quality measurement metrics in Minnesota already, and both of our groups perform at a high level of quality already.  And since are only accepting upside risk at the moment, we thought the program would give us a great environment to test out some of our care coordination efforts and analytics work.” 
+READ MORE: ACOs Lack Resources, Skills for Population Health Management
+“In addition to that, leveraging those strategies to reduce admissions and readmissions would, perhaps, help bring in a revenue source through cost savings and sharing that we didn’t have access to before.”
+CHN did struggle initially to meet the shared savings thresholds of the MSSP.  In its first year of participation, despite saving $1.4 million in costs, the ACO did not quality for shared savings payments. 
+It took a concerted effort to integrate patient engagement and population health management technologies to break through the barrier. 
+“We’re learning a lot about how to engage patients more effectively,” Hernandez said.  “We worked with Pharos Innovations to bolster our programs, and we’re proud of our results.” In 2014, CHN was able to hit its target, and earned more than $2 million in shared savings back from CMS.
+However, success did not come without some technical and workflow challenges.  Bringing disparate health systems together is no easy task, especially since the two groups are using separate electronic health records – and HealthEast just recently finished replacing their EHR with an Epic Systems product.
+READ MORE: Senate Bill Might Bolster Medicare Chronic Care Management
+“We have certainly run into some problems when it comes to being able to blend clinical and claims data for population health analytics,” Hernandez acknowledged.  “We are having to run things on different platforms and then build interfaces that will merge the data together, which isn’t ideal.  So despite the fact that we’ve been doing this for a while, there are still major issues to address.”
+In addition to the data integration and health information exchange issues, CHN has faced the same patient retention problems faced by many other accountable care organizations.
+“Honestly, we have almost no pull when it comes to getting patients to do exactly what you want them to do,” said Hernandez.  “They can still see whatever providers they want to, even if they’re outside of our group.  We have at least three hospital systems that our patients could use, and if they don’t choose a HealthEast hospital, there is no data in play that comes back to us.”
+“We’re a little behind when it comes to working with a health information exchange, not to mention the fact that in Minnesota, we have a lot of snowbirds that go down south for the winter, and they see an entirely different set of providers.  It’s a tough situation.”
+Investing in population health management tools and patient engagement technology has helped CHN to overcome some of these issues, he added.
+“The program has helped us get a quantitative sense of our market, and allows us to understand which people are likely to engage and how to keep those patients on the right track,” Hernandez said. “We know that we need to connect the dots a lot earlier in our physician groups, because it’s so important to leverage those relationships to get patients involved in their own care.”
+A dual-track population health management program helps to address two of the most significant and costly care management challenges: transitions of care to prevent avoidable readmissions and chronic disease management for heart failure and COPD.  A new diabetes program is next on the list.
+“Both our organizations are certified patient-centered medical homes, so we can use our PCMH strategies and tools to identify which patients are likely to benefit from extra attention to their chronic diseases,” Hernandez explained.  “It’s relatively easy to say to our physicians, ‘Next time Mr. Jones comes in for an appointment, make sure you talk to him about his smoking habit or his weight control.’”
+“What’s even better is when a physician comes to us and says, ‘I want to get Mr. Jones into the heart failure management program.  Can you see if he qualifies?’  It’s great when we have tapped into that on the front lines, because our clinicians have started to see the benefits of the phone calls, the trigger alerts, and getting our care managers involved very early in the patient’s journey.”
+Patient satisfaction is on the rise thanks to this focus on individualized care.  Ninety percent of CHN patients participating in the population health management initiative said they enjoyed the program.  Ninety-one percent would recommend participation to friends or family.
+“The patients really like having contact with the nurses, and they understand that we want to work with them to keep them out of the hospital,” said Hernandez.  Patients enrolled in the Pharos program experience a 40 percent lower hospital admission rate and a 78 percent lower chance of readmissions than other patients, he pointed out.
+“It’s important that these efforts have demonstrable value to their lives.  If they see it has a burden, they’re not going to be happy.”
+CHN’s first stint as an MSSP has produced such positive results that the organization has reenrolled for another three-year contract, and is even considering moving to the Next Generation program or another more advanced ACO framework in the near future.
+“We need to be ready for accountable care to become mainstream,” Hernandez stated.  “Especially with MACRA coming soon, we need to plan for these massive changes coming our way.  CMS sees the value in it.  The commercial payer world understands.  They don’t want healthcare costs to continue to spiral like they are, so we have to figure it out right now.”
+The key to securing patient and provider buy-in for these efforts is honing in on how to retool workflows and relationships to prioritize better outcomes, Hernandez said.
+“You want to organize your efforts around critical delivery.  You have to frame the conversation in terms of what you can do to take better care of your patients more efficiently.  Then you can start bringing in the other drivers around cost reduction.”
+“But the foundation should always be about the patient experience and how to produce better outcomes for the people who rely on your organization for their care.”
+Dig Deeper 
+What Makes for a Successful Accountable Care Organization?
+How Does an ACO Differ from the Patient-Centered Medical Home?
+Tagged Accountable Care OrganizationsChronic Disease ManagementEHR and Patient EngagementInterviewsMedicare Shared Savings ProgramPopulation Health Management
+
+

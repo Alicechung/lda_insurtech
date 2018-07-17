@@ -1,0 +1,57 @@
+EHR Optimization is Key for Quality Reporting, Population Health
+
+October 11, 2016
+
+By Jennifer Bresnick
+October 11, 2016 - Even before the EHR Incentive Programs made quality reporting a top priority for the provider community, the healthcare industry has struggled greatly with the notion of quantifying excellence in care. 
+Confusing metrics, EHR optimization shortcomings, and an inability to convert data into best practices have left providers without the guidance they need to meet the challenges of value-based care, even as reimbursements continue to shift towards pay-for-performance arrangements.
+Meaningful use may be drawing to a close, but quality measures and data-driven population health analytics are not going to diminish in importance any time soon.
+Instead, starting in 2017, MACRA is set to increase this pressure by requiring even more evidence that providers have the big data competencies to report on quality and cost – and make the process changes necessary to continuously improve patient outcomes. 
+Organizations that understand how to leverage electronic health record technologies for population health management, care coordination, and meaningful quality reporting will be best positioned to see success under MACRA and associated value-based care programs, says Micky Tripathi, founding President and CEO of the Massachusetts eHealth Collaborative (MAeHC) and a panelist at the upcoming Value-Based Care Summit on November 15 in Boston.
+READ MORE: Collaboration, Big Data Help Phoenix Children’s Focus on Value-Based Care
+To benefit from MACRA’s incentives and avoid its financial penalties, many providers will have to go back to basics if they wish to develop those EHR optimization and patient management skills, he added, by taking a hard look at the untapped opportunities of the EHR systems they already have in place.
+“If you don’t have an electronic health record at this point, you’re probably not going to be able to perform well in any kind of value-based care program,” he said. 
+“Having the ability to collect and use electronic data is foundational – and you can’t just use it as a documentation system,” he continued.  “You have to enable as much of the built-in clinical decision support, registry functions, and analytics as possible.”
+“All of the Certified EHR Technology tools available are going to have at least a base capability to perform decision support analytics and registry activities, so the functionality will be there.”
+Frustrated providers with EHR horror stories to tell may balk at the idea of adding more bells and whistles to a workflow that is already extremely challenging, but built-in big data analytics tools are intended to make those processes easier, more automated, and more efficient, Tripathi said.
+READ MORE: CIOs Focus on EHR Optimization for Population Health, Analytics
+The key is to find the tools that can help meet very specific challenges and optimize them in a way that improves the quality of the EHR user experience instead of detracting from it.
+EHRs are little different than any other productivity tool, like Microsoft Word or Excel, Tripathi argued.  These applications have become integral to the daily workflow for many computer users, but few have truly mastered everything they have to offer.
+“Almost everyone has a word processing system on their computer right now, and it can do a very wide array of things, right?  It might do a bunch of things that could make your life easier, but for whatever reason, you haven’t figured out how to do them,” he said. 
+“Personally, I know I use about one percent of what Microsoft Word can do, and I’m all right with that because either I don’t need those functions or I know other ways to get those tasks done, even if they may take more steps.”
+“But if I had a goal that I was going to be incented for and measured on, then I would try to figure it out, wouldn’t I?  At the very least, I would try to get someone on my team to figure it out for me, because it would be worth the time and effort to learn about these new tools and try to use them.”
+READ MORE: How NPs, PAs Add Value to Population Health Management Teams
+EHRs are similarly underutilized, partly because providers may not understand their full potential, and partly because they might lack the technical skills to make all of the adjustments and additions required for complex analytics and reporting.
+“So that’s why it’s always helpful to have a roadmap that says, ‘Actually, if you turn on these five clinical decision support features and create these four registries to stratify your diabetic patients by risk, then you’ll be a lot closer to getting those incentives,’” said Tripathi.
+Read: How Big Data Velocity Informs Population Health, Patient Safety
+“Having a recipe for success can focus you and make sure you enable the certain set of tools that will be relevant to your day-to-day practice.  The hard part is finding those roadmaps and that documentation.”
+Users can browse the FAQs or try to get answers to their questions through the help portals included in most EHRs, Tripathi said, or they could try connecting with a vendor support specialist.
+“If they’re a really good vendor, they’ll help you along because their customer services are supposed to be part of the package that they offer,” he said.  “But depending on your skill level, they might not offer the guidance you really need to optimize your system.  They might give you some technical help, but they won’t necessarily hold your hand through the whole process and make sure that it’s working exactly how you want it.”
+For more of a personalized approach, providers in search of optimization tips may also want to tap into a largely-forgotten resource: the remaining Regional Extension Centers that are still in operation in several locations across the country.
+“The New Hampshire REC is still going strong, for example,” he pointed out.  “MAeHC owns and operates it.  Organizations call us and hire us to come help them with very specific needs they have, and it’s been a very successful arrangement.”
+But perhaps the best place for a provider to get advice about using big data to succeed in the value-based landscape is an organization that has a vested interest in that provider’s value-based success.
+“If you are part of an ACO, you should turn to them for help, because they know that if your systems aren’t working well, the organization as a whole isn’t going to succeed,” Tripathi advises. 
+“So ACOs are starting to make the investment in EHR optimization experts that can get their members to that level of analytics and population health management required to boost performance.  It also helps them ensure that all their members are doing things the same way, which can reduce variation and improve the likelihood that the data will be of a quality high enough to use for aggregated analytics.”
+Data integrity, or the lack thereof, has always been a thorn in the side of data analysts looking to build reports, dashboards, or decision support tools that can make quality care easier for their colleagues. 
+Read: The Role of Healthcare Data Governance in Big Data Analytics
+While health information managers have rallied to develop, disseminate, and implement data governance guidelines that will ensure the healthcare industry can engage in quality reporting that works, EHRs themselves keep throwing up roadblocks.  
+
+“EHR systems sometimes include multiple options for documenting the same data,” Tripathi explained. 
+“In one leading vendor, for example, there are multiple places to record a patient’s smoking status.  But if you want to export that data or incorporate the data into an ACO-wide data warehouse to demonstrate performance, that process may not pick up entries from every single one of the forms where you could have entered the smoking status.”
+“So you could have two practices side-by-side, both using this system, but one of them is reporting smoking status in the field that gets sent to the data warehouse – and the other one looks like they’re not recording the data at all.  That’s very problematic.”
+It is in the ACO’s best interest to make sure that all providers included in the contract are documenting data for quality reporting in exactly the same way, he added, and to enable interoperability between core provider groups to facilitate tracking of patients across the care continuum.
+“We tend to think of interoperability as something that has to be ubiquitous – that you have to be connected to everyone.  But the reality is that most organizations really have a relatively small group of providers or organizations that account for most of their patient activity,” said Tripathi.  “That’s where you need to start connecting systems to enable to flow of data.”
+Without uniform data collection and full visibility into a patient’s longitudinal record, neither the ACO nor the healthcare system as a whole will be able to “truly understand how what we’re doing affects the quality of our outcomes,” he said. “In healthcare, we haven’t had the systems or the technologies to enable that.  That’s been a lot of the challenge.”
+Read: Understanding the Value-Based Reimbursement Model Landscape
+A lack of actionable quality measurement is also the reason capitation and HMOs failed in the late 1980s and early 90s, he asserted.   
+“It turned into nothing more than a cost-cutting exercise, because there was no way to measure quality.  So we put people under a capitation system, and gave them $10,000 to take care of a patient over a certain period of time, but we couldn’t perform the analytics that would tell us if that provider was doing a good job or not.”
+
+“So what happened instead is that everyone just sort of blindly tried to cut costs to stay under that budget, quality suffered, and the patients rebelled.  They didn’t understand why they were being denied their MRI.  They felt as if their health was being put at risk because their health insurers were just trying to make more money.”
+But in 2016, the nearly-universal adoption of health IT tools in the hospital setting, and the growing reliance on EHRs and population health applications on the provider side has created an entirely new environment for measuring and acting upon value, Tripathi said.
+
+“Now we have the data and the analytics to be able to capitate providers and measure their quality.  It isn’t quite as easy as gauging the quality of a house – you know that the end product is going to suffer if your contractor is using two-by-fours instead of two-by-sixes.  It’s not as simple in healthcare, and we know that.  There is still a long way to go.”
+“But we are getting much better at making sure that providers aren’t cutting corners on quality in the processes of saving money.  Instead, we are trying to encourage them to figure out more efficient ways of delivering that high quality care, and we keep getting better at using data to do that.”
+To learn more about how to use EHRs and other health IT tools to overcome the challenges of the pay-for-performance ecosystem, join us at the Value-Based Care Summit on November 15, 2016 in Boston.  
+Tagged Clinical Quality MeasuresEHR OptimizationInterviewsMACRAPopulation Health ManagementValue Based Care
+
+

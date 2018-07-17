@@ -1,0 +1,30 @@
+Big Data Analytics Poses Problems, Promises for Healthcare
+
+February 24, 2016
+
+By Jennifer Bresnick
+February 24, 2016 - Healthcare stakeholders are pretty certain that big data analytics is going to become one of the defining features of the industry in the near future – but few predictions about events yet to come are free from warnings about what might go wrong. 
+When it comes to using big data for clinical care, the promises are exciting but the potential perils are many, argue Austin B. Frakt, PhD, and Steven D. Pizer, PhD in an editorial for the American Journal of Managed Care. 
+Big data can provide a wealth of rich, multi-dimensional data to foster holistic patient care, but healthcare data scientists must be careful not to rely too heavily on correlation instead of causation when determining the best strategies for informed decision-making.
+“Spurred by the accuracy with which companies like Google and Netflix use large amounts of data to anticipate our interests, there is growing investment in ‘big data’ applications to healthcare,” write Frakt and Pizer, experts in healthcare economics.
+While the definition of “big data analytics” involves collecting and analyzing multiple streams of data in order to draw conclusions not available with just a single source, Frakt and Pizer point out that not every data source has real clinical value.
+READ MORE: Predictive Big Data Analytics Identify High-Risk ED Patients
+“For instance, for every 5 million packages of x-ray contrast media distributed to healthcare facilities, about 6 individuals die from adverse effects,” they explain.  “With big data, we learn that such deaths are highly correlated with electrical engineering doctorates awarded, precipitation in Nebraska, and per capita mozzarella cheese consumption (correlations 0.75, 0.85, and 0.74, respectively).  
+“However, because we cannot conceive of a causal mechanism, it is obvious that these variables play no causal role in x-ray contrast media deaths. That such high correlations can be easily mined from big data is concerning nonetheless, because it is not always trivial to assess whether they are telling us something useful.”
+Data scientists and developers are usually able to dismiss the most outlandish correlations relatively quickly, but the changing way of addressing population health management and individualized patient care may actually complicate this process.
+Providers are looking to integrate more and more data sources, including everything from behavioral health records to bus schedules to grocery lists, in order to develop a more complete portrait of the challenges that some patients face when managing a chronic disease or keeping in contact with the healthcare system.
+Geographic data, air quality information, Twitter trends, and Google searches are making big data very large indeed, but data science experts must be careful to use common sense – and a firm grasp of clinical knowledge – to develop big data analytics models that illuminate meaningful insights instead of picking up on false assumptions.
+READ MORE: How Big Data Analytics Underpins Every Healthcare Trend
+Frakt and Pizer use the example of proton pump inhibitor (PPI) use, which may be associated with pneumonia in patients.  “This could be causal because a mechanism is plausible—gastric acid reduction could increase bacterial colonization—but perhaps the association arises because other factors drive both PPI use and pneumonia incidence,” they write.
+A randomized clinical trial (RCT), the gold standard of clinical research, would certainly help to confirm or reject the hypothesis among a limited cohort.  “However, the very promise of big data is its potential to see what RCTs won’t, thereby improving care in ways that RCTs cannot,” the authors point out.
+But there’s nothing wrong with borrowing some of the RCT’s analytics strategies, they add.  In fact, employing an objective eye and balanced methodology when engaged in big data analytics work is essential for ensuring that the conclusions are meaningful and clinically accurate.
+One important strategy is the “falsification test,” which can guide an analyst’s efforts by prompting the researcher to match the suspected causal variable against other outcomes to see if the pattern makes sense in a broader context.
+“The key is to select other outcomes or populations that are likely to also be affected by factors that could be driving the suspected causal relationship,” Frakt and Pizer say. 
+READ MORE: AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+With PPI use, for example, the relationship with pneumonia may be a correlation instead of causal, because other research has shown that increased PPI use also tracks with outcomes “for which no clear causal mechanism exists,” such as chest pain, deep venous thrombosis, osteoarthritis, and urinary tract infections.
+Therefore, researchers may need to look elsewhere to see what is driving a spike in pneumonia cases before taking any patient management actions that might end up adversely affecting care.
+“Big data can be useful in healthcare; they can expand the reach of evidence-based medicine into domains not accessible with RCTs, including postmarket surveillance of drugs,” the authors conclude. “But to fulfill that ambition, big data must be coupled with rigorous observational methods.”
+“Falsification tests can illuminate when a relationship is less likely to be causal, potentially sparing practitioners from making grave mistakes. Without them, we run the risk of letting our enthusiasm about big data get ahead of the science and what is best for patients.”
+Tagged Clinical AnalyticsHealthcare Data AnalyticsHealthcare InformaticsPopulation Health Management
+
+

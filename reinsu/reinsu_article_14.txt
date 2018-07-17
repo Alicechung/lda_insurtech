@@ -1,0 +1,23 @@
+B3i confirms switch away from blockchain to R3’s Corda
+
+18th June 2018 - Author: Charlie Wood
+
+The Blockchain Insurance Industry Initiative (B3i) has announced a platform switch away from Hyperledger Fabric’s blockchain to Corda, an open source distributed ledger product created by New York-headquartered technology firm R3.
+
+The decision comes following a report by B3i Services AG that reviewed open source blockchain technologies against the B3i enterprise platform strategy.
+
+The report focused on critical success factors of data privacy, scalability, interoperability and developer productivity. It was concluded that the Corda platform offers the best blockchain solution available.
+
+B3i referenced Corda’s strong reputation, technologies and standards in prompting the switch and expects a full integration of Corda nodes in the professional and compliant IT environments used by its clients.
+
+Markus Tradt, Chief Technology Officer (CTO) at B3i, commented, “The Corda platform offers the optimal solution in the market to deliver the B3i roadmap and our industry-wide insurance blockchain ecosystem. We are very excited to continue our work with the Corda team.”
+
+CTO at R3, Richard Gendal Brown, added, “We are delighted that B3i has selected Corda as its preferred platform and our engineering team is looking forward to working closely with the excellent team at B3i to bring their innovative solutions to market.”
+
+The switch had been rumoured in technology circles for some time and sees B3i coming into line with other financial market giants that have elected to develop their systems on top of R3’s Corda distributed ledger platform.
+
+However, the R3 platform Corda is not technically considered to be a traditional blockchain platform by many technologists, although it is considered a distributed ledger, although this is splitting hairs and semantics, as operationally many of the technological concepts in use remain the same. R3 explained the difference in this article.
+
+Previously, B3i had been developing its products using the Hyperledger Fabric blockchain platform.
+
+

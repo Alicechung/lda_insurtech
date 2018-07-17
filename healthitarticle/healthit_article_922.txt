@@ -1,0 +1,33 @@
+CMS: Physicians Overloaded with Big Data, Yet Feel Uninformed
+
+May 11, 2016
+
+By Jennifer Bresnick
+May 11, 2016 - Physicians are always warning their patients that they can have too much of a good thing when it comes to sweets or French fries, but healthcare professionals are having trouble understanding how to change the way the adage applies to their own big data consumption.
+Providers are simply overwhelmed by the amount of data they are expected to digest during the process of patient care, said CMS Acting Administrator Andy Slavitt during a speech presented at Datapalooza this week, yet they feel chronically uninformed when it comes to actionable steps to take in order to improve quality and outcomes.
+“Physicians are baffled by what feels like the ‘physician data paradox,’” Slavitt said. 
+“They are overloaded on data entry and yet rampantly under-informed. And physicians don’t understand why their computer at work doesn’t allow them to track what happens when they refer a patient to a specialist when their computer at home connects them everywhere.”
+Independent practitioners are particularly affected by this frustrated state of affairs, he added, due to the heavy burdens of regulation, reporting, technology use, and changing financial arrangements that make it difficult to devote time to the nuances of patient care.
+After numerous conversations and listening sessions with stakeholders from across the industry, Slavitt and CMS have concluded that providers feel as if these endless requirements simply “took time away from patients and provided nothing or little back in return.”
+And providers aren’t the only ones who are suffering from banging their heads against the keyboard.  Patients are also unable to take full advantage of the promises of health IT due to disconnected processes, data siloes, and a pervasive lack of communication between systems and organizations.
+“Health care is actually full of the same tasks over and over: getting a referral, getting discharged from a hospital, scheduling a follow up appointment,” said Slavitt.
+“Yet the system treats us as if we’re doing everything for the first time and seems remarkably surprised by our activities. Robots can perform your mom’s surgery. But reminding her to fill her prescription? No! Telling her primary care doc how the surgery went and arranging a follow up? Seems to be too hard.”
+Despite the fact that providers are well aware of the fact that what happens outside of the hospital walls is just as important as what takes place when the patient is under anesthesia, it is nearly impossible to use the current health IT infrastructure to ensure that a patient is following her discharge instructions and receiving the right care at home.
+“What we call ‘interoperability’ at this point would not be considered an impressive achievement by physicians,” Slavitt acknowledged. “At best, it would count as making the technology work.”
+How can the healthcare system reconcile this enormous wealth of data with the staggering paucity of actionable information?
+CMS is banking on MACRA as the answer.  The Merit-Based Incentive Payment System (MIPS) and Alternative Payment Models (APMs) are designed to slash the time and effort it takes to meet reporting requirements, provide flexibility to healthcare professionals with unique needs, and focus on reorienting the industry to focus on patient outcomes, data sharing, and standards-based technologies.
+“We must learn how to take care of people better in their own homes and communities,” Slavitt stated. “We need to empower physicians so that technology improves their morale, not saps it. An entirely new operating system for health care will be needed to support it.”
+That new system will promote data liquidity and interoperability, open standards, and care coordination tools that will actually work, he continued.
+“It’s time to lead, follow, or get out of the way,” Slavitt said. “If you want to lead the way with innovations that help consumers, great. If you want to follow by using established standards for data and measurement and technology, also great.”
+“If you have a business model which relies on siloing data, not using standards, or not allowing data to follow the needs of patients, pick a new business model or pick a new business.”
+The healthcare system must work together to architect a connected ecosystem of big data that delivers actionable insights in real-time to the point of care. 
+Key elements of the MACRA technology requirements, including open APIs, will help to foster the changes necessary to make patient information accessible for the coordination of care.
+“Without better connected and easier to use technology, I worry most about the people with the least access to care. I worry about the independent physician practice. I worry about our country’s Cancer Moonshot.
+“But mostly I worry that the moral underpinnings of our public-private health care system won’t support where we need to go. And that will mean our chances of any meaningful success will be held up, not because we can’t do it, but because we won’t do it,” he said.
+“When we put our minds to it, I have seen how much technology can radically improve health care and how fast. MACRA is the burning platform for progress in care delivery, just as the ACA was in health care coverage. Together, we can make the system radically better.”
+Dig Deeper
+Slavitt: MACRA Implementation to be Collaborative, Iterative
+How to Build a Successful Big Data Analytics Program in Healthcare
+Tagged Analytics InfrastructureCare CoordinationHealthcare Big Data AnalyticsHealthcare InteroperabilityMACRA
+
+

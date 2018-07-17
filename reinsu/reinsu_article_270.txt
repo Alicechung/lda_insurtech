@@ -1,0 +1,57 @@
+Blockchain: Why re/insurers need to take control of their future
+
+14th March 2017 - Author: Steve Evans
+
+In this contributed article, Tom Johansmeyer, assistant vice president, PCS Strategy and Development, at ISO Claims Analytics, a division of Verisk Insurance Solutions, discusses the need for insurance and reinsurance market participants to engage with the global blockchain community.
+
+Waiting for a solution to a problem to present itself doesn’t work out too often. I speak from experience, and I’m pretty sure I’m not alone. Answers require action. And the state of blockchain in the insurance sector shows just what happens when you wait for solutions to tough challenges to simply fall from the sky.
+
+There’s a real risk that blockchain start-ups could lose interest in the insurance industry.
+
+A fundamental misunderstanding of where they could help our industry—and grow profitably for their investors—could drive promising insurtech players to other corners of the fintech universe, ultimately reinforcing the collective reputation of the global insurance industry as slow to adapt and adopt. But, interestingly enough, it’s completely within our power to change this dynamic. Engaging the blockchain community on a broader basis isn’t even as difficult as it may seem.
+
+The Curse of the ILW
+
+Given what I do for a living, the industry loss warranty (ILW) market is pretty important to me. But at $4 billion in limit, it’s a small slice of the global property-catastrophe reinsurance market—let alone the overall global primary insurance industry. However, it’s this small corner of the insurance world that blockchain has chosen to call home.
+
+It makes sense, in a way.
+
+Blockchain and industry loss index triggers fit well together. Smart contracts, often built on a private blockchain infrastructure, turn contract terms and conditions into executable logic, facilitating automatic execution when certain conditions are met. Often, this is accomplished through the integration of data from an independent, third-party ‘oracle’.
+
+Within this context, blockchain for ILWs is natural. Independent external reporting agents (usually PCS®) contract terms that easily lend themselves to programmable rules, a clear path to automation. It’s no wonder the blockchain community saw ILWs as ‘low-hanging fruit’.
+
+And it’s a dynamic that’s reinforced itself, particularly following the Allianz ART proof of concept last summer. Press coverage drove search engine visibility (and ultimately search optimisation), resulting in a cycle of activity breeding attention. That led to more focus on ILWs by the blockchain community. In the end, such factors made it easier for blockchain start-ups with little insurance expertise or experience to wind up in a part of the insurance sector that relatively few industry members even know about. Let’s get real: the ILW market is pretty obscure.
+
+Ease of execution in the ILW sector, though, could ultimately prove problematic for blockchain in insurance. The opportunity for growth-hungry start-ups is just too small. And rather than broaden their investigation into complex areas such as commercial claim handling, blockchain start-ups may pursue easier-to-understand opportunities elsewhere in global financial services.
+
+Everybody Wants to Get Paid
+
+Insurtech start-up founders—much like their investors—eventually will want lucrative exits. For blockchain players, the odds of a big win become slimmer, though, as reliance on the ILW market increases. Even if blockchain can reduce overheads to the point where they make ILWs meaningfully more competitive with traditional reinsurance cover (even if just for retrocession), there’s still an upper limit on market potential for blockchain start-ups in this space. Fortunately, the insurance industry is much bigger than ILWs. Well, except perhaps for the blockchain community.
+
+Whether it’s through ease of access to the ILW market conceptually or an inability or unwillingness to understand the broader insurance challenges that blockchain could address, a misperception seems to be emerging that there’s little beyond the ILW market for the blockchain community. Efforts to remedy this are afoot, but they take time.
+
+With potential returns in the insurance industry thus appearing to be constrained, some blockchain players may elect to leave insurance and pursue their ultimate exits through the broader fintech market. And the allure of fintech is bolstered by a banking sector that’s larger than insurance and is also generally praised as innovative and early to adopt and innovate.
+
+Why mess around with ILWs when you can revolutionise banking, right?
+
+The threat this thinking poses is a blockchain brain drain from insurance to banking (and elsewhere in global financial services), which ultimately deprives insurers of the opportunity to become early adopters. It’s self-reinforcing, resulting in a cycle that could prove maddeningly difficult to break.
+
+To keep this from happening, we have to help the start-ups get paid. And that means showing them—and helping them connect with—the global insurance industry’s full potential.
+
+A Hug across the Chasm
+
+Blockchain start-ups and the insurance industry understand (to a limited extent) that they could be good for each other. But that’s about it. They aren’t necessarily sure how. And so far, they haven’t tried in earnest to bridge the gap. Insurers ask some questions. Blockchain start-ups kick around some use cases in something of a vacuum but ultimately get frustrated when a lack of insurance knowledge impedes progress. The interaction never goes deep enough.
+
+The only way to get past this is for a mutual embrace to occur between insurance and blockchain players. Insurers need to spend real time getting to know blockchain—and blockchain-focussed start-ups need to commit time to providing that education. And vice versa. A fantastic blockchain team won’t have sufficient insurance knowledge necessary to solve big industry problems.
+
+There are signs that a ‘group hug’ of sorts is starting to occur. Some insurers and reinsurers have begun to explore and experiment with blockchain, even outside the ILW space. The B3i initiative marks a potentially groundbreaking step forward for industry consortium development. The mutual education is beginning to occur.
+
+But more is necessary, and it really should come faster. To retain blockchain interest and involvement in the insurance industry, we need to:
+
+When it comes to blockchain, we’re all stuck. If we don’t change that, we could lose blockchain talent and effort to other industries, which would only set us further behind. Our necessary next step is to help blockchain start-ups understand how the insurance industry works. Nobody is better equipped to fix this than the insurance industry itself. It’s time for us to get together and take action. After all, problems don’t solve themselves.
+
+Contributed by – Tom Johansmeyer:
+
+Tom Johansmeyer is assistant vice president, PCS Strategy and Development, at ISO Claims Analytics, a division of Verisk Insurance Solutions. He leads all client- and market-facing activities at PCS, including new market entry, new solution development, and reinsurance/ILS activity. Currently, Tom is spearheading initiatives in global terror, global energy and marine, and regional property-catastrophe loss aggregation. Previously, Tom held insurance industry roles at Guy Carpenter (where he launched the first corporate blog in the reinsurance sector) and Deloitte. He’s a veteran of the U.S. Army, where he proudly pushed paper in a personnel position in the late 1990s.
+
+

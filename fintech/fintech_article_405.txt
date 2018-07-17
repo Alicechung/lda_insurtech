@@ -1,0 +1,21 @@
+Zero Trust Model to Prevent Data Breaches
+
+February 1, 2018
+
+Following a recent report stating that cyber-attacks are pushing corporate fraud to an all-time high, with 86 percent of companies around the world reporting that they had experienced a cyber incident in 2017, it is becoming ever more apparent that most businesses have failed to comprehend the scale of corporate hacking. According to Simon Bain, CEO at BOHH Labs, one solution to help organisations combat this and help prevent data breaches in a corporate environment is to embrace a Zero Trust Model.
+
+ Elimination of a Trusted Network Idea
+
+ In today’s complex cyber world, there is no longer any trust in security. It is clear there are no longer trusted and untrusted engagements on our devices, our networks or even among our users. Traditionally, IT security models have operated on the belief that if something was already inside the organisation’s network, it could be trusted; however, as cyber-attacks have developed in complexity, combined with insider threats (most notably from the recent surge in Trojan virus attacks), the idea of a trusted network must be eliminated and it’s time to start implementing an approach that views all users and network traffic as untrusted that must be verified and enforce strict access control.
+
+ Simon explained: “The concept of Zero Trust is self-explanatory in the sense that no one should be assumed trusted, and everyone needs to be verified. The model is designed to segment out access to data to those who have authorisation to access it, reducing the risk of any attempted lateral threat movement within a network from a user that is not authorised. This segmentation approach helps create strengthened perimeters on sections of a network, especially those that need to be kept private. By taking this approach, IT departments can define specific restrictions for each user based on their level of clearance to the network, allowing them to safeguard portions of the network, whilst allowing secure access to whoever has clearance.”
+
+ Zero Trust Approach
+
+ The point in the network where attackers initially breach is rarely the target location, and they will move laterally through the network to reach their goal. For example, if an attacker infiltrates a network through the endpoint, they will have to deploy lateral movement to reach a data centre or wherever the valuable assets inhabit. Using the Zero Trust approach that has set limits on who can access certain data, any unrestricted lateral movement in the network will be picked up as an irregularity.”
+
+ When thinking about a Zero Trust approach, it is important to consider the following:
+
+ Cyber-attacks will continue to evolve in complexity, including predictions that 2018 will bring a rise in AI-based attacks from hackers to mimic human behaviours. In order to keep up with these new coordinated attacks, there will be an even greater need for companies to invest in their cybersecurity tools, such as measures to ensure a Zero Trust model, to meet these new threats head on, making it an important spend in their cybersecurity strategy,” he concluded.
+
+

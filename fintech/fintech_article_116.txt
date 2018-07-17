@@ -1,0 +1,19 @@
+Dimebox releases machine learning fraud predictor that combats evolving fraud trends
+
+June 2, 2018
+
+Dimebox, the only full-stack white-label acquiring platform in the world, has announced the release of a proprietary fraud predictor service based on machine learning. The service is designed to detect evolving fraud patterns, allowing fraudulent payments to be blocked accurately without hindering legitimate transactions.
+
+ The fraud predictor trains itself on batches of transactions that are known to be legitimate or fraudulent, from specific merchant databases, creating a deep understanding of the kind of fraud that is targeting individual merchants.
+
+ Within the Dimebox platform, transaction rulesets can then be employed to automatically stop a transaction before it is completed, if the predicted likelihood of fraud is above a defined threshold. The fraud predictor uses self-learning algorithms to calculate a fraud score for every transaction, allowing the user to decide whether or not the score is high enough to warrant blocking, in the context of other criteria. This means the user’s risk appetite can be controlled with extreme precision, creating the right balance between blocking fraud and allowing regular transactions to go through unimpeded. 
+
+ Because the Dimebox full-stack white-label acquiring platform offers end-to-end processing, fraud data is collected directly by the gateway, via chargebacks and fraud reports—Visa’s “TC40” report and Mastercard’s “SAFE” report— through direct access to card issuers. By adding the fraud predictor feature to their platform, Dimebox expands their fraud offerings for merchants, PSPs and acquirers by increasing authorisation rates and minimising chargebacks, while eliminating the need for large fraud analysis teams.
+
+ About Dimebox
+
+ Dimebox is the payment technology provider of the future offering their payment solutions through one platform and a single API. They are the only provider of a full-stack acquiring solution that is completely white label and flexible enough to embrace new payment methods and innovations quickly and effortlessly.
+
+ Dimebox goes beyond payment processing by offering their clients a modular and white label PaaS solution which includes fully integrated risk management, a fraud engine powered by machine learning, chargeback automation and billing & settlement capabilities enriched with smart data analytics. The result is a powerful end-to-end processing solution enabling real-time decision-making throughout the entire payments value chain. With offices in Amsterdam and Brisbane, Dimebox provides clients from all over the world with solid and innovative payment technology.
+
+

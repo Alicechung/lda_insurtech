@@ -1,0 +1,24 @@
+Chan, Zuckerberg Donate $10M to UCSF Precision Medicine Lab
+
+July 31, 2017
+
+By Jennifer Bresnick
+July 31, 2017 - Dr. Priscilla Chan and her husband, Facebook founder Mark Zuckerberg, have made a $10 million donation to one of the nation’s leading precision medicine research facilities at UC San Francisco.
+The UCSF Institute for Computational Health Sciences (IHCS) and its leader, Atul Butte, MD, PhD, will use the gift to explore the potential of “data recycling” as a way to unlock insights into personalized care.
+“We are enormously grateful to Priscilla and Mark for their visionary gift supporting the work of Atul Butte, one of the world’s leading physician-scientists working at the frontier of big data,” said UCSF Chancellor Sam Hawgood, MBBS.
+Dig Deeper
+Precision Medicine Sparks New Conversations about Patient Data
+“All of Us” Taps First Community Precision Medicine Partners
+Precision Medicine Initiative Grows through Grant Funding
+“We expect this to transform health, at the level of individuals and communities.”
+Butte believes that there is already enough publically available data to allow researchers to generate important insights into precision treatments, drug discovery and repurposing, and new therapies for cancer and other diseases. 
+A “trillion points of data” already available, if researchers know where to look, could hold the key to advancements in research without the need to create brand new data sets from scratch every time a researcher has a new idea or a new drug needs to be tested for safety and effectiveness.
+Developing the big data infrastructure to support meaningful data recycling is a challenge, however.  Electronic health records are a promising place to start, says Butte, who is leading an initiative to integrate EHR data from all five UC Health medical centers.  In total, the system has data on more than 15 million patients.
+“This is among the richest and most diverse medical datasets in the world – much more than just a set of billing codes,” Butte said. “And, because the data come from our patients, the data are an incredible resource for UC hospitals to improve the quality of care we deliver throughout California.”
+Earlier this year, researchers from UCSF Medical Center found that using the wealth of available EHR data from the UC Health system could improve monitoring of diabetic patients.  Automated daily reporting on patients with abnormal blood glucose levels helps providers decrease patients experiencing hyperglycemia by nearly 40 percent, reported lead author Robert Rushakoff, MD, MS.
+Butte believes that the same principles can be applied to reducing the costs of drug discovery.  Using computational strategies and “in silico” testing could drastically lower the price tag of identifying candidates for clinical trials and bringing drugs through the complicated testing and regulatory processes required before it comes to market.
+The gift from Zuckerberg and Chan, who is an alumna of the UCSF School of Medicine, will fund staff recruitment and the development of the UCSF Spoke Knowledge Network, a centralized knowledge hub for precision medicine research.
+It has also resulted in a new title for Butte: the Priscilla Chan and Mark Zuckerberg Distinguished Professor at UCSF. 
+Tagged EHR AnalyticsGenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

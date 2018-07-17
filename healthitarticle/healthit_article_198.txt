@@ -1,0 +1,57 @@
+Change Healthcare Pushes Scale, Finds Value in Blockchain
+
+February 14, 2018
+
+By Jennifer Bresnick
+February 14, 2018 - Blockchain has quickly risen to become one of the most talked-about technologies in the healthcare sector and elsewhere, dangling a tantalizing “chain of trust” in front of an industry yearning for easier, more secure, and more interoperable methods of data exchange.
+The distributed ledger methodology, most famous for supporting cryptocurrencies such as Bitcoin and Etherium, offers a unique way to manage the transactions that are so critical to administrative and clinical processes. 
+Emily Vaughn, Director of Blockchain Product Development
+Source: Xtelligent Media
+By linking together communities of participants, all with shared power and responsibility to track changes through timestamps and confirm that transactions or data exchanges are valid and allowable, blockchain has the potential to eliminate many of the traditional barriers to data sharing.
+But the blockchain is still relatively new, cautions Emily Vaughn, Director of Blockchain Product Development at Change Healthcare, and excitement around the potential of blockchain shouldn’t obscure the fact that there is still much to explore, develop, and prove.
+Change Healthcare is one of the healthcare stakeholders taking on that challenge, recently making waves by announcing that it is leveraging blockchain at scale within its existing claims processing network. 
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Its solution, which is built upon Hyperledger Fabric, currently runs in parallel with more traditional processing techniques, Vaughn explained.
+“It provides an additional window into the status of a claim based on data captured on the blockchain, which can be very helpful for providers waiting for reimbursements to clear,” she told HealthITAnalytics.com. 
+“But the ability to see a claim status isn’t what’s innovative here – there are a number of solutions on the market already that can do that.  The exciting part is proving that blockchain technology is actually capable of meeting the volume demands in healthcare.”
+Change Healthcare helps to process $2 trillion in claims each year, which translates to millions of individual events every day.
+“In healthcare, a standard requirement for a network solution at scale would be around 30 million transactions per day,” said Vaughn, noting that even the most popular cryptocurrencies have barely approached a fraction of that volume.
+READ MORE: Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+“On its biggest trading day to date, Etherium topped out at around 1.4 million transactions,” she said.  “The solution we designed is capable of processing 50 million transactions per day.  So our announcement isn’t just about a new offering – it’s about improvements on the scalability of blockchain technology in general.”
+Healthcare, with its stringent privacy rules and long technology adoption cycles, isn’t often known for being a prime proving ground for new ways to manage data. 
+But the overwhelming imperative for privacy and security might just be a benefit when it comes to leveraging the blockchain at scale.
+Blockchain communities can either be public or private, Vaughn explained.  Bitcoin, for example, is a public blockchain – anyone can start purchasing or trading the currency.  
+But when anyone can activate a node and start confirming blockchain transactions, it is possible that bad actors could find their way in.
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+“In a public model, where the participants are anonymous to one another, it is very difficult to understand the intent of the person who is going against what everyone else is saying or acting in a way that raises suspicions.  That means that the consensus model has to be designed to account for anonymous individuals who may be malicious,” said Vaughn. 
+“Bitcoin and Ethereum have to deal with that by creating much more complex consensus mechanisms for making sure everyone is in agreement.  That requires a lot more processing power, which can slow down the network and limit the volume that can move through the system.”
+In contrast, healthcare’s need for privacy and security means that permissioned blockchains are the natural starting point. 
+All of the participants in private or permissioned blockchain communities already know and sufficiently trust one another, so there is less need to spend time and processing power on validating whether or not each node is acting in good faith.
+“If one person on a network does start acting maliciously for whatever reason, the other people can identify them and manage the situation as appropriate,” pointed out Vaughn.
+“When everyone knows each other, it’s much easier to figure out why one entity might not approve a transaction.  The context can be ascertained more easily.  That means the network doesn’t need a consensus mechanism that is quite as bulky, which in turn means they are capable of processing more volume.”
+That built-in level of trust, forged through contracts and business relationships that have been cemented over time outside of the blockchain environment, could be the key to making healthcare a very successful home for blockchain.
+And while closed-off circuits of data exchange sound rather counterintuitive for an industry pushing so hard towards seamless interoperability, that may just be how blockchain best develops, asserted Vaughn.
+“When the internet was first created, it existed as private intranets owned by university research organizations and government agencies,” she said.
+“These intranets were creating business value for these organizations for years before we had an open, public solution.  I see blockchain following a similar pattern: we will start by finding value in private and permissioned networks, but the need and ability to migrate to public networks will emerge over time.”
+Healthcare stakeholders are somewhat split on how soon the industry will see rewards from investment in blockchain – or if the opportunities are really there at all.
+In June of 2017, more than 80 percent of life science executives surveyed by the Pistoia Alliance said that blockchain would be widespread among pharma companies within five years, despite regulatory and technical concerns.
+Participants in an IBM survey from just a few months earlier predicted that by the end of the decade, 70 percent of healthcare organizations will have blockchain in production and at scale. 
+Anticipated use cases include managing health record data, improving patient safety, reducing the potential for data breaches, and developing analytics tools from medical device data and other big data assets.
+And yet when Impact Advisors surveyed a group of CHIME CIOs about the technologies most likely to make a mark on healthcare over the next two years, blockchain wasn’t anywhere near the top of the list.
+In fact, it achieved the unenviable distinction of “most overhyped technology,” with 48 percent of CIOs stating that it was simply too futuristic to warrant much attention. 
+A mere 1.8 percent of executives said that blockchain will have a major impact on healthcare by 2020, which is a drastic departure from other industry polls.
+Vaughn comes down on the optimistic side of the issue, and believes that blockchain has a great deal to offer healthcare – but she understands it can be tricky to be bullish on a technology that has not yet proved itself in practice.
+“There’s a lot of hype in the market,” she acknowledged.  “But that is because the use cases that lend themselves to blockchain are so attractive to everyone in the healthcare ecosystem.  When you talk about universal patient records or real-time claims, it gets a lot of people excited.”
+“When you add that to what is happening with cryptocurrency, and how startups are raising billions in a crowd-sourced, tokenized fundraising environment, you’ve got a lot of disruptive conditions that are creating an incredible level of potential.”
+There is a sense of urgency among vendors to harness the high degree of interest and ensure that they are not just the first, but also the best, at helping providers benefit from what blockchain can bring to the table.
+“The excitement is great to see, but it can also create misaligned expectations, because it is still quite early in the development of blockchain,” said Vaughn.  
+“It isn’t capable of doing the things we want to do yet.  In many respects, organizations have to temper their enthusiasm and keep a critical eye when examining the hype, because blockchain isn’t fully formed.”
+Healthcare organizations want to be on the cutting edge regardless have some challenges ahead of them, she predicted.
+“A lot of the development in blockchain right now is happening at the infrastructure level,” said Vaughn.  “We haven’t perfected the application layer yet, which is why a lot of the user interfaces for blockchain applications aren’t as good as they could be.  And there aren’t a lot of resources out there that have contextualized blockchain for healthcare.  We still have to develop them.”
+“There are definitely opportunities to get engaged right now, but they will require a more innovative strategy than many healthcare organizations are used to.”
+Early adopters will play an important role in generating trust and confidence in blockchain as it develops further into the powerhouse technology many predict it will become, Vaughn said.
+“In order to get healthcare stakeholders comfortable with the idea of blockchain, especially more open blockchains, we have to prove that it’s viable and prove that the value will be greater than what we have at present,” she said.
+“I do believe that we will have permissioned blockchain networks that will create enterprise value within the next few years, and we will certainly keep the goal of more open blockchains in mind as we build on the technology and really start to find out what it can do.”
+Tagged Analytics InfrastructureBlockchain in HealthcareClaims ProcessingHealth Information ExchangeHealthcare InteroperabilityInterviews
+
+

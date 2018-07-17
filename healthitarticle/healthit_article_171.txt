@@ -1,0 +1,22 @@
+HIMSS Recognizes EHR Products for Immunization Data Integration
+
+March 08, 2018
+
+By Jessica Kent
+March 08, 2018 - The HIMSS Immunization Integration Program (IIP) has recognized the first set of electronic health record (EHR) products for their ability to enhance clinical decision-making by integrating up-to-date immunization data within EHRs and clinical workflows.
+EHR products from Cerner, Electronic Services Technologies, Glenwood Systems, HealthcareXchange, and Qvera were recognized as fulfilling IIP’s testing requirements and program guidelines for immunization-related capabilities.
+IIP was introduced more than four years ago through a Centers for Disease Control (CDC) and National Center for Immunization and Respiratory Diseases (NCIRD) contract with Chickasaw Nation Industries. In October 2017, IIP received approval from ONC as an alternative testing method for the Health IT Certification Program.
+Dig Deeper
+Top EHR Data Interoperability, Clinical Analytics Pain Points
+How to Turn EHR Data into Actionable Big Data Insights
+6 EHR, Big Data Issues Impede Patient Safety, Cut Quality
+“Our ultimate goal is to support clinicians in their role in improving public health by helping them improve clinical work flow and patient care as it relates to immunizations,” said NCIRD Immunization Information Systems Support Branch Chief Warren Williams.
+“By improving EHR and IIS integration, clinical workflow, and usability, IIP will help ensure that clinicians administer the vaccines their patients need when they need them and that complete vaccination records are available within their local IIS.”
+HIMSS noted that vaccinations save two to three million lives globally each year, and that immunizations have led to better health outcomes, higher clinician productivity, and reduced medical costs.
+Integrating immunization-related software capabilities within EHRs and other clinical software can help generate these results. Immunization-related software allows providers to access patient immunization data and share information between EHRs and immunization registries.
+IIP aims to advance immunization-related capabilities by enabling software developers to voluntarily test and achieve recognition of their own products, and by offering guidance to improve software usability.
+“The HIMSS Immunization Integration Program brings together organizations focused on a common goal of educating the healthcare community on the benefits of health IT in expanding immunization awareness,” said HIMSS Vice President of Informatics Joyce Sensmeier.
+“We have accomplished this goal by building on our organizational strengths to share best practices on the use of EHRs and other clinical software to increase and improve the effectiveness of interventions leading to improved immunization rates.”
+Tagged Clinical Decision SupportEHR IntegrationEHR WorkflowPatient Outcomes
+
+

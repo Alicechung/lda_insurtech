@@ -1,0 +1,22 @@
+Maine HIE Expands Real-Time Healthcare Big Data Analytics
+
+August 18, 2015
+
+By Jennifer Bresnick
+August 18, 2015 - Maine’s state health information exchange, HealthInfoNet, has always been a pioneer in the healthcare big data analytics space.  As one of the first HIEs to achieve financial sustainability by offering a wide range of data-based services to participating providers, the organization has seen great success enlisting hospitals and physician practices across the northernmost reaches of New England.
+In an email update, HealthInfoNet shares some of its latest achievements, including expanding its big data analytics capabilities, providing “viewing access” to clinicians at Veterans Affairs hospitals, and setting new records for usage of its health information exchange and population health management features.
+In 2013, HealthInfoNet received a three-year grant from the Health Research and Services Administration (HRSA) to connect the HIE to Maine’s VA facilities.  With nearly 13 percent of the state’s residents qualifying as veterans, the ability to transmit VA records to and from other healthcare organizations in the region is a vital competency for Maine providers.  More than half way through the grant program, HealthInfoNet is on track to create meaningful health information exchange between the VA and external partners.
+“With view access, authorized VA clinicians are able to obtain important medical information from non-VA facilities to support clinical decision making and care coordination,” HealthInfoNet (HIN) officials state in the summer edition of their community newsletter. “All of Maine's VA facilities, including eight Community Based Outreach Clinics, three outreach centers, and the Togus Medical Center, will be given access to the HIE Clinical Portal this year.”
+Dig Deeper
+For Opioids and Substance Abuse, Big Data Analytics Is Just the Beginning
+CT Medical Society Announces New Health Information Exchange
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“In addition to view access, HIN has successfully enabled the national bi-directional connection with VA's electronic health record system,” the missive adds “In the next year, HIN will work with local and national VA leadership to establish bi-directional data sharing workflows. Unlike Maine's non-VA medical information, Veterans must opt-in to share their VA records information with HIN's HIE. Over the next few months, veterans will be educated about their choice to opt-in and share their VA data with HIN's HIE.”
+All of Maine’s hospitals have been in alignment with HealthInfoNet since 2013, and usage of the network continues to reach record heights.  In June of 2015, users accessed HIE data on more than 34,000 patients. Over 25,000 real-time notifications, including ADT messages, and a whopping 185,000 public health messages, such as positive laboratory findings, were sent during the month of July.
+Big data analytics continues to be a focus for HealthInfoNet, which considers the service to be at the center of its future mission in the state. 
+“For us, expanding the role of the exchange to begin to support our clients with data that we have is a very logical evolution,” HealthInfoNet CEO Dev Culver told HealthITAnalytics.com in 2013, when the project was launched.  “At the end of the day, the database is the true asset for the exchange, while the act of exchanging data for treatment is very important, it’s the database that truly is the real asset.  So moving towards analytics is a natural progression for an exchange, because it’s adding value to those clients.”
+The addition of big data analytics and population health management capabilities quickly brought a 150 percent increase in usage rates and tripled the number of queries for patient files.  Those numbers continue to grow as the network’s beta testing sites, including St. Joseph’s Hospital, Franklin Memorial Hospital and Beacon Health LLC Accountable Care Organization, put new improvements through their paces.
+The analytics portal now allows users to access population-level or individual-level analytics through a drop-down menu structure, while predictive analytics and data quality tools have also received upgrades.  New chronic disease management modules, including those for congestive heart failure and hypertension, will join existing analytics tools for diabetes, stroke, and mortality rates.
+Tagged Analytics InfrastructureBig Data AnalyticsHealth Information ExchangePopulation Health Management
+
+

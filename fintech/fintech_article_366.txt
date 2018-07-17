@@ -1,0 +1,21 @@
+Chatbots can pose a serious security threat, warns security expert BOHH Labs
+
+February 23, 2018
+
+Chatbots are quickly becoming the interface of choice for many organisations. In fact, a recent survey conducted by Oracle revealed that 80 percent of businesses want chatbots by 2020. While the advances in Artificial Intelligence(AI) and mobile technology have created a new set of tools for brands to communicate with, the technology itself has yet to reach a mature state and is consequently strongly vulnerable to cyber attacks. This is according to Simon Bain, the cybersecurity expert and CEO of BOHH Labs.
+
+ Current bot solutions are not entirely secure and can create open passages for cyber criminals to access the data flowing through chatbot’s interface. In essence, this gives cyber attackers direct access to an organisations’ network, applications and databases.
+
+ Bain explains: “While bot technology has improved drastically in recent years, for maximum security, chatbot communication should be encrypted and chatbots should be deployed only on encrypted channels. This can be easily set up on an organisation’s own website, but for brands that use chatbots through third-party platforms such as Facebook, the security features are decided by the third party’s own security branch, which means the organization does not have as much control over the security features on the chatbot. Until public platforms offer end-to-end encryption in their chatbots, businesses should remain cautious.
+
+ “One of the biggest advantages in using chatbots is that they are a cheaper solution to customer service. They can serve and reach customers in a way that would otherwise require a tremendous amount of time and resources. This is an area where chatbots are gaining momentum, but instead of bots replacing entire customer service teams, organisations are working with them in tandem to improve customer satisfaction. However, as chatbots collect information from users, the information that is stored and the metadata must be properly secured. When running a chatbot, organisations must consider how the information is stored, how long it’s stored for, how it’s used, and who has access to it. This is especially important for highly regulated industries, such as finance, that will deal with sensitive customer information.”
+
+ “While there are clear advantages to integrating chatbot technology as a new communication tool, if companies aren’t made aware of the potential security risks, confidential data will be accessible by any determined hacker. Additionally, attackers may be able to repurpose chatbots to harvest sensitive data from unsuspecting customers.” Bain concludes.
+
+  
+
+  
+
+  
+
+

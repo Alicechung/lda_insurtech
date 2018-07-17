@@ -1,0 +1,33 @@
+Money 20/20 Special: Exhibitors
+
+June 3, 2018
+
+Emilie Casteran, Head of Digital Strategy for Banking and Payment at Gemalto
+
+ One challenge that we are focusing on at Money 2020 is Digital Identity. As consumers, we already all own several digital identities – namely the usernames and passwords we use when accessing all kinds of online services. But these are often weak, and difficult to remember. We believe new trusted Digital Identity schemes are going to emerge and that Financial Institutions should play an active role as part of these. These new platforms will verify end-users’ identities and then creates a Trusted Digital ID and Strong Authentication credentials that can be used to across several online services, simultaneously improving the customer experience while boosting online engagement.
+
+ Linked to the creation of Trusted Digital Identities is biometrics. Biometric technology will play a major role in helping to verify customers when accessing online services, or making purchases. However there are other areas to consider, such as in authenticating card payments. The introduction of a new biometric EMV card with a built in fingerprint reader is something we expect many more banks to explore in the year ahead.
+
+ Regulatory compliance is another major challenge. With just over a year left before PSD2 comes into force, financial institutions don’t have long to go. The new version of the Regulatory Technical Standards (RTS) introduced some interesting new elements to the calendar, one of which is that banks will have to offer their open APIs to Third-Party Providers (TPPs) for testing and integration, 6 months before the final implementation date. This means that their APIs must be ready not by September 2019, but six months earlier: March 2019. There has also been recently more focus on the impact of the new Strong Customer Authentication (SCA) requirements in terms of user experience. Banks are looking at implementing a comprehensive risk management and authentication framework and leveraging different authentication modes and methods.
+
+ Nigel Verdon, CEO and Founder of Railsbank
+
+ Compliance is a major constraint to fostering innovations in the traditional banking sector, due to the complexity of cross border compliance and the extensive compliance roadmap banks have to adopt.
+
+ Speed of partnering is another issue – engaging with a start-up is extremely difficult. Too many startups end up almost dying because they do endless pilots with banks and see this as ‘success’. The conversion rate of pilot to ‘real deployment’ in the bank is very low.
+
+ Fintech firms are innovators in the field – they can see the world through eyes a bank cannot, due to legacy and internal ‘group think’.
+
+ But they’re not disruptors. No fintech in recent years has really disrupted the finance industry – many claim to have, but in reality have not. At Railsbank, we do not believe the world needs a ‘disrupted’ finance industry. We want our banks to be safe and not disrupted, but we want a better way to interact with our banks.
+
+ I see an industry where there has been a structural shift from ‘bank centric’ to ‘customer distribution centric’; banks having to consolidate core, low-margin and un-differentiated product into industry utilities, like payments and current accounts; and people and businesses accessing banking through platforms aligned to their lifestyle, and not individual bank front ends.
+
+ The top three challenges for the financial sector for the upcoming year? Brexit, Compliance and Liquidity.
+
+ 
+
+ Emilie Casteran, Head of Digital Strategy for Banking and Payment at Gemalto
+
+ Nigel Verdon, CEO and Founder of Railsbank
+
+

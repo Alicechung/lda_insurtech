@@ -1,0 +1,14 @@
+MediaTek’s NB-IoT MT2625 SoC Validated By SoftBank
+
+11 Jul 2018
+
+Successful validation reinforces MediaTek’s place as leader in NB-IoT innovation
+MediaTek Inc. today announced that it has completed validation (interoperability tests) of NarrowBand IoT (NB-IoT) connectivity with SoftBank Corp. (“SoftBank”), a subsidiary of SoftBank Group Corp., to set the stage for future commercial NB-IoT applications within Japan. Additionally, these tests showcase MediaTek’s efforts and commitment to ready NB-IoT technology for the global market.
+“This successful test further cements MediaTek’s position as the leader in the burgeoning NB-IoT space. SoftBank is Japan’s leading connectivity innovator and their stamp of validation on this NB-IoT technology reflects the effort we’re bringing to this initiative,” said Jerry Yu, MediaTek Corporate Vice President and General Manager of the Intelligent Devices Business Group. “MediaTek has already played a foundational role in the formulation and implementation of the 3GPP LPWA specification and has demonstrated connectivity technologies for NB-IoT that illustrates the potential of highly integrated system and power efficient connectivity.”
+Follow Us
+Last year, MediaTek unveiled its MT2625 NB-IoT System-on-a-Chip (SoC), built to meet the requirements of light and small IoT devices that require low levels of power consumption. MediaTek’s technology enables IoT devices to work on batteries for years — opening up where and how connected devices are used and expanding the Internet of Things. As a result of these tests, MediaTek’s NB-IoT chipset has been validated for use on the SoftBank network, paving the way for low-power connected devices on Japan’s leading wireless network.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+MediaTek’s MT2625 SoC combines an arm® Cortex®-M microcontroller (MCU), pseudo-static RAM (PSRAM), flash memory and power management unit (PMU) into a small package to lower the cost of production while also speeding up time-to-market. The MT2625 supports a full frequency band (from 450MHz to 2.1GHz) of 3GPP R13 (NB1) and R14 (NB2) standards for a wide range of IoT applications including smart home control, logistics tracking and smart meters.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+
+

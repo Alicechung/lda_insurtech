@@ -1,0 +1,89 @@
+Foreign Aid Blockchain. The £14Billion game changer for UK tech
+
+February 1, 2017
+
+The following has been produced as a result of conversations, interviews, debates, presentations and other interactions from companies, individuals and organisations in the technology, finance, fintech, political, and media sectors.
+
+ Aid distribution, especially foreign aid distribution by the UK government, currently stands at 0.7% of GDP, which in 2016 was £12.7Billion.
+
+ This percentage is going to be revised in the coming year, as will its status as a ‘legal’ obligation. There’s considerable public backlash against this money being sent overseas when people in the UK are struggling and as UK public services face cuts. The Daily Mail, never a big fan of foreigners, has run over 60 articles critical of foreign aid in recent months. There are also serious ethical concerns around corruption, fraud, misappropriation of funds, and the perception that aid is, in truth, politically and commercially intentioned.
+
+ THE PROBLEM INEFFICIENCIES: Even in humanitarian foreign aid, (rather than political) the layers of bureaucracy involved are systematically removing most of the funds. The delivery ‘pipelines’ are beset by systemic inefficiencies at every stage, legacy banking issues, lack of transparency, misaligned accountability, and fundamental flaws in the thinking of the entire sector. Even processes to audit and define outcomes are counterproductive, adding more layers of manual administration, all of which can be manipulated to generate the desired ‘evidence’. These KPI demands also prevent smaller, probably more efficient and effective delivery partners from accessing the funds, because they lack the resources to jump through the required hoops. A system has evolved that is almost entirely self-serving, it’s primary objective being the administration of its own funding. It’s just the way it is. Reduced impact is one consequence. It’s impossible to say what percentage of funds are actually delivered to the intended ‘recipients’. In some instances, it will be 0%. The layers of corruption filter out everything.
+
+ CORRUPTION: Funding corrupt, kleptocratic systems and regimes, large or small, is more unethical and immoral than not sending the aid in the first place. It would be better to send zero aid, ever, than to send aid of which 90% is syphoned off. Some may argue that ‘even if it helps one person’ it’s worth it. This is dangerously flawed naïve thinking. Funding corrupt systems creates corrupt systems, which increase poverty, which in turn increases the case for aid. Funding corrupt systems creates an unvirtuous cycle, systematically rewarding the creation of more poverty. There is zero incentive for reducing poverty if poverty itself becomes a driver of aid. Funding corruption is utterly selfdefeating from an ‘aid’ perspective, it has the perverse outcome of making poverty into a revenue generating asset for corrupt officials.
+
+ THE SOLUTION: Let’s imagine a technological solution. An end to end ‘supply chain’ for each overseas aid project. The supply chain connects the authorised stakeholders, the Government department, the funders, the NGOs, the charities, the local offices, the delivery partners, the individuals receiving the benefit at point of delivery. The supply chain is made of links, joined together. More links can be added, with the agreement of those authorised to add them. The chain can branch, like a tree, and extend to where it’s needed. Each link holds information. Information that can be added to, but not deleted, or erased. The links form an immutable record of everything that is happening, and has already happened. The chain can be read at any time, by those authorised to read it. The chain can be used to move tokens through. If 100 tokens enter the chain, there will be an exact record of where those tokens are at all times.
+
+ Described here in very basic terms is the technology called blockchain. And it is perfect for aid distribution systems. Customisable. Highly efficient. Fraud resistant. Built in auditing. Transparent. Or anonymous if circumstances require that. (Perhaps in aid to countries without LGBT rights, for example). But always provable. Checkable. Knowable. Vastly more efficient. Standardised, enabling cooperation and collaboration between ‘supply chains’.
+
+ The digitised tokens represent money. When stakeholders in the chain have done what they are supposed to do, the tokens are cashed in for sterling, or dollar, or whatever the appropriate local currencies are. A system as above would cut costs by what? 90% possibly? And reduce exposure to corruption by a similar percent? Maybe more.
+
+ The Fintech Times spoke with multiple companies at Blockchain Week conference, and raised this issue. The response was that the technology is already there. It’s doable. It’s the perfect user case for blockchain. It’s all about joining parties together in a systematic way that enables them to work together without having to all know and trust each other. The other benefit of the UK taking a leading role in development of a humanitarian foreign aid blockchain would of course be the added benefit of the UK becoming a world leader in this cutting edge technology. If the UK Government has to distribute billions of pounds in humanitarian foreign aid, it may as well be through a system that benefits the UK tech sector at such scale as to make it a global phenomenon.
+
+ At the same time as exploring this problem, we were, out of the blue, contacted by a startup company and invited to attend their presentation. The purpose of the presentation? To demonstrate their pilot projects for the distribution of tokenised aid through a blockchain. Here’s their solution: Disberse.com
+
+ As a product, Disberse is a fund management platform that uses blockchain technology to enable the flow and delivery of development and humanitarian aid, with core principles of transparency, efficiency, and effectiveness.
+
+ Accordingly, Disberse enables Governments, Donors and NGOs to track the flow of funds throughout the chain, from donor to beneficiary, whilst simultaneously generating complete and immutable data for reporting, auditing and compliance trails. In the opinion of this newspaper built in auditing is absolutely key for any successful alternative to the multi-layered money filter that currently extracts the majority of value from almost every aid delivery project.
+
+ One of the challenges facing any company attempting meaningful engagement in this space is understanding the tertiary nature of the environment. Commercial Business. Deep Technology. And ‘Third Sector’ organisations. Two of these three heads don’t always find it easy to work synchronistically with the third. In purely practical terms, being able to speak the language of all three, understand the culture of all three, and deliver the outcomes in all three, requires a founding team and executive board with expertise in all three, a triumvirate of competencies. This is one reason why, again, in the opinion of this newspaper, Disberse has what it takes to actually succeed, commercially, technologically, and in delivery of stated aims.
+
+ CEO and Co-Founder Ben Joakim is the third sector expert, having a career in International Development and Social Enterprise, Co-Founder and CTO Tomasz Mloduchowski, an MIT and Clinton Global Initiative alumnus, is the blockchain architect, and the third Co-Founder and highly effective CCO is Laura Bailey, with a background in financial services. They also have a collection of advisors and facilitators supporting their expansion.
+
+ The intention is for Disberse technology to be utilised for any development and humanitarian projects that involve the transfer of funds between two or more stakeholders, including Humanitarian Crisis Response, Development Consortium Delivery, Social Cash Transfers, Results Based Finance and Microfinance. The anticipated outcomes being reduction in mismanagement and misappropriation of funds, enhanced trust and collaboration between donors, partners and beneficiaries, complete auditable trails, and other money transfer related efficiencies.
+
+ The Disberse pilot initiatives begin in Q1 of 2017 and run for 3 to 6 months. Approximately £150,000 will be distributed through the course of these pilots, across 3 countries. These include: A girl’s education project in Swaziland, funded by Positive Women, a UK Charitable Donor, an environmental project in Uganda, tackling deforestation, funded by the Welsh Government, and a solar energy project in the Philippines, funded by the US Embassy.
+
+ The diversity of these three projects with their three funding sources is a solid base upon which to develop and scale this exciting three-headed company. We’ll be following their progress accordingly. The diagram below, provided by Disberse, outlines the transactional process:
+
+ 
+
+ Another working prototype of this conceptulaised system for distributing aid is Hull Coin. It is a micro version of the described process, a means of creating a network of stakeholders, all connected via the ‘Chain’ , with ‘Blocks’ of information detailing their roles in the process. Live and operational, Hull Coin is, as the name suggests, a hyper local version of the proposed foreign aid blockchain, FAB.
+
+ 
+
+ David Shepherdson, CEO of Kaini Industries, developer of of Hull Coin infrastructure, confirms this:
+
+ “The Hull Coin platform has the capability within its design to supply credits or tokens that denote the issuance of aid. Like HullCoin the credits have no intrinsic cash value and act as an indicator, logged onto the blockchain, that work has been undertaken or a contract has been delivered, releasing payment upon proof of work. In practice, the security of the HC ecosystem provides grant and aid distributors with a number of benefits including the eradication of fraud, a transparency on what funds are where in the supply chain and an efficient payment infrastructure that can transfer funds globally and securely.”
+
+ One significant similarity and difference between Hull Coin and the system proposed by Disberse is as follows:
+
+ Disberse passes a ‘token’ through the supply chain, that token is redeemable for ‘currency’ once the delivery roles have been achieved.
+
+ With HullCoin, in addition to transfering ‘Tokens’ (Hull coins), individuals are able to generate their own HC, by doing certain actions. These actions can include volunteering, community services, essentially rewarding certain behaviors with a token. The token holds the information of what the action was, eg, mowing a lawn, and the reward for doing so, eg 1HullCoin. This HullCoin, stored in a digital wallet, and can be spent anywhere that accepts Hull Coin.
+
+ 
+
+ Consider this in the context of Overseas aid. It flips the ‘top down’ approach to the point whereby individuals in Ethiopia can earn credits for doing work in and for their own communities, which they can spend in their own communities, as well as digitally at mainstream outlets. This potentially delivers a complimentary solution compared to being told which delivery outcomes they are required to do in order to compete a highly complex and inefficient top down supply chain.
+
+ This is, when you think about it, extraordinary in the implications. In effect, individuals and organisations are able to create their own ‘money’. To convert action into money. To directly create new money, rather than have money transferred to them.
+
+ This has to be the ultimate aim of overseas humanitarian aid, the empowerment of the recipients, not the dependence of them. Indeed.
+
+ Opinion snippet:
+
+ Re: Generating ‘tokens’ from actions via blockchain…This is what Bitcoin does. It’s what Bitcoins are. However, Bitcoin, rather than rewarding humanitarian actions, rewards ever increasingly complicated and ultimately worthless computations of no inherent value. This, coupled with Bitcoins finite supply of 21M ultimately will place it as an ‘also ran’ in the future of currency contest…
+
+ Emerging markets are THE place to introduce emerging technologies. Here’s why.
+
+ In already developed countries and markets, emerging technologies are all about creating efficiencies. Polishing the wheel. Nothings broken, it just could work better, less friction, it could be nicer to use.
+
+ In emerging markets, it’s not about polishing the wheel; it’s about rounding the wheel. It’s not about creating efficiencies of the last percentile, it’s about solving real and practical problems and implementing frameworks that simply don’t otherwise exist.
+
+ Speaking of implementing frameworks:
+
+ In developed markets, those frameworks already exist, both as tech and as regulation. Interfacing with them is challenging on both counts, and it’s easy for tech to get stifled in the process. Existing efficient infrastructures can actually slow down implementation of new more effective technology.
+
+ In emerging markets, the frameworks are either way less established and therefore more flexible, or they don’t exist in any meaningful way. This makes it much easier to introduce new frameworks, especially when supported by regulators who want it to succeed. There’s no incumbent infrastructure to be replaced. It’s ‘easy’.
+
+ In addition, emerging markets usually all have the same problems. Land registration is a problem in one. It’s a problem in all. The same goes for identity verification, access to banking systems, and so on. The upshot is that a solution tested and validated in one region or country can them be implemented into other geographical locations with essentially the same benefit.
+
+ It only gets easier. Even the fact that the tech and developer skills need to be imported to begin with gives rise to the opportunity for overseas tech and dev schools being established specifically to support the expanding tech infrastructures being implemented. This in turn digitises the economy and the people skills and labour market, literally providing the absolute win of aid leading to independence through economic regeneration. Schools, universities, healthcare, once a delivery framework is established for finance, the rest will follow. Powered by the technologies from the very cutting edge of the UK tech sectors.
+
+ If just 1% of the £14B UK foreign aid budget were assigned to the tech sector for the purpose of engineering improved delivery solutions, the impact would be massive, measurable, and immediate. Could the government support the UK tech, finance, and fintech sectors in working towards this Globalised outcome?
+
+ ERIC VAN DER KLEIJ: “Most people in this sector agree that aid and charitable donation would become very transparent if delivered via a blockchain-enabled solution. It won’t however instantly solve the last mile distribution problem at the point where the crypto-currency or token is exchanged for physical goods or fiat currency. Except… here the concept of programmable money comes into play. What is programmable money? It is money (or a crypto-currency with a stored value to be more exact) that when issued by the issuing authorities can be programmed to be redeemable only for the purpose as defined, by the person/s designed to benefit, for example – food, healthcare, medication, childcare etc. Sounds wonderful doesn’t it! Of course there are a few minor details (well major details actually) such as enabling the whole supply chain to use and accept the cryptocurrency as valuable, and most importantly to attest to the correct redemption for the correct goods or services, with the attesting party highly visible and within their limits etc. It’s definitely not a trivial thing but some excellent Proof of Concept work has been done in places such as the Netherlands where it has been used for programmable sports/health activity vouchers. The smart voucher system developed by DutchChain.com, was co-created with the Dutch city of Groningen. The blockchain based system allows issuers to create programmable, conditional money (flows). It is currently used by thousands of citizens and service providers in the “citycard program” of Groningen. Another exciting company is www.Aid.technology who are doing some pioneering aid distribution in Lebanon and other places, and of course the inspiring www.disberse.com, some of whom were the original folks who opened my eyes to the true potential of the technology in this field.” @Ericvanderkleij
+
+ 
+
+

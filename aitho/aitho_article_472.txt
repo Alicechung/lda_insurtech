@@ -1,0 +1,23 @@
+Sensory Adds Suite Of New Biometric Voice Features To TrulySecure Speaker Verification
+
+24 May 2018
+
+Sensory’s TrulySecure 2.0 now includes wake word support, text independent speaker ID, seamlessly enrollment and major accuracy improvements
+Sensory, a Silicon Valley-based company focused on improving the user experience and security of consumer electronics through state-of-the-art embedded AI technologies, today announces the next-generation of its low-resource, noise-robust, TrulySecure Speaker Verification (TSSV) SDK. TSSV 2.0 boasts a variety of new embedded voice biometric authentication features and accuracy improvements.
+Todd Mozer
+“Sensory’s TrulySecure line of patented face and voice biometrics are a huge market success having been designed into leading banking applications, and mobile phones from leaders like Samsung, LG, and Motorola. We believe TrulySecure Speaker Verification 2.0 has a lot of market potential, especially with the addition of new security features, text independence, anti-spoof approaches and much more,” said Todd Mozer, CEO of Sensory.
+TSSV 2.0 is a modular biometric software component providing speaker verification and identification. These biometric features run embedded and can be added to any on-device for profile switching, access security, and tracking conversations with personal assistants based on who is speaking. At its core, TSSV encapsulates novel advances in front-end noise suppression, robust feature extraction, as well as spectral and temporal speaker modeling to offer extremely accurate and secure voice biometric enrollment and authentication of users, even in noisy environments. The technology enables maximum privacy protections by running on-device and it supports multiple users with adaptation, allowing it to become more accurate and secure over time. TSSV can also be fused with Sensory’s face biometrics, allowing for quick and seamless recognition and authentication of users via face or voice (convenience mode), or can be configured to require both face and voice confirmation for greater user security (TrulySecure mode).
+TSSV provides device makers and app developers the flexibility to enable voice biometric security in three different modes, text independent, text dependent fixed passphrase and text dependent user-defined passphrase.
+Text Independent: A new feature for TSSV 2.0, this method models the user’s voice across any speaking situation and identifies users regardless of what they say, with no passphrase required.
+Text Dependent Fixed Passphrase: This method uses a predefined passphrase and can work in parallel with popular wake words like “Alexa,” “Hey Siri,” and others, allowing users to be instantly identified when they say the wake word.
+Text Dependent User-Defined Passphrase: This method allows users to enroll their own custom passphrase for authentication, adding extra security against intruders who don’t know the custom passphrase
+New Features and Improvements for TSSV 2.0
+Accuracy Improvements – improvements in feature extraction, reverb modeling, noise robustness/SNR have led to a decrease in equal error rates (EER) of more than 25% from TSSV 1.0.
+Wake word functionality – Now TSSV has built in wake word capability for OS based systems. Wake-word creation is automated and fast once appropriate data is collected.
+Text Independent Speaker Verification – Now users can be tracked seamlessly by their voice without specific passphrase requirements.
+Seamless Enrollment – No longer is a compliant user training required to build voice models. Devices with TSSV 2.0 can now listen to usage and build and adapt models without formal training. Click Here for Seamless Enrollment Demo Video
+Voice Liveness – Prevents spoof attacks by presenting an interactive challenge sequence that must be performed to verify that the input is from an actual user and not a recording.
+Improved SDK – Documentation significantly expanded and improved. The SDK provides numerous code examples and now offers support for Python.
+Sensory’s TrulySecure Speaker Verification supports all languages and dialects. The TSSV 2.0 SDK is available now through Sensory at a cost of $2,500, which includes up to five hours of support. An SDK for TSSV is available for Android, iOS, Linux, Mac OS, Tizen and Windows implementations.
+
+

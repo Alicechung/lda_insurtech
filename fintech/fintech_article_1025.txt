@@ -1,0 +1,29 @@
+APIs in Financial Services: Wizards, Muggles & The Quest For Common Understanding
+
+November 17, 2016
+
+On 11-12th October Level 39 hosted this year’s API Days London event. The room was encouragingly full even more encouraging was the equal mix of technical wizards and us non technical muggles on the business side. Why is this so positive? Because the tech/nontech language barrier is something that I believe is a bottleneck for innovation in financial services and both sides could be seen making progress understanding one another for these two days, the wizards understanding the business needs and the muggles on the opportunities and constraints on the tech side.
+
+ Importance Rising
+
+ This matters even more as we get nearer the deadline for the Open Banking regulation when the 9 largest UK banks will be obliged to open up access to 3rd party providers at the order of the CMA. It is an aggressive deadline of 2018 given the changes these banks will need to need to make (and the fact that the order is yet to be specific precisely or appoint an enquiry lead) and the pace of organisational change for these gigantic beasts even when they want to act, let alone when they don’t but are pushed by unwelcome regulation
+
+ Faster, Better, Cheaper?
+
+ At this point let’s consider the Design Triangle. This simple framework suggests that from the 3 aims fast/good/cheap improving any of these comes at the expense of the other/s. In the case of changes in the face of Open Banking the timeline is fixed though watch it shift as the banks’ screams get louder. In fact delays would be problematic if the UK’s schedule slipped behind other regions which would benefit from acclimatising to the new open paradigm first. On the quality point the standard will be set universally so there is little room for differences on the quality on the design but room for error on the implementation side. With the minimal room for change in terms of speed and quality it is likely to represent more movement on the cost side of the triangle and this is presumably the view of the API Days sponsors and partners who provide support for strategy and implementation for helping to steer banks through the path to Open Banking. E.g. Open Bank Project, Re Hat, Apigee, Mulesoft, APIversity, Akana.
+
+ More Talk Than Action?
+
+ As well as the consulting, design and tech services to offer help there are examples from companies both financial and otherwise who are further along the path to being an open platform. On the outside Ryanair (upselling other people’s services), Amazon (40% income from 3rd party vendors), Walgreen (photo printing/pharmacy). On the traditional banking side BBVA lead the way, Ceska Sporitelna show that even dinosaurs can make progress. Among challenger banks the platform model is more common and Starling is one of the most open to 3rd parties.
+
+ Half Bloods Rule
+
+ What I feel is clear is that no matter what side you are on it is imperative to understand the theory and practice of open APIs and the impact matters for all. So, if you’re on the business side get a grip on more technical issues through consultancies if you can pay, through meetups and conferences if you have more time than money and get your hands dirty at hackathons if you want to talk from experience as well as theory. For technical wizards it is good to keep a portfolio of case studies up your sleeve as presenting cases will really help the business muggles to understand the complexities of the opportunities and constraints of different options. Being either muggle or wizards is a blocker to the changes required while half-bloods would lubricate the machine of change and can also expect to come through in better shape that purists.
+
+ Next…
+
+ API Days will be back with 9 more events globally next year and I recommend it for getting a stronger grip on these issues as they evolve and pick up momentum.
+
+ 
+
+

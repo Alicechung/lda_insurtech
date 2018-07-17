@@ -1,0 +1,18 @@
+Eta Compute Launches Industry’s First Neuromorphic Platform For Ultra-Low-Power Machine Intelligence At The Edge
+
+16 Mar 2018
+
+Revolutionary Technology is Defining the Industry Standard for Enabling Machine Intelligence at the Network Edge
+Eta Compute Inc., a company dedicated to delivering neuromorphic computing based machine intelligence to mobile and edge devices using its revolutionary new platform, today announced the availability of its latest System on Chip (SoC) platform. Silicon proven in TSMC 55nm ULP process, this ground-breaking product consumes only a fraction of the power of existing solutions and redefines the standard for ultra-low power embedded solutions.
+“Our patented event driven processor architecture (DIAL™) is combined with our fully customizable neuromorphic algorithms,” said Nara Srinivasa Ph. D., CTO of Eta Compute. “These will be the foundation of a diverse and wide-ranging set of applications that deliver machine intelligence to the network edge.”
+The new 55nm IP portfolio includes:
+The Arm® Cortex®-M3 processor, which consumes as little as 1uW while scaling up to 100MHz using our patented dynamic voltage scaling (DVS)
+NXP CoolFlux DSP operating on a variable workload based on DVS
+12 bit SAR Analog-to-Digital converter that consumes only 1uW at 200ksps
+Power management and voltage references optimized to deliver high efficiency voltage scaling
+Support for low power analog blocks such as power on reset, brown out detector, oscillators, temp sensor, crystal oscillator, and RC oscillators
+The SoC’s tightly integrated DSP processor and controller architecture enables embedded machine intelligence for a wide range of applications. These include smart sensors, image processing, motion detection, and speech and video applications where power is a severe constraint.
+“With its rich machine learning software support, ease of programming and widest deployment, Arm Cortex-M processors are enabling applications that deliver machine learning at the edge,” said Thomas Ensergueix, senior director, Embedded and Automotive Line of Business, Arm. “Eta Compute’s ultra-low power Cortex-M3 based platform will speed time-to-market of more intelligent devices powered by energy harvesting and small coin cell batteries.”
+Eta Compute’s portfolio of IP is ideal for a diverse range of applications that benefit from longer battery life and energy harvesting. These include glucose meters, low-power data acquisition, battery-powered handheld equipment, level sensors, motor control, wearable fitness devices, and hard drives among others.
+
+

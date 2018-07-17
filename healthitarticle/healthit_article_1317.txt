@@ -1,0 +1,23 @@
+IBM Boosts Big Data, Imaging Knowhow with $1B Merge Acquisition
+
+August 06, 2015
+
+By Jennifer Bresnick
+August 06, 2015 - IBM continues to make big moves into the healthcare big data analytics space, leveraging its Watson supercomputing platform to provide clinical decision support and machine learning services to a growing number of stakeholders.  In a press release today, Big Blue announced its intention to integrate radiology and imaging data into its sophisticated healthcare ecosystem with the $1 billion acquisition of Merge Healthcare Incorporated.
+Merge Healthcare, notable for its medical imaging management platform, will help Watson to “see” big data, pushing the Jeopardy! winner beyond its current natural language processing expertise.
+“As Watson evolves, we are tackling more complex and meaningful problems by constantly evaluating bigger and more challenging data sets,” said John Kelly, Senior Vice President, IBM Research and Solutions Portfolio.
+“Medical images are some of the most complicated data sets imaginable, and there is perhaps no more important area in which researchers can apply machine learning and cognitive computing.  That’s the real promise of cognitive computing and its artificial intelligence components – helping to make us healthier and to improve the quality of our lives.”
+Dig Deeper
+Medical Imaging is Healthcare’s Artificial Intelligence Bellwether
+Provider Coalition to Use Machine Learning for Type 1 Diabetes
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+IBM has been making healthcare a priority since announcing the formation of the IBM Watson Health group earlier this year.  Partnerships with Epic Systems, Apple, Medtronic, and Johnson & Johnson, along with acquisitions of Phytel and Explorys, have bulked up Watson’s healthcare credentials, while collaborations with the Mayo Clinic, Cleveland Clinic, and other notable providers have given Watson plenty of real-world experience.
+The addition of Merge and its medical imaging expertise will allow Watson to grow in a new direction, Kelly said.  “As a proven leader in delivering healthcare solutions for over 20 years, Merge is a tremendous addition to the Watson Health platform.  Healthcare will be one of IBM’s biggest growth areas over the next 10 years, which is why we are making a major investment to drive industry transformation and to facilitate a higher quality of care.”
+“Watson’s powerful cognitive and analytic capabilities, coupled with those from Merge and our other major strategic acquisitions, position IBM to partner with healthcare providers, research institutions, biomedical companies, insurers and other organizations committed to changing the very nature of health and healthcare in the 21st century. Giving Watson ‘eyes’ on medical images unlocks entirely new possibilities for the industry.”
+While medical images make up approximately 90 percent of all healthcare big data, according to IBM estimates, it is difficult to extract meaningful information from x-rays, CT scans, and MRIs.  The sheer volume of data, along with the generally accepted precept that images need human interpretation, have limited the use of images in the generation of actionable insights.
+Watson hopes to change that by cross-referencing medical image data with billions of data points from electronic health records, lab results, genomic tests, and other sources of information, developing clinical decision support that can aid with the march into precision medicine.
+“Merge is widely recognized for delivering market leading imaging workflow and electronic data capture solutions,” said Justin Dearborn, CEO of Merge. “Today’s announcement is an exciting step forward for our employees and clients.  Becoming a part of IBM will allow us to expand our global scale and deliver added value and insight to our clients through Watson’s advanced analytic and cognitive computing capabilities.”
+“Combining Merge’s leading medical imaging solutions with the world-class machine learning and analytics capabilities of IBM’s Watson Health is the future of healthcare technology,” added Michael W. Ferro, Jr., Merge’s chairman. “Merge’s leading technology and proven expertise represent a unique combination of assets that will deliver unparalleled value to Watson Health clients. Together, we will unlock unprecedented new opportunities to improve patient diagnostics and deliver enhanced care.”
+Tagged Analytics InfrastructureBig Data AnalyticsClinical AnalyticsImaging AnalyticsMachine Learning
+
+

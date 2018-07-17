@@ -1,0 +1,12 @@
+Facebook Will No Longer Allow Ad Targeting With Third-Party Data
+
+02 Apr 2018
+
+Winding Down Over The Next Six Months, The Company Says, Will Help Improve People’s Privacy On Facebook
+In a statement released by the company, Facebook announced that they are “Shutting Down Partner Categories: We want to let advertisers know that we will be shutting down Partner Categories. This product enables third-party data providers to offer their targeting directly on Facebook. While this is common industry practice, we believe this step, winding down over the next six months, will help improve people’s privacy on Facebook.”
+In an article reported TechCrunch, Facebook officials said that the change is permanent, not a temporary precaution following scrutiny of the company’s policies. In order to leverage the deep pool of data Facebook collects on users, the company mixes information that it obtains from users themselves (Pages a user liked, for instance) with information from advertisers (membership status in a loyalty program, for example) and with data obtained from third party providers.
+While Facebook feels comfortable with the integrity of its data sourcing within the first two categories, it feels less settled about dipping into these aggregate pools of third party data.
+The decision comes at the same time that Facebook is facing a lot of scrutiny and ire over third-party data mishandling. But it is also coming ahead of GDPR regulations coming into effect in Europe.
+It’s also important to mention that this change comes amid the fallout from the Cambridge Analytica data privacy scandal. While Partner Categories were not directly related to the scandal, this is a move that may help restore users’ confidence that Facebook will protect their privacy going forward.
+
+

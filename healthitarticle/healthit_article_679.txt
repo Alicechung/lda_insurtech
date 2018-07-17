@@ -1,0 +1,39 @@
+Clinical Analytics Studies, Partnerships Target Personalized Care
+
+November 17, 2016
+
+By Jennifer Bresnick
+November 17, 2016 - Personalization isn’t just for online advertisements and shopping suggestions.  It is becoming a primary driver of healthcare innovations, too. 
+From tailored therapies based on precision medicine techniques to individualized chronic disease management and mental healthcare, personalization is becoming a major focus for clinical analytics experts looking to maximize positive outcomes.
+Sometimes all it takes to improve the patient experience is a quick, simple, and low-cost test.  Researchers at the University of Florida, for example, have found that genetic testing before a stent procedure can help providers make better decisions about anti-clotting drugs.
+By identifying a common genetic variation that reduces the effectiveness of clopidogrel, commonly given after a coronary artery stent procedure, providers reduced the percentage of serious complications, including death, heart attack, and stroke, by close to fifty percent.
+“We saw significantly fewer adverse events among patients who were switched to an alternative drug,” said Larisa Cavallari, PharmD, director of the Center for Pharmacogenomics at the UF College of Pharmacy and associate director of the UF Health Personalized Medicine Program. “There was prompt genotyping and the patients were quickly given the drug we thought would work best for them.” 
+READ MORE: Academia Dives into Precision Medicine, Big Data Collaborations
+Test results are usually available within one hour at UF Health hospitals in Gainesville and Jacksonville, allowing providers to make speedy decisions without compromising the patient experience.
+“This is an important breakthrough in personalized medicine because it shows how a genetic marker can be used to modify treatments and improve patient outcomes,” said Dominick J. Angiolillo, MD, PhD, a cardiologist, professor of medicine, and director of cardiovascular research at UF Health Jacksonville.
+Researchers and developers across the care continuum are interested in leveraging clinical analytics for similar decision support tools that will bring actionable information to the point of care.  In the world of mental healthcare, providers don’t just need data about one drug or one treatment choice from a purely clinical perspective. 
+They also need guidance about how patients will react to interventions based on an extremely detailed and unique spectrum of clinical, lifestyle, and social factors.
+Carolina Partners in Mental Healthcare, a 25-clinic outpatient psychiatry practice based in North Carolina, is planning to bring clinical decision support to mental health clinicians and veteran patients through the SMART-MD protocol for Veterans.
+READ MORE: Pancreatic Cancer is Target of New Precision Medicine Grants
+By launching a randomized, double-blind clinical study across multiple sites, Carolina Partners hopes to improve the health and outcomes of active service military, veterans, and their families suffering from depression.
+Using the MYnd Analytics's Psychiatric EEG Evaluation Registry (PEER), which combines brain function scans with clinical outcomes data, Carolina Partners aims to personalize care and learn more about impacts of certain medication choices on the overall mental health of patients.
+The University of Pittsburgh is also keeping its eye on the long-term mental health landscape, working with Pfizer Inc. to develop computational models that will identify the root causes and early development of schizophrenia, Alzheimer’s disease, and other brain conditions.
+The goal of the partnership is to create statistical models of anatomical abnormalities in the brain that may have a relationship with the likelihood of developing a neurological or psychological condition.
+"By studying brain images and relating the variations of each brain region to the genetics and clinical observations of patients, we provide deeper insight about the underlying biology of the diseases," said Kayhan Batmanghelich, assistant professor in the Department of Biomedical Informatics at Pitt's School of Medicine.
+READ MORE: Next-Generation Genomics, Precision Medicine to Top $100B
+Using publicly available data from the Alzheimer's Disease Neuroimaging Initiative as well as private data assets from the Genetics of Endophenotypes of Neurofunction to Understand Schizophrenia (GENUS) Consortium, researchers will combine brain images with supporting genetic, biological, and clinical data to create a tool that will associate images with known gene patterns.
+“Discovering the relationship between the disease status and the results of imaging and genetic positions to search for undiscovered variables in images and DNA also leverages our core commercial translation themes in precision medicine, brain health, and digital health,” said Donald Taylor, assistant vice chancellor for commercial translation in the health sciences at Pitt.
+The project will require significant data-mining and analytical expertise as participants attempt to uncover and quantify causal relationships between disparate, complex big data sources.
+While UPitt and Pfizer plan to work on developing and leveraging those competencies in-house, a new article in the Lancet Oncology illustrates how crowdsourcing the clinical analytics burden can also produce remarkable results.
+Participants in the international Prostate Cancer DREAM (Dialogue for Reverse Engineering Assessments and Methods) Challenge, initiated by Project Data Sphere, LLC (PDS) and Sage Bionetworks, took on a collaborative effort to analyze clinical data and uncover insights into how to improve prostate cancer treatment and management.
+Fifty teams of data scientists used a web-based platform filled with data from completed phase 3 clinical trials to develop predictive models for the progression and outcomes of cancer.  The winners of the challenge hailed from the University of Helsinki and the University of Turku (UTU).
+“Analyses of PDS-shared patient data using machine learning models led to the identification of biomarker combinations that accurately predict how a patient’s disease will progress,” said Prof. Tero Aittokallio, group leader at FIMM and professor in the Department of Mathematics and Statistics at UTU.
+“In addition to immune system biomarkers and renal and hepatic function, our algorithm identified an under-reported cancer biomarker, aspartate aminotransferase, as an important factor in making prognoses.”
+The contest illustrates that crowdsourcing projects may be an important tool for developing personalized care and precision medicine therapies in the future while harnessing clinical datasets that may be too large or too scattered for a single organization to mine sufficiently.
+Collaboration and data sharing are vital for continued progress towards personalized medicine, said Dr. Justin Guinney, Director of Computational Oncology at Sage Bionetworks and a co-director of the Challenge.
+“The fact that we were able to gain such deep insights from clinical studies that concluded years ago shows how important it is for scientists in industry, government and academia to share clinical trial data on an ongoing basis,” he said.
+Precision Medicine Partnerships Foster Promises of Breakthroughs
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Tagged Applied AnalyticsClinical AnalyticsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

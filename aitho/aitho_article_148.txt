@@ -1,0 +1,19 @@
+DNAtix Successfully Transferred Craig Venter’s Y Chromosome Using IBM Blockchain
+
+02 Jul 2018
+
+Genetic Revolution Breakthrough Will Help Advance Preventive and Personalized Medicine
+Digital DNAtix Ltd., the genetics blockchain company, announced the first successful transfer of a complete chromosome using blockchain technology.  With the help of IBM’s Hyperledger fabric, DNAtix transferred the chromosome of genome pioneer Craig Venter, an accomplishment which further propels humanity into new discoveries in the cutting-edge frontier of genetics research and solutions.
+Craig Venter, genome pioneer and world-renowned geneticist, published his full genomic data in PLOS magazine in September 2007. (1)  Venter’s team used his DNA to generate an assembled diploid human genomic DNA sequence from both chromosomes. In the article, the authors compared Venter’s sequence to reference human genome sequences to enable the study of human DNA.
+“Transferring the full sequence of a virus was a challenging project but it is ‘a piece of cake’ compared to transferring the sequence of a full chromosome,” says Ofer A. Lidsky, CEO & CTO and Co-founder of DNAtix. “We are working with genetic data and size does matter when it comes to blockchain.”
+Follow Us
+IBM HYPERLEDGER
+Dr. Tal Sines
+To deal with the size limitation of the current blockchain technologies, DNAtix’s development team sliced Craig Venter’s published DNA sequence into 19 fragments.  DNAtix used the Hyperledger Composer tool with JavaScript to transfer the 19 transactions containing the genetic code as metadata. DNAtix will release a whitepaper with an in-depth description of what the development team accomplished.
+“Our next goal is to transfer a full human genome sequence over the blockchain to enable genetic information to be shared in an anonymous and secure way,” said Dr. Tal Sines, DNAtix Chief Science Officer and co-founder.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+“It is symbolic that the first chromosome transferred over the blockchain is Venter’s as he was one of the key players in the completion of the first human genome ever sequenced as part of the human genome project,” added Dr. Sines.  “The size of the diploid human genome is 1.5 Gigabytes, so it will require compression tools to significantly reduce DNA size; a must if one desires to use blockchain technologies. As a reference the average size of a transaction over the Ethereum blockchain is approximately less than 500 bytes.”
+When the human genome project was completed in 2003 after 13 years, the costs for sequencing a single genome summed up to US $3B, today full genome sequencing can be completed at the price of approximately US $450 and will soon reach less than US $100. The result is that millions of people will have their genome sequenced.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+
+

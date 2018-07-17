@@ -1,0 +1,15 @@
+Hugreen Launches Rockabye, A Cost Effective Automated AgTech Solution
+
+18 May 2018
+
+Modular technology system improves crops for greenhouses and small farms
+Today Hugreen launched Rockabye, an automated precision agtech solution for greenhouses and small farms. The system is now available for purchase on the company website‘s, with starter kits starting at $650 USD.
+Rockabye is designed to help farmers save resources, reduce labor, increase flower density, and grow better quality plants. It allows growers to standardize and fully automate the floral growing process. Growers can measures soil conditions like moisture, temperature, and fertilizer level, light intensity, environmental temperature, and relative humidity (RH).
+Clement Lee
+“Rockabye works with many different types of farms and ranges of agricultural experience,” said Hugreen CEO and founder Clement Lee. “The modular system is simple to set up and allows growers to mix and match their devices. Growers also have the option to use solar power and everything is scalable, with no limits on the size of the growing operation.”
+Rockabye uses long range (LoRa) wireless transmission for ranges up to one km, allowing users to monitor, analyze, and adjust real-time readings via the app using their existing wifi connection. The system is comprised of a network of sensors, hubs, and a central gateway. Up to four sensors can link to one Hub, up to 30 Hubs can link to one gateway, with a total of 120 sensors operating in one system.
+The Hub receives energy from the solar panel and sends sensor readings to the gateway. The gateway then sends the sensor readings to Hugreen’s cloud and app for users to monitor. The app also provides access to the best recipe and market information for each plant.
+The system boasts a variety of benefits to crops. Its standardization process increases flower density by 20-50%, improving flower quality and health. It also reduces labor by 30-50% and users can expect cost reductions on resources including 30% in water savings, 30-50% in fertilizer savings, and 30-40% in pesticide savings.
+“Smallholder farmers account for 80% of food the world consumes each year, yet many are stuck in the old ways of farming, despite changing weather patterns and demographics that threaten our food security,” continued Lee. “Many smallholder farmers also lack resources to use existing precision agriculture tools they desperately need to become profitable. Rockabye aims to make lucrative farming operations accessible and more affordable.”
+
+

@@ -1,0 +1,35 @@
+Cerner, Epic to See Improvements in EHR Patient-Reported Outcomes
+
+October 26, 2016
+
+By Jennifer Bresnick
+October 26, 2016 - A new coalition of nine universities from across the country aims to improve the use of patient-reported outcomes (PROs) data in electronic health records, including products from Epic Systems and Cerner Corporation, by expanding the use of a tailored survey tool that streamlines the data collection process.
+With $6.3 million in grant funding from the National Institutes of Health (NIH), the initiative will ensure that critical information about patient responses to care and their experiences with their providers can be appropriately integrated into their EHRs.
+“We are very excited to see this multi-institutional project take off,” said Dr. Donald Lloyd-Jones, director of the Northwestern University Clinical and Translational Sciences (NUCATS) Institute.  
+Northwestern will be leading the coalition, which also includes the University of Chicago, University of Illinois at Chicago, University of Alabama at Birmingham, University of Kentucky, University of Florida, University of Utah, Harvard Catalyst CTS and Southern California CTSI.
+The coalition will leverage the Patient Reported Outcomes Measurement Information System (PROMIS), a digital tool that adapts its questions based on previous patient answers, resulting in shorter, more relevant surveys.  By asking questions tailored to the patient’s unique situation, PROMIS can make the data collection process up to ten times shorter.
+READ MORE: CMS Finalizes Annual List of Value-Based Care Quality Measures
+“This project will help us better treat patients and conduct research by making surveys shorter, easier, and more relevant to everyone’s needs,” said Samuel Volchenboum, MD, PhD, the principal investigator for the study at the University of Chicago, Director of the UChicago’s Center for Research Informatics (CRI), and Associate Director of UChicago’s Institute for Translational Medicine (ITM).
+“Patients’ answers can be used by their doctors to tailor treatments to the quality of life needs patients report as important, and researchers can use the information to identify trends to learn about and improve health care.”
+Patient-reported outcomes often include important quality of life measures, such as satisfaction with pain management, the burden of symptoms on everyday functioning, and information about lifestyle choices and environmental factors that may impact the management or development of disease.
+Despite the fact that these pieces of information may seem critical to clinical decision-making – and play an important role in medical research, drug development, and patient safety discussions – few healthcare organizations routinely integrate PROs into the care process, according to a recent survey by Health Catalyst.
+Just 18 percent of hospitals participating in a poll will always include PROs when treating patients, and another 72 percent believe it will take up to three years to develop the technologies and processes to integrate PROs into their workflows. 
+READ MORE: AHRQ to Grant $5M for Big Data Patient Safety Learning Labs
+Common challenges identified in the survey include lack of time and resources, financial concerns, and questions about how the data will fit into current processes.
+Tools like PROMIS may help to overcome these obstacles by reducing the burdens of data collection on providers and patients alike, Lloyd-Jones said.
+“This approach to direct, efficient acquisition and integration of patient-reported information represents the future of patient care and medical research, and this project paves the way to that future,” he said.
+Northwestern Medicine has already integrated PROMIS into its electronic health records system, and is now working on developing interfaces to connect the tool with other major EHR vendors, including Epic and Cerner.
+“Our experience integrating the PROMIS tools into the EHR at Northwestern has convinced us that tight workflow integration of PROs into the clinical workflow brings many benefits to both quality and clinical research projects,” said Justin Starren, director of the Center for Data Science and Informatics at Northwestern University Feinberg School of Medicine and principal investigator of the EHR Access to Seamless Integration of PROMIS (EASI-PRO) project.
+READ MORE: Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+Cerner and Epic have both signed onto the project as collaborators, which may help to prepare providers for participating in certain Medicare bundled payment programs and attesting to MIPS. 
+While the two vendors already provide the capability for users to send PRO surveys to patients, the adaptable PROMIS system may help make it easier to collect meaningful information in a structured manner that does not add significantly to the data management requirements slated to ramp up in January of 2017.
+Physicians planning to participate in the Merit-Based Incentive Payment System portion of the Quality Payment Program will need to become familiar with PROs, which will pay a significant role in assessing the quality and delivery of patient-centered care.
+“[PROs] emphasize the importance of collecting patient-reported data and the ability to impact care at the individual patient level, as well as the population level,” CMS said in the proposed MACRA rule.
+“These are measures of organizational structures or processes that foster both the inclusion of persons and family members as active members of the health care team and collaborative partnerships with health care providers and provider organizations or can be measures of patient-reported experiences and outcomes that reflect greater involvement of patients and families in decision making, self-care, activation, and understanding of their health condition and its effective management.”
+PROMIS and other health IT initiatives targeted at simplifying the collection and integration of patient-reported data are likely to make it easier for providers report data to CMS, and may also improve their understanding of how their decisions are impacting the outcomes of patients on a broader scale, as well.
+“This is a perfect example of how research can be used to improve people’s health,” said Julian Solway, MD, Director of UChicago’s CTSA, ITM. “We’re developing the best ways to get feedback from our patients to give them quality, customized care and accelerate the research that could go on to save lives.”
+Why Aren't Hospitals Using Patient-Reported Outcomes Data?
+The Role of Healthcare Data Governance in Big Data Analytics
+Tagged Clinical Quality MeasuresEHR IntegrationEHR Patient DataMIPSPatient Generated Health Data
+
+

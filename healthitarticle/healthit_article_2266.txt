@@ -1,0 +1,115 @@
+Physician troubleshooting can add to patient analytics
+
+September 30, 2013
+
+By Jennifer Bresnick
+September 30, 2013 - Healthcare is built around one simple idea: when someone is sick, someone needs to help them get better.  In an industry entirely focused on the patient, it’s no surprise that most healthcare information technology initiatives are geared towards scrutinizing the effectiveness of treatments, the prediction of future diseases and complications, and the quality of outcomes when a person leaves a hospital.  But healthcare analytics can do a whole lot more than look at patients, and it can do more than evaluate past performances of healthcare providers.  Identifying the weaknesses of individual physicians can do just as much to improve outcomes as prognostications about diabetes and TB.
+The majority of hospitals produce some sort of reporting on physician performance, says Cathy Gorman-Klug, RN, MSN and director of quality service lines at Nuance, whether to close gaps in the billing cycle or make better decisions about which providers to keep on the payroll.  “Most facilities have report cards and dashboards that constantly reflect their performance and they’re monitoring these on a daily basis and sharing findings internally as well to drive improvements,” she says.  “By evaluating their processes, we’re able to help them address these issues up-front with the physician; issues that map back to quality measure reporting, and impact patient care and overall financial stability.”
+It’s important to stress the connection between a physician’s daily workflow, his documentation habits, and even the way he asks questions of the patient and the end result of that patient’s care, says Dr. Joseph Kim in an opinion piece for SearchHealthIT.  Inefficient strategies or insufficient coordination of care can have real impacts on a patient’s health, and physicians can’t know what they can do to improve their work if they don’t have data on what’s not going well.
+“To convince some of these physicians about their need to change their clinical behaviors, hospitals need to use more data analytics and present this in an ongoing fashion to their physicians,” Kim says. “They need to do this in a way that fits the culture of their medical staff. They need support and buy-in from the senior executive leadership and the medical staff leadership.  The data is there. Hospitals can identify those physicians.”
+Big Data Integrity Needed to Use Genomics for Care Coordination
+Can Point-of-Care Analytics Change the Healthcare Equation?
+ONC releases EHR patient safety guides and tools
+CVS to Offer Nationwide Home Delivery of Prescription Drugs
+RNA Database to Aid Precision Medicine, Big Data Analytics
+Population Health, Big Data Strategies Could Reduce $2B Waste
+Early Screenings Boost Hepatitis C Chronic Disease Management
+PA Big Data Analytics Projects Get $3M in Funding from UPMC
+WEDI to Examine Data Analytics Backbone of Bundled Payments
+Why do providers need to integrate analytics into the EHR?
+Chronic Disease Management Costs 17 Times More than Average
+Summit Medical, Humana Form Accountable Care Organization
+EHRs Can’t Keep Up with Healthcare Analytics Abilities, Needs
+ACOs Must Have Better Data for Population Health Management
+IBM Watson Health, FDA Partner for EHR, IoT Blockchain Project
+Single question flags patients at six-fold risk for suicide
+3 Population Health Management Strategies to Cut Health Costs
+Machine Learning Predicts Leukemia Remission with 100% Accuracy
+ICU Admissions from Opioid Overdoses Increase 34% Since 2009
+AARP Invests $60M in Dementia, Alzheimer’s Disease Research
+QPID, Epic EHR Combine for Big Data Analytics at Partners Health
+Health Information Exchange Data Scarce, Inaccurate, Incomplete
+What is the New Comprehensive Primary Care Plus Program?
+Antibiotic Stewardship, Patient Safety Plans Get Industry Support
+EHR Usability Shortfalls May Up Pediatric Patient Safety Risks
+Why the C-Suite is Critical for Healthcare Big Data Analytics
+Gains in Longevity Slow Down for Most Chronic Diseases
+How Does an ACO Differ from the Patient-Centered Medical Home?
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+KLAS Population Health Management Rankings Show Market Growth
+92% of Providers to Use CMS Chronic Disease Management Program
+Big Data Analytics Vendors and Products: Who’s Using What?
+CMS Allows Orgs to Share and Sell Medicare, Private Claims Data
+Rapid genetic testing for newborns helps pinpoint diagnoses
+National nursing informatics award goes to MD professor
+VA, IHS Receive DirectTrust Interoperability, Security Nod
+Overlap of business, clinical intelligence lets analytics shine
+Prescription Monitoring Program to Reduce Opioid Abuse in VA
+Success of AI in Healthcare Relies on User Trust in Data, Algorithms
+FDA Unveils Clinical Decision Support, Medical Device Guidance
+Is There a True Definition of Population Health Management?
+Clinical analytics market to reach $12.26 billion in 2019
+CMS Public Health Data Repository Will Aid Quality Reporting
+84% of Docs Say CMS Makes Clinical Quality Improvement Harder
+Information Governance Must Protect PHI Outside the EHR
+AMA Urges “Thoughtfully Designed” Artificial Intelligence for Healthcare
+Providers, Politicians Focus on Population Health Management
+Cerner Pilot Uses Population Health Analytics for Chronic Care
+CPT, SNOMED-CT Codes Ally to Boost Healthcare Data Integrity
+ONC Offers $80K for Tools to Improve EHR Reporting for Patient Safety
+Accountable Care, Big Data Analytics Attract Vendor Attention
+KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+Open EHR Notes Improve Medication Adherence, Engagement
+How Patient Safety Organizations Encourage Data Collection, Quality Care
+Privacy is the biggest concern in healthcare analytics, says poll
+Mental Healthcare Big Data Warehouse Illuminates Care Trends
+ONC: Public health reporting relies on EHR infrastructure
+Population Health Scorecard Shows Geographical Divides in Quality
+Social Media May Provide Big Data Insights into Drug Misuse
+Developing Big Data Governance Strategies for Better EHR Use
+How Federal Health IT Work Paves the Way for Big Data Analytics
+Big Data, Value-Based Reimbursement Must Combine for Quality
+Using big data governance to unlock healthcare archive value
+Does State Regulation Help Boost Health IT, HIE, EHR Adoption?
+Patient-Centered Medical Home Keeps Spending Low, Quality High
+EHR Scribes Save Time, But Do They Produce Accurate Health Data?
+Despite EHR Patient Portals, Providers Still Charge for PHI
+Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+Geisinger Announces New National Precision Health Initiative
+Why Sharing Cancer Big Data is Key to Personalized Medicine
+Performance analytics for residents help quality benchmarking
+Apple Explores Medical Data with Health Records API, Patents
+UCLA Research Center to Focus on Healthcare Big Data Analytics
+Healthcare Big Data Silos Prevent Delivery of Coordinated Care
+Women on oral birth control are 35% more likely to develop MS
+LG Health, Aspire Launch $300M AI, IoT, Precision Medicine Fund
+54% of Healthcare Pros Expect Widespread AI Adoption in 5 Years
+Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+DirectTrust: 44M Health Information Exchange Messages in 2015
+Data Governance, Transparency Required for Patient-Centered Care
+Healthcare analytics essentials: Hiring the data scientist
+NJ invests in chronic disease, population health management
+New Panel to Lead Cancer Moonshot Project for Precision Medicine
+Breaking Down the ONC Health Data Interoperability Roadmap
+Many psychiatrists, providers haven’t moved to DSM-5
+Big Data Analytics Pin Colon Cancer Deaths on Care Variations
+CMS Quality Strategy Aims for Population Health Management
+IoT, EHRs to Push Healthcare API Market to $243M by 2024
+Feb. 25 HIMSS14 vendor news, announcements, & demonstrations
+Healthcare Big Data Analytics Keeps Small Hospitals Independent
+Healthcare Big Data Analytics Market to Rise to $18.7B
+Healtheway Rebrands to Promote Health Data Interoperability
+CMS Releases Medicare Opioid Prescribing Maps, Data Resources
+Partners Data Lake Offers Healthcare Analytics as a Service
+Gates Foundation Grants $279M to UW Population Health Program
+Precision Medicine, Genomics Partnership Boosts Big Data Sharing
+Healthcare Big Data Success Starts with the Right Questions
+Imaging Analytics Get Big Data Boost from New Partnerships
+What Are the Clinical Analytics Lessons from EHR Adoption Data?
+Precision Medicine, Population Health Share Strategies and Goals
+While the line between constructive criticism and condemnation is often difficult to walk, organizations are doing their best to present the information in a positive light, as a way to boost quality rather than penalize physicians for mistakes they might not even know they’re making.  “Hospital administrators and physicians do not like to point out physicians who are underperforming because that can make the hospital look bad and make the physician feel bad,” Kim acknowledges. “Or, in many cases, that physician may get angry, hostile and argumentative. In fact, some of the worst-performing physicians are the ones who have terrible bedside manners and poor interpersonal skills. They are the last ones whom you would want to inform about poor performance.”
+But scorecards and performance measurements are the key to avoiding significant financial penalties for performance issues, Gorman-Klug reminds providers, and can help nip potential reputation problems in the bud before they become endemic.  “As we’ve moved from pay-for-reporting to pay-for-performance, healthcare organizations have had to face the harsh reality of financial penalties for certain inadequacies.  In addition to patient safety, issues affecting bottom-line and reputation are truly the areas of focus for most, if not all, organizations.  It’s also important to keep in mind that much performance data is publically available.”
+By combining patient-focused analytics with physician-sided reporting, organizations can create a more complete picture of their overall performance, marrying clinical data and financial data in a comprehensive way.  Analytics can help physicians identify trouble areas and develop new strategies for patient care, and help hospitals keep their reputations – and their patients – intact and thriving.
+Tagged Clinical AnalyticsClinical IntelligenceHealthcare AnalyticsHealthcare Business IntelligencePopulation Health Management
+
+

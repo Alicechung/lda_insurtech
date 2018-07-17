@@ -1,0 +1,23 @@
+As big data takes over, how will healthcare analytics stack up?
+
+December 16, 2013
+
+By Jennifer Bresnick
+December 16, 2013 - You can’t take two steps in mid-December without tripping over a prediction for what will happen in the following year, but that’s not such a bad thing when you’re talking about predictive analytics in the first place.  “Big data” is the term on everyone’s lips, and the hopeful prognostications of pundits are starting to get backed up with big numbers.
+Virginia Rometty, CEO of IBM, states that by 2020, there will be 5200 gigabytes of data for each and every human being on the planet.  While much of this data spans everything from grocery shopping habits and train tickets to banking decisions and cell phone records, healthcare data – or data that can be used by healthcare – is destined to make up a large slice of the pie.  In the rush to collect, harness, and utilize big data, how will healthcare take advantage of the flood of information that’s sweeping traditional practices aside?
+Reducing costs and closing efficiency gaps
+The worldwide cross-industry analytics market is projected to reach $16.1 billion by next year, yet estimates for healthcare analytics alone range from $10.8 billion in 2017 to $21.3 billion in 2020.  Much of this growth is currently driven by hospitals and health systems trying to do everything they can to keep their heads above water as federal mandates and payment reforms siphon off resources at a rapid rate.
+Dig Deeper
+Top Healthcare Business Intelligence Companies by Hospital Users
+Business Intelligence Tools Bring Insights to Organ Donation Network
+Population Health is Top Data Analytics Challenge for Providers, Payers
+The first step to developing an analytics infrastructure in healthcare is to drive out waste at home, trimming down inefficiencies in supply lines and workflows in order to prime the organization for the addition of IT-enabled clinical and business practices.
+Creating novel markets and new value
+The second step is seeking opportunities to bring patients to the facility by creating value they can’t get anywhere else.  Whether this is a robust home health program or the ability to recruit top physicians and track their performance to ensure uniformly high quality care, hospitals are starting to think like businesses, and they’re using the financial and population health data at their disposal to target markets that might not even have existed five or ten years prior.
+Prediction, prevention, and personalized care
+To serve these markets, healthcare organizations are spending big money to make their data as small and as personal as possible.  Urged on by health plans eager to keep their beneficiaries out of the system as much as they can, hospitals are using big data to take a macro and an incredibly microscopic view of population health.
+From crunching the data of millions of patients statewide through health information exchanges to targeting the specific genes responsible for tumors in cancer patients, analytics is changing the practice of medicine from retrospective to predictive at an astonishing clip.  Population health management and personalized care are top of the agenda for more than half of hospitals, and can start with something simple like increasing communication to assist care transitions or providing tools to patients before discharge to help them log on to their patient portal or keep track of their medications.
+Applying analytics to the busy, complex, and financially constrained business of healthcare isn’t always easy, but the next few years will see those 5200 gigabytes of data harnessed for the good of the individual and the population at large through the herculean efforts of the healthcare system.  As research about the effectiveness of these tools begins to pile up, and hospitals recovering from the expenses and trauma of EHR implementation start to turn their thoughts towards the next step in health IT, healthcare organizations will start to reap the benefits of analytics in a big data way.
+Tagged Big DataClinical AnalyticsHealthcare AnalyticsHealthcare Business IntelligenceHealthcare Data ManagementPopulation Health Management
+
+

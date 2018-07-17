@@ -1,0 +1,21 @@
+Clinical documentation needs quality assurance as well as CDI
+
+August 18, 2014
+
+By Jennifer Bresnick
+August 18, 2014 - Clinical documentation improvement (CDI) programs aren’t sufficient to ensure that health information is as complete, accurate, and consistent as it needs to be in order to ensure patient safety and allow for clinical analytics, AHIMA and the Association for Healthcare Documentation Integrity (AHDI) stress with a new health information management toolkit.  Providers must conduct quality assurance (QA) checks in addition to any CDI efforts that are currently taking place in order to avoid errors, reduce the opportunities for intentional or inadvertent fraud, and provide constructive feedback for clinical staff.
+In advance of ICD-10, the majority of providers have ramped up CDI programs that encourage detail, specificity, and comprehensiveness in patient documentation.  However, just because providers are documenting more doesn’t mean they’re documenting sufficiently.  With the pressure to increase the scope of clinical documentation to meet ICD-10 requirements, physicians may be making critical errors that create data vulnerabilities and contribute to bloated notes that lose the core of their meaning.
+These errors may include unintended or misplaced additions and deletions of words and phrases, misusage of medical terminologies, the use of abbreviations, incorrect patient demographics, or errors in author identification. “A QA program can effectively address each of these issues to ensure quality of care and continuity of care, and to decrease physician and clinician frustration while streamlining and supporting the documentation process,” the toolkit says.
+Enlisting a health information management professional to add QA activities to existing documentation improvement programs can effective kill two birds with one stone.  AHIMA and AHDI suggest a multi-step action plan that includes the following key points:
+Dig Deeper
+The Role of Healthcare Data Governance in Big Data Analytics
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+CMS Begins the Search for a Chief Health Informatics Officer
+• Evaluation of resources, including HIM staff available to conduct audits and a review of the number and type of clinical documentation authors and technological tools.  Providers may wish to add dedicated HIM professionals to handle QA activities.
+• Establishment of style standards, review and feedback processes, education for clinicians, and metrics to measure progress.  QA reviews should include concurrent and retrospective audit processes.
+• Engagement of clinical and administrative staff in the QA process, including the development of new workflows that encourage quality documentation and allow for constructive instruction from HIM staff.
+• Planning for continued improvement, including the evaluation of technical errors, EHR templates, and conflicting workflow procedures that may encourage confusion.  QA staff should encourage open communication with clinical documentation authors and quickly address questions to avoid the development of poor documentation habits.
+The full toolkit, including sample documentation, best practices, and resources to help healthcare organizations develop fully-fledged quality assurance programs, is available online for free for providers.
+Tagged Health Information ManagementHealthcare Data StrategyHealthcare Informatics
+
+

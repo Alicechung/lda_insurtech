@@ -1,0 +1,17 @@
+NCQA Pilots Electronic Clinical Quality Measures Program
+
+April 24, 2015
+
+By Jennifer Bresnick
+April 24, 2015 - The National Council for Quality Assurance has enlisted three healthcare IT companies to test pilot its electronic clinical quality measures code validation program.  The pilot, called eMeasure, will test the ability of EHR software to access and report upon electronic clinical quality measures generated for meaningful use and other quality improvement programs.
+WellCentive, eClinicalWorks, and Spectramedix will help NCQA validate an initial ten electronic clinical quality measures selected from the EHR Incentive Program’s Adult and Child core CQM group. 
+The goal of the program is to ensure that providers will be able to generate reports that can be accepted by health plans for the development of Healthcare Effectiveness Data Information Set (HEDIS) scores and rankings.
+The eCQM pilot is based off a similar NCQA effort that validates the underlying code that extracts data from insurance claims, and will add to the technical body of knowledge that will support patient safety improvements, population health management, and clinical analytics as patient outcomes and care quality become increasingly integral to reimbursement and delivery. 
+Dig Deeper
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+Transparency is Key for Clinical Decision Support, Machine Learning Tools
+Apple Explores Medical Data with Health Records API, Patents
+After testing the first ten measures selected for the pilot, NCQA hopes to expand the program to all electronic clinical quality measures providers may select during quality improvement program participation.
+Tagged Analytics InfrastructureClinical AnalyticsPatient Data
+
+

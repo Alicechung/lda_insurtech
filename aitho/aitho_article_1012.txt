@@ -1,0 +1,11 @@
+DJI Gives Drones More Power For Commercial Use
+
+31 Mar 2018
+
+Zenmuse XT2 Thermal Camera And Payload SDK Transform DJI’s Drones Into Specialized Platforms For Any Industrial Purpose Including Inspections, Public Safety And Saving Lives
+DJI, the world’s leader in civilian drones and aerial imaging technology, unveiled new technology and tools to customize its enterprise drone platforms for specialized tasks such as infrastructure inspection, precision agriculture, firefighting and search and rescue.
+The new Zenmuse XT2 thermal imaging camera, created in partnership with FLIR Systems, is a critical tool for drone operators to capture heat signatures invisible to the naked eye. Its side-by-side visual and thermal imaging sensors provide unparalleled data capture and situational awareness during emergency services, disaster recovery and industrial inspection uses. DJI’s powerful new Payload Software Development Kit (SDK) allows innovative drone startups, developers, and sensor and device manufacturers to easily integrate custom cameras, sensors and other types of payloads onto DJI drones, unlocking the true potential of drone technology for businesses, governments and researchers around the world.
+Jan Gasparic
+“The Zenmuse XT2 continues our longstanding partnership with FLIR to create the most powerful thermal imaging solution available on a drone today. This is a significant advancement for public safety professionals who are using drones to save lives and creating new industrial applications across different verticals,” said Jan Gasparic, Head of Enterprise Partnerships at DJI. “Our new Payload SDK makes it possible for any manufacturer to create a payload specific to their customers’ needs that will work seamlessly with DJI’s aircraft. We believe these two advances will not only strengthen DJI’s leadership in the commercial drone industry, but will also provide a powerful, flexible and standardized platform which customers from different industries can build upon.”
+
+

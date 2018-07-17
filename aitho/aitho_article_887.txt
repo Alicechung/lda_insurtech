@@ -1,0 +1,19 @@
+The First Successful Transfer Of DNA Sequence Over The Ethereum Blockchain
+
+16 Apr 2018
+
+The DNAtix development team has conducted the first successful proof of concept test for transferring DNA sequences on the blockchain.
+DNAtix has completed the first Proof Of Concept (POC) test by transferring the complete genome sequence of a virus – Enterobacteria phage phiX174 sensu lato – over the Ethereum Blockchain. The bacteria phage, a single-stranded DNA (ssDNA) virus and the first DNA-based genome to be sequenced.
+This proof of concept test is a key milestone in the research and development being done by the innovative team at DNAtix, and the company believes that it is the first time that anyone has successfully transferred a DNA sequence over a blockchain.
+Ofer Lidsky
+The genome of humans is comprised of about 3 billion base pairs (letters) which equals approx 700 megabytes (processed and compressed genome) to ~100 gigabytes (raw genome read out). Even after applying DNA compression methods and focusing on the differences (E.g. mutations/SNPs) between the sequenced DNA and a reference sequence, the size of the data is still too large to be efficiently supported by current blockchain technologies.
+“For the purpose of the POC we uploaded the virus sequence which is ~5400 ‘letters’ that equals about 1348 bytes,” explains Ofer Lidsky, DNAtix’s CEO and co-founder.
+DNAtix’s team has developed proprietary DNA compression algorithms allowing a 75% reduction of DNA sequence size by implementing a Python script. The team is working on improving the algorithm further, targeting a 99% reduction in size.
+This DNA transfer on the blockchain opens the door for many services and applications that DNAtix is going to offer users of its platform and ecosystem.
+“This is only the beginning of unlocking humanity’s biggest mysteries,” says Mr. Lidsky. “Our Genetic ecosystem will enable better genetic understanding by allowing players in the market to use our open source technology, and introduce new developments for the benefit of human kind.”
+Tal Sines
+DNAtix has already developed a working prototype, an innovative one-stop-shop direct-to-consumer platform that will allow users to perform partial or full DNA sequence analysis and choose add-on tests, all digitized, from a wide selection of services.
+“Transferring the sequence of a virus, which in terms of size of genetic data of a living organisms is considered small, is just the first step,” says, Dr. Tal Sines, the company’s CSO & Co-founder, a Weizmann Institute’s graduate with a Ph.D in molecular biology. “Your DNA is the key to improve your life style and healthcare.”
+By developing the ability to transfer large amounts of DNA data on a blockchain in a secure and anonymous way, the company’s vision is to bring a new world of genetic possibilities which will allow for advancements in research, developments of treatments, and cutting-edge personalized and preventive medicine.
+
+

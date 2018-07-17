@@ -1,0 +1,23 @@
+NIH Releases Big Data Resources for Brain Development Research
+
+February 22, 2018
+
+By Jessica Kent
+February 22, 2018 - The National Institutes of Health (NIH) recently announced the release of the first dataset from the Adolescent Brain Cognitive Development (ABCD) study, which will allow scientists to use big data to research the many factors that influence brain, cognitive, emotional, and social development.
+The ABCD study is the largest long-term study on brain development and child health in the United States. More than 7500 children and their families have been recruited to participate, and data obtained from the first 4500 participants will be made available to scientists worldwide.
+This initial dataset will offer high-quality baseline information on a large sample of 9- and 10-year-old children, including basic participant demographics, physical and mental health assessments, neurocognition data, and pubertal hormone analyses.
+Dig Deeper
+Turning Healthcare Big Data into Actionable Clinical Intelligence
+Leveraging Healthcare Big Data to Improve Population Health
+Identifying Big Data Sources for Population Health Management
+“By sharing this interim baseline dataset with researchers now, the ABCD study is enabling scientists to begin analyzing and publishing novel research on the developing adolescent brain,” said Nora D. Volkow, MD, director of the National Institute on Drug Abuse (NIDA).
+Researchers will use the data to examine the influence of numerous factors on adolescent brain development, including the impact of sports injuries, the relationship between screen time and brain development, and the effect of regular substance use on the developing brain.
+“As expected, drug use is minimal among this young cohort, which is critical because it will allow us to compare brain images before and after substance use begins within individuals who start using, providing needed insight into how experimentation with drugs, alcohol and nicotine affect developing brains,” Volkow said.
+To ensure participant confidentiality, all personal information has been removed from the data. Researchers can only access the data through the National Institute of Mental Health (NIMH) Data Archive after obtaining a free NIMH account. 
+The study aims to enroll 11,500 children by the end of 2018, and the next annual data release will include the full participant cohort. Data will be collected over the course of ten years through interviews and behavioral testing conducted on a semi-annual and annual basis.
+This comprehensive dataset may help inform researchers on future treatment and prevention efforts and public health policy decisions.
+“Sharing ABCD data and other related datasets with the research community, in an infrastructure that allows easy query, data access, and cloud computation, will help us understand many aspects of health and human development.” said Joshua A. Gordon, MD, PhD, director of NIMH.
+“These datasets provide extraordinary opportunities for computational neuroscientists to address problems with direct public health relevance.”
+Tagged Data StorageHealth Data AccessHealthcare Big Data AnalyticsPatient Data
+
+

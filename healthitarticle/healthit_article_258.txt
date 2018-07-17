@@ -1,0 +1,36 @@
+ONC Focuses on Data Governance with Patient Matching Framework
+
+December 20, 2017
+
+By Jennifer Bresnick
+December 20, 2017 - The Office of the National Coordinator, in conjunction with CMMI institute, has released a new patient identification and patient matching framework to help ensure accurate care across an increasingly interoperable healthcare continuum.
+The Patient Demographic Data Quality (PDDQ) toolkit aims to address a serious and pervasive problem in health information management: medical errors caused by incorrect patient identification or inaccessible records.
+According to the Ponemon Institute’s 2016 National Patient Misidentification Report, a staggering 86 percent of practitioners have experienced or know of a medical error rooted in incorrect patient matching or ID.
+“Patients and practitioners alike need to have the assurance that medical errors do not occur due to improperly recorded data,” said Kirk Botula, CEO of the CMMI Institute, a subsidiary of ISACA Enterprises.
+Lee Stevens, Director of State and interoperability Policy at ONC, noted that the CMMI Institute’s work on patient matching has provided an important foundation for the industry’s ongoing efforts.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+“The ONC Community of Practice analyzed available frameworks and selected the CMMI Institute’s Data Management Maturity (DMM) model as the baseline for developing the PDDQ framework of best practices,” he said.
+“The DMM’s fact-based approach and built-in path for capability growth is aligned with the healthcare industry’s need for a comprehensive standard.”
+Policymakers and industry leaders have made numerous attempts to create better matching algorithms and best practices for ensuring that patient data is correctly shared and accessed, but some of these initiatives have fallen short.
+Earlier in 2017, CHIME announced that its $1 million search for a 100 percent accurate patient identification strategy would be suspended due to insufficiently impactful results. 
+The organization is rerouting its efforts to focus on multi-stakeholder collaboration around the issue – and the ONC is hoping the same type of shared effort will bring widespread adoption of the PDDQ framework.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+“The PDDQ Framework allows organizations to evaluate themselves against key questions designed to foster collaborative discussion and consensus among all involved stakeholders,” the agency says.
+“Its content reflects a path that organizations can follow when building proactive, defined data quality processes to positively influence behavioral changes in the management of patient demographic data.”
+Key components of the framework include developing and implementing data governance functions, planning for data quality improvements, managing operational components, defining and mapping data dependencies, and ensuring that data can be trusted across the entire organization.
+The toolkit includes a score sheet and questionnaire that allow provider groups to track their accomplishments and opportunities for improvement as they work through the 19 data management process areas of the PDDQ.
+“If posed to key stakeholders, producers, and consumers of patient demographic data, [the framework’s] 76 questions can stimulate knowledge sharing, surface issues, and provide an outline of what the organization should be doing next to more effectively manage this critical data,” ONC says.
+READ MORE: National Patient Identifier May Cut “Silly Waste” in Healthcare
+Comprehensive self-assessment is critical for effecting long-term change, added CMMI Institute.
+“The PDDQ provides a comprehensive evaluation of data management practices for patient data through all health care process areas, including registration, patient care, laboratory, pharmacy, claims and billing,” said Melanie Mecca, Director of Data Management Products and Services at CMMI Institute.
+Organizations can adopt the entire framework or focus on specific components that may need additional attention.  The ONC stresses that data governance and data quality are at the core of all improvement efforts, and should provide the foundation for all data management efforts.
+“Building capabilities in governance is a key factor in improving data quality, supporting sound design of data stores and interoperability, and creating a thorough and detailed knowledge base about the data assets for all relevant stakeholders,” the ONC says.
+“In addition to centralizing key decisions for the data assets, governance is needed to provide input into the organization’s implementation of external or regulatory requirements. Governance also includes monitoring data management results to ensure that the organization successfully realizes its desired outcomes and receives business value from data management activities.”
+The ONC also suggests that organizations refer to AHIMA’s Information Governance Adoption Model to support ongoing data integrity and governance improvements.
+Providers are encouraged to use both resources to tailor their governance projects to their specific needs and develop strategies that help organizations overcome their unique challenges.
+“While the PDDQ Framework addresses and advocates requirements and activities for effective data management, it does not prescribe how an organization should achieve these capabilities,” ONC notes. “It can be used by organizations both to assess their current state of capabilities and build a customized roadmap for data management implementation.”
+“The PDDQ Framework is designed to serve as both a proven yardstick against which progress can be measured as well as an accelerator for an organization-wide approach to improving data quality.”
+To access the freely available Patient Demographic Data Quality Framework, please click here.
+Tagged Analytics InfrastructureData IntegrityHealthcare Data GovernanceHealthcare Information GovernanceInteroperability GovernanceNational Patient IdentifierONC
+
+

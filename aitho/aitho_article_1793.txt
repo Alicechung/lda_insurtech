@@ -1,0 +1,13 @@
+Inspur Demonstrates PowerAI Solution At 2017 OpenPOWER China Summit
+
+29 Dec 2017
+
+Inspur unveiled its latest PowerAI solution at the 2017 OpenPOWER China Summit on December 13th. As a part of Inspur’s smart computing strategy, the company announced plans to develop an OpenPOWER Total Solution to support cloud computing, big data, and AI.
+At the summit, Inspur demonstrated the new PowerAI-based multi-target real-time tracking solution, a video analysis technology widely applicable in security, smart city, transportation and other fields. The solution is based on Inspur’s mature product P820 that supports two 3.4G OpenPOWER processors, 64 memory slots and 12 PCI-E slots.
+PowerAI is a mainstream deep learning software toolkit with pre-compiling capability and an integral part of the IBM Cognitive System. Easier to use and learn than open source AI frameworks, PowerAI also supports NVLink, providing higher throughput, larger data sets, more application runs, and improving the accuracy of cognitive results.
+Inspur also showcased an upcoming dual-socket OpenPOWER9 server concept machine, supporting all NVMe SSD and four P100 GPU cards to meet the needs of smart computing.
+Looking to the future, Inspur announced plans to develop multiple OpenPOWER9-based solutions and products in traditional server form factor, multi-node server, multi-node rack and other factors for various applications, including cloud computing, big data, and AI, targeting both traditional industry users and cloud computing operators.
+Today, Inspur is the most comprehensive manufacturer in AI computing. With the highest market share in China’s AI server market, Inspur’s comprehensive products cover computing technologies such as GPU / MIC / FPGA, meeting requirements of both small-scale sample training and super-large model training with samples in the hundred billion and parameters in trillions.
+Inspur products are designed for leading-edge AI scenarios such as artificial intelligence cloud, deep learning model training, and online reasoning. Combined with Inspur’s AI platform software, such as AIStation and Caffe-MPI, these technologies make up a unique end-to-end AI technology system. PowerAI will further strengthen Inspur’s competitiveness in AI, facilitating the development of diversified computing technologies and solutions.
+
+

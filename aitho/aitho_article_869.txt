@@ -1,0 +1,16 @@
+Kongsberg Geospatial And Survae Partner To Provide Integrated Video Management Capability Within IRIS GCS
+
+17 Apr 2018
+
+The IRIS ground control station will provide a seamless workflow allowing drone operators to manage, view, store and retrieve multiple video streams from multiple simultaneous drones.
+Kongsberg Geospatial, an Ottawa-based geospatial visualisation software company, and SURVAE, a video and data mapping technology company based in Wilmington, NC, announced today that they have integrated the Kongsberg Geospatial IRIS UAS Ground Control Station (GCS) with SURVAE’s digital asset management platform for geolocated video, imagery and data.
+This capability will enable a single operator to seamlessly manage the real-time display and storage of multiple video streams from the multiple drones being managed by the IRIS GCS. Videos will be meta-tagged and stored for near real-time analysis or for post-mission archival search of missions flown.
+“It is clear that future operations will require a single operator to be able to manage the data collection from multiple aircraft,” said Eric Hesterman, CEO of SURVAE. “The Kongsberg Geospatial IRIS GCS provides the ability to manage multiple aircraft and their sensors so Kongsberg is a very logical partner for us to provide an integrated solution for operators. Managing the data is the next challenge for the drone industry.”
+It is clear that future operations will require a single operator to be able to manage the data collection from multiple aircraft
+The Kongsberg Geospatial IRIS GCS technology enables multiple drones to be managed simultaneously by a single operator. The platform provides real-time services to enable BVLOS (beyond visual line-of-sight) operations, including real-time calculation of aircraft separation and line-of-sight for data communications.
+Ranald McGillis
+Once integrated with SURVAE, IRIS GCS will provide a seamless experience for the operator to manage the many sensors that may be in the air at the same time. This expanded post-mission retrieval and analysis capability will significantly reduce the workload for drone operators.
+“We’re very pleased to be working with a partner like SURVAE,” said Ranald McGillis, President of Kongsberg Geospatial. “Our clients are telling us that real-time video management and storage is a great problem for them, and SURVAE provides a best-in-class solution to this growing need. Integrating our capabilities creates a seamless workflow from data collection to post-mission retrieval.”
+ 
+
+

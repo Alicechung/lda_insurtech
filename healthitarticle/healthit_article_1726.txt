@@ -1,0 +1,34 @@
+Leveraging Healthcare Big Data to Improve Population Health
+
+November 24, 2014
+
+By Sponsored Content
+Overcoming the infrastructure challenges of harnessing big data in the healthcare environment will be critical for better population health management.
+November 24, 2014 - The Department of Health and Human Services (HHS) in August announced that 78 percent of office-based physicians had adopted an electronic health record system by the end of 2013, bringing them up to the EHR adoption level hospitals reached the previous year.  In addition to the benefits to individual care most often associated with EHRs — improved coordination, quality and outcomes — such widespread adoption of EHRs and the data they capture holds tremendous potential for addressing population health.
+EHRs capture a staggering amount of health data. A 2000 study by information scientists suggested that if all the printed material contained in the 26 million books collected in the Library of Congress were amassed into a single data file, that file would contain about 10 terabytes of data. In comparison, a CIO recently calculated that his medical center generates approximately 1 TB of clinical text data — one-tenth of a Library of Congress from a single hospital — per year.
+Big data in a nutshell
+Big data is typically characterized by four “Vs” — volume, velocity, variety and veracity. In the context of healthcare, these terms can be defined as follows.
+• Volume is the amount of healthcare data created and stored, including patient records, medical imagery, FDA clinical trial submissions, human genetics studies and more.
+READ MORE: Epic Systems Wins Best Overall Health IT Suite in KLAS Rankings
+• Velocity is the speed at which healthcare data accumulates, which has increased rapidly with the proliferation of health IT.
+• Variety in healthcare data derives from its range of formats, including basic patient data, test results, doctors’ notes, imagery, recorded call center interactions, etc.
+• Veracity is the trustworthiness of captured information, relatively very high in healthcare compared to industries that are less structured and regulated.
+As you can see above, the term “big data” isn’t only about data volume. It refers to how large amounts of data, when effectively captured and analyzed, can reveal a wealth of facts and connections that could not have otherwise become known. Large enterprises today use the insights they glean from big data in many ways — for example, to understand customer buying habits for more accurate planning and to analyze business processes to optimize them for greater efficiency and cost reduction. Healthcare can similarly benefit from big data in a broad range of areas, including population health management.
+How big data can contribute to population health improvements
+READ MORE: Physicians Seek Population Health, RCM Advice for Value-Based Care
+Population health is defined as “the health outcomes of a group of individuals, including the distribution of such outcomes within the group.” Improving health outcomes—as opposed to providing more treatments — is the central goal of value-based care and a cornerstone of healthcare reform.
+Healthcare stakeholders can leverage big data to manage and improve population health in numerous ways:
+• When combined with community data, healthcare data covering such trends as missed checkups for a given condition can reveal geographic areas most in need of community outreach to improve adherence.
+• EHR data shared in anonymous form can be used by public health officials to maintain immunization registries and help prevent the spread of disease.
+• Medical and genomic data can be compared to identify a substantial pool of ideal test subjects for innovative treatments to assist in recruiting for trials.
+READ MORE: IBM Watson, Siemens Partner for Population Health Management
+• Providers can analyze and compare data from treatments on an extensive control group of patients to determine which treatment options offer the best outcomes at the lowest cost.
+Applying big data going forward
+Despite the promise of big data to help shift healthcare toward a value-based model, significant challenges remain. Most healthcare stakeholders don’t have the IT infrastructure and staff required to manage, mine and maintain very large amounts of data. Additionally, although protected health information can be removed before data is transmitted, data privacy and security are a constant concern, and there will always be questions about the ownership of health data along with who can use it, and how.
+It’s highly likely that these challenges will be overcome, however, with so many gains to be made in population health. As we continue the transition to value-based care, count on the data being captured in EHRs today to have a profound effect on population outcomes in the future.
+Dr. Jim Ingram has been involved with electronic health records since 1993 while in active private practice in Carrollton, GA, and was one of the founding investors of Greenway Medical Technologies, now Greenway Health.
+As Chief Medical Officer, Dr. Ingram is involved in many aspects of the product design, development, training, medical content and practice relations at Greenway Health. He served on CCHIT (the Certification Commission for Healthcare Information Technology) as a member of the Ambulatory Work Group, and served on the Advisory Panel for the SHARP-C grant for Clinical Decision Support at the University of Texas-Houston.
+Dr. Ingram is a board-certified general surgeon who graduated cum laude from the University of Alabama Medical School.
+  Tagged Analytics InfrastructureBig DataPopulation Health Management
+
+

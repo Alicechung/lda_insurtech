@@ -1,0 +1,28 @@
+Health Data Exchange Could Save Medicare $3.12 Billion a Year
+
+September 14, 2017
+
+By Jennifer Bresnick
+September 14, 2017 - An integrated national health data exchange system could reduce Medicare spending by more than $3 billion each year by enhancing coordinated care and fostering more effective population health management programs, asserts a new study by researchers from Notre Dame and the University of Michigan.
+Regional markets with established health information exchange (HIE) organizations have already accrued an average savings of $139 per Medicare beneficiary per year, said co-authors Idris Adjerid, Julia Adler-Milstein, and Corey Angst. 
+The savings may mainly stem from a reduction in duplicate tests and procedures and timely access to patients’ complete and accurate medical records, which can improve chronic disease management and raise patient satisfaction levels.
+If those savings rates are expanded to include the entire Medicare population, the potential for cost reductions is significant. 
+However, since HIE-related savings are most prevalent in communities that have long experience with data exchange and those that offer providers financial incentives to engage in value-based spending reductions, policymakers may have to invest more heavily in provider-centered financial motivations if the industry is to see the full benefit of HIE adoption.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+“Our results focus on the interplay between HIE value and financial incentives in health care are highly relevant to an active debate on how to best design payment models to incentivize high-quality and cost-effective care,” said Adjerid, an IT professor at Notre Dame’s Mendoza College of Business.
+“Not all health care markets see the same amount of reduced spending from HIEs. We find that spending reductions are greater in health care markets where providers have financial incentives to use an HIE in ways that reduce spending. We also find that more mature HIEs — those that have been around longer — are more effective at reducing costs.”
+The findings mirror other recent studies that suggest long-term investment and familiarity with innovative care models, such as accountable care organizations (ACOs) and patient-centered medical homes (PCMHs), are required in order to fully realize the potential of these new frameworks.
+A 2015 data brief from Health Affairs found that larger, more technically savvy Medicare Shared Savings Program ACOs that had participated for more than three years were the most likely to generate shared savings.  While a third of three-year-old ACOs accrued savings in 2015, just 19 percent of first-year organizations managed to do the same.
+A similar report from RAND Corporation indicated that primary care PCMHs taking part in a CMS Innovation Center pilot took about three years to achieve the highest level of NCQA recognition, although issues with program administration and technical support may have contributed to the lengthy development process.
+READ MORE: Health Information Exchange Data Scarce, Inaccurate, Incomplete
+Creating an operational, mature HIE that includes a critical mass of regional participants is also a long-term project, the new study shows, that can be subject to frustrating fits and starts for the community.
+“Typically, HIEs become operational with a handful of key strategic partners actively exchanging a limited set of valuable data (e.g., lab results) and then there are continued efforts to increase the quantity and quality of patient information available by expanding the types of data shared and seeking participation from other healthcare organizations in the market,” the researchers explain.
+“In this regard, the persistent friction of providers seeking out information that is not available or not being shared by healthcare providers becomes even more salient for the provider. Besides wasting time for this particular clinical transaction, a derivative effect of this experience may be to discourage future attempts to seek information from the HIE.”
+Even when complete and timely data is available, individual provider organizations must make a concerted – and sometimes costly – effort to integrate that data into their workflows, which can be problematic from both a technical and organizational perspective.
+“We contend that time is required for capabilities to mature, providers to learn to use the functionality provided by HIEs (e.g. how to query data from the HIE), and for providers to incorporate information seeking into their workflows and decisions,” the study says, but adds that the magnitude of savings is likely to increase over time as participants work out the kinks in their care processes.
+READ MORE: How Health Information Exchange Models Impact Data Analytics
+Cost reductions are also more likely in areas where providers are taking on an increased level of financial risk for patient outcomes.  As the financial motivation for reducing unnecessary services and avoiding complications increases, providers may be more likely to invest in acquiring the data they need to make more informed decisions about patient care, the study suggests.
+“The extent to which providers bear the risk for the cost of care and HIE maturity modify the magnitude of savings,” the authors wrote.  “Greater savings result when provider incentives are better aligned through shifting the risk for the cost of care and when HIEs have time to develop, pointing to the importance of these considerations when trying to maximize the value generated by HIEs.”
+Tagged Analytics InfrastructureChronic Disease ManagementHealth Data ExchangeHealth Information ExchangePopulation Health Management
+
+

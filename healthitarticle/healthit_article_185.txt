@@ -1,0 +1,44 @@
+AI for Imaging Analytics Intrigues Healthcare Orgs, Yet Starts Slow
+
+February 27, 2018
+
+By Jennifer Bresnick
+February 27, 2018 - Healthcare organizations are developing a strong interest in leveraging artificial intelligence for enhanced imaging analytics, but are approaching investment and implementation a little more cautiously, says a new report from KLAS Research.
+Only 17 percent of surveyed organizations are currently live or piloting an AI imaging analytics solution, while another 30 percent have or are in the process of making plans to adopt new machine learning technologies.
+Fifty-three percent of the 81 participating organizations – primarily large integrated delivery networks or hospital systems – have no current strategy for integrating AI into their imaging departments, citing uncertain ROI, unclear use cases, and insufficient health IT sophistication as reasons to hang back.
+Many participants expressed concern about integrating AI-driven diagnostic tools into radiology workflows.
+“We need feedback from the radiologists to see whether they are okay with using artificial intelligence,” said one respondent to the survey, which was emailed to journalists.
+READ MORE: Machine Learning Complicates FDA Clinical Decision Support Guidance
+“We aren’t currently using it, but we may look into artificial intelligence more seriously if the radiologists want to take a look at it.”
+Another added that would be “a little bit of a stretch for our physicians,” who are wary of drastic changes to their traditional way of practicing medicine.
+“It sounds really exciting, but I am hearkening back to my nursing days, when we were trying to do clinical pathways,” the participant said. “Physicians were chafed about cookbook medicine and looked with jaded eyes at anything meant to automate their decision-making processes.  Going to AI might take a little bit of time.”
+Even the eager early adopters are taking a measured approach to rolling out these cutting-edge technologies, says KLAS.
+“Many organizations that are live with some form of imaging AI use the tools in a limited way and with lower adoption, typically within a single department (e.g., radiology),” the report states.  “They are using these deployments as pilots to learn more about AI’s potential.”
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Half of organizations with live pilots or implementations in place consider their adoption level “low” as they go through thorough beta testing of new tools.
+“Those who are not live today expect to take a similar path, i.e., lower initial adoption in a controlled, limited setting,” the brief added.
+Most organizations are planning to take their time when it comes to evaluating, purchasing, and implementing artificial intelligence tools.  Among those developing strategic roadmaps for AI adoption, 41 percent are anticipating a one- to two-year timeframe for rolling out new tools.
+A similar number (38 percent) are looking even further into the future, with a three-to-five year vision – or even longer – before AI becomes a meaningful part of their clinical analytics programs.
+“In the meantime, these organizations are requesting demos, discussing potential use cases with peers who are already live, and assessing the AI needs of their radiologists,” KLAS says.
+READ MORE: Can Healthcare Avoid “Black Box” Artificial Intelligence Tools?
+There is plenty to debate and discuss, especially as vendors and health IT developers vie for mindshare in an increasingly crowded marketplace.
+A handful of vendors, including IBM Watson, Philips, GE Healthcare, and Zebra Medical Vision, have surged ahead in terms of market awareness. 
+But with more than half of respondents unable to name any particular vendors well-positioned to deliver meaningful and trustworthy results, the field is wide open for new entrants.
+A $4.26 billion market opportunity will be at stake by 2025, says a recent report from ReportBuyer, leaving vendor and developers with the challenging task of proving that their AI-driven imaging analytics tools will provide value.
+Vendors in the imaging space haven’t necessarily done a very good job of instilling confidence in their customers, the report notes. 
+Few vendors received high marks for relationship-building, training, or keeping their promises, leaving healthcare organizations wary of their existing partnerships, let alone the prospect of adopting a new generation of unproven AI solutions.
+KLAS urges provider organizations to evaluate potential partners thoroughly, ensuring that they meet several basic business criteria in addition to offering clinical technologies that make the grade.
+Organizations should seek out vendors that have a strong reputation for delivering on their promises, and those who are willing and able to definitively outline what those promises are. 
+“A clear discussion about what outcomes will be achieved, when those outcomes will be realized, and the steps that both the customer and vendor need to take to realize the outcomes is key,” states KLAS.
+“An excellent vendor will not only set clear expectations with potential customers but also ensure that all the modules and services customers need to be successful are part of the initial sale.”
+A company that can start with transparency at baseline will be better equipped to develop the strategic, proactive relationships required to make a new technology work in the field, the report continues. 
+Piloting innovative software requires collaboration and flexibility, as well as a willingness for the vendor to engage in comprehensive staff training that may go above and beyond the traditional parameters for education.
+“Top-performing vendors who take steps to remove financial barriers to training, pair end users with trainers who have a similar background, and provide healthy follow-up training are most likely to have satisfied customers,” the report notes.
+Vendors of artificial intelligence technologies may have the added burden of reassuring physicians and other clinical staff that AI will not replace their hard-won expertise.  Tempering anxiety without dampening enthusiasm for AI’s potential is a difficult line for many vendors to walk, so the ability to develop meaningful personal relationships with staff as well as executives will be a valuable skill.
+Lastly, but certainly not least, organizations interested in implementing AI tools should thoroughly assess a vendor’s commitment to data governance and integrity.  Artificial intelligence algorithms require huge volumes of data for training and testing, and an algorithm that is trained on sub-standard data will only be able to produce sub-standard results in practice.
+Understanding at least the foundations of how the algorithm functions and what type of data has been used to support its development will be an important component of selecting a vendor that comes up to par.
+Healthcare organizations seem to be approaching AI implementation with a promising mix of caution, optimism, and careful evaluation. 
+As more vendors release imaging analytics offerings that rely on artificial intelligence and machine learning, organizations that maintain a critical eye and thoroughly vet new technologies are likely to find the most success in this quickly evolving segment of the health IT ecosystem.
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsHealthcare Business IntelligenceImaging AnalyticsMachine Learning
+
+

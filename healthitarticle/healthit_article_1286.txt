@@ -1,0 +1,23 @@
+Predictive Analytics, NLP Flag Psychosis with 100% Accuracy
+
+August 28, 2015
+
+By Jennifer Bresnick
+August 28, 2015 - A predictive analytics algorithm that leverages natural language processing was able to predict the onset of psychosis in high-risk youths with 100 percent accuracy, says a study published in Schizophrenia this month.  Using machine learning techniques, researchers analyzed the speech patterns of thirty-four patients in the proof-of-concept exploration, which aimed to extend predictive big data analytics capabilities to the subjective area of psychiatry.
+“The capacity of psychiatry to diagnose and treat serious mental illness has been hampered by the absence of objective clinical tests of the type routinely used in other fields of medicine,” write the study authors, who hail from a variety of organizations including Columbia University in New York, the Universidad de Buenos Aires, and IBM’s Computational Biology Center. 
+“Although recent years have seen substantial advances in understanding of the neurobiology of mental illness, these developments have yet to yield markers that reliably differentiate psychiatric health from illness at the level of the individual patient."
+"Whereas clinical neuroscience has focused on the brain in mental illness, computer science has, in parallel, developed increasingly sophisticated automated approaches to characterize and predict human behavior.”
+Dig Deeper
+Predictive Analytics, AI for Lyme Disease Gets $800K NSF Grant
+CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+NIH Awards $9M for Open Source, Cloud-Based Big Data Commons
+In both psychology and psychiatry, speech is a primary tool for diagnosis and treatment.  Patients experiencing episodes of psychosis often lose coherence in their speech as thought disorders take hold.  The authors hypothesized that applying natural language processing techniques to the complex speech patterns of these high risk patients may be able to predict the loss of organized expression and subsequent development of psychosis before a human interviewer could pick up on the shift.
+The study examined a small group of help-seeking patients, aged 14 to 27, who were fluent in English.  The patients participated in open-ended, narrative interviews every three months for two and a half years, which were transcribed by an independent service.  The transcripts were then parsed through a natural language processing system that used “a novel combination of semantic coherence and syntactic assays as predictors of psychosis transition,” the researchers explain.
+Five out of the 34 participants in the study were known to develop psychosis within two and a half years of the initial evaluation period, as measured by separate clinically accepted criteria.  The combination of predictive analytics and natural language processing used in the study correctly identified all five members of this patient group, and the results were validated with additional null hypothesis testing.
+While the authors note that the very small sample size may have resulted in a higher accuracy rate than might be apparent in a larger patient cohort, the study does illustrate the potential for predictive analytics to aid the early diagnosis of psychiatric patients.
+“First, reliable identification of individuals likely to progress to schizophrenia would greatly facilitate targeted early intervention,” the authors write. “Second, automated speech assessment, if further validated, could provide previously unavailable information for clinicians on which to base treatment and prognostic decisions, effectively functioning as a ‘laboratory test’ for psychiatry. The ease of speech recording makes this approach particularly suitable for clinical applications.”
+“As a direct, objective measure, automated speech analysis could thus provide important information to complement existing methods for patient assessment,” the study concludes. “Finally, these findings support the use of advanced computational methods to characterize complex human behaviors such as speech in both normal and pathological states."
+"Computerized analysis of complex human behaviors such as speech may present an opportunity to move psychiatry beyond reliance on self-report and clinical observation toward more objective measures of health and illness in the individual patient.”
+Tagged Analytics InfrastructureBig Data AnalyticsMedical ResearchPredictive Analytics
+
+

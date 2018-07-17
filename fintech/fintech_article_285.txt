@@ -1,0 +1,37 @@
+Organisations Must Not Ignore Threat of Coin Mining Malware
+
+March 31, 2018
+
+Organisations must not ignore threat of coin mining malware, warns NTT Security
+
+  NTT Security, the specialised security company for NTT Group, has warned that organisations could be targeted by malware designed for mining cryptocurrency.
+
+ In a new report, researchers at its Global Threat Intelligence Center (GTIC) share their report into a type of malware solely designed to mine Monero (XMR), a form of cryptocurrency affording its users the greatest amount of anonymity.
+
+ At the time of analysis, GTIC researchers found around 12,000 Monero mining malware samples, with the earliest dating back to March 2015. They also discovered that 66 per cent of the samples were submitted from November to December 2017, indicating a dramatic increase in the use of coin mining malware.
+
+ Terrance DeJesus, Threat Research Analyst at NTT Security, said: “The acceptance and adoption of digital currencies mean that investing in cryptocurrency has become a new way to make money. However, generating a profit from mining the currency has become more time consuming and costly. Cyber criminals have therefore taken to developing malware in an attempt to overcome the barriers to entry and generate profits for themselves.
+
+ “Monero mining malware is installed on the victim’s computer or smartphone without their knowledge and, once installed, it uses the victim’s computing resources and electricity supply to mine cryptocurrencies. The rewards go directly to the hacker, not the owner of the computer. Device owners might not suspect a thing.”
+
+ Based on its visibility into 40 per cent of global internet traffic and data from a wide range of threat intelligence sources, NTT Security has revealed that cyber criminals are using phishing emails as the primary tactics to gain a foothold on a targeted system, which attackers can then leverage to mine XMR with the victim’s resources.
+
+ While phishing is the most prominent, the discovery of coin miners in a network environment suggests that more malicious activity could exist in that environment, such as backdoors and unpatched vulnerabilities. The company also found that legitimate coin mining services, such as Coinhive  could be abused and injected into mobile games and websites.
+
+ Investing in cryptocurrency is not a new phenomenon – late 2017 and early 2018 saw a significant spike in the numbers of cryptocurrency investments across the globe. Unsurprisingly, threat actors are using their skills to cash in on the cryptocurrency mining craze and, while crytocurrency values have fluctuated wildly in value since the completion of the report, threat actors continue developing cryptocurrency mining malware to generate revenues to fund their operations.
+
+ Terrance added: “Organisations mustn’t ignore the threat of mining malware. The impact of an attack can go well beyond performance issues. Mining costs organisations money, impacts the environment and causes reputational damage. It could also be indicative of more problems in the network.
+
+ “The use of coin miners will, without a doubt, grow and become more advanced in time, possibly being built into other malware types such as banking Trojans, as well as ransomware. There are serious business implications to ignoring this current threat. We are encouraging all companies to be more vigilant of cybersecurity threats to their business. There are often simple and effective ways to mitigate risks, but too often the most obvious things are overlooked.”
+
+ NTT Security has advised that organisations take the following steps to mitigate the risk of cryptocurrency mining malware penetrating their environment:
+
+ For more information and recommendations, download NTT Security’s advisory paper: https://www.nttsecurity.com/gtic-monero-mining-malware. Or contact PR for a copy.
+
+ About NTT Security
+
+ NTT Security is the specialized security company and the center of excellence in security for NTT Group.  With embedded security we enable NTT Group companies (Dimension Data, NTT Communications and NTT DATA) to deliver resilient business solutions for clients’ digital transformation needs.  NTT Security has multiple SOCs, seven R&D centers, over 1,500 security experts and handles hundreds of thousands of security incidents annually across six continents.
+
+ NTT Security ensures that resources are used effectively by delivering the right mix of Managed Security Services, Security Consulting Services and Security Technology for NTT Group companies – making best use of local resources and leveraging our global capabilities.  NTT Security is part of the NTT Group (Nippon Telegraph and Telephone Corporation), one of the largest ICT companies in the world.  Visit nttsecurity.com to learn more about NTT Security or visit www.ntt.co.jp/index_e.html to learn more about NTT Group.
+
+

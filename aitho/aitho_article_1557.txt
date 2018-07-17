@@ -1,0 +1,27 @@
+AirMap Brings Low-Altitude Authorization And Notification Capability To Third Party Developers
+
+05 Feb 2018
+
+New Feature Enables Digital Airspace Authorization For Ecosystem Of Operators, Developers, And Manufacturers
+AirMap, the world’s leading airspace management platform for drones, announced a feature that makes LAANC, the Low-Altitude Authorization and Notification Capability, available to the entire drone ecosystem. With the FAA’s LAANC initiative, drone operators can apply for digital authorization to fly in U.S. controlled airspace near select FAA facilities.
+Drone developers and manufacturers can now integrate LAANC from AirMap into their own apps through deep linking. Industry innovators 3DR, Betterview, Converge, and DroneDeploy are the first to deploy LAANC Deep Linking from AirMap, now available to all with AirMap’s developer platform.
+In participating apps, drone operators with an AirMap account are able to transfer their flight plan information to the AirMap app with just a tap. Once the authorization request has been submitted, drone operators are automatically redirected to the originating app to complete their flight.
+LAANC is now available at six FAA facilities representing 46 airports. Beginning in April, the FAA plans to expand the LAANC prototype into a national beta. By the end of the year, more than 500 towered airports across the country will begin offering LAANC authorization. 
+Before LAANC, waivers to fly in U.S. controlled airspace could only be obtained through a lengthy application process that can take up to 90 days, often grounding commercial operators before they could take off. Now, drone flights can be authorized within seconds at certain altitudes, opening thousands of miles of controlled airspace for commercial missions that contribute to the drone economy.
+LAANC authorization with AirMap is currently available from: 
+3DR, makers of Site Scan, the complete drone data platform built for construction and engineering professionals.
+Betterview, a building and property insights platform used by insurers to capture, organize, and analyze imagery from drone inspections.
+Converge, an AI-powered app that turns drones into an essential team member working alongside humans to save businesses valuable time and money.
+DroneDeploy, a commercial drone platform that improves industry workflows through scalable image processing, data storage, and collaborative drone maps and 3D models.
+The following integrations will launch in February:
+DroneBase, a scalable, affordable, and easy-to-integrate solution for enterprises to acquire drone imagery and data from its global pilot network.
+Measure, the Drone as a Service company that provides complete solutions to acquire, process, and deliver actionable aerial data to enterprise customers.
+Ben Marcus
+“With the LAANC beta launching nationwide by the end of the year, AirMap’s deep linking feature will bring digital authorization to an entire community of U.S. drone operators and developers eager to reach new heights,” said Ben Marcus, CEO of AirMap. “Thanks to LAANC, more airspace is open for business, and commercial drones have more opportunities to contribute to our economy and benefit our daily lives.”
+“With this integration, it’s easier than ever for our customers to fly safely and confidently in the FAA’s controlled airspaces,” said Chris Anderson, CEO of 3DR. “This is a big next step in making commercial drones an essential tool on projects across the country.”
+Paul Quimby
+“LAANC is a key factor in seamlessly deploying drones in the commercial world,” said Paul Quimby, CTO of Converge. “Previously, we had users waiting up to 90 days to fly in restricted airspaces. Now, with a simple tap, our users can instantly request authorization to fly in airspaces from the FAA. By incorporating AirMap’s Deep Linking into our app, Control Tower, we are taking the next step in making drones a powerful accelerator of businesses’ existing workflows.”
+“AirMap’s new LAANC Deep Linking has the potential to unlock greater operational efficiency for thousands of DroneDeploy customers across the construction, agriculture, and insurance industries,” said Ian Smith, Business Development Lead at DroneDeploy. “As a key technology partner in the industry’s largest drone app market, AirMap continues to help our customers operate safely.”
+AirMap is the world’s leading airspace management platform for drones. Millions of drones, hundreds of drone manufacturers and developers, and hundreds of airspace managers and stakeholders rely on AirMap’s airspace intelligence and services to fly safely and communicate with others in low-altitude airspace.
+
+

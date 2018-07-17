@@ -1,0 +1,18 @@
+Will the impact of ICD-10 on analytics be “minimal”?
+
+September 27, 2013
+
+By Jennifer Bresnick
+September 27, 2013 - ICD-10 might have a major impact on the way providers and payers do business, but will the benefits to analytics be minor?  Despite some experts believing that ICD-10 will provide a foundation for better health information management, others think it really won’t help all that much.  Dan Riskin, MD, CEO and co-founder of Health Fidelity, is one of those who doesn’t see much value in ICD-10 for the HIM world.  He sat down with HealthITAnalytics to give his opinion on how the revolutionary new code set will truly affect analytics and patient outcomes.
+“ICD-10 will only give us minimal bang for the buck.  The reason is that the challenge is not that we’re lacking granularity,” he explains.  “Our weakness in analytics is not that for a femur fracture, we can’t tell left from right.  When we’re looking at population management, it’s not that we believe the left femur fracture is so much different from the right.”
+“Our weakness is that we don’t have a rational infrastructure.  We’re starting, but we don’t have the breadth of content we need to adequately represent the patient.  All we have is this tiny bit of claims data, but the best we’ve ever gotten is 20% of clinical information into claims data.  So ICD-10 is trying to make that tiny bit of claims data just a little better.”
+“But these marginal improvements will not show through to doctors, because they’re not really looking for that.  It won’t show through to patients, because they’re not looking to have their left femur fracture treated better than the right.  What they want is really better care, and just a little more granular information isn’t going to make a difference.”
+Dig Deeper
+Eye Docs Looking for Big Data, Population Health Analytics Research
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+How Big Data Analytics Underpins Every Healthcare Trend
+Riskin’s dim view of ICD-10 doesn’t seem to give providers much incentive to go through the massive transition process, which is both time-consuming and expensive.  Is there anything ICD-10 is good for?  “It might help payers,” he admits.  “It might give them better insight.  But if you look at the sliver of insight they have right now with ICD-9 on claims data, it’s really only a slightly bigger sliver with ICD-10.”
+The problem really lies in the fact that most of the clinical information collected by physicians is locked away in free-text input, unavailable to analytics programs designed to crunch standardized data to report on opportunities for improvement.  Read more about what Dr. Riskin has to say on the future of analytics and the use of the full clinical record in part one of this interview.
+  Tagged Analytics InfrastructureApplied AnalyticsClinical AnalyticsICD-10ICD-10 AnalyticsPopulation Health Management
+
+

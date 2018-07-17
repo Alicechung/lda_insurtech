@@ -1,0 +1,38 @@
+Machine Learning Offers Timely Predictive Analytics for AKI
+
+November 28, 2017
+
+By Jennifer Bresnick
+November 28, 2017 - A machine learning algorithm may help make it easier and quicker for providers to detect acute kidney injury (AKI) in hospitalized patients, according to a new study published in bioRxiv. 
+The machine learning approach was more accurate than existing predictive analytics techniques, and was able to better detect impending AKI at 72 hours before onset than other methodologies.  Providers may be able to use the advanced notice to prevent long-term kidney damage in high-risk patients.
+AKI affects between 5 and 7 percent of all hospitalizations, said the research team from UCSF, Stanford, Kaiser Permanente, and Dascena, Inc., The condition costs the healthcare system about $10 billion per year, or around $7900 per hospitalization.  Patients experiencing AKI have a higher risk of mortality and may develop chronic kidney disease which requires dialysis or a kidney transplant.
+Reducing the costs and long-term health impacts of AKI is a challenge for providers, who are often unable to diagnose and proactively treat the condition in a timely manner. 
+Improving the health system’s predictive abilities by flagging even small increases in serum creatinine levels could help organizations deliver treatment or change the course of therapies quickly enough to prevent permanent kidney damage.
+READ MORE: Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+“Electronic health records present an opportunity to utilize machine learning techniques for predicting AKI and sending automated alerts for individual patients at risk of developing AKI,” the study suggests.
+“Several studies have assessed clinical decision support (CDS) tools for early detection of AKI, but many of these tools suffer from a variety of design and performance problems.
+Common issues include lackluster predictive ability, and poor implementation of alarms and alerts, as well as “heavy tradeoffs between sensitivity and specificity, and restrictions to limited patient populations such as ICU, post-cardiac surgical, or elderly patients,” the researchers explain.
+In an effort to explore whether or not machine learning can overcome these problems, the team gathered nearly 350,000 patient records from Stanford University Medical Center in California and Beth Israel Deaconess Medical Center based in Boston.  Around 70,000 patient records were used to train and test the classifier.
+The team used the vetted and widely-utilized NHS England AKI Algorithm as the gold standard with which to compare the performance of its machine learning algorithm.  The NHS risk calculator divides AKI into three stages of severity based on the ratio of serum creatinine with benchmarks.
+READ MORE: Artificial Intelligence in Healthcare Gets Cheaper and Quicker
+The machine learning program outperformed the gold standard when asked to predict the likelihood of AKI at 0, 12, 24, 48, and 72 hours before onset.  The tool performed similarly well on both datasets, indicating that its results are repeatable with different patient cohorts.
+“Based on these results, we believe this MLA could potentially provide clinicians the opportunity to improve patient outcomes by earlier AKI detection and subsequent intervention,” the authors said.
+“The measurable benefits of focusing on AKI prediction could allow clinicians to more rapidly determine the cause of patient deterioration, and thus administer appropriate treatments in a more timely manner.”
+The authors do point out that because the study used retrospective data, it could not draw conclusions about the performance or accuracy of such a tool in a real-time clinical setting.  “In prospective settings, if the algorithm is implemented on patient populations which differ substantially from those used in this study, the predictive performance of the algorithm may differ,” the team noted.
+And because there are different industry guidelines for the definition of AKI, the tool may perform differently when compared against other industry standards, they added.
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Nonetheless, the tool adds to the growing body of research indicating that machine learning is a promising approach for enhancing predictive analytics, especially in the inpatient setting.
+Earlier in 2017, researchers from UPenn Health System shared results from a machine learning algorithm that could identify patients developing severe sepsis or shock 12 hours before onset of the potentially deadly condition.
+Providers receive real-time alerts in the EHR when the algorithm flags a potential problem, explained Craig Umscheid, MD, of the Hospital of the University of Pennsylvania.
+“We were hoping to identify severe sepsis or septic shock when it was early enough to intervene and before any deterioration started,” he said at the time.
+“The algorithm was able to do this.  This is a breakthrough in showing that machine learning can accurately identify those at risk of severe sepsis and septic shock.”
+Other machine learning efforts have focused on aiding pathologists and oncologists with the diagnosis and expected course of certain cancers, such as breast cancer and leukemia.  Using pattern recognition and imaging analytics techniques, these algorithms can highlight abnormalities too small to consistently catch a human clinician’s eye.
+“Our method yields state-of-the-art sensitivity on the challenging task of detecting small [breast cancer] tumors in gigapixel pathology slides, reducing the false negative rate to a quarter of a pathologist and less than half of the previous best result,” said researchers from Google in March.
+“Our method could improve accuracy and consistency of evaluating breast cancer cases, and potentially improve patient outcomes.”
+Predictive analytics driven by machine learning offer another important benefit for patients and providers, pointed out the AKI research team. 
+“The machine learning algorithm also may provide advantages over manual AKI detection methods, which may not be implemented unless a physician already suspects AKI,” they said. 
+The ability to let providers to be proactive in their treatment approaches, whether or not they are specifically scanning a patient’s record for AKI or other serious condition, is one reason why machine learning tools are generating such interest in the healthcare industry.
+As similar predictive tools move from the laboratory into the real-world clinical setting, providers may be able to access actionable insights to improve patient outcomes in a speedier, more reliable, and more accurate manner.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareChronic Disease ManagementHospital QualityMachine LearningPatient SafetyPopulation Health Management
+
+

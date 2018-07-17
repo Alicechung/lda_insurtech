@@ -1,0 +1,38 @@
+Aether To Launch AI Organ Printing Software
+
+12 Apr 2018
+
+Will collaborate with researchers at Harvard Medical School to develop integrated organ printing system
+Aether announced the upcoming launch of its latest product, Artificial Intelligence powered medical imaging software that will dramatically advance the development of 3D organ printing technology. Aether further announced a landmark collaboration with Jang Laboratory for developing Advanced Biomaterials and Biotechnologies at Brigham and Women’s Hospital, Harvard Medical School (Principal Investigator: Dr. Hae Lin Jang) to pursue the creation of a completely integrated organ printing system. This collaboration will make Jang Laboratory at Harvard Medical School (“HMS”) the first software testing location, allowing researchers and clinicians at HMS to participate in the development of this transformational product prior to a public release.
+Once we learned AI is the only way bioprinting can reach its full potential, we set out to develop software that would bridge the gap between science-fiction and reality
+Aether’s new software enables automatic segmentation of organs and tissues, including ultra-simple conversion to single or multi-material printable 3D files.
+This allows doctors and researchers to increase the impact of their work, accelerate productivity, and expand the possibilities of patient care.
+Aether CEO Ryan Franks said “It’s great that we can say Aether 1 is the only all-in-one 3D bioprinter with the multi-tool capabilities and automation required for organ printing, but the truth is a big piece was still missing from the puzzle. Once we learned AI is the only way bioprinting can reach its full potential, we set out to develop software that would bridge the gap between science-fiction and reality. Aether’s medical imaging AI will be a quantum leap forward, so we can’t wait to get this software out there and experience the impact it has on the medical field.”
+MEDICAL IMAGES BECOME PRINTABLE ORGANS AT THE PUSH OF A BUTTON
+Aether’s new Automatic Segmentation and Reconstruction (“ASAR”) process uses adaptable deep learning models, dynamically combined with an array of AI and image processing techniques. ASAR enables users to segment organs and tissues, and reconstruct them as digital 3D models, which can be used for fabrication, analysis, and other applications.
+The process is completely automatic with no editing tools, calibration, or human intervention required.
+Tasks that may take users of today’s top software multiple hours, ASAR reduces to just minutes or seconds, an enormous advancement for 3D organ printing.
+Aether has successfully segmented multiple organ types with a high level of accuracy across a wide range of CT scan datasets, and plans to extend this capability to virtually all organ and tissue types, across all major modalities, such as MRI, X-ray, and angiogram.
+FIRST DEMONSTRATION OF GROUNDBREAKING TECHNOLOGY
+Aether unveiled an incredible first look demonstration video, which displays the ASAR process for lungs with vasculature. The video gives an under the hood look at the entire process from medical image to “ready to print” file. The video can be seen here: https://youtu.be/NPvWzKRvW1g
+REVOLUTIONARY AI MEDICAL IMAGING SOFTWARE
+Aether’s medical software will use the power of ASAR for applications beyond bioprinting.
+Current medical imaging software is extremely confusing and overwhelming with user interfaces that are cluttered, complex, and intimidating. Aether is developing a radically different user interface, the simplest ever seen in the field. The software will be so intuitive, users won’t need to take an instructional course or even read a manual.
+Placing groundbreaking AI behind a friendly user interface will allow medical professionals and researchers to explore futuristic new realms of 3D visualization.
+The blazing speed of ASAR can exponentially increase the speed of medical image batch processing, enabling doctors and hospitals to increase their effectiveness at a scale that can redefine the potential of their workflow.
+Aether is building a platform which will allow users to interact with medical images in entirely new ways, more powerful, effective, and engaging than anything currently available.
+SYNTHETIC HUMANS TODAY, IMPLANTABLE ORGANS TOMORROW
+The low cost and ease of use of Aether’s AI-powered 3D bioprinting platform will enable hospitals to have on-site organ fabrication systems to create exact replicas of patient anatomy with push-button simplicity. Surgeons will practice for significant procedures with accurate replicas of patient anatomy made from ultra-realistic synthetic human tissue, bone, fat, vasculature and blood. This may decrease surgical errors, provide peace of mind for the patient, and benefit the reputation of the institution.
+When 3D printed organs become a viable transplantation option, a similar process may be followed where synthetic materials are replaced by bio-inks seeded with the patient’s own cells. Producing organs on demand will eliminate risk of rejection and transplant waiting lists.
+Aether’s hardware, software, bio-inks, and upcoming products are building an eco-system to enable researchers to achieve this goal.
+HARVARD MEDICAL SCHOOL COLLABORATION
+Aether will collaborate with the Jang Laboratory at HMS to pursue the development of a completely integrated organ printing system.
+Combining an advanced multi-tool bioprinter, AI, and bio-inks, into an integrated system may potentially deliver the life-saving benefits of organ printing at a significantly accelerated rate.
+In order to maximize the potential of this collaboration, Dr. Jang has joined the world-renowned researchers that comprise Aether’s soon-to-be announced Scientific Advisory Board.
+Dr. Jang has conducted research at Biomaterials Innovation Research Center (BIRC) at Brigham and Women’s Hospital, and has worked alongside some of the biggest names in the field. Dr. Jang has proven to be a forward-thinking innovator capable of making a tremendous contribution to Aether. Dr. Jang’s cutting-edge medical research will keep Aether on the forefront of advanced medical research, while Aether’s agile technology development will ensure Dr. Jang has the tools needed to continue pushing the boundaries of scientific discovery.
+Dr. Jang said “I am excited to participate in the development of an integrated organ printing system, and am looking forward to seeing how a multi-tool bioprinter with AI can enhance our research. I believe this is a revolutionary platform, and hope my advisory role will help Aether empower the worldwide research community.”
+The ongoing collaboration with Jang Laboratory at HMS will provide feedback that will help train Aether’s AI models, as well as guidance which will help set the direction for Aether’s future software projects.
+Additionally, Aether will print multi-material synthetic organ models created from medical images, developing a seamless “Image to Print” process. Dr. Jang’s laboratory may then utilize and modify this process to print organs with real human cells, a tremendous step towards personalized organ printing.
+Dr. Jang’s research includes the printing of functional organs, which will consist of multiple tissue types with different physiochemical properties, using bio-inks able to grow a variety of tissue cell types. Dr. Jang will first print the musculoskeletal system, which incorporates bone, muscle, blood vessels, and nerves. Dr. Jang will then go on to 3D print other organ types.
+
+

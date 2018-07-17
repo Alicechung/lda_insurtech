@@ -1,0 +1,24 @@
+Analogix Introduces ANX7538/39 AR/VR Head-Mounted Display Controllers For Next Generation 4K 120 FPS AR/VR Headsets
+
+07 Jun 2018
+
+SlimPort 4K UHD AR/VR Display Controllers Enable the Highest Resolutions and Fastest Response Times
+Analogix Semiconductor, Inc. today announced its second generation SlimPort ANX7538 and ANX7539 DisplayPort to Quad MIPI-DSI display controllers targeted at virtual reality (VR) and augmented reality (AR) head-mounted displays (HMDs) with eye resolutions of up to 2K per eye (4K total) at 120 frames per second (FPS).
+The ANX7538/39 are the industry’s first VR/AR HMD controllers with built-in support for vertical blanking interval (VBI) expansion capability. VBI provides the option for supporting the demanding blanking requirements for most recent 2K VR displays, independent of the video input, therefore allowing for additional power savings on the DisplayPort receiver interface.
+Read More: Interview With Dr. Spincer Koh, CEO, Gorilla Technology Group
+Michael Ching
+“By integrating the VBI function, the ANX7539 is setting an industry standard for enablement of low persistence in LCD panels, which aids in reducing judder and latency and allows manufacturers to further improve the capabilities of next-generation VR/AR headsets,” said Michael Ching, vice president of marketing for Analogix. “With its D-PHY/C-PHY combo MIPI physical layer support, the ANX7538/39 are compatible with the majority of VR display panels available in the market, as well as next-generation VR panels currently in development, further expanding our extensive VR/AR display controller portfolio.”
+The expanded ANX753x family converts DisplayPort input to MIPI-DSI output offering best-in-class performance:
+DisplayPort 1.4, 8.1 Gbps, and MIPI-DSI 1.3 support;
+HDCP 2.2 and 1.4 content protection support for secure video content distribution;
+VESA Display Stream Compression (DSC) decoder and encoder;
+VBI for fast scan-out on MIPI-DSI interface to reduce persistence in LCD panels;
+D-PHY/C-PHY combo MIPI physical layer for expanded compatibility to more panels;
+Integrated video scaler.
+Read More: Interview With Roy Pereira, CEO, Zoom.Ai
+The ANX7538 and ANX7539 can be used in USB Type-C™ and non-USB Type-C applications and can manipulate a variety of video scan modes. The integrated video scaler ensures that the VR HMD achieves optimal video resolution, as it is often the case in full-function USB Type-C VR HMD applications.
+ANX7538/39 samples are available in Q3 2018 and will ship in mass production in Q1 2019. Existing customers wanting to migrate to ANX7538/39 can use the ANX7530VH, which is pin-compatible and is available now.
+Analogix Semiconductor, Inc. designs and manufactures semiconductors for the digital multimedia market, from portable devices such as smartphones to high-end graphics cards and large, high-definition displays. Analogix is the market leader in providing end-to-end interface connectivity semiconductor solutions for DisplayPort, including the SlimPort family of products, and an industry leader in mobile display controllers, such as low-power, high-speed timing controller solutions. The DisplayPort standard is an innovative, packetized digital interface for high-resolution video and audio that was developed by the Video Electronics Standards Association (VESA). SlimPort branded products are compliant with DisplayPort, Mobility DisplayPort (MyDP), and DisplayPort Alternate Mode over the USB Type-C connector.
+Read More: Interview With Laszlo Kishonti, CEO At AImotive
+
+

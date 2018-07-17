@@ -1,0 +1,21 @@
+EHR, Biobank Data Uncovers Genetics of Personalized Medicine
+
+May 11, 2017
+
+By Thomas Beaton
+May 11, 2017 - Research led by Vanderbilt University Medical Center (VUMC) and University of Arizona’s College of Pharmacy effectively used EHR and biobank data to create a database that identifies specific genetic traits influencing personalized medicine.
+The researchers analyzed 30,000 genetic samples stored in BioVU, Vanderbilt’s genomics databank, linking the information with EHR data to develop a comprehensive portrait of autoimmune disease patients.  
+The EHRs from these individuals were screened for the presence of nearly 1,400 different phenotypes that could be linked to human leukocyte antigens (HLAs), which regulate the body’s immune system.
+Dig Deeper
+How Precision Medicine Will Shift from Research to Clinical Care
+EHRs, Value-Based Care Constrain Personalized Medicine Progress
+Point of Care Diagnostics Usher in Era of Personalized Medicine
+Previously, researchers were only able to review a handful of diseases at a time. But the new approach allows scientists to study many diseases at once.
+By undertaking a "phenome-wide association study,” or PheWAS, the team scanned several patients’ entire "phenome" of all health characteristics as noted in their corresponding EHRs.
+"To my knowledge no other investigations have made this level of data available" to the wider research community, said co-author Jason Karnes, PhD, PharmD.
+This lead the team to believe that other researchers can make the research process for personalized medicine more efficient through the use of biobank data and patient EHRs.
+"In one fell swoop we essentially replicated decades of research on autoimmune associations with the HLA," said Karnes.
+The study was made possible by DNA databases maintained at VUMC and the Marshfield Clinic Personalized Medicine Research Project in Marshfield, Wisconsin.
+Tagged Clinical AnalyticsEHR AdoptionGenomicsPersonalized MedicinePrecision Medicine
+
+

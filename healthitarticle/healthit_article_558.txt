@@ -1,0 +1,33 @@
+Chronic Care Management Improves Pediatric Outcomes by 20%
+
+February 28, 2017
+
+By Jennifer Bresnick
+February 28, 2017 - A comprehensive chronic care management program at Cincinnati Children’s Hospital (CCH) helped to significant raise performance on certain pediatric outcome measures and streamline quality improvement, says an article published in the Joint Commission Journal on Quality and Patient Safety.
+Eleven out of eighteen care management teams participating in a quality improvement program boosted their performance on targeted chronic disease outcomes by at least 20 percent after implementing the evidence-based patient care strategies, which leveraged health IT tools and risk stratification techniques.
+About one in five children in the United States has a chronic condition or specific healthcare need that must be managed appropriately, says the study, but up to half of patients may not receive services that adhere to industry best practices for their conditions.
+“Often the care is episodic, oriented toward acute events, and does not include the longer-term, longitudinal elements critical to achieving better outcomes,” writes lead author Jennifer Lail, MD, FAAP, Assistant Vice President of Chronic Care Systems and Associate Professor of Clinical Pediatrics at Cincinnati Children’s.
+“Hospitalizations for children with chronic and complex conditions are consuming an increasing portion of inpatient care and resources.  To optimize clinical and functional outcomes, these children also require outpatient, specialty-based follow-up after discharge. Improving the health care system's ability to deliver effective, evidence-based chronic condition care in the outpatient setting is becoming increasingly important.”
+READ MORE: Population Health, Big Data Strategies Could Reduce $2B Waste
+In 2012, CCH started a quality improvement program to address these shortfalls, enlisting eighteen different teams in pediatrics and surgical care to fine-tune care processes for conditions, including juvenile arthritis, asthma, chronic kidney disease, epilepsy, food allergies, cardiomyopathy, certain mental and behavioral health conditions, and sickle cell disease.
+The teams were tasked with developing standardized care plans, creating condition-specific patient registries, and using risk stratification to target interventions to appropriate patients.  Among their goals were the effective use of health IT systems, increased patient and family engagement, better care coordination, and the integration of pre-visit planning and standardized processes into the care plan.
+Each group included physicians, nurses, care managers, mental healthcare providers, and social workers while also integrating family members and caregivers into the management process.
+“They were guided by the Team Roadmap for Improving Care for Children and Adolescents with a Chronic Condition and supported by a multidisciplinary implementation team consisting of a QI consultant and data analyst affiliated with their division, an Epic analyst from Information Services, a clinical practice consultant from Patient Services (Nursing and Allied Health), volunteer parent advisors, and internal experts in evidence, measures, and chronic care,” the article adds.
+The patient registry, based in the electronic health record, was a key component of success, added Lail.  Using a combination of manual and automated curation and analytics processes, the registry flagged patients at risk of falling through gaps in care and delivered reports on patients who missed appointments, exhibited self-management issues, or had unmet psychosocial needs.
+READ MORE: Which Population Health Companies Get Top Marks for Value?
+The registries helped the teams stratify patients into three main risk buckets based on the clinical and socioeconomic complexity of their cases and produce pre-visit planning (PVP) documents to ensure that providers addressed pertinent issues during each appointment.  PVP notes were embedded into the EHR for easy access.
+Source: Joint Commission Journal on Quality and Patient Safety
+“For children stratified at the highest level of medical complexity, processes were standardized to identify interim health care encounters, clinical services/referrals needed, and a child's indicated lab/imaging needs in advance of a clinical visit,” the study explains.
+“Some teams obtained parent input prior to the visit via phone calls by clinic staff, questionnaires on paper and electronic tablets, and, in some cases, use of an EHR patient portal.”
+Out of the 27,221 active patients included in the study, more than 50 percent achieved improved outcomes, the study found. 
+By the end of the study in October of 2015, eighty-three percent of care teams were regularly using an electronic template to plan care before a child’s visit, while 89 percent had stratified their chronic disease patients by clinical or psychosocial risk. 
+READ MORE: How to Get Started with a Population Health Management Program
+More than half used the registry to highlight care gaps for population health management.  Close to three-quarters were conducting self-management assessments to ensure patient adherence to care plans.
+Lail and her colleagues note that Cincinnati Children’s did not add any new full-time employees to implement the quality improvement project, indicating that such efforts can be cost-effective for providers.
+“Our results suggest that, by implementing quality improvement methods and with multidisciplinary support, clinical teams can manage diverse populations with chronic conditions and improve their outcomes,” the study says.
+Teams that received more support from division directors were more likely to be successful, the article added, and groups that developed strong interpersonal bonds, accepted input from multiple stakeholders, and engaged patients and their families in care planning appeared to achieve better results.
+ “Our strategy was the delivery and measurement of the right care to each patient, data feedback to clinical teams, and planned, deliberate population management strategies for groups of children/youth with a specific chronic condition, while identifying and addressing the family's self-management needs,” the article concludes.
+“With collaborative support for population management, outcome measurement, and implementation of components of the Chronic Care Model guided by QI methodologies and data analytics, clinical teams can improve outcomes for their pediatric patients with chronic conditions.”
+Tagged Analytics InfrastructureChronic Disease ManagementPatient EngagementPopulation Health Management
+
+

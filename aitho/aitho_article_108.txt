@@ -1,0 +1,17 @@
+TomTom Mapping Data To Power End-To-End Analytics Platform
+
+06 Jul 2018
+
+Alteryx customers can now accelerate development of data science and analytic models with TomTom’s Map Data and APIs
+TomTom (TOM2) today announced that its comprehensive mapping data will be offered to Alteryx, Inc. (NYSE:AYX) customers as part of its self-service, end-to-end analytics platform. Alteryx is a data science and analytics company that helps companies to turn data into actionable insights. Building on a relationship of over 15 years, TomTom now becomes the sole map supplier for the Alteryx analytics platform, offering Alteryx users access to the highest quality mapping data – and thus geographic context – for their spatial analysis application development. In addition, for select countries, TomTom’s Maps APIs will be available in the Alteryx analytics platform, providing industry-leading geocoding and reverse geocoding capabilities.
+“TomTom is proud of its long standing relationship with Alteryx, and we are thrilled to continue offering the incredible insights our map data and Maps APIs can provide to their customers.”
+With TomTom mapping data, Alteryx users can analyze their customer data in relation to things like retail locations. They can also compare competitor locations to their own, and perform drive time analysis for desired demographic segments before determining the location of retail stores. These capabilities are an essential part of the Alteryx analytics platform. Customers in more than 70 countries across the globe have deployed the Alteryx platform.
+Anders Truelsen
+“With map visualization functionalities in the Alteryx analytics platform, users can gain insight with geographic context,” said Anders Truelsen, Managing Director of TomTom’s Enterprise Business Unit “TomTom is proud of its long standing relationship with Alteryx, and we are thrilled to continue offering the incredible insights our map data and Maps APIs can provide to their customers.”
+Read More: Working Together To Strengthen The Lives Of Rural Americans
+Dean Stoecker
+“Our long-standing collaboration with TomTom is demonstrative of our commitment to empowering customers with the data they need to solve analytic challenges directly within our platform,” said Dean Stoecker, CEO of Alteryx. “Our customers trust and leverage TomTom’s mapping data as a critical piece of the spatial analysis puzzle, providing geographic context.”
+TomTom is relied upon by technology companies, geographical information systems (GIS) providers, government bodies and traffic management institutions across the globe to deliver industry-leading mapping products that create location-enabled applications.
+Read More: UK And France To Strengthen Ties In Artificial Intelligence And Data
+
+

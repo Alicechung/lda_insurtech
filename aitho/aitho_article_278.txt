@@ -1,0 +1,36 @@
+Tru Optik Announces First Measurement & Validation Solution For Audience-Based Advertising Across OTT
+
+18 Jun 2018
+
+IHS, Experian, TiVo, Dataline And Others Partner With Tru Optik On Breakthrough Connected TV Measurement Solution
+Tru Optik, the leading audience intelligence and data-management platform across over-the-top (OTT) and connected TV (CTV) today announced the full release of its Cross-Screen Audience Validation (CAV) service which provides de-duplicated household-level reach and frequency, device authentication, and advanced audience validation for OTT and CTV campaigns. This announcement marks the end of an 18-month closed beta period during which CAV was available to a select number of marketers, publishers and ad tech platforms.
+Powered by Tru Optik’s 75MM-home household graph, CAV is the only measurement solution with the scale and flexibility required to measure precision audience targets across all CTV devices. CAV will fuel the next phase of OTT’s explosive growth by providing advertisers with reliable, timely answers to four critical questions:
+1.       How many households did I reach?
+2.       How many times did those households see my ad?
+3.       Where were my ads seen (on which screens and which networks)?
+4.       What percentage of my audience and impressions were in target?
+Timely answers to these questions support in-campaign course corrections and provide a basis for make-goods when CTV ads are inadvertently delivered to a desktop or mobile device.
+Read More: Founder Of Tetris Henk Rogers To Serve As An Advisor For BLMP Network
+Andre Swanston
+“CAV is a major milestone that allows campaign measurement across Connected TV to catch up to consumer viewing behavior and lets advertisers realize the promise of audience-based TV advertising,” said Andre Swanston, co-founder and CEO of Tru Optik.
+Seventy-five percent of US households now have Connected TVs, with CTV accounting for over a third of all TV viewing in those households. Legacy video measurement and campaign validation solutions have not kept pace with the massive consumer shift to OTT and CTV:
+TV measurement panels lack the scale required to reliably measure ad exposure for specific audience targets distributed across a myriad of CTV devices and platforms.
+TV panels are geared to measure age and gender, the dimensions that define the vast majority of “targeted” linear TV buys to this day. However, age and gender account for less than a third of CTV ad buys, most of which surgically target specific audiences like “in-market minivan buyers” or “frequent movie-goers.” Validating ad delivery to granular, ever-changing targets like these requires massive data sets that are continuously refreshed as opposed to static sample-based systems like audience panels.
+For digital video campaigns, legacy validation focuses on viewability, completion rates, and fraud detection – important concerns in online environments but non-issues for CTV, where all ads are full-screen, completion rates average 98 percent, and there is no bot activity.
+Read More: Cognizant’s Netcentric Named 2018 Adobe Experience Cloud Partner Of The Year In EMEA
+David Wiesenfeld
+“The industry’s ability to provide meaningful TV campaign measurement has not kept up with the changing viewing habits of consumers or the targeting choices now available to advertisers,” said David Wiesenfeld, Chief Strategist, Tru Optik. “Legacy panel-centric solutions are simply not viable when it comes to measuring and validating OTT campaigns.”
+To fill the void, some CTV publishers and device manufacturers have been building their own audience-based measurement solutions, often predicated on registered user data. However, because the majority of CTV ad inventory exists outside of registered-user environments, registration data is not a viable cross-publisher measurement solution. In other instances rampant password sharing can result in up to half of campaign impressions being served to consumers who do not reside in the same household as the registered subscriber.
+CAV will be available to all OTT advertisers, publishers and ad tech platforms in July. CAV reporting metrics include:
+Impressions (In Aggregate, by Publisher, by Device)
+Unique Household Reach (In Aggregate, by Publisher, by Device)
+Average Household Frequency (In Aggregate, by Publisher, by Device)
+Percentage of Audience In-Target (In Aggregate, by Publisher, by Device)
+Percentage of Impressions In-Target (In Aggregate, by Publisher, by Device)
+Read More: Interview With Dorian Selz, Co-Founder & CEO, Squirro
+CAV is a simple tag-based solution that can be deployed for any OTT campaign, irrespective of device or publisher, and works for both direct and programmatic campaigns. Unlike legacy measurement solutions, CAV also works with apps leveraging server-side ad-stitching technology, which is becoming increasingly popular across OTT.
+Kevin Dean
+“TV can play a key role in connecting with people,” said Kevin Dean, Experian’s president of Marketing Services. “If we can help advertisers properly measure the effectiveness of these campaigns, advertisers can make more informed decisions on future efforts and have more meaningful interactions with their audience.”
+CAV is fully privacy compliant, with all U.S. homes scrubbed against OPTOUT.TV, a privacy register that allows consumers to opt out of audience-targeted OTT ads across all CTV devices and platforms in their home.
+
+

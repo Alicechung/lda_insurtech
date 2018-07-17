@@ -1,0 +1,29 @@
+Alarm Fatigue, Health IT Woes Top ECRI 2017 Patient Safety List
+
+November 08, 2016
+
+By Jennifer Bresnick
+November 08, 2016 - Alarm fatigue, software and monitoring errors, and inadequate cleaning and processing of reusable medical devices once again reign on ECRI Institute’s annual patient safety hazard list. 
+While electronic health records themselves have dropped off the report’s radar, “software management gaps” rank sixth on the hazard list, indicating that providers still have to work on optimizing their health IT systems to ensure patient safety and reduce the risks of harm.
+"Technology safety can often be overlooked when hospital leaders are dealing with so many other issues," says David T. Jamison, executive director, health devices group, ECRI Institute. "As an independent medical device testing laboratory and investigator of technology-related incidents, we know what can go wrong and what steps hospitals can take to reduce patient harm related to specific technologies and processes."
+Infusion pumps are 2017’s top hazard, the report states, due to insufficient attention to workflow steps that could prevent equipment malfunctions.  Clinicians may inadvertently cause harm by failing to check for damage before using the pumps and testing the equipment for issues such as unexpected “free-flow” of medications that may result in overdose.
+“Once commonplace, these simple practices are now often overlooked—perhaps because staff implicitly trust the pump’s advanced safety features,” ECRI conjectures.  “Most large-volume infusion pumps incorporate safety mechanisms for reducing the risks of potentially deadly intravenous infusion errors. These mechanisms have greatly improved infusion safety, but can’t eliminate all potential errors. And the mechanisms themselves have been known to fail.”
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+Infusion pumps aren’t the only bedside devices in need of careful monitoring.  Alarm fatigue has been a fixture on the patient safety hazard list for several years in a row, and isn’t likely to disappear from the rankings any time soon.  In 2017, ventilators are likely to be the most significant culprit.
+Clinicians may become desensitized to critical alarms when too many low-priority alerts fire with irritating frequency, leaving patients at risk for slower responses to issues of immediate concerns.  Alerts may also fail to fire due to incorrect programming or software failures, or may not be communicated correctly to staff members for timely review.
+Last year, general alarm fatigue ranked second on the list.
+“Failure to recognize and respond to an actionable clinical alarm condition in a timely manner can result in serious patient injury or death,” ECRI Institute said at the time.  “Patients face safety risks in a number of different circumstances: when an alarm-worthy condition is not properly detected by a medical device, when the condition is detected but not properly communicated to the provider, or when the provider receives an alarm or alert but chooses to dismiss, ignore, or override the warning.”
+“Addressing clinical alarm hazards in all their forms requires a comprehensive alarm management program that includes stakeholders from throughout the organization.”
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Alarm fatigue is a serious issue that may be exacerbated by the growing number of digital devices used for bedside patient management, but ventilator alarm management in particular is a “unique challenge,” ECRI says in the latest brief, dedicating the third spot on the list to ventilator-related errors.
+“Collecting and analyzing ventilator alarm data can be difficult, making it harder for hospitals to identify where their vulnerabilities lie,” the report says. “And the options for supplementing a ventilator’s alarms—so that the alarm can be noticed outside the patient’s room, for example—are limited. As a result, ventilators will require different methods for studying the problem and different strategies for addressing it.”
+Providers should also be wary of undetected opioid-induced respiratory depression, which may occur when patients receive too many pain management drugs, are already taking contraindicated medications, or have preexisting conditions that raise the risk of respiratory distress, such as sleep apnea.
+Patient data mismanagement, including missing information due to a lack of interoperability or data exchange, may make these types of reconciliation errors more common, the report indicates.  Software management gaps that put patients and patient data at risk rank sixth on the 2017 list.
+Other patient safety issues include staff exposure to radiation in hybrid OR environments, the risk of infection from improperly cleaned or otherwise contaminated equipment, including endoscopes and heater-cooler systems used during heart surgery, and medication dosing errors due to confusing dispensing cabinet setups.
+READ MORE: CDC Focuses on Patient Safety with Expanded Sepsis Education
+“All the hazards selected can, at least to some degree, be prevented by implementing appropriate measures,” ECRI says.  Providers are advised to review these areas of concern and address workflow shortcuts or deficiencies that may increase the risk of harm.  
+How Big Data Velocity Informs Population Health, Patient Safety
+EHR Adoption May Not Reduce Patient Safety, But Does It Help?
+Tagged Data IntegrityHospital QualityMedical Device IntegrationPatient SafetyQuality Of Care
+
+

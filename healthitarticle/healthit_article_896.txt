@@ -1,0 +1,47 @@
+ACO Success Relies on Population Health Management Tools
+
+June 01, 2016
+
+By Jennifer Bresnick
+June 01, 2016 - Healthcare providers who wish to succeed as accountable care organizations have to address a lengthy checklist of tasks, strategies, and technologies long before they can hope to accrue shared savings from Medicare or a private payer. 
+Developing the partnerships and population health management techniques to stratify patients, communicate effectively, meet demanding quality measures, and slash costs can be a difficult journey – and one that is nearly impossible without a robust health IT infrastructure to form a solid foundation of data-driven insights.
+South East Michigan Accountable Care (SEMAC), a physician-owned participant in the Medicare Shared Savings Program (MSSP), has learned that data analytics and population health management technologies are a smart investment for success in the challenging environment of value-based care.
+As a large provider group entering its second three-year stint as a Track 1 MSSP ACO, Executive Director Anthony Vespa is hoping that SEMAC will continue to leverage its evolving health IT programs to accrue additional shared savings in the future.
+“We saved $24 million in our first year in 2012, which led to a performance bonus of $12 million,” Vespa said to HealthITAnalytics.com in an interview. 
+READ MORE: How NPs, PAs Add Value to Population Health Management Teams
+“In the second year, we were on track for almost $12 million in savings, but we fell a little short of our minimum savings ratio, so we did not earn a bonus.  We’re currently waiting for the third year results.”
+An initial contract with a data analytics partner led to a certain level of insight into patient needs and utilization, but “we weren’t seeing the efficiencies we needed,” Vespa explained. 
+“We had to make the effort to push the reports to our providers so they could work on reducing utilization, achieving quality goals, and narrowing gaps in care.  It was becoming too labor-intensive to relay all the information to our providers.” 
+After parting ways with SEMAC’s first vendor and starting a relationship with CloudMedx, the ACO is on track to develop a more seamless approach to generating and sharing the data required to meet the MSSP’s demands.
+“We need data analytics to fill the insight void and help us achieve the efficiencies needed to continue to perform well in the MSSP world,” Vespa stated.
+READ MORE: Real-Time Scheduling Data Helps BIDCO Manage Population Health
+“Population health management is critical.  Not only is it being driven by Medicare, Medicaid, and commercial plans, but it’s necessary for any organization to achieve scalability.  Without population health management technology, it would be impossible to work with your data.  You just wouldn’t be able to do it.”
+Health data exchange connections are helping to coordinate care across SEMAC’s service area, he added.  Admission, discharge, and transfer (ADT) alerts from numerous hospitals in the region, as well as a connection to the local health information exchange, allow physicians to keep up to date on patient activities.
+“We’re getting messages and alerts very efficiently,” said Vespa.  “That allows us to engage our care coordinators to develop an informed, comprehensive discharge plan for patients who are leaving the hospital.”
+The organization is focusing on leveraging these connections to strengthen communication between local hospitals and primary care providers in an effort to reduce preventable readmissions.
+“One of our goals is to identify frequent fliers in the emergency department and get the PCPs for those patients involved to see what actions they can take to help,” Vespa said.  “It’s still early days, but we do feel like we’re making an impact.  Having access to alerts really helps us take action in real-time.”
+READ MORE: Using Health IT to Meet Medicaid Population Health, Socioeconomic Needs
+Like many primary care providers searching for ways to engage patients and expand access to care, SEMAC is looking beyond the basics of clinical services. 
+Connecting with the community and meeting the socioeconomic needs of the group’s elderly patients is an important part of managing Medicare beneficiaries comprehensively to cut costs and improve outcomes.
+“We need to be able to make sure that our patients have food in the refrigerator and that they’re not calling 911 for a ride to the emergency room when they shouldn’t,” Vespa stated. 
+“Our care coordinators have to be involved in making sure that medication reconciliation is being performed so we can prevent a readmission or an ED visit.  We feel more empowered to address those issues than we used to be.”
+“We don’t specifically collect socioeconomic data in the EHR, but we do work with our local senior citizens group to address some of the needs of our elderly patients.  We partner with them for services like transportation and Meals on Wheels.  If we can help our population to overcome some of these issues, then that will lead to better overall care.”
+Patients aren’t the only ones who stand to gain from these population health management improvements, he added.
+“Not only do these tools help up deliver high quality care at low cost and improve the patient experience, but providers also benefit,” Vespa said.  “When you deploy these workflows correctly, they can make providers more efficient.”
+“Our providers have reacted positively to the changes – anecdotally, at least.  They feel very strongly that the connection with patients is important, especially that personal touch.  Because these tools allow them to stay actively engaged with the patient throughout their care plan, they recognize the potential of population health management as a positive strategy.”
+Securing buy-in from providers is especially important in light of upcoming changes to the regulatory environment, which will bring new challenges to organizations looking to get ahead in the era of value-based care.
+“There are so many new requirements in the healthcare industry right now, obviously, and a lot of new programs and regulations,” Vespa said.  “MACRA is coming up quickly, and it is very complex. We are just trying to get our arms around everything when it comes to combing through MACRA.  Just when we thought we were figuring out how to succeed with the MSSP, now we’ve got a whole new ballgame.”
+SEMAC is investigating the possibility of participating in another new program, the Comprehensive Primary Care Plus (CPC+) option recently introduced by CMS.  The model focuses on individualized population health management, and aims to prepare providers for embracing value-based care on a larger scale.
+“It’s something we’re exploring as a possibility – if they identify our region as one of the target areas,” Vespa said.  “It looks promising, so we’re keeping an eye out for that.”
+The CPC+ program and the upcoming MACRA requirements are just more proof that the healthcare industry is preparing to reach the point of no return when it comes for pay-for-performance, he continued.  
+“We can see very clearly that everything is moving towards being more quality-driven, and we are doing our best to adapt to what is going to be required of us.”
+“However, sometimes an early success turns into complacency,” he acknowledged.  “You think you’ve solved the puzzle because you earn some bonus money or see your metrics shift in the right direction, but maybe all you’ve done is taken care of the low-hanging fruit."
+"Then you realize that you need to keep pushing on those quality metrics, and you need to keep improving to generate savings and continue to perform well.”
+Despite the difficulties of keeping ahead of the curve as an MSSP accountable care organization, SEMAC has worked hard to achieve measurable results for its patients, Vespa said, and will continue to explore new avenues for improvement as the future unfolds.  
+“We’re excited to be where we are right now," he said, "and hopefully as we continue to drive value to our providers, we will keep generating positive results.”
+Dig Deeper
+Big Data Analytics Can Bring Value, Visibility to Healthcare
+Do Providers Apply Population Health Management Inconsistently?
+Tagged Accountable Care OrganizationsCare CoordinationInterviewsMedicare Shared Savings ProgramPopulation Health Management
+
+

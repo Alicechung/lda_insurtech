@@ -1,0 +1,30 @@
+Qlik And The United Nations Expand Joint Analytics Initiatives That Enhance Sustainability Missions Across The Globe
+
+06 Jun 2018
+
+The United Nations Commodity Trade Statistics Database (UN Comtrade) Contains Detailed Goods, Imports And Exports Statistics From 1962 To The Present, Reported By Statistical Authorities Of Close To 200 Countries And Areas
+Qlik®, a leader in data analytics, today announced the expansion of its existing strategic partnership with the United Nations to deliver critical and actionable analytics insights to positively effect global sustainability and humanitarian efforts. The United Nations, through the Office of Information and Communications Technology (OICT), is standardized on Qlik’s visual analytics platform to create applications that advance United Nations’ missions. The partnership has grown over the last five years under the Qlik Corporate Social Responsibility program, and is being highlighted through Qlik’s presence at the UN Science, Technology and Innovation Forum. The STI Forum brings relevant stakeholders together to share in sustainability technology and explore collaboration efforts to achieve the UN’s Sustainable Development Goals.
+Read More: How Virtual Nurses Are Elevating Patient Care
+“Unlocking the power of the UN’s vast and varied data sources through analytics is vital in the effort to effect real and sustainable global change”
+“Meaningful progress towards our Sustainable Development Goals requires that we continually leverage innovation,” said Salem Avan, Director, Global Services Division, Office of Information & Communications Technology. “The STI Forum brings together key stakeholders who share in our mission to demonstrate how to best further the UN’s impact through their innovations.”
+The United Nations has a clearly stated mission outlined in the 2030 Agenda for Sustainable Development: “We are resolved to free the human race from the tyranny of poverty and want and to heal and secure our planet. We are determined to take the bold and transformative steps which are urgently needed to shift the world onto a sustainable and resilient path.”
+Read More: Meet 20 Of The Most Powerful Women In The Tech World
+The UN is enabling these transformative steps globally through OICT, driving constant analysis of various Sustainable Development Goals through Qlik applications. This allows OICT to clearly present and share indicators from the massive amounts of available data, identifying and tracking improvements on a wide range of barriers to population well-being.
+Secretariat Self-Service Data Visualization Platform
+Through a partnership with Qlik, initiated in 2015 and renewed in 2017, OICT has built a self-service visualization platform that enables non-IT staff in all departments and offices within the UN Secretariat (including Regional Commissions, offices away from Headquarters and Field missions) to develop and publish dashboards for internal collaboration and formal/informal reporting. To date there are more than 100 apps published and in use within the platform on topics ranging from administrative topics (budget tracking and procurement) to substantive ones (gender equality, peacekeeping troop deployments, capacity development projects, global crime statistics.)
+Read More: How Do You Close The Diversity Gap In Technology Companies?
+Secretariat Management Dashboards
+Complementing the self-service dashboard effort, OICT worked with senior managers to develop standardized dashboards for reports in key administrative areas within the Secretariat. In March 2017, OICT released a series of management dashboards used by senior management and key focal points in areas such as budget & finance, HR, ICT, procurement, travel, and real estate management. There are currently 20 management dashboards used daily to provide up-to-date and readily accessible management reports.
+Security Council Highlights App
+The Security Council Affairs Division within the Department of Political Affairs (DPA/SCAD) publishes an annual report detailing the UN security council meetings held during the past year, with details such as adopted resolutions, presidential statements, and decisions. Starting in 2015, Qlik has been used to provide the official report which is now available online. Starting in 2017, Qlik is also used to publish Monthly Security Council statistics which are publicly available.
+The UN Comtrade Analytics App
+The United Nations Commodity Trade Statistics Database (UN Comtrade) contains detailed goods, imports and exports statistics from 1962 to the present, reported by statistical authorities of close to 200 countries and areas. UN Comtrade is considered the most comprehensive trade database available with more than 3 billion records. Qlik is used to visualize the trade statistics data and make it easier to report.
+Read More: Interview With Dr. Spincer Koh, CEO, Gorilla Technology Group
+Advanced Analytics
+OICT is working on several advanced analytics initiatives through Qlik to provide easier ways for staff and senior management to get answers and gain data insight, including:
+Using natural language text to query Qlik dashboards and display relevant charts “on the fly.”
+Using public data on conflict country GDP data to calculate the cost of conflict and visualize the results within Qlik.
+Using management data (travel compliance, budget expenditure etc.) to build prediction models visualized in Qlik.
+“Unlocking the power of the UN’s vast and varied data sources through analytics is vital in the effort to effect real and sustainable global change,” said Mike Capone, CEO at Qlik. “We’re proud of our partnership and sharing in the UN’s goal of making the world a more sustainable and prosperous one. We look forward to continuing the expansion of our effort to bring essential insights to those on the front lines of global UN transformation initiatives.”
+
+

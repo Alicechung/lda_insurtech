@@ -1,0 +1,36 @@
+How Did We Get Here? A Brief History Of The GDPR
+
+03 May 2018
+
+As Enterprise Hurries To Get Itself #GDPReady, AiThority Takes A Quick Look At The Events In Data Protection In The EU That Led Us Here
+May 25 is the big day! After four years of preparation and debate the GDPR was finally approved by the EU Parliament on 14 April 2016. Enforcement date: 25 May 2018 – at which time those organizations in non-compliance may face heavy fines.
+The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC and was designed to harmonize data privacy laws across Europe, to protect and empower all EU citizens’ data privacy and to reshape the way organizations across the region approach data privacy.
+Let’s take a look at the GDPR Timeline
+1995 October 24th, Data Protection Directive 95/46/EC created to regulate the processing of personal data
+The Data Protection Directive 95/46/EC of 24 October 1995 was the European Union’s answer to the division of privacy regulations across the EU. It’s major goals included the harmonization of data protection laws and the transfer of personal data to “third countries” outside of the Union. It established independent public authorities called Data Protection Authorities (DPAs) in each member state in order to supervise the application of this directive and serve as the regulatory body for interactions with businesses and citizens. It also provided for the allowance of transfers of personal data to third countries, on the condition that said countries were authorized as having adequate levels of protection for the data that would be guaranteed to be comparable to those protections within the EU. Overall, the directive stays true to the original recommendation of the OECD and the core concepts of privacy as a fundamental human right.
+2012 – January 25th, initial proposal for updated data protection regulation by the European Commission
+Although Directive 95/46/EC was meant to bring together the laws of different member states, it was still a directive, which left some room for interpretation during the transposition into individual national law. This fact, along with today’s rapidly changing data landscape, has led to the necessity for another update to the regulatory environment of the EU. The incoming GDPR is a much larger piece of legislation and the changes it brings, along with the impacts it will have among businesses, can be found in our key points summary here. Most importantly, as a regulation and not a directive, it will become immediately enforceable law in all member states.
+The main principles on privacy are still true to form with both the previous directive and the OECD guidelines, however, social media and cloud storage were not a reality in 1995 as only about 1% of the European population was using the internet. With modern technology, we are creating more personal data than ever before, and the processing of that data has become ubiquitous. The GDPR is meant to update the standards to fit today’s technology while remaining general to simply protect the fundamental rights of individuals throughout future waves of innovation.
+2014 – March 12th, the European Parliament approved its own version of the regulation in its first reading
+2015 Trilogue Timeline
+2015 – June 15th
+2015 – June 24th, Meeting Covering
+2015 – July 14th, Meeting Covering
+2015 – September 16-17th, Meeting Covering
+2015 – September 29-30th, Meeting Covering
+2015 – October 15th, Trilogue Covering
+2015 – October 28th, Meeting Covering
+2015 – November 11-12th, Meeting Covering
+2015 – November 24th, Meeting Covering
+2015 – December 10th, Meeting Covering
+2015 – December 15th, Meeting Covering
+2015 – December 15th
+2016 – January Official signing:
+April 8th – Adopted by the Council of the European Union
+April 16th – Adoption by the European Parliament
+May – Regulation will enter into force 20 days after it is published in the EU Official Journal
+2018 – May:
+Following a 2 year post-adoption grace period, the GDPR will become fully enforceable throughout the European Union.
+Read More: Survey: Only 7 Percent Of Businesses GDPR-Compliant As Deadline Looms, Data Privacy Gains Prominence
+
+

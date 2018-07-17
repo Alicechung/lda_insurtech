@@ -1,0 +1,16 @@
+German Elections: Artificial Intelligence Helps Investors Use Voter Opinions For Investment Decisions
+
+31 Aug 2017
+
+Swissquote and the EPFL‘s Social Media Lab are evaluating social media to measure investor sentiment about the German DAX stock index 
+Artificial intelligence in finance: making investment decisions according to the voter opinion
+Swissquote offers strategies for investors to benefit from equity and foreign exchange fluctuations
+German elections: Artificial Intelligence helps investors use voter opinions for investment decisions (PRNewsfoto/Swissquote)
+On 24 September, Germany will elect the lower house of its federal parliament (Bundestag). Prior to the election, financial markets will be particularly volatile, in reaction to winner/loser projections and other surveys of voter opinion. Thanks to a new artificial-intelligence (AI) tool from Swissquote, the leading Swiss online bank, investors can capitalise on these voter opinions to make investment decisions.
+  Today, Swissquote launched the #DE30 Social Sentiment Index, developed in collaboration with the Social Media Lab of the EPFL (École Polytechnique Fédérale de Lausanne). The index summarises and evaluates the opinions expressed on social media regarding the German DAX (stock index of Germany’s 30 largest, public companies).
+An algorithm, with the help of artificial intelligence, identifies investors’ optimistic and pessimistic views. Natural language processing (NLP) is used to interpret the meaning of texts posted to social media. Graph theory is used to determine the context of each text, so that interpretation errors are avoided.
+From this AI analysis, a real-time, consensus opinion can be derived as to whether a given stock is likely to rise or fall and whether the entire market is likely to move up or down. This can guide investors in adjusting or allocating positions in equitieson stock indices and currencies.
+Also for the German elections, Swissquote analysts have also compiled a basket of stocks that should benefit from the pro-European, company-friendly policies of the two major parties (Angela Merkel’s CDU and Martin Schulz’s SPD). Additionally, following the same pattern, Swissquote offers an exclusive market analysis on how to trade the German election through the Forex market. a currency basket of different currency pairs.
+Said Marc Bürki, CEO of Swissquote, “The use of artificial intelligence in finance is still beginning. Our goal is to drive its development, so that it can be used as quickly as possible by the broadest possible audience.”
+
+

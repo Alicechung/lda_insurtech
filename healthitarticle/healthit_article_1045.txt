@@ -1,0 +1,28 @@
+Big Data Analytics to Bring Billions in Healthcare Market Growth
+
+February 12, 2016
+
+By Jennifer Bresnick
+February 12, 2016 - Big data analytics isn’t just a fad for the healthcare industry: it’s a quickly growing, incredibly lucrative opportunity to restructure the way care delivery works. 
+Billions of dollars are on the line for vendors who can successfully prove their value to the provider community, which has an insatiable appetite for the tools and infrastructure to extract actionable data from their electronic health records.
+Estimates for the continued growth of the global healthcare big data analytics market vary somewhat, but recent industry reports all predict a big potential haul for developers and service providers.
+Research and Markets predicts that the sector will grow to more than $34.27 billion by the end of 2022, as federal mandates, personalized medicine, and the expansion of the Internet of Things drives health IT development across the care continuum.
+Dig Deeper
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+Big Data Analytics Resource Center Takes Aim at Pediatric Cancer
+Yale, Epic Partner to Boost Healthcare with Big Data Analytics
+Providers are particularly interested in clinically-focused analytics, the report adds, which may be why the report identifies several top EHR vendors as leading players in the field. 
+Well-known names like Cerner, Epic Systems, McKesson, GE Healthcare, and Siemens are among the companies most likely to come out ahead as the decade comes to a close.
+These organizations will need to focus on building intuitive, interoperable, highly usable interfaces to integrate disparate streams of data into usable levers for precision medicine, population health management, and chronic disease care.
+Vendors may also wish to consider building up their cloud capabilities.  Technavio forecasts that the cloud analytics market for the healthcare industry is likely to grow at a compound annual growth rate (CAGR) of 21 percent until 2020.
+“In 2015, the healthcare industry emerged as one of the biggest consumers of cloud computing and cloud analytics. These cloud-based applications and analytics solutions for the healthcare sector are most popular in developed countries of Americas and EMEA, a trend that is likely to continue through the forecast period,” said Amrita Choudhury, a lead industry analyst for Technavio.
+Thanks to busy health IT growth in the United States and Canada, the Americas account for more than half of the cloud analytics opportunities worldwide. 
+“The text analytics market, in particular, is predicted to reach a market size of over USD 922 million by 2020,” Choudhury added. “Text analytics has several applications in the [financial services and insurance] and healthcare sectors, which is a key factor driving the growth of the market.”
+“The growing demand for text analytics for use in fraud detection and security management applications is another major driver that is expected to accelerate the global demand for cloud analytics.”
+Other segments that are anticipated to see explosive growth over the next few years include the foundational electronic health records market ($24 billion by 2020), patient engagement technologies ($34 billion by 2023), and predictive analytics tools, a $2.4 billion opportunity slated to grow at an 8.6 percent CAGR until 2020.
+The Internet of Things is likely to cut across most of these markets as providers and consumers invest in wearables, sensors, home monitoring equipment, and intelligent medical devices. 
+A November report by Research and Markets predicts an incredible growth rate for the healthcare-specific IoT, which will expand from a $32.47 billion market to a whopping $163.24 billion opportunity by the end of this decade. 
+The Internet of Things ecosystem is divided into two major arenas: physical sensor development and the creation of big data analytics tools, interfaces, and systems that will allow providers to view and utilize the resulting information.  Both require significant overhauls of the patient-provider relationship, the clinical workflow, and the usability of enhanced toolsets to enable improved clinical decision support.
+Tagged Clinical AnalyticsEHR Data AnalyticsHealthcare Big Data AnalyticsHealthcare Internet of Things
+
+

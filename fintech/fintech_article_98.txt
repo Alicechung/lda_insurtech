@@ -1,0 +1,21 @@
+Expert Opinion: Richard Godwin on DTL
+
+June 9, 2018
+
+Richard Godwin, Blockchain Strategy Lead, SEI, shares his opinion on DTL within the Asset Management Industry.
+
+ How big will the impact of Distributed Ledger Technology (DLT) be on the Asset Management Industry as whole? And, how close do you think these changes are to actually happening?
+
+ It will take a little more time for the industry to land on the right platform on which to build. Right now, most proponents are spreading their experiments across various platforms, trying to find the right fit for the various problems they’re attempting to solve. We believe the Corda platform is the closest to production-ready for this industry. Later this year – perhaps Q3 – we’ll start to see use cases finally in production on the Corda platform.
+
+ What are, in your opinion, the main benefits that DLT will bring to Asset Management?
+
+ Reconciliation costs can be effectively eliminated. We can have instantaneous settlement times for financial instruments that currently take up to 45 days to settle. Reduced transactional friction and manual processes are another major benefit. DLT facilitates the automation of many steps in the business work flow process through the use of smart contracts.
+
+ What are your thoughts on the use of other technologies, such as AI, in conjunction with DLT (both in this specific sector, and more broadly)?
+
+ I don’t want to oversell DLT’s impact. It is not a panacea. However, it is extremely valuable given the proper application. Where information sharing is a crucial piece of a business process or transaction, DLT can play a role in creating transparency and real-time access to that information for all participants to the transaction. Trade finance, insurance, healthcare, real estate, and obviously, financial services are examples where I think DLT could have a major impact.
+
+ Click here to read the full article on DTL – Is There Really a Use Case in Asset Management?
+
+

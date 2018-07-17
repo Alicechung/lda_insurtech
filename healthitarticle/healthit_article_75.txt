@@ -1,0 +1,29 @@
+Google Uses Deep Learning, EHR Big Data to Predict Mortality
+
+May 14, 2018
+
+By Jessica Kent
+May 14, 2018 - A deep learning approach that incorporates big data from electronic health records (EHRs) was able to predict inpatient mortality, unexpected readmissions, and long length of stay more accurately than traditional predictive models, according to a study conducted by researchers at Google.
+The deep learning tool was able to analyze more than 46 billion individual data points drawn from the EHRs of over 216,000 patients in two hospitals. The data set included unstructured data, such as free-text clinical notes.
+“EHRs are tremendously complicated,” wrote Alvin Rajkomar MD, Research Scientist and Eyal Oren PhD, Product Manager, Google AI, in a blog post.
+Dig Deeper
+Google Using FHIR, Deep Learning for Healthcare Predictive Analytics
+Machine Learning Can Quiet “Building Crescendo” of EHR Dissatisfaction
+EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+There are thousands of potential predictor variables available in EHRs, making predictive model development a challenging endeavor. Traditional predictive models require the laborious effort of manually selecting or harmonizing the relevant variables to use.
+Predictive models that use deep learning, a machine learning technique, could provide a viable solution to this issue.
+“For each prediction, a deep learning model reads all the data-points from earliest to most recent and then learns which data helps predict the outcome,” Rajkomar and Oren said.
+Together with colleagues at UC San Francisco, Stanford Medicine, and the University of Chicago Medicine, Google researchers developed a deep learning model that would incorporate all the data contained in patient EHRs.
+To ensure data interoperability between the two hospitals, the team incorporated Fast Healthcare Interoperability Resources (FHIR) into the deep learning model.
+The group then compared the accuracy of the deep learning model to that of a traditional prediction model.
+Researchers found that in terms of predicting inpatient mortality, the deep learning model produced an area-under-the-receiver-operator curve (AUROC) score of 0.95 for Hospital A and 0.93 for Hospital B. In comparison, the traditional predictive model produced a score of 0.85 for Hospital A and 0.86 for Hospital B.
+The deep learning model also showed significantly higher AUROC scores for unexpected readmissions. The model produced an AUROC of 0.77 for Hospital A and 0.76 for Hospital B, while the traditional predictive model produced a score of 0.70 for Hospital A and 0.68 for Hospital B.
+For predicting long length of stay, the AUROCs of the deep learning model were 0.86 for Hospital A and 0.85 for Hospital B, compared to the traditional model’s AUROCs of 0.76 for Hospital A and 0.74 for Hospital B.
+“This predictive performance was achieved without hand-selection of variables deemed important by an expert, similar to other applications of deep learning to EHR data,” the group said.
+“Instead, our model had access to tens of thousands of predictors for each patient, including free-text notes, and identified which data were important for a particular prediction.”
+However, the team noted that there were several limitations to the study, including the fact that it was retrospective and that prospective trials will be needed to demonstrate that these models can improve care delivery.
+Still, these results show the potential for deep learning to transform healthcare delivery. Deep learning has previously shown success in predicting seizures and breast cancer. Although unlikely to replace human clinicians, these models could help providers verify their work.
+“Doctors are already inundated with alerts and demands on their attention — could models help physicians with tedious, administrative tasks so they can better focus on the patient in front of them or ones that need extra attention? Can we help patients get high-quality care no matter where they seek it? We look forward to collaborating with doctors and patients to figure out the answers to these questions and more,” Rajkomar and Oren concluded.
+Tagged Artificial Intelligence in HealthcareDeep learningEHR Data AnalyticsFHIRGoogleMachine Learning
+
+

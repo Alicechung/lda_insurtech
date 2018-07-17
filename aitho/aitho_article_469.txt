@@ -1,0 +1,18 @@
+Nitro Solutions Helps Protect Moffitt Cancer Center’s Network
+
+24 May 2018
+
+The Leading Cancer Research and Treatment Facility Protects Its Data From Advanced Cyberattacks With Next-Generation AI Technology, NitroDefender
+Nitro Solutions, the first company to apply unsupervised neural networks to cyber defense, today announced that Moffitt Cancer Center has deployed NitroDefender to protect its network from rapidly-evolving cybercrime and gain complete visibility into its security environment.
+Moffitt is one of the top 10 leading cancer research hospitals in the nation, with more than 5,700 employees and a $2.1 billion impact on Florida’s economy. NitroDefender will help protect the organization’s critical infrastructure and intellectual property, including research methodologies, treatment processes, and confidential records across the cancer center’s networks.
+“Turning on NitroDefender and observing how it operates has been a great experience for our team,” Moffitt’s chief information security officer said. “Powerful visualization coupled with NitroDefender’s ability to combat even previously unknown cyber-attacks is a game changer for our industry.”
+Immediately upon installing NitroDefender, Moffitt gained a 3D visualization of its entire network, including all firewalls, endpoints, systems and IoT devices. The intuitive, graphical interface let Moffitt’s team easily view and understand their network and threat surface, allowing for optimization and security efficiencies. Since operation, NitroDefender has been able to successfully detect and warn against harmful network activity much faster than other solutions, making the security operations center much more efficient.
+Read More: Meet 20 Of The Most Powerful Women In The Tech World
+Unfortunately, healthcare organizations are at increasingly high risk for cyberattacks, as the information they store is exceptionally valuable to malicious actors. Where medical professionals and research scientists see opportunities to help others, hackers only see opportunities for illicit profits and mayhem, with no moral qualms about how many people they hurt.
+Nitro provides a predictive, deep-learning approach with NitroDefender, its advanced AI-powered cybersecurity solution. It provides full-spectrum protection against all cyberattacks, evolving with the threat landscape to protect against internal, external, and even previously unknown threats. NitroDefender is exponentially more powerful than traditional machine-learning solutions, as it builds and refines its own understanding of each network it monitors instead of depending on its engineers to decide what is important in the massive amount of network data it observes.
+Pete Slade
+“We’re extremely proud to help Moffitt protect the sensitive information of thousands of patients and researchers,” said Pete Slade, Nitro’s founder and CTO. “Moffitt has proven itself an industry leader time and time again, and we could not be more excited to have them as a customer.”
+Nitro Solutions is the first company to apply unsupervised deep neural networks to cybersecurity, revolutionizing how organizations protect themselves with NitroDefender. Nitro’s security technology and services provide comprehensive, predictive protection against all threats, including advanced and emerging threats, insider attacks, ransomware, malware and more. Powered by AI, Nitro delivers next-generation threat identification, accelerated response and threat prevention capabilities that keep data safe from even the most elite cyber actors.
+Read More: Interview With Bryson Hill, CEO — Daplie
+
+

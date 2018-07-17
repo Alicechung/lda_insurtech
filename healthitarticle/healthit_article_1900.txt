@@ -1,0 +1,35 @@
+Is your image viewer as universal as you think?
+
+August 11, 2014
+
+By Sponsored Content
+August 11, 2014 - Universal, zero-footprint viewers help clinicians streamline diagnosis, improve result turnaround time and facilitate communication and sharing with patients, but how “universal” must these viewers be to truly deliver on their promises? Here are five key criteria to look for before deploying a universal, zero-footprint viewer.
+Why are universal, zero-footprint viewers in demand?
+Integrating imaging with the IHE and EHR while helping achieve Stage 2 Meaningful Use requirements is a priority for most healthcare organizations and is a key promise of universal viewers. As EMRs continue to evolve technologically and MU stages usher in increasing levels of required patient data management, healthcare organizations will turn their attention to delivering a complete patient medical record that includes images that can be accessed anywhere, anytime. This access improves clinical efficiency and directly impacts patient care.
+When clinicians can read exams and studies more efficiently either for diagnosis or for clinical reference, they can improve report turn-around and achieve higher throughput while still delivering quality results. Universal viewers could also usher in new levels of efficiency with the power to eliminate the “swivel chair” that has become ubiquitous with a myriad of dedicated viewer systems that have clogged and clouded image interpretation.
+What is a universal, zero-footprint viewer?
+READ MORE: Understanding the Many V’s of Healthcare Big Data Analytics
+A universal, zero-footprint viewer (a.k.a., enterprise viewer, univiewer, archive-neutral viewer, PACS neutral viewer), is an optimal viewer that is fast and clinically adept, providing a single desktop for radiologists and referring physicians. It allows institutions to stop using dozens of disparate viewers and instead consolidates image interpretation and referring physician viewing with a single viewer for nearly all clinical needs.
+Just as a vendor neutral archive (VNA) allows for consolidation of disparate archives created by PACS, a universal viewer allows for consolidation of disparate and siloed clinical viewers.
+A truly universal viewer will have all of the following characteristics:
+Universal Content: Support for any “-ology” and any structured or unstructured content
+A true universal viewer must be able to display images of all file types, ideally in their native file format, from any “-ology” stored on any active or archived image database.
+READ MORE: Exploring the Promises of Artificial Intelligence in Healthcare
+Diagnostic image data is stored in one of two formats, DICOM or non-DICOM. The majority of diagnostic medical imaging systems are based on the DICOM standard and produce images in DICOM-conformant formats (e.g., radiology and cardiology departments).
+There are also a number of medical image data sources and departments that produce non-DICOM data objects. In some cases, these objects are images (e.g., a photograph of a mole) and in other cases these objects are clinical information and structured reports associated with the images or studies (e.g., study annotations). Non-DICOM file types may include AVI, PDF, JPEG, MPEG, TIFF, and WAV file formats.
+Universal Platform: Support for any device running any operating system in any location
+A true universal viewer must be able to display images on any platform regardless of operating system, viewing location or viewing device type. Viewing devices may include hospital-based workstations or remote-access mobile devices. Operating systems could include UNIX, Linux, Windows, or iOS with mobile devices running Android, Blackberry OS or iOS.  All platforms must all be supported, universally.
+Universal Audience: Support for any user including clinicians, diagnosticians, nurses, referring physicians, and patients, all with access to a user-friendly and easily-accessible viewer
+READ MORE: EHR Tech Support with Clinical Focus Enhances Patient Care Quality
+While diagnosing and referring physicians and clinicians have traditionally been the primary audience for medical images, patient access to health information is driving a new paradigm for access and sharing of patient care data. A promise of universal viewers is their ability to tailor the viewing experience to the viewing audience. Delivering a workflow and toolset that is audience-applicable is essential for user adoption and satisfaction.
+Zero Clinical Footprint: Support for web-ready viewing that downloads no clinical data to the viewing device
+A “zero” clinical footprint will leave no evidence that images and files were viewed on the device.  No download of clinical information is required, or allowed, during streaming. Patient information is protected through secure web URLs that expire after specific time limits.  Should a network connection be lost, or should a laptop or mobile device crash, no data will remain on the device. No patient data is stored or cached locally.
+Zero IT Footprint: Support for web-ready viewing that requires no download or install of third-party tools like Microsoft ActiveX and Adobe Flash
+Zero IT footprint means that no browser plugins are required to render the image (i.e., ActiveX, Adobe Flash, or other third-party tool).  Zero IT footprint equals zero download.
+At the end of the day, where is the real value in deploying a universal viewer?
+Evaluating the needs of your audience is the first step in determining whether the deployment of a universal, zero-footprint viewer is a priority. Will referring physicians, clinicians, and patients find value in having access to images anytime from any device in any location?  Will referring physicians value 24/7 access? Will clinicians leverage universal viewers to speed evaluations or reference images during examinations?
+More than two hundred million medical imaging procedures are conducted in the U.S. annually in radiology and cardiology departments alone. A complete patient record with all diagnostic images, pictures, videos, and annotations available at all points on the patient’s care continuum is a reality made possible by technology including vendor neutral archives (VNAs).  VNAs consolidate disparate imaging archives delivering that consolidated view through the EMR with the support of universal viewers.
+The ultimate value of a universal, zero-footprint viewer isn’t in its ability to display images anywhere at any time. The ultimate value is in enabling enterprise-wide sharing and access of patient data. That value is largely delivered by vendor neutral archives that “unPAC” siloes of sequestered patient data and free it up for healthcare organizations to access, share, and yes…view (universally)
+  Tagged Analytics InfrastructureData StorageHealthcare Data Management
+
+

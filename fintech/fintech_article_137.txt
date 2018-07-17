@@ -1,0 +1,19 @@
+Payworks Launches P2PE Component Services for Payment Providers
+
+May 24, 2018
+
+Payment technology company, Payworks, announced its latest offering which enables global payment providers to create certified Point-to-Point Encryption solutions for merchants.
+
+ Payworks has expanded its product portfolio with the launch of its Point-to-Point Encryption (P2PE) offering for Decryption Management Services. This allows global payment providers to build their own P2PE solutions for merchants, saving both time and money. Through the same simple and quick integration with Payworks’ payment technology as before, solution providers now gain access to an environment which enables end-to-end encryption and security compliance.
+
+ Since the beginning, payment providers and acquires have had access to enhanced security and PCI DSS compliant technology when working with Payworks. Now, for those providers wanting to go one step further and build complete PCI certified P2PE solutions, Payworks offers P2PE decryption management and support with key management. As a certified and listed P2PE Component Provider, Payworks’ services enable providers building solutions with Verifone and Miura devices to easily integrate the Payworks components, alleviating the complexity of P2PE.
+
+ Payworks’ P2PE Component Services are already live in the market having been integrated into listed P2PE solutions. Payment providers who collaborate with Payworks when building their solutions are at an advantage because they can expect a straightforward validation process by implementing components which are already P2PE certified and will work with a team familiar with the requirements involved in building compliant solutions. Focusing on fewer P2PE domains and working concurrently with Payworks, solution providers can expect a finished product in less time, using fewer resources.
+
+ “At Payworks we always make sure payment providers have access to the most secure and advanced payment technology. Now, we have taken this one step further by providing the building blocks for P2PE solutions,” says David Bellem, CTO & Co-Founder at Payworks. “We understand the broad scope of security compliance and work to ensure the burden and intricacy of P2PE is fully removed, enabling payment providers to enhance their solutions for merchants.”
+
+ About Payworks
+
+ Payworks is the provider of next generation Point of Sale payment gateway technology. Developers of Point of Sale solutions for merchants can quickly and cost-efficiently integrate card payment functionality into their applications, and securely process EMV, contactless and mobile wallet transactions at the Point of Sale. With headquarters in Germany and offices in the U.K., the U.S. and Spain, Payworks provides its technology to leading acquirers and payment providers globally.
+
+

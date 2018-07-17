@@ -1,0 +1,39 @@
+MapR Unveils Major Data Platform Update For AI And Analytics
+
+06 Jul 2018
+
+Leading Platform Lowers TCO and Integrates Storage and Security Across On-Premises, Edge and Cloud Deployments
+MapR® Technologies, Inc., the industry’s leading data platform for AI and Analytics, today announced a series of breakthrough MapR Data Platform advances to speed the operational impact of automated analytics, improve the productivity of developers and data scientists, lower TCO, and streamline security and storage across on-premises data centers, clouds and edge deployments.
+.@MapR Unveils Major Platform Update for AI and Analytics, Lowering TCO and streamlining Security Across On-Premises, Edge and Cloud Deployments #AI #ML
+“Customers have made it clear that traditional approaches to managing and processing data for AI and Analytics leave critical gaps. In response, MapR’s newest innovations enable data scientists and developers to power distributed AI and analytics by leveraging all data for more impactful results,” said Anoop Dawar, senior vice president product management and marketing, MapR. “The continual evolution of the MapR platform is evident in this rich release of new capabilities, built in close collaboration with leading customers, to provide a multi-temperature, multi-protocol on-prem, edge and cloud data platform.”
+Follow Us
+“Integration and data management are at the heart of our advanced Liaison ALLOY® Platform which is designed to solve complex business problems for large global enterprises in healthcare, financial services and other industries. The MapR Data Platform is fundamental to ALLOY’s ability to enable a seamless flow of data securely and at scale for our customers,” said Larry Mieldezis, CIO, Liaison Technologies. “We look forward to the new AI and Analytics capabilities which will provide exciting new advancements to our customers while significantly simplifying security and storage requirements for our ALLOY Platform.”
+Read More: Working Together To Strengthen The Lives Of Rural Americans
+The major platform update from MapR includes key areas of innovation that for the first time extend the data fabric to cloud storage through object tiering; fast ingest erasure coding for more cost-effective, long-term data retention; security innovations to automatically enable security across the environment, a new S3 API supporting next-gen applications and increasing application portability; and an wide array of analytical and real-time streaming enhancements.
+A recent Gartner research note states the need for a new approach citing that “Data growth has far outstripped compute growth, resulting in an imbalance in system architectures. Emerging data-intensive workloads that require data-centric processing — such as AI, high-performance computing (HPC) and IoT — will expose the system imbalance, especially in data movement, resulting in new architectural innovations to address this gap.1”
+Read More: UK And France To Strengthen Ties In Artificial Intelligence And Data
+New Breakthrough Capabilities
+New benefits from the added features and updates of the MapR Platform include:
+Core Data Service Innovations to Speed AI & Analytics and lower TCO
+Policy-Driven automatic data placement across performance-optimized, capacity-optimized and cost-optimized tiers, on-premises or in cloud, with Object Tiering,
+Fast ingest erasure coding that can now be used for capacity-optimized tiers or with high speed SSDs for an optimized analytics tier,
+Native S3 Interface for next-generation applications for direct analytics on operational data and transparent application portability across on-premises and multi-cloud environments,
+Advanced Secure File-based services to ensure corporate security compliance with NFSv4.
+Read More: MoCo Is World’s First To Combine Blockchain, AI, VR, And Video And Data Compression In One Platform
+Simplified Development and Deployment of AI and Analytic Applications
+High performance, continuous processing with Spark 2.3 for structured streaming and machine learning,
+Analytics toolkit support with Hive 2.3 that has over 800 JIRAs resolved,
+Non-programmer enablement to create streaming applications with KSQL,
+Simplified streaming analytics application development with Change Data Capture (CDC) and KStreams,
+Apache Drill 1.14 with expanded SQL support, high performance at scale and query experience with Hue,
+Native language bindings (Python and Node.JS) and efficient queries directly on JSON data types without ETL for faster and easier database applications development.
+Read More: Announcing AI Breakthrough’s Inaugural Award Winners Across Robotics, NLP, Intelligent Assistants
+Streamlined Security and Critical Data Asset Protection
+Volume-based data encryption at rest provides an additional means to prevent unauthorized access to sensitive data. Encryption is also used to avoid exposure to breaches such as packet sniffing and theft of storage devices,
+Secure by Default ensures that data platform security out-of-the-box including core and ecosystem services for new installations with a single click. All data can be stored encrypted and all network connections are encrypted with authentication enabled.
+Partnerships
+MapR partners with leading innovators in cloud computing. MapR also partners with leading software vendors to extend the value of their solutions, and with consulting and system integrator companies that provide consulting services and related implementation, integration, and training services to joint customers.
+“Our clients understand the importance of data and data-driven decision-making in their digital transformation journey,” said Justin Gillespie, principal and analytics practice lead at the Hackett Group. “MapR’s industry-leading data platform not only sets the bar for transformational analytics, AI and machine learning, but they are also delivering a platform that optimizes TCO, security and agility throughout the enterprise, whether in the cloud or on-premises.”
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+
+

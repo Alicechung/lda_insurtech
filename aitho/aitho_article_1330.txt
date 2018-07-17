@@ -1,0 +1,28 @@
+Nokia’s “Conscious Factory In A Box” Concept Anticipates Fast-Changing Manufacturing Needs Of The Future
+
+01 Mar 2018
+
+A Nokia-led group of 12 electronics industry players today unveiled the “factory in a box” concept, showing how manufacturers can stay ahead of the demands of Industry 4.0 through agile production that can be packed, transported and brought back into service in a matter of hours. 
+The group, which started working on the concept in the summer of 2017, aimed to build a single electronics manufacturing line using cargo containers that can be moved to locations as demand dictates. Collaboration was driven by the expected changes in manufacturing sparked by Industry 4.0, including cloud-based solutions, robotics and new electronic manufacturing IoT solutions, all of which will demand greater agility and flexibility from manufacturers. Potential use cases include:
+Building for ‘country of origin’ requirements – The container can be driven to a location, build the required volume, and then be moved again as needed.
+New product introduction – With new products, time to market is a competitive advantage. By moving the “factory in a box” to partners, prototyping can be quickly done and fixes quickly performed and tested.
+Disaster recovery – When a site is hit by a natural disaster, business continuity plans kick in but can take time. With a spare portable factory, critical customer orders can still be achieved in a timely manner.
+In late 2017, the project took a step forward at Nokia’s Digital Creativity Lab opening in Munich, where a cargo container with a collaborative robot assembly station was packed, moved to a new location by truck, then restarted within hours at the new location where small Lego cars were assembled, proving the precision of the machines.
+The final step in the proof of concept was achieved on February 9, 2018, when full electronic manufacturing of a printed circuit board and robotic assembly and testing took place. The group – Nokia, Beta Layout, DHL, Fuji, HARTING, Isel, isoloc, MTEK Consulting, Mycronic, Rehm Thermal Systems, Viscom, and 42Q – now plans to demonstrate this full capability at the Hanover Messe in April 2018.
+The companies contributed the following:
+Nokia: wireless communication for the solution, as well as experience in deploying Industry 4.0 solutions in its own operations
+Beta Layout: support with the PCB
+DHL: leading transportation know-how
+Fuji: SMT manufacturing technology
+HARTING: RFID solution for tracking, tracing and production control
+Isel: workstation support with specialized pallets
+Isoloc: motion softening solution
+MTEK Consulting: operational expertise and robotics
+Mycronic: high-speed jet printing and jet dispensing
+Rehm Thermal Systems: PCB soldering
+Viscom: optical inspections
+42Q: cloud-based manufacturing execution system
+Grant Marshall
+“These factories are perfectly suited to meet regional and innovation startup requirements, and can be as large as needed to meet build requirements by simply adding additional containers to the location,” said Grant Marshall, head of Supply Network and Engineering in Nokia Operations. “This is a new business model Nokia would like to offer to its customers, and we are ready to experiment with this PoC with our first customers in 2018.”
+
+

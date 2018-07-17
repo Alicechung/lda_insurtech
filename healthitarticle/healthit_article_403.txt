@@ -1,0 +1,33 @@
+Hashed Health Blockchain Consortium Grows with Change Healthcare
+
+July 20, 2017
+
+By Jennifer Bresnick
+July 20, 2017 - Blockchain is quickly finding its footing in the healthcare industry as more and more stakeholders join collaborations aimed at bringing the distributed data management technology to the health IT world. 
+Change Healthcare is the latest company to announce its intentions to help build a blockchain environment by becoming a member of Hashed Health, a growing blockchain consortium.
+“We are thrilled to announce Change Healthcare as the newest partner in our growing network,” said John Bass, CEO of Hashed Health. “With a network reaching nearly every payer and provider in the United States, Change Healthcare advances our efforts to create meaningful innovation.”
+“By joining the Hashed Health consortium, Change Healthcare is demonstrating that it understands the potential of blockchain technologies to improve care delivery and now is the time to build the networks responsible for the realization of approaching solutions.”
+Change Healthcare, which includes the former McKesson Corporation, appears eager to become a leader in the healthcare blockchain space. 
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Earlier this year, the company also signed up as a member of Hyperledger, the cross-industry blockchain group that has secured significant interest from the financial, manufacturing, and healthcare sectors. 
+Hashed Health is also a member of Hyperledger, tying the blockchain community even closer together.
+Change Healthcare’s new membership card for Hashed Health shows the organization’s commitment to leveraging blockchain strategies to address pressing business cases in the industry, says Chief Technology Officer Aaron Symanski.
+“Blockchain has potential to enable value-based care, and we’re committed to championing innovation that helps our customers and partners realize that potential,” he said. “We look forward to working with the Hashed Health members to evolve and establish blockchain as a safe, secure, and transparent way to foster financial interoperability in healthcare.”
+One of Hashed Health’s primary projects is the development of a decentralized healthcare provider directory that includes reliable, up-to-date information on a worker’s credentials and practice information.
+READ MORE: By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+“Hashed Health is strategically positioned to begin development of healthcare-specific solutions for streamlining ineffective healthcare delivery models, and to address a range of well-known issues in healthcare,” said Bass in February while announcing Hashed Health’s initial funding round.
+Other use cases for blockchain include ensuring secure and permissioned access to patient data, building well-defined care teams that can communicate reliably and make collaborative longitudinal care plans for patients, and tracking critical supplies such as pharmaceuticals from manufacture to delivery in an effort to improve safety and reduce waste.
+While blockchain-based applications and infrastructure are not yet widely available in the healthcare industry, it may not take too long before organizations are leveraging the technology to manage financial, operational, and clinical data. 
+Adoption is likely to be swift, stakeholders predict.  In a recent IBM survey, sixteen percent of healthcare executives have well-developed plans to implement a blockchain solution by the end of 2017, with an additional 56 percent of organizations following by the end of the decade.
+The Pistoia Alliance, which includes entities from the life science and pharmaceutical industries, anticipates widespread adoption of blockchain-based tools within the next five years.  Precision medicine, drug development, and drug safety are likely to be primary use cases for this segment of the industry.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+A Frost & Sullivan report adds to the certainty of rapid uptake by tapping 2025 as the year when blockchain will support a broad network of emerging strategies, including machine learning and the Internet of Things.
+"A blockchain-based system will enable unprecedented collaboration, bolstering innovation in medical research and the execution of larger healthcare concepts such as precision medicine and population health management,” explained Frost & Sullivan Transformational Health Industry Analyst Kamaljit Behera.
+“Blockchain technology may not be the panacea for healthcare industry challenges, but it holds the potential to save billions of dollars by optimizing current workflows and disintermediating some high-cost gatekeepers."
+The tools and infrastructure to support this new vision of healthcare will likely originate in collaborative consortiums and industry workgroups such as Hashed Health and Hyperledger.
+Health IT experts are already eager to leverage Hyperledger’s recent release of Fabric 1.0, the first widely available open source blockchain development platform which will accelerate the creation of innovative products.
+“Hyperledger Fabric 1.0 is a true milestone for our community,” said Brian Behlendorf, Executive Director of Hyperledger. 
+“After over a year of public collaboration, testing, and validation in the form of POCs and pilots, consumers and vendors of technology based on Hyperledger Fabric can now advance to production deployment and operations. I look forward to seeing even more products and services being powered by Hyperledger Fabric in the next year and beyond.”
+Tagged Analytics InfrastructureBlockchain in HealthcareHealth Data ManagementHealthcare Interoperability
+
+

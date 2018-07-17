@@ -1,0 +1,32 @@
+AHA Debuts Cloud-Based Cardiac Precision Medicine Data Platform
+
+March 16, 2017
+
+By Jennifer Bresnick
+March 16, 2017 - The American Heart Association (AHA) has announced the launch of its cloud-based precision medicine analytics platform, which will allow researchers to access large volumes of patient data on cardiovascular conditions and stroke.
+The Association is urging providers and research organizations to share their datasets to the repository, which is supported by Amazon Web Services, to enhance global knowledge of how to identify, predict, and treat the leading causes of death among American patients.
+“We have blown away the barriers and welcome all to join this game-changing platform that promotes us working together as one community to ultimately benefit patients worldwide,” said Jennifer Hall, PhD, the AHA’s Chief of the Institute for Precision Cardiovascular Medicine.
+Dig Deeper
+Big Data Interoperability a Must for Precision Medicine Progress
+Precision Medicine, Population Health Share Strategies and Goals
+Precision Medicine, Genomics Partnership Boosts Big Data Sharing
+“The platform provides an opportunity to learn, search and discover in new and efficient ways, and we will keep working with the community to weave in new diverse data to help us drill deeper and enrich our understanding.”
+A number of organizations have already lent their data assets to the project.  Founding participants in the initiative include AstraZeneca, Cedars-Sinai Heart Institute, Dallas Heart Study, Duke Cardiovascular Research Institute, Intermountain Health, the International Stroke Genetics Consortium, the National Heart, Lung and Blood Institute (NHLBI), and Stanford University.
+“By working together on datasets we have the ability to test the speed, agility and transparency of research,” said Hall. “With your data and your efforts, the AHA Precision Medicine Platform can help enable your discoveries of novel underlying causal factors of heart failure, new diagnostic biomarkers to predict stroke, or exponential new approaches to precision care for those with cardiovascular diseases and stroke.”
+The platform allows precision medicine researchers to filter datasets to meet the needs of their particular projects, using intuitive visualizations and familiar web-based toolsets.
+Source: American Heart Association
+Users will need to request dataset access in order to download and analyze the data, which will help to ensure proper usage of the information.  The data access process will be facilitated by a platform administrator, who will act as a liaison between the requestor and the owner of the data.
+Once permission is granted, the administrator can create a workspace for the researcher, which will include analytics tools and data storage options.
+“I am so excited for the potential the AHA Precision Medicine Platform brings for doing research across data sets to find consistent research results, and replicate and confirm research,” said Laura M. Stevens, a Predoctoral National Library of Medicine Fellow in the computational biosciences program at the University of Colorado Anschutz Medical School. Stevens is an early adopter of the tool.
+“The platform makes big data analyses much quicker and easier. It’s a great foundation for implementing precision medicine and research in a clinical setting. I can’t wait to see where this will take us as a research community.”
+The web-based platform will help precision medicine researchers overcome some of the basic obstacles of formatting, patient privacy, and interoperability that can often limit access to large-scale data for research purposes. 
+By offering access to normalized data and including safeguards to prevent misuse, the AHA may be able to facilitate the development of a broad community of researchers working off the same standardized dataset to achieve a wide variety of precision medicine goals.
+"The increasing breadth and depth of medical data presents a tremendous opportunity to generate more nuanced and precise pre-diagnoses,” said Gabriel Musso, PhD, VP Life Sciences, BioSymetrics Inc., another early user.
+“However, leveraging this data requires tools capable of integrating data of diverse origin. The AHA Precision Medicine Platform can empower researchers with both the framework and tools to ease the burdens of data harmonization, amplifying the insight available from their own data."
+The AHA is also offering a number of related grant and funding opportunities to encourage data analytics advancements and personalized care discoveries, the press release added. 
+Several grant and fellowship openings provide $150,000 to researchers who can use cloud computing to uncover new patterns in large datasets, identify new biomarkers for cardiovascular illnesses, and improve data harmonization efforts.
+Other grants for individuals and institutions focus on data integration, computational biology, and developing new diagnostics and therapeutics for common conditions such as chronic kidney disease and heart failure.
+Interested users can sign up for an AHA Precision Medicine Platform account by clicking here.
+Tagged Analytics InfrastructureChronic Disease ManagementCloud ComputingPersonalized MedicinePopulation Health ManagementPrecision Medicine
+
+

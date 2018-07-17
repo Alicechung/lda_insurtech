@@ -1,0 +1,24 @@
+Predictive Analytics, AI for Lyme Disease Gets $800K NSF Grant
+
+September 19, 2017
+
+By Jennifer Bresnick
+September 19, 2017 - Researchers at UCLA and Claremont McKenna College will use a three-year, $800,000 grant from the National Science Foundation (NSF) to explore the application of predictive analytics, artificial intelligence, and precision medicine to tick-borne Lyme disease.
+Leveraging the MyLymeData patient registry, which currently includes more than 9000 individuals with Lyme disease, researchers will investigate why certain patients experience severe, prolonged symptoms of the bacterial infection and why others recover more quickly.
+"Big data research is key to advancements in Lyme disease," said Lorraine Johnson, Principal Investigator of MyLymeData and CEO of LymeDisease.org, which developed the database and will collaborate on the grant project.
+Dig Deeper
+University of California Forms Big Data, Precision Medicine Network
+NIH Grants UCSF $11.7M for Pediatric Precision Medicine Equity
+All of Us Precision Medicine Network Expands with $13.8M in Grants
+Few large-scale studies of the condition have thus far been completed, she added, and none have taken advantage of the rapid collection of big data that is now possible with registries and biobanks.
+"The largest government-funded study of chronic Lyme patients enrolled just 129 patients,” said Johnson. “Our goal is not only to gather data to help find a cure, but also to help recruit patients for clinical trials."
+The registry has collected more than one million data points on the nature, severity, and duration of patient symptoms.  Research will focus on using predictive analytics and artificial intelligence to target appropriate therapies to patients most likely to respond to treatment.
+The research effort will be led by UCLA mathematics professor Dr. Deanna Needell and Blake Hunter, assistant professor at Claremont McKenna.
+"The NSF grant will allow us to develop cutting-edge mathematical tools," said Dr. Needell, an expert in deep learning techniques. "Validation of these tools requires a large real-world database, and MyLymeData fits the bill perfectly."
+Similar big data tools are being utilized to fill clinical trials for uncommon or under-studied diseases such as rare cancers, neurological conditions, autoimmune diseases, and pediatric care.
+Private initiatives have been growing alongside the national All of Us precision medicine biobank, which recently entered its beta testing and expansion phase.
+The precision medicine approach, which relies on large-scale patient data collection to ensure enough information on each specific factor in question, allows researchers to develop innovative solutions to the needs of individuals, often based on their particular genetic makeup.
+"MyLymeData is part of an essential shift in research recognizing the importance of precision science, precision diagnostics and precision medicine," said Dr. Raphael Stricker, a San Francisco internist and co-principal investigator. "Without advancements in these areas, the research environment in Lyme disease will stagnate.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareMedical ResearchPersonalized MedicinePrecision MedicinePredictive Analytics
+
+

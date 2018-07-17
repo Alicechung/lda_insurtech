@@ -1,0 +1,14 @@
+Microdrones Participates In NVIDIA Jetson Developer Meetup At Embedded World 2018
+
+09 Mar 2018
+
+The Microdrones Team was pleased to participate in their first NVIDIA Jetson Developer MeetUp event at Embedded World 2018
+You might be asking yourself why Microdrones, which specializes in professional unmanned aerial geospatial applications was at an event hosted by NVIDIA, a company known for creating graphic processors (GPUs) that power modern computer graphics, the largest PC gaming platforms and even enhance cinematic visual effects for Hollywood.
+It’s because the NVIDIA Jetson TX1 module is the main processor housed inside the mdLiDAR1000.  After NVIDIA revolutionized the world of PC graphics with the invention of the GPU in 1999, they moved on to GPU accelerated computing. Today, NVIDIA GPUs play a huge role in accelerating artificial intelligence & deep learning applications, in platforms ranging from vision systems and autonomous vehicles to drones and robots.
+Attending the Developer MeetUp at Embedded World 2018 was an excellent opportunity for Microdrones to share their experience with the use of the NVIDIA Jetson TX1 platform in the mdLiDAR1000, while making industry connections and partnerships.  The future will bring many other opportunities to integrate NVIDA technology with Microdrones UAV solutions.
+At the event, Sven Juerss from Microdrones delivered a presentation on the mdLiDAR1000 system and how the Jetson TX1 is integrated. The NVIDIA Jetson TX1 is a supercomputer on a module the size of a credit card that allows the drone to perform complex analysis much faster.
+Sven Juerss
+Inside the mdLiDAR1000, it acts as the main processing unit, operating the laser sensor and industrial camera while synchronizing data between the GNSS-Inertial system.  The AI supercomputer also relays information about the state of the payload housed by the UAV in communication with the operator.  The NVIDIA Jetson TX1 gives the mdLiDAR10000 the ability to achieve real-time mapping and sensing capabilities that offer instant results.
+Sven Juerss noted that, “NVIDIA Jetson TX1 is the most powerful embedded AI platform on the market. Not only does it offer the shortest processing time, it also allows for future upgrades and continuous improvements to our platform.”
+
+

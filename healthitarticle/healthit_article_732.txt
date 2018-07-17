@@ -1,0 +1,35 @@
+Top Health IT Groups Ask Congress for Patient Identification Tools
+
+October 06, 2016
+
+By Jennifer Bresnick
+October 06, 2016 - Nearly two dozen healthcare providers, professional groups, and interoperability organizations are urging Congress to remove language that prevents the development of improved patient identification tools. 
+In a letter addressed to lawmakers this week, industry representatives encouraged lawmakers to remove legal prohibitions preventing HHS, CMS, and the ONC from investigating the feasibility of a national patient identifier or other large-scale strategy to prevent patient identification errors from causing serious and sometimes deadly instances of harm.
+“The absence of a national strategy for accurately identifying patients has resulted in significant costs to hospitals, health systems, physician practices, and long-term post-acute care (LTPAC) facilities as well as hindered efforts to facilitate health information exchange,” said the letter.
+“More importantly, there are patient safety implications when data is matched to the wrong patient and when essential data is lacking from a patient’s record due to identity issues.”
+The letter is signed by many vocal advocates for improved health data interoperability, patient matching, and patient identification strategies, such as AHIMA, CHIME, The Sequoia Project, HIMSS, the EHR Association, AMIA, and the National Association of Trusted Exchanges (NATE). 
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+Other signees include America’s Health Insurance Plans (AHIP), the Blue Cross Blue Shield Association, Healthcare Leadership Council, Surescripts, the Premier Healthcare Alliance, and several provider groups such as Nemours Children’s Health System and Intermountain Healthcare.
+The impressive lineup of signatories speaks to the growing importance of developing strong patient matching standards to support a growing health data exchange ecosystem. 
+Since 1999, Congressional language has prohibited HHS from using its funds to work on a patient matching solution due to privacy concerns over the potential misuse of a unique patient identifier. 
+However, now that the vast majority of provider organizations are creating digital data through electronic health records and other health IT tools – and the ongoing shift to value-based reimbursement continues to incentivize data sharing and patient-centered care – the industry has been actively lobbying to lift the prohibition that may be causing more problems than it prevents.
+“We’ve made great progress in digitizing the nation’s healthcare system,” said CHIME President and CEO Russell Branzell in a press release. “But if we are going to improve patient safety and care from one provider setting to another, we must be able to ensure with 100 percent accuracy that we properly identify patients and match them to their records and not a different John Doe.”
+READ MORE: SNOMED CT Code Framework Will Aid EHR Reporting, Interoperability
+“Patients deserve to know that the information in their electronic health record (EHR) belongs to them and that it contains all relevant information necessary for informed clinical decision making.”
+Improper patient identification, which often begins at registration, can lead to a “cascade of errors” that may result in wrong-site surgeries, incorrect or delayed diagnoses, or medication and test orders destined for a different patient, the letter says.
+"Accurately matching health information to the correct patient is crucial to reducing potential patient safety risks and improving nationwide health information exchange," said Lynne Thomas Gordon, CEO of AHIMA.
+The letter was penned in response to a promising mention of patient matching in the House FY17 Labor, Health and Human Services, and Education and Related Agencies (Labor-HHS) Appropriations Bill, which indicates that HHS may have some latitude to explore patient identification solutions in conjunction with private industry efforts:
+Although the Committee continues to carry a prohibition against HHS using funds to promulgate or adopt any final standard providing for the assignment of a unique health identifier for an individual until such activity is authorized, the Committee notes that this limitation does not prohibit HHS from examining the issues around patient matching.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+Accordingly, the Committee encourages the Secretary, acting through the Office of the National Coordinator for Health Information Technology and CMS, to provide technical assistance to private-sector led initiatives to develop a coordinated national strategy that will promote patient safety by accurately identifying patients to their health information.
+The letter’s signatories request that lawmakers include this language in any final appropriations bills for fiscal year 2017 in order to officially grant HHS the ability to pursue patient identification and matching strategies through the work of the private sector without violating the funding specifications of previous legislation.
+“The lack of a national strategy to ensure patients are accurately matched to their health information threatens to stall the great progress the healthcare community has made in leveraging information technology to drive improvements in care delivery and health outcomes for patients,” said Carla Smith, Executive Vice President of HIMSS North America.  “In order to move forward, all parties must be at the table focused on developing solutions.”
+Allowing HHS, CMS, and the ONC to use some of their clout to encourage development and coordinate adoption of a national patient matching system may be missing ingredient for the industry, which has been unable, thus far, to brainstorm a solution that could be put into place easily and cost-effectively.
+The groups supporting the letter are eager to work with governmental organizations and each other to create a sustainable and interoperable solution for one of healthcare’s most pressing problems, they added.
+“We are adamant that the quality, safety and cost effectiveness of healthcare across the nation will improve if a national strategy to accurately identify patients and match those patients to their health information is achieved,” the letter concludes. 
+“We appreciate your consideration and inclusion of this report language and we look forward to working with you to pursue an appropriate solution to enable accurate patient identification and data matching in our nation’s healthcare system.”
+The Role of Healthcare Data Governance in Big Data Analytics
+Preventing Big Data Pain Points During a Healthcare Encounter
+Tagged EHR InteroperabilityHealthcare Data GovernanceNational Patient Identifier
+
+

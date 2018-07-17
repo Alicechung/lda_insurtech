@@ -1,0 +1,20 @@
+Harvard Uses Predictive Analytics to Create Heart Disease Score
+
+November 20, 2014
+
+By Jennifer Bresnick
+A simple survey harnesses predictive analytics to flag the potential for cardiovascular disease in clinically well patients.
+November 20, 2014 - A new web tool from the Harvard School of Public Health allows patients to discover their risk of developing cardiovascular disease (CVD) or having a stroke using a predictive analytics model backed by research published in the Journal of the American Heart Association.  The Healthy Heart Score attempts to use lifestyle factors to measure circumstances that may eventually produce heart disease in patients who currently enjoy good clinical health.  The tool hopes to extend the ability of providers to deliver preventative care in the long-term, not just to patients with more immediate concerns.
+“Clinical practice focuses on the prevention of CVD through modification and pharmacological treatment of elevated clinical risk factors in an effort to prevent a cardiovascular event,” the study explains.
+“Physicians spend little time assessing or advising patients on healthy lifestyle behaviors, such as physical activity and diet, particularly among patients classified as low‐risk by the Framingham Risk Score (FRS), and who are the ideal population to target primordial prevention efforts.”
+The study followed more than 34,000 men and 61,000 women for about twenty-four years.  Lifestyle factors were initially assessed in 1986 using a questionnaire.  The authors then used the Bayes Information Criterion to develop a 20-year risk model for a random selection of two-thirds of the participants, which were validated using the remaining one-third of patients.  The highest risk patients, who self-reported a poor diet, little exercise, and the use of tobacco products, were up to seven times more likely than the healthiest, non-smoker patients to experience CVD, the study found.
+Dig Deeper
+VA Falls Short on EHR Use to Document Suicide Risk, Prevention
+Predictive Big Data Analytics Identify High-Risk ED Patients
+Web-Based Health Risk Assessments Accurately Flag Depression
+The tool itself is a simple survey that asks patients basic questions about their diet and exercise habits.  It also collects information on height and weight, smoking and alcohol, use, and prior cardiovascular health.  “To our knowledge, the Healthy Heart Score is the first prediction model to assess CVD risk formally based on healthy lifestyle factors,” the study says.  The authors note that the model is not inclusive of all possible lifestyle factors that have an effect on the development of CVD, but can distill a large range of questions into a relatively brief assessment patients can complete at home, in the waiting room, or with a physician.
+“The use of a tool such as the Healthy Heart Score may facilitate clinicians in the assessment of a limited number of critical lifestyle factors in an effort to identify individuals at high risk for CVD,” the study adds. “Furthermore, this lifestyle‐based tool may heighten awareness to explore true primordial prevention through interventions on underlying unhealthy behaviors to prevent the development of risk factors initially, rather than treating risk factors only when they become elevated.”
+The Healthy Heart Score tool is available for free online by clicking here.
+Tagged Chronic Disease ManagementPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,50 @@
+Verma: CMS Will “Use Every Lever” for Promoting Interoperability, Data Access
+
+April 25, 2018
+
+By Jennifer Bresnick
+April 25, 2018 - The Centers for Medicare and Medicaid Services (CMS) is doubling down on its commitment to health data interoperability and ensuring that patients have comprehensive access to their own health data, said CMS Administrator Seema Verma in an interview with HealthITAnalytics.com.
+Over the course of the EHR Incentive Programs, the healthcare industry has made significant progress towards actionable interoperability, Verma acknowledged. 
+But providers, technology developers, payers, and regulators will need to continue working to abolish data siloes and create more opportunities for seamless data exchange.
+CMS Administrator Seema Verma
+Source: CMS
+“We’re ready to go the last mile when it comes to interoperability,” said Verma. “There has been a lot of work done in terms of making sure providers are using electronic health records, and that’s great.” 
+“But EHR adoption has also created electronic siloes.  We had filing cabinets before – now we have these electronic siloes.  Data doesn’t mean anything unless it’s put into a format that is meaningful to the end user, whether that’s a provider or a patient.  That is where we will be continuing to focus our efforts going forward.”
+READ MORE: CMS Renames Meaningful Use to Highlight Interoperability Goals
+CMS kicked off a renewal of its interoperability commitment with the MyHealthEData program, announced in March at the annual HIMSS Conference and Exhibition in Las Vegas. 
+The initiative involves several federal entities, as well as the White House, and focuses on liberating patient data and ensuring that individuals have access to all their records, no matter where they originated.
+“When we go to the doctor’s office, we want to be able to have the information about what happened there,” said Verma.  “We want to be able to build our record from birth through your entire life.  You want to be able to aggregate information from your medical record and from devices so you can put that story together and see what your health looks like.”
+“So we’re doubling down on these efforts.  Our announcement of the complete overhaul of meaningful use is the first installment of that,” she said, referring to the recently announced renaming of the EHR Incentive Programs to the Promoting Interoperability Programs.
+In a proposed rule released the evening of April 24, CMS envisions a significantly streamlined regulatory program that removes redundant reporting on duplicative measures while placing an even stronger focus on data exchange in standardized formats.
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+“The first step of this is around data privacy and security,” explained Verma.  “We’re telling hospitals that they have to meet those requirements as a minimum threshold to even qualify for the program.”
+“After that, all of the measures are simply about interoperability.  There are different measures because different providers have different needs and some may be more appropriate than others.  But no matter which one they pick, it’s all about interoperability.  It’s all about making sure the patient has their information.”
+Healthcare providers typically allow their patients to access records through patient portals, but those tools have not enjoyed a completely spotless reputation for usability and engagement. 
+When patient data access requirements hit the industry during Stage 2 of the EHR Incentive Programs, many organizations struggled to meet the 5 percent engagement threshold – a threshold that was later relaxed further to just one user engaging with the portal during the reporting period.
+Providers expressed frustration about the fact that patient activities outside of the clinic were not under their control, while patients panned early versions of portal technology, stating the tools were difficult to learn and not entirely useful once access was obtained.
+READ MORE: 50% of Physicians Not Satisfied with Patient Data Access
+Portal technology has seen a number of improvements over the past several years as health IT developers have responded to growing demands from increasingly savvy consumers and their healthcare providers. 
+Many tools now offer sleek interfaces and enhanced features such as online bill pay, digital messaging services, chronic disease management help, and access through mobile devices.
+However, disparities in patient portal access still exist along socioeconomic and generational lines, and overall adoption still lingers at around 15 percent for hospital patients and less than a third for outpatient healthcare consumers, according to 2017 data from the Government Accountability Office.
+Verma hopes that increased positive pressure from CMS will encourage providers to raise their adoption rates while simultaneously providing added incentives for technology developers to continue optimizing their patient data access offerings.
+“We are really trying to work with the technology sector around this issue,” she stressed.  “This is where app developers will come up with tools that will take all that data, put it together, and make sure it’s meaningful for the patient and for the provider.”
+“That’s why we’ve had such a focus on getting out to the innovator community and talking to folks who are working with technology, because we really see this as the next step.  This is not something that CMS can do alone.  We have to do it in partnership with the technology community.”
+Application programming interfaces (APIs) will play a starring role in the process, she added.
+These standardized bridges between disparate systems allow for the exchange of data between business partners while also enabling third-party developers to access datasets and enhance their value to providers, patients, and other stakeholders.
+“It’s incredible to think you can pull together all this information on a population level in a longitudinal format to start figuring out what’s going on and what treatments are working,” she said.
+APIs are quickly becoming common in the healthcare industry, and will see even greater adoption as more and more providers implement the latest versions of EHR technologies.
+2015 Edition Certified EHR Technology (CEHRT) must include API capabilities in order to pass the certification process - CMS reiterated its commitment to a 2019 deadline for Promoting Interoperability participants to adopt 2015 Edition CEHRT in the new proposed rule.
+“The API is the common way we can get the data out of the EHR, and we need to push on having providers use 2015 CEHRT because we know that has API capabilities,” Verma said.  “That API method is something that we’re trying to use in all of our data efforts across the agency.”
+APIs, and companion strategies like FHIR, will allow healthcare organizations to bridge technology gaps and aggregate data to use for analytics or to present to patients in a unified, easily accessible manner.
+“We don’t want patients dealing with multiple portals – we want them to be able to have a centralized place to access their information,” said Verma.  “We’re going to take every opportunity we can to drive hard on this issue to increase interoperability.  We’re going to use every lever we can to drive towards that goal.”
+With 130 million patients under CMS’ purview, the agency has a significant opportunity to spark change that percolates throughout the entire healthcare industry. 
+CMS is even asking for public comment on whether or not to make interoperability and patient data access a fundamental requirement for participation in the Medicare program, which would be a very large lever indeed to incent providers to meet these overarching goals.
+The agency is aiming to continue building cross-industry partnerships to improve the patient experience and enhance the availability of data without overloading healthcare providers, many of whom are struggling with EHR usability issues that reduce productivity, create significant stress, and even threaten patient safety.
+“This is where we really hope the private industry steps up,” said Verma.  “We will have all this data moving around – not just from the EHR, but from an increasing number of devices and remote monitoring tools.” 
+“That’s where you can get data overload.  There’s so much information – how can anyone make sense of all of this? No doctor is going to be able to look through 20 years of healthcare data for every patient.  They’re going to need some tools and analytics to make sense of that and pull out the relevant pieces of information.”
+Artificial intelligence, machine learning, and other big data analytics techniques will play a vital role in reducing the potential for burnout while making expanded patient data access truly worthwhile for all stakeholders within the care continuum, said Verma.
+“Artificial intelligence will become so critical and so crucial,” she stated.  “We have to be able to analyze the information and make it usable to people in a real-time way.”
+“There is enormous potential there.  I don’t think we can even envision what the combination of artificial intelligence and patient empowerment are going to bring us, but it is something we are excited to see.”
+Tagged CMSEHR Incentive ProgramsHealthcare InteroperabilityInteroperabilityInterviewsMeaningful UsePatient Data AccessPatient Portals
+
+

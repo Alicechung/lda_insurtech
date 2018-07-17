@@ -1,0 +1,25 @@
+Blockchain Innovators ARK Announce The Release Of Their Mobile Wallet
+
+31 Jan 2018
+
+ARK’s Mobile Wallet Is A Hybrid Application (Using The Same Codebase for Android and iOS Which Helps With Coordinated Development), Bringing Crypto Freedom to Millions
+ARK is happy to announce another huge achievement, with the release of the much awaited ARK Mobile Wallet. Packed full of exciting and streamlined features, the wallet looks set to bring about the widespread adoption of the ARK ecosystem.
+Users can now vote for a delegate, send ARK, or just check their balance straight from the palm of their hand. No sync needed; just open the app and conduct business. ARK’s mobile wallet is a hybrid application (using the same codebase for Android and iOS which helps with coordinated development).
+Created using Ionic framework and ARK’s TypeScript API to interact with the ARK network via a user’s mobile phone, anytime, anywhere, the ARK wallet is streamlined and will forever change the way ARK is sent. The ARK wallet is still in a Beta version so some quirks and bugs might be encountered while checking it out. Give it a spin and please provide feedback so ARK can improve the wallet in upcoming releases!
+Highlighted Features
+The user can import their existing passphrase (import by QR feature or write/paste your passphrase).
+Generate a new passphrase.
+The user can encrypt access to their profile with a custom 6 digit PIN (AES256+PBKDF2).
+Most transaction types are available: send, receive, vote, unvote, register a delegate.
+Connects to both mainnet and devnet.
+Option for additional profiles (separate profiles for different ARK addresses or networks).
+Option to add contacts and easily transact with them.
+Total balance of the user’s combined ARK addresses.
+Wallet backup — the user can input their selected PIN to decrypt their wallet and gain view of their private data.
+Change PIN — if the user wants to change their own encryption/decryption PIN, it can be easily done.
+Clear Data — the user can clear all their data from the phone.
+Overview of network status with an option to change peer.
+Current market value, along with weekly movements.
+Support for showing data in different FIAT currencies.
+
+

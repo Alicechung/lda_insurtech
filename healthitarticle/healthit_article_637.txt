@@ -1,0 +1,26 @@
+Cleveland Clinic, IBM Watson Partner for Population Health
+
+December 28, 2016
+
+By Jennifer Bresnick
+December 28, 2016 - Cleveland Clinic and IBM Watson have agreed to a five-year collaboration to further their work on data-driven population health management, the two companies announced in a press release.  The project will aim to establish best practices and guidelines for the healthcare system’s ongoing transition to value-based care by harnessing big data assets to improve population health.
+The new agreement expands a relationship between the two organizations that spans over a decade.
+“This initiative with IBM is mutually beneficial and will significantly advance our IT capabilities, which are increasingly important to provide the best care to patients as healthcare becomes more and more technology dependent,” said Toby Cosgrove, MD, CEO and President of Cleveland Clinic.
+“With the explosion of data in healthcare, the technology solutions we will develop and implement together could transform our ability to deliver quality, evidence-based care and better respond to the needs of our patients, caregivers and partners.”
+Dig Deeper
+HIMSS18 Is All About Artificial Intelligence in Healthcare
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+Transparency is Key for Clinical Decision Support, Machine Learning Tools
+The new project will build upon some of Cleveland Clinic’s foundational work with Watson by continuing to leverage the supercomputer’s cognitive computing capabilities to mine complex datasets and comb through medical literature in search of clinical decision support protocols that will improve outcomes.
+“For the past five years, Cleveland Clinic has been central to IBM’s effort to build Watson’s cognitive capabilities in healthcare.” said Deborah DiSanzo, general manager of IBM Watson Health.
+“Together, we will bring cognitive computing and an entire portfolio of IBM technology offerings to transform clinical care and administrative operations across the Cleveland Clinic, and help its renowned care providers deliver evidence-based, personalized and cognitive care to the individual patients they serve and the populations they manage.”
+Since its Jeopardy! debut in 2011, Watson has worked extensively in the healthcare industry as a clinical decision support aid in the realms of population health and precision medicine.  
+Cleveland Clinic, an early partner, has used the cognitive computing system to illuminate insights from electronic health record data, enhance the health system’s precision medicine capabilities, and improve educational techniques for medical students.
+The Clinic has also contributed to IBM Watson’s healthcare career by developing Explorys, a spinoff data analytics company acquired by IBM in 2015.  The Explorys acquisition, coupled with the simultaneous purchase of Phytel, significant expanded Watson’s population health management capabilities by bringing large patient datasets and new pattern recognition techniques into the fold.
+IBM’s ongoing work with Cleveland Clinic will continue the development of clinical decision support and population health management strategies that will allow providers to successfully navigate the complex transition to value-based care, said Philip Guido, General Manager, North America, IBM Services.
+“IBM believes this technology and innovation partnership with Cleveland Clinic will result in transformational information technology strategies enabling both the Cleveland Clinic and IBM to respond to disruptive changes occurring throughout the healthcare industry,” he said.
+Using Risk Scores, Stratification for Population Health Management
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Tagged Analytics InfrastructureClinical Decision SupportMachine LearningPopulation Health Management
+
+

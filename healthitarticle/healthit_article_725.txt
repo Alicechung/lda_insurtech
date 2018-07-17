@@ -1,0 +1,29 @@
+CMS Releases Health Payment Info to Aid Data Transparency
+
+October 12, 2016
+
+By Nathan Boroyan
+October 12, 2016 - The Centers for Medicare and Medicaid Services (CMS) is continuing their data transparency efforts with the release of the Hospice Utilization and Payment Public Use File for 2014 and an updated Market Saturation and Utilization Tool with 2015 and 2016 data.
+“The Hospice data and Market Saturation and Utilization Data Tool made available today support our goals of increasing access to Medicare data and improving the flow of information,” said CMS Chief Data Officer Niall Brennan.
+Hospice PUF is a secure public data set with information on hospice provider services offered to Medicare beneficiaries. New data include information on 4,025 hospice providers, more than 1.3 million hospice beneficiaries, and over $15 billion in 2014 Medicare payments.
+Additionally, the data shows the number of care days provided, total beneficiaries served, total costs, total Medicare payments and total Medicare standardized payments for each provider.
+Dig Deeper
+Opioid Awareness Week Focuses on Population Health Management
+Humana Launches Value-Based Care Model for Expectant Mothers
+State-Led Programs Help Meet Population Health Management Goals
+Hospice PUF also includes data on primary diagnoses, service sites, and beneficiaries’ demographics.
+With access to this information, big data analytics can be used to draw comparisons between providers, states, and national performance benchmarks. It is also now possible to track how hospice care delivery varies from region to region, across the US.
+The updated Market Saturation and Utilization Data Tool now includes interactive maps and supporting data for provider services and utilization data at the county, state and national levels. Specific health service areas include:
+Home health
+Ambulance
+Independent diagnostic testing facilities
+Skilled nursing facilities
+Hospice
+CMS can use to the tool to monitor market saturation and potentially sniff out fraud, waste, and abuse.
+This data also has the ability to show how specific service use relates to the number of providers in a region of the country.
+This most recent release of data builds on previous CMS transparency efforts during the transition toward value-based care.
+In May, the organization published data that included information on $91 billion Medicare payments from more than 986,000 providers.
+“CMS believes that greater data transparency leads to a more effectively functioning health care system, which leads to better care and smarter spending,” Brennan said.
+Tagged Big Data AnalyticsCare QualityHealthcare TransparencyOpen Payments Data
+
+

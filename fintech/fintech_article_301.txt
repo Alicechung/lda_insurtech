@@ -1,0 +1,17 @@
+“Blockchain Not Ready for Mainstream”, CEO of BTL Group Reacts to Claims
+
+March 25, 2018
+
+Blockchain’s overriding challenge to achieve widespread adoption is to overcome a number of issues, however the speed and scaling problem is a critical one. All too often we hear and read that this nascent technology is not yet ready for mainstream use. Only recently the global payments firm Swift concluded this following their most recent proof of concept (POC) and said, “further progress is needed…before it will be ready to support production-grade applications in large-scale mission-critical global infrastructures(1)”.
+
+ As more and more tests, pilots, POCs are completed, they will highlight this problem, regardless of whether the test is successful or unsuccessful. Swift’s POC is just one example of many and a case in point. To be more specific, the Hyperledger fabric that was used for the POC faces challenges scaling to large numbers of channels since it employs a process called Ordering Service that is responsible for ordering and processing the transactions of the entire network. So, with 100,000 channels, the Ordering Service would be required to process all of the transactions for each of the 100,000 channels. In layman’s terms, with this structure bottle-necks are formed very easily when trying to process high volumes of transactions.
+
+ At BTL we realised the scaling problem of single chain solutions at a very early stage when undertaking our successful finance and energy pilots back in 2016 and 2017. This is why we set out two years ago to build Interbit to address blockchain’s speed, scalability, privacy and usability.
+
+ Chain-joining allows you to address the scaling problem. BTL’s Interbit platform can run multiple blockchains concurrently and join them, whist maintaining all the other benefits of blockchain technology. In one application we designed for a client, we had as many as 40,000 blockchains in it. These chains are incredibly lightweight and as Interbit is not tokenised (i.e. we are not a cryptocurrency), it means we are not using up copious amounts of power in the same way that crypto miners are. The data on Interbit chains can be segregated to overcome the privacy issue, which ensures any data is kept private and secure when it needs to be.
+
+ We disagree that blockchain technology is not ready for the mainstream yet as we have proven that it is via chain-joining. For those doubters we invite you to try out our Interbit platform. It is due to be ready for developers very soon who’ll be able to spin out chains, meaning they can easily and quickly build transformational applications, just like the ones we are building at BTL (www.interbit.io).
+
+ (1) https://www.swift.com/news-events/news/swift-completes-landmark-dlt-proof-of-concept
+
+

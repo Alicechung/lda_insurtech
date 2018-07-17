@@ -1,0 +1,32 @@
+Genomics, Clinical Decision Support Combo Cuts ED Visits by 42%
+
+February 08, 2017
+
+By Jennifer Bresnick
+February 08, 2017 - Providers who combined genetic testing with a clinical decision support tool to treat home health patients using multiple medications were able to reduce hospital readmissions by 52 percent and cut ED visits by 42 percent, according to a study published in PLOS ONE.
+The study, conducted by researchers from Harding University and Unity Health-White County Medical Center, also found that conducting drug-drug and drug-gene interaction testing on patients with a high risk of adverse drug events (ADEs) could reduce the risk of death by 85 percent while producing an estimated cost savings of $4382 per capita.
+Adverse drug events are among the costliest and dangerous patient safety issues, the study explains. Two-thirds of adults over the age of 65 use one or more prescription drugs each day, and approximately 35 percent of seniors will experience an ADE. 
+Dig Deeper
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+Patient Safety, Engagement Relies on Crafting a Culture of Change
+Up to 17 percent of hospitalizations among older patients are related to negative drug reactions, which adds avoidable expenses to the healthcare system and unwelcome disruption to patient lives. Preventable readmissions cost Medicare around $17 billion per year.
+A patient’s individual genetic responses to certain medications are responsible for nearly half of the situations that can lead to adverse drug reactions or significant side effects, the study says.
+Pharmacogenetic testing can help providers understand how a patient will respond to medications, including many of the most commonly prescribed drugs, and allow providers to make alternative recommendations to keep their patients safe.
+"All clinicians strive to improve quality of life for their patients. Knowing patient specific drug metabolism combined with the ability to identify cumulative drug-drug, drug-gene, and drug-drug-gene interactions will only aid in our efforts,” said primary investigator Lindsay S. Elliott, PharmD, BCGP.
+Source: PLOS ONE
+“This study demonstrates the potential to manage medication regimens specific to the patient in order to increase efficacy, decrease adverse effects, and reduce overall healthcare costs."
+In this study, Elliott and her team recruited 110 chronically ill home health patients over the age of 50 for the study, using a clinical decision support tool and conducting pharmacogenetic testing to manage approximately half of the group. 
+The control group received the usual level of medication management, including review by a pharmacist.  In both arms of the study, patients used an average of just over 11 drugs per individual.
+Clinicians followed 77 percent of the treatment recommendations provided by this strategy, resulting in significant reductions in ED visits and hospitalizations over the sixty-day observation period.
+Cumulative rate (%) for re-hospitalizations, ED visits, and composite events using Kaplan-Meier estimator
+Source: PLOS ONE
+While the study is limited by its small size and the fact that it took around three weeks to implement changes to patient drug regimens based on the test results, it does indicate that there may be value in genetic-based clinical decision support for high-risk populations.
+“Randomized controlled trials of integrated pharmacogenetic information in a broad polypharmacy population have been lacking,” said corresponding author Ranjit Thirumaran, MPharm, PhD, Director of Clinical Pharmacogenetics at YouScript, the precision prescribing tool used in the study.
+“The data from this study offers a potentially important opportunity to minimize ADEs and reduce health resource utilization.”
+The results mirror similar findings from a separate 2015 study, in which precision medicine and clinical decision support tools helped drop hospitalizations by 39 percent and ED visits by 79 percent for elderly patients at the University of Utah.
+“If reproduced across the entire Medicare home health population, this would save billions of dollars and thousands of lives every year,” said Kristine Ashcraft, CEO of YouScript.  “Not only does this meet the goals of the Triple Aim, but it brings to bear the question when does it become a patient safety issue for this not to be part of the standard of care for polypharmacy patients.”
+“We appreciate all the hard work Harding University has done and thank the patients at Unity Health’s White County Medical Center for their participation in this landmark study validating the power of precision medicine.”
+Tagged Chronic Disease ManagementClinical Decision SupportGenomicsHospital QualityPatient SafetyPersonalized MedicinePrecision Medicine
+
+

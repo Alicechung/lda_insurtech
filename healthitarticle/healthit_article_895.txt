@@ -1,0 +1,32 @@
+ONC Taps Boston Children’s for $275K FHIR, API Innovation Award
+
+June 02, 2016
+
+By Jennifer Bresnick
+June 02, 2016 - The FHIR ecosystem is still heating up as the EHR developer community searches for innovative new ways to bring application programming interfaces (APIs) into mainstream use. 
+Spurred on by the promise of up to $625,000 in competitive awards and other funding from the Office of the National Coordinator, a number of organizations have taken on the ONC’s vision for developing a Fast Healthcare Interoperability Resources app ecosystem – and Boston Children’s Hospital is among the first to benefit from this work.
+In a blog post on Health IT Buzz this week, National Coordinator Karen DeSalvo and Acting CMS Administrator Andy Slavitt announced that Boston Children’s will receive $275,000 in funding to work on coordinating the availability of information about EHR app solutions ready for the marketplace.
+“Every day across America, health information technology professionals and development teams are creating interoperability solutions using application programming interfaces (APIs),” DeSalvo and Slavitt wrote.
+“As this surge of innovation grows with each passing year, the likelihood that teams across the nation are creating similar or duplicative health IT applications is also increasing."
+READ MORE: IoT, EHRs to Push Healthcare API Market to $243M by 2024
+"Unfortunately, our capability to search for, discover, compare, and test existing applications has been limited and this lack of available information may contribute to a lag in the diffusion of innovation across the health IT application ecosystem.”
+To jump-start innovation in the API arena, the ONC offered more than half a million dollars in funding and awards to meet the three key goals of technology reform: helping consumers acquire and utilize their data, improving the provider user experience, and making it easier for providers to choose the best EHR app solutions for their particular needs.
+Boston Children’s will use its new funding to tackle the third goal, the blog post says. “This new cooperative agreement will support the development of an online app discovery site aimed at streamlining a developer’s ability to publish their health IT applications and for providers to discover and compare them,” DeSalvo and Slavitt said.
+The organization will engage in several user-focused activities, including conducting market research within the provider community to learn more about users are looking for when it comes to FHIR-enabled application discovery and comparison. 
+Based on the results, Boston Children’s will create an interactive online resource for providers that will allow potential users to find and compare EHR applications to help them craft a tailored, module ecosystem for their needs. 
+READ MORE: As FHIR Matures, Healthcare Interoperability Comes into Focus
+Additionally, Boston Children’s will develop an “innovation sandbox” that includes sample data to allow providers to test plug-and-play FHIR applications before committing to them.
+The newly developed discovery and comparison tools will complement the ONC’s other efforts to make it easier, more intuitive, and more efficient to share and use health information.  The two other app challenges, focusing on improving the experiences of consumers and providers, will each offer up to $175,000 in prize money for best-in-class solutions.
+“As a health care consumer, imagine if you were able to choose a software application to create a secure snapshot of your health information, like pictures that extend over the course of your lifetime,” wrote DeSalvo in March, when the opportunities were first introduced.
+“Similarly, imagine as a health care provider if you could find apps uniquely tailored to your specialty or role on the care team and that provide the health information you need in a way that is safe, secure, intuitive, and actionable.”
+“This is the future of health information technology we all seek, and the rapid pace of innovation, including the development and use of new standards, continues to demonstrate that these goals are within reach.”
+READ MORE: How FHIR Offers a New Approach to Working with Healthcare Data
+The submission period for these opportunities has just closed, and winners of those prizes will be announced at the end of June, the ONC says.
+In the meantime, Boston Children’s will get to work on bringing the promise of a FHIR-based, application-centric environment to life, ONC officials added.
+“This is just another example of our commitment to encouraging community-driven, user-focused innovation to help pave the way for future innovations in health IT,” said DeSalvo and Slavitt. “These collaborative efforts will help build a stronger health IT ecosystem, where consumers and providers can get the health information they need, when and where they need it most.”
+Dig Deeper
+Why Health Data Interoperability is Setting EHR Vendors on FHIR
+A FHIR Future Burns Brightly for Population Health Management
+Tagged Application Programming InterfacesFast Health Interoperability ResourceFHIRHealth Information ExchangeHealth IT Interoperability
+
+

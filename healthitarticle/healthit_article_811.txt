@@ -1,0 +1,39 @@
+Open Population Health Analytics Flag Philly Health Disparities
+
+August 11, 2016
+
+By Jennifer Bresnick
+August 11, 2016 - The City of Philadelphia has released an online, freely available population health analytics application that highlights health disparities and socioeconomic determinates of health at a neighborhood level. 
+The Community Health Explorer is a joint project between the Philadelphia Department of Public Health (PDPH) and the Office of Open Data and Digital Transformation (ODDT). 
+In a cleanly and intuitively designed interface, the tool presents detailed data on clinical and socioeconomic factors that influence health and wellness, such as the prevalence of chronic diseases, the rate of alcohol and tobacco consumption, premature death rates, poverty and educational statistics, and even the number of complaints about rats in residential buildings.
+“Open Data represents a commitment to an accessible and accountable municipal government,” said Rebecca Rhynhart, Chief Administrative Officer for the City of Philadelphia in a blog post accompanying the release.
+“Taking it a step further by leveraging that data to create resources – like the Community Health Explorer – highlights our efforts to digitally transform city processes and realize our potential to be as effective, efficient and helpful as possible to the residents we serve.”    
+READ MORE: Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+Users can view interactive charts, graphs, and maps of 77 different health indicators.  Data can be displayed according to geography, chronology, racial disparity, or in comparison to other major cities across the nation.
+“We wanted to make this massive collection of information easier to navigate, while giving PDPH the ability to update the data independently,” said Lauren Ancona, Senior Data Scientist for the ODDT.
+“Charting data on the web is sometimes challenging: often, graphs don’t adjust well to mobile screens (which makes up over a third of City web traffic), and citizens with visual difficulty or who are using screen readers might not be able to access any information at all.”
+The open source application is just a “first attempt” to solve these problems, Ancona added. “We plan to continue to iterate with feedback – contributions are welcome!”  
+For a first attempt, the tool is impressive.  It draws on a number of surveys and other sources from local and state public health organizations, synthesizing multiple population health datasets into a single view.
+READ MORE: Big Data Analytics, Population Health Top Executive Priority List
+Complete, robust, longitudinal community-level socioeconomic data is a rare find for population health managers seeking a detailed window into the lives of local patients, but the Community Health Explorer offers access to many major environmental and social factors that may have a significant impact on clinical outcomes and overall patient wellness.
+In certain sections of the city, for example, more than half of residents may live in high poverty and have little or no walkable access to healthy food choices or grocery stores.  More than 52 percent of residents of the West Park neighborhood reported that they are unable to walk to stores or businesses that offer fresh and nutritious meal options.
+Just a few miles away in the Central Northeast area, that number drops to 3.9 percent.
+Black and Hispanic residents are most likely to experience limited food choices – at rates nearly double that of their white, non-Hispanic neighbors.
+Other environmental factors, like elevated levels of lead in pediatric blood samples, also disproportionately affect certain racial and ethnic groups.  Children identifying as black are three times as likely as Hispanic children to have high amount of lead in their system.  They are also likely to have had little or no prenatal care, and are almost twice as likely as white children to have been born at a low birth weight.
+READ MORE: Predictive Big Data Analytics Identify High-Risk ED Patients
+The age-adjusted child mortality rate among white Philadelphians is 33.5 per 100,000 people.  Black children in the city die at a rate of 117.3 per 100,000.
+Users can also view data collected over time.  Certain measures of population health have improved dramatically over the last decade or so – elevated blood lead levels have actually plummeted since 2003, when 12 percent of children were overexposed to the substance – while others have dipped, representing opportunities for healthcare providers to target interventions to specific subgroups of patients.
+Among the most marked improvements are the rates of tobacco use, especially among teenagers.  Adults were about 5 percent less likely to smoke in 2014 than they were in 2007, while smoking rates for high school-aged teenagers dropped from a high of 15.8 percent in 2001 to 7.5 percent in 2013. 
+However, the data does not include information on the growing popularity of smokeless tobacco products and e-cigarettes, which have presented a major public health conundrum in recent months.
+Still, the overall decrease in smoking habits has slashed the rate of smoking-attributable mortality by 76 deaths per 100,000 since the start of the millenium, and secondhand smoke exposure for children in the home has dropped by 15 percent since 2004.
+Sugary drink consumption among children and adults has also decreased significantly over the past few years, although the prevalence of diabetes in adults has jumped from 5.1 percent in 2002 to 15.4 percent in 2014.
+A nationwide focus on population health management and preventative care, coupled with the expansion of Medicaid in Pennsylvania, has increased the number of insured adults and children and raised the number of routine screenings delivered to city residents.
+Since 2000, children are almost 20 percent more likely to have visited a dentist within the past twelve months, and are twice as likely to be up-to-date on their immunizations.
+Since 2002, adults are 18 percent more likely to have completed a recommended colonoscopy.  Adolescent girls are completing the three-dose HPV vaccine at nearly four times the rate they were when the option was introduced about a decade ago, and mammography rates for women have remained high since the start of the century, at around 82 percent.
+The striking differences in mortality rates, screening rates, community violence, access to care, and environmental factors present significant challenges for managing population health, but the insights available from the data are likely to be extremely useful for healthcare organizations that serve a concentrated patient population.
+The Department of Public Health will update the tool with 2016 data in the fall, and will add new information annually to keep the resource current.  The code used to create the Explorer is open-source and is hosted on GitHub to allow other data analytics to replicate its structure and populate the system with their own local data. 
+Four of the datasets are also available for public download, allowing anyone to conduct their own population health analytics.
+To access the interactive tool, its source code, or the public datasets, please click here.
+Tagged Chronic Disease ManagementClinical AnalyticsHealthcare Data MiningPopulation Health Management
+
+

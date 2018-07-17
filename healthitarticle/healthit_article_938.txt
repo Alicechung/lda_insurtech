@@ -1,0 +1,40 @@
+Goals and Guidance are Key to Healthcare Big Data Analytics
+
+April 29, 2016
+
+By Joncé Smith
+April 29, 2016 - Last month, the results of the fourth annual Health IT Industry Outlook Survey were released, shedding light on 2016 industry trends and pain points expressed by chief information officers, chief medical information officers, IT directors and consultants.
+For the second year in a row, data analytics was ranked as the hottest trend, according to 33 percent of survey participants. Organizations are recognizing the tremendous value offered by the effective use of statistical data and trends to improve financial performance and patient outcomes.
+In addition, the applications that provide end-users with data visualizations have dramatically improved over the last few years, both in design and level of functionality. Plus, reliable and actionable data visualizations are becoming crucial as population health management initiatives have expanded across the industry.
+Data analytics challenges
+With these potential benefits also come significant challenges, according to survey results. The most-often (33 percent) cited hurdle for healthcare organizations with data analytics programs is “correlating data from diverse and dissimilar sources.”
+READ MORE: 3 Keys to Drive Adoption of Artificial Intelligence in Healthcare
+For example, laboratory results and radiology assessments can be easily associated to an episode of care within an enterprise revenue management system through the use of either a unique medical record number or a master patient index.
+However, when you then try to associate that data from a system outside of that environment and create an actionable dashboard, obstacles tend to emerge.
+An enterprise resource planning (ERP) system is an example of how linking data from disparate sources is a challenge. An ERP can manage operational staff data, but cannot store patient-care related data, so conducting a financial analysis of a patient care issue requires some creativity.
+If the analysis involves a nursing unit, for instance, the study may include clinical operational staff data captured from the ERP such as shift worked, number of shifts worked for the current pay period, temporary or permanent resource status, educational background and professional credential levels.
+Linking this data to patient care data may then require including the shift date, nursing unit (location), patient bed assignment and other data elements. This type of analysis would only be possible on second- and third-generation data systems that can process different data languages for analysis and research.
+READ MORE: 56% of Hospitals Lack Big Data Governance, Analytics Plans
+Even with its current limitations and obstacles, big data analytics can afford deep insight and perspective into solving operational issues.
+To conduct this analysis accurately and affordably, an organization must be cognizant and knowledgeable of the healthcare industry and working environment. Healthcare providers may find this barrier difficult to overcome using only internal resources.
+While staff may have deep knowledge about their own departments, they will typically know little about how other departments operate. In these situations, skilled and objective advisers from outside of the organization, such as consultants with years of operational experience and deep industry knowledge, present a tremendous advantage.
+The firms that successfully pair these skillsets while foreseeing a client’s needs and offering creative insights will offer the most value to healthcare organizations.      
+Stages in data analytics program development
+READ MORE: Healthcare Big Data Success Starts with the Right Questions
+More than one-third (37 percent) of IT leaders responding to the Health IT Industry Outlook Survey stated their data analytics programs are either underway, but they lack resources to complete requested initiatives, or their programs are young and need development assistance (36 percent).
+Healthcare organizations trying to launch their big data analytics programs have to first determine the objectives their programs will achieve. Time and resources must be devoted to carefully avoid goals that are either too broad or too granular. If healthcare organizations can focus on one or two specific, but meaningful initiatives, they will experience greater success. 
+Other than lack of appropriate goal setting, we find that many provider clients have not established an adequate infrastructure before initiating a big data analytics program.
+For example, a governance committee is key to help prioritize incoming requests, communicate with end users concerning realistic turnaround expectations and oversee projects through completion.
+Due to the pressure from concurrent IT projects and lack of time, healthcare organizations often look to third-party advisors to initiate data analytics efforts. Objective advisory firms can assist in creating a program’s roadmap and build the infrastructure efficiently while augmenting client resources with seasoned consultants.
+Strategic advisors can define major activities, milestones and goals to identify the appropriate skillsets among the organization’s staff and assign duties. The advisor would also include the fundamentals of an effective data analytics program as hallmarks within the roadmap to convey a sense of unity and team spirit.
+If an organization determines that staffing a data analytics initiative is too difficult at first, it should rely on industry professionals to launch and lead the first few projects to demonstrate how to manage the program and overcome obstacles.
+Revenue cycle management barriers
+Finally, “inability or challenges with trending benchmarking data to identify areas of improvement” was identified as the largest (40 percent) revenue cycle management barrier for healthcare IT leaders, according to survey results.
+Overcoming this challenge requires combining data across disparate systems to build a dashboard that truly enables end users to optimize workflow and processes.  Simply providing nicely graphed data with one or two layer drill downs is not adequate.
+For an initiative as complex as revenue cycle management, an organization would need to extract data from scheduling, acute billing, patient access, ERP, coding, ambulatory billing and possibly additional systems. 
+Instead of confronting the entire revenue cycle, organizations should select one or two key phases and then work toward improving the key performance indicators associated with that phase. This will allow for a sharper focus and reduce the risk of fatigue or failure for a new program.
+A series of smaller data analytic program victories can inform and motivate the organization’s teams toward achieving enterprise-wide overall goals. With adequate resources and guidance, the challenges that are stalling programs now will be a distant memory by the time of the next Health IT Industry Outlook Survey.
+Joncé Smith is vice president of revenue management at Stoltenberg Consulting.
+Tagged Healthcare Big Data AnalyticsHealthcare Data GovernanceRevenue Cycle Analytics
+
+

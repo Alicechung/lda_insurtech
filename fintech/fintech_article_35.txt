@@ -1,0 +1,21 @@
+McAfee Highlights Emerging Cybersecurity Risks Associated with Blockchain
+
+July 4, 2018
+
+McAfee, the device-to-cloud cybersecurity company, released a report detailing the numerous cybersecurity risks associated with blockchain-based cryptocurrencies, and asserts the necessity of making cybersecurity a top priority as industry builds out the foundations for the widespread implementation of blockchain technologies.
+
+ Demand for blockchain technology continues to grow among some of the most established industries worldwide, including the government, finance, retail, health care, and automotive sectors. In fact, nearly every industry has invested in, acquired or implemented blockchain in some capacity. Yet even as the blockchain technology market is expected to reach $9.6 billion by 2024, McAfee sees tremendous potential for cybersecurity risks that could threaten this revolutionary technology’s rapid growth and its quickly expanding pool of adopters. The company points to security events associated with cryptocurrencies, the area where blockchain technology has been most extensively implemented and used at large scale by millions of people.
+
+ According to the McAfee report, bad actors have aggressively sought to take advantage of the rapid adoption of cryptocurrencies and the early adopters who use them. McAfee sees this activity in four key attack vectors: phishing or fraud schemes, malware, implementation exploits, and technology vulnerabilities. Many attacks spanning these categories apply both old and new cybercrime techniques and have proven highly lucrative for cybercriminals.
+
+ The McAfee report details a 2017 cryptocurrency phishing scam in which a cybercriminal set up a fraudulent cryptocurrency “wallet” service. After collecting authentication information from the service’s users over the course of six months, the thief drained $4 million from unsuspecting customers’ accounts.
+
+ McAfee’s researchers provide examples of how cybercriminals using malware have been empowered by the proliferation of cryptocurrencies. The explosion of ransomware over the last few years has become operationally possible in large part due to the use of cryptocurrencies, which cloak cybercriminals’ identities associated with ransom payment transfers.
+
+ McAfee research illustrates the growing trends of malicious miners and cryptojacking, which create a vector for infection (via malware) and monetisation (via mining). Recent McAfee Labs research in this cybercrime category found that total coin miner malware grew a stunning 629% in Q1 2018—from around 400,000 samples in Q4 2017 to more than 2.9 million samples in the first quarter of this year.
+
+ Finally, the cryptocurrency exchanges themselves have been attacked, suggesting that cybersecurity measures must be an important consideration in the development of blockchain technologies and the critical implementation and operational processes upon which they rely. Earlier this year, Coincheck, one of Japan’s most popular exchanges, lost $532 million, affecting 260,000 investors. McAfee’s researchers illustrate that there are detrimental costs to rapid implementation of blockchain technologies at the expense of proper cybersecurity measures.
+
+ “Like so many other new robust technologies, blockchain can have a revolutionary impact in solving very real business problems, but only so long as security does not fall victim to urgency in the rush to adopt the technology,” said Raj Samani, chief scientist at McAfee. “Given blockchain’s potential for creating value, and the tremendous enthusiasm to implement it, cybercriminals will seek every opportunity to strike at all available technical and human vulnerabilities in the emerging blockchain ecosystem. Governments, cybersecurity vendors, and businesses must be diligent in understanding the threats and minimising the risks. Without adequate education for users and industry, secure implementation best practices, and strong technical security standards, the widespread adoption of blockchain by major industries and governments could end up costing billions of dollars and impacting millions of people.”
+
+

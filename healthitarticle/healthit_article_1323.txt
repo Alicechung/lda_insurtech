@@ -1,0 +1,24 @@
+EHR Interoperability, HIE Criteria Prompt Stage 3 MU Concerns
+
+August 04, 2015
+
+By Jennifer Bresnick
+August 04, 2015 - Currently available EHR technologies do not have the interoperability and bi-directional health information exchange capabilities to meet criteria included in the proposed Stage 3 meaningful use rule, state a coalition of health IT stakeholders in a letter to HHS Secretary Sylvia Burwell.
+The collection of vendors, standards organizations, and professional societies urge rule makers to quickly revise certain untenable provisions in the framework if healthcare organizations are to have any hope of successfully attesting to the EHR Incentive Programs for the remainder of 2015.
+Citing the need for certainty about what the final rule will demand of the provider community through 2018, the letter points out that organizations seeking to attest to Stage 2 during the last 90-day reporting period of 2015 must know what is in store for them in the future.  October 3 is the deadline to begin the final attestation period of the year.
+“If providers do not receive the final rule shortly, it will be very difficult to make workflow adjustments in a timely manner to meet programmatic deadlines and facilitate Meaningful Use tracking and reporting,” warns the letter, signed by organizations including CHIME, the American College of Physicians, AMIA, EHRA, MGMA, DirectTrust, and The Sequoia Project, along with health IT vendors such as Cerner, Greenway, GE, and Allscripts.
+Dig Deeper
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+Verma: CMS Will “Use Every Lever” for Promoting Interoperability, Data Access
+Top 10 Challenges of Big Data Analytics in Healthcare
+“Fundamentally, it is critical that the 90-day reporting period and streamlining of Meaningful Use objectives and measures are confirmed, and that the proposals for public health reporting are clarified and enhanced,” the letter adds. “As these items are finalized, given the compressed timelines, we urge CMS to ensure that the Final Rule offers flexibility to providers and requires only capabilities already in use in 2014 Edition-certified EHRs.”
+It will be important to know how much of Stage 3 can be accomplished with the current iteration of Certified EHR Technology (CEHRT) because the vendors are unsure that they can develop new EHR functionalities to meet the stringent interoperability and bi-directional health information exchange requirements of the last phase of meaningful use.  These requirements include a high level of participation in public health reporting, specifically the exchange of information with immunization registries.
+“Such capabilities are not currently available in most certified EHR vendor systems, and the bi-directional functionality was not required in the 2014 Edition certification criteria for public health reporting,” the coalitions says. “There is general stakeholder agreement on the need to develop toward bi-directional functionality, but most providers and developers indicate that it is simply not feasible for most products at this time, especially in the remaining truncated 2015 reporting year.”
+Vendors and provider representatives aren’t the only stakeholders concerned about the high bar set by Stage 3.  A recent hearing of the Senate HELP Committee questioned the ambitious timeline of the program, and lawmakers may recommend that HHS slow down the program until the industry is closer to solving its fundamental interoperability concerns.
+Should a bill introduced by North Carolina Rep. Renee Ellmers be approved by lawmakers, Stage 3 could be delayed until at least 2017.  Low Stage 2 attestation numbers, uncertainty over the impact of this year’s SGR repeal legislation, and a growing recognition that healthcare organizations are facing much bigger interoperability challenges than originally thought might prompt Congress to step in and deliver a reprieve for the frustrated provider community.
+While the timeline for Stage 3 may seem unrealistic and concerns over the feasibility of achieving Stage 3 goals are growing, the stakeholders represented in the letter to HHS do not argue that interoperability is a necessary and pressing task to tackle in order to improve patient care.
+“Our organizations continue to support health IT as a critical tool for enabling healthcare transformation, value-based care models, and the delivery of better care, improved outcomes, and lower costs,” the group stresses.
+“The ability to share and exchange health information is also a key component of healthcare transformation. As policy discussions continue on health information exchange/interoperability functionality, ensuring that the EHR Incentive Program is on track for 2015-2017 will reinforce the investments made to-date and support continued momentum towards the goals of enhanced care coordination and interoperability.”
+Tagged Analytics InfrastructureInteroperabilityMeaningful Use
+
+

@@ -1,0 +1,14 @@
+FixStream AIOps Platform Now Available In The Oracle Cloud Marketplace
+
+13 Jul 2018
+
+Oracle Cloud Customers Can Use FixStream AIOps Platform to Predict Business Application Issues Across Hybrid IT
+FixStream, a leading provider of solutions for Artificial Intelligence for IT operations (AIOps) and Gold level member of Oracle PartnerNetwork (OPN), today announced that its AIOps platform is now available in the Oracle Cloud Marketplace offering added value to Oracle Cloud application customers.  The FixStream AIOps Platform offers one of the industry’s first visual Artificial Intelligence platform to predict business issues across hybrid IT by providing correlation, machine learning and visualization for an Oracle environment deployed in a hybrid cloud to quickly and visually detect issues in real-time, reducing MTTR from days and weeks to minutes.
+The Oracle Cloud Marketplace is a one-stop shop for Oracle customers seeking trusted business applications and service providers offering unique business solutions, including ones that extend Oracle Cloud Applications. Oracle Cloud is the industry’s broadest and most complete public cloud, delivering enterprise-grade services at every level of the cloud technology stack including software as a service (SaaS), platform as a service (PaaS), infrastructure as a service (IaaS), and data as a service (DaaS).
+Read More: Interview with Akemi Tsunagawa, Founder and CEO, Bespoke Inc
+Sameer Padhye
+“With the integration with many Oracle products, such as Oracle ERP Cloud, Oracle JD Edwards, Oracle Real Applications Clusters (RAC) and Oracle Fusion Middleware, FixStream provides IT Operations with one of the industry first multi layer correlation and predictive analytics across business KPI’s, application and infrastructure entities, automating the discovery and mapping of critical business processes to application process flows, hosts, backend databases and infrastructure entities such as switches, routers and storage arrays,” said Sameer Padhye, Founder and CEO of FixStream. “FixStream’s participation in the Oracle Cloud Marketplace further extends our commitment to the Oracle community and enables customers to easily reap the benefits of our AIOps solution. We look forward to leveraging the power of the Oracle Cloud to help us achieve our business goals.”
+The Oracle Cloud Marketplace offers an intuitive user interface to browse and search for available applications and services, as well as user ratings and reviews to help customers determine the best business solutions for their organization. With its new automated application installation features, customers can easily deploy provider business applications from a centralized cloud interface.
+Read More: Insurtech: the new AI disruption is hitting insurance
+
+

@@ -1,0 +1,25 @@
+How I improved Co-op Banks security without getting dressed and still couldn’t get satisfaction.
+
+August 31, 2016
+
+It’s half ten, I’m working from home, an 0345 number comes up on my phone, I answer.
+Me: Hello.
+Bank: It’s Nancy* from the Co op bank, can I speak to Mr XYZ** please?
+Me: That’s me.
+Bank: Thank you, before I continue, I do need to ask some security questions. Can I take the 1st and 3rd digit of your 4 digit security code please?
+Me: Sorry but No. I don’t actually know that you’re from the Co op bank so I’m not going to give you my security code. Because if I do, and you defraud me, it’s my liability.
+Bank: Ah, but it’s OK, because I only need two of your 4 digits, so I can’t access your account with those. It’s just for security.
+Me: Yes, I understand that, but if you also ring tomorrow and ask for the 2nd and 4th digits, you’ll then have all four. Which gives you full access to my account.
+Me: And as you are ringing me, it’s me that needs to be validating who you are, not the other way round. I should be asking you the security questions.
+Me: At least one security question, a password that I give you, so when you call me, I can ask you for it, before we even begin. Otherwise how do I even know you’re from the Co-op Bank? Prove it.
+Bank: Ok, we can do that, we can set up a password once we are in your account. We do that for some other people.
+I concede that this probably is the Co-op Bank, they’ve been using this same totally insecure way of contacting me for 5 years now. The first time they did it I was honestly left wondering if I should call the police. But by now I’m familiar with their quirky backward ways. One day I’ll even get a contactless card from them.***
+I give Nancy my 2 digits, and we set up a password enabling the bank to identify themselves when they phone me. In this one step I’ve just made the Co-op Bank security vastly more secure, basically protecting myself against inbound phone fraud. I do have a few questions for Co-OP Banks as a result.
+1./ Why did I have to figure this security solution out for myself? It’s not rocket science.
+2./ Why don’t you offer it to your customers? They might appreciate it.
+3./ Why are you not taking reasonable steps to protect your customers from fraud? And before a PR agency spits out “we take security most seriously baaa”, can I suggest that it isn’t reasonable to expect the customer to have to figure out the weakness in the Banks process and then figure out a fix for that weakness and then have to ask specifically for that fix to be implemented. What say thee FCA?
+*Not her real name
+** That’s not my real name either
+***Unlikely.
+
+

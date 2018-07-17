@@ -1,0 +1,43 @@
+EHR, CPOE “Value Chain” Begins and Ends with Patient Safety
+
+March 03, 2017
+
+By Jennifer Bresnick
+March 03, 2017 - The healthcare industry has had a difficult time finding value in electronic health records and other health IT tools, including computerized provider order entry (CPOE). 
+Despite claims that electronic documentation can improve patient safety and enable meaningful analytics, clinicians constantly struggle with unintuitive interfaces and confusing or repetitive workflows, leading to a widespread perception that EHRs are not entirely worth the trouble.
+But there may indeed be value in EHRs and associated digital patient safety technologies, argues a team of researchers from Macquarie University in Sydney, Australia.  Or then again, there may not. 
+The industry simply does not have accurate quantitative data and a meaningful framework for evaluating how electronic health records impact outcomes, and existing research on the topic often contains too many gaps to fully answer the question.
+“Problems with IT are pervasive in health care. However, the evidence for IT-related disruptions to care delivery and risks to patient safety still comes largely from qualitative studies,” said Mi Ok Kim, Enrico Coiera, and Farah Magrabi from Macquarie’s Center for Health Informatics in an article published in JAMIA.
+READ MORE: Data Governance, More Attention Required for Patient Safety
+“Our capacity to reap the benefits of IT and manage new threats is contingent upon understanding the ways in which IT problems can disrupt care delivery and pose threats to patient safety.”
+The researchers examined 34 studies from six different countries, including 21 from the United States.  The articles were all related to the patient safety impacts of EHRs and CPOE, focusing specifically on the IT problems that could cause errors, delays in care, and adverse events, such as user interface design, system configuration, data access, and software updates.
+More than half of the studies linked IT problems and data governance shortcomings to patient harm or death, while 29 percent identified near-miss events that could have caused harm had they not been addressed in a timely manner.
+In order to better evaluate the relationship between health IT and negative patient outcomes, the team developed a “value chain” framework that allows for a more standardized assessment of how users interact with EHRs and how those interactions impact events.
+  Source: JAMIA
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+The first link in the chain, user interaction, includes the majority of underlying issues that have frustrated clinicians since EHRs came into fashion at the beginning of the century.  Inadequate training, poor information governance, badly designed workflows, and the constant need to juggle technology and the patient relationship can all contribute to the fundamental depreciation of the EHR’s value.
+Seventy-six percent of the studies included in the review connected insufficient EHR usability with patient safety errors.  Fifty-three percent highlighted the negative impact of default settings, while network errors, hardware malfunctions, integration with other software, and workstation accessibility also featured in the research cohort.
+Close to 60 percent the studies identified staffing and training deficiencies as a primary reason why errors occurred.  Forty-four percent flagged clinical workflow integration as a main cause for concern.
+The second step looks at the role of information received, including human and machine errors.  More than 90 percent of the studies reported information errors related to the use and design of software, the article says, such as issues with autopopulated fields that display incorrect instructions for medication dosing.
+Data entry and retrieval deficiencies, due to both human and computer shortcomings, produced incorrect, missing, partially available, or delayed information in a broad range of the studies included in the review.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+“For example, alerts about drug-drug and drug-allergy interactions failed to display (missing information) or were wrongly displayed (wrong information),” the authors explained.  “The effects of IT problems on errors and delays in clinical decision-making were reported in 76 percent of studies.”
+Incorrect, missing, or delayed information can change a clinical decision, the team added, and not usually for the better.  Data entry mistakes, improper selection from drop-down menus, and file upload problems were among the most commonly reported errors that impacted clinical decision-making. 
+In six of the studies, users ignored alerts and failed to update pertinent information.  Omission errors occurred in half of the studies.
+When decision-making changes, the care process is often altered, the framework says. 
+“Examples of such errors include medication administration errors and failure to follow up test results,” wrote the authors. “Delays in care process were linked to system access and software functionality issues, including poor user interfaces and fragmented displays.”
+“Issues with system configuration, particularly software updates, were also reported to impact care delivery.  In one study, poor integration of an electronic health record with clinical workflow disrupted care delivery in a long-term care facility.  Other effects on care delivery included cancellation of patient appointments as well as unnecessary or emergency clinical procedures and treatment.”
+Health IT problems, including network connectivity issues, often create more work for providers and lead to unauthorized workarounds that degrade data quality and may result in miscommunication.  
+In one of the studies, primary care providers said they spent two hours each week on troubleshooting their software.  Twenty-one percent of the studies discussed user workarounds, including hybrid EHR-paper workflows and using free-text fields to avoid dealing with a complicated CPOE system.
+The last component of the value chain is patient outcomes.  Actual harm or near-miss events were reported in 52 percent of the studies, while seven articles attributed patient deaths to health IT errors.
+One study from a children’s hospital found that CPOE implementation was implicated in a steep rise in mortality rates from 2.8 percent to 6.6 percent, although other systemic factors likely contributed to that number.
+“After CPOE implementation, life-saving treatment for critically ill ICU patients was delayed because orders could not be entered unless patients were registered in the system,” the team said. “New workflows caused a breakdown in doctor-nurse communication, and changes to policies and procedures for dispensing and administering medications also delayed treatment.”
+Other studies attributed mortality to patient misidentification, failures to treat due to software use errors, delays in treatment related to data access, and the performance of an incorrect procedure.
+Based on the available data, the Macquarie University authors concluded that health IT problems can significantly disrupt care, negatively impact outcomes, and contribute to patient harm.
+But they also note that these studies only offer a very limited view into the exceedingly complex problem of patient safety in the digital age. 
+Reporting gaps, poor data quality in the studies, limitations in study design, and vague descriptions of IT problems within the review set make it difficult to fully define and explore the interplay of software and human factors, they added.
+To help overcome data deficiencies and improve the healthcare system’s ability to understand and ameliorate technology-driven patient safety risks, the authors offer their value chain as a “simple yet potentially powerful way to pinpoint specific threats to patient safety and identify the effectiveness of existing system defenses and new measures required to deal with clinical errors associated with IT.”
+“Were it to be used as a standard template in future studies, it would assist in making comparative assessments between studies,” they said. “The information value chain can be applied prospectively to quantify the effects of IT problems on user interaction information received, decision-making, care processes, and outcomes.”
+Tagged Care QualityCPOEEHR ChallengesEHR UsabilityHospital QualityPatient Safety
+
+

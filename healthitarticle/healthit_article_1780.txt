@@ -1,0 +1,20 @@
+Geisinger, NIH Launch Genomic Data Repository Patient Portal
+
+October 23, 2014
+
+By Jennifer Bresnick
+A new online portal will allow patients to participate in the emerging field of genomic research by contributing their own data.
+October 23, 2014 - Patients who have undergone genetic testing can upload and share their results through a new genomic patient portal launched this week by Geisinger Health System and the GenomeConnect project from Clinical Genome Resource (ClinGen) at the National Institutes of Health (NIH).  The portal is intended to boost the GenomeConnect data repository by adding patient-generated data and an online community discussion board to the rich collection of genomic information already collected.
+“A data repository, even one as robust as ClinGen, is just the first piece of the pie when it comes to fully understanding the role genetics play in the prevention of disease and the development of treatments and therapies,” said Andrew Faucett, director of policy and education, Geisinger Health System.
+“By allowing patients to input additional medical information, GenomeConnect is designed to empower patients and allow them to contribute to our understanding of the human genome,” he continued. “Together with patients, we can learn more about the human genome and the ability to re-establish contact with patients and request additional information about their health information is critical to the clinical use of genetic testing.”
+Genetic testing is the foundation of personalized medicine, a growing area of applied analytics that can tailor treatments towards the individual patient’s likelihood to respond to certain therapies.  The technique has seen success so far in the treatment of cancer, thanks in part to big data crunchers like IBM Watson and enormous pools of clinical and test data like the Cancer Genome Atlas.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+University of California Forms Big Data, Precision Medicine Network
+But researchers still have a long way to go in order to bring low-cost testing with a high degree of completeness and accuracy to patients at large.  A recent study in JAMA found that current DNA sequencing techniques may be missing close to one fifth of inherited disease genes, which is why the compilation of massive databanks like GenomeConnect will play such an important role in allowing researchers to use the biggest data sets possible to pinpoint deficiencies and refine the process.
+“In order to advance patient care and continue genomic work to help improve the interpretation of genetic variants, it is vital that data from clinical testing be made publicly available while simultaneously respecting patient confidentiality,” said Christa Lese Martin, a principal investigator of the ClinGen project and director of the Autism & Developmental Medicine Institute at Geisinger. “GenomeConnect honors both of these pledges and will pay long-term dividends in patient care by developing an unrivaled database of genetic and clinical information.”
+“We’re trying to jump-start genomic medicine,” said Dr. Michael Gottesman, Deputy Director for Intermural Research at the National Institutes of Health, which has also worked to launch a separate program called the Clinical Center Genomics Opportunity (CCGO) to sequence and analyze genomic data on a detailed level.  “It’s as if we were missing a whole dimension – like living in flat land and wanting the third dimension to navigate the landscape of the disease you’re studying. We first need to build an infrastructure for clinical genomic sequencing that can be used by researchers in their projects at the NIH Clinical Center.”
+Tagged Applied AnalyticsBig DataMedical Research
+
+

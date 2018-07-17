@@ -1,0 +1,67 @@
+MIFID II: Expert Insights
+
+March 19, 2018
+
+What are the biggest changes the MiFID II directive brings to the financial markets?
+
+ MiFID II is one of the most complex changes in the financial services industry that we have seen in a long time. The regulation has sought to increase transparency, investor protection and trust in financial services to ultimately benefit the end-consumer. In my view, the key areas of change include the unbundling of investment research fees from trading decisions, increased transparency on costs and charges, and the sharing of target market data between product manufacturers and distributors.
+
+ How will MiFID II affect investment decisions?
+
+ This is a very broad question. The unbundling of fees will certainly cause investment/wealth managers to take a closer look at both the quality of research and its fee structure. Additionally, some wealth managers may move away from advice-only mandates, which require them to provide a suitability report that specifies how each piece of advice meets a client’s needs, and whether to proceed or not. This requirement could obviously increase the cost of serving these clients.
+
+ How has it influenced your business so far?
+
+ We have spent the last two years working closely with our clients to develop a number of key regulatory services. We successfully deployed those services last year and will continue to refine and build out these services in 2018 as regulation beds in. Our commitment reinforces SEI Wealth Platform’s position in supporting our clients, as they strive to overcome some of these complex regulatory challenges.
+
+ MiFID is a European Union law which standardizes regulation for investment services across all member states of the European Economic Area. Now in effect, MiFID II features substantial revisions that offer investors protection and transparency across all asset classes. Specifically, new rules dictate that all forms of communication concerning financial transactions are recorded so that there is an auditable trail. Crucially, compliance with MiFID II mandates that all video meetings are recorded and all participants logged, including those using meeting rooms.
+
+ “Financial service organizations that have adopted Microsoft’s UC platform are well catered for with a raft of enabling technology that supports their compliance,” said Jonathan Williams, Head of StarLeaf’s Microsoft Business Unit. “However, when it comes to video conferences and meeting rooms, organizations are faced with the need to record every meeting and log every participant. Ultimately, this means that room systems cannot be randomly used and every meeting participant must be logged.
+
+ Jonathan concluded: “Notwithstanding MiFID II and its impact on our customers, we will always ensure that employees can use their conference room facilities with ease. The StarLeaf range of Microsoft meeting room solutions enables financial service providers to meet the MiFID II regulations while presenting a simple meeting room user interface that requires no training to use and is familiar to every Microsoft user.”
+
+  
+
+ The Markets in Financial Instruments Directive, aka MiFID II, remains one of the most talked about regulations in the financial services sector. Its impacts are far reaching – both in terms of the macro structure of the overall financial markets and the internal functional areas within the financial institutions themselves.
+
+ The deadline for MiFID II compliance has already been delayed a year to January 2018 in response to concerns about the complexity of implementation. With the new deadline now upon us many banks and asset managers are still worried.
+
+ Their concerns can be primarily divided into two parts:
+
+ Data requirements
+
+ The foundation of MiFID II is data, however it requires firms to understand their data, conduct analysis of it, report it, or make decisions based upon it.. As with many other data regulations, the data requirements can be categorised under completeness, timeliness and
+
+ accuracy:
+
+ ·         Completeness. MiFID II asks for more data objects and more data points than its predecessors. For trade and transaction reporting examples include quotes, orders and transactions, and data points are the number of fields within them. For example, MiFID II requires 50 more fields to be filled out for transaction reporting than were required for MiFID I. Additionally, MiFID II requires firms to understand their execution-related data, trade data and product and client reference data – while potentially either publicising it to clients or sending it to regulators.
+
+ ·         Accuracy. One of the main aims of MiFID II is to bring standardisation to the marketplace. Standardisation makes it easier to compare firms, identify the laggards and measure accuracy. The reference data requirements are already proving onerous and have far-reaching data privacy issues for non-EU participants.
+
+ ·         Timeliness. Requirements including ‘as soon as technologically possible’ and ‘near real-time’ have become the norm for regulatory compliance since the credit crunch. MiFID II requires near real-time reporting for all trades conducted at a trading venue. Moreover, all transactions must be reported to their National Competent Authority (NCA) no later than one day post-transaction.
+
+ IT infrastructure. MiFID II will impact the IT infrastructure of all its member firms from front-to-back. In the front end, buy-side firms will need to build new execution management systems alongside existing order management systems. At the back end, golden data sources should be enriched with LEIs and ISINs for over-the-counter (OTC) products and identifiers for individuals.
+
+ The above examples simply reflect what is expected to be a significant technology uplift in what are already very cost-conscious technology organisations.
+
+ MiFID II is the EU ‘s second big initiative to regulate markets and to create new rules on how information is shared, prices are set, and how brokers pay one another.
+
+ The regulation serves a noble purpose – to democratise financial markets and to make it fairer and more stable.
+
+ The legislation is broad and far-reaching, and extends to any institution trading European securities – no matter where they are based in the world.
+
+ This regulation is a follow up to the first MiFID law, which came in 2007 and served to harmonise rules for stock trading. The financial crisis hit a year later and threatened the future outlook of the sector. Anxious policy makers worried about another financial meltdown, decided that more protection was needed to safeguard investors and to help create a more sustainable financial services model.
+
+ This concern led to the birth of MiFID II, which extends the harmonisation of rules beyond cash equity markets to include commodities, bonds and so much more. The law not only makes markets more transparent, but also regulates trading behaviour and lifts the curtain on the actual cost of trading and investing in stocks for those that are buying them.
+
+ At present, many securities are still traded in broker-to-broker deals, which is opaque and investors can’t determine whether they are getting the best deals. MiFID II will change this scenario while also ushering in a new era of open and regulated platforms. Automated trading currently makes up more than half of all trades and several major flash crashes have been blamed on these computer algorithms. To protect investors, the platforms must be registered with regulators and to include circuit breakers to shut them down.
+
+ It’s not just automated trading platforms that will be impacted by regulation. Research once provided for free by financial institutions, analysts and paid for by trading commissions will need to be paid for by fund managers and other third parties, to avoid conflict of interest.
+
+ This has sparked some concerns for SMEs, as MiFID II will indirectly impact the smaller end of the market as research could focus on the bigger sectors and companies. Brokers will probably avoid covering small-cap SMEs, impacting those firms’ ability to access investors.  At the same time investors will be reluctant to invest into SMEs with low level of research available or reduced quality. Long term, this could undermine the ability for these businesses – the bread and butter of every economy- to scale and grow.
+
+ While MiFID II has been created with the best of intentions to stabilise the markets and offer greater protection for investors, more needs to be done to support the SMEs that could potentially be shut out from the benefits that MiFID II aims to create.
+
+  
+
+

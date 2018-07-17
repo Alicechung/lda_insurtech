@@ -1,0 +1,25 @@
+RiverMeadow Software Inc. Announces Support For Azure As A Target Cloud
+
+22 May 2018
+
+RiverMeadow Software Inc., a leading provider of automated Application Migration Technology and Services, announces support of Microsoft’s Azure Cloud Computing Platform.
+RiverMeadow’s SaaS platform was purpose built for the cloud and allows users to Lift and Evolve their applications as part of their migration journey to the cloud.
+Delivered as a SaaS Platform, the ability to quickly and easily migrate to Microsoft Azure is available to Customers immediately.
+Jim Jordan
+“Due to a significant increase in demand from customers and partners over the last 12 months and with the support of our partner Microsoft, RiverMeadow decided to prioritize our development efforts to support Azure as a Target Cloud. Our Customers and Partners are having tremendous success using RiverMeadow’s SaaS Platform and were requesting our capability to support their multi cloud strategies. We will be publicly announcing numerous large Azure engagements in the near term,” said Jim Jordan, President and CEO of RiverMeadow Software.
+Key Features of RiverMeadow Saas Platform
+Migrates between physical, virtual, and any cloud platforms to multiple target cloud platforms
+Hardware independent between server and storage hardware
+Hypervisor agnostic
+Does not require hypervisor access
+Automatically provisions new virtual machines on cloud targets – no manual configuration required
+Live Migration – source workloads remains active during migration
+Agentless – no software required to be installed, no reboot required
+Preflight readiness checks (source and target) to ensure migration success
+Unlimited delta Syncing
+Post-migration automation to Evolve your workload (modify, customize, update, enhance your workload)
+Data Only Migration – allows you to move data volumes only, swap OS versions, upgrade OS as part of a migration
+Deep feature support for Target Clouds
+Enhanced Data transfer engine – throttling, multi-threading, tunneling
+
+

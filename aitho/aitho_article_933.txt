@@ -1,0 +1,15 @@
+Zyxel Partners With Enea To Enhance Application Visibility For Security Solutions
+
+10 Apr 2018
+
+Zyxel Integrates Enea’s Qosmos ixEngine into its ZyWALL UTM All-In-One Network Security Device
+Enea®, a global supplier of network software platforms and world class services, today announced that Zyxel Communications has embedded Enea’s Qosmos ixEngine® within Zyxel’s ZyWALL UTM line of Unified Threat Management (UTM) products to provide in-depth application visibility into network traffic flows.
+Focused on innovation and customer-centricity, Zyxel has been connecting people to the Internet for nearly 30 years. The company supplies networking and security solutions for telcos and service providers, businesses and home users.
+Nathan Yen
+ZyWALL UTM is an all-in-one network security device that provides content filtering, anti-virus, anti-spam and intrusion detection services traditionally handled by multiple systems. Qosmos ixEngine identifies and extracts information traveling over networks in real time, providing a true picture of the traffic by identifying protocols and types of applications. This allows ZyWALL UTM to block, filter and mitigate security threats before they affect networked assets.
+“Our customers’ networks need to be protected against increasingly complex threats, up to the application level,” said Nathan Yen, AVP of the Gateway Business Unit at Zyxel. “By embedding Qosmos ixEngine in our ZyWALL UTM, we are able to deliver unprecedented levels of security. The partnership with Enea also means that we can focus all our resources on enriching our security portfolio, while relying on Enea for continuous updates of protocol signatures.”
+Jean-Philippe Lion
+“Zyxel recognizes that the complexity and speed of change in network protocols and applications requires dedicated expertise,” said Jean-Philippe Lion, Senior Vice President of the DPI Business Unit at Enea. “I am pleased that we can strengthen Zyxel security products with best-in-class network intelligence technology.”
+Qosmos ixEngine is the de facto industry-standard for IP classification and metadata extraction, based on Deep Packet Inspection (DPI). Cybersecurity and networking specialists use Qosmos ixEngine to gain application visibility, accelerate development and strengthen capabilities of new solutions.
+
+

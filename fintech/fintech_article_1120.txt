@@ -1,0 +1,17 @@
+Ping Goes the Blockchain: Partnership Brings Consensus, Kill Switch with New Platform
+
+June 24, 2016
+
+The announcement from Ping Identity came as part of the launch of distributed app platform designer Swirlds (as in “Shared Worlds”), which emerged from stealth last week and unveiled its hashgraph distributed consensus platform. Swirlds enables developers to create distributed apps – permissioned and non-permissioned – with high throughput, fairness, and community consensus. The Swirlds platform differs further from the blockchain in that it has the ability to provide a timestamp of events as well as an evidentiary record. This functionality, which goes beyond what is available via the bitcoin blockchain, enables the platform to support a wide variety of transactional applications ranging from banking and trading markets to gaming and identity apps to cryptocurrencies and public ledgers.
+
+ Swirlds CEO Leemon Baird said, “Nobody is talking about building a stock market on Bitcoin blockchain, but you could do it on Swirlds.” Baird added that Swirlds could serve as a standard for distributed session management. Here is a detailed overview of Swirlds’ “fair, fast, provable, Byzantine, ACID compliant, efficient, inexpensive, timestapped, DoS resistant and optionally non-permissioned” technology.
+
+ What Ping Identity adds to the Swirlds platform is a way to manage identities across sessions and apps. Essentially, the technology keeps identity session databases synced to facilitate global session logout. The technology could be used, for example, to do away with the notion of “logging in” to a specific app or session. Instead, the user’s identity could follow the them across apps and sessions, creating a better user experience while maintaining a high level of security. “The reason for application sessions is we don’t have continuous authentication,” Ping Identity Senior Director of Architecture and Labs Mance Harmon told ZDNet’s Identity Matters. “If the identity in the session goes away, you need a kill switch that works across client types.”
+
+ In addition to the technical partnership, Ping Identity has invested capital in Swirlds, as well.  “Swirlds represents a huge technological breakthrough that can change the way distributed consensus communities function across a myriad of industries and use cases,” Ping Identity CTO Patrick Harding said. Calling the new it “the new identity standard,” Harding said the technology “solves the major challenges that identity professionals face in conducting and verifying session logout.”
+
+ Founded in 2003 and headquartered in Denver, Colorado, Ping Identity demonstrated PingFederate, Cloud Identity Connectors, and integration with third party products at FinovateEurope 2012. The company announced new features to its PingFederate security solution in February, adding elastic scalability and contextual multi-factor authentication. Named one of the top 100 tech companies in Colorado in 2015 by Built in Colorado, Ping Identity was acquired by Vista Equity Partners in June.
+
+ 
+
+

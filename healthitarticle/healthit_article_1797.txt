@@ -1,0 +1,18 @@
+Docs return to bad antibiotic habits when monitoring ends
+
+October 14, 2014
+
+By Jennifer Bresnick
+October 14, 2014 - Physicians being monitored for overprescribing antibiotics may return to their bad habits when feedback about their performance ends, according to a new study published in JAMA this month.  While stewardship interventions are effective in reducing rates of unnecessary antibiotic prescriptions providers increased their prescription rates again by more than 10% when left to their own devices after intervention programs ended.
+A study by the Centers for Disease Control and Prevention (CDC) recently found that up to 78% of hospitals may be overusing antibiotics to treat relatively low-grade conditions, contributing both to unnecessary spending and to the growing resistance of deadly superbugs to conventional treatments.  “Overuse and inappropriate use of antimicrobials is a major public health issue and contributes to patient harm, antimicrobial resistance, and unnecessary healthcare costs,” the study says. “It has been recognized for several decades that of patients receiving antimicrobial therapy, up to half receive unnecessary or inappropriate therapy, including redundant therapy.”
+While the CDC advises providers to rein in their antibiotic use, and some organizations are taking significant steps to do so, the impact of education programs may not be as permanent as one could hope.
+Researchers at the Children’s Hospital of Philadelphia and Perelman School of Medicine at the University of Pennsylvania decided to conduct a follow-up to a randomized trial studying the impact of retraining physicians on antibiotic use for children.  After enrolling 18 community pediatric primary care practices using a common EHR, the team provided interventions to half of the providers that included a one-hour review session on clinical guidelines and an audit and feedback program of antibiotic prescriptions.  The control group received no instruction or advice on their medication processes.
+Dig Deeper
+CDC Focuses on Patient Safety with Expanded Sepsis Education
+6 EHR Patient Safety Strategies for Medication Orders, CPOE
+EHR Usability Shortfalls May Up Pediatric Patient Safety Risks
+During the 12-month feedback period, the prescription of broad-spectrum antibiotics decreased from 26.8% to 14.3% among intervention practices and 28.4% to 22.6% in the control group.  After the end of the audits and feedback, however, providers prescribed even more antibiotics than they did before the program.  The rate of antibiotic use rose to 27.9% among the intervention group and up to 30.2% in the control group.
+“Antimicrobial stewardship programs, which have been shown to reduce antimicrobial use, improve patient outcomes, and reduce healthcare costs, are recommended for hospitals but rarely extend to the outpatient setting,” the researcher wrote.  “These data suggest that audit and feedback was a vital element of this intervention and that antimicrobial stewardship requires continued, active efforts to sustain initial improvements in prescribing.  Our findings suggest that extending antimicrobial stewardship to the ambulatory setting can be effective but should include continued feedback to clinicians.”
+Tagged Patient SafetyQuality Of Care
+
+

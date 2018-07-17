@@ -1,0 +1,50 @@
+Real-Time Scheduling Data Helps BIDCO Manage Population Health
+
+March 27, 2018
+
+By Jennifer Bresnick
+March 27, 2018 - At Beth Israel Deaconess Care Organization (BIDCO), coordinating care and managing population health for the patients of more than 2500 affiliated providers comes with a number of organizational and technical challenges.
+More than 40 different electronic health record (EHR) vendors are in use within the accountable care network, which sprawls across dozens of towns in Eastern and Central Massachusetts. 
+And as a participant the Medicare Shared Savings Program (MSSP) as well as a new member the MassHealth ACO with Tufts Health, trimming inefficiencies to succeed under value-based care agreements is high on the organization’s agenda.
+Bill Gillis, Chief Information Officer at BIDCO
+Source: Xtelligent Media
+In order to deliver coordinated, high-quality care across a relatively fragmented health IT landscape, BIDCO is leaning heavily on its analytics skills and big data assets, says Chief Information Officer Bill Gillis.
+Centralizing the data pool to reduce siloes and enable more cohesive analysis is key for a network that includes so many different vendors, Gillis told HealthITAnalytics.com.  
+READ MORE: The 7 Step Plan to Success with Big Data Analytics in Healthcare
+“Historically at BIDCO, our care management, population health, and analytics work were all conducted with independent systems,” he explained.  “In the past year, however, we’ve implemented a new platform that lets all those activities be driven from the same dataset.”
+“That produces several benefits.  Moving the data around less often prevents some of those quality issues that tend to occur when you’re taking information from one place to another or changing it into different formats. Having a single source of truth allows us to do more with our data, and do it more reliably.”
+BIDCO has been working to integrate as many useful data sources as possible into its centralized system to increase visibility into population health patterns and identify opportunities to close gaps in care. 
+One of those projects revolves around enabling access to real-time scheduling data across different practices and EHR vendors.
+BIDCO already shares reports on gaps in care, total medical expenses, and utilization levels with its member practices.  But in order to get proactive about managing chronic diseases and completing recommended screenings, BIDCO providers started asking for more.
+READ MORE: How to Get Started with a Population Health Management Program
+“We would tell our practices, ‘Here’s your population of diabetic patients that need a screening in the next three months – now you can do what you need to do,’” Gillis said.  “But they would come back to us and say, ‘No, that’s not accurate.  We know these five people have already been in, and these four have scheduled appointments for next week.”
+“It’s not a smart use of their time to call everyone on the list if some of the people are already in the process of getting what they need. So we knew we had to start bringing in scheduling data from out various clinical systems to get a more accurate view of where our practices are in real-time.” 
+Accessing scheduling data, even from disparate electronic health records, is actually easier than breaking down siloes that limit the utility of other categories of data, Gillis said.
+“All EHRs tend to have a scheduling component, and the interface is fairly standard,” he noted.  “The specs have been around for decades.  It’s very different than when you’re trying to pull clinical data – there are very few standards there, although FHIR is gaining ground.”
+“With scheduling data, it’s more a matter of organizing it and integrating it into our single analytics platform so that it can help us understand our care patterns in real time.”
+READ MORE: Identifying Big Data Sources for Population Health Management
+In an accountable care environment, providers can’t be limited to knowing what happened in the patient's past, he continued. 
+“We need to know what is actually going on now, as well as what is potentially going to happen in the next week, next two weeks, or next month,” he said. 
+Understanding patterns in patient behaviors, such as repeatedly missing appointments or cancelling at the last minute, can help providers have more productive conversations about potential barriers to care or an individual’s socioeconomic challenges.
+“If you can get that visibility into all of a patient’s activities, you might even do a better job of making sure that the patient isn’t going to the same building three times in a week for different providers – maybe you can get them an appointment on the same day to reduce their travel burden or the time they need to take off of work,” he added.
+“Without adding scheduling data to everything else we know about the patient and his or her clinical state, we’re missing an opportunity to put that last piece of the puzzle in place.”
+After starting to allow access to scheduling data at a limited number of sites to test the process and associated workflows, Gillis was inundated with demands to expand the initiative.
+“Everyone wanted us to get the scheduling data out of all of the EHRs and clinical systems in our network as soon as humanly possible,” Gillis said.  “We’ve very quickly increased availability to about 80 percent of our providers, and we’re planning to have the last 20 percent in the platform by the middle of 2018.”
+The project has produced an immediate positive impact for providers and patients.  “It helps smooth out so many processes, and it has very quickly boosted the efficiency of our care managers as well as the satisfaction from our patients,” he said. 
+“No one wants to call a patient only to find out that the person already has an appointment on the books.  And no patient wants to have to tell a dozen different people that they’ve gone through this process already with someone else, so why are they still getting calls?”
+The next evolution of the project will be to deploy a desktop module that allows users to view all existing data on an individual patient no matter where in the network that data originated, said Gillis. 
+Beth Israel Deaconess Medical Center has a global consent policy, he explained.  Once signed, the policy allows the organization to share an individual’s data with any other provider in the BIDMC network. 
+That reduces some of the barriers to data sharing and allows providers to work with patients more comprehensively, especially when financial risk is involved. 
+“In a value-based world, we need to be able to manage our practices better and our patients better,” said Gillis.  “We want our practices to be able to maximize their scheduling abilities, which helps patients get in quicker in addition to making a difference to the bottom line.”
+“Access to data is the start of developing the strategies that are going to allow more efficiency and better patient management.”
+At the practice level, groups need to deploy complementary communication strategies that will take advantage of the real-time access to appointment data, added Gillis.
+
+“If you’re going to make this work, you have to be sure that you have a straightforward communication pathway to your patients,” he said.  “Whether it’s text message campaigns or automated phone calls, you can reduce a lot of the manual work by finding out what patients prefer and employing these easy methods of generating reminders for appointments.” 
+“For your more complex patients, including those who frequently miss or cancel appointments, you want to have care managers available to work with them and figure out how to get them where they need to go.  You want to make sure that the practices feel equipped with the time, information, and staff to have that personal relationship with their patients.”
+BIDCO planning to continue exploring new ways to integrate and analyze big data to optimize care quality and improve patient satisfaction across its many offices and care sites.
+“Over the next year, we’re going to be working on pulling in a lot more information from more sources, including the Internet of Things, inpatient EHR systems, and anywhere else we can find trustworthy data that is going to help us better understand the delivery of care,” said Gillis.
+“There’s no other way to ensure that you’re providing value.  As an industry, we have been looking at the potential of big data for a long time, and we’re starting to come to the conclusion that we can’t do value-based care without it.”
+“We’re just starting to scratch the surface, and everyone is trying to find the best way to dig down into the problem.  We think our approach of trying to unify the data and get rid of those siloes is a critical first step, but there’s so much more we can do.”
+Tagged Accountable Care OrganizationsAnalytics InfrastructureChronic Disease ManagementElectronic Health RecordsInterviewsPatient SatisfactionPopulation Health ManagementValue Based Care
+
+

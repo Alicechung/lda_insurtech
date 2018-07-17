@@ -1,0 +1,32 @@
+IoT, EHRs to Push Healthcare API Market to $243M by 2024
+
+May 30, 2017
+
+By Jennifer Bresnick
+May 30, 2017 - The Internet of Things (IoT) and rising investments in state-of-the-art EHR technology will contribute to the ongoing growth of the healthcare application programming interface (API) marketplace, according to a new report by Transparency Market Research.
+Globally, the API ecosystem will expand from $162.4 million in 2015 to $243 million by 2024, representing a 4.2 percent compound annual growth rate (CAGR).
+“Growing focus on patient-centric healthcare delivery via application programming interfaces has been noted over the recent past and the emergence of a host of services, such as wearable medical devices and remote patient monitoring has spurred the demand for healthcare API solutions,” an accompanying press release says.
+Much of the market will be centered in North America as providers, payers, and other members of the care continuum invest in patient-centered technologies and other tools powered by data standards such as FHIR.
+The internet-based protocol makes it easier for developers to create healthcare applications that draw on existing datasets, which is rapidly increasing demand for public access to APIs.
+READ MORE: APIs Boost Care Coordination, Data Exchange at Northwell Health
+The strategy may help health IT developers overcome some of the fundamental interoperability issues that have thus far plagued the industry and stymied the adoption of value-based reimbursements, said a recent report by Chillmark Research.
+“The importance of interoperable healthcare data will only increase as the transformation to value-based healthcare quickens,” wrote author Brian Murphy. “Lessons learned about data liquidity and wider choice in application functionality for users in wider IT are seeping into healthcare.”
+“We think that the most likely path to better support for healthcare information exchange is API programs that support HIPAA-compliant access to any data source at any organization.”
+EHR technology companies are quickly embracing the API zeitgeist by offering developer sandboxes and access to their patient datasets. 
+Allscripts, athenahealth, Cerner, Epic Systems, and other leading EHR vendors have been heavily promoting their marketplaces and application development programs that encourage third-parties to harness open APIs to create innovative health IT options for end-users.
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+“Our clients are very excited about APIs,” said Tina Joros, Allscripts VP and Open Business Unit General Manager.  “They have a lot of questions about how they can use them, and we’re working with a large number of developers who are now able to connect using those solutions.”
+API-driven applications cover a broad range of tools and tasks, including clinical decision support and predictive analytics, patient-provider communication, documentation aids, and big data visualizations.
+Northwell Health in New York is currently using APIs to improve data exchange and care coordination at its 21 hospitals and network of associated entities.  An API system that extracts information directly from a patient’s EHR is smoothing the delivery of admission, discharge, and transfer (ADT) notifications across the care continuum.
+“When the patient is admitted or discharged, we send out a message that says, ‘Mrs. Jones has been admitted to this unit in this hospital for this problem.’  It makes it much easier for the PCP to know they have to follow up – and what they’re following up about,” explained Northwell Health’s Chief Information Architect Vish Anantraman, MD, MS.
+“We can also customize that message to make it more intuitive.  We can put a header on it that says if the message is a reminder, if it’s just informational, if there’s a document attached, or if it’s talking about a task that needs to be completed in a timely way.”
+READ MORE: APIs, EHR Data Integrity, Patient Access Key to Value-Based Care
+In addition to clinical use cases such as chronic disease management, population health management, and the collection and analytics of patient-generated health data from Internet of Things devices, APIs are likely to take root in the administrative sphere, the report states.
+“To a large extent, this growth can be attributed to large hospitals and laboratories looking for automated solutions for the management of non-core activities such as patient appointment booking and order tracking,” says the report.
+“Given the ease and flexibility the healthcare application programming interface provides in scheduling appointments with doctors, the appointment segment is the most preferred healthcare API service. The segment is also anticipated to expand at the highest CAGR of 4.3 percent from 2016 to 2024.”
+The report identifies Epic Systems, Microsoft, Allscripts, GE, eClinicalWorks, and Apple as current leaders in the API service field.  They are likely to maintain their positions as the API environment develops in healthcare.
+"The market for data interoperability is at a point where participants are more open to new approaches and technologies based on modern ideas about developing web scale, distributed applications,” Chillmark author Murphy said.
+“A lot of this is being driven by user experiences with technology as consumers. There is a broad belief among most healthcare end-users that health IT can do a far better job of delivering data and providing functionality that is easier to use and more responsive to their needs."
+Tagged Analytics InfrastructureApplication Programming InterfacesEHR VendorsFast Health Interoperability ResourceFHIRHealthcare Internet of Things
+
+

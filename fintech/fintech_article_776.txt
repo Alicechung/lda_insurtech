@@ -1,0 +1,45 @@
+Blockchain and Fraud Risk — What’s it look like? We take you through two cases
+
+June 21, 2017
+
+Like any means of value transfer and storage, solutions based on blockchain technology are vulnerable to fraud. According to the Association of Certified Fraud Examiners (ACFE) fraud is:
+
+ An intentional act or omission designed to deceive others, resulting in the victim suffering a loss and/or the perpetrator achieving a gain.
+
+ However, our studies show that the allegations raised by regulators and compliance professionals, that anonymity and decentralized architecture of digital currencies makes them perfect means for fraud, are far from being accurate.
+
+ Unlike the traditional financial system, where due to bank secrecy, transactions can be tracked only within a particular financial institution and identity of the customer is examined only in relation to transactions within that particular institution, with the proper tools blockchain transactions can be tracked end to end.
+
+ Here we present two examples of investigations conducted, related to blockchain transactions in bitcoin.
+
+ Example 1:
+
+ An investigation was conducted pursuant to an anonymous whistleblowing complaint. The complaint alleged that the Head of Purchasing Department of a large manufacturing company was taking bribes in Bitcoin from one of the vendors for extending their contract with the manufacturer for consecutive time periods without bidding
+
+ In the course of our investigation we contacted the Bitcoin exchanges partnered with us to verify whether the suspect was one of their users. Simultaneously we preserved the computer of the suspect and his server stored mailboxes to examine any suspicious contact with vendors.
+
+ Among other things, we used specialist forensic software to look for any 28–35 character expressions starting with 1 or 3 that meet certain mathematical patterns in order to identify any Bitcoin addresses that may have appeared in the correspondence. We located an email from the suspect to an unidentified private email address stating “the settlement for March 1CfTWePMaBvBG3gYGTyQngpdvtgqURXZpa”.
+
+ With the use of our blockchain analysis platform, we have confirmed that there were three 30 BTC payments made to the above address in approximately quarterly intervals. We have also confirmed with one of our partnered exchanges that the suspect registered the address. The records of the public ledger, preserved email and testimony of the partnering exchange were used for a lawsuit against the vendor and Head of Purchasing Department.
+
+ Below are some screenshots from this analysis performed in our graph database:
+
+ 
+
+ 
+
+ Example 2:
+
+ We were approached by a leading digital currency exchange, the owners of which claimed that their system has been hacked and significant amounts of various digital currencies were stolen. Internal investigation of the exchange revealed that the scheme involved malware being sent to email and Skype accounts of selected employees.
+
+ The classic approach would be to attempt to track the hacker by the fingerprints of the malware. Instead we used our blockchain analysis platform to track the flow of funds from corrupted addresses to any known endpoints in which addresses and transaction hashes known to belonging to particular exchanges, entities and individuals or those which are tagged with any additional information other than the blockchain ledger itself.
+
+ Our platform receives data about addresses and transactions from various sources, which include data harvesting from the Internet, Tor, Deep Web, partnered exchanges, wallets and other market participants. Our platform also utilizes advanced clustering and pattern analyses to detect addresses belonging to the same user and connected parties, and several other means.
+
+ With the use of advanced taint and paths analyses we have identified multiple paths between the corrupted address and known exchange addresses and addresses of Reddit forum users. The signal coming out of the entire chaos of data was that after the chain of 12–50 transactions going through anonymizers (mixers), a part of the funds were cumulated on the group of known addresses before being further disbursed. Interestingly, parts of the ultimate beneficiary addresses were registered to a profile of a client of the victim exchange.
+
+ One can see that fraud with the use of blockchain transactions is not as intangible as it was thought just a few years ago.
+
+ Coinfirm https://www.coinfirm.io
+
+

@@ -1,0 +1,42 @@
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+
+February 25, 2016
+
+By Jennifer Bresnick
+February 25, 2016 - The White House’s Precision Medicine Initiative (PMI) is kicking off in a big way this month, officials announced today at an industry summit. 
+Stakeholders from across the healthcare continuum gathered to share new ideas, receive the first of a series of grants, and demonstrate their commitment to the future of personalized medicine and advanced genomic research.
+“Doctors have always recognized that every patient is unique, and doctors have always tried to tailor their treatments as best they can to individuals,” President Obama said in January of 2015. “You can match a blood transfusion to a blood type — that was an important discovery.
+“What if matching a cancer cure to our genetic code was just as easy, just as standard? What if figuring out the right dose of medicine was as simple as taking our temperature?”
+Vendors, providers, research organizations, and government agencies are driving quickly towards that goal, helped along by the promise of more than $200 million in funding from bipartisan legislation signed last year.
+READ MORE: Can IBM Watson Prove the Value of Precision Medicine in China?
+The National Institutes of Health and FDA accelerate the pace
+The NIH is taking a leadership role in the development of a large-scale patient databank intended to allow broad access to deidentified data on at least one million patients.  The organization announced a grant to Vanderbilt University and Verily – formally Google Life Sciences – to begin building the foundations for the PMI Cohort of patient volunteers.
+NIH officials will also collaborate with the Health Resources and Services Administration (HRSA) to recruit underrepresented patient groups for inclusion in the national sample, in order to ensure an appropriately diverse big data sample.
+The Office of the National Coordinator will also work with the NIH to develop the “Sync for Science” pilot program, a data standards initiative involving electronic health record vendors.  The pilot will “inform efforts to scale individual data access and donation for precision medicine research, and could be used to support implementation of consumer-mediated data access across the healthcare industry,” the White House says.
+The FDA is also heavily involved in the Precision Medicine Initiative.  At the summit, FDA officials announced the launch of the first precisionFDA challenge, which will leverage the new precisionFDA platform to foster the development of more accurate and consistent genomic testing.
+READ MORE: CMS: Big Data Access Vital for Precision Medicine, Drug Pricing
+Patient engagement and open EHR data access take center stage
+A major component of the Precision Medicine Initiative involves patient engagement and an increase in health information exchange.  To help patients develop more robust relationships with their providers and their personal health information, CHIME and OpenNotes announced a new partnership that will accelerate information sharing.
+“We are seeing a tremendous swing toward value-based care and consumerism in healthcare,” said CHIME President and CEO Russell Branzell, FCHIME, CHCIO. “Patient engagement is a big part of that movement, but to be true partners in their care, patients must have access not only to their basic health records, but the notes that clinicians make during appointments. This partnership with OpenNotes is a terrific opportunity to promote innovative change in medical practice designed to increase patient engagement.”
+OpenNotes has become of the industry’s most successful patient engagement initiatives, garnering overwhelmingly positive praise from patient and provider participants alike.  Increased access to personal health data helps to develop personalized care models that may improve outcomes and patient satisfaction.
+“We’re learning that patients who read their notes feel more in control of their healthcare and are more likely to understand the treatment plan,” said Tom Delbanco, MD, and Jan Walker, RN, MBA, of OpenNotes. “OpenNotes represents a culture shift, and we’re hopeful that our relationship with CHIME will help us move closer to our goal of making openness the standard of care for all patients.”
+READ MORE: Chan, Zuckerberg Donate $10M to UCSF Precision Medicine Lab
+The Patient-Centered Outcomes Research Institute (PCORI) is also making a pledge to increase data access.  Its twenty Patient-Powered Research Networks (PPRNs) will encourage members to take advantage of EHR data sharing opportunities for their own health – and then offer their data up to further appropriate research.
+“Information that reflects the everyday, lived experiences of ordinary patients is vital for health research to ensure that it focuses on the questions that matter most to patients and the results are directly applicable and useful to a wide range of patients,” said  Joe Selby, MD, MPH, PCORI’s Executive Director.
+EHR vendors recommit to health data interoperability
+“Healthcare technology is the foundation of success for personalized medicine,” stated Tom Skelton, CEO of Surescripts, and the EHR vendor community is taking the concept to heart.
+A number of well-known companies, including Allscripts, athenahealth, Cerner, drchrono, Epic Systems, and McKesson will use standards-based APIs when participating in the Sync for Science pilot this year.
+“Cerner is committed to helping advance precision medicine through patient-enabled research to help break down data silos,” said Dr. David McCallie, Senior Vice President of Medical Informatics at Cerner. “It’s an investment in the future of health care, which will benefit the industry overall.”
+The AMA will also take part in the process by continuing to educate providers about best practices for EHR use.  The physician organization will promote the Precision Medicine Initiative among its thousands of members, and will also disseminate information about how to participate in volunteer opportunities.
+Big data analytics will bring personalized medicine into everyday care
+Providers and vendors alike are working together towards the ultimate goal of making precision medicine available to every patient. 
+Intermountain Healthcare, which has already connected 80 percent of its Precision Genomics patients with targeted drug therapies, will work with Syapse to expand patient access to genomic information and other clinical data.
+Boston Children’s Hospital and Harvard Medical School, along with University of Utah, Recursion Pharmaceuticals and Pairnomix, have announced the formation of the Patient-Empowered Precision Medicine Alliance, which will target new therapies for rare or previously unknown conditions.
+"With recent advances in genomics and genetic testing, we can now rapidly identify the mutations responsible for many rare or 'orphan' diseases," says Alan Beggs, PhD, director of Boston Children's Manton Center.
+"The challenge now is to turn these discoveries into targeted treatments through partnerships among geneticists, biochemists, pharmacologists and, most importantly, patients and their families. Our Alliance unites hospital and university research groups, pharmaceutical and biotech companies and the patient community to allow rapid drug discovery, preclinical testing and development."
+Meanwhile, IBM Watson is continuing to make healthcare headlines by working with the New York Genome Center to train the supercomputer to perform advanced genomic analysis.
+"Our vision is to create a comprehensive cancer data repository that combines whole genome, exome, targeted panel and phenotypic data in an open platform that will empower researchers and clinicians,” said Robert B. Darnell, MD, PhD, New York Genome Center's Founding Director and CEO.
+“We believe that iterative analysis of the data and integration with our growing knowledge of cancer will allow doctors to provide better, personalized treatment."
+Tagged InteroperabilityMedical ResearchPersonalized MedicinePrecision Medicine
+
+

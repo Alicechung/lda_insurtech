@@ -1,0 +1,33 @@
+NIH Awards $9M for Open Source, Cloud-Based Big Data Commons
+
+November 07, 2017
+
+By Jennifer Bresnick
+November 07, 2017 - The National Institutes of Health (NIH) has selected twelve recipients of $9 million in grant funding to support the development of an open source, cloud-based data common for biomedical big data.
+The pilot phase of the NIH Data Commons will create a shared, secure space to share data sets and analytics tools that support a wide variety of research topics, especially those related to precision medicine and genomics.
+“The NIH Data Commons Pilot Phase will create new opportunities for research not feasible before,” said NIH Data Commons Pilot Phase Program Manager, Vivien Bonazzi, PhD.
+“Making biomedical data sets accessible and connected at an unprecedented scale will lead to creative new ways to combine, analyze, and ask questions of the data to generate new knowledge.”
+The twelve awardees, who hail from US research labs, non-profit entities, software developers, and academic organizations as well as several universities abroad, will work to develop key interoperability and data accessibility initiatives during the four-year pilot.
+READ MORE: “Basic Science” of Healthcare Big Data Analytics Still Needs Work
+"This project represents the culmination of years of effort to finally bring biomedical research into the internet and cloud computing era," said David Haussler, director of the UC Santa Cruz Genomics Institute, which has partnered with MIT, Harvard, and the University of Chicago to form one of the dozen facilitating teams.
+Three NIH data sets, including collections of genomic data from both humans and animal species, will serve as guinea pigs for the participants, who will facilitate the development of infrastructure that meets the NIH’s FAIR criteria: findable, accessible, interoperable, and reusable.
+“Harvesting the wealth of information in biomedical data will advance our understanding of human health and disease,” said NIH Director Francis S. Collins, MD, PhD. “However, poor data accessibility is a major barrier to translating data into understanding. The NIH Data Commons Pilot Phase is an important effort to remove that barrier.”
+The cloud-based approach to developing the data commons is intended to make it much simpler for researchers to interact with data without requiring access to massive computing resources of their own.
+"Many of the important questions we're asking now require us to interrogate these very large datasets, but nobody has the time or money to download all that data to their host institution and analyze it in its entirety," explained Benedict Paten, assistant professor of biomolecular engineering at UC Santa Cruz.
+READ MORE: IBM: Blockchain, Artificial Intelligence Combo to Alter Healthcare
+"The cloud provides co-located compute and storage resources. If we have everything in one place, researchers can just rent compute time and use the available tools to analyze the data."
+Open source development will ensure that the national and international facilitators will be able to create interoperable infrastructure with as much transparency as possible. 
+The entire community will need to endorse unifying principles and data governance guidelines, the NIH said, related to how to create, exchange, and manage “digital objects” such as individual data packets.
+"What we're building is essential to the future of biomedical science, because it will allow us to ask questions we couldn't otherwise ask and do things on a scale we never could before," Paten said. "At the nuts-and-bolts level, it's a big software engineering project, but its impact will be completely transformational."
+The initiative furthers the NIH’s commitment to making big data available to as many entities as possible.  In 2016, the organization launched the Genomics Data Commons (GDC) under the umbrella of the Precision Medicine Initiative with a similar goal. 
+READ MORE: NIH Takes on Population Health Disparities with Social Epigenomics
+Based at the University of Chicago, the repository held nearly two petabytes of genomic information at the time of its inception, and currently contains data on more than 32,000 cases of cancer originating in 60 primary biological sites, such as brain, lung, and breast cancer.
+Overseen by the National Cancer Institute (NCI), a division of the NIH, the GDC offers a successful early prove point for the new data commons pilot.
+The GDC gives users access to data visualization tools, allowing researchers to interact with and explore the rich repository of cancer data.  These capabilities are “transforming the GDC from a cancer genomics data repository into an interactive knowledge base,” NCI said when announcing the availability of the tools in June.
+Both initiatives are attempting to solve similar problems with data access, the availability of computing power, and the ability to collaborate with colleagues working on some of the most complex and challenging precision medicine and big data analytics puzzles in the world.
+Cloud-based data sharing networks that democratize access to curated, trusted, large-scale data sets may revolutionize the way researches interact with the raw materials for their biomedical breakthroughs.
+“The NIH Data Commons promises to transform the way public biomedical data is stored and analyzed,” said Brandi Davis-Dusenbery, PhD, CEO, Seven Bridges, which is collaborating to create the FAIR4CURES consortium with Elsevier, UK-based software developer Repositive Ltd., and the Boston Veterans Affair Research Institute.
+“An effort of this scale has never been tried before and its focus on interoperable data accessibility answers the call to break open data siloes, setting new standards for healthcare research.”
+Tagged Analytics InfrastructureCloud Computing in HealthcareGenomicsHealthcare InteroperabilityMedical ResearchPrecision Medicine
+
+

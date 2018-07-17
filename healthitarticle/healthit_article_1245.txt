@@ -1,0 +1,43 @@
+One Week to Go: Top 5 ICD-10 Implementation Facts to Remember
+
+September 24, 2015
+
+By Jennifer Bresnick
+September 24, 2015 - Anyone still holding out hope for an ICD-10 implementation delay may finally need to resign themselves to the fact that the new code set is coming – and there is only one week left until the fateful day dawns. 
+After years of debates and delays, the healthcare industry will finally have to face the music on October 1 2015, despite the fact that trepidation, uncertainty, and unpreparedness are still rife among a worryingly large number of providers.
+There may be little time left to make major technology upgrades or conduct large-scale testing with external business partners, but organizations do have an opportunity for some final system checks and a few last-minute pep talks for their billers, coders, and physicians.
+With only four business days left until October 1, what should health information managers and ICD-10 project leaders keep in mind as they tick down the hours until ICD-9 is no more?
+All claims with dates of service on or after October 1, 2015 must use ICD-10 codes
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+“Starting on October 1, Medicare claims with a date of service on or after October 1, 2015 will only be accepted if they contain a valid ICD-10 code,” stated Acting CMS Administrator Andy Slavitt in a recent industry letter. “The Medicare claims processing systems will not have the capability to accept ICD-9 codes for dates of service after September 30, 2015 or accept claims that contain both ICD-9 and ICD-10 codes.”
+However, October 1 isn’t exactly the drop-dead date that it appears to be.  While all claims with dates of service on or after October 1 must be coded in ICD-10, many providers experience a processing lag that lasts from a few weeks to a month.  That means that on October 1, coders may still be using ICD-9 to catch up with claims stamped with previous dates of service.
+During this transitional period, when coders may be using both code sets to process a mix of service dates, HIM staff must be extra vigilant about ensuring that they are using the right code set for the right claims.  Using the wrong code set will result in an automatic rejection – even if claims dated earlier than October 1 use ICD-10.
+There are only a very few exceptions to this rule.  Four state Medicaid agencies in California, Louisiana, Maryland, and Montana will be allowed to use an ICD-9/ICD-10 crosswalk to process claims.  Non-HIPAA entities such as auto collision insurance and worker’s compensation organizations may also continue to use ICD-9 if they wish, though most are staying in step with the industry’s ICD-10 switch. 
+If you have questions about the continued use of ICD-9, contact your business partners individually before the deadline.
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+Can’t submit ICD-10 claims electronically?  Don’t panic.
+Didn’t get your vendor upgrades in time?  CMS has other options for submitting ICD-10 claims.  Providers that cannot submit claims electronically through their own systems can download free billing software for their Medicare Administrative Contractor (MAC) at any time.  About half of MAC jurisdictions also have an online portal for Part B claims submissions.
+Organizations that cannot use these tools may also submit paper claims, if they certain provisions in the Administrative Simplification Compliance Act waiver.
+“If you take this route, be sure to allot time for you or your staff to prepare and complete training on free billing software or portals before the compliance date,” CMS reminds providers.
+Make sure you know what the CMS flexibility offer really means
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+The healthcare industry breathed a major sigh of relief when CMS and the AMA announced a flexibility agreement in early July.  But while the words “claims will not be denied” are included in the announcement, there are some major caveats to the phrase.
+Claims will not automatically be denied by Medicare if coders use the right code family but not the most specific code applicable to the diagnosis or procedure.  However, claims may be denied for other reasons, including wildly inaccurate ICD-10 codes, or separate administrative errors such as incorrect NPI, HCPC codes, or submitter ID numbers.  These errors were among the most common reason for denials during recent end-to-end testing weeks.
+And getting to the right code family still requires HIM professionals to have a deep understanding of the structure and application of ICD-10.
+“ICD-10-CM is composed of codes with 3, 4, 5, 6 or 7 characters,” recent CMS guidance explained. “Codes with three characters are included in ICD-10-CM as the heading of a category of codes that may be further subdivided by the use of fourth, fifth, sixth or seventh characters to provide greater specificity. A three-character code is to be used only if it is not further subdivided. To be valid, a code must be coded to the full number of characters required for that code, including the 7th character, if applicable.”
+Providers should note that private payers have not made the same formal commitment to flexibility that Medicare has, and are under no obligation to honor the terms of CMS’ agreement.  Private payers may deny claims that do not meet specificity guidelines if they wish.  Healthcare organizations concerned about denials should contact their business partners to ask for additional guidance.
+Only code to the highest degree supported by your clinical documentation
+Even though the CMS and AMA agreement allows coders some leeway for small mistakes, providers must understand when to use a less specific code or an “unspecified” code appropriately.  Unspecified codes are still included in the ICD-10 code set for a reason, and they do play an important role in the new framework.
+Throughout the ICD-10 preparation period, clinical documentation improvement should have been a top priority.  Physicians should be comfortable with the idea of creating documentation that meets the higher level of detail and specificity requirements for the new code set, and their clinical notes should allow coders to use ICD-10 to its fullest, most granular potential.
+However, that does not mean that every clinical note will support the most detailed and specific code available.  Not every diagnosis can be recorded with the pinpoint accuracy that ICD-10 encourages, and CMS has repeatedly warned coders that they should not use ICD-10 codes that are not clearly supported by clinical documentation.
+Providers should not conduct medically unnecessary tests simply to support a more granular diagnosis code, CMS has stated.  Coders are encouraged to query physicians about providing additional details, but if a definitive diagnosis is not available through reasonable means, a claim may include codes for signs and symptoms instead.  These codes must be supported by existing documentation.
+Still have questions?  Ask the CMS ICD-10 Ombudsman.
+The ICD-10 transition is not going to be easy for many healthcare organizations.  The changes are significant, and the potential impacts on the revenue cycle are deeply concerning to stakeholders across the care continuum. 
+CMS has spent several years developing a detailed resource library for providers to use during their ICD-10 preparations, but if answers to your questions aren’t readily available, the new ICD-10 Ombudsman may have the solution.
+Dr. William Rogers (icd10_ombudsman@cms.hhs.gov) is available to answer last-second queries for nervous providers.   
+“As with everything, this transition can be highly successful,” Slavitt assured the industry while announcing Rogers’ new role.  “There will be bumps and challenges—our job is to plan for them, too.”
+“As we work to modernize our nation's health care infrastructure, the coming implementation of ICD-10 will set the stage for improved patient care and public health surveillance across the country, leading to better identification of illnesses and earlier warning signs for epidemics and pandemics, such as Ebola,” Slavitt wrote in an open letter to providers.
+“Our nation's health care community has invested deeply in preparing for this transition,” he added. “We've seen unprecedented cooperation across stakeholders, as providers, health plans, and vendors have worked together toward a smooth transition. I encourage you to get ready and continue in this spirit of cooperation as we complete the switch to ICD-10 and beyond.”
+Tagged Health Information ManagementHealthcare Data GovernanceICD-10
+
+

@@ -1,0 +1,20 @@
+RNA Database to Aid Precision Medicine, Big Data Analytics
+
+July 09, 2015
+
+By Jennifer Bresnick
+July 09, 2015 - Researchers at the University of Missouri are unveiling a free, online database tool that may help to kickstart the spread of precision medicine and large-scale big data analytics in the general healthcare community.  The RNAMiner system, created by a team of professors and doctoral students working across a number of different academic disciplines, can reduce the time and effort it takes to sift through massive data sets for genetic variables that impact the development and impact of certain diseases.
+“This work actually started mainly because of the demand of University of Missouri scientists,” said Jianlin Cheng, associate professor of computer science in the University of Missouri College of Engineering. “RNA sequencing is the means by which researchers use modern sequencing techniques to study RNA, or ribonucleic acid.”
+“The process has increased the speed that researchers can note the differences in gene expression among genomes—but it comes at a cost. Often, scientists must sift through incredibly large amounts of data to get to usable results. RNAMiner has cut that time drastically.”
+The bioinformatics database is designed to cut processing time of genetic sequencing, which has been one of the biggest barriers to personalized precision medicine thus far.  While the costs of genetic testing have been plummeting over the past decade due to increased access to supercomputers and new machine learning algorithms that can grind through petabytes of big data analytics work in just a few hours, the majority of healthcare providers still lack access to these high-level tools.
+Dig Deeper
+NIH Awards $9M for Open Source, Cloud-Based Big Data Commons
+CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+Academia Dives into Precision Medicine, Big Data Collaborations
+Some healthcare organizations are trying to change that by investing heavily in dedicated research centers for precision medicine, genomics, and big data analysis.  The Icahn School of Medicine at Mount Sinai recently announced a $5 million charitable donation that will help establish the Harris Center for Precision Wellness, focused on integrating genomic research with emerging digital health technologies that comprise healthcare’s growing Internet of Things.
+Geisinger Health System is also throwing its weight behind precision medicine, establishing a genetic counselling center for patients, while the Mayo Clinic and Baylor College of Medicine are using big data on more than 10,000 patients to examine the implications of genetics on drug metabolism and pharmaceutical response.
+As the President’s vision for precision medicine takes a few steps closer to receiving the funding it needs to create a nationwide DNA database of one million patients, academic centers like the University of Missouri continue to break down the barriers to big data analytics and genomic research.  The RNAMiner tool can process and analyze two gigabytes of data in just ten hours, the research team said, and requires little specialized knowledge to use.  
+“To use our pipeline, you don’t have to know about computing tools,” said Cheng. “You just need to upload files and select several parameters, and it will automatically give those results. Using this raw data, we can compress that basically hundreds of thousands of times, even one million times, and make the connections needed for our collaborators to identify the genes that cause diseases or certain traits and do some experiments to verify their findings.”
+Tagged Analytics InfrastructureBig Data AnalyticsMedical Research
+
+

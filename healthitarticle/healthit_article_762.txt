@@ -1,0 +1,28 @@
+CMS Public Health Data Repository Will Aid Quality Reporting
+
+September 19, 2016
+
+By Jennifer Bresnick
+September 19, 2016 - CMS is currently developing a centralized data repository for public health data and clinical data reporting, the agency announced, in an effort to streamline and synchronize the use of big data for population health management and quality improvements.
+The repository aims to make it easier for providers participating in the EHR Incentive Programs to find and connect to entities that accept electronic public health data as required in the 2015 final rule for meaningful use.
+Although certain exclusions apply, eligible providers, eligible hospitals, and critical access hospitals must all participate in public health reporting in some form in order to successfully attest to current meaningful use criteria. 
+Options include reporting to immunization registries, syndromic surveillance registries, or specialized databanks targeted to specific conditions, such as chronic diseases, birth defects, traumatic injuries, and patient safety concerns.
+Dig Deeper
+CDC Works to Improve Public Health Data Analytics, Surveillance
+CDC Awards $28.6M for Big Data Analytics to Track Opioid Abuse
+70% of Residents Feel Prepared for Population Health Management
+The data is used to guide public health policy, improve population health management strategies, and monitor potential threats to community wellbeing, CMS says in a fact sheet for the syndromic surveillance reporting objective included in Stage 1 meaningful use.
+“The use of near patient data and statistical tools enables public health authorities to provide timely assessments of population health that assist with determining and assessing the implementation of public health action,” CMS wrote.
+“This is particularly useful for event detection, situation awareness, and response management. Your practices contribution to the syndromic surveillance database has a direct impact on public health at the national level.”
+Meaningful use and the associated increase in electronic health record technology have been instrumental in improving the nation’s abilities to report on public health data, according to the ONC, especially for hospitals. 
+In 2005, just eight states even had the capability to report electronic lab results.  By 2014, forty-eight states were able to participate in the public health reporting ecosystem, and 13 states were sending more than 75 percent of their total lab report volume electronically.
+In the second half of 2012 alone, the number of hospital labs submitting electronic lab data to public health registries increased by 68 percent, the report added.
+Additional data from the meaningful use program released this April found that at least 85 percent of hospitals are reporting at least one public health measure under EHR Incentive Program requirements.  In states like Delaware, Wisconsin, and Florida, those numbers are already in the high nineties.
+In 2014, seventy-three percent of hospitals reported data to immunization registries, which was the most commonly completed objective.  Syndromic surveillance reporting was also popular, but fewer states have reached high thresholds for reporting lab data.
+Despite the rapid progress for hospitals in to-performing states, some meaningful use participants have still had difficulty finding public health registries that can accept electronic data in their area, which has led CMS to implement flexibilities and exemptions for providers who operate in regions that do not have the capability to allow full participation.
+CMS is seeking existing registry entities to contribute to the data pool.  Potential participants include registries collecting data on immunizations, syndromic surveillance, and specialized conditions, as well as entities focused on electronic reportable laboratory results, electronic case reporting, public health registry reporting, and clinical data registry reporting.
+Participating registries must submit data on an annual basis between September 1 and October 31, 2016 and must be ready to accept electronic data on or before January 1, 2017.
+Application forms must be emailed to CMS officials at EHRinquiries@cms.hhs.gov.  CMS anticipates that the registry will be available for provider use during the first months of 2017.
+Tagged Analytics InfrastructureCMS Meaningful UseEHR Incentive ProgramsPopulation Health ManagementPublic Health Reporting
+
+

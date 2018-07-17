@@ -1,0 +1,22 @@
+IBM Transforms FlashSystem To Help Drive Down The Cost Of Data
+
+30 Oct 2017
+
+Data Center Modernization Solutions Deliver Support for Public Cloud, Containers and Machine Learning
+IBM announced sweeping advances in its all-flash storage solutions and software to significantly drive down the costs of data and extend its solutions for hybrid and private cloud environments.
+New ultra-dense FlashSystem array capable of storing more data in the same footprint, contributes to lower data capacity costs by nearly 60 percent.
+New Spectrum Virtualize software allows simplified migration and disaster recovery of data to and from the IBM Public Cloud;
+New software enables IBM and non-IBM storage to be used with popular Docker and Kubernetes containers environments;
+Cloud-based software beta program integrates storage with artificial intelligence and machine learning through new software to collect inventory and diagnostic information in order to help optimize the performance, capacity and health of clients’ storage infrastructure.
+“Companies are seeking guidance in modernizing their data from being a passive cost center to being the central hub for their business. IBM understands that only those that extensively analyze and exploit their data will benefit from it,” said Ed Walsh, GM, IBM Storage and SDI. “To help clients make this transformation, we are introducing new all-flash solutions that will dramatically lower the cost of storage systems while making data availability – whether on-site or in the cloud – a central part of their business strategy.”
+In addition to the aforementioned features, updates to IBM Storage systems and software include:
+New Platform Speeds Private Cloud Deployments – IBM Spectrum Access solutions offer what storage admins users need to deploy a private cloud quickly and efficiently, delivering the economics and simplicity of the cloud with accessibility, virtualization and performance of an on-premises implementation;
+Consumption-Based Pricing – new utility offering enables a consumption-based buying model for hybrid cloud environments leveraging most of the IBM storage and VersaStack portfolios for users preferring to buy storage as an operating expense;
+Consolidated User Interface – new interface for FlashSystem 900 consolidates activity and performance information in a single dashboard. Consistent with user interfaces used in other IBM storage systems and IBM Spectrum Storage software, the UI simplifies operations and helps improve productivity;
+VersaStack with FlashSystem – incorporating the newest FlashSystem being announced today an extensive refresh to the IBM/Cisco VersaStack converged infrastructure offerings;
+Investment Protection – several of the new all-flash storage and VersaStack solutions announced today are NVMe ready, enabling them to take advantage of the NVMe offerings coming in 2018.
+“IT modernization has become a business necessity for us and IBM’s newly announced provisioning of 3x more usable capacity in the same physical space presents an exciting opportunity,” said Nader El-Ramly,” Chief Product Officer at ZE PowerGroup. “We believe that maintaining the same characteristic low latency of previous FlashSystem generations without necessitating costly upgrades to rack space, cooling, and power or requiring a sacrifice of quality features like data reduction exemplifies IBM’s deep understanding of modern client needs.”
+“With this announcement, IBM is demonstrating, among other things, how highly leveraged their FlashCore strategy is,” said Eric Burgener, Research Director for Storage at IDC.  “Next generation FlashCore enhancements, including higher density 3D TLC NAND-based media and hardware-assisted in-line compression and encryption, immediately improve the capabilities of multiple IBM All Flash Arrays by providing features that drive higher infrastructure density and improved security more cost-effectively.”
+IBM leadership in storage systems and software is based upon more than 380 system patents, including IBM FlashCore technology and more than 700 patents for IBM Spectrum Storage software. As a result IBM’s flash arrays have been ranked as Leader in Gartner Magic Quadrant for Solid State Arrays for four years in a row and for the 3rd year in a row has been named the #1 Software-Defined Storage vendor by IDC.
+
+

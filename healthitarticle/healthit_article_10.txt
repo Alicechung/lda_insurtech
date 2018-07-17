@@ -1,0 +1,22 @@
+AMA, Google Name Winners of PGHD, Data Sharing Challenge
+
+July 03, 2018
+
+By Jessica Kent
+July 03, 2018 - The American Medical Association (AMA) has announced the three winners of its AMA Healthcare Interoperability and Innovation Challenge, a project sponsored by Google Cloud that aims to promote data sharing and create tools that will use patient-generated health data (PGHD) to improve patient wellness.
+The challenge highlights AMA’s efforts to enhance patient care by providing both patients and physicians with actionable data from mobile health technology.
+“The AMA issued the challenge to inspire the creation of novel mobile technology that demonstrates innovative uses of health data to support the long-term wellness of patients,” said AMA Chief Medical Information Officer Michael Hodgkins, MD.
+Dig Deeper
+PGHD, Genomic Data Predicted to Power Clinical Decision Support
+Patient-Generated Health Data, mHealth Can Improve Outcomes
+Health IT Orgs Pledge More Data Sharing for Patient Safety
+“The top solutions chosen in the AMA Challenge have the potential to be transformational innovations that effectively share meaningful medical data between patients and physicians and create a healthier nation.”
+AMA and Google first announced the contest in April of 2018 to foster new ideas for facilitating data sharing from health monitoring devices.
+Health and technology entrepreneurs from around the world submitted 36 solutions that use PGHD to improve clinical outcomes, streamline clinical workflows, and reduce care costs. Judges selected three winning solutions from among eight finalists.
+The first-place winner was HealthSteps, a mobile health platform designed to improve the exchange of real-time information between patients and providers. Through their own mobile devices, patients can be more engaged with their digital care plans and share their care plans with family members and caregivers.
+AMA awarded second place to I-deal Health, which empowers patients to visualize their personal risk for several different diseases and choose to pursue health goals to reduce their risks. The app also facilitates communication between providers and patients to ensure patients reach their goals.
+FUTUREASSURE received the third-place prize. The tool uses validated data to enhance clinical decision-making and surgical workflows. The device can collect clinical and research data to assess patient risk for surgery and predict surgical outcomes using objective data.  
+The three winning solutions were deemed the best examples of how to use PGHD to improve healthcare delivery. The winners will share $50,000 in Google Cloud credits, which they can use to accelerate their solutions. All qualified entries will receive $3,000 in Google credits. 
+Tagged AMAGoogleInteroperabilityMobile Health ApplicationsPatient Generated Health DataSecure healthcare data sharing
+
+

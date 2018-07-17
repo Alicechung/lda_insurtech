@@ -1,0 +1,37 @@
+Mental Health Care Disparities Impact Population Health
+
+May 19, 2016
+
+By Jacqueline LaPointe
+May 19, 2016 - Some of the biggest challenges that healthcare providers face when developing effective population health management strategies include racial and ethnic care disparities and integrating mental and physical health.
+Based on the finds of a new study in Psychiatric Services, healthcare providers may need to tackle both challenges at the same time to improve population health management programs.
+Researchers discovered that non-Hispanic blacks are twice as likely to be diagnosed with schizophrenia compared to non-Hispanic whites. However, non-Hispanic blacks were also far less likely to be prescribed medication for the condition.
+Even though a substantial portion of minority populations suffer from a mental health condition, non-Hispanic whites were 77.8 percent more likely to be prescribed a psychotropic medication as part of a treatment plan.
+“It’s concerning that we saw a higher rate of diagnosis of schizophrenia and seemingly an under-treatment in terms of pharmacotherapy for that group,” said Ashli A. Owen-Smith, co-author of the study and assistant professor of Health Management and Policy in the School of Public Health at Georgia State University. “In general, pharmacotherapy is an important part of the treatment plan. That’s a finding that warrants some additional research.”
+READ MORE: EHR Natural Language Processing Flags Social Determinant Search Terms
+With approximately 25 percent of the adult population experiencing a mental health disorder, the healthcare system spends an estimated $300 billion each year on behavioral conditions.
+Population health management initiatives could be beneficial for patients that suffer from psychiatric disorders, which the study claimed can be more debilitating than physical chronic conditions.
+Using EHR and claims data, researchers aimed to uncover racial and ethnic care disparities in mental health at 11 healthcare systems that are part of the Mental Health Research Network.
+Researchers found that mental health disorders were prevalent among all racial and ethnic groups. Out of the 7.5 million patients from 2011 that were studied, researchers determined that 1.2 million received a psychiatric diagnosis, which accounts for 15.6 percent of the total population.
+However, diagnosis rates significantly varied depending on racial and ethnic populations. Among patients with a mental health diagnosis, Native Americans and Alaskan natives had the highest rate of diagnosis with 20.6 percent. Asians had the lowest rate with only 7.5 percent.
+READ MORE: Epic Systems Integrates Geisinger Population Health Toolkit
+The study also noted that psychiatric diagnoses for depression and anxiety were actually lower in the racial and ethnic minority groups than non-Hispanic whites.
+Researchers also revealed that most of the patient population did not receive formal psychotherapy, but significant care disparities were present among racial and ethnic minorities.
+While only 34 percent of patients in the study took part in formal psychotherapy, racial and ethnic minority patients with depression and schizophrenia, specifically non-Hispanic blacks, were the least likely to receive it.
+The odds ratio for non-Hispanic black patients with depression to get formal therapy was 1.20 while the odds ratio was 2.64 for non-Hispanic black patients with schizophrenia.
+“I think the other thing important to note is that the overall rate of psychotherapy treatment for people with serious mental illness was very low across all race-ethnicities,” explained Owen-Smith. “In general, across all the health systems, people with serious mental illness aren’t getting a lot of psychotherapy as a form of treatment, and maybe that’s a missed opportunity for our health systems to provide care to those patients.”
+READ MORE: CMS: Patient-Centered Care Strategies Can Combat Opioid Abuse
+In addition to mental health conditions, other studies have identified care disparities based on racial and ethnic lines with physical chronic diseases.
+For example, a recent study from Harris Health System and Baylor College of Medicine, stated that African American adults with asthma are three times more likely to die from the chronic condition in Houston.
+To close these care gaps, CMS has established several initiatives to boost population health management programs, including the CMS Equity Plan for Improving Quality in Medicare, which aims to increase quality care access to underserved and disadvantaged populations.
+“We want to make sure we are providing culturally and linguistically appropriate services for patients,” stated Cara V. James, Director of the CMS Office of Minority Health, to HealthITAnalytics.com in a previous interview.  “We want to be sure that we are interacting in the best possible way with each patient in front of us so that providers can really address their challenges.  That is the only way we will achieve the results we need.”
+Additionally, more healthcare stakeholders, including CMS, are realizing that population health management strategies may need to include behavioral and mental health support to improve physical wellbeing.
+The CDC reported that patients with chronic diseases, such as cancer, diabetes, Alzheimer’s, and cardiovascular disease, also have higher rates of depression.
+While managing a chronic disease is hard enough, a mental health disorder can make it all the more daunting for patients. Another study found that patients with depression were 1.76 times more likely to become non-adherent to their medications.
+The Psychiatric Journal study highlights how two substantial challenges to population health management are more connected than some providers may have realized. In order to improve patient outcomes, the industry may need to look at how racial and ethnic minorities receive care, especially for mental health conditions.
+Dig Deeper:
+• Mental Health Top Priority for Population Health Management
+• Social, Behavioral Data Must Be Included in EHRs, Nurses Say
+Tagged Care CoordinationEHR AnalyticsMental HealthPopulation Health Management
+
+

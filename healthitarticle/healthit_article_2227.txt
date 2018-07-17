@@ -1,0 +1,19 @@
+Should ACOs use remote monitoring despite lack of analytics?
+
+October 24, 2013
+
+By Jennifer Bresnick
+October 24, 2013 - One of the major responsibilities of an accountable care organization (ACO) is to develop the ability to keep patients away from the doctor’s office and out of the emergency room.  Using complex data analytics to predict risk for chronically ill patients, devise strategies to target preventative services, and formulate a comprehensive picture of population health is all in a day’s work for a mature ACO, but for more than half of these organizations, there’s one big piece that’s missing: a way to integrate remote patient monitoring (RPM) and telehealth into the analytics that keep ACOs alive.
+ACOs are more or less split on RPM integration.  A Spyglass Consulting survey from July shows that while 55% of ACOs are evaluating remote monitoring or have deployed the technology already, a majority still question its effectiveness for reducing costs and raising quality, and 71% expressed concern about the feasibility of integrating RPM technology into their existing EHR and health IT suites.  Even if it could be added to the mix, 58% don’t believe that current RPM offerings support the level of analytics and clinical decision support necessary to truly become useful within their larger analytics programs.
+However, outside of the ACO context, remote monitoring has seen enthusiastic support from organizations like the Department of Veterans Affairs, and there has been a great deal of research showing that home monitoring and telehealth conferencing can raise patient satisfaction, help keep chronic conditions under control, and reduce the burden on providers, especially during transitions of care.  The fact that 50% of ACOs still question the clinical effectiveness of tools designed to prevent falls for the elderly, improve medication adherence, and manage diabetes seems odd in the face of all this evidence.
+On one hand, maybe the disconnect isn’t really such a bad thing.  After all, the fact that ACOs are dissatisfied with the lack of analytics integration means their analytics capabilities are starting to move above and beyond the baseline.   On the other, it means that the old nemesis of health IT, a lack of interoperability and seamless integration, is still plaguing ACOs as they strive to develop comprehensive technology systems to support their mission.
+Dig Deeper
+ACOs Focus on Health IT, Population Health Management Plans
+MA Medicaid Embraces Accountable Care, Population Health Models
+Health Data Exchange, EHR Dashboards Underpin a Successful ACO
+Both industries expect to experience incredibly fast growth in the next five years.  In 2017, the healthcare analytics market is projected to be worth $10.8 billion as hospitals gobble up analytics solutions, potentially seeing a 1000% return on investment with a median of five years.  Forecasts for growth of the mHealth and RPM market are similarly rosy, with projections showing that the market has the potential to reach $20.7 billion by 2018.
+Will the two sectors align more closely as they mature?  According to Research and Markets, the chances are good for closer integration between EHR vendors and mHealth, because it’s the EHR vendors who are investing heavily in mobile chronic disease management and monitoring.
+Despite the current lack of analytical capabilities in RPM solutions, ACOs might not need to wait too long for the tools they need to make telehealth work for a quickly aging population that wishes to remain independent for longer.  Piloting remote patient monitoring now might relieve some of the fears about clinical effectiveness, and could give ACOs the familiarity and expertise necessary to wisely choose new offerings in the next five to ten years.
+Tagged Accountable CareAccountable Care OrganizationsAnalytics InfrastructureClinical IntelligenceHealthcare AnalyticsHealthcare Informatics
+
+

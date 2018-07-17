@@ -1,0 +1,41 @@
+Top 5 Technology Trends In Data Management in 2018
+
+January 31, 2018
+
+Increased regulations and client demands have transformed data management requirements in finance. Especially on the buy side, firms now need to integrate risk management and performance solutions while optimising internal data functions that have historically slowed down the creation of business value.
+
+ During December 2017, Asset Control and WBR Insights undertook a study of 100 leaders in financial data management, include industry experts at top levels of their organisations in enterprise data management, analytics, business intelligence, operations, data strategy, and others. 65% of responding firms were from the broader buy side of the industry, including organisations in asset management (36%), insurance (21%), and hedge funds (8%). The remaining 35% of companies were either banks (27%) or some other type of financial organisation (8%).
+
+ Trend No 1: No Clear Standard
+
+ The study indicates that today’s data management organisational model has no clear standard, with 25% of firms using a hub-and-spoke framework with some data centrally mastered; 24% (and 41% of banks) using a hybrid model with the Chief Data Officer (CDO) setting policies for working with business units; and another 22% of respondents using separate data management systems driven by departments or business units.
+
+ Trend No 2: Reorientation to Happen
+
+ However, despite these differences, the findings also indicated that financial organisations are looking to reorient their data management strategy in a uniform way, with priorities aligned in terms of organisational goals and technology adoption to come.
+
+ Trend No 3: Outsourcing Data Management
+
+ Managed services has become a priority as organisations seek to outsource data management functions to streamline operations and reduce cost. 55% of respondents are currently either very, or somewhat interested in onboarding managed services and utilities, while the 40% of respondents who are currently neutral expect to onboard managed services and utilities in the next 12 months.
+
+ Trend No 4: Cloud-based Solutions
+
+ The transition from in-house data management and limited outside management suggests there are substantial benefits to be found in adopting third-party services. Indeed, the move to cloud based services is reflective of changing business priorities, as alongside regulatory compliance as a top priority (52%) for data management teams, the study highlights that business enablement has also become of critical importance (48%).
+
+ Martijn Groot, VP Product Strategy, Asset Control, explains: “Traditionally, firms had managed data in-house for greater control of compliance-related issues. While compliance is always of concern, many firms are finding that third-party data management provides more flexible options that will allow them to achieve greater business value from their data as well.”
+
+ Trend No 5: Adoption of Technology Innovation 
+
+ Alongside cloud adoption as the highest priority, 49% of firms rated data management technology innovation (ie. the adoption of NoSQL databases) as a high priority and a further 48% said that adding business value with non-traditional data was key for the data management function over the next 12 to 18 months.
+
+ Martijn Groot continues: “Cloud and NoSQL support both a more flexible cost model and the access and scalability required to support users in valuation, research, quantitative analysis, product control and risk management, as well as required by increasingly data intensive risk and financial reporting processes (including the Fundamental Review of the Trading Book).
+
+ “In addition, they offer a remedy to many existing inadequacies or bottlenecks in companies’ reference data management solutions, from data inconsistency, difficulty with regulatory reporting, an inability to manage multiple data sources and problems with user enablement.”
+
+ He concludes: “As financial companies in an industry without clear data management standards continue to seek improvements, we anticipate that NoSQL will have become an industry standard by the start of 2019. The use of cloud infrastructures, NoSQL database solutions, and related managed services today heralds a fundamental reorientation of data management strategies as firms move to support the growing data intensity of business and regulatory processes.”
+
+ For a full copy of the study findings, please visit: http://www.asset-control.com/insights/white-papers-testimonials/white-papers/inflection-point-innovating-business-enablement-data-access-and-reporting-in-finance/
+
+ 
+
+

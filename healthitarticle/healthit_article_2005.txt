@@ -1,0 +1,18 @@
+Genetic analytics identifies aggressive prostate cancer risks
+
+May 19, 2014
+
+By Jennifer Bresnick
+May 19, 2014 - Researchers at Columbia University Medical Center (CUMC) have used genetic data analytics to unearth a clue to the most aggressive and deadly forms of prostate cancer by flagging two genes that combine to heighten the risk of the most severe form of the disease.  Published in the journal Cancer Cell, the study credits computational approaches to genomics that highlighted the connection between two markers, FOXm1 and CENPF, which seemed of little significance on their own.
+“Individually, neither gene is significant in terms of its contribution to prostate cancer,” said co-senior author Andrea Califano, PhD, the Clyde and Helen Wu Professor of Chemical Biology in Biomedical Informatics and the Institute for Cancer Genetics and chair of systems biology at Columbia’s College of Physicians and Surgeons, said to Science Blog. “But when both genes are turned on, they work together synergistically to activate pathways associated with the most aggressive form of the disease.”
+“Ultimately, we expect this finding to allow doctors to identify patients with the most aggressive prostate cancer so that they can get the most effective treatments,” added co-senior author Cory Abate-Shen, PhD, the Michael and Stella Chernow Professor of Urologic Sciences and professor of pathology and cell biology at CUMC. “Having biomarkers that predict which patients will respond to specific drugs will hopefully provide a more personalized way to treat cancer.”
+Cancer research focusing on genetics is complicated by the sheer number of gene combinations that may end up being significant, said Califano.  “For instance, the approximately 1,000 genes that have been linked to cancer can be combined into about 500,000 gene pairs, each of which may represent a synergistic tumor driver,” he explained. “This is an enormous number that defies our best statistical tools and requires sophisticated systems biology approaches.”
+Dig Deeper
+Precision Medicine, Genomics Partnership Boosts Big Data Sharing
+70% of Orgs Planning Precision Medicine Will Deploy Within 2 Years
+Cancer Detection Company Gets $900M from Pharma, VC Investors
+The team used Columbia’s cancer research supercomputer to analyze the treatment records of more than 900 patients who had had their prostates removed, and found a significant correlation between the presence of the two genes and the poorest patient outcomes.  They also found that silencing both genes in sample cancer cell lines completely stopped the growth of tumors in a mouse.
+“This is just a first step toward a deeper understanding of the genetics of cancer,” said Michael M. Shen, PhD, professor of medical sciences, of genetics and development, and of urological sciences at CUMC, who also contributed to the study. “The tools and approaches developed in this study may have broad utility in studying prostate cancer; cross-species computational analyses also could be used to identify the causes of other cancers, as well as that of other complex diseases.”
+Tagged Applied AnalyticsBig DataClinical AnalyticsClinical IntelligenceGenomicsMedical Research
+
+

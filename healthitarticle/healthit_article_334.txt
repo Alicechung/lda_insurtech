@@ -1,0 +1,51 @@
+How Mayo Clinic Uses CDS Algorithms to Standardize Nurse Triage
+
+October 04, 2017
+
+By Jennifer Bresnick
+October 04, 2017 - The healthcare system has always relied on primary care providers to be the initial point of contact for patients with routine care needs and low-level complaints – a role that has become increasingly important as organizations try to cut costs, compete for shared savings, and proactively manage populations.
+Outcomes-based payments and financial risk-sharing have created an imperative for ensuring that patients get the right level of care from the most cost-effective providers at the right time, leading providers to focus on optimizing their triage protocols and developing standardized clinical decision support protocols to maximize their resources. 
+The first line of defense for PCPs is often a nurse with a headset. 
+Phone calls are still the most popular way for a patient to initiate contact with their providers, said Mayo Clinic Nurse Administrator Debra Cox, RN, MS, CENP, and ensuring that those patients receive a thorough assessment before being advised to book an appointment is an important strategy for matching individuals to the best possible level of care.
+“We need to ensure that every nurse in any one of our 86 primary care clinics is able to deliver the same standard of care,” she told HealthITAnalytics.com.  “Across our whole primary care system, we might take more than 2000 calls in a 24-hour period, which is a lot to process.”
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+Triaging a patient over the phone shouldn’t be guess-work, Cox said, but should be as standardized and comprehensive as possible.  Despite the fact that Mayo’s nurses are highly trained and experienced, human error is a fact of life, especially on so large a scale, she acknowledged.
+“We found that we had very well-intentioned nurses who might start out by utilizing a textbook or a guide with decision-making help in it,” she said. 
+“But once the nurse started to feel comfortable that they understood the guidelines, they sort of put the book away and started to assess patients by memory.  And being human, of course, they might forget a step or get confused about something, which could be an issue for the patient.”
+For almost a decade, Mayo has been working on a different way to deliver clinical decision support for its primary care patients.  Starting with a proprietary health IT tool called ExpertRN and moving later to adopt the Curion platform from Applied Pathways, the healthcare system has relied on an algorithmic approach to phone-based triage.
+“The tool has our Mayo Clinic guidelines integrated into the algorithms,” Cox explained.  “The nurse is able to use a guided decision tree based on the symptoms the patient presents.  The algorithm leads them through a number of questions, which helps assure that key assessment points are not missed.”         
+READ MORE: The Difference Between Clinical Decision Support, Big Data Analytics
+“It gives our triage nurses a bit more structure than the generalized guidelines currently used across the healthcare industry.  He or she will always use clinical judgment and experience in addition to what is on the screen, of course, but it does help to present them with a standardized series of options that lead to a very thorough assessment.”
+The strategy has been a major benefit for providers since 2010, when the H1N1 virus swept a nervous country, added Dr. Fred North, Quality Chair of the Division of Primary Care Internal Medicine.
+“When the H1N1 virus was in full swing, we had around 5600 calls a month to the triage desk,” he said.  “About 1500 callers initially intended to stay home for their care, but our system helped us redirect 3250 patients to stay home because they didn’t need to come in.”
+Changing primary care call volumes during the H1N1 epidemic
+Source: Telemedicine and e-Health, Dec. 2010
+“Not only did that help the clinics maintain access for the people who really needed to be seen, but we also believe it kept people who were contagious out of a setting where they could easily transfer the virus to others.” 
+The same principle applies to the everyday coughs, colds, and sore throats that tend to fill primary care waiting rooms, said North. 
+READ MORE: Transparency is Key for Clinical Decision Support, Machine Learning Tools
+“We don’t have hard proof that better triage reduces the spread of disease, but it seems pretty likely that if our staff and our other patients aren’t being exposed to common viruses as often, they won’t catch them as much.”
+The ability to remain agile during a public health event is key, North continued.  During the H1N1 outbreak, the Centers for Disease Control (CDC) was constantly making changes to its recommendations for providers as its understanding of the virus evolved.
+“The updates were coming almost daily,” he said.  “It can be a real challenge to communicate those adjustments to all the nurses in the system in a timely way without a health IT tool.” 
+“But the decision support system is automatically updated for them, and it includes a note about what has been changed so the nurses understand why they might be seeing something different.  You can’t do that on paper with memos or faxes.  It’s just not feasible on the sort of scale Mayo is working with.”
+Since 2010, Mayo providers have dealt with a number of other public health scares, including Ebola, the Zika virus, and a 2017 measles outbreak that took root in several Minnesota communities. 
+“We’ve had to tweak the algorithms each time to prioritize what’s important for those conditions,” North said.  “There is no other way to standardize care that rapidly and make sure that our responses to changing conditions are as quick and accurate as possible.”
+Even outside of an epidemic situation, primary care providers benefit from more sensitive triage in several ways, said North and Cox. 
+“In one study we did, we were able to redirect patients from an office visit to home care about 22 percent of the time,” said Cox.  “You can imagine the impact that has on our clinics and our providers’ calendars.”
+“Overall, about 36 percent of our patients get redirected to a lower level of care than what they originally thought they needed.  For the specific time period we studied in one of our papers on the topic, we saw about a ten percent change in patient access to our clinics.”
+At the same time, patients who really do need immediate attention aren’t slipping through the cracks as often, she added, allowing providers to address patient needs more accurately. 
+For physicians, the advantages extend even further, said North.
+“It frees up the time of physicians and other practitioners to treat patients with more complex needs,” he said.  “Speaking for physicians like myself, that really allows us to work at the top of our training, which is a very satisfying thing.”
+Unlike many of the decision support tools currently coming to market, however, the platform does not employ machine learning technology to support its recommendations.
+Instead of automatically folding previous results back into the decision-making framework to alter and refine future suggestions according to internal logic, Mayo staff members are in charge of making adjustments to the recommended care pathways.
+This is actually a plus for an organization that is so renowned for its contributions to research and evidence-based medicine, said Cox.
+“We have a triage algorithm review board that includes primary care physicians and nurse practitioners as well as nurses across the primary care areas,” she explained. 
+“They have been very focused on developing improvements and staying on top of the latest evidence-based standards coming out from leadership groups and professional societies.”
+When a nurse works through the protocols for taking a patient’s call and completes an assessment, that data is returned to administrators for later review, added Cox.
+“It is a major benefit to be able to look at all of that data and review how we directed the care for those patients,” she said.  “It’s very rich and very specific data that we can use to assess our internal performance or figure out if something about the decision framework should be changed.”
+“The nurse’s documentation of the call also includes the assessment that was completed, so the next care team member can look at that result, make sure it was complete, and not have to go over the same questions again with the patient, which really improves satisfaction on their part, as well.”
+Mayo’s efforts to create optimized algorithms have also been incorporated into several of Applied Pathways’ products, allowing all of the vendor’s customers to leverage the work of the provider’s review board, physicians, and nurses.
+“We have been fortunate to have strong support from our organization to look at quality and standardize practices,” said Cox.  “It’s very helpful to have a group of committed folks who could work together to make that happen with a common vision.”
+“We really feel that taking an algorithmic approach is a benefit for our patients.  It’s every provider’s goal to be safe and effective and avoid gaps in care, and we’re very proud to be constantly improving for our patients.”
+Tagged Analytics InfrastructureClinical Decision SupportClinical Decision Support SystemsHealthcare QualityInterviewsPopulation Health ManagementPrimary Care Services
+
+

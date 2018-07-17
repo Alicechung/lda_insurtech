@@ -1,0 +1,23 @@
+Exscudo Wallet Killer Feature: Synergy Of Accounts Conversion
+
+October 24, 2017
+
+After completing the EON blockchain testnet we will launch a bunch of products, united by the EON platform. One of them is the Channels wallet, decentralised, safe, fast and transparent, which is planned to be launched in Q1 2018.
+
+ Within this wallet a user can have several accounts: in Bitcoin, Ethereum and other cryptocurrencies. These accounts will be operated with color coins, equivalent by value to the corresponding cryptocurrencies. For the user’s convenience we added to the wallet a “killer” feature, which enables to convert funds from one currency to another, and transfer them from one internal account to another at the rate set by the user (or at the exchange rate). And you even do not need to exit your wallet to do this!
+
+ How it works:
+
+ Channels issues a letter of credit for any color coin in EON network, and this letter goes directly to the Exscudo exchange. The exchange accepts it and conducts a conversion operation. After that color coins are transferred to the corresponding Channels account, and the balance is returned to the user’s deposit account. Letter of credit has a period of validity – if the price set by a user does not interest anyone on the exchange the operation is canceled and money is returned to the user’s account.
+
+ Example. How it works from the user’s point of view:
+
+ User N has Channels wallet with EON, BTC and Ethereum accounts in it. He wants to exchange one bitcoin for the corresponding amount of ether at rate 1ETH = 0.0726BTC. His order is sent to the exchange where it meets the relevant offer, and the transaction is made. Then 1 BTC is written off from the user N’s BTC account and his ETH account is credited with 13.77ETH. The balance is sent to the deposit account.
+
+ The only case when this operation will not work is if user N sets the rate which simply cannot find a counter-proposal on the exchange, such as 1 BTC = 1 ETH. But even then user N has nothing to worry about: after the letter of credit validity period expires his funds will be returned to his deposit in safety.
+
+ 
+
+ Inna Goncharova, PR Director Exscudo https://exscudo.com/
+
+

@@ -1,0 +1,28 @@
+Workflow Changes May Improve Patient Safety, Cut Hospital Stays
+
+February 19, 2016
+
+By Jennifer Bresnick
+February 19, 2016 - Implementing certain clinical workflow changes and adjusting the way patients are given certain medications may be able to improve patient safety, reduce adverse drug events, and shorten hospital stays, according to a pair of recent studies.
+At the University of Southern California, researchers found that simple behavioral interventions for clinical staff could slash the number of unnecessary antibiotic prescriptions, while a separate team from Vanderbilt University Medical Center explored how more coordinated care transitions and treatment plans could improve the way opioid-tolerant patients receive care for pain.
+The USC study, published this month in the Journal of the American Medical Association (JAMA), enlisted 47 primary care practices in Boston and Los Angeles to take part in education sessions and workflow interventions centered on antibiotic prescription habits over an 18-month period.
+The providers experienced one or more behavioral interventions that either suggested alternatives to antibiotic use through the electronic order set, prompted providers to enter free-text justifications for their antibiotic prescriptions in the electronic health record, or sent emails to participants comparing their prescribing rates with top-performing peers.
+Dig Deeper
+EHR Usability Shortfalls May Up Pediatric Patient Safety Risks
+QIO Program Boosts Medicare Care Coordination, Patient Safety
+LTPAC Orgs Need Better Health Data Exchange Standards, APIs
+These “nudges” helped reduce antibiotic prescribing rates significantly.  The control group decreased antibiotic prescriptions from 21.1 percent to 13.1 percent.  Providers who received alternative suggestions reduced prescription rates from 22.1 percent to 6.1 percent, while those asked to provide justification for their actions slashed their antibiotic use from 23.2 percent to just 5.2 percent at the end of the study period.  Peer comparison was responsible for a 16.3 reduction in unnecessary prescription usage.
+“Until now, most efforts to reduce antibiotic prescribing have involved education, reminders or giving financial incentives to physicians,” said principal investigator and senior author Jason Doctor, director of health informatics for the USC Schaeffer Center for Health Policy and Economics.
+“We decided to test if socially motivated interventions, such as instilling pride in their performance or making physicians accountable for their decisions, would help address the problem. Our findings here suggest they may.”
+Antibiotic overuse has become a critical issue for patients as the rise of new, highly-resistant superbugs threaten to render currently available treatments obsolete.  In 2014, the CDC chided hospitals for indiscriminate antibiotic use, stating that up to 78 percent of facilities may be using the medication too often.
+Opioids are another category of commonly prescribed drugs that may be used too often in the hospital setting.  David A. Edwards, MD, PhD, Clinical Chief of Pain at Vanderbilt University Medical Center, notes that patients with a high tolerance for opioids are at high risk of hospital readmissions if their pain is not handled with appropriate alternative treatments.
+They are particularly vulnerable during care transitions, he added.  "The transition from in-hospital to out-of-hospital is where the problem lies," Edwards said. "Clinicians need to know what they can offer patients other than opioids to treat pain and suffering, especially when the patients arrive on high-dose opioids already."
+The pilot study, presented as a research poster at the 32nd Annual Meeting of the American Academy of Pain Medicine, sought to quantify the impact of multimodal pain management plans that did not rely exclusively on opioid use for surgical and non-surgical patients.
+The team developed the Targeted Care Pathway, a treatment protocol that combined patient risk stratification, pharmacy services, clinical education, and earlier paint management specialist consults, to increase collaboration and communication across the care team.
+This multi-pronged approach reduced readmission rates, length of stay, cost of care, and opioid consumption.  “The return rate was 28 percent for the 18 opioid-tolerant patients who received Pathway care compared with 40 percent for usual care, representing a 30 percent effect size,” the researchers explained.
+After seeing no adverse effects from the initial trial, Edwards and his team are planning to conduct a full-scale randomized, controlled trial at Vanderbilt University Medical Center, Massachusetts General Hospital, and Brigham and Women’s Hospital. 
+The expanded program will include educational components that will help providers employ more varied care management strategies, as well as training on how to wean patients off high-risk medications after recovering from an acute episode.
+“Society suffers when patients suffer,” Dr. Edwards said. “The cost of risk-managing prolonged opioid therapy for an ever-increasing pool of patients on opioids overextends the medical system. “The day has come and gone where solely using opioids to manage pain in non-cancer patients is considered appropriate care.”
+Tagged Care CoordinationPatient SafetyQuality Of CareTransitions of Care
+
+

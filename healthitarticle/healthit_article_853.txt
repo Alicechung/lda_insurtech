@@ -1,0 +1,36 @@
+2016 “Most Wired” Excel at Population Health, Big Data Analytics
+
+July 07, 2016
+
+By Jennifer Bresnick
+July 07, 2016 - A robust population health management program, familiarity with telehealth, a focus on predictive analytics, and the delivery of a sterling patient experience are just some of features that this year’s crop of “Most Wired” hospitals have in common, the American Hospital Association and Hospitals & Health Networks said this week.
+The annual survey, which identifies hospitals and health systems that have successfully leveraged health IT tools to improve quality, efficiency, safety, and security, includes special categories for outstanding rural hospitals, organizations that have shown the most improvement, and highly advanced providers on the leading edge of health IT innovation.
+As healthcare providers navigate the tricky transition to value-based reimbursement structures that demand better outcomes for patients across the care continuum, they are pouring time and resources into developing the patient management and patient engagement programs that may delay or prevent hospitalizations and emergency department use, forestall the worsening of chronic disease, and ensure that patients cultivate a healthy, open relationship with their providers.
+From predictive analytics and business intelligence to telehealth and open electronic health records, this year’s Most Wired awardees are leveraging all the health IT tools at their disposal to make stronger internal connections and build rapport with their patients. 
+Big data analytics, especially predictive analytics, are at the heart of those efforts.
+READ MORE: Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+“Analytics is picking up very, very nicely,” said Marc Probst, chairman of the College of Healthcare Information Management Executives and chief information officer for Intermountain Healthcare, Salt Lake City, to HHN Magazine. “We’re seeing a tremendous uptick in capability and use. That’s a neat opportunity.”
+While only 41 percent of Most Wired hospitals are engaging in advanced scenario planning or forecasting, ninety-one percent are undertaking business intelligence analytics within a single department.
+Eighty-four percent are using their big data resources to identify patients for outreach, and close to two-thirds are utilizing risk stratification techniques as part of their population health management programs. 
+Just over half aggregate data from individual patient encounters to create a community-level health record for hot-spotting, trending, and targeting of services.
+But risk stratification and patient identification are only the first steps for true population health management, and the Most Wired awardees are not stopping there. 
+READ MORE: Incomplete Population Health Data Exacerbates Care Disparities
+Patient engagement featured highly in last year’s crop of top performers, and it is just as important for making the grade in 2016.  Twenty-six percent of Most Wired organizations offer remote visits through a mobile application, while 61 percent use social media to provide support groups for their consumers.
+Mental healthcare, routine office visits, and stroke care were the top three telehealth services offered by hospitals on the list.
+“Hospitals are breaking-out of their traditional four walls and providing care where and when patients need it,” said Rick Pollack, president and CEO of the AHA in a press release. “These Most Wired hospitals exemplify this transformation by harnessing technology, engaging patients and offering services remotely. And, removing policy and other barriers to telehealth will allow even faster adoption of these amazing technologies.”
+Perhaps surprisingly to providers who are still wary of the value inherent in the growing Internet of Things ecosystem, a whopping 68 percent of Most Wired winners accept patient-generated health data through their patient portals. 
+More than a quarter use internet-enabled monitoring devices to keep tabs on chronic disease management for diabetes, congestive heart failure, and heart disease.
+READ MORE: Finding the Value in the IoT, Patient-Generated Health Data
+Patient portals are also receiving more attention as a way to engage consumers and build trust between patients and their providers.  At Virginia Commonwealth University (VCU) Health System, participation in the OpenNotes program has increased satisfaction and boosted providers’ patient management capabilities.
+“Within the last year we opened up our clinic notes to allow patients to read the notes their physician writes instantaneously,” said Colin Banas, MD, Chief Medical Information Officer at VCU Health System.
+“This is a powerful step forward in patient engagement, transparency and improving patient outcomes. The response from our patient community is overwhelmingly positive, and we’re just getting started.”
+The list includes organizations of all sizes and types, from the 15-bed Kittson Memorial Healthcare Center in Minnesota and the 16-bed Community Memorial Hospital in Burke, South Dakota to Banner Health’s 28 facilities with more than 5100 beds.  Hospital Corporation of America, the Nashville-based mega-chain with 43,000 beds and 26 million patients, also made the list.
+Some organizations are more or less fixtures on the honor roll, including Detroit Medical Center.  The 2000-bed health system is celebrating a decade of continuous high achievement in the health IT space.
+“Detroit Medical Center is pleased to be recognized for the tenth consecutive year as an industry leader in health information technology,” said DMC Chief Information Officer Joe Francis.
+"As one of the first health systems to integrate information technology into our system of hospitals, we are diligently focused on protecting the security of our patients’ information while simultaneously sharing appropriate information to create a better overall patient experience and reduce costs.”
+To make the grade, healthcare organizations must meet a slew of infrastructure, quality, and integration requirements, including in the areas of EHR connectivity and interoperability, health information exchange, care coordination and care transition communication, revenue cycle and supply chain management, patient privacy and data security, quality reporting, data analytics, and clinical decision support.
+In 2016, there are 364 “Most Wired” organizations on the list.  Nineteen providers exceeded the basic core development requirements to gain “Advanced” recognition.
+The full list of healthcare organizations, including rural and “most improved” organizations, is available for download here.
+Tagged Care QualityEHR and Patient EngagementPopulation Health ManagementPredictive Analytics
+
+

@@ -1,0 +1,32 @@
+Top ten big data and healthcare analytics stories of 2013
+
+December 31, 2013
+
+By Jennifer Bresnick
+December 31, 2013 - HealthITAnalytics might have made its debut late in 2013, but in the few months since bursting onto the scene, it’s certainly made a splash.  Analytics is one of the hottest topics in healthcare today as organizations large and small seek ways to trim the fat and keep an increasingly complex patient population as healthy as possible.  Data-driven healthcare is here to stay, and so is your best resource for news and information on population health, accountable care, hospital quality, and clinical intelligence.  Here are the top ten most popular reader picks from 2013.
+10. Revenue cycle analytics presents opportunities for healthcare
+Inefficiencies are the inevitable byproduct of significant change, and few industries have ever experienced a similarly traumatic revolution in technology, accountability, and basic payment reform.  But there are also opportunities in the new landscape of ACOs, analytics, quality reporting, and EHRs.  By using the data produced by the emphasis on health IT, organizations can examine the gaps in their revenue cycles, identify risks, and target candidates for streamlining and increased efficiency.
+9. Standardizing data for analytics will be a challenge for HIEs
+Though the majority of state designated entities are just on the cusp of entering their teenage years, so much has changed in the last decade that no one could have envisioned what will be required of these organizations in the years to come.  As data-driven healthcare becomes a reality, HIEs will need to put a great deal of effort into standardizing the vast amount of information available to them, say Dev Culver, CEO of Maine’s HealthInfoNet, and Eric Widen, President of HBI Solutions, Inc., in order to leverage data for population health management and predictive analytics.
+READ MORE: Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+8. For healthcare analytics, big data needs to be smart data
+In order to set themselves up for future success, healthcare organizations need to figure out a better strategy than hoping they’ve collected enough to satisfy themselves on the first try. Shane Pilcher, Vice President at Stoltenberg Consulting, spoke with HealthITAnalytics to give healthcare providers some tips about how to avoid stomachaches by going smart instead of just going big.
+7. What’s the foundation for managing big data in healthcare?
+It is clear in today’s healthcare industry that big data is becoming more than just a buzzword. According to IBM, 90 percent of the data in the world today has been created in the last two years alone. Regardless of whether that claim is accurate, the amount of data we generate — both structured and unstructured — is accelerating rapidly. The healthcare industry is in the thick of this data explosion.
+6. In 2014, data analytics must measure outcomes, improve health
+READ MORE: EHR Analytics Track C. Diff Patients to Flag Infection Trends
+While the promise of analytics is extraordinary, the industry is still struggling to come to grips with what needs to be done, much less how to do it. Dr. Fauzia Khan, Chief Medical Officer of Alere Analytics, spoke to HealthITAnalytics about some of the obstacles facing providers on the road to data-driven healthcare and what issues will be facing hospitals and physicians in this critical upcoming year.
+5. Analytics, EHR vendors partner to bring data to the point of care
+After announcing a partnership with Greenway to integrate analytics capabilities into the vendor’s PrimeSUITE EHR product, Eric Sullivan, Sr. Director of Product Innovation and Data Management for Inovalon sat down with HealthITAnalytics to discuss what such pairings mean for providers who are desperate for patient insights but strapped for time and cash to support their own infrastructure.
+4. How big pharma uses big data to develop better drugs
+With the advent of electronic records and ever-expanding information banks filled with millions of real-life patient data points, pharmaceutical research has gotten a big boost, both in bringing new drugs to market and finding better ways to use existing therapies for the greater good.
+READ MORE: Physician-Level Data May Not Reduce Opioid Prescription Rates
+3. Three real use cases for healthcare analytics working today
+Many in the healthcare industry, from providers participating in forms of accountable care to vendors developing new EHR and health IT systems, are optimistic that big data and analytics have tremendous potential for supporting healthcare reform which should in turn lead to higher-quality care at an improved cost. This belief, however, gives the impression that healthcare analytics isn’t already showing benefits for healthcare organizations, providers, and patients.
+2. Can mHealth help low-income patients with chronic diseases?
+While the number of commercially available apps for Apple and Android phones is staggering, and many of these apps provide only questionable medical value, payers and hospital systems are also investing in tailored mHealth technology, developed with input from clinicians and intended to fill specific needs.  Clinical management apps range from mobile patient portals to secure texting with providers to reference materials, and can be a vital bridge between safety net populations and providers when access to routine care is prohibitively difficult or expensive.
+1. Missile defense analytics can spot sepsis before physicians
+When you think about Lockheed Martin, you probably think about national defense instead of healthcare.  But the global security and aerospace company, which also operates more than 50 medical clinics nationwide within the VA and Social Security Administration, is using its missile defense insights to tackle an insidious foe: sepsis, which kills nearly 40% of the 750,000 people it affects each year.  Leveraging data analytics insights that can spot enemy projectiles, Lockheed Martin’s application of machine learning technology to medical IT has the potential to identify sepsis between fourteen and sixteen hours before physicians do.
+Tagged Analytics InfrastructureBig DataClinical AnalyticsEHR AnalyticsHealthcare AnalyticsHealthcare Data ManagementHealthcare Data Strategy
+
+

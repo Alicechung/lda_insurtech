@@ -1,0 +1,39 @@
+Machine Learning Can Flag Adverse Drug Events in Unstructured Data
+
+December 19, 2017
+
+By Jennifer Bresnick
+December 19, 2017 - Applying natural language processing and machine learning techniques to unstructured data can help to identify adverse drug events (ADEs) in medical literature and social media postings, says a new article in JMIR Medical Informatics.
+With 92.7 percent accuracy and 93.6 percent precision, the machine learning tool outperformed than traditional big data analytics algorithms, notes a team from the Marshfield clinic, University of Wisconsin Madison, and Institute of Electrical and Electronic Engineers in Dublin, Ireland.
+For hospitals and other providers on the financial hook for adverse patient safety events, the ability to use unstructured data to extract insights into dosing errors and additional missteps could be a promising step forward for quality improvement and clinical decision support.
+“Discovery of ADEs has gained great attention in the health care community, and in the last few years, several drug risk-benefit assessment strategies have been developed to analyze drug efficacy and safety using different medical data sources, ranging from electronic health records (EHRs) to human-health–related social media and drug reviews,” the team explained.
+Between 2007 and 2016, academics published more than 342,000 articles about drug analysis, evaluation, or repositioning, the study says. Assuming a relatively standard length for each study when converted to a PDF, this equates to more than 1 terabyte of unstructured data waiting for comprehensive analysis.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“It is impossible for researchers, scientists, and physicians to read and process the large body of scientific articles and remain abreast of the foremost information regarding ADEs,” the team notes.
+ “Therefore, there is a pressing need to develop intelligent computational methods, particularly big data analytics solutions, to efficiently process this wealth of data.”
+The researchers employed a type of machine learning solutions known as a neural network to extract information on ADEs from the available corpus of academic articles as well as health-related social media posts.
+The project focused on identifying sentences related to ADEs by analyzing each word in the sentence and determining whether it is likely to be related to an ADE or not.  Training data was annotated by three human medical domain experts.
+Source: JMIR Medical Informatics
+The team extracted more than 97.2 million sentences from 1.45 million journal abstracts and full text articles available from PubMed Central, as well as 2.52 million sentences from nearly 420,000 social media and blog posts on medical websites such as WebMD.
+READ MORE: What is the Role of Natural Language Processing in Healthcare?
+When narrowed to a group of 28 drugs commonly associated with adverse events, the team found 12,265 ADE-related sentences from the biomedical articles and 181 ADE-related sentences from social media posts.
+The researchers then graphed the results to create a visualization of the data extracted from the two sources, showing clear correlations between common medications and their known side effects.
+Source: JMIR Medical Informatics
+The visualization clearly illustrates the correlation between routine medications, like aspirin and warfarin, and their most common adverse effects.
+“Warfarin is an extremely effective anticlotting agent primarily used for patients at high risk for stroke or heart attack because of atrial fibrillation that, up until recently, has been a cornerstone of treatment,” the study explains.
+“One common and potentially serious adverse effect of warfarin therapy is bleeding. This can occur because of changes in diet, drug interactions, or spurious physiological changes. The effectiveness of warfarin coupled with a high risk for serious bleeding events led to extensive research and publication in the medical literature, which is very apparent in our data visualization.”
+READ MORE: Health Information Governance Strategies for Unstructured Data
+The algorithm also identified some rarer ADEs, such as the potential for developing lactic acidosis when taking metformin. 
+However, the natural language processing approach does have its caveats. 
+“Our system identifies nausea and vomiting as ADEs associated with dexamethasone,” the team said. “Although it is true that dexamethasone can cause these reactions, it is commonly prescribed to prevent nausea and vomiting associated with chemotherapy.
+“Without more contextual clues from the free text in the articles, it is impossible for us to decide whether dexamethasone is being identified as a treatment or a causal agent in this case.  Successfully classifying these edge cases may require additional labeled data, a larger window size, or other unexplored techniques and is an area for further study.”
+The journal article results may also be slightly skewed towards extremely rare adverse events, since academic journal articles often focus on unique cases. 
+Lactic acidosis is a very rare complication of taking metformin, yet it is so serious that researchers may be more inclined to study the potentially fatal condition than they are to publish literature on the medication’s less severe gastrointestinal side effects.
+“In a similar way, side effects reported in social media will naturally include more common side effects, particularly because they are impactful to the patient taking the medication,” the team added. “In future work, text mining should take advantage of these naturally occurring differences.” 
+The findings have positive implications for the future of patient safety research, the article concludes.
+“Publications in the biomedical literature or postings in social media, especially early after the release of a novel drug, may include case studies or reports of side effects not seen in clinical trials that could be detected by our system before the signal reaches the critical detection threshold of reporting systems such as the FDA Adverse Event Reporting System,” the study says.
+Machine learning and natural language processing tools could speed the process of recalling or repositioning new pharmaceuticals to ensure the safety of patients and the delivery of better outcomes.
+While the study has its limitations, this approach to extracting insights from unstructured data holds a great deal of promise for improving care and supplementing the clinical decision making process.
+Tagged Analytics InfrastructureHospital QualityMachine LearningNatural Language ProcessingPatient SafetyPopulation Health Management
+
+

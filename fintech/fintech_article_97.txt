@@ -1,0 +1,25 @@
+Temenos launches AI-based Suspicious Activity Prevention to combat fraud in real-time
+
+June 9, 2018
+
+Temenos (SIX:TEMN), the banking software company, expanded its financial crime mitigation product to include an AI-based Suspicious Activity Prevention solution protecting banks and their customers from fraud.
+
+ Demand for financial compliance and the increasing levels of financial crime are putting huge pressure on banks. Their legacy processes have grown so complex with a high level of manual work for screening alerts and other fraud mitigation activities. Each manual step is inefficient and prone to errors. High level of false positive rates exacerbate this problem. These challenges mean banks are facing greater reputational risk, growing fines and loss to fraud, as well as spiralling costs.
+
+ Through its innovative and award-winning technology the Temenos Financial Crime Mitigation (FCM) product is able to offer banks the lowest levels of false positives in the industry (2.5% compared to industry rates of approximately 5% to 7%) while also reducing banks total cost of ownership (TCO) by approximately 50 percent. Through the use of sophisticated filtering techniques and advanced analytic capabilities the Temenos FCM product range has helped over 100 clients globally such as UBS upgrade their capabilities, reduce their manual processes and meet their clients’ expectations of rapid digital banking services.
+
+ The new Suspicious Activity Prevention capability further enhances the Temenos Financial Crime Mitigation product which includes surveillance and analytical capabilities, sanctions screening, anti-money laundering, enhanced due diligence (KYC) and now fraud. The new module uses a combination of AI-based, sophisticated, self-learning algorithms and expert business rules to block suspicious transactions based on real-time behavioural analysis, allowing clients to identify and trap fraudulent and money laundering transactions as they occur. It uniquely builds customer profiles to detect and stop suspicious transactions that deviate from normal and expected behaviour. The Suspicious Activity Prevention module is configurable by any designated bank official, offering complete control to the business.
+
+ According to Daniel Mayo, Chief Analyst, Financial Services Technology, Ovum: “Temenos has a strong specialism in services related to anti-financial crime, particularly in compliance and customer screening and is top-ranking in KYC/CDD and AML capabilities. The FCM product family has been designed to be highly configurable to work with multiple modern and legacy back-end systems, with transaction and alert data processed in real time. Temenos provides a specialist offering, evidenced with a strong market position, and should be considered by financial institutions looking to review their financial crime solutions.”
+
+ Temenos Financial Crime Mitigation (FCM) product offers:
+
+ Temenos is the only global banking software company offering pre-built FCM protection within its core banking software. FCM is available as a standalone product and can also be integrated with any core banking solution. It can be deployed on-premise and is also available as a SaaS offering running on Temenos Cloud. It is the only complete FCM product on Microsoft AppSource.
+
+ Adam Gable, Product Director – Financial Crime Mitigation, Treasury & Risk, Temenos, stated: “We are proud to be helping over 100 clients globally to tackle their financial crime, compliance and screening needs. Our financial crime mitigation product is a complete solution offering banks an unparalleled line of defence across all channels allowing them to not only avoid regulatory fines, detect fraud and mitigate reputations risks but also give our clients the confidence to bring new and innovative products to market through multiple channels.”
+
+ About Temenos
+
+ Temenos Group AG (SIX: TEMN), headquartered in Geneva, is a banking software, partnering with banks and other financial institutions to transform their businesses and stay ahead of a changing marketplace. Over 3,000 firms across the globe, including 41 of the top 50 banks, rely on Temenos to process the daily transactions of more than 500 million banking customers. Temenos customers are proven to be more profitable than their peers: over a seven-year period, they enjoyed on average a 31% higher return on assets, a 36% higher return on equity and an 8.6 percentage point lower cost/income ratio than banks running legacy applications.
+
+

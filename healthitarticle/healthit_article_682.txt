@@ -1,0 +1,34 @@
+American Heart Association Makes Moves for Precision Medicine
+
+November 15, 2016
+
+By Sara Heath
+November 15, 2016 - The American Heart Association has launched a cloud-based health data marketplace for cardiovascular research in Precision Medicine, according to a press release.
+The repository will ideally help cardiovascular researchers access a breadth of health data, including longitudinal cohorts, proteomic, genomic, and gene expression data. This data will come from clinical trials, long-standing epidemiological studies, clinical registries, and real-time health data originating from wearable mHealth devices.
+The AHA’s goal is that this data will help cardiovascular researchers make progress toward treatments that will affect unique patient populations managing chronic heart conditions.
+According to AHA leaders, the new data repository and precision medicine approaches support the organization’s commitment to improving life for patients and their families.
+"The Platform will harness the power of big data to revolutionize the way cardiovascular research is performed and speed the promise of precision cardiovascular medicine," said AHA CEO Nancy Brown.
+READ MORE: Precision Medicine, Big Data Partnerships Will Enhance Treatment
+"The AHA remains steadfast in its commitment to eliminate the tragic global burden cardiovascular disease places on individuals, families, healthcare systems, and entire nations by mapping scientific discovery to the dramatic advances in biomedical research and technology innovation."
+The cloud-based repository, developed in partnership with Amazon Web Services, will further support precision medicine by allowing clinicians and researchers in disparate locations contribute to and leverage health data to help develop cures.
+"AHA and AWS bring unique strengths and complementary expertise to the Precision Medicine Data Marketplace with AWS offering the immense computational and analytical power necessary to manage the information ecosystem of this magnitude," said Amazon Web Services Vice President of the Worldwide Public Sector, Teresa Carlson.
+"We are very excited to work with AHA to quickly bring resources and advancements to patients more rapidly and to make these scientific discoveries a reality."
+Presently, seven research and clinical organizations are contributing data to the cloud platform, including AstraZeneca, Cedars Sinai Heart Institute, Dallas Heart Study, the Duke Clinical Research Institute, Intermountain Medical Center Heart Institute, the International Stroke Genetics Consortium, and Stanford Cardiovascular Institute.
+READ MORE: Henry Ford to Launch New Precision Medicine, Cancer Center
+The variety of data currently contributing to the cloud repository shows promise, according to Eric Peterson, MD, MPH, Executive Director at the Duke Clinical Research Institute.
+"By making large numbers of data sources more easily available to researchers, this collaboration will accelerate the movement toward greater openness in clinical research," Peterson explained. "It will also help speed the development of scientific discoveries into usable treatments for the patients who need them most."
+Leaders from the Stanford Cardiovascular Institute say this data could work to promote population health management, allowing providers to deliver targeted preventive care.
+"These findings could help stratify individuals, groups, and entire populations according to their risk of cardiovascular disease and likely response to treatments," said Joseph C. Wu, MD, PhD, director of the Stanford Cardiovascular Institute.
+AHA will also be awarding several grants for possible data contributors. Recipients will reportedly receive free storage on the Precision Medicine cloud platform, allowing for a wider data set. The organization will announce awardees in April 2017.
+READ MORE: AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+Precision Medicine projects have been sparking across the country as of late. Last week, IBM Watson announced a partnership with MIT and Harvard University’s Broad Institute. The $50 million research project aims to uncover the complexities behind cancer’s resistance to certain treatments.
+"Defeating cancer involves playing a high-stakes game of biological chess,” said Eric Lander, founding director of the Broad Institute. “When we make a move with a therapy, cancer often responds with a counter-move by finding a way to become resistant. The key will be learning from clinical experience, so that we know cancer's moves in advance and can plan strategies to cut off its escape routes.”
+By leveraging a deep data set, as well as offering access to that information pool to other researchers, leaders from IBM and Broad hope to make further inroads in Precision Medicine and cancer research.
+"Currently, cancer researchers have access to genomic information from only a few hundred drug-resistant cancers samples. In addition to the goals of this specific study, IBM and Broad are committed to advancing cancer research by sharing the data from thousands of tumor samples with the scientific community to accelerate progress everywhere against cancer," concluded Todd Golub, MD, chief scientific officer and founder of the cancer program at the Broad Institute.
+"What we and many others will learn with this information will have important implications for the future of cancer precision medicine and cancer diagnostics."
+Dig Deeper:
+NIH Unveils Precision Medicine, Genomics, Big Data Analytics Plan
+How Precision Medicine Will Shift from Research to Clinical Care
+Tagged Clinical AnalyticsHealthcare CloudPrecision Medicine
+
+

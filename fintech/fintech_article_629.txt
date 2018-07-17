@@ -1,0 +1,37 @@
+Avelacom Chooses Metamako To Offer Fastest FPGA-Based Connectivity Solution
+
+September 11, 2017
+
+Moscow, Russia, London, UK, 07 September 2017 – Global connectivity provider Avelacom announced today that it is now using Metamako, the leading specialist provider of FPGA-enabled, high-performance networking devices, to significantly accelerate its network processing power and keep latency to an absolute minimum. The solution meets the needs of HFT firms and all firms in capital markets for whom latency is critical, allowing them to benefit from the latest technology innovations in data processing.
+
+ Avelacom is now live with Metamako’s C-Series network devices (using the MetaMux app, running an Intel Arria FPGA), providing its clients in Aurora Data Center in Illinois with substantially reduced latency and true real-time trading capabilities to access CME Group markets. One of the key features of Metamako’s FPGA-based low-latency switching device is its ability to replicate market data with a market-leading latency of just 5 nanoseconds and to aggregate exchange-facing orders.
+
+ Metamako devices also offer a wealth of additional features such as tap aggregation, packet filtering and timestamping for regulatory compliance such as MiFID II, along with dynamic patching and media conversion. The combination of Avelacom and Metamako allows clients to deal with the increasing challenges of using higher volume, real-time data in a cost-efficient way, without the need to invest in additional hardware and extra rack space.
+
+ “We are excited to be working with an innovative company like Metamako. Using their ultra-low latency devices, we can better respond to specific requirements of sophisticated financial firms and also extend accessibility of the latest technologies to a wider trading community,” said Aleksey Larichev, Avelacom’s Managing Director.
+
+ Kevin Covington, CEO of Metamako, said: “Avelacom is a great choice and an excellent addition to our roster of financial telecommunications clients. They have an extensive reach and low latency expertise across emerging financial markets and beyond, as well as an impressive list of global clients. The combination of their ultra-fast connectivity with our unbeatable speeds will provide the trading community with exceptionally fast connectivity to key exchanges.”
+
+ Avelacom delivers raw market data from exchanges over its ultra low-latency network, along with providing exchange colocation, with the closest proximity to all major exchanges and liquidity providers globally. Avelacom plans to deploy Metamako devices at several more trading venues, initially across the Middle East and APAC.
+
+ About Avelacom
+
+ Avelacom is one of the leading network service providers specialising in low-latency connectivity and IT-setup solutions. The company was set up in 2001. Today its network stretches more than 30,000 miles of long-haul fibre routes across Europe, Russia, Asia, North America, South Africa and Australia.
+
+ Avelacom uses leading edge 100 Gbps coherent DWDM technology upgradable to 400 Gbps. The company’s flagship products are available in 20+ trading venues and include: superfast routes between exchanges, co-location and proximity hosting, real-time market data delivery and ultra-low latency order routing, financial cloud and other ready-to-trade solutions. The offices are located in Moscow and London.About MetamakoMetamako is a leading provider of high-performance, low-latency network solutions.
+
+ Its network platform of disruptive hardware, FPGA-enabled devices and applications is built for high-speed, superior performance and programmability to provide clients with the ability to simplify their network stack and support computing at the edge. Its super-fast devices with latency of just 4 nanoseconds have been independently tested by the STAC Benchmark Council.
+
+ Metamako’s solutions have built-in intelligence and are rich in features, using state-of-the-art technology to keep latency to an absolute minimum.Metamako, founded in 2013, is based in Sydney, Australia, with offices in New York, London and Tokyo. For more information visit www.metamako.com
+
+  
+
+ 
+
+ Press Contacts:
+
+ Metamako – Alla Lapidus Moonlight Media Email: metamako@moonlightmedia.co.uk Tel: +44 (0) 20 7250 4770
+
+ Avelacom – Alina Karpichenko Global Marketing Manager a.karpichenko@avelacom.com
+
+

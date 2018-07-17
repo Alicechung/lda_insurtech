@@ -1,0 +1,113 @@
+Passivity could be the key to useful patient-generated data
+
+August 05, 2014
+
+By Jennifer Bresnick
+August 05, 2014 - The passive collection of health data, gathered seamlessly from wearable devices and home monitoring systems, could be the key to making patient-generated health data (PGHD) useful and ubiquitous, says Beth Israel Deaconess Medical Center (BIDMC) CIO John Halamka in a blog post.  The proliferation of devices that do the work for patients and the growing acceptance of the usefulness of PGHD among healthcare providers are combining to create a “perfect storm of PGHD to enter the mainstream,” Halamka says.
+“Since 1999, Patientsite, the BIDMC shared record between doctor and patient, has enabled patients to track blood pressure, glucometer readings, activities of daily living, mood, pain et cetera, but few patients have used those features,” he writes. “Why?  Because it requires time and energy to maintain that data.”
+But when patients don’t have to do anything, he continues, explaining how a suite of devices on his person and in his home automatically transmit data and upload statistics to his online health records, information collection becomes easier and engagement with the data becomes more natural.  “The devices, standards (content, vocabulary, transport), and usability are good enough.  The total expense of acquiring/using them is cheap enough,” he says, to finally make PGHD a viable tool for providers to use in population health management and chronic disease care.
+As providers start to accept that PGHD is here to stay, and the EHR Incentive Programs become more likely to include the collection and use PGHD in future stages, developers and vendors will continue to refine the collection process and streamline the way patients interact with a new suite of tools.  Apple, Google, and Samsung, just to name a few of the tech companies jumping onto the wearable device bandwagon, are already touting their wristbands and smartwatches as the solution for the quantified self.  Other healthcare developers are seeking ways to integrate PGHD into the EHR to make the data viewable and useable for providers.
+VA Lighthouse API Platform with FHIR Enables Health Data Access
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+30% of EHRs lack population health, reporting capabilities
+Healthcare Data Analytics Company Receives Major Investment
+5 Questions to Prep for Healthcare Big Data Analytics in 2016
+Hospitals providing inappropriate treatment for infections
+Summit Medical, Humana Form Accountable Care Organization
+Gates Foundation Grants $279M to UW Population Health Program
+UMass Gets $5.5M Chan-Zuckerberg Grant for Healthcare AI Work
+EHR analytics identify delays in kids eight months earlier
+NJ invests in chronic disease, population health management
+Did Truven rank Medicare upcoding hospital’s quality too highly?
+Interoperability, Low Costs Make Cloud-Based EHRs a Favorite
+Machine Learning Algorithm Outperforms Cardiologists Reading EKGs
+Maine HIE Expands Real-Time Healthcare Big Data Analytics
+Despite Possibilities of Precision Medicine, Challenges Remain
+Video discharge notes 3.5 times more effective for patients
+LTPAC Orgs Need Better Health Data Exchange Standards, APIs
+Decoding 10 More Top Healthcare Big Data Analytics Buzzwords
+54% of Healthcare Pros Expect Widespread AI Adoption in 5 Years
+EHR Use Correlated with Higher Rates of Blood, Imaging Tests
+Hospital readmissions decrease “whenever you try,” says Mayo
+Pew: EHR Usability Concerns May Still Impact Patient Safety
+HHS, feds must do more to open health data to industry
+4 Partnership Steps for Addressing Social Determinates of Health
+How to Close Gaps between ACO Measure Sets, Clinical Practice
+NIH: We’re ready to “mine the big data mountain”
+Geisinger Invests in Precision Medicine, Genomics, Big Data
+New EHRA Workgroup to Focus on Health IT, Accountable Care
+Online Population Health Tool Illuminates Socioeconomic Factors
+CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+Clinical Analytics Aid Payers, Providers with Value-Based Care
+AMA Urges “Thoughtfully Designed” Artificial Intelligence for Healthcare
+Anthem’s HealthCore Offers Big Data Access for Healthcare Analytics
+AMGA Launches Chronic Disease Management Goals for Diabetes
+Concerned about tracking baby boomers? Sign them up online
+Open Population Health Analytics Flag Philly Health Disparities
+Blockchain Offers to Solve Pain Points in Healthcare Data Management
+How Accountable Care Impacts Population Health Management
+Study: More drugs might not mean fewer blood clots
+Data Warehouse, ERP Tools Top Wish List for Value-Based Care
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+Why Patient-Reported Outcomes Data is Key to Healthcare Quality
+APIs, Population Health Take Central Role in MACRA Implementation
+NIH, Pharma Orgs Launch $215M Precision Medicine, Cancer Project
+AI, Big Data, IoT Bring Growth to Multiple Healthcare Markets
+CancerLinQ Big Data Analytics a “Powerful Tool” for Oncology
+Is ICD-10 End-to-End Testing as “Successful” as It Seems?
+CMS Funds Big Data Analytics Projects for Quality Improvement
+NIH Awarded HIMSS Stage 7 for Clinical Data Sharing, EHR Use
+CHIME Offers $1M for 100% Accurate Patient Matching Solution
+AMA’s Major Challenges: Chronic Disease Management, ICD-10, MU
+Should providers add consumer data to clinical analytics?
+Informatics, Machine Learning Accelerate Pharmaceutical Discovery
+UMass Receives $6.4M for Surgical Clinical Decision Support
+HIMSS unveils DELTA score for healthcare analytics maturity
+Epic Systems Integrates Geisinger Population Health Toolkit
+Private Payers Driving Value-Based Payment, Accountable Care
+Next-Gen Genomic Testing a Focal Point for Precision Medicine
+Artificial Intelligence in Healthcare Market to See 40% CAGR Surge
+Six Pediatric Hospitals Create Personalized Medicine Coalition
+Antibiotic Stewardship, Patient Safety Plans Get Industry Support
+AMA to Connect Physicians with Health IT, Big Data Companies
+VA to Get “Aggressive” with Hospital Quality Improvement Program
+Will the White House Chart a Course for Healthcare Big Data?
+Precision Medicine Rises, Data Management Still a Barrier
+Data Analytics, PDMP Use Can Combat the Opioid Crisis
+Survey: Patients embracing home health, data analytics, HIE
+MD Health Systems Collaborate for Population Health Management
+Consumer monitoring device market to reach $47 billion by 2020
+CMS Equity Plan Promotes Data Analytics, Population Health
+CMS Offers $157M to Fund Community Population Health Management
+Five New Year’s Resolutions for Physicians and Health IT Pros
+Trial uses real-time clinical analytics to study cancer drug
+Atul Gawande to Lead Amazon, Berkshire, JPMorgan Healthcare Company
+How the Center for Diagnostic Imaging uses big data analytics
+Medical Device Integration Brings Real-Time Data, Better Workflow
+Geisinger Aids Diabetes Care with Community Food Initiative
+50M Patients Will Access Open EHR Notes with New Partnership
+Artificial Intelligence, Genomics Combo Boosts Precision Medicine
+Academic Medical Orgs Leap into Precision Medicine Initiative
+Pfizer, NCCN give $2M in cancer research grants to six winners
+Change Healthcare Pushes Scale, Finds Value in Blockchain
+CIOs Plan to Invest More in AI, Predictive Analytics, Big Data Tools
+Is a Public Health Emergency Enough to Combat the Opioid Crisis?
+ONC Appoints Its First Chief Health Information Officer
+CVS Health Launches Pharmacy-Based Diabetes Management Program
+Machine Learning, NLP Help with Physician Skill Benchmarking
+Four Use Cases for Healthcare Predictive Analytics, Big Data
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+AHIMA: ONC Funding Key for Interoperability, Precision Medicine
+State-Led Programs Help Meet Population Health Management Goals
+AHA Details Survival Strategies for Urban, Rural Hospitals
+Poor Medication Reconciliation Puts 60% of Opioid Users at Risk
+Quality care relies on clinical, administrative cooperation
+WEDI and NATE Partner for Patient Matching, Interoperability
+ONC Updates Providers on Interoperability, EHR Usability Projects
+Partnership Offers Chronic Disease Management at Pharmacies
+Health Information Management Pros Need Security, EHR Data Skills
+BCBSA Tackles Opioids with Big Data, Accreditations, Member Hotline
+For Halamka, exploring ways to collect and use PGHD in his own life, as well as in his leadership role at BIDMC, is at the top of his agenda.  “Patient generated healthcare data is the next key frontier in care coordination, population health, and clinical research,” he writes.  “Although Beth Israel Deaconess has invested significantly in home care, care management, and telemedicine, it has not yet made the commitment to be a leader in patient generated healthcare data. For the next year I’ll be exploring patient generated data, both in devices I use myself, and in the creation of novel applications that enable such data to be incorporated in ACO and clinician workflow without creating data overload for any stakeholder.”
+Tagged Clinical AnalyticsClinical DataPopulation Health Management
+
+

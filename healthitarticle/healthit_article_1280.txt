@@ -1,0 +1,25 @@
+Big Data Sorting Methods Can Change Picture of Population Health
+
+September 01, 2015
+
+By Jennifer Bresnick
+September 01, 2015 - The healthcare system may be learning to treat data as a source of ultimate truth, but when it comes to population health management statistics, truth may still be in the eye of the beholder.  Patient outcome data can look very different depending on what information is collected, who is giving the answers, and what the analyst is trying to achieve. 
+For healthcare providers attempting to craft detailed portraits of their patient populations and target services accordingly, using big data analytics to identify the socioeconomic roots of chronic disease, infectious outbreaks, or lifestyle issues like smoking and drug use seems like the most reliable way to collect the facts.
+But a new study published in the American Journal of Preventive Medicine illustrates how quickly population health data can change its tune when segmented in slightly different ways, highlighting the pitfalls of trusting to boiled-down reports without truly understanding a patient’s circumstances and challenges.
+“Population health outcomes are distributed disproportionately among the many subpopulations composing an aggregated total population,” write the study authors, who hail from the University of North Carolina at Charlotte, University of Central Florida, Institute for Healthcare Improvement in Massachusetts, and the Louisiana State University School of Public Health. 
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Clinical Decision Support May Boost ID of Chronic Kidney Disease
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+“Comprehensive reviews of current approaches for defining and measuring population health find that they are typically composed of lists of county-level indicators, which lack the granular data to measure subpopulation disparities and provide little or no synergy for priority setting or the formulation of intervention strategies at the local level.”
+Using mortality data from the Florida Department of Health, the researchers analyzed all deaths between the years of 2008 and 2010 “ to demonstrate a new approach to subpopulation analytics that stages multiple sources of event-level data in a conformed data warehouse, with an online analytic processing interface and customized algorithms providing flexible and powerful analytic capabilities,” the authors explain.
+The data was characterized using several variables including gender, race, age, location of death, and cause of death according to the National Center for Health Statistics.  When the data was divided on a county level, it created 545,112 subpopulations statewide.  When the data was segmented by ZIP code, the researchers discovered 7.3 million different subpopulations.
+The study focuses on the top 25 causes of death, using age and race as major variables to show how big data can present different facets of mortality rates.
+“Each of the comparative measures produced a very different view of the Orange County subpopulations,” the study says. “Those furthest from the state mean death rates (Z-score) were mostly black, homicide by firearms; neoplasms of the prostate, uterus, breast, colon; HIV; and diabetes.  The subpopulations sorted by the size of the racial disparity, by contrast, were more equally divided by race.”
+“The white causes of death with disparities favoring blacks included melanoma; accidental poisoning and exposure to toxic substances (including drug-related deaths); and suicides.  Only a few of the subpopulations with the highest death counts appeared in the top 25 for either the Z-score or racial disparity rankings. Fixed groups of county-level indicators and their static logic models are incapable of analyzing the complex interactions of determinants and active agents from which local health status emerges.”
+The study illustrates the importance of utilizing flexible patient stratification tools for population health management.  Employing technologies that allow providers to sort big data in multiple ways tailored to a specific management task will allow healthcare organizations to most effectively target their services and understand their patient populations.
+“Existing sources of publicly available granular de-identified data and powerful information technology enable hundreds of millions of subpopulations to be defined and analyzed for multiple outcomes, such as deaths (as in our demonstration), avoidable hospitalizations, inpatient and ambulatory surgical complications, readmissions, newly diagnosed cancers, emergency room visits, and many others,” the study concludes.
+“Because of the event-level nature of this data, integration with clinical data from electronic health records and other treatment subpopulations is feasible. Subpopulation analytics that is deployed and evolved on a national scale will inform population health improvement in the same way that genomics and metabolomics are informing clinical disease management.”
+Tagged Big Data AnalyticsClinical AnalyticsPopulation Health Management
+
+

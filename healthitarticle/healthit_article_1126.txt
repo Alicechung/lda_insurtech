@@ -1,0 +1,27 @@
+FDA Launches Cloud-Based Genomics, Precision Medicine Portal
+
+December 15, 2015
+
+By Jennifer Bresnick
+December 15, 2015 - The Obama Administration’s national strategy for the advancement of precision medicine has quickly come into focus in 2015, with several top agencies, including the NIH and FDA, laying the big data analytics foundation for a broad push into personalized care. 
+Today, the FDA has announced the launch of its precisionFDA platform, a cloud-based portal that will enable researchers across the country to collaborate on next-generation DNA sequencing techniques and other innovations that will bring individualized treatments and potential cures for a number of serious diseases.
+“Imagine a world where doctors have at their fingertips the information that allows them to individualize a diagnosis, treatment or even a cure for a person based on their genes,” wrote FDA Chief Health Informatics Officer Taha A. Kass-Hout, MD, MS and precisionFDA Project Manager Elaine Johanson in a blog post announcing the new initiative.
+“Recognizing that each person’s DNA is slightly different, scientists can look for meaningful differences in DNA that can be used to suggest a person’s risk of disease, possible response to treatment and assess their current state of health. Ultimately, what we learn about these differences could be used to design a treatment tailored to a specific individual.”
+Users of the precisionFDA system will have access to critical data included reference genomes, which provide a baseline for comparing DNA material and potentially identifying important markers or variances related to specific diseases. 
+READ MORE: Precision Medicine, Population Health Share Strategies and Goals
+These resources will allow scientists from academic institutions, government agencies, and healthcare organizations to use standards-based techniques to examine the origins and development of cancer, neurological diseases, and a number of rare conditions.
+“Users will also be able to compare their results to previously validated reference results as well as share their results with other users, track changes and obtain feedback,” the blog post says.  “Through such collaboration we hope to improve the quality and accuracy of genomic tests – work that will ultimately benefit patients.”
+Precision medicine research requires huge volumes of data and enormous computer processing power to sift through the masses of information available within each patient’s DNA.  While traditional genome-wide association studies have led to significant progress in charting out genetic biomarkers that may influence a patient’s reaction to a certain therapy, next-generation sequencing techniques hold even more promise for major breakthroughs.
+“Most diagnostic tests follow a one test/one disease paradigm that readily fits FDA’s current device review approaches for evaluating a test’s accuracy and clinical interpretation,” Kass-Hout and David Litwack, PhD, explained in August, when the FDA unveiled its initial plans to launch the precisionFDA platform.
+“Because NGS tests may be used in many ways in the clinic and can produce an unprecedented amount of data about a patient, we are working to evaluate whether a better option might simply be requiring each NGS test developer to show that the test meets certain standards for quality.”
+READ MORE: Henry Ford to Apply Data Analytics to Pancreatic Cancer with $20M Gift
+“Similarly, to demonstrate a test’s clinical value, we are assessing whether it may be more efficient for developers to refer to evidence in well-curated, validated, and shared databases of mutations instead of independently generating data to support a mutation-disease association,” they added.
+Sharing information and standardizing the results may reduce wasted duplication of effort, and help researchers concentrate on moving forward with promising avenues of study.
+The code for the collaborative project will be open source, say Kass-Hout and Johanson, and will be available to the developer community through GitHub, a major open source repository, so users can create enhancements and expand the functionality of the system.
+“We’re confident that employing such a collaborative approach to DNA data will yield important advances in our understanding of this fast-growing scientific field, information that will ultimately be used to develop new diagnostics, treatments and even cures for patients,” Kass-Hout and Johanson said.
+Daryl Pritchard, PhD, Vice President of Science Policy at the Personalized Medicine Coalition, called the platform “an encouraging effort to engage the personalized medicine community in its decision-making processes.”
+READ MORE: Predictive Analytics, AI for Lyme Disease Gets $800K NSF Grant
+“We hope stakeholders will use it and participate in its continued development,” Pritchard said in a public statement. “We look forward to working with FDA as the agency continues to consider the implications of various approaches to NGS oversight. Keeping up with scientific advancements in personalized medicine is difficult, but FDA is addressing the challenge.”
+Tagged Analytics InfrastructureBig Data AnalyticsMedical ResearchPrecision Medicine
+
+

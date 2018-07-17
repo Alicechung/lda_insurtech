@@ -1,0 +1,18 @@
+InAuth Launches Enhanced Secure Two-Factor Authentication Solution To Help Clients Address PSD2
+
+24 May 2018
+
+Newly enhanced InAuthenticate® Now Includes Malware, Root and Jailbreak Detection And Geolocation Analysis With Encrypted Secure Messaging To Deliver Strong Customer Authentication for PSD2
+InAuth, a leading digital device intelligence company, today announced it has enhanced its InAuthenticate® solution to include malware, root and jailbreak detection and geolocation analysis with encrypted secure messaging. The new features will help businesses prepare for Payment Services Directive 2 (PSD2) compliance in the European Union as well as other scenarios that require a secure, second factor of authentication with a seamless customer experience.
+InAuthenticate is a message and data transport technology that offers a secure alternative to other two-factor authentication methods, such as email and SMS. InAuthenticate is easy to add to an organization’s mobile app and enables strong customer authentication for payment authorizations, logging into accounts, bank transfers, account changes, customer acknowledgments or consent.
+Under PSD2’s Regulatory Technical Standards (RTS), account and payment service providers must comply with increased security requirements including using Strong Customer Authentication (SCA), when processing payments or providing account-related services.  SCA requires that users be authenticated using at least two separate authentication factors, such as:
+Knowledge: something they know (a password or PIN code);
+Ownership: something they have (a mobile phone); and
+Inherence: something they are (biometrics, e.g. fingerprint or iris scan).
+Leveraging InAuth’s Trusted Path architecture and permanent device identifier, InPermID, InAuthenticate messages are encrypted end-to-end, digitally signed, and protected against repeated attacks. InPermID allows the mobile device to act as a trusted second factor of authentication, satisfying the ownership or “something you have” element of authentication for PSD2 and multifactor authentication. Only a registered device associated with an InPermID can receive InAuthenticate messages, allowing for secure, contextual messages.
+InAuthenticate also satisfies many other security requirements of PSD2 by providing device risk analysis, malware detection, anti-tamper protection, and cloak root and hidden jailbreak detection.
+Lisa Stanton
+Under PSD2, payment services providers are required to have strong customer authentication for online purchases over a certain amount. To verify these transactions, InAuthenticate sends  a message about the purchase to the mobile bank app on a customer’s registered, trusted mobile device. The customer simply opens and approves or declines the transaction within their bank mobile app.
+“InAuthenticate will help clients address the Strong Customer Authentication requirements for PSD2 while mitigating against security threats,” said Lisa Stanton, President, InAuth. “Our ability to utilize the device as a second factor of authentication and securely push contextual authentication messages to registered, trusted devices allows account and payment service providers to meet many of the requirements of PSD2.”
+
+

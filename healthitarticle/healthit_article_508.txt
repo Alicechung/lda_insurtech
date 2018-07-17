@@ -1,0 +1,32 @@
+IBM Patents Machine Learning Model for Pharmaceutical Discovery
+
+April 07, 2017
+
+By Jennifer Bresnick
+April 07, 2017 - Machine learning is quickly making inroads across the healthcare industry, from clinical care to pharmaceutical discovery. 
+The latest development on the journey from big data aggregation to true artificial intelligence comes from IBM Research, which has secured a patent for an association engine and visual analytics system that harnesses cognitive computing to predict the impact and side effects of new drugs.
+"As inventors at IBM, we have the opportunity to help solve real-world problems," said Jianying Hu, Senior Manager and Program Director, Center for Computational Health, IBM Research. "Our team is dedicated to this research and we continue to search for new ways to improve people's health around the world through innovation and invention."
+Dig Deeper
+Top 4 Basics to Know about Semantic Computing in Healthcare
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+IBM Watson Expands Role in Imaging Analytics, Population Health
+IBM has already delved deeply into applying machine learning to medicine with its Watson Health division, which currently focuses largely on precision medicine, predictive analytics from unstructured data, and clinical decision support. 
+The new patent, “Method and system for exploring the associations between drug side-effects and therapeutic indications,” harnesses similar technology to identify side effects produced by certain therapies and diseases. 
+The data can then be used to improve patient safety or discover new applications for pharmaceuticals that produce unintended, but potentially helpful, results in certain patients. 
+“As an example, our invention identified that a side effect of weight loss is closely associated with the indication of mood disorders (e.g., bipolar disorder, depressive disorder, panic disorder),” said Hu and Ping Zhang, IBM Research Staff Member, in an accompanying blog post.
+“The identification of this association could lead to the hypothesis that it may be beneficial to investigate certain drugs for mood-disorder for potential repurposing towards weight control.”
+The system could also improve patient safety by quickly and reliably identifying severe side effects from therapies, allowing researchers to find alternatives or providers to personalize dosages.  
+Eventually, pharmaceutical developers may be able to harness machine learning tools to reduce the time and expense of bringing effective drugs to market, Hu and Zhang said.
+“Lack of efficacy and adverse side effects are two of the primary reasons a drug fails clinical trials, each accounting for around 30 percent of failures,” they wrote.
+According to industry estimates, it takes more than a decade and up to $2 billion in development costs to bring a new drug to market, and failures are depressingly common.
+“Computational models and machine learning methods that can derive useful insights from large amounts of data on drugs and diseases from various sources hold great promise to provide information to help reduce these attrition rates and potentially improve the drug discovery process.”
+As precision medicine continues to present increasingly lucrative opportunities for pharmaceutical companies and health IT vendors, machine learning is likely to play a very important role in reducing the inefficiencies and dead ends inherent in bringing new therapies to market.
+Paired with the plummeting costs, faster returns, and increased detail of next-generation genetic testing, machine learning tools could lead pharmaceutical developers to major breakthroughs.
+Many major companies are already investing heavily in precision medicine research and development to get ahead of the curve. 
+According to an IDC report on the growth of cognitive computing and artificial intelligence in the healthcare industry, pharmaceutical R&D is likely to see a staggering 74.2 percent compound annual growth rate (CAGR) until 2022 as drug developers snap up machine learning tools to aid their business efforts.
+IBM has been working diligently to position itself as a leader in this field, partnering with many top oncology organizations and academic medical centers to refine its machine learning-as-a-service capabilities. 
+But it will have plenty of competition from some other heavy hitters, including Amazon, Microsoft, Dell, and a growing swarm of healthcare-specific machine learning vendors looking to contribute to the next wave of clinical breakthroughs.
+Pharmaceutical companies will likely be quick to take advantage of these new opportunities and machine learning tools to streamline their costs, enhance patient safety, and improve the efficiency of the drug discovery process.
+Tagged Analytics InfrastructureMachine LearningPatient SafetyPersonalized MedicinePrecision MedicineSemantic Computing
+
+

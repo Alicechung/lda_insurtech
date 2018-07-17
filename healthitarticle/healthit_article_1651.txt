@@ -1,0 +1,22 @@
+Big Data Analytics Research Projects Target Cancer, Genomics
+
+January 09, 2015
+
+By Jennifer Bresnick
+Big data analytics will help to spur research into cancer and diseases caused by genetics with a trio of new collaborations.
+January 09, 2015 - Several recently announced collaborations between academic research institutions and big data analytics vendors powering advanced discovery technologies will bring the power of big data to new studies that may have significant impacts on future therapies and treatments.  With oncology and genomics in the spotlight, personalized medicine is poised to take a leap forward as researchers dive into complex diseases.
+Columbia University Medical Center is leading the charge into genomics with a $30 million strategic alliance with Biogen Idec.  The partnership will create a gene sequencing and analytics facility as well as a postdoc program to further knowledge about disease pathways and the complex genetic mechanisms that produce unusual responses to therapies in some patients, says said David Goldstein, PhD, founding director of Columbia University’s Institute for Genomic Medicine.
+“Our understanding of human genetics is rapidly expanding, and there is growing recognition that the elucidation of the genetic causes of disease will have a transformative effect on both patient care and drug development in many different diseases,” he said.   “This collaboration marries the exceptional drug development expertise of Biogen with cutting-edge genomics expertise at Columbia University Medical Center. It will not only focus on target identification and validation at the early stages of drug development, but also facilitate genetically informed evaluation of treatments.”
+The Multiple Myeloma Research Foundation also announced a new collaboration, this one with GNS Healthcare to focus on parsing through data from the large-scale CoMMpass study, an investigation of 1000 patients recently diagnosed with multiple myeloma that aims to match each patient’s genetic profiles to clinical outcomes in order to better understand the relationship between the two.
+Dig Deeper
+FDA Holds App-a-Thon for Precision Medicine, Next-Gen Genomics
+NIH Opens Up “All of Us” to Research Participants Nationwide
+Precision Medicine, Blue Button Among White House Big Data Efforts
+“Through creative, dynamic partnerships, we continually build new research models to accelerate development of the most promising treatments for patients with multiple myeloma,” says Walter M. Capone, President and Chief Executive Officer of the MMRF. “This collaboration with GNS to apply leading-edge computer models and analytics to uncover disease pathways in the diverse CoMMpass data set exemplifies this strategy. We are excited by the real potential of this project to make rapid and meaningful progress toward a cure for multiple myeloma.”
+“This work embodies the transformative role for big data analytics to uncover specific treatment protocols that have a much better chance of success for individual patients,” added Colin Hill, CEO and co-founder of GNS.
+Meanwhile, Flatiron Health will work with the National Comprehensive Cancer Network (NCCN) to develop a cloud-based outcomes database that uses aggregated EHR data to identify patterns in oncology care.
+“The collaboration with Flatiron Health will provide oncology stakeholders the ability to garner critical insights needed to make informed decisions,” said Robert W. Carlson, MD, Chief Executive Officer, NCCN. “This database will give NCCN a leading edge in determining strategies for optimizing treatment protocols, as well as appropriate goals for oncology policy.”
+“We are pleased to work with NCCN to spur advancements in patient-centered care,” said Amy Abernethy, MD, PhD, Chief Medical Officer and Senior Vice President, Oncology, Flatiron Health. “This collaboration will provide NCCN Member Institutions with the ability to leverage cancer data in a meaningful way to identify opportunities to enhance and improve care.”
+Tagged Big Data AnalyticsMedical Research
+
+

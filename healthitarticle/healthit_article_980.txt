@@ -1,0 +1,67 @@
+How Semantic Data Analytics Benefits Population Health Management
+
+April 01, 2016
+
+By Jennifer Bresnick
+April 01, 2016 - When it comes to the complexities patient care, there will always be more questions than answers.  Clinicians and researchers are discovering new diseases on a regular basis, reclassifying conditions and treatments, and expanding their understanding of the human condition exponentially each year.
+New physicians are often told that half of what they learned in medical school will be wrong or outdated within five years of graduation – but it’s impossible to know which half that will be. 
+And with the constant pressure of caring for patients, meeting regulatory requirements, and wrestling with technology, it’s just as impossible for most clinicians to keep up with the avalanche of journal articles and studies that detail the latest updates to clinical guidelines, the best new pharmaceuticals to try, and the most cutting edge advances in precision medicine.
+That’s where big data analytics is supposed to come in.  By synthesizing huge batches of electronic health records, insurance claims, patient-generated health data, and even genomic testing results, analytics engines aim to deliver actionable clinical decision support that closes the gap between what a physician knows about patient care and what has happened during those five, ten, or fifty years since med school.
+Unfortunately, not even the latest and greatest of traditional analytics has been able to keep pace with the accelerating demands of modern healthcare.  Even small-scale EHR data mining can be difficult and expensive, and may run into any number of data integrity obstacles that render the results less than completely trustworthy.
+Big data analytics, which can be defined as the practice of synthesizing multiple data streams to unlock previously unavailable insights, is similarly fraught with challenges.  Accessing clean, complete, and normalized data sources is hard enough, but understanding how to translate results into better outcomes for patients can be a lifelong journey.
+Even if an organization successfully overcomes these initial roadblocks and starts to participate in population health management, they will still be constrained by the very nature of the technology they are using. 
+In the first of a new HealthITAnalytics.com series on advanced big data analytics techniques, we explore the limitations of current analytics tools and the potential for semantic databases to change the way healthcare organizations engage in population health management.
+Semantic analytics is rooted in same concepts as most current iterations of big data analytics: the relational database.  This schema was developed in the 1970s and has served the world of data science very well since then.
+At its most basic, a relational database is a spreadsheet.  Rows and columns representing different data elements are laid out in a logical order, and users can create formulas, algorithms, and queries to compare and contrast the information to extract a relatively narrow set of possible results.
+For example, a healthcare organization might create a database with a patient’s name, address, and insurance carrier.
+Using this dataset, a user can ask questions such as “What insurance does Mary Fletcher have?” or “Where does James Wong live?” or “How many of my patients live on Main Street?”
+However, if the user wants to add data to generate additional insights, he needs to carefully think about what new, specific questions he wants to answer, such as “Does Many Fletcher have diabetes?”
+Adding diagnosis data to the database will help to answer the query.  Diagnosis data must be normalized and standardized and then deliberately added to the system for a predefined set of patients.  It could be all patients, or it could just be a few targeted members in a specific cohort.  
+Technically, this means the organization is using big data analytics, since the diagnosis data previously lived in a separate location, and now it’s part of a larger dataset.
+This adds a new level of complexity to the information.  Now, the user can ask a more complicated question such as “How many patients are experiencing more than one clinical problem?” or “How many of my patients with Medicare have kidney disease?”
+Welcome to basic population health management.
+While adding more and more columns to this spreadsheet can increase the possible range of queries for patient management, a simple relational database will become far too unruly to answer some of the very complicated questions that providers need to ask their data.
+Here’s why.
+Linda Sanchez enters the clinic as a new patient.  She gives the check-in administrator her address and insurance carrier.  She doesn’t have diabetes, but her BMI is approaching the high-risk zone, and she is being treated for depression with medication. 
+If her new provider is participating in an accountable care organization, her physician needs to make sure that she doesn’t develop hypertension, diabetes, or heart failure, which can all negatively affect quality performance bonuses.
+In order to proactively manage Linda Sanchez, what does her provider need to know?  First, her clinical risk of developing a chronic disease or experiencing an acute events, and second, the steps her provider can take to prevent that from happening.
+The data elements required to make these determinations are many and varied, and may not all live in the same big, harmonious database. 
+Not only does Linda’s care manager need to keep tabs on her clinical status, but she has to understand why Linda is having trouble controlling her weight and how to help her stay on track with a good diet and exercise.
+Her care manager might want ask questions like these:
+• Does Linda have access to a store that sells fresh produce and other healthy dietary choices?
+• Does Linda have a safe and convenient place to exercise?  Is it likely that she can afford to join a gym, or should the care manager suggest a lower-cost exercise plan?
+• Can Linda easily fill her antidepressant prescription at a local pharmacy?  Does she pick up her medications on time? 
+All of a sudden, this care manager needs access to a plethora of different information sources that may include data elements that are wildly different from one another.  
+She may need to access census data to understand the socioeconomic challenges in Linda's community, and pharmacy claims to understand her medication adherence rates.  She might want to know what has happened in Linda’s clinical past by looking at her insurance claims history.
+And she may need to ask different questions about Linda than she would about Mary or James or John. 
+No healthcare organization is going to painstakingly construct a tailored databank for each patient – and no data scientist can predict beforehand exactly what questions the care manager will have or exactly what data elements she will need in exactly what combination.
+For this level of population health management, the relational database won’t cut it anymore.  There are too many data sets with too many different structures.  Taking a spreadsheet approach to these varied information packages will not be possible. 
+Enter the semantic database.
+Semantic databases link concepts together instead of just displaying specific elements.  Data curators define what elements should be included in the concept, and create standardized labels for each category.
+The data can then be linked together semantically, just as the human brain might do.  Jans Aasman, CEO of Franz, Inc., explains it thusly:
+You can, for example, say, ‘Jans is a person.’ That statement includes two things: a discrete person and a discrete concept. ‘Jans,’ the person, links to ‘man,’ the concept.  Now we can say, ‘Jans lives in San Francisco.’  We know San Francisco is a place that is part of California.  California is a State that is part of the USA, which is a Country. Now your system knows that ‘Jans lives in State of California in the USA’ without you ever explicitly saying it, or pre-coordinating for it.
+We can also say, ‘Jans works on semantic data lakes.’ So now I have about five different links.  Now I can say, ‘Parsa is a man.  He lives in New York City, which is part of New York State, which is part of the USA.  He works on semantic data lakes.’
+So without ever directly describing the schema, we can add these statements to the database, which will index it all in the most optimal way.  Now we can ask more complex queries, such as ‘give me all the cities in which people work on semantic data lakes.’
+From a natural language point of view, we can all see in our heads a picture of how the nodes were connected, starting with ‘Jans’ and moving through the connection points until we get to ‘Parsa’. These concepts are all linked together.
+When it comes to managing Linda’s health, the benefits of this approach are clear.
+For example, by extracting household income information from the most recent US Census data, a curator may label East Street in Central City as a low income area.
+Linda Sanchez has an address on East Street.  Therefore, Linda Sanchez is likely to have a low income.
+Now let’s say the curator is getting a little more ambitious.  She acquires a list of all the businesses with addresses on East Street, and sorts each one into a category: fast food restaurant, law office, clothing store, grocery store, and pharmacy.
+That allows her to answer even more intricate population health management questions, such as “How many of my patients live in low income areas and do not have a grocery store on their street?” or even, with the addition of some claims data, “Where are the pharmacies in Central City with the lowest regular prescription refill rates?”
+Suddenly, proactive patient management has gotten a lot easier, because the care manager doesn’t have to tease out the fact that Linda cannot easily buy fresh vegetables to add to her diet. 
+She doesn’t have to wait for Mary Fletcher to come into the ED with an asthma attack to flag the fact that Mary likely isn’t getting her inhaler refilled in a timely manner, because Mary uses a low-performing pharmacy.
+Instead, from a relatively small semantic database, she knows all of the following:
+• There are X number of patients in this given location who have diabetes
+• There are X number of patients in this given location who have Medicare as their primary insurance and may need home monitoring as they age
+• There are X number of patients with diabetes who may be using these two pharmacies, one of which is under-performing
+• This proportion of the patient population lives in low-income areas and may need transportation to their providers
+• This number of patients are not maintaining medication adherence because the pharmacy doesn’t accept e-prescriptions
+• We might be able to get flu shots to this group of patients by setting up a free clinic at this grocery store near where they live
+• This group of patients with multiple co-morbidities and several medications may not be able to afford their copays because they are low-income
+• This area of the city has a high incidence of patients with heart failure – maybe we can work with the community to set up a public walking path so our patients can exercise
+The care manager would not be able to gain access to most of these insights with a traditional relational database, nor would she be able to query the data in an organic manner, on the fly, to answer the most pressing questions she might have for each of her patients.
+And with each data set added to the semantic schema, the healthcare organization starts to learn more and more about their patients, their environments, and how to interact with them for optimal care. 
+In the next article in this series, we’ll explore some of the industry’s cognitive computing offerings, and examine some of the ways healthcare organizations are taking advantage of these innovative technologies.
+Tagged Advanced Data Analytics SeriesAnalytics InfrastructureChronic Disease ManagementMachine LearningPopulation Health ManagementPrimersSemantic ComputingSemantic Data Lakes
+
+

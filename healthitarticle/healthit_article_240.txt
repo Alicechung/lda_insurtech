@@ -1,0 +1,28 @@
+GE, Roche Partner for Big Data Analytics, Precision Medicine Platform
+
+January 09, 2018
+
+By Jennifer Bresnick
+January 09, 2018 - GE Healthcare and Roche Diagnostics have announced a collaboration aimed at developing a digital diagnostics platform providing clinical decision support for oncology and critical care. 
+The partnership will leverage both companies’ experience in precision medicine, big data analytics, machine learning, and health IT development to offer a comprehensive data dashboard to help providers coordinate care and target therapies to individuals and their needs.
+“This unique partnership will deliver innovative solutions and insights in clinical decision-making. Our goal is to support clinicians and other relevant stakeholders for the benefit of patients by providing the right decision support at the right time and through comprehensive digital offerings,” said Roland Diggelmann, CEO Roche Diagnostics.
+Dig Deeper
+Understanding the Basics of Clinical Decision Support Systems
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+How Precision Medicine Will Shift from Research to Clinical Care
+The long-term partnership will focus on seamlessly integrating various datasets critical for applying precision medicine to real-world use cases, including in-vivo and in-vitro data, electronic health records, clinical guidelines, and real-time monitoring data.
+“Medicine today is becoming vastly more data-driven due to advances in our scientific understanding of disease and human biology, combined with our ability to detect and measure many new parameters,” said Steve Burnell, PhD, VP, Head of Strategy, Diagnostics Information Solutions at Roche, in an accompanying GE Healthcare blog post.
+“In the process, it is also becoming a lot more complex for physicians, researchers, and patients to navigate and make sense of these data. Simply put, Roche Diagnostics and GE Healthcare intend to support these stakeholders in using all the available data to make better healthcare decisions. We do this by connecting the data silos that still exist in most clinical settings, providing collaboration tools and intuitive workflow products.”
+Ideally, providers will have access to integrated datasets that will support evidence-driven clinical decision making.  In the critical care setting, for example, data from a patient’s bedside monitors will be aligned with their biomarker and genomic data to help predict the future course of their specific conditions.
+Combining predictive big data analytics with ongoing advances in precision medicine offers clinicians a wealth of new insights for adapting standardized protocols to individuals based on their genetic makeup and likely responses to specific therapies.
+“Together these trends offer the potential of even more personalized healthcare, but at an individual level such decisions will require that the patient and their physician have all of the relevant information and evidence at their fingertips to make the most informed choices,” said Burnell.
+Adding medical imaging data, a specialty of GE Healthcare, could further enhance providers’ abilities to diagnose complex conditions and apply best practices to create personalized treatment plans for many cancers, including breast cancer.
+“By leveraging this combined data set using machine learning and deep learning, it may be possible in the future to reduce the number of unnecessary biopsies that are performed due to suspicious findings in the mammograms and possibly also reduce mastectomies that are performed to combat ductal carcinoma in situ, a condition that may evolve into invasive breast cancer in some cases,” said Nadeem Ishaque, Chief Innovation Officer, GE Healthcare Imaging.
+GE has started to invest heavily in the marriage of machine learning and medical imaging with academic and clinical partnerships researching how to maximize the data contained in highly detailed imaging studies. 
+With a large number of healthcare provider customers already using GE imaging equipment, the company has the potential to collaborate on advanced big data analytics projects at health systems across the country and around the globe.
+Adding Roche’s expertise in genomics and other precision medicine datasets to this work seems like a natural progression towards highly impactful predictive analytics and advanced clinical decision support.
+“GE Healthcare has significant installed bases in both imaging and monitoring equipment, and Roche is the leading in-vitro diagnostics company,” said Ishaque. “By bringing these two powerhouse companies together, we believe we can make a difference for not only our users but for patients around the world.”
+“Data in healthcare is exploding and we want to make it easy for doctors to see a complete patient picture and make the data work for them enabling better patient outcomes.”
+Tagged Analytics InfrastructureClinical AnalyticsClinical Decision SupportPersonalized MedicinePrecision Medicine
+
+

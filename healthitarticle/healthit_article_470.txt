@@ -1,0 +1,47 @@
+New Approach Helps Health Information Exchanges Cross State Lines
+
+May 15, 2017
+
+By Jennifer Bresnick
+May 15, 2017 - In the era of value-based care, the ability to understand how a patient moves between providers and what happens to them during those visits could be the difference between a performance bonus and a missed benchmark.
+But as most providers are now well aware, the challenges of seamless and reliable health information exchange are many. 
+David Kendrick, MD, MPH
+Source: Xtelligent Media
+Even organizations that are willing to collaborate with their peers face innumerable technical and regulatory barriers, from patient privacy concerns and variations in state law to proprietary EHR data standards and patient matching issues.
+State-level health information exchanges (HIEs) deliver an invaluable service for the healthcare community by helping individual providers overcome many of these issues without reinventing the wheel each time they want to connect to a new partner. 
+While stories of financial or political woes have been common over the past decade as regional HIEs struggled to find a sustainable business model, those that have weathered the storm are now flourishing as financial incentives come into alignment with health IT improvements.
+READ MORE: Poor Health Information Exchange Results in Low Patient Engagement
+Approximately 50 of these successful regional and state-level HIEs are now part of the Strategic Health Information Exchange Collaborative (SHIEC). 
+Representing more than 200 million patient lives across the entire country, SHIEC members offer healthcare organizations a wide range of value-add services, including the data analytics and aggregation tools required to partake in population health management and value-based reimbursement.
+However, many of these benefits stop short at the state line, says SHIEC Board Member David Kendrick, MD, MPH, who also serves as CEO of the MyHealth Access Network in Oklahoma.  While patients freely cross over borders to seek care in neighboring regions, their health information can’t always follow them.
+This can present a serious conundrum for providers who operate near heavily traveled state boundaries – not to mention health systems or physician groups with locations in multiple states.
+“HIEs typically function state-by-state, which might make sense from a legal perspective, but it doesn’t accurately reflect how people access care,” Kendrick told HealthITAnalytics.com.  “To an HIE, state boundaries can seem somewhat artificial.”
+READ MORE: Health Data Interoperability Requires Patience, Persistence
+The absence of a single, unified, and universally-adopted national approach to the legal and technical issues of health data exchange, as well as a widespread reliance on a pull-only data model, have created some fundamental problems in the way that HIEs navigate those geographical delineations, Kendrick said.
+“When we make a call for data, we have to know three critical things,” he explained.  “We have to know where to look, because we can’t call on all the nodes on the national network at once, and there’s no mechanism out there to proactively tell me that my patient from Oklahoma just got admitted to a hospital in Chicago.” 
+“We also need to know when to look.  I might need data from yesterday, but I could also need a record from a specialist my patient saw three years ago.  And lastly, we need to know exactly how to frame the identity of the person we’re looking for, because every node on the network has a different picture – however slightly – of that person’s identity.”
+When querying another entity, providers are often unable to resolve all three of these critical questions, leaving clinicians without the important information they need to make safe and accurate decisions about patient care. 
+In order to help organizations overcome these challenges, SHIEC is undertaking an innovative pilot program called the Patient-Centered Data Home (PCDH). 
+READ MORE: How Health Information Exchange Models Impact Data Analytics
+Currently live in three regions across the western and central United States, the PCDH solves the “who, when, and where” problem by automatically triggering a data push when a patient undergoes a certain qualifying episode – no matter where he or she is receiving care.
+The primary use case is admission, discharge, and transfer (ADT) alerts, Kendrick said.  While the ADT alert is not a new concept by any means, SHIEC has developed a lightweight technical infrastructure to support a system that is respectful of local privacy regulations while still allowing consenting patients to participate freely no matter where they are receiving treatment. 
+State or regional HIEs participating in the PCDH start by listing all of the zip codes under their jurisdiction, which effectively establishes their geographical boundaries. Messages can then be routed between HIEs based on the zip code of an individual patient’s primary care provider or home address.
+How the Patient-Centered Data Home operates
+Source: SHIEC
+“When a patient appears in Arkansas at a facility that is part of the Arkansas HIE, the ADT message enters the Arkansas exchange,” Kendrick explained.  “Then the Arkansas HIE takes a look at that message and says, ‘Wait a minute, this patient’s address is in Oklahoma.  Let me push this to the Oklahoma HIE so that they can forward it on to the right provider.’”
+“Now we know within seconds of that patient’s registration in Arkansas that they’re getting care out-of-state, and we can alert the appropriate primary care provider in Oklahoma.”
+If the message enters the Oklahoma HIE but the patient has not opted in to the exchange, the message is dropped. “Our local privacy rules govern how a patient’s data is treated, and the same thing happens on the other side of the border if we’re the ones sending a message outbound,” he said.
+“Health information exchange happens at the speed of trust, so it is very important to preserve the ability of local communities to make decisions about how their data is moved and used.  The PCDH expands the options for those who consent to it, but it doesn’t in any way subvert the preferences of individuals.  That’s very important to us.”
+Since going live with ADT alerts between Arkansas and Oklahoma in September of 2016, the two states have already handled around 90,000 messages for patients.
+“That’s a lot of activity going on in a relatively limited region, so you can see the scale of cross-border care we’re dealing with,” he pointed out.
+The system increases convenience for patients who often grumble about how difficult it is to keep multiple providers informed of their activities, but it can also greatly enhance their safety.
+“Healthcare decisions are based on the data that’s in the room,” said Kendrick, a pediatrician by trade who is also Chair of the Department of Medical Informatics at the University of Oklahoma’s School of Community Medicine and is actively involved in a number of policymaking organizations. 
+“If I don’t have an updated medication list, or I don’t have your allergies, or I don’t know that you have a pacemaker, how is that going to affect the care I can give you?  It doesn’t make any sense to expect patients to know that the brand name drug they’re taking is the same as the generic I’m about to prescribe, or that a certain procedure may be contraindicated based on something else they had done recently.”
+Health information exchange advocates should stress the patient safety implications alongside the convenience factor, he said. 
+“Patients should have an idea of how easy it is for providers to make poor recommendations – through no fault of their own – because they don’t have the data they need to make the right decision.  But of course, it’s vital to frame that concept in a way that encourages engagement and collaborative decision-making, not fear that they’re going to get inferior care.”
+A patient-centered approach to health information exchange that allows records to follow individuals from state to state will bring benefits to both patients and their providers.
+“The infrastructure that we’re building with the Patient-Centered Data Home gives patients confidence that their records can follow them across the health system while adhering to their privacy preferences and making it safer and easier to get the care they need,” Kendrick said.
+“It’s a critical step forward for the nation, and we are very excited about how it’s coming along so far and what we’re working towards in the future.”
+Tagged Health Data ExchangeHealth Information ExchangeHealthcare InteroperabilityInterviewsPatient SafetyPopulation Health Management
+
+

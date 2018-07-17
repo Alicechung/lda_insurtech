@@ -1,0 +1,19 @@
+EHR documentation, clinical analytics cut heparin errors to zero
+
+July 21, 2014
+
+By Jennifer Bresnick
+July 21, 2014 - Better staff education, clinical analytics, and new care coordination techniques that improved EHR documentation nearly eliminated patient safety risks from improper heparin administration at Carilion Roanoke Memorial Hopsital (CRMH), where infusion errors previously occurred at an average of nearly once a month.  According to a study presented at the Society of Health-System Pharmacists Summer Meeting, proactive monitoring of infusion pumps and a new method of addressing use of the anti-coagulant were key in the significant accomplishment.
+Despite attempts to address a lack of knowledge about heparin therapy among clinical staff and the poor communication that led to inadequate dosing, CRMH experienced seventeen patient harm events involving heparin infusions in the eighteen months between January 2011 and June 2012.  Heparin errors at the facility were more than double the rate reported to the Joint Commission during the same period.
+“We learned that improvement was difficult because it involved a major commitment and a significant number of pharmacy hours,” said Victor DeLapp, PharmD, BCPS, a medication safety clinical specialist in the Department of Pharmacy Services at CRMH and the primary author of the study, according to Pharmacy Practice News. “The one thing about education is [that] you have to maintain that level of knowledge on a consistent basis, especially with new hires, and we probably didn’t do a great job with that.”
+Patient safety concerns are growing as more hospitals adopt robust health IT infrastructures that may end up causing more harm than good.  A new report from the RAND Corporation indicates that education on the potential of EHRs and other health IT products to cause patient harm is severely lacking among clinical staff, and just like at CRMH, traditional methods to solve patient safety problems are falling short of the ultimate goal.  EHRs may cause some clinicians to create shortcuts in their workflows that lead to improper documentation or gaps in communication with their peers, potentially leading to improper dosages of medications or adverse interactions with undocumented drugs.
+Dig Deeper
+EHR Natural Language Processing Flags Social Determinant Search Terms
+QIO Program Boosts Medicare Care Coordination, Patient Safety
+How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+In order to tackle the problem more thoroughly at CRMH, the hospital developed a new education program that included guidelines from the Joint Commission’s Sentinel Event Alert protocols.  They also integrated proactive monitoring of thromboplastin activation times, as well as better EHR documentation related to heparin use and improvements to patient data access.
+A successful pilot of the new program in three units with high heparin use was expanded to the rest of the hospital, where appropriate heparin dose adjustments improved from 83.8 percent to 93.9 percent and EHR documentation of heparin administration rose from 77.1 percent to 93.9 percent.  Due to the success of the program, the hospital has not recorded a single harm-inducing event since June of 2012, Dr. DeLapp says.
+“Our approach is working, and it more than likely has applicability in other institutions,” he said. “It’s safe to say that our collaboration probably resulted in lives being saved, because with these medications, you never know when you’re going to have a serious bleed.”
+Tagged Applied AnalyticsCare CoordinationClinical AnalyticsPatient Safety
+
+

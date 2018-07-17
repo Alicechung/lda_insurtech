@@ -1,0 +1,14 @@
+The Race Of AI Giants On Video Understanding: An Insider Look At AI Frontiers Conference
+
+30 Oct 2017
+
+After the latest state-of-the-art achievements in image and speech recognition with better than human accuracy, video understanding is the next big frontier for AI giants.
+Why is video important to them? YouTube, the video site owned by Google, now has 1.3 billion users. Facebook has 500 million daily video users. Every single day, 5 billion videos are watched on YouTube, and 3.6 billion on Facebook. Such staggering numbers suggest the need to automate video analysis. This is why these two AI giants invest significant people and resources on AI-powered video understanding.
+While AI has achieved success in images recognition (demonstrated by the fact that Fei-Fei Li, founder of ImageNet, was hired by Google recently), it is still in the infancy of video understanding. It requires significant computing resources and very large amount of annotated data.
+What is the progress so far in the AI giants? Take an insider peek at the upcoming AI Frontiers Conference on Nov 3. A panel of AI leaders from Google, Facebook and Alibaba will share their insights on video understanding and showcase their results.
+Rahul Sukthankar, who leads video understanding at Google, will discuss video annotation, action recognition and the technology progress behind YouTube in large scale. Manohar Paluri, the leader of Facebook’s computer vision team, will talk about how to solve similar problems at Facebook. He touches upon additional video data collection and infrastructure issues.
+Xiaofeng Ren, Chief Scientist of Alibaba. will discuss the ubiquitous needs of video understanding in Alibaba, which owns the two largest video websites in China; Youku and Tudou.
+The AI Frontiers conference is at the crossroad of research and cutting-edge applications. The speakers are among the most influential voices in their respective fields providing an insight into their current work in AI, particularly in deep learning. The speakers include Andrew Ng, Chairman and Co-Founder of Coursera, Xuedong Huang, Chief Scientist of Microsoft, Alex Acero, Sr. Director of Apple and Ruhi Sarikaya, Director of Amazon Alexa, and so on.
+The conference also features a total of 20 hot AI startups with presentations and demos, ranging from mobile AI to Educational AI.
+
+

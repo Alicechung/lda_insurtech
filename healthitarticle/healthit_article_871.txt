@@ -1,0 +1,34 @@
+Value-Based Care to Spur New Population Health Management Tools
+
+June 20, 2016
+
+By Jennifer Bresnick
+June 20, 2016 - Value-based care and risk-based reimbursement contracts will continue to be a catalyst for the development and implementation of innovative population health management tools, according to a new report from Frost & Sullivan. 
+As providers search for new ways to track patients, monitor quality, reduce unnecessary utilization, and improve outcomes, they will flock to population health management (PHM) offerings that integrate big data analytics, patient engagement, and risk stratification technologies, turning these tools into the “biggest opportunity in health IT in the post-electronic health records era.”
+"CMS aims to link almost 50 percent of Medicare fee-for-service to alternative payment models by 2018," explained Frost & Sullivan Transformational Health Industry Analyst Koustav Chatterjee.
+"This shift from volume to value-based healthcare delivery is accelerating adoption of PHM technology and service solutions helping providers effectively manage chronic conditions and prevent unnecessary system utilization."
+The report predicts that the population health management marketplace will grow by 284 percent over the next five years, representing a compound annual growth rate of more than 30 percent. 
+READ MORE: Nutrition Risk Assessment Saves $4.8M, Cuts Hospital Readmissions
+An unrelated report produced by Tractica at the end of 2015 forecasted similarly healthy growth for the PHM sector, stating that the market is likely to double in size to $31.9 billion by the end of 2020.  Predictive analytics and risk stratification technologies are areas of particular interest for potential customers.
+Payers, hospital and physician providers, and accountable care organizations are all likely to continue to invest heavily in PHM systems as they prepare to accept more financial risk from value-based reimbursement agreements, Frost & Sullivan said.
+But the costly and complicated process of developing a data-driven population health program may come with risks of its own.
+Healthcare providers and payers are likely to run into a number of challenges as they work through the process of developing a robust PHM program, including regulatory burdens that negatively impact profitability and constrain nimble innovation, adds the report.
+The value-based contracting environment is still relatively new, and is fraught with policy problems that limit providers’ abilities to make the most of their opportunities to accrue shared savings.
+READ MORE: Claims Data Analytics Show Diabetes Has Third Largest Health Impact
+"Although PHM requires heavy, long-term investment, payers and providers need to focus on the benefits of quality compliance, patient loyalty and consistent profitability," said Chatterjee. "Providers must initiate customized intervention based on patients' primary conditions and potential risk profiles to drive positive outcomes."
+In order to succeed with these initiatives, providers must keep a few key strategies in mind:
+• Assess and understand currently available data resources, including electronic health record data, socioeconomic information, and any data accessible through a local health information exchange
+• Develop a pre-implementation strategy for standardizing data, engaging in risk stratification, and delivering actionable insights to end-users in a timely and intuitive manner
+• Target a small number of population health management use cases that will produce immediate results, such as identifying pre-diabetics who could benefit from a weight loss program or contacting elderly patients in need of follow-up after a hospitalization
+READ MORE: Medicaid Savings Require Integrated Physical, Mental Healthcare
+• Use lessons learned from pilot programs to develop PHM best practices that can be applied to subsequent projects
+• Continue to develop “smart” big data analytics capabilities by methodically integrating new data sources to enrich the visibility of patient activities, improve coordination, and meet value-based care quality metrics
+Choosing the right vendor and product suites to enable meaningful population health management will also be a challenge for the provider community.  While the majority of major EHR vendors have started to offer PHM and analytics tools as part of their core line up, healthcare organizations also have the option of purchasing technologies from dedicated PHM vendors.
+"The market will experience fierce competition as small, modular PHM firms compete against large, platform providers," predicts Chatterjee.
+Accountable care organizations, especially those participating in the Medicare Shared Savings Program or other CMS programs, are likely to choose smaller vendors or develop their own performance management and patient management systems, according to data from Definitive Healthcare.
+Commercial ACOs appear slightly more likely to pick analytics projects from vendors with more recognizable presence in the industry.
+No matter what the branding of the product, however, it is clear that providers are eager to implement the technological tools that will help them prepare for the inevitable shift to value-based reimbursement. 
+As commercial payers, Medicare, and Medicaid all work to develop the performance improvements that will reduce costs and boost quality, vendors are likely to reap their own financial rewards from offering products that equip providers for success, says Chatterjee.  "Winners will successfully weigh in market needs and offer secured, interoperable and highly customized PHM solutions that achieve the Triple Aim."
+Tagged Accountable CareChronic Disease ManagementPopulation Health ManagementValue Based Care
+
+

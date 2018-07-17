@@ -1,0 +1,32 @@
+Blockchain, APIs Take a Stab at the Healthcare Revenue Cycle
+
+October 27, 2016
+
+By Jennifer Bresnick
+October 27, 2016 - Capital One is hoping to bring the blockchain and API tools to the healthcare industry by proving their value in the revenue cycle management arena. 
+A pair of new partnerships between the financial services company and healthcare-focused startups aim to “reconceptualize” the claims management and patient payment processes, using blockchain and API technologies to reduce the time between service and collection.
+“We’re seeing unprecedented transformation in the payments space, as rapid advances in digital technology are reimagining the client experience,” said Patrick Moore, Executive Vice President and Head of Capital One’s Treasury Management’s Product Management group.
+“At Capital One we see the new network models and data analytics capabilities as an exciting opportunity to reinvent treasury management to better meet the needs of clients, not only increasing payment efficiency but also generating actionable information about their business.”
+Dig Deeper
+16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+Smart Big Data is Key to Population Health, Value-Based Care
+IBM Watson Health, FDA Partner for EHR, IoT Blockchain Project
+The first project will leverage the blockchain expertise of Gem, which offers a data management “operating system” that creates and manages identities for disparate users, such as payers, providers, and patients, hoping to engage in the same blockchain community and conduct transactions in a shared ledger, explains Emily Vaughn, Director of Client Relations and Marketing for Gem in an article for Bitcoin Magazine.
+"Like a bitcoin wallet, your blockchain identity can store data, such as credentials," said Vaughn. "You use that identity to sign transactions, which is now visible to other users who could be using different software.”
+The operating system creates a layer of secure, private, and trusted interoperability – each organization only has to be able to connect to the operating system, not necessarily with each other – that can smooth over many of the data exchange obstacles that have plagued the healthcare industry.   
+Gem hopes that deploying a blockchain-based approach to revenue cycle management will make it faster and easier for providers to submit claims and collect reimbursement while potentially reducing the current costs of doing business.
+“When providers don’t get paid in a timely fashion, it creates inefficiencies that echo across the entire ecosystem, and this is a massive issue in health care,” said Vaughn.
+A second partnership with API provider Pokitdok plans to address the growing issue of patient financial responsibility.  As out-of-pocket costs continue to rise for consumers, healthcare providers often struggle with collecting payment directly from patients.
+Pokitdok’s API tools aim to integrate patients into the cost estimation, treatment, and collection process by offering eligibility checks, scheduling features, personal health information management, and pre-payment options to optimize the patient experience and reduce financial surprises.
+“The result is a dramatically more efficient claims management process that eliminates the traditional claims clearinghouse and reconciliation layers and lowers administrative costs, compresses cash flow cycles, and reduces revenue loss,” Capital One says.
+Blockchain and APIs have both promised to improve efficiencies and help the healthcare industry overcome its deeply entrenched interoperability woes.  But while APIs have quickly gained traction as a major feature of modern health IT infrastructure, blockchain is still mostly a theoretical curiosity for providers.
+Distributed ledger systems have the potential to revolutionize healthcare data security, improve the integrity and accuracy of patient data, and help to create private, patient-centered communities for coordinating care. 
+But the concept of the blockchain isn’t the easiest one to grasp, and the technology has thus far been the provenance of eager startups looking to convince potential adopters that there are valid use cases for strategy outside of the financial services industry. 
+Chain, a California-based company, is letting skeptical developers explore the potential of blockchain on their own by releasing their source code to the public through GitHub, reports Fortune.  CEO Adam Ludwin hopes that opening up the code to everyone will encourage users to create their own networks and applications for a variety of purposes.
+“We want to transition the blockchain narrative from the PowerPoint presentation to the prototype,” he said. “Now, any development team working anywhere in the world have access to download and freely install our platform, freely start a network, or connect into a network.”
+“We’re excited to be among the first to actually get something real into the hands of developers.”
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Tagged Analytics InfrastructureApplication Programming InterfacesBlockchain in HealthcareEHR InteroperabilityHealthcare Data SecurityHealthcare Revenue Cycle
+
+

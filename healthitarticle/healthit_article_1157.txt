@@ -1,0 +1,54 @@
+Which Vendors Lead the Healthcare Big Data Analytics Market?
+
+November 19, 2015
+
+By Jennifer Bresnick
+November 19, 2015 - Hospitals and health systems are snapping up big data analytics and population health management technologies at a breakneck pace as they prepare to meet the challenges of value-based reimbursement, regulatory reform, and demanding patient expectations. 
+But selecting the right tools for health data management, clinical decision support, and care coordination isn’t always an easy process. 
+In contrast to the EHR marketplace, where providers are more or less limited to a set list of certified products, healthcare organizations have a little more leeway when it comes to choosing big data analytics technologies to support more advanced health IT capabilities.
+However, a broader array of choices can be both a blessing and a curse.  The industry had not yet developed a widely recognized seal of approval for analytics systems, and big names like Epic, Cerner Corporation, and MEDITECH don’t always mean instant success.
+Hospitals and health systems must undergo a detailed, personalized assessment of their needs, their particular challenges, their financial capabilities, and their available manpower before making any decisions about what’s right for them. 
+But they can also take a peek at what their peers are doing to get a sense of what is popular – and what to avoid.
+Which vendors are best helping hospitals lead the way towards data-driven patient care? 
+Using information from the Definitive Healthcare database, HealthITAnalytics.com reveals some surprises in the healthcare big data analytics marketplace.
+The business intelligence world is full of fragmentation
+While a few notable names – Epic Systems, anyone? – pop up again and again when talking about big data products, no single vendor truly rules the roost. 
+Epic maintains its lead in the inpatient EHR marketplace with just over 20 percent of critical access and acute care hospitals, followed closely by rivals Cerner Corporation and MEDITECH. 
+It’s important to note that fewer than twenty EHR vendors are represented in the data, indicating a very consolidated market divvyed up between a few successful leaders.
+But the business intelligence market is another matter entirely.  While Epic appears to have a sizeable lead with 25 percent of the market share, hospitals are using more than one hundred different vendors to help them understand their internal operations and performance metrics.  
+Over ninety vendors are represented by the 25 percent of hospitals using “other” software.  That may mean some major opportunities for up-and-coming business intelligence and analytics developers to grab a share of a rapidly shifting pie.
+Mid-sized hospitals are most likely to stick with Epic for their business intelligence needs, but the largest hospitals and health systems are not unified in their loyalty to one particular brand. 
+It’s the smallest hospitals that exhibit the most cohesive preferences.  Organizations with fewer than 100 beds are likely to partner with firms including MedeAnalytics, SAP, Affiliated Computer Services (ACS), a Xerox company, and Strata Decision Technology.
+Read: How to Choose the Right Healthcare Big Data Analytics Tools
+Epic’s share of the BI market appears to be slightly smaller than shown in previous data.  In 2014, the Wisconsin company boasted a 34 percent stake in the business intelligence world.  At the time, a similar proportion of hospitals chose smaller, more numerous vendors.
+Clinical decision support does not have a clear leader
+The clinical decision support (CDS) world also lacks a single champion.  Many of the 2000 hospitals and health systems that have implemented a dedicated clinical decision support tool are not choosing offerings from big-name EHR vendors.  Cerner is the notable exception: approximately 13 percent of organizations are using CDS technology from the vendor. 
+Most organizations, however, are taking a different path.  Among the most popular tools are those produced by First DataBank, MediSpan, Truven Health Analytics, and Zynx Health.  But again, with nearly sixty vendors represented by the data set, appearances of leadership can be deceiving.
+The data does not include clinical decision support features that are available within an electronic health record or other electronic health information management system, and may not include all hospitals and health systems using CDS tools for diagnosis and treatment.
+Microsoft SQL Server shines in information management
+One of the biggest challenges in healthcare big data analytics is managing the lifecycle of information from generation to collection to storage to retrieval to reporting.  These complicated tasks require dedicated experience and knowhow from data scientists and informaticists, and represent some of the industry’s most notable struggles.
+To solve these problems, forty percent of hospitals and health systems turn to one of several iterations of a popular technology: SQL Server tools from Microsoft.
+Few other corporations have their foot in the door when it comes to this level of data management.  SQL Server’s relational database management system may not be the most adaptable or advanced big data toolset on the market, but it is familiar, reliable, and scalable for the majority of organizational needs. It is also fairly easy for providers to find the talent to support their infrastructure.
+Healthcare organizations are also likely to turn to 7-Sip, Oracle, MEDITECH, EMC Corporation, and Health Catalyst for their data management needs.
+Guess who wins at care coordination?  That’s right.  It’s Epic.
+In the end, however, most discussions about health IT come down to one familiar name: Epic Systems.  Epic unarguably dominates several segments of the market, and this is where the surprise may come in. 
+The company, known in part for its monolithic culture, resistance to data exchange, and dictatorial implementations, is actually one of the biggest leaders in care coordination and health information exchange in the country.
+Industry leaders and private coalitions focused on improving EHR interoperability and the delivery of seamless, data-driven care often paint Epic as the enemy of collaboration and a champion of data siloes – and Epic leaders haven’t done much to refute this persona.
+Read: Why Health Data Interoperability is Setting EHR Vendors on FHIR
+But actions may speak louder than words. Forty-four percent of hospitals use Epic products for their care coordination needs, according to the latest data. 
+Statistics from March show an even bigger lead, with 62 percent of the patient coordination market and half of the nation’s health information exchange infrastructure contracts.
+The care coordination market is largely driven by the EHR vendor community, with names like McKesson, athenahealth, Allscripts, and Cerner enjoying relatively large presences. 
+Interestingly, approximately 3 percent of hospitals are using proprietary systems to manage transitions of care.  The data from March showed a similar proportion of providers using homegrown systems.
+Improving interoperability in an Epic world
+EHR interoperability may not seem like such a pressing concern when viewing Epic through these lenses. With twenty percent of the nation’s hospitals using an Epic EHR, including many of the largest health systems covering millions of patient lives, and up to sixty percent of hospitals investing in Epic Everywhere for their health information exchange and care coordination needs, why is interoperability still so important?
+These may be big numbers, but the fact of the matter remains that forty percent is not a majority, and even 62 percent leaves more than a third of healthcare organizations out in the cold.  Epic may like to play up its successes as a market leader, but it’s not the only system serving patients.
+“Epic has been very good at creating this image of themselves as a giant, because their business has been built on going after large academic medical centers,” said DirectTrust President and CEO David C. Kibbe, MD, MBA to HealthITAnalytics.com.  “They’ve been extraordinarily successful with it, but they still only account for a relatively small percentage of the actual total number of hospitals in this country.”
+“Despite this perception of Epic having a lock on so many marketplaces, nine out of ten communities still operate in a multi-vendor environment, where you have Epic and Cerner and McKesson and MEDITECH and 40 different ambulatory EHRs,” he pointed out.
+“That’s the norm for most people and most medical communities.  The market is likely going to continue to consolidate to some degree, but Epic isn’t going to end up with the majority of providers out there. The numbers are against them.”
+Read: CEO Judy Faulkner Airs Epic's Views on EHR Interoperability
+And there are too many health IT market segments out there for one company to rule them all.  Big data analytics technologies must integrate deeply and seamlessly with end-user systems like EHRs, and that process takes narrow focus and dedicated expertise.  EHR vendors, many of whom are struggling to make their core offerings even marginally appealing to frustrated providers, can’t provide every technology to every hospital.  Few are bold enough to try, and Epic isn’t among them.
+The healthcare big data analytics market is likely to stay very fragmented as EHR vendors focus their efforts on upcoming Stage 3 meaningful use requirements and data management companies continue to do what they do best. 
+The options for clinical decision support and data warehousing tools are nearly limitless as innovative developers continue to crop up with sophisticated offerings.  Healthcare organizations planning investments in these tools should start with a self-assessment, a clear idea of the problems at hand, and a strong understanding of the forces at work in a dynamic industry.
+Tagged Analytics InfrastructureBig Data AnalyticsEHR AdoptionEHR InteroperabilityHealthcare Business IntelligencePrimers
+
+

@@ -1,0 +1,24 @@
+VA, IHS Receive DirectTrust Interoperability, Security Nod
+
+October 15, 2015
+
+By Jennifer Bresnick
+October 15, 2015 - The Department of Veterans Affairs and the Indian Health Service (IHS) have received accreditation by the Electronic Healthcare Network Accreditation Commission (EHNAC and DirectTrust that recognizes the organizations’ compliance with Direct interoperability standards and national security and health information exchange protocols. 
+The two agencies have become the first federal organizations to meet the requirements of the Direct Trusted Agent Accreditation Program (DTAAP), adding millions of patients to the interoperability ecosystem.
+"The Office of the National Coordinator congratulates the Department of Veterans Affairs and Indian Health Service on this important milestone,” said Lee Stevens, Director of the ONC’s Office of State Policy.  “It represents another step toward widespread, trusted, and secure health information exchange among federal agencies and the private sector. 
+“As a long-time partner, we also congratulate Direct Trust on its continued progress to expand interoperable exchange services across the US. ONC would also like to recognize the Federal Health Architecture (FHA) and its participating agencies who were instrumental in shaping the federal use of Direct,” Stevens added.
+Dig Deeper
+Provider Data Management Offers Payers a Blockchain Use Case
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+While it may be a relatively new organization, DirectTrust has quickly become a major influence in the industry’s efforts to achieve secure and meaningful health data interoperability.  More than 40,000 healthcare organizations have adopted Direct secure messaging capabilities, which enable providers to exchange patient data using a simple, email-like interface.
+"Bringing secure, identity-validated, Direct health information exchange to these Federal Agencies is a major milestone in this country's journey toward full national interoperability of our health IT systems," said Dr. David Kibbe, MD, MBA, CEO of DirectTrust. 
+"The DirectTrust network is strengthening our security and identity requirements in order to match those of the Federal Agencies, and, in turn, accreditation by the VA and IHS HISPs enables our federal partners to communicate directly and securely with many thousands of hospitals, medical practices and health care professionals in the private sector regardless of EHR systems used.”
+“This is good for the federal partners, and it is wonderful for millions of veterans and the Native American people served by the IHS, as it will allow care coordination to be greatly improved,” Kibbe added.  "Given the explosive growth in EHNAC-DirectTrust accredited members and substantial benefits of electronic health information exchange via Direct, we anticipate that the Department of Defense, Medicare/CMS, and other state and federal agencies will shortly follow the path of the VA and Indian Health Services.”
+EHNAC has taken on the challenge of assessing various competencies of healthcare organizations and service providers as the industry places increasing value on data standards, privacy and security, and widely applicable metrics that certify whether or not organizations can provide value to partners and clients. 
+In addition to accrediting organizations’ Direct messaging capabilities, EHNAC has recently introduced programs to recognize accountable care organizations, as well as practice management systems, personal health records, and patient portal technologies.
+"DTAAP elevates VA Direct Messaging as a trusted partner with the nationwide Direct community,” said a VA representative. “For Veterans, Direct improves the coordination of patient care by making it faster and easier for VA and non-VA health care providers to share Veteran health information. Information can be shared in a secure Direct message instead of faxing, hand-carrying, and mailing.”
+“With VA and non-VA partners sharing Veterans' health data, they are less likely to repeat tests and procedures, thereby reducing duplication of services."
+Tagged Health Information ExchangeHealthcare Data GovernanceInteroperability
+
+

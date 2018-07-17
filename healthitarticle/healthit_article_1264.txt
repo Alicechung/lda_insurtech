@@ -1,0 +1,34 @@
+HIMSS Asks Congress for Population Health Management Support
+
+September 11, 2015
+
+By Jennifer Bresnick
+September 11, 2015 - The Healthcare Information and Management Systems Society (HIMSS) wants Congress to focus on supporting the underlying health IT pillars that make population health management a reality, including interoperability and health information exchange, telehealth, and stronger efforts to fight threats to patient privacy and security.
+In a list of Congressional “asks” published on its website, HIMSS notes that it will continue to work closely with a variety of lawmakers “to advance improvements in the quality, safety and efficiency of healthcare through the use of IT and management systems.”  
+By continually improving the infrastructure that allows clinicians and care managers to deliver preventative care, cut costs, and improve the patient experience, HIMSS hopes that Congress will use the rest of 2015 to aid industry stakeholders in the quest to meet the Triple Aim and improve public health on a broad scale.
+Interoperability and health information exchange
+“Patients and providers need interoperable health IT tools to ensure the right information is available at the right time to make better health and healthcare-related decisions,” HIMSS states.  “Such tools help facilities and providers gather and transmit necessary data to improve the delivery of healthcare, achieve better health outcomes, reduce costs, and address public health needs.”
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+A lack of health data interoperability is often cited as one of healthcare’s top challenges, preventing the development of a truly seamless continuum of quality care.  While various industry efforts to promote the use of data standards and strengthen the ties of health information exchanges have seen early success in their own way, Congress must do its part to add credence and accountability to the process through rule making.
+HIMSS urges Congress to require HHS to revamp the ONC Health IT Certification Program to include “rigorous interoperability testing” that will encourage the consistent application of health information exchange specifications and data standards.  
+“ONC’s Program does not currently include testing requirements ensuring certified EHRs are capable of sending, receiving, and incorporating data,” HIMSS points out. “As emphasized in Meaningful Use Stage 2, adopting health IT tools that enable the exchange of relevant clinical and business information needed to inform care decisions are essential components of the nation’s healthcare transformation strategy.”
+Congress should also allow funding for the development of a national patient identifier (NPI) and allow HHS to conduct a nationwide study on patient matching strategies in order to increase patient safety and reduce the possibility of duplicate or erroneous data as health information exchange networks grow.    
+HIMSS would also like Congress to ensure that all federally-funded government agencies are capable of conducting secure and robust information exchange with healthcare organizations, which will streamline quality reporting and big data analytics to bolster public health.
+READ MORE: CT Medical Society Announces New Health Information Exchange
+Patient privacy and security
+In an age of constant data breaches and other cybersecurity threats, Congress must do more to protect the privacy and security of patient data, says HIMSS.  While the movement of data between organizations naturally exposes patient information to more opportunities for improper access, health information exchange is a vital piece of the population health management puzzle.
+“Healthcare providers and organizations must be equipped to defend against growing cyber threats using a consistent and effectively-implemented data security framework,” HIMSS says, and Congress can help to foster an environment of secure and trusted health information exchange by developing a stronger healthcare-specific IT data security framework.
+With the help of industry stakeholders and the National Institute of Standards and Technology (NIST), Congress should direct HHS to develop a common set of security practices applicable to the broadest possible range of healthcare organizations while supporting voluntary adoption and implementation of technical safeguards.
+This will help to create “a more uniform technical landscape” that can be “consistently updated and applicable to the range of healthcare organizations,” HIMSS notes.  
+READ MORE: CDC Works to Improve Public Health Data Analytics, Surveillance
+In addition, lawmakers should “create a single information sharing pipeline of actionable cyber threat intelligence from the government to the private sector in (near) real time, through a no-cost mechanism,” and should study the best way to keep the healthcare industry informed of emerging cybersecurity threats in a timely and meaningful way.
+Telemedicine and remote monitoring
+Telehealth and remote monitoring are key aspects of population health management, HIMSS says, allowing providers to extend access to care and further coordination even when patients cannot visit their clinicians in person.  
+Even though extensive pilot programs and deployments have proven that telemedicine is an effective way to aid chronic disease management and reach underserved communities in a time of widespread physician shortages, “quixotically, current law prevents CMS from reimbursing most providers and health systems for telehealth services and remote patient monitoring,” HIMSS says.
+“HIMSS urges Congress to amend current law, and take steps to require CMS to remove barriers to deployment, and encourage broader types of technologies that will improve access and quality, and reduce cost.”
+These steps may include expanding allowable originating sites of care beyond current guidelines, eliminating geographic restrictions on telehealth, including the limitations imposed by metropolitan statistical areas, and expanding the use of “store and forward” technologies that support passive chronic disease management.
+Congress should also update CPT and HCPCS codes to cover remote monitoring and shared decision making processes and work to abolish the limitations on care imposed by the current patchwork of state licensing laws.
+If Congress can take a federal approach to harmonizing and streamlining these technology efforts, providers may have a better chance at leveraging existing population health management tools and expanding the innovative use of health IT infrastructure in the near future.
+Tagged Analytics InfrastructureBig Data AnalyticsInteroperabilityPopulation Health Management
+
+

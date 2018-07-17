@@ -1,0 +1,35 @@
+Clinical Analytics, Antibiotic Stewardship Boost Patient Safety
+
+January 23, 2015
+
+By Jennifer Bresnick
+January 23, 2015 - Implementing a sound antibiotic stewardship program can dramatically improve hospital quality and patient safety while reducing the risk of penalties for hospital acquired conditions, but many organizations do not have the time, staff, or knowledge necessary to tackle the overuse of drugs that lead to resistance in certain stubborn microbes.  By combining shrewd leadership, active engagement of staff members, and the power of clinical analytics for better reporting and feedback, providers can reduce the impact of preventable infections, saving thousands of lives and hundreds of thousands of dollars per year.
+Overuse of antibiotics is not just a patient safety issue but also a financial one.  Despite a 17% improvement in hospital acquired conditions (HACs) and preventable patient deaths over the past three years, hospitals continue to be penalized for infections caused by catheters, central lines, and other procedures.  Part of what makes many patients susceptible to contracting these infections is the indiscriminate use of antibiotics, which give sneaky superbugs plenty of opportunities to mutate and outsmart even the latest medications developed to combat them.  With the Centers for Disease Control (CDC) recently chiding 78% of hospitals for ordering redundant antimicrobial therapies that raise costs and put patient safety at risk, healthcare organizations must develop better ways of balancing the need to prevent and treat infections with the risk to public health.
+Here are five steps that providers can take to create and implement their own antibiotic stewardship programs to ensure the proper use of infection-fighting drugs.
+Secure buy-in from organizational leaders
+As with most widespread organizational changes, nothing will get done if the C-suite fails to get involved.  The CDC recommends securing commitment with a formal, written statement of support from the organization’s leaders – and perhaps more importantly, a slice of the budget to fund the program’s activities.
+READ MORE: EHR, Lab Data Support Pediatric AKI Analytics Dashboard
+Successful programs will also include a designated physician and/or nursing champion, an expert from the pharmacy department to ensure accountability, a quality improvement or process management officer to develop governance policies, and help from the IT staff to create or deploy analytics infrastructure for proper monitoring and feedback.
+Develop policies and procedures for appropriate use
+Whether or not the organization is fully live on an EHR, a codified set of policies and procedures for improving conservative antibiotic use will help staff members understand what will be required of them and how to accomplish it.  Specific policy issues to consider include:
+• Designing EHR templates and clinical documentation to prompt clinicians to accurately record antibiotic orders and dosages
+• Methods to record and report cases of resistant infections and patient outcomes
+READ MORE: UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+• An antibiotic “time-out” scheme that encourages clinicians to review the appropriateness of antibiotic use
+• Electronic alerts that flag duplicate prescriptions, incorrect dosages, or inappropriate duration of antibiotic delivery
+• Guidelines for the use of antibiotics based on specific conditions, disease stages, and suspected bacterial infection, especially involving C. difficile.
+• Hand hygiene compliance regulations for clinical and non-clinical staff to reduce the opportunities for infections
+Educate and engage clinical staff
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Clinical staff must routinely implement the policies if they are to be effective, and must be properly engaged in education and training.  Recent research, along with conventional wisdom, suggest that active education that allows opportunities for discussion, feedback, and hands-on learning can be highly effective for helping new policies stick.
+Stressing the importance of antibiotic stewardship in terms of its impact on personal performance metrics and subsequent financial implications may help clinical staff to take the immediacy of savvier prescription habits to heart.  EHR alerts and default settings, as well as guidance from clinical decision support software, can also train clinical staff to mind their ordering and administration.
+Integrate clinical analytics and reporting
+Without a clear, evidence-based understanding of how clinicians are actually behaving, however, no amount of policymaking will change poor prescribing.  At the University of Pennsylvania, researchers have been developing predictive analytics to provide real-time insight into microbial resistance which will be fed to clinical staff through a mobile app.
+The CDC also suggests a robust analytics and reporting structure that monitors compliance, tracks rates of infection, and provides susceptibility reports, as well as reporting on specific outcome measures such as the count of antibiotics administered per patient each day and the costs of purchasing and use.  Reports should not only be delivered to the quality improvement officer or informaticist, but also back to the staff, the CDC adds, in as close to real-time as possible.
+Provide continuous feedback to ensure compliance
+Most importantly, clinicians should be given continuous, personalized feedback to ensure that good habits continue to be effective long after the initial education period.  A recent study published in JAMA noted that providers tend to fall back into their old ways if not periodically reminded about the impact of antibiotic stewardship on hospital quality and patient outcomes, and suggests that auditing and ongoing feedback are highly effective ways to keep prescribers on the right path.
+In the study, a coaching and review program helped to reduce broad-spectrum antibiotic use by nearly 13% in just one year, but actually increased by nearly one percentage point from initial base levels once the intervention stopped.  “These data suggest that audit and feedback was a vital element of this intervention and that antimicrobial stewardship requires continued, active efforts to sustain initial improvements in prescribing,” the study’s authors wrote.
+Financial penalties for hospital-acquired infections are not likely to go away any time soon, and neither should regular auditing and feedback of antibiotic use that contributes to superbug resistance and adverse patient safety events.  With a sustained commitment to better antibiotic stewardship, backed by executive support and clinical analytics infrastructure, hospitals can continue the downward trend of preventable infections and maintain the effectiveness of antimicrobial treatments.
+Tagged Clinical AnalyticsHospital QualityPatient Safety
+
+

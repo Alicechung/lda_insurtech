@@ -1,0 +1,23 @@
+CMS Details Methods for Streamlined Quality Program Reporting
+
+March 20, 2015
+
+By Jennifer Bresnick
+March 20, 2015 - CMS has long faced criticism that its quality program reporting structures are cumbersome and difficult to understand, but the agency is currently taking steps to ensure that the process becomes easier for providers who are participating in multiple programs like the Physician Quality Reporting System (PQRS) and the Value-Based Payment Modifier (VM).
+In a document revised this month, CMS outlines the procedures that will allow individual providers, larger groups, and Medicare ACOs to attest only once for all applicable 2015 Medicare quality programs.
+Providers face a number of administrative challenges when reporting on clinical quality measures (CQMs) and other metrics to assess their performance on CMS initiatives.  With multiple deadlines and reporting structures for each program, some of which are moving into their penalty phases, healthcare organizations have repeatedly asked for a simpler way to participate.
+Eighty-four percent of providers participating in an MGMA survey about reporting on CMS quality initiatives said that the reporting structures produce unnecessary burdens on their practices while failing to effectively improve care quality.  Three-quarters said that quality program reporting cuts their productivity and efficiency, while 93 percent added that administrative staff were frustrated by the cumbersome processes.
+Dig Deeper
+Illinois to Use Blockchain for Healthcare Credential Management
+SNOMED CT Code Framework Will Aid EHR Reporting, Interoperability
+Physician Portal Aids Data Exchange for Stand-Alone Hospital
+“It makes no practical sense to have multiple systems which create unnecessary work by requiring duplicative registration with separate usernames and passwords for physicians and practices to access reports or report information pertaining to Medicare Part B programs,” MGMA Senior Vice President Anders M. Gilberg said in a February letter to CMS questioning the logic of requiring providers to pour time and effort into attesting to disparate programs.
+In response, CMS has started to align quality program reporting by giving providers the option to report only once on a set of clinical quality measures that will meet requirements for several different tracks.
+For example, individual providers may attest to the nine CQMs required to avoid the 2 percent PQRS negative payment adjustment that starts in 2017 by using a certified EHR product or a qualified clinical data registry to submit their information.  The nine CQMs must cover at least three of the National Quality Strategy domains covering the full 12 month reporting period from January 1, 2015 to December 31, 2015.
+Meanwhile, group practices may use their certified EHR product or the Group Practice Reporting Option (GPRO) web interface to attest to their quality measures.  The GPRO interface is only available to groups with 25 or more individual eligible professionals (EPs).  Groups with more than 100 EPs must report on additional requirements explained in the document.
+Medicare Shared Savings Program (MSSP) accountable care organizations and Medicare Pioneer ACOs may also use the GPRO option, but are subject to more complex reporting requirements.
+CMS has been working with industry stakeholders to ease requirements and reporting deadlines for many of its quality improvement programs in an effort to expand participation and help providers meet the ultimate goals of leveraging health IT infrastructure to improve the quality of patient care.  By making quality program reporting easier over the coming months, providers may be able to avoid negative payment adjustments while reducing administrative frustrations.
+To access the full quality program reporting instructions, please click here.
+Tagged Health Information ManagementHealthcare Data ManagementQuality Of Care
+
+

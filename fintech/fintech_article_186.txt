@@ -1,0 +1,33 @@
+Positive Technologies research: Banking and finance were the most vulnerable web applications in 2017
+
+May 6, 2018
+
+New report provides statistics on web application vulnerabilities, based on client security audits performed with Positive Technologies Application Inspector in 2017.
+
+ Positive Technologies has announced its latest report from its own audits of web application security: Web Application Vulnerabilities in 2017. The results, collated through the security firm’s automated source code analysis through the PT Application Inspector, detected vulnerabilities in every single web application tested in 2017.* Among the key findings, 94 percent of applications had at least one high-severity vulnerability, demonstrating that websites are a critical weakness for organisations.
+
+ Breaking down the detected vulnerabilities by severity level, most (65%) were of medium severity, with much of the remainder (27%) consisting of high-severity vulnerabilities.
+
+ Leigh-Anne Galloway, Cyber Security Resilience Lead at Positive Technologies said: “Web applications practically have a target painted on their back. A large number of unfixed, exploitable vulnerabilities is a windfall for hackers, who can use these flaws to steal sensitive information or access an internal network. Fortunately, most vulnerabilities can be discovered long before an attack ever happens. The key is to analyze application source code.”
+
+ Financial services are at greatest risk
+
+ As expected by Positive Technologies experts, finance web applications (46% of all tested web applications) were at the greatest risk, with high-severity vulnerabilities found in 100% of tested banking and finance web applications.
+
+ In fact, web applications at banks and other financial institutions, as well as governments, draw the most attention from hackers, as confirmed in a series of Positive Technologies reports.
+
+ Denial of service is especially threatening for e-commerce web applications, because any downtime means missed business and lost customers. High-profile e-commerce web applications receive large amounts of daily visits, increasing the motivation for attackers to find vulnerabilities to turn against users.
+
+ Attacks targeting users are the most dangerous
+
+ Positive Technologies assessed the potential impact of every detected web application vulnerability and compiled a list of the most common security threats. The number-one threat is attacks that target web application users. Alarmingly, 87 percent of banking web applications and all government web applications tested by Positive Technologies were susceptible to attacks against users. Users of government web applications in particular tend to not be security-savvy, which makes them easy victims for attackers.
+
+ The most common vulnerability across the board was Cross-Site Scripting (affecting 82% of tested web applications), which allows attackers to perform phishing attacks against web application users or infect their computers with malware.
+
+ Other critical vulnerabilities also find their way into government web applications. For example, security assessment of a web application for a Russian local government revealed SQL Injection, a critical vulnerability that could allow attackers to obtain sensitive information from a database.
+
+ About Positive Technologies
+
+ Positive Technologies is a global provider of enterprise security solutions for vulnerability and compliance management, incident and threat analysis, and application protection. Commitment to clients and research has earned Positive Technologies a reputation as one of the foremost authorities on Industrial Control System, Banking, Telecom, Web Application, and ERP security, supported by recognition from the analyst community.
+
+

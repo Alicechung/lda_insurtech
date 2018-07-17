@@ -1,0 +1,21 @@
+Business Users Demand Self-service Data Preparation Tools To Optimize Analytic Insights
+
+03 Jul 2018
+
+Companies Are Spending Up To 80% Of Their “Data Time” Simply Cleansing And Normalizing The Data, finds Frost & Sullivan
+Data preparation market will top $9 billion globally by 2025. But 80% of the time is spent preparing the data. This delays their more important strategic work: analyzing the data to obtain the insights their organizations need to survive. For many, “data preparation” occurs, ungoverned, in Excel spreadsheets. That may be expedient for users and their organizations, but it is hurting every aspect of data quality, costing organizations a fortune. Now, it could cost them even more by creating privacy violations.
+Frost & Sullivan’s new thought leadership paper, Being Prepared: How One Approach Helps Companies Excel at Data Preparation, outlines the need for organizations to equip their business users with self-service data preparation that eases and accelerates their pursuit of analytic insights. The report projects that data preparation, which fits into the Big Data and Analytics Core Products and Services functional category, will grow to more than $9 billion by 2025.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+“The rapid proliferation of the Internet of Things is only going to accelerate this effect; more than 45 billion devices will be connected to the IoT in 2022. Now, new data sources, from geospatial, blockchain and drones to Bitcoin and other cryptocurrencies, are poised to push systems to the breaking point,” explained Ron Gherman, Information and Communications Technology | IoT Consultant at Frost & Sullivan. “Companies have to find a way to address the demand of business users who require rapid access to data preparation, without breaking the bank on either licensing or integration.”
+David Lefkowich
+“To tackle the need for self-service functionality, data prep has to systematize and where possible automate the joining, de-duplicating, transforming, cleansing, enriching, and filtering of data from all relevant sources,” added David Lefkowich, Chief Marketing & Business Development Officer at FreeSight Software Inc. “The world changes every day, so companies must adopt a strategy for ongoing assessment, preparation and ingestion of new datasets as they are discovered.”
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+If businesses are serious about enabling business users to share in prepping and using data, a graphical user interface (GUI) with drag-and-drop capabilities such as FreeSight is required as it:
+Makes “the democratization of data” a reality for organizations that do not have the budgets to deploy an enterprise-wide data platform.
+Bridges the gap between users that use Excel to assimilate and prepare data for analysis in silos and Big Data platforms that ingest, manage, and distribute streaming data across the enterprise.
+Increases data accuracy by automating error-prone manual processes in data preparation, and its automatic audit trail and rollback capabilities improve data integrity and reduce risk.
+Helps companies establish governance over business users who have circumvented corporate data warehouses because those systems could not deliver analytic insights at the speed of business.
+About Frost & Sullivan: For over five decades, Frost & Sullivan has become world-renowned for its role in helping investors, corporate leaders and governments navigate economic changes and identify disruptive technologies, Mega Trends, new business models and companies to action, resulting in a continuous flow of growth opportunities to drive future success.
+Read More: The Three Biggest Industries Who Can Utilize A Language Translation Device
+
+

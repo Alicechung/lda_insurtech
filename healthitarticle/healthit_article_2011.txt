@@ -1,0 +1,18 @@
+39% of providers still use Excel for data analytics reports
+
+May 09, 2014
+
+By Jennifer Bresnick
+May 09, 2014 - Nearly one in four healthcare organizations still use some form of the basic Excel spreadsheet to track and report on their clinical and financial analytics, says a new survey from TCS Healthcare Technologies, despite a health IT market brimming with companies offering visualization software, data dashboards, analytics-as-a-service packages, and cloud-based databanks.  However, many organizations have adapted their tools to stratify patients for population health management and have seen a positive return on their investments.
+“With the growth of population health management programs, data analytics and interactive reporting is key to creating actionable information to optimize clinical outcomes,” says Rob Pock, founder and president of TCS Healthcare Technologies.  “While this trend report highlights how information technology is changing the way health care professionals view, analyze and manage data, it also showcases the progress that is needed to optimize data analytic functions.”
+In addition to the 39% of organizations that use Excel, Crystal Reports was used by 20% of respondents, and 17% use Access.  Only 25% of providers are currently using predictive modeling applications, though that market is expected to grow as organizations shift their focus away from EHR implementation and towards clinical and financial optimization tools.
+Even though relatively few providers are using predictive analytics, the respondents noted that the ability to view trends for individual patients, as well as for larger sets of population data, was an important functionality.  They also wanted the ability to manipulate their data and access information in a variety of ways, such as with tablets and smartphones.
+Dig Deeper
+EHR Data Fuels Accurate Predictive Analytics for Suicide Risk
+VA Falls Short on EHR Use to Document Suicide Risk, Prevention
+Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+“Technology that supports the exchange of information in health care is changing very rapidly,” says Cheri Lattimer, RN, BSN, executive director of the Case Management Society of America, which co-sponsored the poll. “We have seen enormous change since this survey series launched in 2008. Data integration will continue to be a top priority as we place emphasis on transitions of care. Collaboration and interoperability will need to be fundamental elements for achieving success in technology growth and creating a seamless experience for the patient.”
+According to the survey, many providers have already seen some measure of that success.  Forty-six percent reported a positive return on their health IT investments, while only 14% said that they have lost money after purchasing new systems.  Thirty percent are moving forward into population health management by stratifying their patients based on clinical or financial rules, targeting more comprehensive screenings, preventative care, and opportunities for case management.
+Tagged Big DataEHR Data AnalyticsEHR Patient DataEHR UseHealthcare Data AnalyticsPredictive Analytics
+
+

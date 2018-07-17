@@ -1,0 +1,61 @@
+How to Build a Successful Big Data Analytics Program in Healthcare
+
+May 05, 2016
+
+By Jennifer Bresnick
+May 05, 2016 - When it comes to big data analytics in the healthcare industry, there’s a significant difference between starting an initiative and succeeding with it. 
+Most hospitals and health systems have started to collect some form of electronic information to help them with population health management, financial decision-making, or patient safety, but few have truly cracked the secret of using big data to generate measurable improvements in quality and revenue.
+That isn’t because they aren’t trying, but because it’s a very difficult task for anyone to accomplish, says Sanket Shah, Professor of Health Informatics at the University of Illinois at Chicago. 
+Providers must put together all the right pieces for an analytics program that will be flexible, adaptable, and robust enough to weather a storm of changing regulation, financial uncertainty, personnel shortages, and increasingly demanding patients, while still managing to deliver game-changing insights to clinicians in real-time.
+It may be a tall order, but it isn’t impossible.  Organizations that keep a few basic big data steps in mind will have a good chance of charting a path towards success now and in the future.
+READ MORE: Healthcare Big Data Success Starts with the Right Questions
+Start with a comprehensive roadmap
+Every journey starts with a single step, but before healthcare organizations even lace up their hiking boots, they must nail down the direction in which they wish to go.
+“You need to start with a plan, and that plan has to stem from your leadership – on the clinical side, the business side, and the technical side,” said Shah in an interview with HealthITAnalytics.com.  “The game plan needs to be comprehensive before you begin.  You can’t just get going and then decide that you’ll wing it when it’s time to make a decision.”
+Failure to secure buy-in from organizational leaders can be a costly mistake, he added, because each false start requires an investment in time, manpower, and infrastructure.  Providers may wish to begin the process of drawing up a roadmap by having a roundtable discussion with clinical leaders, during which they identify specific problems they wish to solve.
+These may include reducing readmissions for a targeted group of high-risk patients, improving patient flow through the emergency department, raising performance on patient satisfaction scores, or improving collection rates by addressing gaps in front-end customer service practices.
+READ MORE: EHR, Big Data Analytics Success Hinges on Holistic Change Management
+Defining a few detailed use cases as narrowly as possible will help organizations understand exactly what data they need to collect, and what tools they need to develop in order to make use of it.
+It may be easiest to start with claims data, Shah says, but there some known limitations to how useful this information can be for advanced applications.
+“Everybody can get their hands on claims data, whether it’s through their billing system or a third-party clearinghouse, but the problem with claims is that there is a lag,” he explained.  “The data has to go through the whole process of being coded and submitted to payers and returned again before it’s finalized, so it’s definitely not real-time information.”
+“In addition to that, a lot of organizations have already maximized what they can do with that data, and they need to start reevaluating where they want to go next,” he continued.  “To mature with big data analytics, you’re going to need new data sources.  There’s no question about that.”
+The electronic health record is the first place to turn when bulking up a big data initiative.  Unlike claims data, the EHR offers insights into more than just coded diagnoses and procedures.  Clinical notes and patient demographic records include nuances of the patient-provider interaction that never make it into paid claims – and it’s available quickly.
+READ MORE: The Top 3 Planning Pain Points in Healthcare Big Data Analytics
+“So if a diabetic patient comes through a provider’s office and is prescribed an injectable, and then they had their weight and blood sugar taken down, you can access that information at a much quicker pace than you could in the past,” said Shah.  “Plus, you’re getting more data than is available on the insurance claim, which is very important for patient management.”
+“And then, of course, you have the most cutting-edge data sources, like wearables and smartphone apps,” he added.  The recent interest in patient-generated health data and the Internet of Things is opening up new options to providers, but healthcare organizations have found it “very difficult” to take advantage of them yet, Shah says.
+“We haven’t found a reliable and scalable way to capture some of the patterns that might be important for patients and their habits,” he noted – exactly the problem that individual healthcare organizations can avoid by planning ahead.
+Choose your data wisely
+Part of the promise of big data analytics lies in the potential to make innovative connections between seemingly unrelated datasets, but that does not mean that every piece of information holds immediate untapped value. 
+Healthcare organizations that stick to the plan and resist the temptation to gobble up data indiscriminately will be able to achieve the near-term gains they’re looking for, Shah says.
+“You don’t want to become a data hoarder, and just start to acquire all these disparate systems and different data streams without understanding what you want to do with it,” he asserted. 
+“Space is not cheap.  You can’t store everything that you might possibly need someday.  If all this data is sitting there in your warehouse without being used, it’s not only going to cost you money.  It’s also going to slow down performance for the analytics that you are trying to perform.”
+While providers should keep their nice-to-haves in mind when organizing their storage space, Shah suggests undertaking a yearly “data inventory” to make sure the data warehouse stays tidy.
+Organizations should also conduct regular reviews of their data integrity and health information management programs to ensure that clinicians understand how to collect important data in a standardized, accurate, and comprehensive manner.
+Staying focused on the target use cases won’t just help to generate a timely return on investment, but will also free up capacity to tackle the most pressing problems at hand.  
+“If you’re not spending money gathering and maintaining data that you’re not using, you can divert those resources to something that has more immediate importance,” Shah points out.
+To outsource or not to outsource?
+Big data analytics doesn’t come cheap, and it doesn’t come easily to many healthcare organizations with tight budgets, few resources, and no luxury to make mistakes.  Hiring an outside expert with more experience may be an attractive opportunity for providers who are feeling lost, and it’s becoming a very popular option.
+A recent survey by Black Book found that approximately three-quarters of large hospitals and over 80 percent of smaller organizations are considering how best to contract with third-party organizations to provider at least one of their essential IT needs.
+Offloading the setup, maintenance, and development of big data analytics, population health management, and EHR initiatives can cut costs in the short run, but outsourcing and consulting partnerships aren’t free of potential problems.
+“First of all, if you don’t have a game plan when it comes to knowledge transfer, you could be putting yourself in a position where you can’t actually bring those lessons learned back into your organization when the partnership ends,” warns Shah. 
+“And so then you become dependent on your partners, so if you want to evolve as an organization, you’ll have to bring those external people with you.  That can significantly add to your costs.”
+Outsourcing can also be risky when it comes to data security, and projects can quickly spiral out of control without a firm hand in the project management office.
+“The other option is to focus on building up your infrastructure by acquiring new talent in-house and building up your own team’s competencies,” Shah said.  “It may take more up-front investment, but I think that’s a better strategy in the long run, because now you own that knowledge, and you can transfer it and grow it within your own walls.”
+Providers should investigate both options before making a decision in order to understand how long it will take before it becomes more expensive to continue to rent services rather than buy them.
+“At the end of the day, there’s always going to be a trade-off,” acknowledged Shah.  “And the right path for one organization might not be the best idea for another.”
+“Ultimately, if your end goal is to improve population health management, retain members, and raise the level of care you provide, you just have to ensure that you have a plan for developing the right infrastructure to tackle those issues, and that you have the right technical and human resources to ensure that you can keep moving forward in a positive direction.”
+Keep an eye out for unicorns
+For organizations that choose to keep their big data analytics projects in-house, it is critical to hire the right staff members.
+Qualified data scientists are few and far between as it is, and professionals with healthcare-specific experience are in incredibly high demand.
+“There is a fallacy out there that says if you know data, you know all data,” said Shah.  “But that’s not really true, especially for the healthcare industry.  When it comes to healthcare big data analytics, you’re looking for some very unique individuals.”
+“You want someone who has the fundamentals of data mining and analysis, but you also need to make sure that the person understands the context of the data.  The terminology is very specific, and the types of important data are different than in other industries.”
+The perfect data scientist doesn’t only have to be familiar with healthcare concepts.  He or she has to know how to deal with the quirks and characteristics of clinicians.
+“They may be working with raw data, but they are also responsible for delivering these insights to clinicians in a way that will help them improve patient care and lower costs,” said Shah.
+“The real Holy Grail is a data scientist with a clinical background, of course,” he continued.  “If you’re a clinician, or you’ve gone through the right schooling to learn about the medical industry, and you understand patients, you’re going to be in very high demand.  There’s so much that the data can’t tell you.  You need that inherent knowledge of how it applies to care.  That is the ultimate prize as far as hiring is concerned.”
+In order to have a chance to attract these highly coveted experts like these, however, providers may need to open their wallets a little wider than they might like.
+“Not every organization understands that if they are going to acquire skilled professionals to drive their business forward, they need to invest,” Shah said.  “Either they need to commit to hiring the right people from outside the organization, or they have to train their internal folks, ensure they have a mentor program, and develop the right infrastructure that will support growth.”
+Securing the expertise of a healthcare-savvy data scientist or two may be the key to succeeding with big data analytics as a whole.  A solid big data team will help to inform the initial planning process, define doable use cases, craft a streamlined but flexible data collection process, and oversee any outsourcing that makes good financial sense.
+Healthcare organizations may feel as if they need to rush into big data analytics to gain a competitive edge as soon as possible, but taking some time to map out this complex, costly, and critical journey will pay dividends down the road by allowing providers to access the actionable insights that will help them surge ahead in the delivery of high quality patient care.
+Tagged Analytics InfrastructureBest PracticesHealthcare Data GovernanceHealthcare Data StrategyInterviews
+
+

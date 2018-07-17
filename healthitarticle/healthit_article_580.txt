@@ -1,0 +1,28 @@
+EHR Sample Size Matters in Machine Learning, Predictive Analytics
+
+February 09, 2017
+
+By Jennifer Bresnick
+February 09, 2017 - With a large enough number of electronic health records, machine learning algorithms may be able to develop patient-specific predictive analytics for ICU patients that accurately forecast mortality rates, says a study in JMIR Medical Informatics – but using too many records may reduce the usefulness of some models.
+The study, developed by Joon Lee, PhD, from the School of Public Health and Health Systems at the University of Waterloo in Ontario, used different data models to examine the likely 30-day mortality risk of individuals admitted to the ICU.
+The key for most models is to find the right number of records to analyze with an acceptable level of similarity to the query patient.  The group must be large enough to provide meaningful predictions, Lee said, but not so expansive that patients with notable dissimilarities are unintentionally included in the algorithm. 
+Dig Deeper
+The Difference Between Big Data and Smart Data in Healthcare
+Is Smart Data Better than Bigger Data for Predictive Analytics?
+Smart Big Data is Key to Population Health, Value-Based Care
+“The conventional doctrine in machine learning is that it is always beneficial to collect more training data,” he said. “This is true if collected data represent the same underlying phenomenon, but it is often difficult to make this assumption in medicine largely due to enormous variability in patient/clinical characteristics, as well as our limited understanding of complex human health and disease pathways.”
+“In the era of big data, we can now afford to be more selective regarding which cases should be included in predictive modeling. Large-scale EHR data enable personalized predictive models where the degree of similarity between an index patient (for whom a prediction is to be made) and a past patient (the clinical data of whom can be found in an EHR repository) is taken into consideration.”
+This approach allows predictive analytics tools to deliver tailored and personalized results instead of using generic averages that may or may not apply to individuals within a given population.
+But defining what makes one patient similar to another is challenging, said Lee.  Data scientists can use a variety of machine learning methodologies, including clustering, distance-based, and classification models, to develop guidelines for whether or not a data point is acceptable.
+These patient similarity metrics (PSMs) can then be used to discard or accept data based on the newly defined criteria.  He compares the process to the “similar customers have purchased…” features commonly used by online retailers.
+In this study, Lee looked at the potential of five different data models to provide tailored predictive analytics, including logistic regression and a basic decision tree framework.
+He also employed a data construction called the random forest (RF).  Random forests are groups of classification trees – flowcharts for decision-making – that run pieces of data through a variety of different tests.  When the majority of trees in the forest agree on the nature of a certain piece of data, that validated information can be used for making a decision.
+To test the accuracy of each approach, Lee used “training data” on more than 17,000 ICU patients from a public, deidentified research database to feed the models.
+He found that several of the models, especially the basic mortality probability model that simply counted the number of deaths among similar patients in the sample data, are only accurate within a certain range of the sample size.  
+Source: JMIR Medical Informatics
+The death counting and decision tree methods dropped off significantly in reliability when the sample size exceeded 12,000 patients, while the random forest and logistic regression models were less susceptible to accuracy problems.
+While the study did not compare the results of the training data to additional patients to simulate predictive clinical decision support in the ICU setting, the results indicate that patient similarity metrics strategies could provide valuable information about risk stratification and the allocation of resources.
+The random forest model may be particularly suited to patient-specific predictive analytics, Lee concludes, and the initial success of the approach should open up new avenues of study into the potential for machine learning to aid clinical care. 
+Tagged Clinical AnalyticsEHR AnalyticsEHR Data MiningMachine LearningPredictive Analytics
+
+

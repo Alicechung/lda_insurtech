@@ -1,0 +1,31 @@
+As HIMSS15 Ends, Health Data Interoperability is Just Starting
+
+April 20, 2015
+
+By Jennifer Bresnick
+April 20, 2015 - The annual HIMSS conference and the thorny problem of health data interoperability have a lot in common.  Each brings together thousands of stakeholders, many with their own objectives, in a collaborative environment intended to foster the sharing of ideas and information. 
+While the meeting rooms and show floors in Chicago are now emptied of health IT professionals, attendees have gone home with more than a tote bag and a handful of branded pens.  They have returned to their hospitals, physician offices, and vendor headquarters with the importance of health data interoperability hammered into their thoughts, and a sense that momentum is building towards the ultimate goal of simple, seamless health information exchange.
+With another record-breaking conference in the books, here are some of the most important and meaningful health data interoperability announcements, comments, and pledges made during the busy week of HIMSS15.
+Epic reportedly dropping data exchange fees until 2020
+After being savaged by the industry over revelations that Epic Systems was charging $2.35 per external patient record exchange, the EHR giant’s CEO, Judy Faulkner, reportedly stated at HIMSS15 that the company will be dropping data exchange fees for its Care Everywhere product until at least 2020.
+READ MORE: ONC Views APIs as Key to Health Data Exchange, Interoperability
+Epic also took part in the announcement of the Carequality project, a health data interoperability effort that intends to create a network of networks to facilitate the flow of data across the nation.  While Carequality does not view itself as a direct challenger to the CommonWell Alliance, the two organizations will have some negotiating to do as EHR vendors continue to snipe at each other over their efforts.
+Karen DeSalvo is “optimistic” about the future of health data interoperability
+In her keynote address delivered towards the end of HIMSS15, National Coordinator Karen DeSalvo expressed her confidence and optimism that the healthcare industry would achieve its health data interoperability goals.  After participating in listening sessions held around the country, DeSalvo said that she “became more and more optimistic as I heard how people are committed to see that we would leverage health IT to the advancement of everyone’s health.”
+“We have much work to do to digitize the care experience across the entire care continuum. We also have to see that we achieve true interoperability – not only exchange,” she added. “What became clear quickly is that we need to develop a strategic approach that would leverage health IT beyond electronic health records using levers beyond meaningful use to bring not only better healthcare but better health.”
+DeSalvo also addressed the ONC’s recent report on health data blocking, urging the industry to come forward with any information, anecdotes, or suggestions about stakeholders who are actively withholding interoperability.
+READ MORE: As FHIR Matures, Healthcare Interoperability Comes into Focus
+Cerner, Geisinger embrace FHIR for open EHR app development
+Cerner Corporation and Geisinger Health System, along with xG Health Solutions, will be leveraging the power of SMART on FHIR to develop plug-and-play apps for use with all FHIR-compliant EHR systems.  The FHIR data standard, a new favorite among health data interoperability advocates, will allow developers to better integrate health data into the EHR, eliminating the problems of bulky “bolt-on” applications that do not exchange information cleanly for meaningful clinical analytics.
+“SMART on FHIR creates an important new kind of interoperability,” said Dr. David McCallie, Jr., Senior Vice President of Medical Informatics at Cerner. “Application interoperability will enable innovative developers to reach a broader market of potential users, while at the same time enabling open platform EHR suppliers to provide a more robust set of offerings to their clients.”
+Health data interoperability requires leadership, change in perspective
+In a keynote address, Humana CEO Bruce Broussard urged all players in the industry to embrace health data interoperability as the foundation for a new perspective on chronic disease management, population health, and overall wellness for patients. 
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+“We need to look at information as a shared asset, not a proprietary one,” Broussard said.  “It’s an asset that should be flowing through our system freely, as opposed to being taxed and tolled along the way.   We all can benefit from interoperability.  As you think about the silos in the industry and you think about value-based reimbursement and you think about customers, interoperability is really the intersection of that.  It’s the ability for us to start acting like a team in healthcare, as opposed to everyone thinking they’re a track star.”
+HHS, ONC announce $1 million in grants for health information exchange
+The Community Interoperability Health Information Exchange (HIE) Program is getting a $1 million boost from HHS and the ONC, DeSalvo announced on April 14.  The new program will encourage providers whoa re not eligible for the EHR Incentive Programs to demonstrate their commitment and abilities to exchange health information in pursuit of better population health management.
+“The flow of health information across the entire care continuum is a critical step to realizing a learning health system that results in not only better care, but healthier people and communities,” she said. “The new Community Interoperability and HIE program will fund local efforts that will leverage health IT in support of a more comprehensive digital data picture of health for people and their communities.”
+Providers may submit grant applications until June 15, 2015 by clicking here.
+Tagged Analytics InfrastructureHealth Information ExchangeHIMSS15Interoperability
+
+

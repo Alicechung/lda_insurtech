@@ -1,0 +1,34 @@
+Artificial Intelligence, Genomics Combo Boosts Precision Medicine
+
+July 13, 2017
+
+By Jennifer Bresnick
+July 13, 2017 - The combination of artificial intelligence and genomic sequencing could significantly accelerate the development of precision medicine, researchers from the New York Genome Center (NYGC), The Rockefeller University, and IBM suggest in a new journal article.
+Using IBM Watson for Oncology’s cognitive computing skills to examine whole genome sequencing data, researchers were able to analyze more genomic variants in less time than they could when employing other methodologies. 
+The automated platform took ten minutes to deliver a report containing potentially actionable genomic insights.  The same task would require approximately 160 hours of manual curation and human analysis.
+The study indicates that artificial intelligence may be able to quickly and efficiently bring precision medicine efforts to more patients and organizations with a much lower bar to entry than currently exists.
+"Our partnership has explored cutting-edge challenges and opportunities in harnessing genomics to help cancer patients,” said principal investigator Robert Darnell, MD, PhD, Robert and Harriet Heilbrunn Professor and Senior Attending Physician at The Rockefeller University and Founding Director of the New York Genome Center.
+READ MORE: Machine Learning Algorithm Outperforms Cardiologists Reading EKGs
+“We provide initial insights into two critical issues: what clinical value can be extracted from different commercial and academic cancer genomic platforms, and how to think about scaling access to that value."
+The study, conducted in 2015 and 2016, used a beta version of IBM Watson for Oncology, which has since been made widely available. 
+IBM and the New York Genome Center have been working closely together to bring the ideas of the national Precision Medicine Initiative to life. 
+In 2016, the two organizations announced that they would be developing an open cancer data repository to help train Watson in the nuances of genomics and oncology.
+“Cancer is a natural choice to focus on, because of the number of patients and the available proof points in the space,” Vanessa Michelini, Watson for Genomics Innovation Leader, told HealthITAnalytics.com.  “We are uniquely positioned to make a significant impact in precision medicine, and partners like the New York Genomic Center are key for us to continue this journey together.”
+READ MORE: Big Data Analytics, Machine Learning Support 2017 Most Wired Hospitals
+“There’s this explosion of data – not just genomic data, but all sorts of data – in the healthcare space, and the industry needs to find the best ways to extract what’s relevant and bring it together to help clinicians make the best decisions for their patients.”
+Tools and platforms built upon the foundations of artificial intelligence have quickly become an extremely popular way for developers and researchers to process these massive volumes of healthcare data.
+Algorithms trained to diagnose diseases, suggest therapies, and scan images for abnormalities are rapidly approaching maturity.  A number of projects have already exceeded the accuracy, speed, and sensitivity of human clinicians, including several spearheaded by IBM.
+Just weeks ago, IBM announced that its oncology platform achieved concordance with human diagnosticians up to 93 percent of the time for certain types of cancers. 
+But the company does not have the landscape all to itself.  Despite some very successful marketing, competition is coming from many quarters.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+In addition to rivals like Google and Microsoft who are also angling to become leaders in artificial intelligence, academia has come strongly out of the gate, developing a number of algorithms that can identify malignancies and predict the course of certain diseases as well or better than humans.
+Specialty platforms like CancerLinQ are also providing clinical decision support for oncologists based on big data from large numbers of real-life patients.  New partnerships with the FDA and National Cancer Institute (NCI) are helping the American Society of Clinical Oncology boost the value and reach of its growing data lake.
+“We want to make sure that society is able to benefit from the knowledge that is often hidden away in EHRs and lab reports and never included in clinical trials,” said Dr. Clifford A. Hudis, Chairman of the Board of Governors for CancerLinQ.
+“The more knowledge we have as a health system, the more we will be able to provide the highest quality care to patients who often have very few other options.”
+As healthcare providers increase their use of genetic testing to aid cancer diagnosis and treatment, reliance on machine learning and artificial intelligence techniques is likely to increase. 
+The challenges of interpreting this data, especially for a highly deadly cancer like glioblastoma, can be too complex for a human clinician to tackle on his own, the New York Genome Center research team said.
+“Aside from cost, a challenge of whole genome sequencing or whole-transcriptome data is the expertise and time required to interpret the full spectrum of somatic mutation,” the study says. 
+“The development of an effective human-machine interface in the analysis of deep cancer genomic datasets may provide potentially clinically actionable calls for individual patients in a more timely and efficient manner than currently possible.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsMachine LearningPersonalized MedicinePrecision Medicine
+
+

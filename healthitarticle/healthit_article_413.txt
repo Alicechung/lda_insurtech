@@ -1,0 +1,30 @@
+Machine Learning Algorithm Outperforms Cardiologists Reading EKGs
+
+July 12, 2017
+
+By Jennifer Bresnick
+July 12, 2017 - A machine learning algorithm leveraging a multi-layered convolutional neural network exceeds the performance of human cardiologists when detecting a range of abnormal readings from standard electrocardiograms.
+Developed at Stanford, the algorithm was able to identify 12 heart conditions such as atrial fibrillation, complete heart block, and ectopic atrial rhythm (EAR) with greater sensitivity and precision than board-certified physicians.
+With more than 300 million EKG tests completed annually in the United States, machine learning techniques are a promising way to supplement human clinicians as they diagnose a variety of common conditions.
+Dig Deeper
+Machine Learning in Healthcare: Defining the Most Common Terms
+Machine Learning Predicts Leukemia Remission with 100% Accuracy
+Top 4 Machine Learning Use Cases for Healthcare Providers
+At the moment, however, algorithms are generally unable to meet the exacting standards required for a confident diagnosis.  Once recent study found that algorithms were only correct about half the time when identifying non-sinus rhythms.  In another, a computer was only able to recognize second degree AV block in one out of seven cases.
+“To automatically detect heart arrhythmias in an ECG, an algorithm must implicitly recognize the distinct wave types and discern the complex relationships between them over time,” the researchers explained. “This is difficult due to the variability in wave morphology between patients as well as the presence of noise.”
+Neural networks, which use hierarchical logical structures inspired by biological brain functions to filter through complex data, can process these signals more efficiently than other machine learning strategies.
+The team started with a dataset of more than 64,000 EKGs from 29,000 patients.  The data was generated using a single lead monitoring patch, which collects data from patients over a period of 14 days.
+“Each ECG record in the training set is 30 seconds long and can contain more than one rhythm type,” says the study. “Each record is annotated by a clinical ECG expert: the expert highlights segments of the signal and marks it as corresponding to one of the 14 rhythm classes.”
+Ninety percent of the data was used to train the algorithm, while the remaining data was reserved for validation. A committee of three cardiologists served as “gold-standard annotators” for the 336 examples included in the test set.
+In 11 out of the 12 categories, the algorithm exhibited higher rates of precision and recall than the human experts.
+“The model outperforms the average cardiologist performance on most rhythms, noticeably outperforming the cardiologists in the AV Block set of arrhythmias which includes Mobitz I (Wenckebach), Mobitz II (AVB Type2) and complete heart block (CHB),” the study states. “This is especially useful given the severity of Mobitz II and complete heart block and the importance of distinguishing these two from Wenckebach which is usually considered benign.”
+“Key to exceeding expert performance is a deep convolutional network which can map a sequence of ECG samples to a sequence of arrhythmia annotations along with a novel dataset two orders of magnitude larger than previous datasets of its kind.”
+The algorithm is one of a handful of new tools that are approaching or exceeding the diagnostic capability of human clinicians, some of which have also been developed by Stanford researchers.
+In 2016, a machine learning algorithm developed by a team from the Stanford University School of Medicine was able to identify lung cancer slides better than traditional pathologists.   
+Earlier this year, scientists at Case Western Reserve University created a program that could identify invasive breast cancer with 100 percent accuracy, while Indiana University-Purdue University Indianapolis used machine learning to correctly predict remission rates for a type of leukemia with the same level of certainty.
+In the future, the Stanford EKG algorithm may be able to save time, reduce costs, and improve the quality of cardiology care, the research team suggested.
+“Given that more than 300 million ECGs are recorded annually, high-accuracy diagnosis from ECG can save expert clinicians and cardiologists considerable time and decrease the number of misdiagnoses,” the study concludes.
+“Furthermore, we hope that this technology coupled with low-cost ECG devices enables more widespread use of the ECG as a diagnostic tool in places where access to a cardiologist is difficult.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsMachine LearningMedical Research
+
+

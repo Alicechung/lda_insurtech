@@ -1,0 +1,58 @@
+Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+
+March 27, 2017
+
+By Jennifer Bresnick
+March 27, 2017 - Value-based care contracts are becoming increasingly popular for providers and payers looking to slim down spending and increase quality, but few organizations can truly flourish in the pay-for-performance environment if they do not have robust revenue cycle analytics to back up the changes they’re making to their care processes.
+Without far-reaching financial analytics and business intelligence tools that track revenue, highlight productivity trends, and identify opportunities for improvement, providers will be unable to survive in a marketplace that now requires organizations to marry strategic business savvy with top-notch clinical performance.
+At Allied Physicians Group, a provider-owned pediatric care network serving the greater New York metro area, a comprehensive analytics platform is powering the large group’s momentum as is moves towards expanding its value-based contracting.
+Robert Creaven, Executive VP of Operations at Allied Physicians Group
+Source: Xtelligent Media
+With 150 providers at 36 different locations, it is imperative for Allied to develop deep insight into financial and clinical operations, says Robert Creaven, CMPE, MPA, Executive VP of Operations, especially as fierce competition and pay-for-performance care combine to produce new pressures.
+“We’re surrounded by some very large and profitable hospital systems who are trying to expand their influence even further by acquiring physicians and driving their competitors away,” Creaven explained to HealthITAnalytics.com. 
+READ MORE: Lack of Talent, Direction Afflict Healthcare Data Analytics Plans
+“We quickly realized that if we want to compete in that environment, we need to develop an analytics platform that is going to help us stay ahead of the game.”
+Working with Dimensional Insight, Allied began its financial analytics initiative with a platform to measure productivity across its complex network of locations, each of which operates as an individual profit center.
+“In the next few months, we’re going to be incorporating all our financial data into the platform, as well, which is going to be a huge gain for us,” Creaven said. 
+“Profit and loss statements; accounts payable, payroll – you name it, it’s going to be in there.  That will enable us to combine all our metrics from productivity with all the financial outcomes information in one place instead of trying to piece it all together from different places.”
+By the time 2017 comes to a close, Allied hopes to compete its analytics trifecta by adding clinical data to the system as well.  This will allow organizational leaders to access a single, unified view of how each division is performing, he explained, without the need to cherry-pick data from disparate platforms in order to generate reports.
+
+“That will be a major advantage,” said Creaven.  “A comprehensive platform will let us see how we’re performing on the whole as well as letting the user dive into a specific division, or look at a certain physician or a certain operation.  The insights we can gain from that will be invaluable to our strategic planning and daily operations.”
+READ MORE: Healthcare Analytics Help Mercy Uncover Cost, Quality Insights
+“If we look at the data and see that one division may not be doing a particular task very well, we can find the division that’s knocking that task out of the park and put the two of them together for some brainstorming,” he added. 
+“We can do comparisons between offices and start asking the right questions about why we’re seeing notable variations in performance or revenue.  Identifying the problem is half the battle, and you need good data if you’re going to do that.”
+USING DATA ANALYTICS TO NAVIGATE THE VALUE-BASED CARE ENVIRONMENT
+Identifying the problem is half the battle, he said, and organizations must have good data if they are to start the quality improvement process.  And for Allied, there’s an extra incentive to keep costs low and performance high.
+“One of the beauties of being a physician-owned entity is that everyone is invested in the outcomes of the business, and they understand that individual performance contributes so much to the financial health of all of their partners.  They all want to improve, because ultimately it means more revenue in their pockets.”
+“When we all learn from each other, then everyone wins.  We’ve got 150 people sharing their knowledge, and now we’re using even more data to support that collaboration.”
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+That collaborative approach extends to Allied’s relationships with its payers, as well.  Value-based purchasing is quickly picking up steam, and Creaven is hoping that better insights from the organization’s big data will translate into the ability to jumpstart Allied’s participation in the accountable care environment.
+Understanding the Value-Based Reimbursement Model Landscape
+“Two or three years ago, it was all fee-for-service,” he said.  “But now, it’s very difficult to get a plain fee-for-service contract.  They all include some form of value-based incentive or quality metric.  So now we need a way to track all of those.” 
+“First of all, we need to make sure that our performance is meeting the benchmarks.  But second of all, we need to make sure that we’re getting paid what we’ve been promised.  So we need to be able to verify the data on our end instead of just taking it on faith that when our payers cut us a check, it’s an accurate number.”
+Allied trusts its payers, Creaven stressed, and works very closely with its partner organizations to succeed under its contracting arrangements.  “But we wouldn’t be doing our job for our organization if we just nodded and said, “Okay, thanks” without double checking that everything is squared away,” he pointed out.
+“We want to move more heavily into value-based contracting, but in order to do that, we need to have the capability to say that our data doesn’t match their data in the rare cases when there might be a discrepancy.”
+THE CRITICAL ROLE OF THE EXPERIENCED OFFICE MANAGER
+Physicians at Allied have a vested interest in making sure that their individual divisions are running as smoothly and efficiently as possible, and that means crafting a team of support staff with deep knowledge of how work with data.
+Office managers at each location are the key to the organization’s analytical and operational success, Creaven said.
+“They play a vital role in the administrative and financial processes for their sites,” he explained.  “They have to know everything about our systems, from the EHR to the practice management system to the analytics, because Allied is not set up to provide very detailed oversight of everything that everyone is doing.”
+“Ninety-five percent of the day-to-day is on you and how you run your shop.  We’re there to provide support and help – and we will certainly get in touch if we notice a significant problem with performance – but we don’t want to micromanage and we don’t want to interfere.”
+The office management team has access to an operations platform that helps them monitor patient activities, including overdue wellness visits, cancellations, and no-show rates. 
+The practice management platform gives each site “everything they need to run the division as best as they can run, which makes everyone more operationally efficient and profitable,” said Creaven.
+Preventing Big Data Pain Points During a Healthcare Encounter
+“That means that your office manager has to be very technically savvy and very experienced with effectively running a business,” he added.  “Part of my role is to recruit new physicians to join the group, and one of the things I tell them is that they can be the best clinician in the world, but if they don’t have a good office manager, they’re not going to be very successful.”
+Providers should pay close attention to developing administrative staff members with a firm grasp on the intricacies of using data to improve quality and meet the demands of the value-based environment, he suggested.
+“It’s not worth skimping on this position.  These managers are more than a front desk receptionist, and they must be very skilled.  They have to fit the culture of your office, and they have to work extremely well with the clinicians in that setting, both from a patient care perspective and a business perspective.  Finding someone like that might mean spending more money on salary, but it’s definitely worth it.”
+PICKING THE OPTIMAL PARTNER FOR SHARED GROWTH AND DEVELOPMENT
+Taking the time to find the right analytics vendor is just as important as making a concerted effort to secure the right administrative experts, Creaven said.
+“I actually prefer the term ‘partner’ instead of ‘vendor,’ because this can’t just be a one-and-done transaction between a company and a customer,” he stated.  “Many of the platforms we looked at were very cookie-cutter in their approach, and the developers behind them weren’t too interested in changing that.”
+“We needed a partner that was going to develop alongside us.  Our analytics platform doesn’t look like anybody else’s, because our organization doesn’t look like anybody else’s.  It’s very important to find a partner that recognizes how critical it is build flexibility and customization into a system.”
+How to Choose the Right Healthcare Big Data Analytics Tools
+A trusted, two-way development relationship has another perk, he added.  “A vendor that has experience with tailoring their products to different groups is also going to be able to tell you what isn’t going to work.” 
+“Sometimes our physicians want some pretty crazy things, and we’re glad we’re working with someone who is going to tell us, ‘No, trying to do that particular thing is going to be a waste of time and money, so you’re better off doing this, this, and this instead.’”
+Collaborative decision-making is at the root of analytics success, Creaven asserted, and investing with the right partner can make or break an organization’s big data analytics ambitions.
+“Find a vendor that will listen to you, commit to a long-term relationship with you, and put your needs at the top of the pile,” he urged.  “No two provider groups are the same.  No two physicians are the same.  Goodness knows we have our own internal issues that come to the surface during development, and we’re lucky to have a partner that can be patient with that and help us work through them.”
+“If you can build a system that gives you real insight into your individual business problems, then you’re going to be able to put yourself in a great place to compete as the market keeps changing and getting tougher.”
+Tagged Analytics InfrastructureFinancial AnalyticsHealthcare Business IntelligenceHealthcare Revenue CycleHIMSS17InterviewsValue Based CareValue Based Reimbursement
+
+

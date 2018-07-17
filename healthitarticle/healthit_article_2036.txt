@@ -1,0 +1,18 @@
+Study: Automated readmissions review not yet sensitive enough
+
+April 07, 2014
+
+By Jennifer Bresnick
+April 07, 2014 - The use of computer algorithms and data analytics to identify preventable hospital readmissions still has a long way to go before it’s accurate and sensitive enough to replace manual review, says a new BMC study by Kaiser Permanente researchers.  Potentially preventable readmission (PPR) software identified more 30-day admissions than manual chart review as probably preventable, the team found, but the overlap between the cases identified by the two methods was not accurate enough to rely upon completely.
+Hospitals looking to improve their patient care metrics and reduce costly readmissions to prevent penalties are constantly seeking strategies to observe, judge, and improve their own performance. “Classifying readmissions as potentially preventable or not preventable can be used to improve hospital performance,” the study authors write. “Administrators can sort potentially preventable readmissions into categories that are actionable for improvement. They can identify trends over time or across reporting units. Classifying readmissions as potentially preventable or not preventable can also be used to establish accountability across reporting units and reward top performers.”
+However, after reviewing 459 cases of patients who were readmitted for any reason within 30 days of initial discharge, the study found that automated algorithms don’t quite stack up to human review.  PPR software identified 78% of the cases as preventable, while clinicians only flagged 47 percent.  The PPR program identified 85% of the potentially preventable readmissions that were also identified by the manual review team, and correctly classified only 28% of non-preventable readmissions identified by manual review. Of the 232 cases identified as not preventable by the human team, PPR identified 72% as potentially preventable.
+The researchers put the differences down to the greater capacity for humans to take into account more factors than the algorithm.  “PPR uses a sole criterion to identify potential preventability: clinical relatedness to the index admission,” the study explains. “In contrast, manual review classified as non-preventable many readmissions that were clinically related to the index stay. For example, a 75-year-old man was admitted twice within 30 days for exacerbation of chronic obstructive pulmonary disease. Reviewers found that his follow-up care and transition care plan were appropriate. The patient and his physician felt that the readmission could not have been prevented by Kaiser Permanente, and the reviewers agreed.”
+Dig Deeper
+Business Intelligence Tools Bring Insights to Organ Donation Network
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Population Health Management, Big Data Markets Set to Grow
+The manual review process may sometimes veer in the direction of being too subjective, the authors acknowledged.  As automated review processes become increasingly sophisticated, PPR software may be a useful addition to the quality improvement process, the study says, but human intelligence is currently the most reliable method available.
+“Thorough manual review and automated classification methods differed substantially in the proportion of readmissions classified as potentially preventable,” the study concludes. “PPR identified many more readmissions as potentially preventable. Not enough concordance currently exists between methods to use automated classification to replace manual review for quality improvement initiatives.”
+Tagged Clinical AnalyticsClinical IntelligenceHealthcare AnalyticsHealthcare Business IntelligencePopulation Health Management
+
+

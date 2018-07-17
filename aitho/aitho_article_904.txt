@@ -1,0 +1,70 @@
+10 Deadliest Attacks In Cyber History
+
+13 Apr 2018
+
+Data Breaches And Vengeful Ransomware Threaten To Derail Mammoth Businesses. Tracking The Darkest Moments In Internet History And The Rise Of The Hacker Army 
+(1) 2014 — Sony Platstation Denial-Of-Service Attack
+Estimated Damage: Data of 77 million users exposed
+In December 2014, Sony Corp said its PlayStation Network and Sony Entertainment Network had been disrupted by hackers in a distributed denial-of-service attack. DDoS attacks attempt to cripple networks by overwhelming them with Internet traffic.
+A Twitter user with the handle @LizardSquad had claimed responsibility. A tweet on that day from a user with the handle @LizurdPatrol and account name Lizard Squad had read: “50 RTs (retweets) and we will hit off PSN (PlayStation Network). 50 FAVs (favorites) and we will hit off XBOX LIVE.”
+Following the attack, hackers released sensitive data over the Internet, including employee salaries and social security numbers along with high-quality digital versions of several unreleased films.
+(2) 2017 — National Security Agency Breach by WannaCry
+Estimated damage: 200,000 computers were infected across 150 countries
+The story goes that hackers stole malicious software from the National Security Agency’s kitty of cyberweapons, and used it not only against its own citizens but also against various entities around the world like governments, hospitals, businesses. The worst-affected amongst the 150 countries were Russia, Ukraine, India, and Taiwan. The malicious software is said to have spread to 2,30,000 systems. The hackers used something known as a ‘Wanna Decryptor’—a variant of the WannaCry ransomware—which encrypts data, locks one out of their system, and demands a ransom to release it; $300 in bitcoin to be exact.
+They used the oldest trick in the book. It was circulated via an ordinary phishing email from a supposedly official source, with an infected attachment. It utilised a hacking method the NSA allegedly developed as a cyberweapon. The perpetrators have designed their ransomware in a way that the ransom increases at intervals until it finally threatens to wipe out the data until a prefixed amount of time elapses. The encryption makes sure the ransomware goes undetected by security systems until employees open it, after which, it would be too late.
+Security experts believed from preliminary evaluation of the worm that the attack originated from North Korea or agencies working for the country.
+(3) 2017 — FedEx, Maersk, WPP, Merck Fall Prey to NotPetya
+Estimated damage: $892.5 million and growing
+Petya and NotPetya are two related pieces of malware that affected thousands of computers worldwide in 2016 and 2017. Both aim to encrypt the hard drive of infected computers. But NotPetya has many more potential tools to help it spread and infect computers, and while Petya is a standard piece of ransomware that aims to make few quick Bitcoin from victims. According to experts, NotPetya is widely viewed as a state-sponsored Russian cyberattack masquerading as ransomware.
+Ransomware, which threatens to delete the target’s files unless they pay a ransom, is regarded as the fastest growing form of computer virus.
+FedEx estimated that the 2017 NotPetya ransomware outbreak cost it $300 Million in lost business and cleanup costs. Maersk also estimates it incurred a expense of $300 Million. Reckitt Benckiser said the attack cost it  $136 Million (£100m).
+(4) 2014 JPMorgan Chase Cyberattack
+Estimated damages: 83 million accounts 
+According to news reports, the hackers appeared to have obtained a list of the applications and programs that run on JPMorgan’s computers — a road map of sorts — which they could crosscheck with known vulnerabilities in each program and web application, in search of an entry point back into the bank’s systems.
+The attack was disclosed in September 2014, a full two months after it was discovered by the bank’s security team. It is believed that the attack had not completely halted until the middle of August 2014.
+US federal indictments were issued against four hackers in November 2015. Two Israeli nationals Gery Shalon and Ziv Orenstein were indicted and extradited to the US.
+Read More: Malwarebytes Introduces Easy-To-Use Endpoint Protection And Response Solution For Monitoring, Detection And Remediation
+(5) 2011 – Epsilon Data Breach
+Estimated damages: $637 million from 75 clients
+Epsilon, a company that provides marketing services via email to about 2,500 companies, put a warning on its website stating that its systems had been “exposed by an unauthorised entry” into its email system, according to a Guardian report.
+The company became aware of the breach when customers at dozens of Fortune 500 companies began complaining about receiving spam to email addresses they’d created specifically for use with those companies. On April 2, 2011, Epsilon started notifying consumers that hackers had stolen customer email addresses and names belonging to a “subset of its clients.” It was called “one of the largest reported data breaches in US history.”
+US federal prosecutors in Atlanta issued indictments against two Vietnamese men and a Canadian citizen in connection with the 2011 Epsilon hack. The government alleged the defendants made more than $2 Million spamming more than one billion email addresses stolen from several email service providers (ESPs).
+Black Hat Hacker Turned Security Expert
+Currently, Sven Jaschan works as a security expert at a German company Securepoint.
+But he started out as a black-hat hacker. Sven was a minor (17-year-old) when he created NetSky worms, and Sasser computer worms.
+The teenager created it for fun; like a school project to impress his mates. But the worms wreaked havoc. The Sasser worm attacked recent versions of Microsoft Windows, such as Windows 2000, Windows Server 2003 and Windows XP, and caused computers to slow down, crash and reboot frequently.
+They arrested Jaschan after a fellow pupil at his vocational school tipped off Microsoft. The software giant had offered a $250,000 (£142,000) reward.
+Mr Jaschan was charged with disrupting public services and illegally altering data, offences that carry a maximum sentence of five years in prison, although Ms Kreutzfeld said that as a minor he faced a lesser penalty.
+Despite the fact that Mr Jaschan created mayhem with a cheap computer, his teachers said he was not particularly gifted at IT.
+Read More: SaS Creates New Division To Fight Fraud Globally With Ai And Advanced Analytics
+(6) 2015 – Anthem and The Biggest Healthcare Data Breach
+Estimated damage: 78.8 million consumer records exposed
+As per news reports, on February 4, 2015, Anthem, Inc. disclosed that criminal hackers had broken into its servers and potentially stolen over 37.5 million records that contained personally identifiable information from its servers. On February 24, Anthem raised the number to 78.8 million people whose personal information was affected.
+According to Anthem, Inc, the data breach extended into multiple brands it uses to market its healthcare plans, including, Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, and UniCare.
+In the wake of the breach, Anthem has offered free credit monitoring. News channels reported that the official statement blamed China for being responsible for this data breach.
+The compromised information contained names, birthdays, medical IDs, social security numbers, street addresses, e-mail addresses and employment information, including income data.
+Read More: Amazon Web Services (AWS) And Anitian Are Bringing Security Automation To The Cloud
+(7) 2017 Uber’s Cover-Up And A $100,000 Ransom
+Estimated damages: 50 million riders’ data exposed
+Uber suffered a large-scale cyberattack in October of 2016 that exposed the confidential data of 57 million customers and drivers, the company disclosed in a statement following a damning Bloomberg report. Uber’s faults included failing to disclose the hack, and covering it up as well.
+According to reports, the former CEO Travis Kalanick was informed of the attack just one month after it transpired, but it was not made public.
+To keep the matter quiet, the company allegedly paid the hackers a $100,000 ransom to delete the data and not publicize the breach.
+The hack included names, email addresses, and phone numbers of more than 50 million Uber riders worldwide, while more than 7 million Uber drivers had similar data exposed on top of driver’s license numbers for around 600,000 US drivers.
+(8) 2010 – Hacktivist Collective Pleads Guilty To PayPal Attack
+Thirteen people pleaded guilty to charges connected to the 2010 cyberattack on PayPal. Why did they target PayPal? Apparently, it was revenge for the eBay unit’s refusal to process payments for WikiLeaks.
+The hacktivist collective claimed responsibility for engineering the December 2010 distributed-denial-of-service attack in retaliation for the online payment processing company’s suspension of an account linked to WikiLeaks after the document-leaking organization released a large number of classified documents.
+WikiLeaks’ website declared that PayPal’s action ‘tried to economically strangle WikiLeaks.
+(9) 2008, 2015 – Heartland Payment Systems Struck Twice
+Estimated damages: 100 million cards and more than 650 financial services companies were compromised
+On January 20, 2009 Heartland announced that it had been “the victim of a security breach within its processing system in 2008”. The data stolen included the digital information encoded onto the magnetic stripe built into the backs of credit and debit cards. With this data, thieves can fashion counterfeit credit cards by imprinting the same stolen information onto fabricated cards.
+One estimate claimed 100 million cards and more than 650 financial services companies were compromised; at the time, it was characterized as the largest ever criminal breach of card data.
+In connection with the crime, an American hacker, Albert Gonzalez, was sentenced in March 2010 to 20 years in prison for his role in the hacking ring that broke into the Heartland computer systems.
+On May 1, 2009, Visa and Heartland issued a statement that Heartland successfully validated its compliance with PCI DSS and was returned to Visa’s list of PCI DSS Validated Service Providers. Heartland paid out roughly $140 million in fines and other penalties as a result.
+(10) Yahoo Data Put On Sale On The Darknet
+Estimated damage: 200 million Yahoo! accounts were presented for sale on the darknet
+Yahoo! reported two major data breaches of user account data to hackers during the second half of 2016. The first announced breach, reported in September 2016, had occurred sometime in late 2014, and affected over 500 million Yahoo! user accounts.  A separate data breach, occurring earlier around August 2013, was only reported in December 2016.
+Initially believed to have affected over 1 billion user accounts, Yahoo! later affirmed in October 2017 that all 3 billion of its user accounts were impacted. Specific details of material taken include names, email addresses, telephone numbers, encrypted or unencrypted security questions and answers, dates of birth, and hashed passwords. Further, Yahoo! reported that the late 2014 breach likely used manufactured web cookies to falsify login credentials, allowing hackers to gain access to any account without a password.
+The breaches impacted Verizon Communications’s July 2016 plans to acquire Yahoo! for about $4.8 billion, which resulted in a decrease of $350 Million in the final price, when the deal closed in June 2017.
+Read More: Interview With Adam Meyers, VP, Intelligence At CrowdStrike
+
+

@@ -1,0 +1,31 @@
+Google Pursues AI, Voice Recognition for EHR Workflows
+
+June 18, 2018
+
+By Jennifer Bresnick
+June 18, 2018 - Google is recruiting talent to help develop artificial intelligence and voice recognition tools to improve the clinical documentation process and streamline EHR workflows, according to a report by CNBC.
+The company appears to be making good on some tantalizing promises made at HIMSS18 earlier this year, where former Alphabet, Inc. Executive Chairman Eric Schmidt asked attendees to envision a healthcare encounter almost entirely driven by ambient computing and voice interactions.
+“I want you to imagine a mic and a speaker in a room with a patient and a clinician," Schmidt urged attendees of the conference, where AI and natural language processing were among the most popular topics.
+Dig Deeper
+EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+Chatbots May Be Healthcare’s Artificial Intelligence Entry Point
+AMA Urges “Thoughtfully Designed” Artificial Intelligence for Healthcare
+"This system listens to the conversation, disambiguates the voices, follows the consultation, and gives suggestions to the clinician in his or her earpiece.  It transcribes the situation so everyone has a record of the complete conversation, and then it fills out and navigates the EHR.”
+Schmidt called this system “Dr. Liz,” and predicted that such a system was no more than a few years away from becoming a reality.
+He may be right.
+CNBC states that internal job postings for the healthcare group at Google Brain are seeking out individuals who can bring Liz to life with voice recognition features that record documentation and build a “next-gen clinical visit experience.”
+The initiative may be a continuation or enhancement of an existing natural language processing and voice recognition research project running in conjunction with Stanford University, which has shown promising results when capturing everyday conversation in typical clinic environments.
+The study questions whether ambient computing devices like Google Home could take the place of human medical scribes that copy down patient-provider interactions, allowing clinicians to document more quickly – and perhaps even more accurately – than currently possible.
+“Good documentation helps create good clinical care by communicating a doctor's thinking, their concerns, and their plans to the rest of the team,” wrote Katherine Chou, Product Manager and Chung-Cheng Chiu, Software Engineer, Google Brain Team, when announcing a research paper on the topic in December of 2017.
+“Unfortunately, physicians routinely spend more time doing documentation than doing what they love most — caring for patients.”
+Automated speech recognition can help to solve this problem by drastically reducing the time required to sit in front of a keyboard and type clinical notes, or even hold a microphone to dictate documentation, the researchers posited.
+Two natural language processing models applied to recordings of typically patient-provider interactions achieved high degrees of accuracy and recall, setting up the possibility that the newest member of the clinical care team won’t have to be a human at all.
+Google’s ambient computing device, Google Home, is already a commercial success, battling with Amazon’s Alexa for supremacy in the consumer tech environment. 
+Both companies appear to be exploring how to turn these popular devices into innovative healthcare helpers – in May, CNBC shared a similar story on how Amazon is planning to leverage Alexa for chronic disease management and home care, citing an “internal document” as its source.
+Both companies have significant motivations to bring a much-desired capability to market.  Yet neither have, as of yet, achieved HIPAA compliance for their ambient computing devices – a must-have certification for any technology company that hopes to make its way into the clinical environment.
+Natural language processing and voice capabilities are in high demand among healthcare providers still suffering from EHR overload.  One recent survey from NEJM Catalyst found that 83 percent of clinicians view burnout as a problem at their organizations, and the majority of respondents said the issue is only getting worse.
+Chatbots, virtual assistants, ambient computing, and voice recognition tools may be a promising way out for healthcare providers who can no longer stand to look at their keyboards, but issues of privacy and security – not to mention accuracy and ease-of-use – may be a stumbling block for tech companies seeking to carve out a new niche.
+With Google, Amazon, and a number of other prominent names in pursuit of the ideal voice-activated workflow, however, healthcare providers may not have long to wait before Dr. Liz, or her equivalent, becomes a commonplace partner for patient care.
+Tagged Ambient computingArtificial Intelligence in HealthcareClinical DocumentationEHR WorkflowGoogleMachine LearningProvider burnout
+
+

@@ -1,0 +1,81 @@
+How Does the ONC Define HIE, Value-Based Care, Population Health?
+
+September 29, 2016
+
+By Jennifer Bresnick
+September 29, 2016 - The new ONC Health IT Playbook contains a wealth of resources and information for healthcare organizations in various stages of reform. 
+From the very beginning stages of negotiating an EHR purchase to the complex integration of multiple care sites into a risk-based financial arrangement, there’s something for everyone at every level in this interactive, online compendium of knowledge.
+One of the Playbook’s most important contributions may also be one of its most basic. 
+Throughout the website, the ONC provides straightforward definitions and clear explanations for some terms that have generated discussion and debate across the industry, including population health management, patient engagement, and value-based care.
+Organizations need to be on the same page with these concepts as the financial pressures to work collaboratively start to ramp up. 
+READ MORE: Why Value-Based Care Must Inspire Partnerships, Data Exchange
+As 2016 starts to wind down and the January 1, 2017 start date for MACRA looms large in the industry’s consciousness, it is critical to have a firm grasp on the key concepts that will help providers succeed in this new regulatory era.
+Here are some of the important definitions included in the Playbook, which may help guide providers towards the products, services, and improvement projects that best meet their needs.
+Care management
+The ONC describes care management as “a set of activities whose objectives are to assist patients and their support systems in managing medical and behavioral conditions to improve patients’ functional health status, enhance coordination of care, eliminate duplication of services, and reduce the need for expensive medical services.”
+It’s a broad definition, and overlaps significantly with aspects of population health management and patient engagement.  Like patient engagement, care management strategies focus on the individual and his or her needs. 
+READ MORE: National Health IT Week Brings Celebration, Educational Events
+But similar to population health management, providers must take a wider view of the community, its available healthcare resources, and the risk profiles of patients with similar challenges in order to understand how to best navigate the care continuum.
+Organizations involved in care management may include primary care providers, specialists, a local hospital, school systems, social workers, behavioral healthcare providers, and pharmacies.
+The ONC urges providers to harness the power of health IT tools to coordinate care and prevent patients from slipping through the gaps.  A learning guide accompanying the Playbook shares five initial strategic steps for using EHRs and population health management tools for care management, including:
+• Generate collaboration, consensus, and commitment for health IT projects that make coordinated care management a possibility
+• Identify health IT tools that meet the needs of the organization and its unique patient population without overwhelming existing workflows
+READ MORE: Will Risk-Based Population Health Management Take Off in 2017?
+• Select meaningful data elements from accessible data sources, establish data use agreements (DUAs), and develop secure exchange of health information across the community
+• Understand how care management tools may affect clinical workflows and implement change management strategies as necessary
+• Develop patient engagement strategies that encourage consumers to take charge of their own health, communicate with providers, and become partners in their own care
+Providers may also wish to learn more about practice transformation frameworks, such as the patient-centered medical home, as a way to direct their patient engagement and care coordination activities while leveraging health IT tools for maximum impact.
+Breaking Down the Basics of the Patient-Centered Medical Home
+How to Choose the Right Healthcare Big Data Analytics Tools
+Health information exchange
+Critical to care management – and a variety of other healthcare reform tasks – is the flow of health information across disparate systems. 
+Electronic health information exchange (HIE) “allows doctors, nurses, pharmacists, other health care providers and patients to access and securely share essential medical information electronically—which has the potential to improve the speed, quality, safety and cost of patient care,” the ONC Playbook says.
+There are three main types of HIE: directed exchange, query-based exchange, and consumer-mediated exchange. 
+Directed exchange is also known as the “push” model, where participants must actively send data to a known recipient. 
+Query-based exchange, or the “pull” model, allows a user to select from an available pool of data at their convenience or request a file from an external provider. 
+Consumer-mediated exchange provides patients with the ability to aggregate their data and control the release of information to organizations according to their own desires and needs.
+Automated messages and alerts are also considered part of the HIE sphere.  These may include admission, discharge, and transfer (ADT) notifications and electronic prescriptions sent between providers and pharmacy locations.
+The challenges of creating an open, interoperable network of data exchange based on any of these types of HIE are many, and roadblocks are unfortunately very familiar to the majority of healthcare stakeholders.
+A widespread lack of data standards is at the root of the industry’s interoperability problems, the ONC says, which makes it difficult to develop a collaborative, learning health system that can achieve the Triple Aim.
+Expanding health information exchange would help the industry meet a number of important objectives, including the development of patient-centered care, a reduction in repeated tests, which can be both expensive and invasive, the creation of a complete and accurate longitudinal health record for each individual, and the speedy deployment of best practices across the care continuum.
+The ONC’s Nationwide Interoperability Roadmap lays out a long-term plan to achieve these goals by overcoming specific technical and process-driven barriers, with the aim of enabling meaningful information exchange across the entire spectrum of healthcare stakeholders.
+Why HIE Data Analytics are Critical for Behavioral Healthcare
+Patient engagement
+“The ability of individuals to easily and securely access and use their health information electronically serves as one of the cornerstones of nationwide efforts to increase patient and family engagement and advance person-centered health,” the ONC says.
+Increased access to patient health data encourages involvement in care decisions, promotes financial responsibility, and allows patients and their families to become true partners in their own care.
+Patient engagement is so central to the Triple Aim that the ONC has developed a separate Patient Engagement Playbook to equip providers with the strategies they need to understand how to motivate their patients into taking responsibility for their health.
+Providers have a variety of health IT tools at their disposal to foster engagement, including patient portals, telehealth, and mHealth applications, but patients aren’t always keen to use them, the ONC points out.  Usability problems, forgetfulness, and a sense that available features do not provide sufficient value are all common barriers to sustained use.
+Healthcare organizations should take the following steps to increase enrollment rates and create a collaborative, patient-centered atmosphere:
+• Make registration simple and convenient for patients by choosing a user-friendly patient portal and offering automatic enrollment or help with signing up while the patient is in the clinic
+• Pick patient portals and communication tools that offer a variety of meaningful features, such as the ability to message providers, develop personal care plans, track interactions with multiple providers, integrate patient-generated health data, and make appointments and pay bills online
+• Allow patients to choose which caregivers can access their patient portal data or other electronic information to encourage collaborative care decisions
+• Consider a variety of communication methods, including text messaging, which may be convenient and cost-effective for patient populations without home internet access or those with lower computer literacy rates
+Patient engagement and patient portal adoption are currently required as part of the EHR Incentive Programs, and will also feature in MACRA starting in 2017.  Providers will need to learn how to communicate more effectively with patients and utilize patient data for quality improvements in order to succeed under the regulatory framework.
+How Will MACRA Impact Patient Engagement, Care Coordination?
+How Patient Health Data Access Drives Patient Engagement
+Population health management
+Stakeholders have proposed many different definitions for “population health management” since the term rose to prominence in 2003.  While some consider population health to be a data science initiative, driven by risk scores and predictions, others view it more as a mission statement or care philosophy centered on wellness and prevention.
+The ONC’s definition includes a little bit of both, meshing big data analytics with an emphasis on improving outcomes.  The Playbook provides the following description:
+Population health or public health is focused on the prevention, diagnosis and treatment of an entire population of people rather than one individual at a time. Population health seeks to improve the health outcomes of a large group by monitoring and identifying individual patients within that group.
+Typically, providers use population health management tools to aggregate and analyze data and provide a comprehensive and actionable clinical picture of each patient. Providers can track and, hopefully, improve clinical outcomes, and lower costs by using these tools and information.
+A successful population health management program requires internal process changes and external collaboration. 
+In order to leverage the big data analytics tools required to generate risk scores, stratify patients, and enable care coordination, providers must improve their data integrity, adjust workflows to include the use of point-of-care analytics and clinical decision support tools, and develop the ability to report to data registries and public health organizations.
+They must also forge partnerships with social services, public health departments, and community service providers that help patients cope with socioeconomic instabilities, as well as create pipelines to send and receive patient data to long-term care facilities, specialists, hospitals, behavioral health providers, and other members of the patient care team.
+Providers can learn more about working with population health and public health data by reviewing the Practical Playbook, a related resource provided by the ONC.
+Identifying Care Disparities for Population Health Management
+Value-based care
+Ultimately, all of the aforementioned initiatives should combine to produce value-based care.  Under a value-based reimbursement structure, providers are only paid for meeting certain quality or outcomes benchmarks, or for demonstrating continued improvement over a period of time.  Providers who achieve these goals may be eligible to receive incentive payments or a portion of the shared savings.
+Downside-risk contracting adds an additional element of danger for providers.  If an organization fails to meet its objectives, it may be required to pay the difference in cost or be subject to a negative payment adjustment.
+The ONC, along with other federal agencies, believes that the value-based approach will reduce unnecessary services, generate savings for all stakeholders, and encourage providers to focus on improving outcomes and keeping patients well for longer.
+“Shifting from traditional fee for service (FFS) payments to person focused payments (in which all or much of a person’s overall care or care for related conditions is encompassed within a single payment) is a particularly promising approach to creating and sustaining delivery systems that value quality, cost effectiveness, and patient engagement,” the Playbook says.
+“Health care payments should encourage improvements in care delivery and ensure patient centered care including care coordination, integration, and prevention and wellness is compensated appropriately.”
+CMS has been particularly enthusiastic about value-based care, and has created a number of programs, initiatives, and demonstration projects to prepare providers for the impact of pay-for-performance reimbursement.
+The Medicare Shared Savings Program (MSSP) is one of the most successful accountable care initiatives in the country, producing significant savings for the public payer.  Other value-based Medicare programs include bundled payment arrangements, readmissions penalty programs, and the Comprehensive Primary Care Plus option.
+“All alternative payment models (APM) and payment reforms that seek to deliver better care at lower cost share a common pathway for success: providers, payers, and others in the health care system must make fundamental changes in their day-to-day operations that improve quality and reduce the cost of health care,” the ONC writes.
+MACRA will play a large part in encouraging providers to implement those fundamental changes by incentivizing participation in alternative payment models and linking more payments to performance. 
+CMS recently announced additional flexibilities for the program, which will now include two pay-for-performance tracks and two more basic participation options for the first reporting year.  The “pick your own pace” approach will likely help CMS reach its goals of converting 50 percent of traditional payments to value-based reimbursements by 2018.
+What is Value-Based Care, What Does It Mean for Providers?
+Understanding the Value-Based Reimbursement Model Landscape
+Tagged Accountable CareHealth Information ExchangeMACRAmHealth and ConcussionsPopulation Health ManagementValue Based Reimbursement
+
+

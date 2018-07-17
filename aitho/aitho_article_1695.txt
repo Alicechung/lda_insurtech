@@ -1,0 +1,19 @@
+ExtremeLocation Empowers Retailers With Contextual Analytics To Engage In-Store Guests
+
+17 Jan 2018
+
+Extreme’s Technology Personalizes the Customer Experience, Optimize Store Layout and Increases Basket Size
+The ever-increasing number of consumers using mobile devices while shopping in-stores has challenged brick-and-mortar retailers to integrate mobile touchpoints along the journey to purchase. To assist retailers with their digital transformation to become the Store of the Future, Extreme Networks, Inc. introduced ExtremeLocation, a solution that allows retailers to identify, engage and provide personalized guest experiences in-store via shoppers’ mobile devices. By collecting contextual analytics from both Wi-Fi and BLE beacon technology, retailers and store associates can better understand guest demographics, shopping patterns, personal preferences and their exact location in stores, enabling store associates to better engage with customers face-to-face, improve experiences, optimize workflow and store layout and increase sales.
+ExtremeLocation’s cloud-hosted technology provides highly scalable, secure and granular location-based services allowing retailers to scale thousands of branches and connect to 100,000 access points to gather specific guest and associate analytics.
+Analytics include new or repeat visitors, the amount of time spent browsing in-store, heat maps, peak and off-peak hours, visitors to associates ratio per zone and customer location down to 1 to 2 meters.
+Using this information, store associates can better serve customer needs and retailers can optimize store layout, product placement and staffing while also setting predetermined role-based policies. Using the contextual campaign engine, retailers can enable personalized push notifications that engage in-store shoppers helping to increase basket size, or the quantity purchased during the store visit.
+Furthermore, with intuitive access and ownership of their own rich shopper analytics, brick-and-mortar retailers have the opportunity to enter the same playing field as pure online-only retailers by mapping online behavior to in-store activity. Therefore, retailers can bridge their online and in-store experiences, improving brand and customer loyalty while increasing in-store sales.
+Key Features:
+ExtremeLocation Multi-Tier Location Services: Retailers can identify the presence of mobile devices whether or not the devices are connected to Wi-Fi, locate devices based on zones of a store and position of the devices in the environment based on Wi-Fi triangulation.
+ExtremeWireless WiNG™: Integrated wireless infrastructure combines both BLE Bluetooth technology and Wi-Fi to connect guests and store associates in stores.
+Mobile Engagement with Contextual Campaign Engine: This contextual personalization engine gathers analytics and delivers comprehensive insights from BLE beacons that identify who, what, where and when a shopper enters a store to create a personalized experience.
+ExtremeGuest™: A comprehensive guest engagement and analytics solution that gathers guest demographic information to allow for personalized messaging.
+  Patrick Groot Nuelend
+Patrick Groot Nuelend, GM of Retail and Transportation & Logistics Market, Extreme Networks, Inc, “ExtremeLocation brings a new level of insight to our retail customers who are looking to break down the borders between online and in-store and leverage big data to deliver personalization. We’re excited to be able to bring a highly scalable solution to the market that combines the power of Wi-Fi and analytics to track shoppers’ behavior and empower store associates in understanding their shoppers, delivering real-time customer support and bringing shoppers closer to the checkout aisle.”
+
+

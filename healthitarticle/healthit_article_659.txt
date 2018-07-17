@@ -1,0 +1,52 @@
+Can Blockchain Give Healthcare Payers Better Analytical Insight?
+
+December 06, 2016
+
+By Jennifer Bresnick
+December 06, 2016 - Blockchain may be starting to settle in to the financial industry as a secure methodology for tracking and approving transactions, but its use cases for other sectors, including the healthcare market, are not yet quite as clear.
+Population health management, improved patient data access, and EHR data security are all on the table as possibilities, but operationalizing the decentralized verification technology for use in a fragmented, unstandardized, and competitive environment is not an easy ask for vendors or providers.
+However, payers could be the ones who will get the blockchain ball rolling in the healthcare sector, suggests a new report from Deloitte, which convened a number of academics, technology experts, and analytics from across the industry to discuss emerging issues in the field. 
+Because payers are already deeply involved in telling a patient’s story by collecting and coordinating data across multiple entities, they may also be in the best position to start using blockchain as the foundation for enhanced patient management, care coordination, and financial organization, the experts said.
+From fraud detection and beneficiary relationships to provider directories and data interoperability, the use cases within the payer community are coming into focus, and the adoption of blockchain technology may have significant implications for the rest of the care continuum, as well.
+READ MORE: Five Blockchain Use Cases for Healthcare Payers, Providers
+Improving back-end operational efficiencies
+“Information is an insurance company’s lifeblood,” the report states, but ensuring that this commodity is circulated securely and with the proper permissions to the right stakeholders is a difficult and complex proposition.  Current data sharing processes, many of which were designed and implemented decades ago, can be too slow to facilitate optimal care and keep members satisfied with their services.
+Back-office processes, such as claims processing and underwriting, could benefit from the blockchain approach to smart contracts, or pre-validated entities that are approved as members of a closed, secure community.
+“In the case of claims processing, as soon as services are rendered by a provider and the patient’s updated medical record is uploaded to and verified by the blockchain, smart contracts can initiate payment to the provider,” the report explains.
+The process could reduce the need to file and review each claim, which saves administrative firepower for the payer and for the provider’s claims processing team.
+READ MORE: By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+Smart contracts could also make it easier for payers to identify and connect to providers who meet criteria for inclusion in certain value-based care arrangements, which can be cumbersome and time-intensive to draft manually.
+“Smart contracts could automate these processes and decrease the time and resources needed to execute the terms and conditions [of value-based contracting],” the report says.  “And because smart contracts are decentralized and cannot be change, all parties can be confident that terms will be consistently executed.”
+Detecting and preventing fraudulent transactions
+Insurance fraud comes with an $80 billion annual price tag, but blockchain may be able to close some of the key loopholes used to deceive payers, such as withholding information about additional coverage or submitting false claims for services that were inappropriately rendered. 
+If a patient’s entire medical record is stored on the blockchain, complete with information about all her insurers, providers, services, and diagnoses, payers would have access to the full and unrestricted data required to make claims determinations and ensure that services match existing conditions.
+READ MORE: Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data Analytics
+Smart contracts could also verify the identity and validity of providers submitting claims, proactively monitor patterns in improper billing that could indicate intentional fraud, and use historical fraud patterns to develop predictive analytics and proactive monitoring tools to catch future miscreants.
+Implementing a blockchain-based fraud detection system would require time, effort, and very close collaboration between multiple stakeholders along the care continuum, the report acknowledges, including payers, government agencies, financial organizations, and providers themselves.
+Payers would need to have nearly unrestricted access to all available patient data and provider information, which could present privacy concerns, and all stakeholders would need to adopt blockchain technologies in order to be part of a seamless data community that would allow payers to communicate with providers, beneficiaries, and with each other.
+Maintaining reliable provider directories
+Payers could use also use the blockchain to solve a less controversial but similarly important problem: out of date directories of in-network providers.
+Consumer surveys have found that the provider directory is one of the most-used functions on a payer’s website, but incorrect information is common.  In addition to outdated addresses, hospital affiliations, and phone numbers, provider directories often include healthcare organizations that no longer accept a certain insurance, are not taking new patients, or have changed their affiliations.
+Payers are facing increasing regulatory pressure to keep their networks robust and their provider lists up to date, but currently mostly rely on providers themselves for correct information.
+Blockchain could be “an elegant solution” to this irritating problem for members by using its decentralized consensus protocols to verify changes quickly and easily, Deloitte says.
+For example, “if a provider changes networks or someone finds a mistake, they can initiate a correction, which can be automatically accepted or rejected by smart contracts based on other information in the blockchain (e.g., a recently rejected claim),” explains the report.
+Why Blockchain Technology Matters for Healthcare Security
+Not only will this solve the problem of keeping payers up to date, but it would also reduce the administrative burden for providers, who have to maintain multiple directories for each payer they accept.  By participating in a centralized directory blockchain, perhaps run by the government, providers would only have to change their information once.  The changes will then be disseminated to all payers, ensuring accuracy, timeliness, and consistency.
+A similar structure could be used for other important provider data, such as disciplinary records and retirement or death notices, Deloitte added, to improve transparency across the system.
+Developing near-real-time patient monitoring and an improved consumer experience
+Blockchain tools can also directly impact patients by helping to individualize services, secure information, share important data, and reduce red tape.
+“Establishing strong insurer/client relationships has been problematic,” the report admits, “given the dearth of touchpoints in the insurance product lifecycle and the sometimes difficult and stressful interactions surrounding health insurance claims.”
+As payers become more active participants in the patient management arena, however, those opportunities for engagement are multiplying.  Payers are becoming central players in population health management, wellness, and cost-cutting activities, which requires insurers to access more data, communicate more efficiently, and coordinate care across multiple entities.
+“Blockchain’s architecture positions it to more effectively integrate the rapidly growing number and types of health and wellness information sources than a more traditional, widely dispersed, and often siloed digital infrastructure,” the report asserts.
+“An interoperable blockchain medical record could be securely updated with diversified, lifestyle-related data points in near-real-time,” which could help to incentivize healthy, risk-reducing choices, tailor promotions for relevant services, like a local gym, or create flexible, dynamic policies that offer personalized services and coverage.
+Validated changes to the electronic health record or a new pattern of claims could also give payers insight into when to target outreach to individuals, Deloitte says.  Payers could proactively issue medication reminders, schedule routine services, or offer conversations with health coaches if patients begin to trend in a worrisome direction, adding immediate value to the payer-patient relationship.
+“Instead of interacting with their health insurance only when paying premiums or addressing illness or injury, consumers could develop a positive relationship with their carrier,” the report predicts. 
+“If exercise and staying active results in immediate and tangible benefits, such as discounts on premiums or reduced deductibles, consumers could associate health insurance with wellness and benefits instead of illness and medical expenses.”
+This change in perspective could improve consumer loyalty to a successful payer brand while helping providers and patients navigate the value-based care transition in a positive way.
+In order to reap the benefits of this approach, payers would have to carefully consider how or if they will penalize consumers for unhealthy choices, and how they will navigate the privacy issues associated with such close and omnipresent monitoring.
+Overall, the report urges payers to “be bold when it comes to blockchain” and spend some time brainstorming potential strategies, test cases, and standards for employing blockchain within the organization.
+“The greatest opportunities may extend beyond making incremental improvements in current business models to harnessing blockchain’s unique attributes to create entirely new types of interactive policies and launch innovative services that add value and grow the business,” the report concludes.
+Tagged Blockchain in HealthcareHealthcare InteroperabilityHealthcare PayersPopulation Health ManagementValue Based Care
+
+

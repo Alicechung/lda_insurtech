@@ -1,0 +1,34 @@
+AI, mHealth Apps Aid Clinical Trials, but Adoption is Slow
+
+February 20, 2018
+
+By Jessica Kent
+February 20, 2018 - Artificial intelligence (AI) and mHealth applications can accelerate clinical trial innovation by enhancing patient participation and optimizing efficiency, but organizational resistance and underdeveloped data analytics are barriers to stakeholder adoption, according to a Deloitte report.
+As consumer expectations have evolved, clinical trial participants have come to demand a more patient-friendly experience. However, the report points out that the industry has been slow to meet even the most basic expectations.
+Traveling to clinical sites is a major burden for clinical trial participants and can reduce their willingness and ability to participate. According to the report, 70 percent of potential participants in the US live more than two hours away from the nearest study center, making clinical trial involvement more inconvenient and less engaging.
+Virtual trials offer a solution to this problem, allowing patients to participate in studies from the comfort of their own homes and eliminating travel burdens.
+“Such trials leverage social media, e-consent, telemedicine, apps, and biosensors to simplify recruitment, communicate with patients, and support both passive and active data collection,” the report says.
+READ MORE: Artificial Intelligence Will Be Foundational for Health IT in 2018
+In addition, clinical trials that utilize text messaging and smartphone apps can continually engage patients throughout the process by reminding them to take their medications, recording their health data, and answering their questions in real time.   
+Traditional clinical trial recruitment approaches also fail to gather diverse and representative study populations. Recruitment approaches that utilize social media and AI can result in reaching more diverse patients and can also help sponsors better understand the effects of treatments on different subpopulations.
+Adding digital engagement and health IT tools to the traditional clinical trial recruitment and management process may help researchers overcome some of the inefficiencies of the current system. Standard periodic clinical assessments collect participant data infrequently, while repetitive manual and administrative tasks can reduce researchers’ productivity.
+Smartphone sensors, wearable devices, and mHealth apps can collect data more efficiently and produce more sensitive measurements, the report says. This can demonstrate the effect of therapy with shorter studies, fewer patients, and less time and money invested.
+Smartphone apps can also help capture data points that matter to patients, such as quality of life measurements or the ability to perform specific daily activities, which can help drive market success.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+In addition, tools driven by artificial intelligence methods, machine learning, or natural language processing, can be used to automate repetitive tasks, such as drafting standardized contracts or checking for missing or inconsistent patient data.
+Despite the positive potential impact of AI and mobile health apps on patient participation and operational efficiency, many organizations engaged in clinical trials remain hesitant to adopt them.
+“We found that the industry has been slow to digitize its clinical development processes, and that digital adoption varies widely,” the report stated.
+“Even the most advanced organizations are simply piloting several technologies in different areas of clinical development, focusing on piecemeal solutions or new tools to support the existing process.”
+All clinical trial sponsors agreed that questions about the safety and reliability of AI must be addressed before implementation. However, some said that their budgets are used for pilot innovations only, which can make it harder to convince clinical trial groups to fund the adoption of unproven AI.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+“Disciplined change management can help overcome many organizational and cultural barriers,” the report recommends. “Education about the new technologies and processes and showcasing how they impact outcomes and day-to-day activities could be part of the change management initiatives.”
+Insufficient IT infrastructure and low-level data analytics capabilities are other major areas of difficulty when it comes to adopting AI.
+Interviewees said that typically, there are 30 to 50 data platforms and clinical systems used in a single clinical trial entity. This fragmented infrastructure can do a poor job of facilitating data flow and may limit the efficient performance of clinical trial operations.
+The report also notes that although access to external data from EHRs and genomic databases is essential for clinical trials, this data is difficult to obtain.
+“Academic researchers, investigators, CROs, and sponsors need to share data efficiently with each other. We also heard of differences in patient data privacy rules across geographies, as well as a need for additional consent if patient data is to be used outside of the clinical trial at hand,” noted the report.
+To alleviate these issues, the report suggested stakeholders begin to develop data infrastructure and governance programs that will enable internal data to be analyzed across multiple studies. Clinical development leaders should also ensure that patient data can be used for secondary analysis and should define data-sharing agreements among researchers.
+The report asserts that going forward, utilizing AI and mobile health apps will be imperative to the success of the clinical trial industry.
+“Digital technologies can transform how companies approach clinical development by incorporating valuable insights from multiple sources of data, radically improving the patient experience, enhancing clinical trial productivity, and increasing the amount and quality of data collected in trials,” the report concludes.
+Tagged Artificial Intelligence in HealthcareHealthcare Big Data AnalyticsHealthcare Data GovernancemHealth AdoptionPatient Engagement Technology
+
+

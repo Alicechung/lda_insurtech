@@ -1,0 +1,40 @@
+Big Data, Machine Learning Can Revamp Provider Health IT Use
+
+October 02, 2017
+
+By Jennifer Bresnick
+October 02, 2017 - Big data doesn’t have to be the enemy of overwhelmed clinicians staring at their computer screens while griping about their electronic health records, says a pair of researchers from Harvard Medical School and Press Ganey in a NEJM perspective piece.
+Instead of treating health IT as one of the biggest problems facing the medical profession, providers, educators, researchers and developers should embrace the vast potential of machine learning and big data to deliver the high level of decision support necessary to tackle today’s complex diagnostic challenges.
+The availability of EHRs, coupled with older, sicker patients and the falling costs of advanced diagnostics like genetic testing, has produced an explosion of data tied to each individual that no single human mind can adequately process.
+“Every patient is now a ‘big data’ challenge, with vast amounts of information on past trajectories and current states,” write Ziad Obermeyer, MD, and Thomas H. Lee, MD.
+“It’s ironic that just when clinicians feel that there’s no time in their daily routines for thinking, the need for deep thinking is more urgent than ever,” the authors said, but “all this information strains our collective ability to think. So it’s not surprising that we get many of these decisions wrong.”
+READ MORE: 56% of Hospitals Lack Big Data Governance, Analytics Plans
+As a result of trying to cope with this tsunami of information without adequate health IT tools, physician burnout and backlash against health IT tools have become an epidemic. 
+Despite the growing emphasis on interoperability, coordinated care, and collaborative decision-making, many providers feel isolated and frustrated by their inability to master convoluted workflows, reduce the time required for data entry, or even keep eye contact with their patients in the consult room.
+“Overall, we provide far less benefit to our patients than we hope,” said Obermeyer and Lee. “These failures contribute to deep dissatisfaction and burnout among doctors and threaten the health care system’s financial sustainability.”
+Many stakeholders have pointed to machine learning as the solution for these big data woes, and health IT vendors are starting to invest heavily in making artificial intelligence a reality for EHR users.
+Algorithms that can automatically identify discrepancies in documentation, suggest medications, help read pathology slides or diagnose cancers, and flag patients at risk of developing sepsis are currently in development at organizations all over the country, promising enhanced decision support and smoother workflows.
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+These emerging tools are vital for helping providers adjust to the mindboggling intricacy of modern medicine, Lee and Obermeyer stress.
+“If a root cause of our challenges is complexity, the solutions are unlikely to be simple.  The first step toward a solution is acknowledging the profound mismatch between the human mind’s abilities and medicine’s complexity.”
+Delivering the best possible care will require human clinicians to supplement their natural abilities and hard-earned experiences with data science and the ability of machine learning to impartially process unfathomable volumes of nuanced data in minutes or hours.
+“Consider the challenge of reading electrocardiograms,” the authors said. “Doctors look for a handful of features to diagnose ischemia or rhythm disturbances — but can we ever truly ‘read’ the waveforms in a 10-second tracing, let alone the multiple-day recording of a Holter monitor? Algorithms, by contrast, can systematically analyze every heartbeat.”
+“There are early signs that such analyses can identify subtle microscopic variations linked to sudden cardiac death.  If validated, such algorithms could help us identify and treat the tens of thousands of Americans who might otherwise drop dead unexpectedly in any given year. And they could guide basic research on the mechanisms of newly discovered predictors.”
+READ MORE: Big Data, Health IT Innovation for Hospitals Risks Stagnation
+Machine learning tools that analyze human behaviors in addition to clinical data could also offer new insights into the events and inherent biases that lead to medical errors, care disparities, and unintentional misdiagnoses, the article adds.
+“Algorithms that learn from human decisions will also learn human mistakes, such as over-testing and over-diagnosis, failing to notice people who lack access to care, under-testing those who cannot pay, and mirroring race or gender biases.”
+“Noticing and undoing these problems requires a deep familiarity with clinical decisions and the data they produce — a reality that highlights the importance of viewing algorithms as thinking partners, rather than replacements, for doctors.”
+With machine learning – and eventually full-blown artificial intelligence – taking on the role of objective companion to human clinicians, providers may start to develop a liking for data-driven support to double-check their hypotheses and choices.
+“Ultimately, machine learning in medicine will be a team sport, like medicine itself,” Obermeyer and Lee predict.
+However, the healthcare industry will not be able to develop this degree of harmonious partnership with its big data unless stakeholders take a good hard look at how they educate providers to interact with and learn from their health IT tools.
+“The team will need some new players: clinicians trained in statistics and computer science, who can contribute meaningfully to algorithm development and evaluation,” the pair asserted
+Yet the current medical education system is simply not able to produce enough clinical experts with enough data savvy to actively enhance the usability and reliability of supportive algorithms.
+“Undergraduate premedical requirements are absurdly outdated. Medical education does little to train doctors in the data science, statistics, or behavioral science required to develop, evaluate, and apply algorithms in clinical practice.”
+Organizations like the American Medical Association are starting to address the lack of data science education in medical schools by launching initiatives to teach informatics, integrate EHRs into training programs, and promote a population health perspective on patient care.
+The “medical school of the future” will promote data science and informatics as core competencies, the AMA has said, and will focus more heavily on integrating EHR use into the early years of clinical training.
+These changes can’t come quickly enough for Obermeyer and Lee.  Time is of the essence, and new medical students must start embracing a data-driven approach to healthcare immediately if the industry is to successfully navigate through the big data era.
+“The integration of data science and medicine is not as far away as it may seem: cell biology and genetics, once also foreign to medicine, are now at the core of medical research, and medical education has made all doctors into informed consumers of these fields,” the authors conclude.
+“If we lay the groundwork today, 21st-century clinicians can have the tools they need to process data, make decisions, and master the complexity of 21st-century patients.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR UsabilityMachine LearningMedical Research
+
+

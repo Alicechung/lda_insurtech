@@ -1,0 +1,40 @@
+Can Open Source EHRs Offer a New Path for Health IT Usability?
+
+March 28, 2017
+
+By Jennifer Bresnick
+March 28, 2017 - More than half a decade after the EHR Incentive Programs sparked a frenzied rush to purchase and implement certified health IT tools, the electronic health record market has largely coalesced around a core set of commercial vendors. 
+The names of the industry’s leading lights – Cerner, Epic, Allscripts, MEDITECH, NextGen, athenahealth – have become very familiar to anyone with an interest in data and documentation. 
+When searching for a new EHR, a population health management solution, or a big data analytics toolset, providers have a lot of decisions to make.  Cloud or server-based?  CommonWell or Carequality?  API-compatible or largely proprietary?
+No matter what the best option for a particular organization, providers have been largely turning to one of these developers, or just a handful of their competitors, for trusted and tested products that meet ONC standards for compliance with regulatory programs.
+But as interoperability becomes more and more important to providers looking for an easy transition to value-based care, the big names are struggling to provide the flexibility and health information exchange capabilities that their customers are demanding. 
+READ MORE: ONC Boosts Oversight to Fix EHR Usability, Patient Safety Woes
+Dissatisfaction with the status quo has been leading a small group of intrepid developers to pursue a different EHR option: free and open source software (F/OSS) that don’t tie users in any particular established health IT ecosystem.
+In an article published in JMIR Medical Informatics, researchers from the University of California-Davis decided to explore the small but intriguing world of open source EHRs, which may fit very neatly into the growing interest in application programming interfaces, FHIR, and other open data standards that encourage customized mix-and-match health IT development without the historical pitfalls of proprietary systems.
+Using data from 2014, the researchers identified 54 open source projects that met the HHS definition of an electronic health record.  At the time, four of those packages had achieved Certified EHR Technology status from the ONC. 
+Globally, the projects included in the sample had been downloaded more than 200,000 times, although the number of downloads does not necessarily equate to installations and the rate of active use.
+Open source EHRs have several advantages over traditional commercial systems, writes corresponding author Mona Alsaffar, MSc, and her team. 
+READ MORE: Can Providers Overcome Vendor Inattention to EHR Usability?
+Perhaps most importantly for many providers, they are often offered completely free of charge and without ongoing licensing costs, which may eliminate a major pain point for organizations running on tight budgets.
+They are also built to be customized, which could reduce certain frustrations with EHR usability and optimization that contribute to provider burnout, dangerous workarounds, and productivity losses. 
+Organizations may be able to make adjustments to F/OSS EHRs more quickly than they could when working with a commercial vendor, the article suggests, since open source developers are generally very willing to be transparent about opportunities for improvements.
+An accompanying survey of F/OSS developers found that many members of the open source community are altruistically motivated.
+Forty-seven percent of developers engaged in their work due to strong beliefs in the underlying ideals of freely modifiable software, which may make it easier for users and architects to collaborate on improvements without traditional business motivations.
+READ MORE: Bridging the Gap Between Big Data Science, Health IT Usability
+“A common belief across the open source community and often referred to as ‘Linus Law’ states ‘given enough eyeballs, all bugs are shallow,’” Alsaffar states.
+“Unlike organizations who are dependent on a commercial vendor’s prioritization of features and software release schedules, those implementing F/OSS would have complete control over the timing of customizations and deployment, allowing them to choose what functionality is available and when it will be available to their users.”
+Of course, this approach would be untenable for organizations that do not have extensive in-house development teams, and a significant number of providers fall into that category. 
+In the 2017 HIMSS Leadership and Workforce Survey, less than 40 percent of respondents said they were fully staffed for their health IT needs, even when working with commercial vendors to some degree on optimization and usability.
+Sustainability of these efforts is also a potential challenge, Alsaffar and her team pointed out. 
+“Functional EHR systems are complex with many required subsystems and modules, requiring robust development and change management processes in order to achieve high-quality ‘production-grade’ software for the mission-critical environment of a hospital or clinic.”
+Providers adopting open source tools run the risk of being stranded if the developers behind the project move on to other things.  The majority of EHRs in the study were in varying stages of development, with only two out of the 54 projects classified as “mature.”
+Just over a third of software architects received no compensation for their efforts, and 41 percent worked on F/OSS EHRs outside of their traditional work hours, which may make their work vulnerable to falling by the wayside.
+And providers who may hope that their open source EHRs will provide better clinical usability may be somewhat disappointed to learn that the majority of F/OSS developers are not very experienced in the healthcare field.  Only a quarter of respondents to the survey were healthcare practitioners.  Forty-five percent do not work in the industry at all.
+“Being a developer outside of the health care field can be a core problem for the development of usable clinical software with a high degree of functionality,” Alsaffar said. “This may serve to explain why open source EHRs have limited functionality today.”
+When compared to the 63 percent of commercial EHR vendors who do not meet recommended usability and testing guidelines, however, open source EHRs do not seem to be too different than other options currently available in the marketplace, and their highly modifiable nature could help to overcome some of these shortfalls.
+Overall, open source EHRs have a low rate of adoption and face an uphill battle to break into the established health IT marketplace, but they do present a number of interesting opportunities for providers who wish to take the road less traveled.
+Even though only a small number of F/OSS products have achieved ONC certification, the fact that it is possible to become certified without the backing of a traditional vendor venture could give hope to small developers looking to take an open source approach to new EHR options.
+In an environment where data standards, interoperability, and APIs have become all the rage, open source software could still rise to a certain level of prominence as providers continue their ongoing quest for the most effective EHRs that deliver a high degree of usability, customization, and opportunities for collaborative improvement.
+Tagged Analytics InfrastructureCertified EHR TechnologyEHR ImplementationEHR OptimizationEHR UsabilityHealthcare Data Standards
+
+

@@ -1,0 +1,28 @@
+ONC Targets Health Data Interoperability with New “Tech Lab”
+
+February 23, 2016
+
+By Jennifer Bresnick
+February 23, 2016 - Following last year’s release of its Nationwide Interoperability Roadmap, the Office of the National Coordinator is wasting no time with its efforts to improve connectivity and the use of data standards throughout the healthcare industry.
+In a new blog post on Health IT Buzz, Steven Posnack, MD, MHS, Director of the ONC’s Office of Standards and Technology, announced the creation of the ONC Tech Lab, which will work hand-in-hand with the ONC Health IT Certification Program to encourage health data interoperability and guide the industry’s long-term strategy towards seamless health information exchange.
+“The health IT landscape has changed considerably since the HITECH Act,” Posnack explains. “The Nationwide Interoperability Roadmap is now front and center and we’re in a period of transition prompted by MACRA. We have also seen exciting and impactful industry work take shape like the development of HL7 FHIR and the Argonaut Project.
+“To continue to ensure that our work is aligned and connected to these changes, we will be working with you to adapt and evolve ONC’s standards and technology work processes.”
+The Tech Lab will help this process by laying “the operational groundwork within ONC necessary to implement the Interoperability Roadmap,” Posnack says. 
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+In addition to creating a set of guiding principles for the industry’s ongoing quest to create the learning health system, the Roadmap identifies several short-term goals for improving interoperability and data exchange across the care continuum.
+These goals include the establishment of a coordinated governance framework for interoperability, the ongoing improvement of standards and implementation guidance for the Common Clinical Data Set, the development of more detailed privacy and security requirements, and the promotion of incentives for sharing health data using industry-wide data standards.
+The Lab will work directly with standards development organizations (SDOs) and other stakeholders to continue to improve the ONC’s ability to conduct industry discussions and provide meaningful feedback on these and other emerging initiatives.
+As federal regulators seek to streamline and simplify the process of sharing key patient data across provider lines, the new division will focus on four key areas of health data interoperability development:
+Standards coordination, including conversations with SDOs and other industry voices about gaps in current health data standards and opportunities to improve existing frameworks.  The Tech Lab will also “be looking to connect new program, policy, and business requirements to technical standards and infrastructure needs,” Posnack adds.
+READ MORE: CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+Testing and utilities work that supports the ONC Health IT Certification Program and Standards Implementation and Testing Environment.  The ONC will continue to develop utilities for vendors and innovators seeking to improve their testing abilities and create additional testing resources and opportunities.
+The support and implementation of data standards pilot programs, with a focus on those identified in the Interoperability Standards Advisory.  Posnack writes that the Tech Lab will “look to stimulate cooperation and creativity among the active pilot community that exists nationwide in a way that brings greater visibility to all of the inspiring interoperability projects taking place.”
+Innovation and ongoing development in the start-up arena.  The ONC has previously hosted several innovation challenge contests, and will continue to encourage industry activities that bring new ideas and solutions to the table.
+“As we look to the future, it’s important to recognize the success of past efforts and how this new approach affects current activities,” Posnack said. “The Standards and Interoperability Framework (S&I Framework), kicked-off over five years ago, served as the forum that developed Direct (and associated specifications), helped accelerate the creation of the Consolidated CDA, and created a new suite of laboratory data exchange implementation guides (among many other initiatives).”
+“The S&I Framework’s operations will conclude and wind down over the coming months as we move to this next phase of our interoperability work. For continuity purposes, the relevant activities of any remaining ONC-supported “S&I Framework initiatives” will be completed under an ONC Tech Lab focus area.”
+READ MORE: “Basic Science” of Healthcare Big Data Analytics Still Needs Work
+Over the next few weeks, the ONC will describe the Tech Lab’s role in more detail through a series of similar blog posts, Posnack concluded.  The posts will dive into each of the Lab’s four areas of focus and outline some of the ONC’s plans for the future.
+“Working together, we have made significant progress the past few years,” he said. “Yet, we all know there is more work to do. With the ONC Tech Lab helping to focus our work, we plan to be your partner in shaping the future.”
+Tagged Analytics InfrastructureHealthcare Data GovernanceHealthcare Data StandardsInteroperability
+
+

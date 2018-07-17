@@ -1,0 +1,34 @@
+Can Population Health Management Succeed Without IT Support?
+
+December 17, 2015
+
+By Jennifer Bresnick
+December 17, 2015 - Healthcare organizations are rapidly embracing the principles behind coordinated population health management, but few providers who claim to have such programs in place have adopted a dedicated health IT solution to help them identify, treat, and communicate with patients, according to a new survey by HIMSS Analytics.
+While 67 percent of participating organizations said they are actively engaged in population health management, only a quarter of those have a vendor-provided technology product in place to help them meet their goals.
+As population health management becomes more dependent on big data analytics and more deeply entwined with value-based reimbursement arrangements, can healthcare providers succeed with detailed, large-scale patient management without a tailored tool set?
+The survey of nearly 200 healthcare decision-makers found that population health management has become a mainstream concept, with the majority of organizations participating in some form of comprehensive health improvement program. 
+Eighty-three percent of organizations who said they are performing population health management have focused on chronic disease management strategies, while a similar number offer general preventative care and wellness services to their patients.
+READ MORE: Chronic Care Management Improves Pediatric Outcomes by 20%
+But they are mostly going it alone.  Just 11 percent of respondents have enlisted the aid of a population health consultant to help strategize or implement programs, and only a third of providers aiming to engage in population health management at some point in the future would consider bringing external experts on board to bolster their efforts. 
+The report brief adds that there is a “high level of uncertainty” around purchasing a vendor solution for upcoming efforts.
+The survey participants skewed heavily towards smaller hospitals or integrated delivery networks (IDN) with fewer than fifty beds, and those serving fewer than 50,000 patients, which may explain some of the results. 
+Fifty percent of the responding organizations said that less than ten percent of their patients are currently covered under risk-based contracts – two thirds of those organizations have less than one percent of their patients in accountable care arrangements.
+With little direct financial incentive to adopt sophisticated – and expensive – population health management solutions, it may come as little surprise that smaller organizations are putting dedicated population health purchases and consultant contracts on hold for the moment. 
+READ MORE: AHA Debuts Cloud-Based Cardiac Precision Medicine Data Platform
+Providers may also feel that a stand-alone population health package simply isn’t worth the investment, especially as EHR systems start to bake patient management tools into an integrated environment. 
+In September, a poll by Black Book Research found that 84 percent of smaller primary care providers looking into EHR replacements are targeting offerings that include big data analytics and population health management capabilities.  Nearly 20 percent of larger ambulatory providers would be willing to swap out their EHRs for something new if it meant getting access to population health and patient engagement tool sets.
+The survey results may also be subject to the industry’s inability to agree on a single definition of “population health management.” 
+While HIMSS Analytics defines the term as “improving the health outcomes for a defined population in a specific geographic area,” other stakeholders have described “population health” as everything from a generalized strategic vision for healthcare improvement to the nuts-and-bolts data analytics processes involved in identifying high-risk patients and coordinating care.
+Of the 60 percent of organizations who are not using a consultant for their population health efforts, the majority seem to view the task as an operational planning initiative instead of a clinical undertaking. 
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+“Their areas of focus are also mixed as some [population health initiatives] are being used to create a comprehensive program roadmap, operational goals and metrics while others are focusing on accountable care and clinically integrated network development,” the study says.
+Advanced risk stratification and predictive analytics are nearly impossible without specialized health IT tools, but providers don’t necessarily need a software package to brainstorm strategic objectives or develop the business partnerships required to join an accountable care organization or expand an IDN.
+The question of whether or not population health management can be successful without large-scale investments in data warehousing and analytics may be a false one, since it largely depends on which half of the population health management world is being addressed.
+The HIMSS Analytics survey found that eighty percent of organizations with more than 100 beds are currently undertaking a broad variety of population health management initiatives, which likely include both strategic planning and patient-centered analytics work. 
+Other recent data from the industry certainly seems to show that providers are well aware of the significant impact that health IT can make on patient management programs, and that they are willing to invest in technological tools that make sense for their goals.
+A research report from Tractica this month predicts that the market for population health tools is likely to double by the end of the decade, as organizations like the American Medical Association encourage providers to integrate big data analytics into their patient management plans.
+So for the providers who think of population health management as a data-driven push to use clinical pattern recognition and risk stratification as a means of delivering preventative care, a dedicated health IT package or EHR-based tools may be essential for success.  For those who are currently in the planning phases or those focusing on business objectives to grow their care continuums, a firm handshake and compelling PowerPoint presentation may suffice.
+As the healthcare industry moves deeper into accountable care and value-based reimbursement, however, the definition of population health management may shift again towards incorporating both sides of the coin.  Adding a financial component to the need to deliver quality preventative care and chronic disease management will require a more data-heavy approach to ensuring that high-risk patients don’t slip through the cracks, and reliance on health IT for underlying support will undoubtedly increase accordingly.
+Tagged Analytics InfrastructureChronic Disease ManagementPopulation Health ManagementQuality Of Care
+
+

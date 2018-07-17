@@ -1,0 +1,35 @@
+SWIFT Extends gpi to All Cross-Border Payments
+
+June 27, 2018
+
+The SWIFT Community is to universally adopt the gpi service, in a move which will see all 10,000 banks on SWIFT’s global network use the global payments innovation service (gpi) for cross-border payment.
+
+ The decision to move to universal gpi adoption has been taken against the backdrop of the rapid success and unexpectedly fast adoption rate of gpi to date. The service has already been taken up and is being promoted by 49 of the world’s top 50 banks. With the full support of the SWIFT board, representing the entire SWIFT community, this decision will drive global take-up of gpi, so that by the end of 2020 every bank on the network is able to offer same day end-to-end delivery with full tracking and transparency, throughout the payment chain.
+
+ Yawar Shah, Chairman of SWIFT said: “The gpi service has been designed, developed and deployed in record time, and is already radically transforming the cross-border payments experience. Unmatched in scale, no other service has been able to safely deliver hundreds of billions of dollars in payments around the world in minutes or seconds. The time is now right to accelerate the adoption of gpi, ensuring that all banks on the network adopt it. The Board has therefore endorsed the network-wide implementation of gpi.”
+
+ Luc Meurant, SWIFT’s Chief Marketing Officer, said: “With gpi we are rolling out an ambitious global programme involving all the banks, currencies, and routes on the network, to ensure global adoption by end 2020. This move to accelerate adoption and extend the dramatic improvements being afforded by gpi will be transformative for the industry and its end customers.”
+
+ To assist the smaller or more occasional users, which collectively account for a very small percentage of cross-border payments, SWIFT will introduce and support these users in implementing a basic gpi service, enabling all payments to and from these banks to receive full gpi treatment throughout the payment chain.
+
+ Launched in early 2017, gpi already accounts for 25% of SWIFT cross-border payment traffic. More than 100 billion USD in SWIFT gpi messages is sent every day, enabling payments to be credited to end beneficiaries within minutes – many within seconds.
+
+ Since going live, SWIFT gpi has seen rapid adoption with more than 180 banks already signed up to the gpi service. The rapid and widespread adoption of SWIFT gpi has been driven by end-customer demand for a faster, more transparent cross-border payments service, improved remittance information and predictability.
+
+ Nearly 50% of gpi payments are completed and credited to end beneficiaries’ accounts in less than 30 minutes, enabling banks to deliver a much enhanced service to their customers. To date, 35 million gpi payments have been processed, and hundreds of thousands of payments are being sent daily across 450 country corridors, in more than 100 currencies. In major corridors, such as USA-China, gpi already accounts for nearly 50% of payment traffic.
+
+ About gpi
+
+ The SWIFT global payments innovation (SWIFT gpi) is the largest change in cross-border payments over the last 30 years and is the new standard. SWIFT gpi dramatically improves the customer experience in cross-border payments by increasing their speed, transparency and end-to-end tracking. Hundreds of thousands of cross-border payments are today being sent using the new gpi standard, and payments are made quickly, typically within minutes, even seconds. SWIFT gpi allows corporates to receive an enhanced payments service, with the following key features:
+
+ As an initiative, SWIFT gpi engages the global banking industry and fintech communities to innovate in the area of cross-border payments while reducing their back-office costs. Since its launch in January 2017, gpi has dramatically improved the cross-border payments experience for corporates in over 450 country corridors. Key features of the gpi service include enhanced business rules and a secure tracking database in the cloud accessible via APIs. Thanks to SWIFT gpi, corporates can grow their international business, improve supplier relationships, and achieve greater treasury efficiencies.
+
+ Overall, nearly 50% of SWIFT gpi payments are credited to end beneficiaries within 30 minutes, and almost 100% of payments within 24 hours. Those that take longer typically involve more complex foreign exchange conversions, compliance checks or regulatory authorisations. In addition to the more than 180 financial institutions that have adopted gpi, more than 55 payment market infrastructures are already exchanging gpi payments, enabling domestic exchange and tracking. Payment market infrastructures have a critical role to play in facilitating the end-to-end tracking of cross-border payments because as soon as international payments hit the destination country, they are typically cleared through local payment infrastructures.
+
+ About SWIFT
+
+ SWIFT is a global member owned cooperative and a provider of secure financial messaging services. They provide their community with a platform for messaging and standards for communicating, and offer products and services to facilitate access and integration, identification, analysis and regulatory compliance. Their messaging platform, products and services connect more than 11,000 banking and securities organisations, market infrastructures and corporate customers in more than 200 countries and territories. While SWIFT does not hold funds or manage accounts on behalf of customers, they enable their global community of users to communicate securely, exchanging standardised financial messages in a reliable way, thereby supporting global and local financial flows, as well as trade and commerce all around the world. As their trusted provider, SWIFT relentlessly pursue operational excellence; support their community in addressing cyber threats; and continually seek ways to lower costs, reduce risks and eliminate operational inefficiencies.
+
+ SWIFT products and services support their community’s access and integration, business intelligence, reference data and financial crime compliance needs. SWIFT also brings the financial community together – at global, regional and local levels – to shape market practice, define standards and debate issues of mutual interest or concern. SWIFT’s strategic five year plan, SWIFT2020, challenges SWIFT to continue investing in the security, reliability and growth of its core messaging platform, while making additional investments in existing services and delivering new and innovative solutions. Headquartered in Belgium, SWIFT’s international governance and oversight reinforces the neutral, global character of its cooperative structure. SWIFT’s global office network ensures an active presence in all the major financial centres.
+
+

@@ -1,0 +1,32 @@
+40% of CIOs to Deploy a Healthcare Analytics Platform in 2018
+
+December 22, 2017
+
+By Jessica Kent
+December 22, 2017 - Forty percent of hospital CIOs plan to make launching of enterprise healthcare analytics platforms a top priority in 2018, according to a Spok survey of CHIME members.
+The survey results indicate that CIOs continue to face widespread technological challenges. Nearly two-thirds of respondents (62%) listed physician health IT adoption and buy-in as a top priority over the next 18 months, followed by optimizing EHR integration with other hospital systems (38%).
+In addition to improving EHR integration with other hospitals, the Spok survey shows that CIOs hope to enhance EHR interoperability within their organizations. Seventy-one percent said they will base communications-related investments on EHR integration.
+Dig Deeper
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+Big Data Analytics, Machine Learning Support 2017 Most Wired Hospitals
+Sixty-two percent said they will judge investments based on ease of use for end users, while 57 percent said meeting clinician needs will be most important.
+The bulk of the findings centered on implementing mobile strategies. Promoting the use of secure messaging and communications among care teams, notifying clinicians of critical alerts from monitoring systems, and indicating the availability of critical lab results were three factors reported as driving mobile technology selections.
+As a whole, the findings emphasize a need for efficient health data exchange and the ability to share actionable information with members of the care team.
+As executives look to improve the patient experience and keep pace with the industry-wide shift to value-based reimbursement, implementing new technology will remain an increasingly necessary focal point. But even as healthcare becomes more digitized, industry leaders are struggling with big data.
+According to a 2017 poll from ISACA, a non-profit organization focused on IT governance,  only 53 percent of IT professionals believe their executives have a firm understanding of big data analytics.
+Healthcare CIOs working to develop data analytics platforms in the coming year will help to ensure that patient information is accurate, timely, and complete. Patient safety depends on organizations having access to correct, up-to-date data; without it, clinicians may make critical mistakes.
+Having a data governance plan in place can also simplify EHR use, another major area of focus for CIOs in 2018.
+EHR systems are perhaps the most important resource clinicians have when it comes to retrieving patient information, and CIOs are hoping to optimize them both within and outside of their organizations.
+Gathering and using patient-generated health data (PGHD) for consumer experience projects and population health initiatives is also high on the to-do list for CIOs in the new year.
+A poll from the Center for Connected Medicine found that 33 percent of respondents will work to integrate PGHD into the EHR in 2018. Eighty-eight percent of respondents said they believe that patient portal data will provide the most value for their organizations.
+The poll also showed that remote patient monitoring is in high demand among patients. As a result, organizations are planning to implement telehealth programs and increase patient access to care in the upcoming year.
+However, the Spok survey indicated that physician adoption might be a challenge when putting this new technology into effect.
+The majority of CIOs said that getting physicians to adopt health IT initiatives will be their top priority.
+Additionally, more than half of respondents said that physician adoption and buy-in is a top challenge when it comes to secure texting, a strategy that will make healthcare much more available to patients.
+Forty-eight percent cite funding as a top challenge to secure texting, a problem many organizations face when implementing new technological initiatives.
+Many CIOs consider physician acceptance and enhanced use of technology to be a major evaluation of how much they have accomplished: sixty-seven percent of CIOs said they will measure success in 2018 by physician adoption rates and increased user satisfaction.
+As Spok notes, the top priorities of CIOs in the next year center around keeping up with advancing technologies and ensuring that physicians are on board. In doing so, they hope to grow their organizations while improving the patient experience.
+Tagged EHR Data AnalyticsEHR IntegrationEHR InteroperabilityHealth Data ExchangeHealthcare Big Data AnalyticsMobile Health Technology
+
+

@@ -1,0 +1,40 @@
+CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+
+June 29, 2017
+
+By Jennifer Bresnick
+June 29, 2017 - Oncology has always required providers to dig deeply into big data about their patients in order to develop treatment plans for some of the deadliest modern diseases.
+The explosion of interest in precision medicine, the easier availability of genetic testing, and a new generation of breakthrough pharmaceutical therapies have only served to deepen the data pool, leaving oncologists with a wealth of new information that can both helpful and daunting.
+For Clifford A. Hudis, MD, FACP, FASCO, CEO of the American Society of Clinical Oncology (ASCO), the mission is to help oncologists mine these massive big data assets for insights into how to better treat patients in the clinic.  
+Clifford A. Hudis, MD, FACP, FASCO
+Source: Xtelligent Media
+As Chairman of the Board of Governors for CancerLinQ, Hudis has been overseeing the development, expansion, and integration of CancerLinQ into dozens of oncology practices across the country. 
+CancerLinQ is a big data analytics platform that collects EHR data from participating users and returns clinical insights at the point of care.  Users can compare their patient cohorts to groups of individuals at similar institutions, keep an eye on how they are performing against standardized quality metrics, and monitor trends in their patient populations.
+READ MORE: Precision Medicine, Population Health Share Strategies and Goals
+Access to this data doesn’t just make it easier for oncologists to adhere to best practices and make informed choices with their patients.  It also allows users to understand how certain therapies perform in the real world among the full spectrum of patients – a departure from the scrubbed and controlled data available from standardized clinical trials.
+“There is a gap between the kinds of patients who are typically enrolled in drug approval studies and the kinds of patients that cancer doctors ultimately treat using those drugs,” Hudis told HealthITAnalytics.com. 
+“For example, a new drug might be developed for small cell lung cancer using a trial that includes people who are typically otherwise healthy.  They won’t have uncontrolled blood pressure.  They won’t have had a recent heart attack.  There are all sorts of ways in which they will be selected to be a little healthier than the real population, so the trial only produces an estimate of benefit that is idealized.”
+Clinical trials do not intentionally mislead or misinform providers, Hudis strongly stressed, but they do tend to produce results that are only truly applicable to the same subset of patients who match those included in the study. 
+“When you’re in the clinic and it’s a much less controlled environment, the new treatment may still be significantly better than previous options, but it might not work as well or as long as described in that healthier trial group,” he explained.  “Maybe there are unanticipated toxicities in certain kinds of patients.  There is no possible way a clinical trial can discover all of the potential caveats within the current system.”
+READ MORE: How Precision Medicine Will Shift from Research to Clinical Care
+CancerLinQ currently contains data on more than half a million patients, many of whom do not fit the typical clinical trial mold, he said.  This “unfiltered” patient cohort allows CancerLinQ users to explore many different types of cancer and their outcomes, although Hudis cautions against thinking that 500,000 patients is as large of a number as it seems.
+“Millions of records doesn’t mean millions of cases of each type of cancer,” he pointed out.  “There are so many different ways this disease manifests itself. Even with a very large number of people involved, you end up with relatively modest data sets when you break it down into specific types of cancer.”
+“The challenge is to gather data from the largest cohorts that we can in order to enable our users to start benchmarking their patients against really solid data from a broad range of historical experiences.”
+CancerLinQ’s recently announced collaboration with the National Cancer Institute (NCI) will further this ambition by giving CancerLinQ users access to data from the NCI’s Surveillance, Epidemiology, and End Results (SEER) program.
+SEER is a combination of data from 18 cancer registries that cover approximately 30 percent of the US population.  The data includes information on patient demographics, diagnoses, tumor morphology and state at diagnosis, treatment data, lab data, and follow-up records.
+READ MORE: Precision Medicine Sparks New Conversations about Patient Data
+“This is a key data source for cancer outcomes and survival rates in the United States,” Hudis stated. 
+“In the short term, we’re bringing in the data to CancerLinQ and offering access to it using our custom tools so that our users can start to perform analytics.  It allows them to compare the SEER data, indirectly, to what they’re experiencing at their sites.”
+Long-term plans include allowing CancerLinQ oncologists to upload data back to SEER, he continued.
+“Making this a two-way street would be a great example of collaborating to enhance everyone’s knowledge,” said Hudis.  “That is still somewhere in the future, however, but we are very excited about what we will be able to do with access to this data even in the near term.”
+A separate partnership with the FDA, announced in tandem with the NCI collaboration, will also allow for the development of deeper big data insights.
+“In the 21st Century Cures Act, there is an explicit requirement for the FDA to explore the use of real-world evidence to extend medication use beyond the labels for primary approval,” explained Hudis.  “We are one of several data sources they are using to explore these issues.  We’re using our data and our network to help them gain access to more data than they would otherwise see.”
+CancerLinQ’s access to patient populations that are often excluded from clinical trials makes it the ideal resource for such a project. 
+“Oncologists traditionally use many drugs off label as a matter of expected routine,” said Hudis.  “There is often some published research available that may not be reflected in the label to help guide the use of these therapies.  And the FDA does expect doctors to continue to refine and improve their use of these drug based on an evolving understanding of their impact.”
+“It is a misunderstanding on the part of many people that the FDA label is a restriction on use. It is not. But we would like to help the FDA create more accurate labels that include as much pertinent information as possible so physicians have more of the resources they need to make good decisions.”
+Equipping these federal organizations with such a wealth of real-world evidence for cancer care will open new possibilities for gathering important insights, enhancing research, and producing better outcomes for patients, Hudis said.
+“We want to make sure that society is able to benefit from the knowledge that is often hidden away in EHRs and lab reports and never included in clinical trials,” he said.  “And we want to make sure that regulators can do their jobs as well as possible when it comes to labeling and making recommendations.”
+“The more knowledge we have as a health system, the more we will be able to provide the highest quality care to patients who often have very few other options.”
+Tagged Analytics InfrastructureClinical AnalyticsGenomicsInterviewsMedical ResearchPrecision MedicineSemantic Data Lakes
+
+

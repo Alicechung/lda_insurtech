@@ -1,0 +1,32 @@
+EHR Vendors Increasingly Offering Population Health Tools
+
+October 13, 2016
+
+By Jennifer Bresnick
+October 13, 2016 - The lines between the EHR and population health management marketplaces are becoming less distinct as health IT vendors start to deliver offerings that tackle both documentation and patient management, according to a new market report from IDC Research.
+Half of the top population health management vendors in their 2016 assessment of the health IT market also offer well-known electronic health record products, including athenahealth, eClinicalWorks, and Allscripts.
+Other top vendors identified in the report include Enli (formally Kryptiq), IBM Phytel, Wellcentive, Medecision, McKesson, the Advisory Board Company, and Optum, many of which focus on multiple health IT needs.  
+The value-based care environment is largely driving this convergence of health IT tools, says Cynthia Burghard, Research Director, IDC Health Insights, as providers demand more integrated capabilities to address the big data analytics and patient management requirements of regulatory programs and accountable care arrangements.
+“As healthcare organizations transform to value based reimbursement and care, the need for tools and methodologies to improve clinical and financial outcomes becomes critical,” she said in a press release.
+“At this nascent stage of population health management, the approaches have been based on historic approaches. With maturity, the need to be more precise in our analysis, more personalized in care plan development and more proactive in patient engagement will grow.”
+Providers are actively looking to invest in population health management tools that meet these needs, IDC says, but they must be careful to avoid vendors that may not support their specific business goals, even if a unified EHR and population health ecosystem is a top priority.  
+“Remember that a vendor’s strength is typically in their heritage,” the report warns. Vendors that have focused on cultivating very strong offerings on the documentation side may not necessarily be able to meet those same expectations elsewhere.  Potential consumers should investigate why that vendor decided to move into new markets, and how they developed their capacity to do so.
+“For example: Did the vendor natively develop the population health capability? If so, how did it obtain the required knowledge? Did it buy an asset that is the cornerstone of its offering? Is it partnering with other vendors for certain capabilities? It is imperative to understand whether a vendor is ‘making do’ with existing technology or have actually developed software to meet market needs,” IDC asserts.
+In order to thoroughly vet a vendor, providers must have a strong sense of their particular goals and population health management objectives, the report adds.
+Many providers prefer to start small when it comes to population health by targeting a specific outcome, chronic disease, or patient population.  These may include improving A1C control rates for diabetics, reducing preventable readmissions or emergency department use, ensuring that vulnerable populations receive preventative care services and cancer screenings, or bolstering patient engagement by implementing a shared decision-making strategy.
+Organizations should also assess their in-house skills, resources, and experiences to achieve these goals, and may wish to contract with a vendor that provides a roadmap for success and a personal touch.
+“An organization that is new to population health will need consulting support to help create the processes, people, and other resources required to enable population health,” IDC says. “In this case, the organization will want to select a vendor that has a full breadth of resources to support the transition.”
+According to IDC, more integrated delivery systems and larger health systems are starting to adopt population health management tools, which may ease the burden on individual physician providers to stand up sophisticated analytics and reporting infrastructures all on their own.  
+These larger groups are making strategic decisions about technology implementations that may benefit their affiliated providers as well, especially in the context of an accountable care organization or other value-based arrangement.
+No matter what the size of the organization, however, potential purchasers should be aware that population health management vendors may vary widely in their capabilities.
+“Differentiators include the depth and breadth of analytic capability (patient risk identification and performance measurement), the degree of integration with electronic health records, and the sophistication of care plan development,” the brief notes.
+Many of the vendors included in the report plan to enhance these capabilities over the coming years to meet the accelerating needs of the provider community.
+Even the top names in the marketplace have plenty of plans to improve.  Allscripts is preparing to improve its care coordination, value-based analytics, and patient engagement capabilities, while Caradigm will add socioeconomic data to its analytics tools.
+Other vendors, like Enli, are forming strategic partnerships to offer more complete technical solutions to their growing customer bases.  Enli and Dell Services announced a collaboration in July of 2016 to focus on equipping providers with value-based care tools.
+These activities are contributing to a dynamic population health management marketplace that is seeing rapid growth, the report concludes.
+“The demands of population health are ever changing at a rapid pace; be sure your vendor has the agility and flexibility to keep up with new requirements,” advises IDC. “While still a nascent market, healthcare organizations are learning what interventions are effective and as such are coming up the learning curve.”
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+How to Get Started with a Population Health Management Program
+Tagged Analytics InfrastructureEHR VendorsPopulation Health ManagementValue Based Care
+
+

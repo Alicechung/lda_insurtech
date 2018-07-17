@@ -1,0 +1,29 @@
+Pega Unveils AI-Powered Self-Optimizing Campaigns For Refined Customer Engagement
+
+14 Jun 2018
+
+Pega Paves Path to One-to-One Marketing with Launch of Self-Optimizing Campaigns; New AI-powered Pega Marketing capability Smashes Through Campaign Development Hurdles for Faster, More Effective Results
+Pegasystems Inc. has announced Self-Optimizing Campaigns – a new PegaMarketing™ capability that reduces marketers’ dependence on traditional segment-based campaigns and transitions them towards real-time, one-to-one engagements. Using its powerful AI, Pega personalizes offers and treatments on the fly for each individual while simplifying inherent campaign development complexity. This makes it easier for marketers to realize significantly higher campaign response rates, lower costs, and faster results.
+Read More: Interview With Dorian Selz, Co-Founder & CEO, Squirro
+The Power of Self-Optimizing Campaigns in a Fertile Digital Landscape
+Despite rapid advances in marketing technology, campaign development is still a complex, highly manual, and error-prone process that’s difficult to automate and optimize. It takes marketers weeks to identify segments, assign offers, build models, design tests, and execute touches in each channel.
+Once a campaign is in full flight, there’s little opportunity to adjust to changing conditions – like unexpected competitive offers or subpar campaign response levels. The marketer’s only recourse is to wait it out and optimize the next campaign – when it’s already too late.
+Pega Self-Optimizing Campaigns makes it easier for marketers to realize significantly higher campaign response rates, lower costs, and faster results.
+Pega Marketing’s Self-Optimizing Campaigns gives marketers the power to progressively optimize strategies throughout the campaign lifecycle to achieve the best possible response rates. The software makes marketers’ lives easier by automatically selecting the most relevant customer audience and balancing the mix of offers, actions, and treatments to achieve their pre-selected campaign goals. Campaigns are broken into waves so Pega AI can learn with each iteration and continuously adapt its approach while in progress to increase performance.
+Read More: Will Artificial Intelligence Bring An End To Stupid Meetings?
+Self-Optimizing Campaigns extends the power of Pega Marketing’s real-time, next-best-action capability to streamline many of the gaps and inefficiencies that have long plagued traditional campaign management, leveraging capabilities such as —
+Automated Audience Selection
+Marketers spend an excessive percentage of their time researching and extracting customer segments for their campaigns, generally with subpar results. With Self-Optimizing Campaigns, marketers simply input the desired size of their audience. Pega AI automatically finds the most relevant targets and fine-tunes its selections as the campaign progresses.
+Read More: Interview With Kalin Stoyanchev, Head Of Blockchain + RNDR Project Lead
+Multi-Offer, Multi-Treatment Scope
+Most campaigns are limited to a small number of offers and a limited number of A/B-oriented tests. With Pega’s AI, marketers can introduce a nearly unlimited number of offers, treatments, and test scenarios in a single campaign. The system automates away most of the complexity, using each individual’s unique needs and preferences to align the campaign message with the target’s current context.
+In-Flight Campaign Optimization and Testing
+Marketers don’t need a Ph.D. to take advantage of Pega’s easily accessible AI power. They simply set their campaign goals, such as acquisition volume, churn reduction, or cross-sell response rates. Pega AI does the rest, using adaptive analytics to continually balance the campaign mix. Automated testing runs continually in the background, learning which combinations work best for each customer.
+Part of the Pega Infinity™ digital transformation suite, Pega Marketing enables marketers to use AI to anticipate customer needs and adapt marketing offers with next-best actions. By engaging customers with the right offer, at the right time, through any channel, Pega clients improve customer satisfaction while increasing customer lifetime value.
+Available in Q3 2018 for Pega Marketing customers, Self-Optimizing Campaigns was announced this morning at the annual PegaWorld user conference, where more than 5,000 business professionals are gathered at the MGM Grand in Las Vegas to hear how leading organizations are transforming their businesses using Pega solutions. For more information on Pega Marketing and Self-Optimizing Campaigns, please visit www.pega.com/products/crm-applications/marketing.
+At the time of this announcement, Tom Libretto, CMO, Pegasystems, said, “Over the years, many in martech have prophesized the death of inefficient and ineffective marketing segmentation.”
+Tom added, “But in reality, most still struggle to transition from these long-entrenched strategies. With the launch of Self-Optimizing Campaigns, we are accelerating the path to one-to-one marketing with more accessible AI campaign power that does all the heavy lifting. We’re making every offer smarter to increase conversations, lower time to revenue, and drive higher profits.”
+Currently, Pega’s adaptive, cloud-architected software – built on its unified Pega Platform™ – empowers people to rapidly deploy, and easily extend and change applications to meet strategic business needs.
+Read More: Avionos Releases New Data Revealing How Consumer Expectations Are Driving Retail Strategies
+
+

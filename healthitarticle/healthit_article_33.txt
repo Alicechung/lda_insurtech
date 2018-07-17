@@ -1,0 +1,34 @@
+Apple Explores Medical Data with Health Records API, Patents
+
+June 18, 2018
+
+By Jennifer Bresnick
+June 18, 2018 - Apple is quickly working to position itself as a leader in the race between consumer technology giants looking to harness the nearly-untapped power of medical data. 
+With players such as Google, Microsoft, and Amazon to contend with, Apple’s relatively leisurely movement into the healthcare industry is picking up steam with a series of announcements and actions intended to expand access to personal health data and connect disparate data sources to improve the coordination of care.
+Following the January unveiling of the Health Records app, which allows patients at participating institutions to view their EHR data on iOS devices, Apple has now exposed an application programming interface (API) to developers who wish to take this early success and run with it.
+“Medical information may be the most important personal information to a consumer, and offering access to Health Records was the first step in empowering them. Now, with the potential of Health Records information paired with HealthKit data, patients are on the path to receiving a holistic view of their health,” said Jeff Williams, Apple’s Chief Operating Officer, earlier in June.
+“With the Health Records API open to our incredible community of developers and researchers, consumers can personalize their health needs with the apps they use every day.”
+READ MORE: Can Health IT Platforms Support Success as Artificial Intelligence Looms?
+The Health Records app has been well-received by an industry looking for alternatives to rarely-used patient portals.  In just a few months, the number of institutions leveraging the app has more than tripled.  Users include some of the nation’s largest healthcare delivery organizations.
+“Our goal is to help consumers live a better day. We’ve worked closely with the health community to create an experience everyone has wanted for years — to view medical records easily and securely right on your iPhone,” said Williams when announcing the launch of the option at the beginning of 2018.
+“By empowering customers to see their overall health, we hope to help consumers better understand their health and help them lead healthier lives.”
+The application, built upon FHIR standards, allows patients to collect their personal data related to important categories such as allergies, lab results, medications, conditions, and vital signs, even if the data originated at disparate organizations.
+“Streamlining information sharing between patients and their caregivers can go a long way towards making the patient experience a positive one,” said Stephanie Reel, Chief Information Officer at Johns Hopkins Medicine, one of the participating health systems.
+READ MORE: With New Players Looming, Healthcare Needs Big Data to Support Scale
+“This is why we are excited about working with Apple to make accessing secure medical records from an iPhone as simple for a patient as checking email.”
+Making the app’s API available to developers could continue to make interacting with personal health data easier for patients and their providers, Apple believes. 
+By giving developers the tools to create tailored apps for specific use cases, such as medication tracking or diabetes management, Apple could help to foster individualized experiences through devices that most patients keep on their person at nearly all times.
+“Apple is uniquely positioned to help scale adoption because they have both a secure and trusted platform and have adopted the latest industry open standards at a time when the industry is well positioned to respond,” said Darren Dworkin, Chief Information Officer at Cedars-Sinai.
+“Putting the patient at the center of their care by enabling them to direct and control their own health records has been a focus for us at Cedars-Sinai for some time. We are thrilled to see Apple taking the lead in this space by enabling access for consumers to their medical information on their iPhones.”
+READ MORE: Amazon Machine Learning, Big Data Tools Have Healthcare Implications
+The patient experience may be enhanced even further if Apple pursues the dozens of patents it has filed for various methods of collecting biometric data through its mobile devices.
+According to a recent Kalorama Information report, the company has recently laid claim to 54 patents for the iPhone that could turn the ubiquitous device into a tool for measuring everything from blood pressure to body fat to cardiovascular events.
+The company also has the advantage of being able to collect data from the Apple Watch, which has already found a place in the medical research and patient engagement repertoires of a number of payers and providers.
+With access to real-time biometric data in addition to unified health records from a patient’s care providers, Apple and its third-party API developers could create an innovative suite of chronic disease management or predictive analytics offerings that integrates seamlessly into the technology habits of its massive user base.
+Apple will have plenty of competition as it works to make the leap from consumer tech dazzler to trusted medical data broker. 
+The “rise of non-traditional players,” including lifestyle-platform rivals Amazon and Google, has been cited as the most anticipated disruptive force in the healthcare industry, according to recent surveys.
+Access to data is likely to be among the most impactful competitive differentiators for these multi-industry behemoths, and securing a medical data pipeline that can translate into uniquely attractive patient experiences will be key for success in a challenging environment.
+Apple’s heavyweight status in the smartphone market is likely to help deliver on the promises of personalized access to data, and its recent efforts to create shared, standardized pathways for collecting and exchanging patient data appears to be a step in the right direction for achieving its aims.
+Tagged Analytics InfrastructureApple HealthKitApplication Programming InterfacesChronic Disease ManagementClinical AnalyticsMobile Devices in HealthcarePatient Engagement
+
+

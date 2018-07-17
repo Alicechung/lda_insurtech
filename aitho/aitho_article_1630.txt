@@ -1,0 +1,18 @@
+Microsoft Announces Expansion Of Montreal Research Lab, Geoffrey Gordon To Be The Lab’s New Research Director
+
+25 Jan 2018
+
+In a Meeting at the World Economic Forum in Davos, Canadian Prime Minister Justin Trudeau and Microsoft CEO Satya Nadella Discussed Microsoft’s Ongoing Investment in Canada and the Expansion of the Montreal Lab
+Microsoft plans to significantly expand its Montreal research lab and has hired a renowned artificial intelligence expert, Geoffrey Gordon, to be the lab’s new research director.
+The company said on Wednesday that it hopes to double the size of Microsoft Research Montreal within the next two years, to as many as 75 technical experts. The expansion comes as Montreal is becoming a worldwide hub for groundbreaking work in the fields of machine learning and deep learning, which are core to AI advances.
+“Montreal is really one of the most exciting places in AI right now,” said Jennifer Chayes, a technical fellow and managing director of Microsoft Research New England, New York City and Montreal.
+In a meeting at the World Economic Forum in Davos, Canadian Prime Minister Justin Trudeau and Microsoft CEO Satya Nadella discussed Microsoft’s ongoing investment in Canada and the expansion of the Montreal lab, including Gordon’s hiring.
+Chayes said Geoff Gordon, currently a professor of machine learning at Carnegie Mellon University, was a natural choice for the job in part because he’s interested in both the foundational AI research that addresses fundamental AI challenges and the applied work that can quickly find its way into mainstream use.
+“We want to be doing the research that will be infusing AI into Microsoft products today and tomorrow, and Geoff’s research really spans that,” she said. “He’ll be able to help us improve our products and he’ll also be laying the foundation for AI to do much more than is possible today.”
+Jennifer Chayes, technical fellow and managing director of Microsoft Research New England, New York City and Montreal.
+Chayes also noted that Gordon’s broad and deep AI expertise will be a major asset to the lab. She noted that Gordon is an expert in reinforcement learning, in which systems learn through trial and error, and he’s also done groundbreaking work in areas such as robotics and natural language processing. The ability to combine all those areas of expertise will be key to developing sophisticated AI systems in the future.
+“Given that we want a very broad AI lab, Geoff is the ideal person to lead it, and to create the fundamental research that underlies the next generation of AI,” she said.
+Gordon said he’s especially interested in creating AI systems that have what we think of as long-term thinking: the ability to come up with a coherent plan to solve a problem or to take multiple actions based on clues it gets along the way. That’s the kind of thing that comes easily to people but is currently rudimentary in most AI systems.
+Source: blogs.microsoft.com
+
+

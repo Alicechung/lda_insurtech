@@ -1,0 +1,21 @@
+ONC Releases Final 2016 Health Data Interoperability Advisory
+
+December 23, 2015
+
+By Jennifer Bresnick
+December 23, 2015 - The Office of the National Coordinator has published its final version of the 2016 Interoperability Standards Advisory (ISA), a document that is intended to help healthcare organizations gauge the maturity, adoption, and usefulness of health data exchange protocols.
+The latest version of the Advisory significantly expands and refines interoperability information presented in the inaugural 2015 ISA, and includes a more organized and detailed methodology for identifying health IT needs across the industry.
+Topics addressed include the collection of standardized patient demographic information and public health reporting data, the development of clinical decision support, and health information exchange related to imaging studies, admission, discharge, and transfer (ADT) alerts, laboratory data, and medication and allergy lists.
+The draft document, released in November, attracted comments from industry stakeholders warning the ONC to be careful about labeling health data interoperability standards in a simplified manner.  Widely adopted standards may still be immature, noted HIMSS in a letter to ONC officials, while a standard identified as highly developed may not have achieved significant implementation in healthcare organizations.
+Dig Deeper
+Information Governance Gaining Ground in Healthcare Organizations
+CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+Provider Data Management Offers Payers a Blockchain Use Case
+“Standards maturity is not a two-dimensional concept,” wrote Dana Alexander, RN, MSN MBA, FAAN, FHIMSS, Chair of the HIMSS North America Board of Directors and H. Stephen Lieber, CAE, President and CEO of HIMSS. “There could be risks in trying to reduce [data standards maturity] to such that could overly simplify a complex or nuanced topic.”
+The ISA states that one of its primary purposes is to acknowledge the ongoing debate and dialogue over the evolution of interoperability standards that may or may not see success in a quickly advancing marketplace. 
+“When one standard or implementation specification is listed as the ‘best available,’ it reflects ONC’s current assessment and prioritization of that standard or implementation specification for a given interoperability need,” the document says. “When more than one standard or implementation specification is listed as the best available, it is intended to prompt industry dialogue as to whether one standard or implementation specification is necessary or if the industry can efficiently interoperate more than one.”
+“It is expected that future advisories will incrementally address a broader range of clinical health IT interoperability needs.”
+To read the complete finalized version of the 2016 Interoperability Standards Advisory, please click here. 
+Tagged Big Data AnalyticsHealthcare Data GovernanceInteroperability
+
+

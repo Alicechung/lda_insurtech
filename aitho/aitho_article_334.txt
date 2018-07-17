@@ -1,0 +1,19 @@
+IBM Unveils Major Expansion Of Cloud Capabilities; Industry Leaders ExxonMobil, Bausch + Lomb And Westpac Shift To IBM Cloud
+
+11 Jun 2018
+
+Unveils plans for 18 new availability zones in North America, Europe and Asia-Pacific 
+IBM, today announced a major expansion of its cloud capabilities with plans to launch 18 new availability zones for the IBM Cloud across North America, Europe and Asia-Pacific.
+Additionally, ExxonMobil, Bausch + Lomb and Westpac are migrating central workloads to the IBM Cloud:
+ExxonMobil, the largest publicly traded international oil and gas company, has adopted IBM Cloud as the foundation for their Speedpass+™ mobile app developed by IBM Services. Speedpass+™ is available to motorists at more than 11,000 Exxon and Mobil gas stations across the US.
+Bausch + Lomb, a leading global eye health company, chose IBM Cloud for its next-generation cataract surgical system, Stellaris Elite™. Bausch + Lomb will operate the network out of IBM Cloud data centers in Dallas and Frankfurt, with Frankfurt playing a critical role in helping Bausch + Lomb comply with new GDPR requirements.
+Westpac, one of Australia’s largest banks and financial service providers, has migrated to a secure and dedicated IBM Cloud infrastructure in Australia. It enables Westpac to easily deploy applications and deliver new customer solutions to market faster, while meeting their regulatory controls for data protection and privacy.
+Read More: Do You Have A Response Plan In Case Of A Data Breach Under GDPR?
+“The world’s biggest companies work with IBM to migrate them to the cloud because we know their technology and unique business needs as they bridge their past with the future,” said David Kenny, senior vice president, IBM Watson & Cloud Platform. “Our continued cloud investment and growing client roster reflect that companies are increasingly seeking hybrid cloud environments that offer cutting edge tools including AI, analytics, IoT and blockchain to maximize their benefits.”
+IBM Cloud continues to build out its cloud footprint with 18 new availability zones in high demand centers in Europe(Germany and UK), Asia-Pacific (Tokyo and Sydney), and North America (Washington, DC and Dallas, Texas). An availability zone is an isolated instance of cloud inside a data center region, with independent power, cooling and networking to strengthen fault tolerance. While IBM Cloud already operates in nearly 60 locations, it now has even more capacity and capability in these key centers. Additionally, clients will be able to deploy multizone Kubernetes clusters across the availability zones via the IBM Cloud Kubernetes Service, simplifying how they deploy and manage containerized applications and adding further consistency to their experience.
+Read More: Kraken Joins NVIDIA Inception Program
+IBM’s global cloud footprint is especially critical as clients look to gain greater control of their data in the face of tightening data regulations, such as the European Union’s new General Data Protection Regulation (GDPR).
+IBM’s continued investments in cloud across public, private and on-premises environments are already helping the world’s largest companies. For example, in May, Crédit Mutuel, one of France’s leading banks, announced they are deploying IBM Watson across all its business lines – Consumer Credit, Personal Protection, Health, Payment Instruments, and Risk and Compliance. For its next wave of transformation, Crédit Mutuel will combine multiple technologies from IBM – IBM Cloud, Security, and Watson – to reconceive partner relationships and operations and to help guarantee data security and protection of customer information.
+Read More: Do You Have A Response Plan In Case Of A Data Breach Under GDPR?
+
+

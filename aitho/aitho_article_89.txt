@@ -1,0 +1,16 @@
+Mikros Receives Additional Funding For Condition-Based Maintenance On The U.S. Navy’s MK 99 Fire Control System
+
+09 Jul 2018
+
+Mikros Systems Corporation, an advanced technology company specializing in electronic systems technology for advanced maintenance in military, industrial and commercial applications, announced today that it has received a follow-on $2.5 million contract from the U.S. Navy to continue to develop its Condition-Based Maintenance (CBM) systems for the Navy’s MK 99 Fire Control System (FCS).
+Mikros is developing a new variant of its ADSSS system, an advanced network-based remote monitoring and maintenance system which collects performance data in real-time and uses it to detect and predict failures.   The ADSSS system, which recently received official Navy nomenclature as the AN/SYM-3, is currently used on the Navy’s Littoral Combat Ship (LCS) to monitor two other radars and combat system elements.  The new variant of the SYM-3, which will monitor the Director in the MK 99 system, has been in development since 2017.  The new contract award covers continued development, at-sea testing, and validation of the system.  Under this contract, Mikros’ CBM technology will be used for the first time in the Navy’s Aegis surface combatant fleet of destroyers and cruisers.
+Follow Us
+“We’ve been working on the Aegis variant system for over a year now and have had encouraging results from preliminary land-based testing.  We’ll be performing the first shipboard testing this summer as part of the Navy’s annual FLEX/RIMPAC exercise,” said Mikros Program Manager Jason Hodge.  “The Aegis community has been using our AN/PSM-132 system for preventative maintenance on the SPY-1 radar for several years.  This contract will allow us to complete development and testing of the new systems with the ultimate goal of large scale production to serve the Aegis class ships.”
+The program will apply both model-based Prognostics Framework technology to detect and predict failures on each ship, and “big data” predictive analytics on-shore using a machine learning approach to analyze data from all ships and detect large-scale trends, patterns and anomalies.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+Chuck Bristow
+“The expansion of the AN/SYM-3 system to the MK 99 FCS highlights the extensible nature of the system, and marks the third ship type utilizing Mikros’ CBM+ system.  Mikros is working with several other organizations inside and outside of the Navy as we continue to expand the distribution of our remote monitoring and maintenance systems,” stated Chuck Bristow, COO.
+Mikros Systems Corporation is an advanced technology company specializing in the development and production of electronic systems technology for advanced maintenance in military, industrial and commercial applications.  Classified by the U.S. Department of Defense as a small business, its capabilities include technology management, electronic systems engineering and integration, radar systems engineering, command, control, communications, computers and intelligence systems engineering, and communications engineering.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+
+

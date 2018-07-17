@@ -1,0 +1,24 @@
+Medicare Data Reveals Trends in Utilization, Chronic Disease
+
+June 03, 2015
+
+By Jennifer Bresnick
+June 03, 2015 - The Centers for Medicare and Medicaid Services is doing its best to keep its commitment to data transparency alive by opening up a huge new store of information on hospital and physician service utilization. 
+The data, generated from Medicare Part B fee-for-service claims in 2013, reveals important patterns in care delivery, chronic disease management, and population health as providers attempt to identify methods of cutting costs and reducing unnecessary variations in care across patient groups.
+“These data releases will give patients, researchers, and providers continued access to information to transform the health care delivery system,” said acting CMS Administrator Andy Slavitt, announcing the big data dump at Health Datapalooza in Washington, DC this week. “It’s important for consumers, their providers, researchers and other stakeholders to understand the delivery of care and spending under the Medicare program.”
+The 2013 data set contains submitted charges and payments for services and procedures provided to Medicare patients from more than 950,000 healthcare providers who received a total of $90 billion from the program, CMS says.  The information is detailed enough to allow comparisons by provider, specialty, location, and type of service, which helps to illuminate trends in chronic disease management, acute care, population health, and utilization.
+Dig Deeper
+SC Online Population Health Dashboard Reveals Community Disparities
+Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+CDC Focuses on Patient Safety with Expanded Sepsis Education
+Significant findings from the data include the following:
+• Major joint replacement remained the top diagnostic related group (DRG) code for hospital discharges in 2013, with 446,000 total discharges and $6.6 billion in Medicare payments.  Over the past three years of available data, the average charge for a major joint replacement has increased from $50,000 to just over $54,000.  Major joint replacements were especially common in the upper mid-west and Rocky Mountain regions of the country, with up to 25 patients per thousand receiving the surgery.
+• Chronic diseases such as heart failure, kidney disease, and chronic obstructive pulmonary disease (COPD) comprised four of the top ten hospital discharge DRG codes in 2013.  Nearly 400,000 patients experienced hospital stays related to heart failure, while renal failure accounted for 154,000 discharge DRGs, followed closely by 152,000 cases of COPD.
+• The top 100 reasons for inpatient stays produced $62 billion in Medicare payments and more than seven million hospital discharges.
+• On the outpatient side, CMS identified oncologists as some of the highest paid specialists in the country, due largely to compensation that covers the extremely expensive pharmaceuticals required to treat cancer.  Hematologists received an average of $225,000 in allowed Medicare payments per provider for their services, but also racked up the highest average number of unique types of drug services.
+• HCPCS codes related to the length of office visits revealed few surprises: consultative specialties like dermatology and ophthalmology billed for the highest number of short-duration office visits, while cardiologists, oncologists, and internists generally took more time per patient each visit.
+• The average number of office visits per capita was highest along the East Coast and areas of the Southwest, with Florida, New York, Tennessee, and New Jersey seeing more than seven visits per patient per year.  The Deep South, with its high burden of chronic diseases, followed closely with an average of six to seven visits in the majority of southern states.
+“Data transparency facilitates a vibrant health data ecosystem, promotes innovation, and leads to better informed and more engaged health care consumers,” said Niall Brennan, CMS chief data officer and director of the Office of Enterprise and Data Analytics. “CMS will continue to release the hospital and physician data on an annual basis so we can enable smarter decision making about care that is delivered in the health care system.”
+Tagged Big Data AnalyticsChronic Disease ManagementPopulation Health ManagementQuality Of Care
+
+

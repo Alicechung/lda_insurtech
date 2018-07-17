@@ -1,0 +1,57 @@
+The next big thing
+
+July 25, 2017
+
+Regtech is to be the next big thing in fintech globally and there are a number of factors supporting this. In addition to technological advancement which brings more regulatory, compliance and governance software to market, the growth of Regtech is in principle driven by increased regulatory scrutiny, rising compliance costs and blockchain development.
+
+ Since the 2008 financial crisis, financial institutions faced increasing regulatory scrutiny both in terms of volume and complexity. In 2015-16, an average of 200 international regulatory changes and announcements were recorded daily (source: Thomson Reuters Regulatory Intelligence). The increasing levels of regulation and the ever-more challenging regulatory expectations have an operational impact throughout financial institutions and call technology-based solutions.
+
+ The Global Trend
+
+ The average annual spending on compliance of regulations for financial institutions is estimated to be around US$70 billion (Source: Bloomberg). Similarly, Bain & Co estimated that governance, risk and compliance costs account for 15% to 20% of the total “run the bank” cost base of most major banks. With budgets under pressure, the need to reduce compliance spending has never been greater. This is further affected by increased penalties for inappropriate conduct not limited to fine but also senior executives’ jail sentences in extreme cases.
+
+ Regtech solutions are purposely designed to protect financial institutions by mitigating risks. Accenture says that compliance costs could be reduced by 30% to 50% at the product level with the use of a blockchain database, while London-based blockchain technology company Coinfirm estimates that companies can save as much as 50% by using regulatory and compliance technology. Regtech solutions that automate regulatory reporting processes will be in great demand in 2017. As such, western regtech firms eye huge potential in Asia. Major regtech providers for asset managers in the U.S. and Europe are considering expansion into Asian market, as they believe the region is set to embark on a period of profound regulatory change. Leveraging its well-established financial infrastructure and ecosystem, Hong Kong is the perfect launch pad for western regtech providers to enter the region. For instance, Compliance Solutions Strategies (CSS), which caters to around 600 fund firms in Europe and the U.S., says it plans to open an office in Hong Kong by the end of 2018. InvestHK has made regtech one of its key priorities as we believe there is huge potential this year for regtech in Asia. In the UK, the Financial Conduct Authority recently issued its Business Plan 2017/18 which that deals with its fintech and regtech priorities for the year ahead.
+
+ Add more value
+
+ Cost savings is undoubtedly one of the key benefits brought by regtech. Financial institutions spend a lot of time, human and financial resources in satisfying the increasingly demanding regulatory requirements. With regtech financial institutions can speed up decision-making processes without compromising compliance standards. Regtech also brings along a new breed of agile regulatory technology that empowers firms to better understand and manage risks while streamlining the regulatory compliance processes.
+
+ Regtech has much to offer in terms of mitigating risk at all levels encompassing operational, reputational and financial. The following are a few of such areas:
+
+ Information management: Regtech utilises advanced technologies to extract, transfer and load data sets, simplifying cluttered data into consumable information, giving businesses the agility to solve real-world problems and stay ahead of the competition. Regtech solutions also enable regulators / financial institutions to monitor, report and analyse large amounts of data quicker and more efficiently.
+
+ Business efficiency: Data processing with regtech can reassess and refine processes based on machine learning to further improve solutions over time, and reduce the large amount of false positives, while allowing financial institutions to focus on their core activities. The regulatory requirements change quite frequently, and regtech offers the agility and flexibility to successfully adapt to changing processes.
+
+ Real-time alert: Regtech helps improve the overall regulation compliance and reporting, which will lead to a more transparent, systematic and clear regulatory environment that is easy to follow by the regulators and regulated. With the increased emphasis on security and data management to a large extent it creates a more secure and stable business environment.
+
+ Spheres of an application
+
+ According to EY, regtech has already been applied to areas such as fraud prevention, regulatory compliance automation, conduct and culture, and predictive analytics.
+
+ Fraud Prevention: solutions that monitor transactions in real time to identify gaps, issues and trends in financial crime; prevention reduces the risk and associated cost of lost funds due to fraud.
+
+ Regulatory Compliance Automation: Future Regtech platforms, including a converged regulatory risk and controls management framework, to interpret regulations, including upcoming changes. Use of robotics to perform routine compliance monitoring and testing processes as well as robo-advisors that use sophisticated algorithms to provide automated advice to customers.
+
+ Conduct and Culture: Solutions based on behavioural profiling and behaviour-driven risks to indicate potential misconduct and map out company culture.
+
+ Predicative Analysis: Forecasting firm-specific operational and regulatory risks, analysing the root causes of previous regulatory breaches and uses this to predict potential risk areas and disruptive events within financial markets.
+
+ Deloitte’s Financial Services Regulatory Outlook 2017 shows that regulators and institutions must become more ‘cyber resilient’ as the financial services industry becomes more and more data-driven. The concept of ‘cyber resilience’ will be an important one for regulators, as fintech begins to transfer risk to the unregulated side of the market.
+
+ At the same time, more stringent requirements within increasingly dense data landscapes and the rapidly evolving fintech sector have led firms, technology providers and regulators to adopt new technologies to meet regulatory challenges.
+
+ In 2017 regtech will go beyond protecting core areas of a company’s operations and merely reacting to fintech trends. Companies are expected to implement enterprise-wide cybersecurity frameworks beyond IT departments, predict potential threat scenarios, routinely test security measures; and if weaknesses are identified, update defense measures. Areas that will progress quickly will be ‘know your customer’ (KYC) compliance processes, automated regulatory reporting and communications monitoring.
+
+ In Hong Kong, an increasing number of financial institutions are working with regtech providers to harness regtech solutions to boost their responsiveness to regulatory changes, reduce time and costs to improve profitability. In order to do this, banks will seek to implement the latest blockchain, artificial intelligence (AI), cloud computing and data analytics tools and technologies across the entire organisation – from front to back office.
+
+ An increasing trend of collaboration
+
+ In general, we observe an increasing trend of collaboration in various aspects of fintech between countries / hubs, the public and private sectors, banks and start-ups and many others. Similarly, regtech will play a vital role to support and promote innovation and collaboration, through the identification of technologies that help firms better manage regulatory requirements and regulators to fulfil its primary objectives of protecting consumers, confirming market integrity and promoting effective competition.
+
+ To facilitate evolution of regtech, each of the key players in the ecosystem (regulators, professional services firms, financial institutions and regtech firms) has a distinct role in the development of common industry solutions and successful integration into risk management frameworks within the wider regulatory change agenda. Collaboration across the ecosystem will be key to success.
+
+ Thorsten Terweiden
+
+ Deputy Head (Fintech) at InvestHK
+
+

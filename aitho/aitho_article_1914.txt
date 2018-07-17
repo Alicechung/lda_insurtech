@@ -1,0 +1,34 @@
+Acronis True Image 2018 Brings Artificial Intelligence-Based Data Protection To Home Users
+
+22 Aug 2017
+
+The Industry’s First Intelligent Backup with an A.I.-based Ransomware Defense Redefines Personal and Home Office Data Protection
+Acronis, a global leader in hybrid cloud data protection for business and consumers, today introduced Acronis True Image 2018. The new release includes major updates to the program’s backup and recovery capabilities, and is the first personal backup software to incorporate artificial intelligence-based technology designed to actively protect data against ransomware.
+“As the first company to offer full image backup for consumers, Acronis pioneered intelligent backup for home use,” said Serguei Beloussov, co-founder, and CEO of Acronis. “Acronis True Image 2018 continues that tradition as the first and only personal backup software that uses artificial intelligence to defend consumers against one of the fastest growing threats to their data.”
+By combining the company’s artificial intelligence (AI) based ransomware defense, called Acronis Active Protection™, with a new generation of enhanced backup and recovery capabilities such as active disk cloning and automated WinPE boot media creation, Acronis True Image 2018 represents a new standard of “intelligent backup” for individuals, families and small businesses.
+Reliable backup and recovery
+During a survey of Acronis customers during July 2017, 95 percent of respondents said they choose and recommend Acronis True Image because the backups are so reliable. The 2018 release improves on those core backup and recovery capabilities even more, with enhancements such as:
+Active disk cloning: Users can create an exact replica of an active Windows system without stopping and restarting using bootable media, making migration to a faster or larger disk even easier.
+An updated media builder: Automatically creates boot media for a WinPE environment, so users can quickly resolve driver configuration issues and recover their systems to the same or new hardware.
+Continuous backup to the cloud: Users can update their backups as they work on files while securely storing an off-site version in the cloud.
+Virtual drive conversion: Users can test the recoverability of the full image backups, or run their system in a Hyper-V virtual environment to test various applications without risking the primary system, and move complete system image as a virtual drive to another computer.
+Faster incremental backups: Up to three-times faster with new Changed-Block Tracker technology that tracks image changes in real time.
+Automatic mobile backup to NAS devices: More than a quarter of Acronis users have network-attached storage (NAS) at home. Now they don’t have to think about backing up a mobile device, since the process starts as soon as the mobile device connects to the same Wi-Fi as the NAS.
+Acronis True Image 2018 also addresses the needs of the next generation of users by expanding its support for social media with automatic backups of Instagram accounts, including photos, comments and statistics, such as the number of likes, tags or comments a post gets.
+Easy control
+A new visual interface addresses the preferences of 83 percent of Acronis customers who reported that they want more information and insights into their backups. Graphically displaying backup activity and statistics, it allows users to manage their backups at a glance – including how much data they have stored, the types of files in storage, and the status of backups.
+Secure data protection
+The ability to restore a system or individual files is critical following a ransomware attack. Acronis True Image 2018 not only makes recovery automatic, it takes the initial protection a step further by preventing ransomware from corrupting a user’s data in the first place.
+Using machine learning models, Acronis Active Protection recognizes unusual patterns of file access. These models are generated in Acronis’ dedicated Cloud AI infrastructure, which processes data from hundreds of thousands of malicious and legitimate processes to build those models. Those models are incorporated directly into Acronis Active Protection, allowing Acronis True Image 2018 to protect a system’s data independently, without the need for an internet connection.
+When Active Protection detects unusual activity, it checks the process using both heuristics analysis as well as those models of expected and unexpected behavior. If the process is identified as potentially malicious, Acronis True Image 2018 alerts the user of the suspicious activity.
+With real-time monitoring, Acronis Active Protection verifies all processes so approved activities are allowed to run, while potentially dangerous behavior is detected and stopped. Then, if any files are encrypted during a ransomware attack, Acronis True Image 2018 automatically restores those files from backup.
+While cybercriminals increasingly target backup files to keep users from restoring their system without paying the ransom, Acronis’ technology specifically defends backup files as well as the original data. Ransomware damages are expected to top $5 billion this year, and Acronis’ unique self-defense of backup files is Acronis True Image 2018’s way to ensure a user’s data remains untouched.
+More than 60 percent of Acronis customers surveyed said they worry about ransomware. A new Security Dashboard gives users complete visibility over Acronis Active Protection so you can be reassured that their data is protected. It lets them track the number of processes that have been flagged as potentially dangerous, see which ones were blocked, and manage a whitelist of trusted applications.
+Pricing and Availability
+There are three editions of Acronis True Image 2018 available to accommodate customer use and preferences. All versions include Acronis Active Protection against ransomware and cover an unlimited number of mobile devices.
+Standard is a perpetual license that is offered without any cloud storage or access to cloud-based features for customers who prefer to store their data on local drives only. Pricing starts at $49.99 for one computer.
+Advanced is a one-year subscription that includes 250 GB of cloud storage and access to all cloud-based features. Pricing starts at $49.99 per year for one computer.
+Premium is a one-year subscription that includes exclusive blockchain-based data certification and electronic signature capabilities, as well as 1 TB of cloud storage. Pricing starts at $99.99 per year for one computer.
+Advanced and Premium subscribers can purchase additional cloud storage within the application. Advanced Licenses can upgrade to a maximum of 500 GB. If more storage is needed, Advanced users can upgrade to a Premium License, which offers cloud storage of up to 5 TB.
+
+

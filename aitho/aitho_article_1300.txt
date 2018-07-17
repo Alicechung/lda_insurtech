@@ -1,0 +1,17 @@
+Philips Launches AI Platform For Healthcare
+
+05 Mar 2018
+
+– Philips HealthSuite Insights delivers healthcare-specific tools and technologies to address the full process of building, maintaining, deploying and scaling AI solutions
+– Industry-first online marketplace offers curated, readily available AI assets for license
+Royal Philips, a global leader in health technology, announced the launch of HealthSuite Insights, including the Insights Marketplace, to support the advancing adoption of analytics and artificial intelligence (AI) in key healthcare domains. Making their debut at the 2018 HIMSS Conference & Exhibition (HIMSS18), HealthSuite Insights gives data scientists, software developers, clinicians and healthcare providers access to advanced analytic capabilities to curate and analyze healthcare data and offers them tools and technologies to build, maintain, deploy and scale AI-based solutions. Insights Marketplace will provide the healthcare industry’s first ecosystem where curated Artificial Intelligence assets from Philips and others are readily available for license.
+AI-based solutions have great potential to improve patient outcomes and care efficiency. However, developing and deploying AI solutions for healthcare use cases can be time consuming, resource intensive and expensive. HealthSuite Insights eases the logistical challenges of deploying AI solutions in research and clinical environments. It accelerates the development of analytics solutions, and reduces development and total cost of AI solutions.
+Jeroen Tas
+“The quality of your AI is only as good as the quality of the data you feed into it,” said Jeroen Tas, Chief Innovation & Strategy Officer Philips. “We have designed HealthSuite Insights to be used by the people who work with patient data on a daily basis and have the contextual understanding; including doctors, clinicians and hospital managers. With the HealthSuite Insights platform, we give them the ability to bring all the relevant patient information together, curate the data and use the power of AI to support precision diagnosis, personalized therapy, early intervention and greater hospital efficiency.”
+Proven tools and technologies
+The tools and technologies available through HealthSuite Insights already enable the machine learning and deep learning applications in Philips’ diagnostic imaging solutions, patient monitoring solutions, and oncology and genomics offerings. Enabled by the platform, Philips leverages AI across these innovations, by combining it with other technologies and a deep understanding of the clinical, operational and personal context to augment care professionals and patients/consumers.
+Insights Marketplace for reusable AI assets
+Philips’ Insights Marketplace initially offers assets supplied by Philips – including assets developed by leading scientists at Philips Research. Medically validated Philips assets will be added later this year. In late 2018, the Insights Marketplace will be further expanded to include assets submitted by third parties.
+AI assets built using the Insights Platform are designed to be secure regardless of the execution environment, with sophisticated Identity and Access Management, integrated Blockchain services, and data collection and management services built in.  The Insights platform can be deployed on a healthcare cloud infrastructure such as the Philips HealthSuite Digital Platform, or on premise at a provider site.
+
+

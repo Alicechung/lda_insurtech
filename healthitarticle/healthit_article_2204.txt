@@ -1,0 +1,24 @@
+Is healthcare ready to get SMAC-ed around?
+
+November 08, 2013
+
+By Jennifer Bresnick
+November 08, 2013 - Social, mobile, analytics, cloud.  To the delight of pun-loving media, SMAC has become a cute shorthand way of saying what we’re all thinking: the four horsemen of the digital revolution are here to stay, and organizations can either adapt or fail.  For healthcare, the challenges of integrating these pillars of the new era of business are many and varied.  Are hospitals ready to use new technologies to collect and analyze meaningful data to drive cost savings and better outcomes for patients?
+Social
+“Social” encompasses a lot more than setting up a Facebook page for your hospital and hoping to collect a couple hundred fans.  It may be the key to care coordination between providers and solving difficult medical questions for patients.  It might be the answer to population health management through community outreach programs.  And it could be the difference between piquing enough interest in patients to help meet that Stage 2 engagement measure and failing to collect your incentive payment.
+Just like any other industry that uses gamification and rewards points to drive engagement, healthcare can benefit from the nation’s deeply entrenched fascination with sharing what they eat, how far they run, and where they go.  However, finding a way to make that data useful for physicians is an ongoing quest.
+Dig Deeper
+With New Players Looming, Healthcare Needs Big Data to Support Scale
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Mobile
+And social can’t be done without mobile.  These inseparable twins have turned mHealth from a novelty into an industry juggernaut, providing patients with the opportunity to educate themselves, collect and share data, make appointments, and communicate with providers on the go.  While some physicians remain unsure of the value of bringing smartphones into the healthcare equation, there’s no question that social and mobile together will mature into a viable method of connecting communities with their providers and collecting increasingly important patient-provided data in new and innovative ways.
+Analytics
+But is healthcare ready to make use of all this information?  Maybe not as ready as we’d like.  While few can deny the promise that a robust, connected analytics infrastructure holds for identifying high-risk patients, targeting preventative services, and reducing hospitalizations and deadly infection rates, getting to the point of performing meaningful analytics is both difficult and expensive.
+Analytics isn’t just a project for the IT department, either.  It requires an organization-wide change in perspective, which is starting to gain momentum due to the shift from pay-for-volume to pay-for-performance reimbursement models.  Using clinical and financial data to predict outcomes, cut costs, reduce preventative hospitalizations, and keep patients healthier is a series of goals shared by patients, providers, and payers alike under the new guidelines, which is helping to push the focus on smarter data into the limelight.
+Cloud
+Cloud technology is becoming an increasingly vital vehicle for all this change.  From EHR solutions that take the worry out of security and storage for providers to a simple, interoperable way to exchange health information and store data pools for analytics, cloud is the behind-the-scenes muscle that makes everything else possible.  While many healthcare organizations are still tied to the servers in their basement, cloud allows for cleaner standardization and exchange of data while providing the power to examine patient satisfaction, areas of risk, and outreach opportunities in real time.
+Without engaging patients, providing them the opportunities to conduct their healthcare activities when and where they want, using data intelligently to produce actionable insights, and taking advantage of new storage and exchange opportunities, healthcare organizations could find themselves left behind the curve.  But if they can embrace the necessity of these four points on the roadmap to the technological future, they can achieve success in a variety of areas of patient care while reaping financial rewards.
+Tagged Big DataHealthcare AnalyticsHealthcare Business IntelligenceHealthcare Data StrategymHealthPatient CarePatient Engagement
+
+

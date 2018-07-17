@@ -1,0 +1,36 @@
+SHIEC Expands Patient-Centered Data Home HIE Network Nationwide
+
+January 04, 2018
+
+By Jennifer Bresnick
+January 04, 2018 - The Strategic Health Information Exchange Collaborative (SHIEC), a coalition of many of the nation’s successful HIEs, has expanded its Patient-Centered Data Home (PCDH) initiative to cover a number of new regions across the United States.
+The PCDH project, which aims to enable robust interoperability between local, regional, and state-level health information exchange networks, allows participants to access critical patient data across traditional geopolitical boundaries.
+Using admission, discharge, and transfer (ADT) notification technology as a starting point, the PCDH uses a patient’s home ZIP code to determine whether the service is taking place in the patient’s local region or in a different state. 
+If the patient is receiving care within a different HIE’s coverage territory, the out-of-state HIE can generate a message alerting the patient’s “home” HIE that new records are available.  The patient’s main providers can then query for the data, ensuring that they have access to all of the patient’s records.
+“The HIEs working together to create PCDH built a powerful foundation for interoperability between HIEs – and we managed to do it using our current technologies,” said Dan Porreca, executive director for HEALTHeLINK and chair of the SHIEC board of directors.
+READ MORE: New Approach Helps Health Information Exchanges Cross State Lines
+“We’re very proud of this accomplishment and the milestone we’ve achieved. We also created and agreed to a national, legally-binding agreement, which laid the foundation for HIEs sharing data with each other across state lines and throughout communities.”
+Source: SHIEC
+The strategy is particularly useful for the many healthcare provider communities that share patients across multiple states.
+“Almost every single state has several healthcare markets that cross inter-state, inter-HIE lines,” said John Kansky, President and CEO of the Indiana Health Information Exchange Network. “For example, northwest Indiana is suburban Chicago. PCDH now allows us to exchange data between HIEs for those markets, providing a huge benefit to our patients.”
+While patients tend to move freely across state borders, regulatory and legal barriers are a little more difficult to cross, explained David Kendrick, a SHIEC board member and CEO of the MyHealth Access Network in Oklahoma, to HealthITAnalytics.com in 2017. 
+“HIEs typically function state-by-state, which might make sense from a legal perspective, but it doesn’t accurately reflect how people access care,” he said.  “To an HIE, state boundaries can seem somewhat artificial.”
+READ MORE: Identifying Big Data Sources for Population Health Management
+“The infrastructure that we’re building with the Patient-Centered Data Home gives patients confidence that their records can follow them across the health system while adhering to their privacy preferences and making it safer and easier to get the care they need.”
+The state-to-state data exchange protocol can be crucial for individuals while traveling or vacationing in regions that have no traditional ties to their home communities.
+“In Arizona, we see a lot of winter visitors and others who travel to Arizona and need to receive care,” noted Melissa Kotrys, CEO of Health Current. “We also have a very mobile population that travels outside the state and will need to seek care outside of their ‘home’ HIE. We were able to demonstrate that the PCDH initiative works and is well worth expanding to a national model.”
+In addition to enabling the delivery of routine care to travelers, the PCDH allows access to patient data in an emergency, when information such as allergies and pre-existing conditions can be vital for delivering safe and effective treatment.
+“Though the number of transient patient care events occurring among our partnering HIEs in the pilot are relatively small (4,500 annually), they are of great significance,” said Dick Thompson, Executive Director and CEO of the Quality Health Network in Colorado. “These events are typically urgent in nature or necessitated by the need for highly specialized, esoteric care.”
+READ MORE: How Health Information Exchange Models Impact Data Analytics
+“PCDH lets providers know where and when an event has occurred and how to access data in real-time. It extends the reach of HIE across borders, states and disparate health systems – effectively and inexpensively. Our HIE participants now have access to data from more than 40 additional hospitals and data sources, bridging gaps in information and improving patient outcomes.”
+SHIEC has piloted the ability to exchange data freely across state lines in three regions across the Midwest and Western United States, allowing local communities the ability to exchange data freely while ensuring that privacy and patient preferences remain paramount.
+Pilot networks for the Patient-Centered Data Home
+Source: SHIEC
+Messages related to patients who have opted out of HIE participation in their home state are dropped from the system before being delivered, ensuring the individual’s wishes are being followed.
+“Health information exchange happens at the speed of trust, so it is very important to preserve the ability of local communities to make decisions about how their data is moved and used,” Kendrick said.  “The PCDH expands the options for those who consent to it, but it doesn’t in any way subvert the preferences of individuals.  That’s very important to us.”
+The emphasis on privacy and local control, along with the use of existing technologies that require relatively little investment in infrastructure, may soon enable the PCDH to rank among the most successful national health information exchange initiatives. 
+“The infrastructure that we’re building with the Patient-Centered Data Home gives patients confidence that their records can follow them across the health system while adhering to their privacy preferences and making it safer and easier to get the care they need,” said Kendrick.
+“It’s a critical step forward for the nation, and we are very excited about how it’s coming along so far and what we’re working towards in the future.”
+Tagged Care CoordinationHealth Data ExchangeHealth Information ExchangeInteroperabilityPopulation Health Management
+
+

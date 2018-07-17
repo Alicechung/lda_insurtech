@@ -1,0 +1,33 @@
+Top Ten Big Data, Analytics, Population Health Stories of 2014
+
+December 17, 2014
+
+By Jennifer Bresnick
+December 17, 2014 - As HealthITAnalytics prepares to join the healthcare industry in celebrating the end of a busy, successful, eventful year, we would like to take the opportunity to look back on some of the biggest stories to hit the wire during 2014.  Big data, predictive analytics, population health management, and hospital quality improvement drummed up keen interest over the past twelve months, and will continue to do so for the foreseeable future.  Here is our annual countdown of the top ten stories that attracted our readers during a time of reform, revolution, and wide-spread change.
+10. Data analytics, electronic monitoring increase hand hygiene compliance
+A lack of hand hygiene is one of the biggest risks to patient safety in the hospital setting.  Dr. Tom Diller explains how Greenville Health System tackled the threat of infection by leveraging electronic monitoring and data analytics to accurately measure compliance.
+9. The ONC makes big data analytics and population health a priority for the next decade
+Dig Deeper
+Which Healthcare Data is Important for Population Health Management?
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+The Office of the National Coordinator (ONC) released its ten-year plan for EHR adoption, interoperability, and big data analytics, culminating in a vision of true population health management, cost savings, and improved quality for patients.
+8. QPID strikes at the heart of predictive analytics for better patient care
+Dr. David Ting from Massachusetts General Hospital explains how the health system leverages its QPID interface to turn natural language processing into clinical decision support and predictive analytics.
+7. Allscripts breaks down population health management into bite-sized pieces
+When it comes to population health management, take one step at a time, says Peter McClennan of Allscripts.  Learn how providers can find an entry point into the complex world of population health in this interview.
+6. Making sense of big data through visualization tools and better reporting
+Selecting and implementing the right data visualization tools can turn an amorphous mass of big data into comprehensible reports and actionable insights.  What do providers need to know when investing in visualization interfaces?
+5. Building blocks for the patient-centered medical home
+As care coordination and integration become increasingly valuable to the healthcare industry’s bottom line, the patient-centered medical home (PCMH) designation has become a sought-after prize.  How can providers get started with the process of achieving PCMH recognition?
+4. Big data improves cardiology diagnoses by 17% at Mount Sinai
+In this case study, Dr. Partho Sengupta details how big data and an associative memory engine provides the support for better clinical diagnoses at Mount Sinai Hospital.
+3. Medicare will survive a little longer thanks to accountable care
+Medicare hospital funds will continue to be solvent until 2030 thanks to spending reductions associated with accountable care, CMS announced in July.  The news gives hope to healthcare reform advocates banking on value-based reimbursement as a way to reduce ballooning costs.
+2. Financial troubles mean fewer investments in analytics infrastructure
+Hospitals on the edge of the financial danger zone are holding off on investing in clinical analytics and population health management infrastructure.  Find out where they’re putting their dollars instead as Black Book Rankings reveals details of the purchasing landscape.
+1. Epic reigns supreme in the business intelligence arena
+A third of business intelligence users have selected the tried-and-true leader in the health IT field to help them push into financial analytics.  Epic may be the most popular vendor of business intelligence in the industry, but their hold on the analytics market isn’t quite as secure as it might seem.  Read more about the growing and changing analytics ecosystem in this year’s most popular article.
+  Tagged Big DataClinical AnalyticsPopulation Health Management
+
+

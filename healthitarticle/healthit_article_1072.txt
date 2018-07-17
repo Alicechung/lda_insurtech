@@ -1,0 +1,28 @@
+VA Streamlines Care Coordination with New Health IT System
+
+January 25, 2016
+
+By Jennifer Bresnick
+January 25, 2016 - Care coordination has always been a struggle for healthcare organizations seeking to transfer patients from one provider setting to another, and the process if often complicated by poor communication, administrative red tape, and convoluted documentation requirements that can trip up even the most experienced staff.
+In Virginia, the use of a seventeen-page-long preadmission screening document for patients heading into long-term care (LTC) facilities often took weeks to make its way from the discharging hospital to the state assessment department and back again, leaving LTCs in reimbursement limbo.
+While Virginia's Department of Medical Assistance Services (DMAS) recently introduced an online portal to allow for electronic submission of the Uniform Assessment Instrument (UAI) form, the interface was in need of some additional innovation to boost the productivity of frequent users like Brenda Parker, a nephrology case manager at Sentara RMH Medical Center.
+“The electronic Preadmission Screenings (ePAS) assessment tool is used for anyone who can’t afford to pay privately for long-term care.  It’s used by the state Medicaid program to see if a patient meets criteria for that level of care,” Parker explained to HealthITAnalytics.com.  “Several years ago, the form was all paper.  You filled it out and mailed it, and then someone looked it over and sent it back with an approval or a denial.”
+“Using the state’s electronic portal was a step forward, because we didn’t have to mail medical information through the post office, but it was nothing like the forms we were used to,” she continued. 
+READ MORE: CT Medical Society Announces New Health Information Exchange
+But the state’s new interface organized the required data differently, forcing users to re-learn how to complete the lengthy form.  “It didn’t flow very well, and it just caused a lot of problems for the staff,” Parker admitted.  
+Inefficient communication during the care coordination process can be more than just frustrating: it could be costing healthcare organizations millions of dollars a year, found a 2014 study. 
+The healthcare system could be losing up to $11 billion a year due to hiccups in the admissions, transfer, and discharge processes, and may waste more than half of their time it takes to transfer a patient waiting for answers from care coordination partners.
+Sentara RMH, already a user of Curaspan’s DischargeCentral care coordination product, agreed to participate in a pilot program to test the ability to complete the UAI form within their existing care coordination toolset and then forward the data through to the state’s online portal.
+The process allowed Parker, a 26-year veteran at Sentara RMH and the organization’s unofficial coordinator for the UAI process, to return to using the same forms she was used to, but with the added convenience of being able to fill out the paperwork electronically as well as send the data quickly to the long-term care facility hosting the patient.
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“We were delighted when we could go back to what we were comfortable with and what we had been using for years,” Parker said.  “We get responses from the state overnight, if we submit the forms by 5:00 PM.  That’s so much better than before, when it could take weeks to hear back.  It was such a time-consuming process.”
+The new system has cut down the average workflow time from approximately one hour to just fifteen minutes, Parker added, allowing experienced care coordinators and case managers to move more quickly through a time-consuming process.
+“If I was to hire a new employee right now, someone who has never done this screening, it would take them a long period of time regardless of which system they used,” Parker said.  “But all of the current staff at Sentara RMH are seasoned, and we know the forms forwards, backwards, and upside-down.  So moving to the new system was a huge benefit, because we already knew the documents.”
+Since the system was implemented in November, the state has received more than 1200 UAI forms through the DischargeCentral interface, representing around 20 percent of the 6000 forms completed in all of 2015.
+Part of the time savings is due to the system’s ability to auto-populate standardized patient demographic fields, a small but significant part of smoothing the workflow for staff.  In addition to saving valuable minutes, automatically filling in the information can reduce the opportunity for typos and other errors, cutting the likelihood of the assessment being rejected or confused with another patient’s file.
+READ MORE: NY Public, Private HIEs Connect for Population Health Management
+“On every form, you have to have the patient’s basic data,” Parker said.  “Sometimes it’s just the patient’s complete name and Social Security number, but you may also need the date of birth and a few other elements.  The new system will populate that required data for us.”
+“It sounds like a little thing, but it’s not.  It’s big.  Because now we don’t have to write down all that information on a sticky note and look at it every time we need start a new page,” she said.  “I’ve never had a problem with the data being inaccurate, and it saves so much time and so many complications.”
+Tagged Analytics InfrastructureCare CoordinationHealth Information ExchangeInteroperabilityQuality Of Care
+
+

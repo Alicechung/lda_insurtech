@@ -1,0 +1,32 @@
+SNOMED CT Code Framework Will Aid EHR Reporting, Interoperability
+
+November 01, 2016
+
+By Jennifer Bresnick
+November 01, 2016 - A coalition of professional pharmacy societies and other stakeholders has released a new framework for mapping medication therapy management (MTM) services to the SNOMED CT codes used for EHR documentation, interoperability efforts, and quality reporting.
+The crosswalk is designed to improve clinical documentation integrity and health information exchange by providing standardized definitions for pharmacy-related services that can be easily paired with the most applicable SNOMED CT code.
+More than two dozen organizations, including the Academy of Managed Care Pharmacy, Kaiser Permanente, Humana, the Pharmacy Health Information Technology Collaborative and the National Alliance of State Pharmacy Associations, contributed to the project, which may help providers leverage their electronic health records to achieve a number of healthcare reform goals.
+The ONC has named SNOMED CT as the standard terminology for use in Certified EHR Technology, and the code set is used to facilitate data exchange across disparate systems, the coalition notes.  The system allows clinicians to document clinical findings, provider interventions, patient histories, and other elements critical for delivering informed care.   
+“A clinically validated, semantically rich, controlled terminology, like SNOMED CT, helps to make an EHR meaningful,” says IHTSDO, the international organization that oversees the development and maintenance of SNOMED CT.
+“Using SNOMED CT to represent clinical information allows meaning-based retrieval of information. A SNOMED CT enabled EHR can be used to identify key facts, presenting opportunities to reduce the risks of errors of omission or commission.”
+Unlike ICD-10, which is primarily geared towards recording diagnoses and procedures, or the American Medical Association’s CPT codes, which are used for billing, SNOMED CT attempts to capture a more holistic view of the patient and his or her experiences, including socioeconomic data, medication use, lifestyle behaviors, and family history.
+“Utilizing SNOMED CT for documentation provides a vendor-neutral way to consistently capture, store, aggregate and share clinical data across multiple sites of care and is fundamental to an interoperable electronic documentation system,” the framework document explains.
+“It aids in organizing the content of electronic systems by reducing variability in the way data are used for clinical care of patients and research.”
+As the healthcare industry starts to rely more heavily on interoperability to generate big data sets to use for population health management, value-based care, and quality assessments, SNOMED CT will become increasingly important to providers. 
+For example, providers participating in CMS’ Part D Enhanced Medication Therapy Management (EMTM) Model will need to use SNOMED CT to report on how well they are optimizing MTM services to improve outcomes and patient safety while reducing the costs of care.
+“As pharmacists and pharmacies begin to utilize EHRs and other systems to document and share health care information in a more standardized manner, the adoption of SNOMED CT codes will be critical,” the framework states.
+The “Standardized Framework for Cross-Walking MTM Services to SNOMED CT Codes” document aims to reduce variability and improve data integrity by giving pharmacists more structured definitions of certain commonly confused terms, such as “adherence” versus “compliance” and “education” versus “counseling.”
+It also jumpstarts the development of Value Sets, or broader categories of concepts that make it easier for users to find the right code from more than 300,000 options.  These concepts include patient health literacy, transitions of care, adverse medication events, patient education and medication review, immunization history, and changes to medication regimens.
+By developing a consensus about which terms belong in which value sets, the pharmacy organizations hope to accomplish two major goals: first, to help participants succeed in the EMTM model, which starts in January of 2017, and secondly, to begin a conversation about how to standardize the documentation of all MTM services within the SNOMED CT language.
+Pharmacists aren’t the only ones looking to enhance the ability to capture and exchange data in SNOMED CT. Last week, the AMA and IHTSDO announced a collaboration to improve standardized mapping between CPT codes and SNOMED CT.
+“IHTSDO and the AMA view this collaboration as an important step toward increasing the coordination and integration of our terminology products to shape a better health care system,” said AMA CEO and Executive Vice President James L. Madara, MD.
+“We intend to use this collaboration as a foundation to achieve our shared goals of increased responsiveness to market needs and greater innovation through improved interoperability among ours and related terminologies.”
+The two organizations will produce educational tools and resources for providers and other stakeholders looking to boost the integrity of their data and prepare for larger-scale analytics projects.
+Back in 2013, before the ICD-10 transition, IHTSDO also partnered with the LOINC Committee to improve interoperability between the two code sets and reduce duplicate efforts to architect data reporting strategies.
+Such partnerships and discussions between industry stakeholders are likely to become more common as providers develop the skills to share and analyze big data – and financial pressures like value-based reimbursement contracts drive the need to access additional insights about performance and outcomes.
+The pharmacy groups involved in developing the framework envision an ongoing discussion about how to best refine and adapt the resource as the healthcare industry continues it quest to deliver high quality, data-driven care at the lowest possible cost.
+The Role of Healthcare Data Governance in Big Data Analytics
+Preventing Big Data Pain Points During a Healthcare Encounter
+Tagged EHR Data QualityEHR InteroperabilityHealth Information ManagementHealthcare Data Governance
+
+

@@ -1,0 +1,52 @@
+Success of AI in Healthcare Relies on User Trust in Data, Algorithms
+
+May 07, 2018
+
+By Jennifer Bresnick
+May 07, 2018 - From prediction to diagnostics to population health management, artificial intelligence holds unprecedented promise to revolutionize the way healthcare providers and patients interact with data.
+Some diagnostic and clinical decision support algorithms that leverage machine learning, deep learning, neural networks, and other AI strategies are already making headlines by competing with human providers in terms of accuracy. 
+These early-stage tools are heavily curated and hawkishly supervised – and few have yet reached broad implementation in the real-world clinical setting.
+For artificial intelligence to flourish in the wild, however, developers must establish a firm foundation of trust in their algorithms’ accuracy, objectivity, and reliability.
+That might present some challenges, said experts from Partners Healthcare, presenting at the recent World Medical Innovation Forum on Artificial Intelligence.
+READ MORE: Top 12 Ways Artificial Intelligence Will Impact Healthcare
+While the panelists firmly believe that the industry is close to making the leap from pilot to practice, ensuring that AI in healthcare is transparent, appropriately regulated, and implemented in a meaningful manner will be one of the industry’s most pressing concerns.
+“Where we are with AI right now reminds me of the early days of genetics,” said Anthony Rosenzweig, MD, Chief of the Cardiology Division at Massachusetts General Hospital.  “There were a lot of genetic associations or hypothesis that didn’t replicate.  There were a lot of false positives, and a learning curve to figure out what the standards should be.  We are very much in that same phase.”
+“We need to figure out how to test these algorithms, and what hoops they need to jump through in order to be validated so we can avoid that same lack of reproducibility that we had in early genetics.  We need some sort of vetting process so we know which tools we want to take forward into clinical applications.”
+Understanding exactly how these algorithms are making decisions is the first step in that process of validation and vetting.  It’s also one of the most difficult.
+Bias is a problem in all analytical tasks.  Data is often selected based on specific criteria, and those criteria may exclude or oversample certain features based on the curator’s unconscious leanings towards an expected solution or hypothesis.
+READ MORE: How AI Can Cut Costs, Uncover Hidden Opportunities in Healthcare
+Because AI tools must use training datasets designed by humans to feed frameworks for future decision-making, those unintentional biases can creep into the results and may become enhanced as the algorithm reinforces its own learning.
+“If we start feeding data in, including genomic data which obviously contains race and ethnicity information, there’s the possibility that the algorithms could spit out a result saying, ‘people who look like this don’t respond to a particular type of therapy,’” said Rosenzweig.
+“That could just reinforce some of the disparities in healthcare related to socioeconomic status or other biases in the system. The hope of AI is that we can overcome those disparities and improve the distribution of quality care more widely.  We just have to be attentive to the fact that in comparison to traditional statistical modeling, the processes within something like a neural network are really hidden from view.”
+So-called “black box” tools are difficult to avoid in the artificial intelligence world, where the inner workings of algorithms are exceedingly complex and not always easily explicable to anyone other than a highly trained data scientist.
+That leaves clinical end-users with the difficult task of balancing skepticism with confidence.  Many times, they must do so without the benefit of understanding exactly what training data was used or how to gauge the reliability of the end result according to some agreed-upon standard.
+READ MORE: Medical Imaging is Healthcare’s Artificial Intelligence Bellwether
+“There are currently no measures to indicate that a result is biased or how much it might be biased,” explained Keith Dreyer, DO, PhD, Chief Data Science Officer at Partners Healthcare and Vice Chairman of Radiology at Massachusetts General Hospital. 
+“We need to explain the dataset these answers came from, how accurate we can expect them to be, where they work and where they don’t work.  When a number comes back, what does it really mean?  What’s the difference between a seven and an eight or a two?”
+The challenge becomes even more complicated when moving into areas of medical innovation that have direct connections with patients, Dreyer added.
+“If an algorithm that can detect melanoma is available on a patient’s smartphone, and it gives them a risk score of some type, what do they do next?” he asked. 
+“This is changing healthcare so much that we really need to rethink not just the number it spits out, but also how we deliver care, how we pull data back into the system, analyze it, and make sure it’s accurate and has some value and meaning.”
+Trust in data is equally important for medical devices that may be used to monitor patients in the inpatient setting, in the home, or even from inside the body. 
+“The level of trust required is going to depend on the context,” said Rosenzweig.  “If you’re using AI to help you debate whether to put an implantable cardioverter defibrillator (ICD) in someone who might be at risk of cardiac arrest, the level of certainty you need to have is relatively high.”
+Many medical devices now include “smart” features that adapt and learn to predict risks and alert providers to potential adverse events, said Calum MacRae, Vice Chair for Scientific Innovation and Chief Executive of the One Brave Idea team at Brigham and Women’s Hospital.
+“There are lots of ways in which devices impact care as sensors and delivery mechanism, as well as distributed storage and computational platforms,” said MacRae. 
+“There are fairly sophisticated algorithms that are already present in most conventional, implantable devices – at least in cardiology.  You can imagine how those might end up being platforms for much broader implementation of different technologies.”
+If the analytics powering these devices is compromised by bias – or worse yet, by a security flaw that allows a malicious entity to inject a fault into the AI’s reasoning – patient safety may be at risk.
+“As we expand the Internet of Things through all of our biomedical devices, there is an obligation on the manufacturer’s side to work with us on the security implications of that,” asserted Gregg Meyer, Partners Healthcare’s Chief Clinical Officer. 
+“The algorithms, the hardware, the software – all of them can have vulnerabilities that need patching up.  It’s important to say that collaborating around that is going to be an expectation that we all have to have of each other moving forward.”
+Software for medical devices, as well as applications for other clinical functions, tends to be upgraded much more frequently than hardware, Dreyer said.  While there are regulatory processes surrounding software upgrades for devices, AI might throw a wrench into the current paradigm.
+“I’m not sure the FDA is ready for self-learning devices: software that can update itself continuously, or update itself differently at multiple locations depending on the perceived need,” he said.  “We’re clearly missing regulatory requirements that are necessary to manage some of this innovation.”
+“Anyone can create an algorithm right now.  Is the FDA going to take on the challenge of saying that they’re safe and effective?  There are a lot of broad questions here that need answers.”
+The FDA won’t be the only one that has to undertake some self-examination in the age of artificial intelligence, pointed out Anne Klibanksi, MD, Chief Academic Officer at Partners Healthcare and Co-Chair of the 2018 World Medical Innovation Forum.
+“What we have right now is probably a very unrealistic set of expectations based on what these things can do,” she said.
+“There is an assumption right now for many people that if you’re going to be doing this type of work, it’s going to be 100 percent accurate – and it’s going to replace every other type of decision-making.  I’m not sure that’s realistic, or that it is ever going to be realistic.”
+When AI falls short of that lofty bar, it can immediately erode trust – sometimes to the point of abandoning an initiative all together, she continued.
+“For example, accidents happen all the time,” she said.  “There are a lot of them.  But if an accident happens with something that is driven by AI…that is it for a lot of people.  That’s the end of the story.”
+“And that creates some challenges around innovation.  So we have to be reasonable about expectations in terms of diagnostics based on what people can do and the expectations around an algorithm.”
+Creating the right level of expectation, stamping out unintentional bias, and fostering a sense of trust in transparent and clinically validated artificial intelligence tools will help to develop an ecosystem that successfully integrates AI tools into reliable decision-making.
+“In reality, the bar for AI is not very high, in one sense,” said MacRae.  “Right now, there’s a 12 to 15 year implementation cycle from the time something becomes a clinical guideline to the time it is more or less uniformly adopted.”
+“Once we start to recognize that even in the best organizations, the current level of implementation is woefully inaccurate, then we start to realize that just have a system of standardized decision-making – any system – is probably a unique advantage.” 
+“As we start to think about how we can improve on that state of affairs, it’s easy to see how AI might impact clinical care in a very real way and in a very short amount of time.  We just have to make sure we’re improving on what already exists.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportDeep learningMachine LearningWorld Medical Innovation Forum
+
+

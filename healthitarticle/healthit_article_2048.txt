@@ -1,0 +1,17 @@
+Health information exchange use reduces admissions by 30%
+
+March 17, 2014
+
+By Jennifer Bresnick
+March 17, 2014 - Using health information exchange (HIE) to access health records when a patient presents to the emergency department can lower costs and reduce the number of admissions by nearly one third, says a study from Weill Cornell Medical College, published in Applied Clinical Informatics.  After surveying 15,645 patients in New York healthcare facilities over a six-month time period, the researchers found that while the HIE was only accesses 2.4% of the time, patients who has their providers examine previous data were 30% less likely to end up in the hospital.
+“Relevant patient information is frequently difficult to obtain in emergency department (ED) visits,” the researchers write.  Health information exchange (HIE) systems enable access to longitudinal, community-wide patient information at the point of care.  Improved provider access to previously inaccessible patient information may improve the quality of care and reduce hospital admissions.”
+HIE is a key factor in care coordination, and is especially useful when patients present to an emergency department, which may not be a facility they have used before or with any frequency.  While state authorities and private data exchange networks are growing at a respectable rate, connecting more and more records under larger, standardized systems, the use of HIE at the point of care is still sluggish, as the study indicates.
+A similar project studying the impact of HIE in another part of New York found that browsing previous data could save millions in unnecessarily repeated CT scans and other expensive imaging tests. “The premise of investing in health information technology and health information exchange is to enable a patient’s health data, with their consent, to be shared through an HIE in order to improve the patient’s quality of care, the patient’s health, and in the process lowering the cost of care for the community,” HEALTHeLINK’s Executive Director Daniel Porreca explained. “We believe this study shows that we are on the right track and renews our resolve to ensure doctors can efficiently and in a user friendly way use the information that is available to them in order to better treat their patients.”
+Dig Deeper
+Over 80% of Nurses See Increased Role in Patient Management
+How Data-Driven Care Management Improves Population Health in NC
+Identifying Big Data Sources for Population Health Management
+The facilities involved in the Weill Cornell study saw an annual savings of $357,000, the authors state, in addition to the reduction in hospital stays.  “These findings suggest that the use of an HIE system may reduce hospitalizations from the ED with resultant cost savings,” according to the authors. “This is an important outcome given the substantial financial investment in interventions designed to improve provider access to patient information in the US.”
+Tagged Care CoordinationHealth Data ManagementHealth Information ExchangeHospital Readmissions
+
+

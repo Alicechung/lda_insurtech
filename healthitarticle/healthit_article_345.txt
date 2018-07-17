@@ -1,0 +1,32 @@
+EHR Scribes Save Time, But Do They Produce Accurate Health Data?
+
+September 20, 2017
+
+By Jennifer Bresnick
+September 20, 2017 - Electronic health records (EHRs) have been endlessly criticized, fairly or otherwise, for distracting physicians from their patients, extending long work days, and creating burnout conditions for highly-trained providers. 
+To overcome these challenges, many organizations are turning to EHR scribes who are specifically trained in the art of translating clinical discussions into digital documentation. 
+While some recent research indicates that scribes can increase provider satisfaction with their health IT tools without producing a negative impact on patients, how does adding another step in the EHR documentation process affect the integrity and accuracy of the resulting data?
+According to a small proof-of-concept study from Oregon Health & Sciences University, EHR scribes produce significant variation in the length, comprehensiveness, and accuracy of the clinical notes they create on behalf of physicians.
+When five scribes participating in sample OB-GYN encounters were given the same information to transcribe into an Epic Systems EHR, just 17 percent of data elements were in agreement across all of the resulting notes, suggesting that subjective interpretation may vary the accuracy and usefulness of EHR documents.
+READ MORE: Will Medical Scribes Limit Innovation in HIM, EHR Documentation?
+Individual scribe accuracy ranged from 50 to 76 percent when compared to “gold standard” notes for three different scenarios generated from a videotaped, simulated patient-provider interaction.  The standard notes contained between 118 and 150 distinct data elements for the scribes to capture.
+More than a quarter of all scribe-created data elements were unique to individual scribes.   Less than 40 percent of the documented plan items and diagnoses were found to be in common across all five of the scribes.  There was a 2- to 4-fold difference in the number of data elements present for each of the participants.
+Length also varied significantly between individuals.  In one of the sample case studies, the shortest note was just 31 percent of the length of the longest note, indicating marked differences in language choice, style, and structure.
+Source: JMIR Medical Informatics
+Errors of omission and errors of commission were also frequent.  “Individual scribe accuracy ranged from 50 percent to 76 percent, whereas the accuracy of subjective, objective, and assessment and plan [portions of the clinical note] was 72 percent, 60 percent, and 56 percent, respectively,” the study explains.
+While scribes are by no means the only EHR users who struggle to create consistent, accurate, and meaningful clinical documentation, the study does highlight that the lack of standardized educational programs, regulatory guidance, and certifications may contribute to unwelcome variation in documentation.
+READ MORE: EHRs Contribute to Patient Safety Risks, Communication Errors
+“Before being embedded within a practice, scribes have varied levels of clinical exposure and disparate degrees of training varying from formal EHR training by employers or scribe organizations to Web-based courses by commercial scribe solution organizations to ad hoc training conducted by clinicians to no training at all,” the authors write.
+“This often creates an interesting paradox: most physicians feel that their own training with the EHR is inadequate and their need for utilizing scribes arises from their inability to use the EHR in a safe and efficient manner. Yet, these physicians may then be responsible for training and assessing scribes who have had often little to no direct health care experience themselves.”
+Organizations like the American Healthcare Documentation Professionals Group (AHDPG) are attempting to remedy the lack of cohesive scribe training by offering certification exams that focus on assessing job-readiness. 
+But even that program requires proof of a certain number of on-the-job hours already completed, which may mean that some scribes are starting out in everyday practice without adequate training in either clinical expertise or the particular EHR interface installed in the office.
+“In essence, this paradigm adds another layer of physician responsibility but does not eliminate the errors inherent with poor EHR use,” the authors assert.
+READ MORE: Poor Data Governance Practices Restrict Usefulness of EHRs
+Physicians are also responsible for signing off on a scribe’s work before the note is added to the patient’s record, and are ultimately accountable for the patient’s outcome. 
+With such high variation in each note and the risk of omissions, physicians may find that they spend just as much time correcting the documentation – and trying to recall whether the scribe accurately captured a consultation that may have taken place hours or days prior – as they would if they used the EHR themselves.
+These challenges and potential time sinks can be avoided by developing better training programs for scribes, the study suggests, not by avoiding scribes all together.
+“Scribes require appropriate training that directly links their learning needs with measured outcomes,” the authors assert. “This can be accomplished through training regimens that evaluate individual competencies pertinent to accurate EHR documentation.
+“Training should maintain HIPAA compliance and ensure patient safety. Given the relationship between communication errors and patient safety, scribes’ role in EHR documentation stands to benefit from training that does not endanger patient well-being.”
+With an estimated 15,000 to 20,000 scribes currently in practice, ensuring that these professionals are trained and monitored appropriately will be crucial for safeguarding patient safety and ensuring the integrity of EHR data in the future.
+
+

@@ -1,0 +1,30 @@
+Amazon is Exploring the Role of Alexa in Chronic Disease Care
+
+May 11, 2018
+
+By Jennifer Bresnick
+May 11, 2018 - In a not-at-all surprising move from Amazon, an internal team is exploring how Alexa can help consumers manage chronic diseases and maintain wellness, according to a report from CNBC.
+An “internal document” obtained by the news outlet indicates that Amazon is continuing to move forward with its multifaceted plans for the healthcare industry by standing up a “health & wellness” team within its Alexa division. 
+The report indicates that diabetes management, maternal and infant care, and services for the elderly may be among the first areas on the team’s agenda.
+Dig Deeper
+Artificial Intelligence Promises a New Paradigm for Healthcare
+EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+Chatbots May Be Healthcare’s Artificial Intelligence Entry Point
+Adding Alexa to its growing suite of healthcare-friendly capabilities seems a natural fit for the company, especially as EHR and health IT vendors work to integrate more artificial intelligence and voice-activated commands into their user interfaces.
+Alexa is already in use in some healthcare organizations, such as Boston Children’s Hospital, Northwell Health, and Beth Israel Deaconess Medical Center, as a way to handle low-level patient queries, such as scheduling, waiting times, or medication reminders. 
+Healthcare providers have expressed strong interest in leveraging the ambient computing devices for more complex clinical tasks, like ordering medications or assisting with documentation. 
+But neither Alexa nor any of its major competitors are currently HIPAA compliant.  This could be a key challenge for Amazon as it works to bring voice-activated healthcare services into the home. 
+Patients may be comfortable asking Alexa to set a reminder to take an existing medication, but a more advanced task such as ordering a prescription refill requires interaction with HIPAA covered entities and protected health information (PHI) that falls under the landmark privacy law – even if Amazon eventually becomes the distributor of those drugs, as industry rumors suggest.
+CNBC reports that the Alexa health and wellness team includes Missy Krasner, a former Box executive that helped lead the HIPAA compliance team at her former employer. 
+Achieving compliance would allow Amazon to sign business associate agreements (BAAs) with other healthcare entities, including providers and health IT vendors.
+Should Amazon succeed with ensuring the privacy and security of data traveling through the Alexa ecosystem, it is likely to find a ready market for its wares. 
+As of the beginning of 2018, market reports indicate that Amazon has sold more than 30 million Echo units, representing about 70 percent of the smart home device market. 
+Adding healthcare-focused services to its line of audio and video devices may encourage even more adoption, especially among households that include aging or mobility-limited members.
+Amazon has declined to comment on the document, CNBC says, but the concept certainly falls in line with what the company is likely to want to achieve in healthcare. 
+It is not difficult to envision the company making it easier for users to reorder their diabetes care supplies through Amazon Prime, order a ride to the doctor’s office through Uber, or reminding patients on a certain diet to create a healthy grocery list they can use to shop at Amazon-owned Whole Foods and have their order delivered within the hour.
+As homes get smarter and more remote monitoring devices enter the environment, positioning Alexa as the hub to manage the intersection between health and technology offers benefits to Amazon’s expansive coffers as well as to patients.
+It would seem to be only a matter of time before Alexa becomes a well-rounded and highly capable home health companion…unless Google Home gets there first.
+Competition between the two virtual assistants will be just as intriguing to watch as non-traditional technology giants muscle in to the healthcare environment.  The first to win the race to HIPAA compliance will be well positioned to become the platform of choice for chronic disease care and other health-related services in the home.
+Tagged AmazonArtificial Intelligence in HealthcareChronic Care ManagementChronic Disease ManagementPopulation Health Management
+
+

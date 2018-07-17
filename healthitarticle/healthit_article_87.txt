@@ -1,0 +1,42 @@
+Blockchain Offers to Solve Pain Points in Healthcare Data Management
+
+May 03, 2018
+
+By Jennifer Bresnick
+May 03, 2018 - Blockchain may be able to significantly improve the way healthcare providers collaborate to manage data and participate in transactions across organizational lines, predicts a new report by Chilmark Research.
+The distributed ledger methodology, which is founded on the idea of shared consensus and mutual trust, could help reduce some of the challenges created by data siloes, bewilderingly complex administrative transactions, and the overwhelming need to ensure the privacy and security of patient data as it travels between organizations.
+“Blockchain is immutable and enables permanent records of transactions that cannot be changed,” the report explained. “For transactions where fraud prevention, authenticity, or provenance of data are critical, blockchain can support transaction verification, and reduce fraud or data tampering.”
+“Each block (a record of a transaction similar to a page on a ledger that includes a record of the previous transaction) on the blockchain is recorded in historical order so we have a sequential history or audit trail of all transactions.”
+Understanding exactly when a transaction took place – and whether or not that exchange of data, currency, or other digital collateral is allowable and correct – is a core requirement of most interactions between business partners in all industries.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+In the healthcare industry, however, entities are still struggling to build technical and administrative connections that will ensure the reliability and accuracy of data, the report notes.
+As providers are incented work more closely together in the era of value-based care, sharing data in a timely and trustworthy manner is becoming the baseline for success. 
+But providers, payers, suppliers, and even patients often find that competing business priorities, poor data integrity, and disparate data formats are slowing down or preventing the meaningful exchange of information.
+Blockchain could engender trust, remove the need for third-party verification of transactions, and ensure a high degree of privacy and security by leveraging the same underlying framework that powers cryptocurrencies, such as Bitcoin.
+"Healthcare will benefit from early blockchain work in the finance industry and leverage blockchain applications for supply chains, finance and benefits management, and a few applications based on identity management,” said report author Dr. Jody Ranck.
+READ MORE: Change Healthcare Pushes Scale, Finds Value in Blockchain
+Many of these applications are already being piloted or fully deployed in the real world.
+Hashed Health, an industry blockchain consortium, has released a provider identity management tool that aims to simplify the dizzying process of ensuring that a healthcare provider is licensed and has privileges where they wish to practice. 
+This information is often decentralized, may be out of date or duplicated, and requires repetitious administrative actions to verify.
+Blockchain would allow a provider to make his or her current certificate of attestation of licensure available on the blockchain, where organizations can query for the data and ensure that it is trustworthy and up to date.
+Change Healthcare is also trying to simplify administrative and financial processes by using distributed ledger technology to support its massive claims processing responsibilities.  Organizations are able to track the status of claims submissions and remittance as $2 trillion of healthcare-related payments move between payers and providers.
+READ MORE: Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+“It provides an additional window into the status of a claim based on data captured on the blockchain, which can be very helpful for providers waiting for reimbursements to clear,” said Emily Vaughn, Change Healthcare’s Director of Blockchain Product Development.
+“But the ability to see a claim status isn’t what’s innovative here – there are a number of solutions on the market already that can do that.  The exciting part is proving that blockchain technology is actually capable of meeting the volume demands in healthcare.”
+These early proof points may make it easier for blockchain to expand into additional healthcare data management trouble spots.
+For example, Chilmark Research envisions that blockchain could improve care coordination by connecting patient data across multiple providers, or simplify the process of revenue cycle management by strengthening bonds within provider networks, streamlining the eligibility verification process, and automating claims adjudication.
+Other applications include supply chain management, quality measure reporting, and improving the accuracy of master patient indexes (MPIs).
+While blockchain presents a number of opportunities, Ranck believes that integrating distributed ledger tools into the health data ecosystem will take time and effort.
+“It will likely take a decade or more before blockchain solutions in the health records (both EHR and PHR) space become mainstream,” she said. “We need to view blockchain as an infrastructural transformation – and these shifts always take time to achieve critical adoption levels."
+That prediction is somewhat more conservative than other industry opinions on the topic. 
+A recent survey from the life science industry predicts that it will only be five years before blockchain will play a major role in pharmaceutical supply chain management and precision medicine, while Frost & Sullivan foresees the convergence of blockchain, the Internet of Things, and machine learning by 2025.
+Healthcare providers, payers, and technology developers are working steadily to make those tighter timeframes into a reality. 
+In October of 2017, nineteen percent of hospitals and 76 percent of healthcare payers surveyed by Black Book were already deploying or considering how to implement a blockchain-based solution.
+Chilmark Research believes these early adopters will have to solve for several stumbling blocks if they are to achieve their goals on any time scale. 
+Chief among these is likely to be the question of data standards, or the lack thereof.
+“The adoption of blockchain will either be limited or facilitated by the absence or existence of standards,” the report states. “As private and public blockchains proliferate with a growing number of distributed ledger platforms, this will become an important issue as well.”
+“This points to an important distinction for blockchain: it should be viewed as a platform play rather than a new product. As such, it should be judged based on its impact on entire industries and how they transform over time.”
+Blockchain is still in its infancy as a supportive platform for healthcare data management, but early successes in the administrative ecosystem will likely help organizations work through potential issues and create meaningful opportunities to bring distributed data management to the care continuum.
+Tagged Blockchain in HealthcareHealth Information ExchangeHealthcare Data ManagementInteroperability
+
+

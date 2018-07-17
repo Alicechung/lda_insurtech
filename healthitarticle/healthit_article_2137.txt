@@ -1,0 +1,116 @@
+Clinical documentation improvement isn’t just for ICD-10
+
+December 30, 2013
+
+By Jennifer Bresnick
+December 30, 2013 - The ICD-10 transition is putting the spotlight on data integrity like never before.  Providers worried about meeting the higher standards of detail and specificity in clinical documentation for the October 1, 2014 transition have been scrambling to train their physicians to write more complete notes packed with as much information as possible.
+But ICD-10 isn’t the only reason why clinical documentation needs to be better.  Analytics goals such as population health management, risk stratification, and financial efficiency also rely on a foundation of clear, precise, and detailed clinical data in order to produce meaningful insights.
+One of the positive side effects of the generally onerous code switch is this focus on improving data integrity at its source: the EHR buttons, drop-downs, and text fields that capture information straight from the patient’s mouth and the physician’s fingers.  While the transition requires a great deal of coordination among multiple initiatives all aimed at preparing healthcare organizations for a major shift in coding and billing, clinical documentation improvement (CDI) is still top of the list for many providers.  But despite the growing awareness that ICD-10 is going to affect every workflow process from start to finish, many physicians still haven’t made the necessary changes to their daily habits.
+“I’ve been doing CDI for 15 years and physicians still don’t provide all the details needed to ensure appropriate, thorough documentation,” says Mel Tully, MSN, CCDS, CDIP and Vice President of Clinical Services and Education at Nuance.  “Unless they’re being prompted and given a tool or person to help guide them, they will always document pneumonia as pneumonia.  There are many, many other ways to document it and even today, physicians still need guidance on how best to capture the specific details needed to accurately reflect the severity of the care provided.”
+HIMSS: Population health, patient surveillance ripe for growth
+CA Children’s Hospitals Win Davies Award for Analytics, Safety
+Risk of Heart Attack Jumps with Non-Obstructive Heart Disease
+Epic Systems Wins Best Overall Health IT Suite in KLAS Rankings
+Senators Urge CMS to Reconsider Hospital Compare Quality Ratings
+Can Social Media Aid Clinical Trial Recruitment, Disease Research?
+FCC Plans to Map Broadband Access to Aid Chronic Disease Care
+Health Data Exchange, Interoperability Can Aid Antibiotic Stewardship
+Claims Big Data Analytics Flags Medication Non-Adherence Rates
+Clinical Decision Support Guidelines Cut Unneeded Angioplasty
+Big Data Analytics, Digital Health M&A May Profit Health Systems
+Achieving Broad Interoperability, HIE by Building Community
+Big Data, FHIR, Machine Learning Dominate Top 10 Stories of 2017
+Project to Develop EHR Toolkit to Stem Readmissions
+IBM Bets Big on Blockchain for Value-Based Care, Data Exchange
+EHR Predictive Analytics Flag 32% of Nursing Home Patient Falls
+Breaking Down the Basics of Population Health Management
+June ICD-10 End-to-End Testing Produces 90% Acceptance Rate
+Google, Stanford Partner for Genomics, Precision Medicine Project
+Open source mentality brings new data visualization techniques
+ONC Picks FHIR Health Data Aggregation App Contest Winners
+KLAS Names Best Vendors for EHRs, Business Intelligence, Analytics
+How Monitoring Wire Data Aids Healthcare Big Data Analytics
+Medicaid Gets a Big Data Boost with Funding, Analytics Tools
+Five Population Health Use Cases for the Internet of Things
+Developing Big Data Governance Strategies for Better EHR Use
+DOD Awards $77M Healthcare Big Data Analytics Contract to CACI
+WUSTL granted $8M for genetic, patient data analytics
+FDA, Europe Team up for Precision Medicine, Patient Engagement
+New CancerLinQ Partnership Expands Big Data Analytics Platform
+Top 12 Ways Artificial Intelligence Will Impact Healthcare
+5 Test Cases to Prove the Value of Population Health Management
+Study: Thyroid cancer is over-diagnosed and over-treated
+Texas HIE adds genetic data for analytics, personalized care
+WY population health program cuts ER visits, readmissions
+$500K Grant to Support Healthcare Big Data Analytics Research
+EHR Adoption, Health IT Use Improve Patient Safety, ONC Says
+Is healthcare set for a big data revolution with IBM Watson?
+WEDI Appoints Charles Stellar as Interim President and CEO
+Stage 3 MU Steadily Loses Favor as EHR Usability Concerns Rise
+FDA: Drug Development Transparency Key for Precision Medicine
+EHR, analytics fragmentation presents challenges for hospital
+Twitter could track HIV outbreaks for population health help
+Pancreatic Cancer is Target of New Precision Medicine Grants
+Population health management brings wellness to employees
+Does high-intensity care improve Medicare patient outcomes?
+API-Based Genomics Databank Facilitates Personalized Medicine
+ICD-10 End-to-End Testing Sees 88% Acceptance Rate in April
+ICD-10 Group Slams “Safe Harbor” Bills, Debunks Coding Myths
+Does Patient-Centered Medical Home Transformation Take Too Long?
+Gauging the maturity of your business intelligence systems
+ONC, NIH Launch S4S Program for Precision Medicine Research
+$335K Grant Supports Chronic Disease Management for Lupus
+EHR Optimization is Key for Quality Reporting, Population Health
+What does the Stage 2 Meaningful Use delay mean for analytics?
+Top 10 Challenges of Big Data Analytics in Healthcare
+Machine Learning Tool IDs Macular Degeneration as Well as Humans
+Machine Learning, Imaging Analytics Predict Kidney Function
+ONC Health Data Resource Enhances Patient Data Sharing, Access
+FDA Seeks Patient Engagement for Clinical Trials, Precision Medicine
+2014 Million Hearts Challenge urges hypertension control
+NIH Grants $10M to Newborn Genome Sequencing Project
+Cost is a Primary Driver of Medication Non-Adherence Rates
+Stage 3 Meaningful Use Prompts Hopes, Concerns for MGMA
+PCMH Wins HIMSS Davies Award for Population Health Management
+Optum Risk Management Analytics Cut Opioid Use by 14%
+AHIMA: Learning health system combines informatics, innovation
+NIH Preps National Launch of “All of Us” Precision Medicine Biobank
+Reviewing the Progress of Health Data Access, Interoperability
+IBM Watson’s Cognitive Computing Rivals Human Oncologists
+To build a population health management program, start anywhere
+HIE Becomes an Entry Point into Population Health Management
+Payers Wary of Outsourcing Big Data Analytics, Health IT Tasks
+NIH Recommends Precision Medicine Approach to Treat Alzheimer’s
+CDC Awards $28.6M for Big Data Analytics to Track Opioid Abuse
+Cleveland Clinic Sets Up New Biobank for Clinical, Genomic Research
+CMS Selects 516 Orgs for Population Health Management Program
+How the Patient-Centered Medical Home “Repackages” Primary Care
+Hospital Acquired Infections Kill 2, Put Dozens at Risk in CA
+Open Population Health Analytics Flag Philly Health Disparities
+ONC releases EHR patient safety guides and tools
+Can a simple blood test predict how long you will live?
+Big Data Analytics, Governance Align CHI’s 100+ Hospitals
+Humana: Change the Conversation on Chronic Disease Management
+Stress, Depression Negatively Impact Chronic Disease Management
+How Healthcare Big Data Analytics Is Tackling Chronic Disease
+95% See Population Health as Critical, but Worry about Payment
+What Does “Pick Your Own Pace” MACRA Mean for Data Analytics?
+Can Healthcare Informatics turn EHR Data into Phenotypes?
+CPT, SNOMED-CT Codes Ally to Boost Healthcare Data Integrity
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Big Data Shows Persistent Ordering of Unnecessary Procedures
+How are providers using EHRs, HIE for population health?
+Clinical Analytics, EHR Alerts Increase Drug Safety by 80%
+Physician Portal Aids Data Exchange for Stand-Alone Hospital
+CMS’ Pioneer ACO Program Not Conducive to Small Hospitals
+NIH Seeks $1.1B to Fund Precision Medicine, Cancer Moonshot
+Atul Gawande to Lead Amazon, Berkshire, JPMorgan Healthcare Company
+6 EHR Patient Safety Strategies for Medication Orders, CPOE
+Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+Recent industry surveys have found that CDI is top of mind for at least 73% of providers during their ICD-10 testing process, with 40% planning to break out documentation improvement into its own separate effort.  Nearly a quarter of providers are more focused on CDI than testing the technical ability of their claims to transmit to business partners, which shows that a lack of good documentation is nagging at the thoughts of a significant number of organizations.
+“You’ve got to have the right type of data, the right amount of it, and you’ve got to be able to trust the validity of that data – or you can’t trust the results from analyzing it,” says Shane Pilcher, Vice President at Stoltenberg Consulting.  “The majority of hospitals are falling short of the data that they need right now.”  CDI programs intended to ease the ICD-10 transition will leave providers with a better understanding of what data is necessary and how to capture it, leaving them with stronger data assets once the waves caused by the transition settle down.
+“[Providers] that are looking at this longer term, and looking at what advantage they’re going to derive from it, are using the transition to ICD-10 as a time to do some other things that they know they need to do,” explains Linda Kloss, RHIA, former CEO of AHIMA, founder of Kloss Strategic Advisors, and a member of the Precyse Advisory Council.  “I think it’s an opportunity to put in place some of the checks and balances that are needed for all of our data processes.  We can be a little savvier about this by stepping back and treating this as a competency that healthcare organizations need to have.”
+Treating CDI as a larger push towards the data integrity necessary for clinical analytics can help bring value to the effort that will echo far beyond ICD-10.  “So much of the frenzy has been about getting to the October 1 start date, and getting through the implementation itself,” Kloss adds.  “I’m not underestimating the cost and complexity of it, but it’s also time to start turning our attention to life after October 1, and how we’re going to use that data.”
+  Tagged Analytics InfrastructureClinical AnalyticsClinical DataData CaptureEHR UseICD-10
+
+

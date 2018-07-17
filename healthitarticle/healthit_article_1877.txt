@@ -1,0 +1,17 @@
+Stem cell “roadmap” brings analytics to tissue engineering
+
+August 27, 2014
+
+By Jennifer Bresnick
+August 27, 2014 - An online data analytics tool developed at Boston Children’s Hospital will allow stem cell researchers to check the quality and function of tissue samples engineered in laboratories.  CellNet uses algorithms to match the genetic properties of engineered cells with those that originated in a natural human body to ensure that lab-grown liver samples contain the same biological properties as the real thing.
+“To date, there has been no systematic means of assessing the fidelity of cellular engineering—to determine how closely cells made in a petri dish approximate natural tissues in the body,” says George Q. Daley, MD, PhD, Director of the Stem Cell Transplantation Program at Boston Children’s and senior investigator on a pair of studies published in the August 14 edition of Cell. “CellNet was developed to assess the quality of engineered cells and to identify ways to improve their performance.”
+The tool, available for free online, is one of the first resources that provides quality assurance for scientists attempting to use stem cells for the regeneration of tissue in mice and, eventually, in humans.  While the process of converting stem cells into specific types of specialized cell, such as intestine or liver samples, has previously been a matter of trial and error, “CellNet will be a powerful tool to advance synthetic biology—to engineer cells for specific medical applications,” says James Collins, PhD, Core Faculty member at the Wyss Institute and the William F. Warren Distinguished Professor at Boston University, co-senior investigator on one of the studies.
+In tests of the algorithm, CellNet showed that some stem cells had not completely converted into the target type and also suggested genetic tweaks that could correct the problem.  The program also flagged some uses for certain samples that hadn’t been discovered by the scientists on their own.
+Dig Deeper
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+NIH to Bring Precision Medicine Data Collection to Patient Homes
+“We found that liver-like cells made from mouse skin were actually more like intestinal cells,” said Samantha Morris, PhD, a first co-author of the studies. “In fact, the converted skin cells could engraft into mice with inflammatory bowel disease—Crohn’s or ulcerative colitis. After a short time, the cells became highly similar to native colon cells and assisted healing of the damaged tissue, a finding that surprised and excited us.”
+Tagged Applied AnalyticsClinical AnalyticsMedical Research
+
+

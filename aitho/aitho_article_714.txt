@@ -1,0 +1,17 @@
+MayaData Releases Litmus – Open Source Chaos Engineering For Kubernetes
+
+02 May 2018
+
+Litmus Is A Set Of Testing Workloads And Automations To Enable End To End Testing Of Stateful Workloads On Kubernetes, Including The Use Of Chaos Engineering To Inject System Failures
+This week at KubeCon, the leading conference discussing cloud native and microservice technologies, MayaData, the sponsor of the OpenEBS project and MayaOnline, released a new open source project called Litmus.
+Litmus is a set of testing workloads and automations to enable end to end testing of stateful workloads on Kubernetes, including the use of chaos engineering to inject system failures. The Litmus project is described at https://www.openebs.io/litmus and is available at https://github.com/openebs/litmus . Litmus includes both Ansible and Go based automation engines as well as a wide variety of synthetic workloads. Additionally, using the GoDog interpreter, users can specify scenarios using plain English.
+Stop by the OpenEBS booth, booth #SU-C09, to learn more about Litmus and to chat with users and engineers of OpenEBS, MayaOnline and of course Litmus. Litmus will be discussed as a part of a talk on E to E testing – using Kubernetes to test Kubernetes end to end – led by MayaData engineers Amit Kumar Das and Uday Kiran Friday May 4th.
+MayaData will also be at the RedHat Summit next week in San Francisco; stop by booth #841 to meet the team and to discuss new patterns for stateful workloads, chaos testing and more.
+In addition, MayaOnline, a SaaS solution that provides visibility into OpenEBS based storage environments, now has a free tier that is available to OpenEBS users.
+MayaOnline capabilities include:
+Visibility into data management from the most granular storage policies, devices and cloud volumes to higher level constructs such as organizations, cloud providers, and workloads
+Integration via GitOps into DevOps workflows, allowing for MayaOnline users to suggest aggregate changes, for example that are then confirmed through change control processes
+MayaData’s vision is that data management for containers and cloud lock-in can be solved thanks to open source projects like Kubernetes and OpenEBS and cloud-based software that delivers analytics, ChatOps, and automation. MayaData sponsors the OpenEBS project, contributes to Kubernetes, and recently released a free version of MayaOnline for cross-cloud visibility, control, and automation of the data layer.
+Read More: SAP Introduces SAP Digital Manufacturing Cloud
+
+

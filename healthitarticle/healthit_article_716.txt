@@ -1,0 +1,36 @@
+Will MACRA and the QPP Unlock Health Data for Smarter Care?
+
+October 18, 2016
+
+By Jennifer Bresnick
+October 18, 2016 - MACRA and the Quality Payment Program (QPP) have the potential to usher in a revolutionary new era in healthcare, says National Coordinator Dr. Vindell Washington – one that will enable a meaningful, intelligent ecosystem of informed care driven by big data and innovative connections.
+In the transcript of a recent speech published on HealthITBuzz this week, Washington marveled at how much health IT adoption has progressed under the EHR Incentive Programs, and laid out a vision for further healthcare reform driven by the industry’s growing familiarity and comfort with data-driven health IT tools.
+“The fact that healthcare was still a paper world eight years ago, is just incredible,” he said during a workshop held by the Association of Health Care Journalists.
+“And, as in so many other areas, going digital has a real impact. You’ll remember that there was a time when everyone had scores of doctor’s handwriting jokes. All the while many of us in healthcare knew even then that the errors in medicine due to illegible handwriting were more like horror stories. Many tragic errors were the result.”
+“You’ll also remember a time when drug-allergy or basic drug-drug interactions being missed when there wasn’t an automated system as a backstop,” he continued. “Or when the physician’s ability that we sometimes now take for granted, to check an electronic record from home, or send it to a colleague in seconds—was just a dream.”
+READ MORE: Finalized MACRA Quality Payment Program Requires Big Data Push
+During his career as a physician in the Army and the private sector, Washington has himself benefitted greatly from advances in healthcare technology, including telehealth and electronic health records. 
+While he is pleased that EHR use has become part of the “normal course of business” for the majority of healthcare professionals, the QPP is about to move the needle one step beyond this new normal.
+“I want to talk about why this digital health foundation underpins virtually all the innovative health initiatives you are hearing about,” Washington said.  “And if there is one thing about ONC that I want you all to remember as you walk away from here today, it is that ONC’s mission is to help unlock health data and put it to work on these initiatives.”
+MACRA will play a major part in those plans – and not just on the financial side, he argued.  Value-based reimbursements are an important motivation for providers, but the QPP aims to overhaul the entire care delivery system, not just how organizations get paid.
+“Our collective goal throughout the QPP is to support the vision of a simpler approach to technology for providers, focused on advancing information sharing and better outcomes for patients,” said Washington.
+READ MORE: How Does the ONC Define HIE, Value-Based Care, Population Health?
+The QPP will do this by addressing several pain points from meaningful use.  Participants will not be subject to an all-or-nothing attestation approach, they will be allowed to report on fewer measures, and they will be able to select the measures that best reflect their individual practices. 
+In addition to flexibilities for providers who are struggling with meeting quality and performance metrics, the QPP provides more advanced organizations with more opportunities to accrue financial incentives if they engage in risk sharing, coordinated care delivery, and population health data reporting.
+“We provide ‘bonus points’ for doctors and practices that use certified health IT to perform practice improvement activities like population management or care coordination – because improving the coordination of care between teams of doctors, or monitoring the health of a whole panel of patients—or a whole community—or identifying those who need the most attention, before they show up in the emergency department—depends on health IT,” Washington asserted.
+“Finally, we make clear that succeeding in Alternative Payment Models requires the effective use of technology. In short, the Quality Payment Program recognizes and rewards the fact that health IT is foundational to providing quality care.”
+Several top federal priorities, including precision medicine, the Cancer Moonshot, and ending the deadly nationwide opioid crisis, rely on interoperability and the free flow of health data across disparate systems, Washington added. 
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+To succeed with these important initiatives, the healthcare system as a whole must improve its ability to collect, analyze, share, and leverage big data for research, population health management, and clinical decision support.
+Washington laid out three “key drivers of success” for this vision: developing a business case for increased data sharing, leveraging industry-wide data standards to break down siloes, and changing the culture around information sharing to eliminate the threat of data blocking that may lead to negative patient outcomes.
+“Too often we are seeing health systems and vendors focusing competing on having access to data not delivering better care or applications, and it is holding back progress,” Washington stated.
+Data blocking has become a serious concern for the ONC, which has struggled to define the problem, let alone address it. 
+Additional oversight of the Certified EHR Technology program, announced in a final rule released late last week, may allow the agency to nip data blocking in the bud by requiring EHR developers to create more interoperability-friendly products.  The rule may also help to improve EHR usability for clinicians – another critical step for enacting truly impactful healthcare reform.
+Ultimately, the QPP should combine with the rapid march of health IT to create a healthcare system that doesn’t just collect data for data’s sake, but leverages it to the fullest for quality and patient safety improvements. 
+If the new legislation can bridge the technology and process gaps left by meaningful use, more clinicians may feel the way Washington felt the first time he used telehealth to help make an unusual diagnosis.
+“I remember, thinking at that time, ‘The way we think about practicing medicine will never be the same again,” he said. “Once you have access to any technology that allows you to significantly improve patient outcomes, you never want to go back. Nor should you.”
+Finalized MACRA Quality Payment Program Requires Big Data Push
+Understanding the Value-Based Reimbursement Model Landscape
+Tagged Health Information ExchangeHealthcare Data GovernanceMACRAQuality Payment Program
+
+

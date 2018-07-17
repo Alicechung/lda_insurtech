@@ -1,0 +1,13 @@
+Baidu Has Launched Its Own Blockchain-As-A-Service (BaaS) Platform
+
+18 Jan 2018
+
+Based On Technology Developed By Baidu, The Open Platform Sets Out To Provide The Most “User-Friendly” Blockchain Service
+According to the firm’s dedicated website, “Baidu Trust” allows the conducting and tracing of transactions, and can be applied in various use cases, including digital currency, digital billing, bank credit management, insurance management financial auditing, and more.
+Baidu says the technology has already been applied in asset securitization and exchange, and claims it has contributed to the “first asset-backed securities exchange products using blockchain technology in China.”
+With the move, Baidu follows Chinese internet conglomerate Tencent in launching its own suite of blockchain services. In novermber, Guo Rui, Vice President of Tencent Payment Infrastructure and Vice President of Financial Applications Line (FiT), Internet Securities and Blockchain Business Head had made an announcement that the new blockchain BaaS cloud service platform will be launched in the near future. Users can make better use of the mature architecture of Tencent Cloud and the high quality services of financial cloud to build a stable and convenient blockchain application. In the future, BaaS platform Will provide big data, credit and other advantages of more plug-in services.
+Rui said Tencent blockchain TrustSQL two major innovations in technology: First, based on the delivery of the database to support SQL interface access, users can use the previous development habits; Second, the original built-in smart contracts, Implement a more secure, efficient and user-friendly business model to migrate to the blockchain.
+Announced in April 2017, Baidu said it would use the technology – coincidentally called “TrustSQL” – to offer digital asset management, authentication and “shared economies”, among other services.
+While maybe a little behind on launching its BaaS platform, Baidu was an extremely early adopter of bitcoin. Notably, it announced in October 2013 that it was accepting payment in bitcoin for its Jiasule service, which improves websites’ performance, speed and security.
+
+

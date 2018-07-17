@@ -1,0 +1,15 @@
+Lionbridge Adds Neural-Based Amazon Translate To Its Localization Enablement Platform
+
+04 Apr 2018
+
+Company presents recent project success that highlights fast, high-quality language translation to market through Neural MT technology
+Lionbridge Technologies, Inc., one of the world’s most trusted global digital communications companies helping brands to deliver seamless, cross-cultural experiences, today announced the enhancement of its localization enablement platform with the inclusion of Amazon Translate, a neural Machine Translation (MT) service developed by Amazon Web Services (AWS). Amazon Translate was made publicly available today during AWS Summit San Francisco. Lionbridge CTO Ken Watson and VMware provided insight into a recently completed project where Lionbridge used Amazon Translate to augment the production of multilingual content.
+Lionbridge was selected by AWS to collaborate on its new service to help their customers localize their core content efficiently and cost effectively. Amazon Translate delivers fast, high-quality and affordable language translation through a form of automation that uses deep learning and neural networks. The result is more accurate and natural-sounding translation compared to traditional statistical and rule-based translation algorithms.
+John Fennelly
+“Being selected by AWS to be a part of its Amazon Translate launch is truly an honor,” said John Fennelly, CEO, Lionbridge. “AWS has a strategy of continuous evolution, and the announcement of Amazon Translate is no different. Neural MT is changing the game for multilingual communication. For more than 15 years, the team at Lionbridge has been the leader in arming human translators with new tools to produce better communications. We are always looking to provide our customers with innovative, new ways to produce higher quality content. We’re excited to be a part of this program and look forward to many joint successes.”
+Swami Sivasubramanian
+As global businesses continue to find ways to provide immediate, relevant content to meet changing customer demands, neural MT provides a solution that performs faster and more accurately than ever before. Through this work with Amazon Translate, Lionbridge is helping lead the way for new translation technology that can deliver high-quality, relevant and cost-effective content.
+“Lionbridge offers its customers a convenient and effective solution for the localization of assets that call for the creativity and experience of highly skilled translators,” said Swami Sivasubramanian, Vice President of Machine Learning, Amazon Web Services, Inc. “Creating and disseminating trusted content in a timely fashion is key for global businesses today. Lionbridge is uniquely positioned in the translation and localization market, and we look forward to helping more businesses around the world reach their audiences in their native language together.”
+ 
+
+

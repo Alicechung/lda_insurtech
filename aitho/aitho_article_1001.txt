@@ -1,0 +1,16 @@
+Nebulas Launched Mainnet 1.0 At Its New NAS Center In San Francisco
+
+02 Apr 2018
+
+Developers Can Now Deploy Their Prototypes On The Main Nebulas Chain
+Nebulas founders Hitters Xu and Robin Zhong introduced Nebulas’ Mainnet version 1.0, the public blockchain platform of the Nebulas ecosystem, during the grand opening of its NAS Center in San Francisco on March 29, 2018. Event attendees included Nebulas partners, advisors, and community members, including guests from Facebook, 500 Startups, Google, Dolphin Browser and more.
+Nebulas Mainnet 1.0 was launched three months after the debut of the Nebulas Testnet (public beta) on December 30, 2017. Developers can now deploy their prototypes on the main Nebulas chain. The core functionalities of the Nebulas Mainnet represent a significant step forward for blockchain ecosystem:
+Javascript compatible and developer friendly. The Mainnet supports Javascript and TypeScript for smart contract programming. With this, developers can start building on Nebulas at ease. We are also working on other languages, such as Python, Ruby, Java, Node, etc.
+Significantly improved network propagation. Nebulas implements chunk-based parallel synchronization: Each chunk contains 32 blocks, and 10 chunks are synchronized in parallel. This increases the speed and ease of joining nodes, enabling the network to expand more quickly.
+Increased transactions-per-second (TPS). The Mainnet’s storage and concurrency mechanisms expand TPS by packaging and verifying multiples transactions in parallel.  Nebulas sets the stage for groundbreaking decentralized apps and mainstream blockchain adoption.
+Nebulas opened the NAS Center in San Francisco.
+The Nebulas Mainnet 1.0 launch ceremony was hosted at the new NAS Center in San Francisco. Located at the heart of San Francisco, the NAS Center serves as an international hub for Nebulas for R&D and marketing. NAS Center aims to tap into Silicon Valley’s blockchain community and be a strong supporter and enabler for the blockchain ecosystem.
+The NAS Center will also serve as the home to Nebulas Labs, a new blockchain incubator to accelerate value-creating apps in the Nebulas ecosystem. Incubated teams will receive help and resources including technical, strategic, financial and collaborative support. The Nebulas Labs incubation program is now open for application.
+Nebulas Rank brings a new dimension to public blockchains by measuring the utility of entities across all blockchains and enabling the discovering of these entities through the Search Engine Framework. Nebulas’ native Developer Incentive Protocol (DIP) and Proof of Devotion (PoD) incentive systems reward developers of Nebulas dapps and users who maintain the integrity of the network. Nebulas Force, meanwhile, proposes a community-led blockchain governance model and innovative upgradability protocol, enabling Nebulas chain to be democratically updated without soft- or hard-forks, in a way that opens the door to smart contract upgrades for the first time.
+
+

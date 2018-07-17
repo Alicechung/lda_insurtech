@@ -1,0 +1,47 @@
+Fourth industrial revolution poised to transform re/insurance: Amit Tiwari, Xceedance
+
+18th January 2018 - Author: Steve Evans
+
+The fourth industrial revolution (4IR) continues to gain traction, resulting in a wave of smart and connected technologies which look set to transform the global insurance and reinsurance industry, according to Amit Tiwari, Chief Technology Officer, Xceedance.
+
+In an interview with Reinsurance News, Tiwari discussed re/insurance operations in the era of the fourth industrial revolution, which is underlined by the influence of new and advanced technology that is accelerating change across the global risk transfer industry.
+
+“What is the Fourth Industrial Revolution, and what might the implications be for the insurance industry? The original industrial revolution saw the harnessing of water and steam to create the manufacturing process and factory system. The second was spurred by the adoption of electricity and a transition to the production line and mass-manufacturing. The third industrial revolution was driven by the introduction of electronics, computerisation, and global communications among other significant innovations,” explained Tiwari.
+
+Like with its predecessors, 4IR has the potential to greatly transform business and technology in many ways, described by some as a “merging of physical and cyber networks to create new autonomous systems.”
+
+Tiwari explained how early innovations have already had a meaningful impact on both the working and personal lives of many, highlighting Chatbots and interactive assistants, such as Siri, Alexa, and Google Now as notable examples. And, according to Tiwari, this is just the tip of the iceberg.
+
+“We are likely to see subcutaneous devices inserted into humans to monitor their health, and entire factories can be rigged with intelligent sensor technology to self-monitor and optimise operations. As everything becomes connected and monitored in real time, performance, precision, and reliability are expected to dramatically improve. In the factory setting, for example, optimisation will be due in part to machines checking themselves and alerting factory operations managers that parts are about to fail,” said Tiwari.
+
+And while individuals can expect a shift in roles and responsibilities as a result of advanced robotic technology and greater automation, ultimately improving efficiency, with the insurance sector, Tiwari highlights the underwriting process as one of the areas expected to undergo the most dramatic transformation as a result of 4IR.
+
+“Historically, pricing motor risk entailed a tedious process in which insureds are typically asked about their age, their accident record, and how many miles they drive. This method results in very generalised risk assessments that can be time-consuming to produce and vulnerable to human error and fraud. Alternatively, such information can now be collected automatically from a range of data sources and platforms such as social media and black box technology, which can track individual vehicle and operator movements in real-time.
+
+“Freed up from repetitive and formulaic tasks, underwriters can instead focus their wealth of industry knowledge on making much more complex risk evaluation decisions to the benefit of both the insurance organisation and its policyholders,” explained Tiwari.
+
+“The Fourth Industrial Revolution is logically also leading to a surge in the creation and adoption of new technology. Indeed, the age of InsurTech is a manifestation of 4IR, with a striking rise in the development of new technologies and processes, including telematics, robotic process automation, AI/machine learning, the Internet of Things, and drones. Such tools make it easier and more scientific for carriers to understand what they are insuring, where the primary and associated exposures lie, and how the risk could be affected by external forces. The result is more accurate and more individualised risk assessments.
+
+“By adopting a more proactive approach based on risk and loss mitigation rather than loss response, carriers can save time and money, and afford better coverage and service to their policyholders. For example, if carriers are able to monitor for early signs of malfunction in a client’s property or vehicle, they can proactively advise clients, before the issue develops into a costly loss,” continued Tiwari.
+
+The rise of InsurTech entities has been well documented across the risk transfer space, as an increasing number of insurers and reinsurers look to partner with new, potentially disruptive entities. And despite the insurance industry’s historically laggard outlook, Tiwari told Reinsurance News how insurance organisations are starting to understand the need to embrace change more quickly.
+
+“At the same time, wholesale adoption of new technology without a comprehensive strategy is also dangerous. Re/insurers, who have long embraced legacy systems, need time to absorb and adjust to revolutionary tools. Rather than taking a transformational leap all at once, many are instead taking a ‘wait and see’ or experimental approach — especially in the London Market, where the Target Operating Model (TOM) is being developed and there is uncertainty about if and how insurance organisations will need to integrate with future market-wide platforms.
+
+“To help navigate the implementation process for the intelligent technologies of 4IR, many organisations are also turning to managed services providers which combine domain-specific expertise and technological know-how — with people and resources of the calibre employed by re/insurers themselves. Such providers can customise approaches that ease the operational burdens and technological knowledge gaps across the entire insurance lifecycle,” said Tiwari.
+
+Interestingly, Tiwari was eager to provide a recent example of operationalising 4IR technology, where an insurance managed services provider developed a rating and pricing engine for a carrier to integrate into its broker portal.
+
+“The carrier expected between 300 and 1,700 transactions per day but the portal was soon being used by 1,000 brokers, generating 10,000 daily transactions. The usage volume resulted in 500 referrals each day, which was overwhelming the carrier’s underwriting team; and almost half the referrals were due to faulty or inactive addresses. The carrier’s underwriting executive wanted only unique referrals to come to the underwriters.
+
+“To address the bottleneck, a machine learning mechanism was developed so when a referral first comes to an underwriter, it combines factors such as how much the premium has increased or decreased with referral conditions and value. For future transactions, if the referral condition and value remain intact, the system uses the first learned factor to calculate premium, meaning the application is not referred to the underwriting team.
+
+“Geo-spatial data analysis was added to this machine learning rating and pricing platform, using Google Earth for ‘Address Not Found’ cases. By combining machine learning and geo-spatial data analysis, the number of referrals to underwriters was reduced by 60%, the broker and policyholder had better user experiences, and underwriting costs were cut by 60%,” explained Tiwari.
+
+To conclude, Tiwari said; “The Fourth Industrial Revolution has unleashed a wealth of smart and connected technologies which are poised to transform the insurance industry in ways that will be difficult to predict. The pace of technological change in the industry is accelerating, and those companies that wait too long could soon see themselves left behind by more agile and adventurous competitors who are embracing 4IR.
+
+“As Klaus Schwab, founder of the World Economic Forum (WEF) warned at the 2016 WEF in Davos, “There has never been a time of greater promise, or greater peril.”
+
+“For re/insurers, whose business it is to predict and mitigate risk, the signs are increasingly clear: As 4IR gains traction in the networked economy, to remain complacent with the status quo in insurance operations is to risk becoming obsolete.”
+
+

@@ -1,0 +1,30 @@
+Can Big Data Analytics Improve Medication Non-Adherence?
+
+March 29, 2016
+
+By Sara Heath
+March 29, 2016 - Integrated big data analytics may be the next big thing in mitigating issues with medication non-adherence, according to a new study published in JMIR Medical Informatics.
+A research team led by Brian E. Dixon, MPA, PhD, studied a group of Type 2 diabetes mellitus (T2DM) patients and their providers to determine whether analytics technology utilizing aggregated  patient, provider, and pharmacy data could determine the reasons for medication non-adherence for the patient population.
+The study involved an analytics platform which served as an extension of an EHR, displaying physician information, pharmaceutical data regarding patient habits filling medication prescriptions, and information gleaned from patient surveys about barriers to medication adherence.
+Researchers ideally wanted physicians to use this data to determine the reasons for diabetic medication non-adherence and eventually inspire patients to follow their treatment plans.
+Dig Deeper
+CVS to Offer Nationwide Home Delivery of Prescription Drugs
+SC Online Population Health Dashboard Reveals Community Disparities
+Care Coordination, Medication Adherence Key to Diabetes Care
+At the end of the nine-month study, the researchers determined that the integrated data analytics system did help providers to attain an 80 percent medication adherence rate.
+However, the researchers were unable to determine the specific reasons for medication non-adherence amongst this patient population.
+“Following the introduction of the intervention, enrolled patients’ medication adherence improved significantly and meaningfully achieving its primary outcome,” the research team reported. “However, no significant changes to clinical outcomes or health care utilization were observed.”
+The researchers posed several possibilities as to why they saw these conflicting results.
+Most notably, they said that this integrated data analytics system may be better for supplementing conversations about medication non-adherence rather than determining the reasons for non-adherence.
+The platform, which allows providers to view the answers to patient surveys, serves as a communication tool between the patient and the provider. By administering the survey through this tool, patients became aware of the risks of medication non-adherence and understood the importance of sticking to a treatment plan.
+“This may be the result of patients being exposed to the barriers questionnaire; an exposure that may have stimulated their consideration of the importance of using medications as prescribed,” the research team explained.
+Patients also may have been cognizant of the fact that their providers were taking note of their medication habits and therefore made better efforts to adhere to their treatments than they otherwise would have.
+“It is also possible that the requests for patients to provide data about barriers acted as a clinical reminder, which influenced patients to be mindful about medication use… it is plausible that patients, believing that their provider was going to see data about their medication utilization, elected to be more consistent in their medication use,” the team observed.
+Going forward, the research team noted that it needs adjust some details of the experiment to determine the causes of medication non-adherence in diabetes patients. Several of these changes include better workflow adjustments and alterations that would make the integrated data analytics system available to patients on multiple electronic media.
+Medication non-adherence has created a very expensive problem for the nation’s healthcare system, costing millions of dollars annually. To mitigate the problem, several research groups have worked to determine the best ways to encourage patients to adhere to their treatment plans.
+Among those efforts include medication synchronization plans during which pharmacists align prescription refill days so that patients only have to visit the pharmacy once per prescription cycle. Research shows that these plans increase efficiency and reduce burden on pharmacists.
+Also important to reducing medication non-adherence is improving patient engagement. This study shows that patient’s awareness of the problem of medication non-adherence and proper education in the importance of following treatment plans may have been a significant contributor to improved adherence rates.
+Going forward, healthcare researchers are going to need to determine which of the many best practices are most suitable for improving medication non-adherence, keeping in mind that these efforts are likely rooted in robust patient engagement.
+Tagged Big Data AnalyticsChronic Disease ManagementMedication adherencePopulation Health ManagementQuality Of Care
+
+

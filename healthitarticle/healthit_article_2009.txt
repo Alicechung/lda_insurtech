@@ -1,0 +1,19 @@
+NIH: We’re ready to “mine the big data mountain”
+
+May 13, 2014
+
+By Jennifer Bresnick
+May 13, 2014 - There are few industries in the world as deeply reliant on data as healthcare, and yet there are few industries that have lagged so far behind as medicine when it comes to digitizing, harnessing, examining, and acting upon the avalanche of information that comes from every clinical observation, every financial transaction, and even every time a nurse washes her hands.  Healthcare is sitting on a mountain of data, says National Institutes of Health Director Dr. Francis Collins in a blog post, and that data can form the basis for an incredible new era of exploration and research if the industry learns how to use it.
+“Biomedical researchers and clinicians are generating an enormous, ever-expanding trove of digital data through DNA sequencing, biomedical imaging, and by replacing a patient’s medical chart with a lifelong electronic medical record,” Collins writes. “What can be done with all of this big data? Besides being handy for patients and doctors, Big Data may provide priceless raw material for the next era of biomedical research.”
+Collins cites the example of a study performed by Dr. Atul Butte of Stanford University under an NIH grant.  Using a genomics database built up through the findings of more than 9000 studies, Butte and his colleagues started to comb through the data and pair up individual genes with diseases.  Butte was able to link 801 genes with 69 diseases, then made a list of genes associated with certain traits.
+“Butte’s team found 120 diseases and traits that were linked by the activity of just a few genes. Many of these disease-trait associations were already known to the biomedical community, but about 20% of these connections were novel,” Collins explains.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Does Social Determinants Data Enhance Population Health Analytics?
+As a result of correlating this data with the EHR files of more than 324,000 patients, the study found a series of surprising connections between levels of certain chemicals in the blood and a number of cancers.  Patients with elevated magnesium levels, for example, were significantly more likely to be diagnosed with gastric cancer than those with normal levels, which may be an important signal for physicians to monitor these patients differently.
+“What I find most noteworthy about this work is not the specific findings, but how the researchers demonstrate the feasibility of mining vast troves of existing data—genetic, phenotypic, and clinical—to test new hypotheses,” Collins said.
+“Indeed, we are at a point in history where Big Data should not intimidate, but inspire us. We are in the midst of a revolution that is transforming the way we do biomedical research. In some cases, rather than posing a question, designing experiments to answer that question, and then gathering data, we already have the needed data in hand—we just have to devise creative ways to sift through this mountain of data and make sense of it.”
+Tagged Applied AnalyticsBig DataBig Data AnalyticsClinical AnalyticsClinical DataClinical IntelligenceMedical ResearchPatient Data
+
+

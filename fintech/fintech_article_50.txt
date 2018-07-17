@@ -1,0 +1,25 @@
+Indico Announces the First Enterprise AI Product Purpose-Built for Business Users
+
+June 28, 2018
+
+Indico, a provider of Enterprise AI solutions for unstructured content, announced the release of the latest version of its application. The machine learning solution is built to make artificial intelligence more accessible to business users looking to automate manual processes, augment existing workflows with greater intelligence, or discover new opportunities and risks within existing unstructured data.
+
+ Indico’s new application offers highly functional and efficient machine learning capabilities specifically designed for text, images, and other document-based information such as PDF and Word documents. Indico leverages a proven data science technique called Transfer Learning offering enterprises important advantages in their ability to apply machine learning to unstructured content compared to existing solutions. With Indico:
+
+ “Enterprises are struggling to apply AI to unstructured content, which makes up over 80% of the data in most organisations,” said Tom Wilde, CEO at Indico. “Existing solutions require huge training datasets, expensive hardware, and hard-to-find machine learning expertise. Indico is eliminating these barriers by enabling enterprises to use much smaller sets of data to create customised machine learning models to solve unstructured content challenges and gain the significant business benefits that come with it.”
+
+ The offering is designed for two primary use cases in the enterprise:
+
+ Indico’s latest version offers a number of other important advantages for users:
+
+ The solution features three core modules that can be used in correlation and individually:
+
+ Beta Program and Enterprise AI Workshop for Business Users
+
+ Indico’s new application is available to qualified beta customers immediately. Indico is also offering a workshop for enterprises designed to help business users better understand how they can take advantage of AI and machine learning in their specific roles. The workshop can be delivered on-site or remotely and typically lasts two hours.
+
+ About Indico
+
+ Indico is an enterprise AI solution for unstructured content. Our focus is on helping to automate tedious back-office tasks, improving the efficiency of labor-intensive document-based workflows, and extracting valuable insights from unstructured content, including text and images. Our breakthrough in solving these challenges is an approach known as transfer learning, which allows us to train machine learning models with orders of magnitude less data than required by traditional content analysis techniques. With Indico, enterprises are now able to benefit from the dramatic advantages of machine learning at a fraction of the time.
+
+

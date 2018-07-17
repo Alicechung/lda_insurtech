@@ -1,0 +1,30 @@
+83% of Life Science Execs Expect Healthcare Blockchain in 5 Years
+
+June 29, 2017
+
+By Jennifer Bresnick
+June 29, 2017 - The majority of leaders in the life sciences and pharmaceutical industries expect a rapid uptake of healthcare blockchain tools, says the Pistoia Alliance in a new survey.  More than 80 percent of respondents to a webinar-based poll said that they anticipate widespread blockchain adoption within five years, with the precision medicine arena leading the way.
+“We are entering a future where individuals have cheap and ready access to their genomic profile or ancestral history, for as little as $100,” said Steve Arlington, President of The Pistoia Alliance. “The potential of this data to advance research and development efforts is huge. But this potential will only be realized if the industry can work out how to safely and securely store and share sensitive data.”
+While 22 percent of life science companies are already using or experimenting with blockchain in some capacity, significant concerns remain over how to meet regulatory requirements while keeping data private and secure.
+Blockchain’s distributed ledger approach to data storage is often considered among the most secure ways to store sensitive data and allow the data’s owners more choices about who sees what information.
+Private blockchains under the direct control of patients are promising alternatives to the fragmented, often duplicated, and easily-breached electronic health records (EHRs) currently in use across most of the healthcare industry. 
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Sixty percent of the 120 survey participants believe that blockchain will have a significant impact on the storage of medical records, while 68 percent believe that the methodology will drastically improve patient safety by providing a tamper-proof audit trail for how therapies move through the healthcare supply chain.
+When it comes to genomic data, which is as personal as health information can get, patients are likely to demand more assurances that their data is being secured appropriately, accessed according to their wishes, and only used for applications that they have specifically approved.  Blockchain may provide a solution for these issues.
+“The dynamics of power are changing and patients today have become more empowered – we are seeing a shift to a transformative age of ‘the patient will see you now’,” said Nick Lynch, consultant for The Pistoia Alliance. “In the future, patients will even have the possibility of monetizing access to their personal data, giving individual companies access to ‘blocks’ of their data for research purposes.”
+“This shift – where patients have access to and control over how their data is used – is changing the entire model of healthcare from early R&D all the way to frontline delivery. Ultimately, patients will want to manage their personal data the way they manage their bank accounts. The life sciences industry must collaboratively explore solutions that enable patients to do this, while ensuring they retain access to data for their own R&D efforts.”
+If life science and pharmaceutical leaders are able to develop blockchain-based data storage and access tools, they will be able to leverage data sources that have previously been unavailable, said presenters of the webinar.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+“These include the gathering and tracking of patient data, track and trace, inventory management, movement and storage of patient records, research and development, clinical trials, etc.,” said Darryl Glover, Chief Clinical Officer at iSolve.
+“The number of applications is only limited by one’s imagination. The key is to remember that when data provenance is required and the creation of immutable and auditable records is important to assist in meeting regulatory requirements, then the blockchain is an ideal solution.”
+While healthcare organizations can certain engage in enhanced big data analytics and data tracking without a blockchain, traditional databases are prone to challenges created by data siloes, interoperability issues, and data governance concerns.
+“Blockchain offers benefits in transparency, operational efficiency, robustness, [and] resilience,” said David Houlding, Healthcare Privacy and Security Lead at Intel Health and Life Sciences.
+“Health information exchanges (HIEs) are another potential use case and existing network opportunity for blockchain that would involve collaboration across providers for health information exchange, where blockchain is serving the role of a record location service. In this case blockchain enables this use case without the HIE ‘middleman,’” he added.
+READ MORE: 16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+“We don’t see disintermediation, but rather a change of role for intermediaries from a central bottleneck or trusted broker to more of an enabler and support role for participating organizations in the B2B blockchain network.”
+Interest in blockchain for healthcare may be strong, but relatively few organizations in life sciences or in the clinical care environment have developed the strategies and solutions required to implement the methodology on a large scale.
+“Right now, blockchain is a technology originally created for use in the financial services industry, but by working together, the life sciences industry can take advantage of its secure attributes,” Arlington said.
+“The Pistoia Alliance was formed to foster collaboration between the life sciences industry and its stakeholders in other sectors – our aim is to support our members’ blockchain initiatives and provide a forum for such partnership.”
+Tagged Blockchain in HealthcareHealth Data SecurityHealth Information ExchangeHealth Information ManagementInteroperability
+
+

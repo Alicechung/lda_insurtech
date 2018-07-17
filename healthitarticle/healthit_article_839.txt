@@ -1,0 +1,27 @@
+Data Overload May Impede Healthcare Internet of Things Growth
+
+July 20, 2016
+
+By Jennifer Bresnick
+July 20, 2016 - The Internet of Things (IoT) may simply be too hot for the healthcare industry to handle as organizations continue to struggle with the huge amount of data produced by wearables, sensors, remote monitors, and other medical devices.
+Forty-two percent of participants in a cross-industry poll conducted by Strategy Analytics said that the Internet of Things produces too much data to analyze efficiently, despite the fact that 56 percent believe big data analytics is driving greater reliance on IoT technologies.
+"While data analytics emerged as the top reason for an IoT deployment, a significant percentage of companies struggle with how to analyze that data to benefit their business," said Andrew Brown, Strategy Analytics Executive Director of Enterprise and IoT Research. 
+"The data deluge is problematic.  Over 50 percent report that they have too much data to be able to analyze it efficiently.  We also found that 44 percent of respondents currently perform some data analytics but admit they could do a better job and 31 percent of organizations do not currently store IoT data at all," Brown said.
+Uncertain prospects for financial return on IoT analytics, coupled with worries over the security of device data, are also contributing to respondents’ reluctance to push forward with IoT deployments, added Laura DiDio, Director of IoT Systems Research and Consulting.
+READ MORE: How the Search for Smart Data Drives Healthcare IT Investment
+“Integration with legacy systems (41 percent) and security are the biggest impediment to IoT deployments,” she said.  “Only 13 percent of respondents said that IoT will strengthen security and 56 percent said security is their top technical challenge.  Another concern is that nearly half of businesses have not completed a detailed cost analysis, which is crucial.”   
+While 80 percent of firms are currently using Internet of Things data in some capacity or are considering using the IoT within the next twelve months, just 25 percent of respondents said they have completed an end-to-end IoT deployment.     
+The IoT is still in a phase of rapid growth, and the underlying technologies of the connected device ecosystem have not yet been fully developed.  The healthcare Internet of Things market may be worth a staggering $410 billion by 2022, predicted one recent report, driven by novel technologies like ingestible and disposable sensors.
+The healthcare industry, with its hearty appetite for predictive analytics, population health management, chronic disease monitoring, and remote care, is among the earliest adopters and top users of IoT technologies. 
+A previous survey from Strategy Analytics, published in July of 2015, showed similar results, identifying healthcare big data analytics and diagnostics as one of the most promising areas of growth for Internet of Things devices, tools, and techniques.
+READ MORE: By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+“The survey results show that enterprise interest in IoT is high, driven by the need to address and solve pragmatic business issues,” DiDio said at the time. “But it's equally clear that organizations are still assessing the myriad offerings and specific integration and migration strategies.”
+They may need to take their time with doing so, as the challenges to a successful IoT deployment are many.  The most recent poll found that 28 percent of participants believe it is difficult to capture IoT data reliably, while 25 percent aren’t sure how to collect data that is useful for their strategic goals. 
+Twenty-seven percent admitted that they are unsure what questions to ask, while 18 percent acknowledged that their business processes are likely too rigid to take advantage of this new multifaceted source of information.
+For the healthcare industry, these results may be particularly problematic.  In addition to being subject to extremely tight security regulations governing the privacy of patient data, many healthcare providers do not currently have access to interoperable technologies, such as electronic health records, patient portals, and population health management systems, which can accept data from IoT devices in a meaningful, easy-to-analyze manner.
+And the obstacles aren’t just technical in nature.  Patient and provider behaviors must change if the IoT is to become a meaningful tool for chronic disease management or communication, and vendors must do a better job of offering their wares in a workflow-friendly manner that presents intuitive, usable, curated data to providers at the point of care.
+READ MORE: How Healthcare Big Data Analytics Helps Build Smart Societies
+While healthcare vendors and providers are slowly acclimating themselves to the new reality of IoT data, and reliance on APIs that allow IoT connections is growing, healthcare organizations may still have a long road to travel before the Internet of Things becomes a routine part of their big data analytics programs. 
+Tagged Health IT InvestmentHealthcare Data GovernanceHealthcare Internet of ThingsPopulation Health Management
+
+

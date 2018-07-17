@@ -1,0 +1,32 @@
+Payments Technology Study Finds Security And Interfaces Driving Innovation
+
+10 Feb 2018
+
+US Vendors Are Planning To Spend $1 Billion On Security Software This Year, According To IDC
+A new payments industry research study released today finds that technology and financial services innovation in 2018 will focus on consumer interfaces, security and software innovation. The Electronic Transaction Association (ETA) sponsored IDC Market Spotlight, Payments Trends to Watch in 2018,highlights new channels, networks and opportunities for the acquiring community. The Market Spotlight provides specific insight into five trends in payments technology in 2018 that will drive the discussion at ETA’s TRANSACT, April 17-19, the world’s largest payments technology trade show.
+Jason Oxman
+“The financial institutions, networks, payment processors and FinTechs powering payments are using new interfaces and better security to drive commerce for consumers and retailers,” stated Jason Oxman, CEO of the Electronic Transaction Association. “As the trade association of the payments technology industry, ETA will use this research report to focus in 2018 on creating new opportunities for partnerships that integrate payments and technology.”
+The New Channels: Voice, AI and the Internet of Things
+In the next 24 months, IDC forecasts 30 billion devices will be connected to the internet. 2018 will bring a serious discussion on how merchants and their vendors will contend with new channels – voice-enabled commerce through in-home devices, chatbots initiating payments on social networks, and connected devices managing purchasing decisions and payments. In 2018 alone, those connected devices will initiate $150 billion in transactions, ETA research finds.
+James Wester
+“Voice is a natural way to communicate and it will become a very important part of commerce as we move forward,” said James Wester, Research Director for IDC. “2018 will be the year we see voice commerce provide a seamless and easier way to make a payment.”
+In 2018, the Market Spotlight concludes that financial institutions and payment technology vendors must focus on their preparedness in the face of this rapid buildout of IoT and the assignment of customer identities and accounts to connected devices.
+The “Point of Interaction”: The Changing State of the Point of Sale
+IDC forecasts that U.S. merchants will spend nearly $1.7 billion on POS hardware in each of the next two years. The continued evolution of the point of sale (POS) remains important in 2018 as large retailers look to their POS to handle more than the transaction, and small retailers seek powerful, integrated, competitively priced POS options.
+“The POS is part of the entire retail experience,” said Wester. “The cash register has evolved and no longer just sits on a counter to be involved only in the transaction. The data captured during that transaction can help a retailer offer rewards and loyalty programs, or help them make decisions on logistics and pricing.”
+Today’s shoppers expect a seamless experience, one that follows them across channels and provides virtually unlimited choices. In 2018, POS vendors who provide retailers with the means to bring value to the shopping experience, along with providing a variety of payment types (chip, swipe and contactless) and services such as loyalty and rewards programs, will enable retailers to meet consumers demands.
+Read More: Moeda, The First Cooperative Banking Platform, Presented At CryptoHQ, Davos-Klosters
+Software as the New Hardware
+The POS is becoming a point of connection to a marketplace of applications and software that go beyond payment acceptance. The IDC Market Spotlight finds that U.S. merchants will spend $2.2 billion in 2018, and $2.4 billion in 2019, on POS software alone. Additionally, spending on customer analytics and loyalty management solutions will hit $1.4 billion in 2018 and $1.6 billion in 2019, the report finds.
+“Companies building terminals are turning to software companies, some of who are just entering the payments landscape, to turn the POS into an integrated system that does more than just payments,” stated Wester. “Thanks to software, the POS is now an important part of omnichannel commerce. Days of a standalone payments terminal are over. Processors see the value of building networks on top of money movement.”
+In 2018, POS vendors and their payment partners will look for new revenue opportunities by offering access to an ecosystem that delivers new solutions in addition to card acceptance.
+Evolving Transmission Networks
+2018 will see an increased focus on new payments networks to carry transaction volume and on financial institutions upgrading their systems. IDC predicts that banks in the U.S. alone will spend nearly $5 billion on the effort, including hardware, software and IT services in the next two years.  The IDC Market Spotlight specifically highlights Zelle, the bank-backed P2P network owned by Early Warning, as an example of a new network offering a solution for a specific use case.
+“Financial institutions are improving their back-end-systems to better connect across multiple channels,” said Wester. “Institutions do not want to lose to a non-bank player and the ‘next generation’ platform for banks will allow faster connections to new networks.”
+Multiple network options mean financial institutions can offer products for business and consumer customers such as dynamic routing of payments across multiple competing networks or support connected banking, where APIs provide links into banks systems for third parties to access data for aggregation or money movement.
+Security: Innovation to Support New Tools
+U.S. vendors are planning to spend $1 billion on security software this year, according to IDC. The payments industry has a chance to introduce new tools and technologies to meet the growing cybersecurity and fraud threats that merchants face online and in-store.
+“We see how important data is and vendors will need to be able to answer questions on how secure are new technologies like AI, voice and even cryptocurrencies,” stated Wester. “As consumers assign their identities – and the financial accounts to those identities – to object and items such as cars and devices, the risk to the system grows.”
+Read More: Bitcoin Evangelist Charlie Shrem Joins Particl’s Team Of Advisors
+
+

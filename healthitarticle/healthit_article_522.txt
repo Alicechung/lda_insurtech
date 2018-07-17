@@ -1,0 +1,32 @@
+CT Medical Society Announces New Health Information Exchange
+
+March 30, 2017
+
+By Jennifer Bresnick
+March 30, 2017 - Three years after Connecticut shut down its attempt at a regional health information exchange, the Connecticut State Medical Society (CSMS) is taking another crack at improving interoperability and data analytics across the state – but this time, physicians will be in the driver’s seat.
+The Society has announced a partnership with KaMMCO Health Solutions (KHS) to establish a physician-led HIE that will enable data sharing between hospitals, ambulatory organizations, and other providers.  The new network hopes to be up and running by the end of the summer in 2017.
+"Connecticut physicians have been waiting for some time to have a functioning interoperable system," said CSMS President Jeffrey A. Gordon, MD. "We know that the electronic exchange of medical information improves health outcomes by giving physicians the right information at the right time. Care is better when we are connected."
+CSMS also envisions that the HIE will provide analytics capabilities to its members, providing a value-add for a service model that has struggled to find its place in a rapidly changing interoperability industry. 
+KHS also supports the Kansas Health Information Network (KHIN), which has overcome its own set of struggles to become a stable force in the Midwest.
+READ MORE: Health Information Exchange Data Scarce, Inaccurate, Incomplete
+"By partnering with KHS, we benefit from a proven model developed by Kansas Health Information Network, as well as the analytics tools developed based upon input and feedback from a pilot group of physicians and hospitals,” said CSMS Executive Vice President/Chief Executive Officer, Matthew Katz.
+“Tools such as these benefit patients at the point of care, and support physicians and other healthcare professionals transitioning to the MIPS era under the MACRA law."
+Connecticut stakeholders will have to overcome a great deal of baggage in order to architect a successful, secure, and sustainable health information exchange. 
+In 2010, the state announced the launch of Connecticut’s Health Information Technology Exchange (HITE-CT), with high hopes that the hybrid public-private agency would help providers adopt electronic health record technology in compliance with the first stages of meaningful use. 
+At the beginning of the EHR Incentive Programs, many states rushed to develop architecture that would enable the exchange of data between major healthcare centers and their aligned physicians, although few have survived the difficult years since.
+READ MORE: How Health Information Exchange Models Impact Data Analytics
+In Connecticut, disinterest and disorganization among top leadership quickly led to the initiative’s demise, according to a report released by the state in the aftermath of the July 2014 shutdown.  Privacy and security concerns added to the disarray, and HITE-CT never actually performed any health information exchange services before it was shuttered.
+The HIE landscape has changed drastically since that time, with interoperability efforts moving away from centralized state agencies and towards the EHR vendor community as federal grant money dried up and technology evolved.
+Private data exchange efforts, such as CommonWell, Carequality, and the Sequoia Project are becoming important forces in the interoperability world.  Meanwhile, emerging data standards like FHIR and a growing interest in APIs are shifting data exchange towards individualized, software-based exchange and away from massive HIE pipelines.
+But state exchanges may still have their place, especially if they provide analytics capabilities.  Statewide HIEs can deliver “analytics-as-a-service” to organizations that cannot develop these tools on their own – and access to a deep pool of patient data drawn from multiple communities across the state can significantly enhance the ability to engage in meaningful population health management, predictive analytics, and risk stratification.
+In Maine, for example, a state HIE with a heavy-hitting set of big data analytics options has brought sustainability and growth. 
+READ MORE: Why Health Information Exchange Needs HIM, IT Collaboration
+After ten years of work, HealthInfoNet has connected all the hospitals in Maine, established a data sharing partnership with the Department of Veterans Affairs, and has now turned its attention to integrating behavioral health clinics and other ambulatory providers in an effort to expand its care coordination abilities.
+The state has seen a significant drop in emergency department visits, 30-day readmissions, and hospital mortality due to improved predictive analytics and data exchange, HealthInfoNet said in a 2016 report.
+If CSMS can replicate the successes of data-driven HIEs like KHIN and HealthInfoNet, it may be able to avoid the grim fate of its predecessor.  A strong focus on clinical involvement may help them do that. 
+Physician involvement and feedback is a key component of the collaboration between CMSM and KHS, both organizations stressed, which could give the new partnership an edge over more politically-driven projects.
+“Two organizations with healthcare provider advocacy at their very core will be collaborating to build a dynamic network of healthcare solutions,” said KHS President and Chief Executive Officer Kurt Scott.
+"We are honored to partner with CSMS to develop this health information network and provide integral business intelligence tools to the healthcare community of Connecticut.”
+Tagged Analytics InfrastructureCare CoordinationHealth Information ExchangeInteroperabilityPopulation Health ManagementRegional Health Information Organizations
+
+

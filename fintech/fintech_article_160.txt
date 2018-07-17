@@ -1,0 +1,19 @@
+How to avoid the TSB crisis and prevent Banking IT Chaos
+
+May 16, 2018
+
+Guy Warren, CEO at ITRS.
+
+ Technological glitches, especially when it comes to banking applications, can lead to major reputational damage. Lloyds TSB learnt this the hard way when frustrated customers took to Twitter to criticise the company, as they were unable to access their bank accounts between April 21st-22nd.
+
+ What started as a botched IT migration spiralled into chaos with up to 1.9 million customers encountering login problems. A number of customers also were able to view information about other customers. The FCA and the Information Commissioner’s Office are investigating the issue and have the authority to fine the bank for the failed system upgrade and alleged data breach. The reputational damage to TSB will likely be even greater.
+
+ At least superficially, what customers demand is simple. They want 24/7 access to banking applications, without delay or error.  However, from the banks’ perspective, achieving these high levels of application availability and production stability in today’s highly complex application landscape is an increasingly tough challenge. This is the stuff of nightmares for banking CIOs, who stay up at night fearing a production meltdown and crowds of angry customers.
+
+ No organisation, however large or small, is immune to productions issues. Even a large, experienced organisation, which has been running the IT environment for many years can have serious issues, as demonstrated by the TSB incident. The rate of change is increasing as new platforms and improvements to the systems are put live at an ever-increasing rate.
+
+ More than ever, IT strategy needs to be aligned with providing maximum availability for users. There are four distinct disciplines needed to achieve Production Stability:
+
+ High availability is not easy to achieve. But for traditional banks to remain competitive in an era of increasing competition from fintech challengers, they will need to continuously improve in all of these disciplines, whilst still remaining responsive to the changes that the business needs.
+
+

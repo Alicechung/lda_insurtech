@@ -1,0 +1,12 @@
+Testplant AI-Powered Predictive Suite Transforms Testing To Speed Delivery Of Bug-Free Apps
+
+14 Feb 2018
+
+Unveils Eggplant AI 2.0 delivering intelligent test automation with enhanced bug hunting capabilities, improving the user experience
+Testplant, the global leader in digital automation intelligence, today announced the availability of the latest version of its pioneering Eggplant AI product. Eggplant AI 2.0 uses AI, machine learning, and analytics to intelligently navigate applications, predict where quality issues are most likely to occur, and correlate data to help product teams quickly identify and resolve issues.
+Comprehensively testing an app is an impossibly large task. There are an infinite number of ways a user can navigate through any application, which is why test teams cover less than one percent of the possible user journeys in their testing, and why all apps have defects. Until now, test teams had to estimate where issues were most likely to be and then manually create automated test scripts to test those user journeys.
+Eggplant AI 2.0 solves this problem with enhanced bug-hunting capabilities: machine learning algorithms that identify the patterns of where defects are most likely to occur in the application or software, and then auto-generate the tests for these user journeys. This significantly increases the effectiveness and efficiency of testing, delivering real improvements to the app that users notice.
+Test teams also have specific ‘smoke test’ user journeys that they always need to test, regardless of how likely they are to find defects. Eggplant AI 2.0 enables testers to quickly and easily define these ‘directed’ tests that must be executed, as well as combine both manually defined regression tests and advanced, intelligent, AI-based tests.
+Eggplant AI 2.0 is part of the Digital Automation Intelligence Suite that includes Eggplant Manager to orchestrate test execution, Eggplant Automation Cloud to manage hosted test devices, and Eggplant Integrations to integrate with the rest of your CI/DevOps infrastructure.
+
+

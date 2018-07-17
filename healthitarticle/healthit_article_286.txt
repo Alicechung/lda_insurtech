@@ -1,0 +1,51 @@
+Top 5 Reasons to be Thankful for Healthcare Big Data Analytics
+
+November 21, 2017
+
+By Jennifer Bresnick
+November 21, 2017 - As Thanksgiving rolls around once again, bringing with it the heady scent of roasting turkey and apple pie, healthcare providers and hard-working support staff will gather around their dining room tables to share their gratitude for their triumphs, achievements, and accomplishments over the year.
+While many of these little victories will be personal in nature – a new baby in the family is nothing to sneeze at, unless she’s picked up a cold at daycare – healthcare big data analytics pros have a lot to celebrate professionally, as well. 
+2017 has been a big year for this segment of the industry, which is undergoing a rapid transformation as innovations like artificial intelligence, blockchain, and precision medicine take center stage.
+They may not generate quite as much chatter among extended family members as your cousin’s questionable taste in hairstyles, but some solid analytics savvy could be essential for making the most of the long weekend’s festivities. Here are the top five reasons you should be thankful for your big data background at Thanksgiving this year.
+FAMILY GATHERINGS OFFER THE PERFECT WAY TO UNDERSTAND BLOCKCHAIN
+Blockchain is a promising data management technology because it purports to offer a single source of truth shared among the participants of a public or private community. 
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+The distributed ledger methodology relies on all members of the chain agreeing on a shared version of what has happened.  When they do, that event becomes locked into the blockchain and cannot be altered unless everyone subsequently decides it should be.
+Think of it this way: let’s say Dad drops the green bean casserole.  If it happens while he’s alone in the kitchen, you have to take his version of the story as truth when he swears the dog got under his feet and tripped him. 
+That may have been the case, but it also may not be entirely accurate – and because no one (except the dog…maybe) was there to witness the event, there is no way to verify it.
+Now imagine that he drops the dish in front of everyone as he’s bringing it out to the table.  Your niece and nephew both have their phones out to take a picture and capture the moment that he trips on the rug, no dog in sight.
+Everyone can agree on what happened, because there are multiple accounts of the event from independent perspectives. 
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+Next year, if Dad’s story ends up deviating from what’s in those cell phone pictures and what the people present at the time recollect, you can be sure it isn’t the real truth.
+Those embarrassing moments might be best kept private from merciless siblings and giggling kids.  But when it comes to health data, more transparency, trust, and verification are always desirable.
+ANALYTICAL SKILLS ARE ESSENTIAL FOR NABBING THE BEST SEAT AT THE TABLE
+Business intelligence tools and clinical decision support algorithms aim to drive all possible inefficiencies out of the process of delivering healthcare. 
+By creating more visibility into processes that span multiple departments and data sets that live in disparate systems, big data analytics can identify hidden opportunities for getting ahead of negative patient outcomes or unnecessary spending.
+What better way to put those same principles to use than calculating exactly where to sit so you have first crack at the stuffing?
+READ MORE: How Healthcare Big Data Analytics Helps Build Smart Societies
+Getting a good seat requires a shrewd assessment of your competitors – you have to know your brother is likely to dive for the spoon at the same time if he can – and a little bit of predictive prowess to position yourself next to the most likely open spot on the tablecloth.
+Filling your plate first may be a low-stakes use case, but the process uses the same exact strategies that healthcare organizations must employ in order to be successful in an increasingly value-based world.
+Understanding the existing landscape, gathering and synthesizing data from multiple sources, using the input to identify opportunities, and putting those decisions into action to achieve optimal outcomes will help organizations maneuver into a prime position for outperforming competitors and improving care quality.
+ARTIFICIAL INTELLIGENCE HASN’T TAKEN OVER YOUR JOB…YET
+At time of going to press, at least, the robot apocalypse has not resulted in millions of healthcare jobs lost to artificial intelligence. 
+Despite the dire predictions from visionary thinkers – and news from China that a robot has passed the country’s medical licensing exam – human brains are still essential for delivering high quality patient care.  
+Most artificial intelligence developers believe that machine learning tools will augment the traditional decision-making process, not replace human clinicians entirely (just like the way your aunt tries to augment your life choices by giving you her opinions, whether you want them or not).
+AI has made significant strides in the past twelve months, moving from pie-in-the-sky theory into real-world production at lightning speed. 
+While the healthcare industry is still at the peak of the hype curve, machine learning and AI are extremely likely to eventually offer key clinical, operational, and financial insights at scale.
+A frenzy of investment from EHR developers, consumer tech giants, and venture capitalists looking for the next big thing in big data will continue to grow the marketplace as healthcare organizations seek to gain a competitive edge over their peers while getting upstream of devastating conditions like cancer and sepsis.
+PRECISION MEDICINE WILL HELP YOU FIGURE OUT EXACTLY WHAT’S WRONG WITH YOUR FAMILY
+Even happy families typically include at least some degree of dysfunction, and now that genetic testing is becoming cheaper, quicker, and more precise, it will be much easier to figure out precisely why they are so darn weird.
+Precision medicine is starting to offer unprecedented insights into the impacts of social stressors and environmental factors on the expression of genes and the development of certain diseases, which promises to create entirely new strategies for managing populations and treating chronic disease.
+It may not explain why your uncle insists on yelling at the television when watching the football game, but it could give you some insight into how likely he is to develop coronary artery disease in the next ten years and what treatments might be most effective if he does.
+BUT SERIOUSLY...
+Healthcare isn’t perfect, and probably never will be.  There are plenty of things to complain about, from provider burnout, data integrity, and EHR usability to regulatory burdens, digital illiteracy, and ransomware.
+The industry will always be in flux, and there will always be more to do in order to lower costs, be more efficient, and improve patient outcomes.
+But many organizations are now in a good position to make the most of 2018. 
+Optimism is high that transformational technologies like blockchain and machine learning will start to bear fruit over the next two to five years.  And a growing comfort with big data analytics strategies is starting to produce cultural changes in even the most traditionally-minded organizations.
+Patients are becoming more involved in their care – and are being given more tools to participate effectively – and the foundational infrastructure required to succeed in the big data environment is becoming more accessible, cost-effective, and easier to implement.
+Value-based care is bringing shared savings to accountable care organizations and other participants in risk-based contracting – pay-for-performance is finally starting to become the law of the land as more organizations embrace the move away from legacy reimbursement structures.
+Big data analytics approaches are integral to all of these challenges and opportunities, so healthcare organizations should be grateful for the data scientists, informaticists, IT staff, and health information managers whose skills and expertise underpin their successes.
+Last but certainly not least, let’s remember to be thankful for the thousands of people who are skipping their Brussels sprouts and cranberry sauce to care for patients, including emergency department staff, doctors and nurses, paramedics, administrative professionals, janitorial and food services, and all the other moving pieces of a successful organization that delivers the best possible quality care. 
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareHealthcare Big Data AnalyticsHealthcare Business IntelligenceListsMachine Learning
+
+

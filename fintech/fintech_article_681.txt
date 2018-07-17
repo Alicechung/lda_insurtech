@@ -1,0 +1,25 @@
+New Legal Analytics Software Identifies Successful Insurance Claims – Before They Go To Court
+
+July 27, 2017
+
+Every day, tens of thousands of insurance claims are publicly filed in America’s courts, and each one quickly becomes part of Miami-based software firm Premonition AI’s database.
+
+ Currently the largest such database in the world, it draws from over 3,000 courts across the country. Premonition’s machine-learning tool is capable of forecasting a given claim’s probability of success based upon industry, jurisdiction, attorney track record and judge’s tendencies.
+
+ The firm’s new Open Case and Claims Reports make it simpler than ever before for insurance company claims managers to triage their slate of pending litigation, assigning a Red Light – Yellow Light – Green Light rating to each claim.
+
+ If, for example, an auto-negligence claim is filed in a county Premonition has flagged as being very friendly toward plaintiffs in this claim type, the Claims Report will designate it as a Red Light case. This indicates that the insurer should make every effort to achieve a settlement before the claim reaches a courtroom. By contrast, a Green Light suggests a very favorable outcome for the insurer, and claims managers can feel confident in recommending a more aggressive tack. Moreover, once the claimant and insurer have selected counsels, the Report can be recalculated to take into account the track record of each attorney based on jurisdiction and claim type.
+
+ Similarly, the Open Case Report gives claims managers a very fast and inexpensive method of assessing upcoming litigation: a Red Light suggests clients should upgrade their own counsel or seek a change of venue; a Yellow Light indicates a mixed outlook thanks to a tough opposing counsel or judge; and a Green Light portends success.
+
+ “Clients sometimes think of their lawyer as an all-purpose tool, but our data shows that the best way to optimize your representation is to understand that their effectiveness is highly situational,” says Premonition CIO & Co-Founder Toby Unwin. “Just as different types of screws require different screwdrivers, we can find you the lawyer whose skill set gives you the best outcome in your specific claims area and jurisdiction, before the specific judge awaiting you in court.” Clients that have chosen their lawyer using Premonition are thus more likely to see those Green Lights in their Open Case Report.
+
+ “These reports obviously have ramifications beyond claims managers,” continues Unwin. “For stock and insurance analysts, for example, it’s a great tool for looking at a company’s block of ongoing litigation to forecast how they’re likely to fare in court compared to their peers. Poor litigation can take a serious bite out of a company’s profits.”
+
+ The transparency offered by Premonition’s analytics has already had a destabilizing effect on the legal industry as a whole, creating a widening litigation performance gap between the big data haves and the have-nots. The firm has recently expanded its database to include courts in the United Kingdom, India, Australia and the Netherlands, and raised a record $100 million USD seed valuation. For a demonstration of the Open Case and Claims Reports, and many more, visit Premonition AI’s website. Premonition Analyticd, LLC
+
+ Guy Kurlandski, Premonition Ai 
+
+ Original: https://premonition.ai/new-legal-analytics-software-identifies-successful-insurance-claims-go-court/
+
+

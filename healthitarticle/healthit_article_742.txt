@@ -1,0 +1,48 @@
+Precision Medicine, Blue Button Among White House Big Data Efforts
+
+September 30, 2016
+
+By Nathan Boroyan
+September 30, 2016 - Precision medicine, medical research, and improved patient engagement through initiatives like Blue Button are among the highlight achievements of the Obama Administration’s emphasis on data transparency and information sharing, says a White House fact sheet celebrating the nation’s big data progress.
+"The policies of this Administration in the healthcare industry--ranging from digitizing health records to expanding coverage, to putting data to work for science--have spurred an arc of transformation in healthcare, creating new opportunities and attracting new innovators and entrepreneurs," the White House press release stated. "Making health data more open and accessible increases choice, empowerment and accountability on all sides of the healthcare spectrum."
+The following is a rundown of some of the specific open-data health efforts of the Obama Administration.
+The Precision Medicine Initiative
+Launched in 2015, the $200 million PMI is focused on providing  personalized treatment and tailored care for patients.
+READ MORE: FDA, Europe Team up for Precision Medicine, Patient Engagement
+Doing so requires cracking the genetic codes that determine how a patient will respond to different therapies, and PMI participants are actively seeking out the electronic health record information, DNA test results, patient-generated health data, and clinical trial information that will enable medical breakthroughs.
+At the PMI Summit in February 2016, six prominent EHR vendors announced plans to pilot the use of open, standardized APIs and other methods that allow patients to contribute their own health data to research, including for the PMI Cohort Program.
+The goal of the cohort program is to create a databank of more than a million patient genomes to lay the groundwork for precision medicine. Initially, genetic profiles will be used for cancer, diabetes, Alzheimer's obesity, mental illness, and heart disease research.
+A recent National Institutes of Health survey found that nearly 80 percent of patients who responded supported the idea of a million-patient biobank, and 54 percent said they would likely contribute genetic, clinical, and environmental data, if asked.
+A common data model will be developed for the project for use across every database and healthcare organization.
+READ MORE: NIH Opens Up “All of Us” to Research Participants Nationwide
+The Cancer Moonshot initiative
+Headed by Vice President Joe Biden, the Cancer Moonshot project is an attempt to crunch what would be a decade's worth of progress in cancer prevention, diagnosis, and treatment into five years.
+The program is relying on better healthcare data sharing to develop personalized treatments. Vice President Biden has promised federal funding, targeted incentives and increased coordination with members of the private sector to support the program's efforts.
+The Vice President has singled-out "data and technology innovators" as being a driving force for "revolutionizing how medical and research data is shared and used to reach new breakthroughs."
+Data sharing efforts will specifically look to improve communications between community oncologists and other doctors "so the same care provided to patients at the world's best cancer centers is available to everyone who needs it," Biden said.
+READ MORE: Can IBM Watson Prove the Value of Precision Medicine in China?
+The Health Data Initiative
+In partnership with the Institute of Medicine (IOM) and the Department of Health and Human Services (HHS), the Health Data Initiative (HDI) releases health data from HHS' vaults and makes it more accessible to the public and industry innovators.
+Released data includes clinical care provider quality information, provider directories, the latest medical and scientific knowledge, consumer product data, community health performance information, and government spending data.
+Additionally, the HDI aims to make existing data more usable for developers.  The initiative has used grassroots meetups, open competitions, and code-a-thons to promote data use among innovators.
+Genomic Data Commons
+Created by the National Cancer Institute (NCI), the Genomic Data Commons (GDC) was launched in June 2016, sharing data from more than 14,000 patients, along with associated clinical data. With data submitted from Foundation Medicine, the GDC is expected to contain data from more than 32,000 patients, according to the White House fact sheet.
+Located at the University of Chicago, the GDC was created to help drive Precision Medicine Initiative and Cancer Moonshot efforts. The hub for all necessary Cancer Moonshot data, the GDC will ideally help facilitate comparative research projects and other initiatives to accelerate cancer-curing research.
+Blue Button
+The Obama Administration launched Blue Button in 2010. At first, the initiative was a program with the Department of Veteran's Affairs (VA) that allowed VA patients to download their files directly from the MyHealtheVet portal.
+Blue Button has since spread to include multiple private and public healthcare organizations, and is now under ONC jurisdiction. The initiative has been adopted by over 450 healthcare organizations.
+To date, more than three million veterans, service members, and Medicare beneficiaries have viewed their personal health data more than 46 million times, and roughly 150 million Americans currently have access to online health records, the White House fact sheet states.
+Blue Button's overall goal is to improve patient engagement, providing easy access to health information and the opportunity for people to personally manage their care.
+According to the ONC, patients downloading files through Blue Button ideally could:
+Share the files with their doctor, family members or other caregivers
+Verify the accuracy of their medical information
+Track child vaccination dates
+Have access to health records in case of emergency, while traveling, seeking a second opinion, or switching insurance providers
+The Blue Button Connector, which helps patients and consumers access health records online, includes more than 16,000 healthcare organizations and providers.
+"Managing data as an asset and making it available, discoverable, and usable — in a word, 'open' — has served to strengthen our democracy, promote government efficiencies, and improve citizens’ quality of life," the White House fact sheet asserts. "With open data, we identify gaps and look for solutions to the most pressing challenges we face as a Nation."
+Dig Deeper:
+How Precision Medicine Will Shift From Research to Clinical Care
+Cancer Moonshot Flags Basic Big Data Woes of Precision Medicine
+Tagged EHR and Patient EngagementEHR Patient DataMedical ResearchPrecision Medicine
+
+

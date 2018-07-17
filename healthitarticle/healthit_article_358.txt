@@ -1,0 +1,26 @@
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+
+September 07, 2017
+
+By Jennifer Bresnick
+September 07, 2017 - Continuing its aggressive push into artificial intelligence in healthcare and elsewhere, IBM is working with MIT to invest $240 million over the next ten years in a collaborative laboratory environment dedicated to machine learning, cognitive computing, and deep learning research.
+“I am delighted by this new collaboration,” said MIT President L. Rafael Reif. “True breakthroughs are often the result of fresh thinking inspired by new kinds of research teams. The combined MIT and IBM talent dedicated to this new effort will bring formidable power to a field with staggering potential to advance knowledge and help solve important challenges.”
+Co-located with the IBM Watson Health and IBM Security headquarters in Boston, Massachusetts, the new lab is just steps away from the MIT campus, allowing more than 100 AI scientists, students, and researchers to explore innovative ways to apply emerging AI technology to a variety of industries.
+Dig Deeper
+Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+Artificial Intelligence in Healthcare: Augmentation or Companionship?
+How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+“The field of artificial intelligence has experienced incredible growth and progress over the past decade. Yet today’s AI systems, as remarkable as they are, will require new innovations to tackle increasingly difficult real-world problems to improve our work and lives,” says John Kelly III, IBM senior vice president, Cognitive Solutions and Research.
+“The extremely broad and deep technical capabilities and talent at MIT and IBM are unmatched, and will lead the field of AI for at least the next decade.”
+Healthcare diagnostics and clinical decision support are among the lab’s top priorities.  Researchers will also investigate improvements to cybersecurity and consider the ethical and economic impacts of integrating advanced data analytics tools and technologies into society.
+“AI is everywhere,” said Anantha Chandrakasan, the dean of MIT’s School of Engineering, who will co-chair the lab with Dario Gil, IBM Research VP of AI and IBM Q.
+“It’s used in just about every domain you can think of and is central to diverse fields, from image and speech recognition, to machine learning for disease detection, to drug discovery, to financial modeling for global trade.”
+Researchers will focus on several key areas of development, including exploring quantum computing, imaging analytics, and creating advanced algorithms that can solve complex problems and accomplish highly specialized tasks.
+“There are some particular targets we have in mind, including being able to detect cancer (e.g., by using AI with imaging in radiology to automatically detect breast cancer) well before we do now,” said Chandrakasan.
+“This new collaboration will also provide a framework for aggregating knowledge from different domains. For example, a method that we use for cancer detection might also be useful in detecting other diseases, or the tools we develop to enable this might end up being useful in a non-biomedical context.”
+Oncology has been a primary field of exploration for IBM Watson Health, which has seen promising results in terms of accuracy and sensitivity among early pilots and trials. 
+The new lab will aim to improve these capabilities by offering research opportunities to students, start-ups, and members of the MIT academic community.
+“This new collaboration will bring together researchers working on the core algorithms and devices that make such applications possible, enabling the pursuit of jointly defined projects,” said Chandrakasan. “We will focus on basic research and applications, but with new resources and colleagues and tremendous access to real-world data and computational power.”
+Tagged Analytics InfrastructureApplied AnalyticsArtificial Intelligence in HealthcareClinical AnalyticsMachine LearningMedical Research
+
+

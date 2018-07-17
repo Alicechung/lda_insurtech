@@ -1,0 +1,20 @@
+ICD-10 End-to-End Testing Sees 88% Acceptance Rate in April
+
+June 02, 2015
+
+By Jennifer Bresnick
+June 02, 2015 - With the release of April’s ICD-10 end-to-end-testing week statistics, CMS hopes that evidence is building for a less-painful-than-expected transition.  The 88 percent claims acceptance rate generated during the most recent testing week represents a six percent increase over January’s efforts, demonstrating not only that Medicare’s systems are prepared for the October 1, 2015 transition, but that providers, clearinghouses, and other entities are meeting expectations, as well.
+Approximately 875 organizations took advantage of the testing opportunity, including repeat participants from the initial January test.  Medicare’s billing systems received 23,138 test claims and accepted 20,306 of them, producing an 88 percent acceptance rate.  CMS received around 8000 more claims in April than in January and rejected a lower percentage of them, indicating a higher overall level of success.
+Just two percent of the claims were rejected due to invalid ICD-10 diagnosis or procedure codes, and less than one percent were rejected because of incorrect ICD-9 codes.  In January, six percent of the 15,000 submitted claims were rejected due to invalid ICD-10 or ICD-9 code issues.
+As in January, many of the rejected claims suffered from non-ICD-10 issues, including incorrect dates of service, erroneous NPI, Submitter ID, or Health Insurance Claim Numbers, invalid HCPC codes, and incorrect places of service.  Claims must use ICD-9 for services provided before October 1 and ICD-10 codes for services provided on or after October 1, 2015.
+Dig Deeper
+48% of Businesses, Including Healthcare, Face Big Data Skills Gap
+Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+The April ICD-10 end-to-end testing week ferreted out a few lingering issues with CMS systems, the report says.  “Certain inpatient hospital test claims were inappropriately processed due to a systems issue with codes that are exempt from Present on Admission reporting,” CMS explains. “This issue will be resolved prior to the July end-to-end testing week, and testers will have an opportunity to re-submit these test claims.”  A problem related to home health organizations was resolved prior to the April testing opportunity, the report adds, and providers who experienced the issue in January were able to resubmit their claims correctly.
+While the higher acceptance rate may comfort some healthcare organizations concerned about the technical readiness of Medicare’s heavily trafficked claims systems, it does not necessarily signal the all-clear for the industry as a whole.  The ICD-10 end-to-end tests are conducted on a volunteer basis, which may skew the results towards providers who are best prepared to participate, and healthcare organizations still cannot be sure that they are documenting and coding up to the high level of detail and specificity required for consistently proper payment.
+The ICD-10 implementation deadline is less than four months away, and CMS is still fighting to convince providers that October 1, 2015 will go ahead as planned as lawmakers continue to lobby for potential changes, mitigations, and delays.  The uncertainty and lingering trepidation, combined with more limited testing opportunities with private payers, continue to fuel fears of significant disruptions to the revenue cycle for many providers.
+Healthcare organizations afraid of being caught up in the chaos should revisit their contingency plans while making every effort to seek out ICD-10 testing opportunities with their primary business partners during the remaining months of the preparation period.
+Tagged Analytics InfrastructureHealth Information ManagementICD-10
+
+

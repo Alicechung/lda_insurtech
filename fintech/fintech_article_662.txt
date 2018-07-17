@@ -1,0 +1,61 @@
+Delivering Strong Customer Authentication in the Banking Sector
+
+August 8, 2017
+
+When innovations start to create real value, the authorities start to regulate. So if you want to see where value is being created, have a look at where new regulations are coming into force.The digital revolution is one example. It is changing nearly all business sectors, and financial services is no exception.
+
+ In fact, things have changed so much that both national and European authorities are legislating to regulate the digitalization of financial services. The EU has come up with the General Data Protection Regulation (GDPR), which affects multiple sectors and requires organisations to make sure appropriate measures are taken to establish immediately whether a personal data breach has taken place.
+
+ Meanwhile, the financial services industry is getting ready for the second Payment Services Directive (PSD2), which was already voted in by the EU Parliament in 2015. Governments of the member states are currently in the ratification process, and by the beginning of 2018, PSD2 will have be enshrined in law in most EU states.
+
+ One of the main elements of the directive is the mandatory adoption of Strong Customer Authentication (SCA) as the next step to improve security in the industry. This requirement is defined in PSD2 – and the common Regulatory Technical Standards (RTS), issued by the European Banking Authority (EBA), give details on how to implement it.
+
+ Not everyone in the EU welcomes the RTS, since banks sometimes struggle with the additional compliance tasks. But new digital technology opens the way to new breeds of cyberattack, which in turn call for greater security. The upcoming PSD2 makes SCA mandatory to protect banks and their customers against such attacks.
+
+ How can banks comply?
+
+ Among other things, they need to use at least two of the following three elements for authenticating users: Something you have (possession); Something you know (password or PIN code) Something you are (fingerprint, face, voice).
+
+ Today the most common combination is the first two factors, but with the increasing use of mobile devices for banking, biometric factors will likely become more important. The iPhone has played a huge role in establishing fingerprints as a convenient method of authentication, while many other smartphones support face or even eye scans.
+
+ How regulation benefits banks
+
+ Regulations such as PSD2 are necessary to secure further progress in the digital world. Consumers will not use services if they are concerned about security. Thanks to similar developments in the past, the banking sector has managed to become a role model for data protection.
+
+ Since the first PSD came out in 2007, the level of security in financial institutions has improved – as shown by the annual Breach Level Index, which analyses the number of records breached in several sectors. In the financial services industry, this number has been declining for years. In 2016, only 1% of all data losses occurred in this sector[1].
+
+ So although cyber criminals are obviously attracted by the valuable information held by banks, the industry managed to implement security measures that have significantly reduced the number of incidents. Regulations like these are positive, but often not sufficient in isolation.
+
+ In fact, the market itself has in the past created its own regulations to boost security and build business – PCI is one example. Currently, the technical implementation of SCA is just part of a much larger security challenge. To be successful, banks and other financial services providers need to make sure that users benefit from better protection mechanisms. If they don’t, the consequences could be severe.
+
+ A recent survey of end-users all over the world looked at how important data protection and usability are when consumers select a payment service[2], and the results show how important security is for consumers. In general, there is still a positive attitude towards new technologies: consumers will adopt them if the technologies provide more convenient ways to pay. But consumers also have doubts about security.
+
+ Currently, 58% of users expect their data to be stolen in the future. If the stolen data was held by a retailer, 60% would stop shopping there – usually to punish unsafe organizations. The number grows to 66% for businesses in which financial or sensitive information was stolen. While regulations have already done a lot to protect consumers, new technologies open up new possibilities for attack, cybercriminals are becoming more organized, and the financial services industry needs to stay one step ahead.
+
+ Getting ready for the new era of banking
+
+ The challenge for implementing SCA is huge, involving many actors and procedures. Technologies and processes need to be compliant, while at the same time matching user expectations.On top of the compliance challenge, psychological factors come into play.
+
+ In fact, political institutions are not the only ones pushing for greater security: consumers also see providers as having an obligation in this area. According to the survey mentioned earlier, users place 70% of the responsibility for security within companies, and only 30% in their own hands.
+
+ But consumers don’t just want security: they also want convenience. If it they suffer too many disruptions in the name of security, they will simply abandon their virtual shopping cart, and satisfaction with their bank’s services will drop.
+
+ To master the challenges of new technology, compliance, and user demands for both security and convenience, organizations need to look for partners that provide know-how in authentication and verification. These systems are complex and require specialized know-how to reach compliance and provide better services by balancing security and convenience.
+
+ Claiming a stake in value creation
+
+ The EU has made it clear within PSD2 that new players should be able to compete in the field of financial services. While banks might feel threatened by this, they can use the ever-increasing awareness of the need for better security in their favour. To do so, they must provide security solutions that meet the expectations of both users and policy-makers.
+
+ Payment Service Providers need to look out for authentication methods that protect users, while enabling new use cases. With their existing customer base, they have an advantage to position themselves as leading the digital revolution.
+
+ But they must be careful when managing all the different tasks that enable timely adoption – which include security and certification. Just one misstep could prove disastrous. Because of this, SCA is more than just a technological or a legal issue. It is a key ingredient to delivering the security that will open up new possibilities in the banking sector, enabling banks to claim their stake in the innovative new ways of creating value.
+
+ Howard Berg, Senior Vice President and Managing Director, Gemalto UK
+
+ 
+
+ 
+
+ POWERED BY Fintnews.com
+
+

@@ -1,0 +1,56 @@
+How Federal Health IT Work Paves the Way for Big Data Analytics
+
+March 25, 2016
+
+By Jennifer Bresnick
+March 25, 2016 - Just like “population health management” and the “Internet of Things,” the phrase “big data analytics” means something a little bit different to everyone. 
+For large hospitals and health systems, it may mean a comprehensive, integrated approach to funneling reams of claims data and real-time EHR information through a cutting-edge semantic data lake, which enables clinicians to access point-of-care dashboards that predict patient outcomes and suggest low-cost alternatives to common treatment strategies.
+Mid-sized organizations may be more interested in gaining a better understanding of their financial projections for the next six months. 
+And for an individual provider on a shoestring budget, it could just mean the ability to better monitor that one troublesome diabetes patient with an upward HbA1C trend and a penchant for missing scheduled appointments.
+No matter what the goal, scope, or funding may be, all big data analytics projects have a few things in common: they rely on access to clean, complete, and standardized datasets, they are difficult to start and even more difficult to maintain, and they can’t succeed without a strong foundation of health IT and some critical help from the experts.
+READ MORE: AMA, Google Launch Health Data Interoperability, PGHD Challenge
+Despite its occasional missteps, the federal government has helped to lay the groundwork for much of the big data analytics work currently occurring in healthcare organizations across the nation. 
+From the foundational EHR Incentive Programs to the financial motivations of value-based care, the mandates, regulations, and guidance issued by the highest healthcare authorities in the land have shaped every part of the modern healthcare system.
+What are some of the key federal initiatives, programs, and strategies that are making big data analytics a reality in the healthcare industry?
+CMS and the EHR Incentive Programs trade dollars for data
+The healthcare industry may be swimming in information that holds untold promises for patient care, but that didn’t happen overnight – and it certainly didn’t happen without the EHR Incentive Programs. 
+READ MORE: AMA, Google Name Winners of PGHD, Data Sharing Challenge
+While the much-maligned initiatives are not without their faults, no one can deny that meaningful use has been staggeringly effective at putting EHRs into most hospitals and a growing proportion of ambulatory settings.
+Without this base layer of information-collection technology, there would be no big data, and no chance of using analytics to underpin healthcare improvement strategies like population health management and value-based reimbursement.
+Currently, Stage 2 of meaningful use only dabbles in these methodologies, asking providers to implement patient portals, begin to develop health information exchange, and start reporting on public health measures.
+But the next phase of the program, whether it’s called Stage 3 or it slides directly into the Merit-Based Incentive Payment System (MIPS), will require EHR technology to do a great deal more in the realms of big data analytics and interoperability.
+CMS is planning to hike up the Stage 3 certified EHR technology requirements, forcing vendors to do more than pay lip service to the idea of system-wide interoperability. 
+READ MORE: Finding the Value in the IoT, Patient-Generated Health Data
+As it stands, Stage 3 meaningful use will focus on the continued development of a common clinical data set (CCDS), which will include a number of elements critical to the success of population health management.
+The initial stages of meaningful use put basic data capture tools into the hands of providers – the last part of the lengthy, challenging program may do the same for advanced big data analytics capabilities.
+The Office of the National Coordinator takes on interoperability
+CMS isn’t working alone on the difficult task of ensuring that healthcare organizations have the IT tools they need to meet the expectations of systematic reform.  The Office of the National Coordinator has been a major player on the technical side of the process, and has made health data interoperability a top priority for the foreseeable future.
+This week, National Coordinator Karen DeSalvo stepped in front of the House Subcommittee on Information Technology and Subcommittee on Health Care, Benefits, and Administrative Rules to explain how the ONC is breaking down the interoperability barriers that are preventing the industry from taking full advantage of big data, including consumer interest in patient-generated health data (PGHD) and the Internet of Things.
+“We understand the importance of a broad, all-of-government strategic approach to achieving interoperability and a better health care system.  We respect and feel the strong sense of urgency and have acted on it.” DeSalvo said, explaining how the ONC’s Shared Nationwide Interoperability Roadmap can align multiple efforts to increase reliance on data standards, expand health information exchange for care coordination, and prepare organizations for a value-based reimbursement ecosystem.
+“A key component of the Administration’s delivery system reform initiative is expanding the use of alternative payment models that reward value over volume and support better care coordination and population health,” she acknowledged.
+“A strong health IT infrastructure is a necessary feature to achieve those goals. ONC actions are designed to drive towards better distribution of information and leveraging technology to support delivery system reform.”
+In addition to the Roadmap, the ONC’s recent efforts to foster interoperability include:
+• A C-CDA visualization challenge with $20,000 in prize money, intended to make the Consolidated Clinical Document Architecture more usable for providers
+• The development of an interoperability “proving ground” that will serve as a community resource and collaborative environment for developers working on data standards and sharing projects
+• A duo of competitions intended to create new patient data access tools based on the Fast Healthcare Interoperability Resource (FHIR) and help providers with critical EHR usability concerns
+Without true data interoperability, providers will be unable to access the information they need to ensure continuity of care, coordination of services, patient safety, and accurate decision-making.  Interoperability is also key for medical research and advancements in clinical decision support and predictive analytics, since developers must draw on multiple data sources to perform these tasks.
+The healthcare Internet of Things gets FTC oversight
+Providers may be using their EHRs to collect clinical data on their patients, but patients are starting to take their data into their own hands.  The growing consumer interest in wearables, home monitors, mHealth apps, and other devices has sparked the genesis of the healthcare Internet of Things.
+This loose collection of data collection points may be exciting for innovators looking to help patients manage chronic diseases, stay in shape, or avoid preventable issues.  But it poses a challenge for federal oversight bodies like the Federal Trade Commission (FTC), explained Jessica Rich, Director of the Bureau of Consumer Protection, at the same House hearing.
+“Consumers are increasingly taking a more active role in managing their health data. It seems like every day a company announces a new health-related app, device, or service,” she said.
+“Many of these products and services offer consumers substantial benefits in the form of increased consumer engagement in their health and fitness, reduced healthcare costs, and improved outcomes. But these products and services also raise privacy and security concerns.”
+Unlike hospitals and physicians, third-party app developers that voluntarily collect heart rate data or sleep cycle information are not covered under HIPAA regulations.  Users who impatiently tab through the terms and conditions of using these products and services may not be aware that their data is unprotected, and may be used in ways they do not anticipate.
+Rich points out that these practices may cause consumers to “lose confidence in the health IT sector,” which could cut short one of the most promising developments in big data and patient care.
+To prevent that from happening, the FTC is using its authority to regulate deceptive or harmful business practices to monitor organizations offering PGHD services.  As the Internet of Things continues to mature, this level of federal enforcement will be critical for protecting patient information that falls outside of the scope of HIPAA.
+Precision medicine is set to thrive under the FDA and NIH
+By ensuring that patients are confident about generating their own data and eager to share their information with providers and researchers, the FTC is helping to set the stage for the ultimate culmination of big data analytics and patient participation: precision medicine.
+Two more federal organizations – the FDA and the NIH – are largely responsible for bringing the Precision Medicine Initiative to life, and they will require the help of every other part of the care continuum.
+EHR data that can be shared seamlessly across barriers and combined with patient-generated health data, genomic information, and existing clinical research, form the building blocks of personalized treatments for rare diseases, cancers, degenerative conditions, and more.
+At the center of the Obama Administration’s precision medicine plans is a massive patient database, which hopes to include a variety of information on at least one million Americans. 
+“The Precision Medicine Initiative Cohort Program will change the way we do research. Participants will be partners in research, not subjects, and will have access to a wide range of study results,” said NIH Director Francis S. Collins, MD, PhD. “What we’re doing with the Precision Medicine Initiative cohort is intersecting in a synergistic way with other fundamental changes in medicine and research to empower Americans to live healthier lives.”
+In conjunction with private research efforts, the cohort will provide a wealth of vital information about the origins and pathways of many devastating diseases.
+True precision medicine for patients is the goal of most big data analytics and population health management programs, but getting to that point will require cooperation and collaboration between the various branches of the federal government, research organizations, health IT developers, and providers themselves.
+With data collection tools at the point of care, seamless exchange of patient information, participation from consumers themselves, and an overarching plan for the industry’s continuous transformation, big data analytics has the opportunity to revolutionize the way providers and patients interact to deliver innovative, comprehensive, high-quality care.
+Tagged EHR AnalyticsHealthcare Internet of ThingsInteroperabilityPatient Generated Health Data
+
+

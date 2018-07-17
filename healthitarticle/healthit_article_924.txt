@@ -1,0 +1,41 @@
+Health IT, Executive Support Key to ED Patient Flow Management
+
+May 10, 2016
+
+By Jennifer Bresnick
+May 10, 2016 - The emergency department can often be a busy, hectic, stressful place for both patients and their providers.  Neither can know in advance what will happen when they walk through the doors: who they will see, how long it will take, if a hospital admission is required, or if a quick prescription and a primary care follow-up will do.
+For patients, the anxiety of visiting the emergency department can be compounded when they are told they need to be admitted but have to wait hours for a bed on the right floor upstairs.  For staff members, the process of pushing an admission request through the system can be convoluted, time consuming, and full of frustrating delays.
+At Health First, an integrated delivery network serving Central Florida, Director of Centralized Patient Logistics Lisa Maples and her team knew that there were some significant opportunities to untangle the admissions process and improve the speed and simplicity of patient flow through the system.
+By enhancing the organization’s reliance on data analytics and health IT tools to improve patient flow management, Health First was able to achieve remarkable results, including 33,000 fewer hours of waiting time in the emergency department, a 12.9 percent reduction in average costs per discharge, and a 19 percent reduction in average length of stay.
+Maples sat down with HealthITAnalytics.com to discuss some of the challenges facing Health First’s emergency department and the strategies employed to combat low patient satisfaction rates in a growing healthcare network.
+READ MORE: Healthcare Analytics Help Mercy Uncover Cost, Quality Insights
+“We knew that we had some major opportunities in our emergency department to reduce long wait times for admission, so we decided to take a closer look at how we could improve patient flow to get them to the right care at the right time in as efficient a manner as possible,” Maples said.
+Many of the organization’s admission processes were being completed manually, she added, and there were a number of stress points where the workflow could break down. 
+“For example, if one of the ED physicians made the decision to admit a patient, he would have to walk that information over to the unit secretary and make sure she received it, then she had to go into the system and request a bed on the right floor, then receive the response for that,” she said.  “The process could be delayed at any of those points.”
+Health First already had a patient management system from TeleTracking in place, but they were only using a fraction of its capabilities, she explained.  Knowing there were better ways to use the data analytics infrastructure, Health First reached out for help.
+“Our vendor sent some advisory folks down to take a look at what we were doing,” she said.  “They spent some time with us and came up with a list of thirty or so recommendations for how we could improve our use of the data and technology we had at hand.”
+READ MORE: Using Business Intelligence to Fine-Tune Operating Room Utilization
+The consultation gave the team the kick-start they needed to present an action plan to the executive board.  But first, Maples made sure to complete an important step: quantifying the anticipated financial impacts to give the leadership an idea of what to expect.
+“We tried to put dollar figures around each of the tasks we wanted to undertake so that when we forwarded the information to our senior executive leadership team, they would have some idea of the costs involved for the organization,” she said.
+“That helped the conversation go very well.  Our executives really appreciated knowing what it meant to the organization’s bottom line if we’re holding patients in the ER, or if we have beds sitting empty upstairs because we don’t know the previous patient has been discharged and it’s available for someone new.”
+Once Maples received the nod from the board room, it was time to address the process issues that were putting a strain on patient flow.  Health First started by examining the setup of the emergency department, including how lab tests and radiology studies were performed and how physicians conducted consults, in order to eliminate choke points in the process.
+“We also examined our discharge process,” Maples added.  “One of our goals was to make sure that we could get a patient out of the door in two hours or less after they are discharged.  We had real-time reports for our managers that told them what their discharge time was sitting at right at that moment, so they could impact it immediately. The same with our turnaround time for the folks who clean the rooms and transport the patients.”
+READ MORE: How Big Data Velocity Informs Population Health, Patient Safety
+The goal was to automate and integrate as many tasks as possible, Maples said.  “So now, when that ED physician is charting in the EHR like he normally does, he can put in an order to admit the patient and it automatically fires off a bed request,” she explained.
+“We don’t have to wait for the physician to have a free moment to walk it over to the secretary, who might be busy with something else.  As soon as he puts that order in, we’re working on getting the patient a bed.  We have 30-something interfaces now that are doing the work that we used to have to rely on a human to do.  It has made a huge impact.”
+In addition to streamlining workflow processes, Health First took on the task of centralizing its patient flow management activities and bed placement system in order to develop a more coordinated approach to admissions.
+“These tasks used to be done individually at each of the nursing units in each hospital,” said Maples, “but now we have created a single patient logistics location that handles all of the patients coming through the ED, the cath labs, direct admissions, transfers – the central location makes the decisions about where each patient is going to go, which reduces so much stress on the workflow.”
+Staff members stay informed and engaged by viewing their achievements in real-time on the floor, which fosters collaboration and a positive team spirit.
+“We have dashboards at our facility that are displayed on huge monitors,” said Maples.  “When all the stats are green, everything is going well.  But as they start to creep up to yellow or red, we know that something is going awry.”
+Potential problems and issues are recapped each day in a team huddle, where managers use performance reports to identify opportunities for improvement. “It’s really important to disseminate this information to your staff in a way that is informative and motivating,” asserted Maples.  “It helps so much to have real-time information.”
+“If I don’t know that around 2:00 in the afternoon, I'm starting to see my request-to-assign times go up, I can't manage that.  So having the data to be able to manage the key points of your patient flow is extremely important.  If you don’t have real-time data to help make quick adjustments on the fly, you won’t be nearly as successful with driving change.”
+Between the centralization effort, the revamped workflows, and the greater reliance on automated health IT tools, Health First was able to cut down the admission-to-bed time from two hours to just five minutes.
+“In our emergency department, we went from having customer service scores in the 10th or 20th percentile to scores in the 80th and 90th, because patients aren’t waiting hours to be moved anymore,” Maples said.
+Staff satisfaction is also on the rise, and the executive board is pleased with the financial impacts of the project, which touches on all the major areas of organizational improvement.
+“This was the right thing for our patients, the right thing for our staff, and it’s been positive for our bottom line,” Maples concluded.  “We are moving more patients through our system much more efficiently, which is a big win for everyone involved.”
+Dig Deeper
+Big Data Visualization Improves ED Patient Flow, Satisfaction
+Lasting Patient Engagement Begins with Tailored Access to Care
+Tagged Analytics InfrastructureEmergency DepartmentHospital QualityInterviewsPatient Care
+
+

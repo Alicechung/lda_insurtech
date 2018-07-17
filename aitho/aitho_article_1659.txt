@@ -1,0 +1,31 @@
+Introducing The Embedded Vault – The World’s Most Secure Cryptocurrency Software Wallet
+
+23 Jan 2018
+
+The Company Has Created A Solution That They Believe Can Mitigate Much Of The Risk Of Holding Bitcoin And Other Cryptocurrency Without The Need Of Purchasing Additional Hardware
+Embedded Downloads, the developers of the BitVault, the world’s first blockchain smartphone, have introduced what they call: – “The world’s most secure cryptocurrency software wallet”
+With a unique interaction between hardware, encryption and blockchain technology, the company has created a solution that they believe can mitigate much of the risk of holding Bitcoin and other cryptocurrency without the need of purchasing additional hardware.
+Dynamic Key creation – Your private keys are never stored
+The defining feature of this product is that the private keys are dynamically created by the user and these keys are NEVER STORED, either on a device or a third party server.
+How does it work?
+Using your phone, PC and blockchain together, the Embedded Vault creates secure storage for your cryptocurrency and cryptography assets.
+Biometric security is a further intricate part of the security and the dynamic key generation process.
+To use the Embedded Vault, you need a smart phone with a fingerprint scanner as well as a PC or laptop.
+A PC application and smartphone applications need to be downloaded. The PC Application interacts with the phone over Bluetooth with an encrypted connection.
+The “secret sauce” of the Embedded Vault is that the keys are dynamically created with a combination of a cryptographic transaction, biometrics as well as other hardware and software input.
+You are in control of your private keys – You Are the Key
+As an additional security feature all transactions are double checked by a fingerprint scan of the user.
+EOT [ Encryption of things ] will be the cryptocurrency used as part of the key generation and encryption process.
+What can the Embedded Vault do?
+Secure storage of your cryptocurrency
+In the first release you will be able to store:
+Bitcoin
+EOT Coin
+EOT Token
+The development team are also in process of developing wallets for Bitcoin Cash, Ethereum and Waves. These will be made available via software updates as soon as they are complete.
+EOT Coin to Token Exchange: The Embedded Vault also provides a gateway that facilitate the exchange of EOT coins to EOT Tokens to enable trading of EOT on decentralized exchanges such as the Waves Platform.
+The company further announced that the Embedded Vault will be commercially available in the next few days and that further secure applications will be announced shortly.
+Embedded Downloads specializes in secure hardware and software relating to the “Internet of Things”.
+ 
+
+

@@ -1,0 +1,17 @@
+IAR Systems Enables Powerful IoT Security Applications Based On Groundbreaking MCUs From Microchip
+
+26 Jun 2018
+
+IAR Embedded Workbench ensures maximized performance in industry’s first microcontrollers (MCUs) with chip-level tamper resistance and Arm® TrustZone®
+IAR Systems®, the future-proof supplier of software tools and services for embedded development, announces tools support for the new SAM L10 and SAM L11 microcontroller families available from Microchip Technology Inc. Using the leading development toolchain IAR Embedded Workbench® for Arm companies can maximize the performance of the microcontrollers and streamline their development workflow.
+Follow Us
+The SAM L10 and SAM L11 families are based on the Arm Cortex®-M23 core and SAM L11 features extensive security features such as secure boot, secure key storage and an on-board cryptographic module, protecting customers’ IP and data. In addition to extensive security features, the microcontrollers offer very low power consumption, making them a perfect fit for implementing secure IoT nodes. These microcontrollers also integrate enhanced Peripheral Touch Controller (PTC) to deliver best-in-class water tolerant and noise immune, elegant touch interfaces. By using IAR Embedded Workbench for Arm for the application development, companies can leverage advanced code optimization techniques and power debugging functionality to make sure the application is fast, efficient and highly compact.
+Read More: Quanergy Solid State LiDAR Wins Juniper Research Top Automotive Award
+Rod Drake
+“Low power and high security are key enablers for IoT implementations,” says Rod Drake, vice president of Microchip’s MCU32 business unit. “Together, with IAR Systems, we are providing our customers with new possibilities for planning for security from the start and ensuring that the applications provide best-in-class energy efficiency. Our new microcontrollers and tools from IAR Systems enable a myriad of automotive, appliance, medical and consumer applications.”
+Anders Lundgren
+Read More: Think Next: Microsoft For Startups China Enables Chinese Innovations To “Go Global” And Overseas Innovations To “Go China”
+“By making use of our highly optimizing tools, developers can fully leverage the performance and power saving features of the SAM L10 and SAM L11 microcontrollers,” says Anders Lundgren, Product Manager, IAR Systems. “Thanks to the smart functionality and powerful debugging technology that IAR Embedded Workbench offers, they will also be able to speed up their development and bring their IoT products faster and easier to market.”
+Follow Us
+
+

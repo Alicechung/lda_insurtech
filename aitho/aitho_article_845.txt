@@ -1,0 +1,15 @@
+WAX Selects EOS As Blockchain-Based Technology Platform
+
+18 Apr 2018
+
+Customized EOS Blockchain Pairs With Protocol Token to Enable WAX Virtual Marketplace
+Worldwide Asset eXchange™(WAX) today announced that the company will build their peer-to-peer marketplace using a custom blockchain based on the EOS platform. After an extensive evaluation of the general technology, code maturity, code stability, available documentation, development community size and activity of several blockchain technologies, WAX has chosen to build a variant of the EOS blockchain featuring numerous custom features and functions to support the unique requirements of WAX.
+There will eventually be two versions of the WAX Token: the ERC20 version that exists today, and the protocol token that will work with the new WAX custom blockchain. The protocol token will enable all of the unique features of WAX, including buying and selling items through the use of smart contracts, sharing fee income among multiple parties, pegged asset contracts managing volatility, pledging to guilds, enabling exchange widgets and much more.
+The current WAX Token is fully functional in its current state, and the custom blockchain and protocol token are in the development stage.
+Anthony Diiorio
+“I fully support the decision by WAX to build their tech on the EOSIO platform. Since the inception of EOS, their team has focused on reducing transaction fees and improving transactions throughout,” said Anthony Diiorio, CEO and Founder of Decentral and Jaxx. Diiorio was one of the Co-founders of Ethereum and is currently an advisor for WAX. “As someone who supports a variety of platforms and projects, I’m confident that the decision WAX has made to align with the team from EOS has been well thought out and makes sound sense.”
+Lukas Sliwka
+“After months of deliberation, we concluded that EOS is the best fit for the WAX marketplace overall,” said Lukas Sliwka, Vice President of Engineering at WAX. “In addition to being one of the most popular platforms, EOS allows WAX DPOS implementation largely through configuration and small code modifications. Also, EOS provides a framework to execute WAX smart contracts and transactions while having existing scaffolding for Wallet and WAX Connect clients.”
+The WAX engineering team will be building their own version of the EOS blockchain. While EOS is the superior base technology for this project, it does not support all features of the WAX Platform, such as including Guilds and voting mechanisms for dispute resolution. Ultimately, the WAX Platform will be built upon a variant of EOS combined with custom-built functions, smart contracts and transactions designed specifically to support the unique features of WAX that are detailed in the technical white paper.
+
+

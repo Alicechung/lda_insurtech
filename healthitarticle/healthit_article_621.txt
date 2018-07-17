@@ -1,0 +1,28 @@
+IBM Watson Health, FDA Partner for EHR, IoT Blockchain Project
+
+January 11, 2017
+
+By Jennifer Bresnick
+January 11, 2017 - IBM Watson Health and the FDA have announced a new partnership aimed at applying blockchain technology to the challenges of securely exchanging big data across the care continuum. 
+The two-year research initiative will explore blockchain’s potential for sharing owner-mediated data sources, including information from electronic health records, Internet of Things devices, and precision medicine data sources.
+"The healthcare industry is undergoing significant changes due to the vast amounts of disparate data being generated. Blockchain technology provides a highly secure, decentralized framework for data sharing that will accelerate innovation throughout the industry," said Shahram Ebadollahi, Vice President for Innovations and Chief Science Officer, IBM Watson Health.
+Dig Deeper
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+The collaboration hopes to codify the use cases for blockchain, a distributed ledger system that allows participants to control the verification of transactions, such as an edit to a patient’s health record.  Blockchain creates an audit trail of transactions that is theoretically tamper-proof, improving accountability and security around some of an individual’s most sensitive data.
+IBM and the FDA will investigate how the methodology could improve the exchange of sensitive health data for population health applications, including the movement of clinical trials data and “real-world evidence” data, both of which are critical for the success of precision medicine.
+The organizations will also explore how blockchain could help to standardize and streamline the collection and use of Internet of Things data for clinical care. 
+The IoT currently presents myriad problems for providers looking to integrate patient-generated health data into clinical care decisions, but corralling these complex data streams within a blockchain framework may make it easier to identify and extract actionable insights.
+The announcement follows on the heels of an IBM survey predicting that sixteen percent of healthcare organizations will be using blockchain-based tools by the end of 2017, with an additional 56 percent of the industry likely to adopt the methodology by the end of the decade.
+The Internet of Things is a primary target for early blockchain adopters, says the poll, with 80 percent of trailblazing organizations focusing on how to turn patient-generated health data into new business opportunities.
+Other potential use cases for the blockchain in healthcare include home monitoring, chronic disease management, medication reconciliation, and supply chain management.
+“Blockchains shift the lens from disparate bits of information held by a single owner, to the lifetime history of an asset,” the survey explained. “This holds true whether that asset is a patient’s health record or a bottle of pills as it moves through the supply chain.”
+The methodology may also have significant financial benefits for the industry, especially on the payer side.  At the end of 2016, Deloitte released a report envisioning the impact of blockchain on administrative management, from claims processing and fraud detection to data sharing with patients and providers.
+“Blockchain’s architecture positions it to more effectively integrate the rapidly growing number and types of health and wellness information sources than a more traditional, widely dispersed, and often siloed digital infrastructure,” Deloitte said.
+“The greatest opportunities may extend beyond making incremental improvements in current business models to harnessing blockchain’s unique attributes to create entirely new types of interactive policies and launch innovative services that add value and grow the business.”
+Initially, IBM Watson Health and the FDA will focus on oncology data, which falls in line with Watson’s strong interest in precision medicine, genomics, and cancer care.  The company aims to define and architect a scalable solution for blockchain in healthcare that can be applied to multiple use cases.
+The partners will share their initial research findings in 2017. 
+Tagged Blockchain in HealthcareEHR InteroperabilityHealthcare Internet of ThingsPopulation Health ManagementPrecision Medicine
+
+

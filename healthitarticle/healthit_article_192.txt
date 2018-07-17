@@ -1,0 +1,79 @@
+Big Data Analytics, Governance Align CHI’s 100+ Hospitals
+
+February 20, 2018
+
+By Jennifer Bresnick
+February 20, 2018 - No matter what their scope or scale, healthcare organizations continue to struggle with developing the data analytics and governance competencies to gain much-needed visibility into their opportunities to improve.
+Organizations big and small are searching for the skills required to boost their performance and get ahead of financial risks, with success stories on both ends of the size spectrum.
+With more than 100 acute care hospitals spread across almost 20 states, Catholic Health Initiatives (CHI) ranks securely among the top ten biggest systems in the nation.
+James Reichert, MD, PhD, VP of Analytics and Transformation at CHI
+Source: Xtelligent Media
+The sheer size of the $15.9 billion organization, which also includes employed providers, ambulatory clinics, home health facilities, and other environments, sets it apart from many of the country’s other healthcare delivery networks. 
+With multiple regional division heads responsible for overseeing operations in their territories and a national office that helps data and decisions filter back down to every individual care site, CHI operates on a scale that might seem foreign to the majority of other organizations across the country.  
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+And yet the challenges it faces around using data analytics to improve quality and better serve patients are, fundamentally, the same as the smallest community hospital or rural health clinic. 
+Communication, collaboration, transparency, and agreement on top priorities are difficult to develop in any organization.
+And every type of provider needs to recognize the important role of data analytics and reporting in facilitating the development of these important factors for success.
+“Our mission is to provide the best care possible to every patient every time,” said James Reichert, MD, PhD, Vice President of Analytics and Transformation at CHI. 
+“You can’t improve if you can’t identify where your gaps are, where the opportunities are, where you’re achieving excellence, and how effective your changes are. We recognize that we need data to support what we’re doing.”
+VISIBILITY BRINGS A COMMON VISION
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Clinical, financial, and operational data must be trustworthy, and must be presented without the natural bias that can come from wanting to showcase good performance on key metrics related to safety, quality, and outcomes.
+These biases, unconscious though they often were, tended to show up in the reports CHI’s central office received from its divisional leaders, Reichert said to HealthITAnalytics.com.
+“Around 2013, when I joined the national office, we would be getting reports from our component markets on a quarterly basis, and naturally the markets would be putting their best foot forward on those,” he said.
+“But because they were putting together their own data and sending it in, they tended to report on their activities in a way that made everyone look like they were doing very well in clinical quality, patient safety, and the patient experience.”
+Many of the organizations were indeed performing highly across the majority of domains, he stressed, and there was little sense that any individual market was actively misrepresenting its performance.
+READ MORE: Information Governance Gaining Ground in Healthcare Organizations
+“But not everyone can be top of the class at everything,” he pointed out. “The national office started to think they weren’t getting a clear picture of what was really going on in the care environments at the local level.”
+The consternation also flowed in the other direction, he added. “The national office would say, ‘We’re going to work on these three initiatives system-wide this year, and we want everyone to improve by such-and-such a percentage.’”
+“But the markets would take a look at their data and say, ‘Gee, we’re already pretty good at that – we don’t think that should be our top priority when we have more opportunities and needs somewhere else.’”
+Most of the markets were performing well on the majority of top issues, he said.  “But if you take a lot of measures together, then everybody's not doing well in something that they need to work on.” 
+CHI found that in most cases, a handful of facilities accounted for the majority of the opportunity on any given measure, and decided that a more targeted approach to quality improvement would produce more significant gains in facilities at the lower end of the spectrum without diverting resources unnecessarily in those that were already performing well.
+“In order to really understand that in a fair and equitable manner, we needed to create a single source of truth instead of relying on individual components of the system for their interpretation of a measure or a definition,” said Reichert.
+“We needed to create transparent reporting across the enterprise with risk-adjusted measures so that everyone is using the same definitions and the same standard metrics so that we could transition to a much longer-term strategic vision.”
+LIVING THE MISSION THROUGH BETTER REPORTING AND GOVERNANCE
+A more equitable and impactful reporting structure started with choosing the measures that could bring the biggest improvements to the vast organization, Reichert explained.
+Nine measures, including metrics around organizational growth, service to vulnerable populations, patient safety, and care quality, now comprise CHI’s “Living Our Mission” initiative.  
+Standardized frameworks, like the PSI 90 for patient safety and the HCAHPS metrics for patient experience, help CHI compare its activities to its peers by leveraging common definitions and criteria.
+“That approach has allowed us to develop focus, credibility, and trust,” said Reichert. “Trust is the most important thing – it’s vital that everyone is using the same analytics and the same reports to understand their performance.  They have to trust the data, because then if they do identify a deficiency, they can agree with everyone else that they need to address it.”
+To further reduce the chances of discrepancies across different markets, CHI moved from a self-reporting structure to a much more centralized strategy leveraging an analytics platform from SAS.
+“We don’t really want to have a market extracting data from their own facilities and reporting on it, then sending the report to us,” Reichert said.  “Instead, we have our markets send all their data directly into a single data warehouse – a centralized repository for clinical and administrative data – and then we do all the value-add to it at the national level.”
+“That helps with interoperability and data quality issues, as well,” he continued.  “So it doesn’t matter whether the individual market is using Epic or Allscripts or any other electronic health record system: the data simply flows directly out of the source system and into the centralized warehouse, which is more like a data lake.”
+Not only does this approach ensure the data is as uniform as it can be before undergoing analysis, but it also reduces a potential source of friction between the regional markets and the national headquarters, Reichert said.
+“We don’t want our market leaders to spend time questioning whether a metric has been calculated correctly. We don’t want to create that conflict when it isn’t really a necessary step in the process. Our primary goal is to attain alignment with frontline local domain experts, their market leaders, executive leadership, and the board of stewardship of trustees.”
+DEVELOPING STREAMLINED ANALYTICS INFRASTRUCTURE
+With so much data from so many sources flowing into a single system, strong data governance is essential for ensuring integrity and concordance. 
+Extracting data directly from EHRs may prevent many of the interoperability issues involved in synthesizing data from disparate systems, but it doesn’t necessarily solve the problem of harmonizing unstructured data or elements that can be represented in multiple ways.
+“Normalization is a key part of our data governance processes,” Reichert said.  “For example, for something as common as hemoglobin A1C, we have 53 representations across the enterprise.” 
+“We need to be able to normalize all of those into one concept so that we can ask the same questions about diabetes control of our locations in Arkansas as we do in Minnesota or Kentucky, no matter what EHR vendor any of those sites are using.”
+Completing that part of the process requires input from Reichert’s analytics team as well as help from several technology allies.
+“On the acute care side, once we get the data into the data lake, we can ship it over to one of our technology partners who can work on the transformations and focus on the data quality necessary to bring that information in for our reporting,” he said. “For our ambulatory markets, we do a lot more of those transformations ourselves."
+Reichert oversees a relatively small team for such a huge organization.  With fewer than ten people to perform the vast majority of analytics work required to support these goals, automating and simplifying reporting processes is key.
+“With a higher degree of automation, we can schedule these processes to run in the background and produce reports that we can publish across the organization, which has helped us make our very small team much more efficient,” he said.
+“Once we stand up these solutions, we can move on to other projects without staying in the weeds day in and day out, working with the data.”
+TOP DOWN, BOTTOM UP REPORTING
+After the data is normalized and analyzed, the results must be reported to the stakeholders that will use it to make decisions.
+Operational reporting and analytics dashboards are available directly through a portal, which allows everyone to access and view reports, Reichert said.
+“That really helps to democratize the data and build staff engagement for improvements,” he observed.  “They won’t be able to get patient-level detail unless they’re authorized for it, but they can see how they’re performing at the facility level and sometimes at the unit level.  In the ambulatory space, we can offer data at the provider level.”
+Division leaders, who are responsible for between 12 and 17 hospitals each, and other executives also get standardized reports on a monthly basis.
+The reports include a summary of their quality, patient safety, and patient experience scores, benchmarked against a year’s worth of data to illustrate any improvements or potential shortfalls.
+“If an executive sees that one facility is doing particularly poorly on a certain measure, he or she can follow up with that facility’s president or chief medical officer to try to dig through the analytics to understand what’s contributing to that dip in performance.”
+Certain leaders in each of CHI’s markets will receive additional data down to the patient level, which allows individual facilities to break down their opportunities for improvement even further. 
+“Everyone knows who these people are, so they can approach them for that really granular view of performance in our priority domains,” said Reichert.
+The positive impact of access to these granular, tailored data resources has been swift.  Between 2015 and 2017, CHI saw a 14 percent reduction in heart failure mortality and a 20 percent reduction in pneumonia deaths. 
+The incidence of pressure ulcers dropped by 13 percent, while the health system achieved a 33 percent reduction in postoperative hip fractures.
+Many of these statistics are continuations of year-over-year gains in quality, which are due in part to the more than 1000 reports generated and shared by the analytics team every month.
+USING DATA TO FUEL COLLABORATION, NOT CONTENTION
+In some respects, CHI is able to leverage data effectively in spite of its size, not because of it. 
+Bringing together so many moving parts, different opinions, and unique organizational cultures at the facility level would be a daunting task for a much larger analytics team, let alone the small group of data experts in charge of overseeing these reports.
+Reichert attributes the organization’s success to a governance structure that priorities transparency and a clear chain of command.
+“Because we are such a large organization, setting up well-defined roles and responsibilities is huge,” he stressed.  “If we didn’t have that clarity, we would be constantly going back and forth about what everyone should or shouldn’t be doing.”
+No matter what the size of an organization, strong leadership is vital to any initiative that requires change, such as a new health IT implementation, a quality improvement program, or a population health management initiative.
+“We use the analogy of a car: the data is the fuel, the analytics are the engine, but the structure of the car is built out of quality leadership,” he said. 
+“They’re the ones who provide the focus, communication, and education to move us in the right direction.  Without that strong framework in place, our drivers – the people out in the markets who are actually making these changes happen – couldn’t get where they want to go.”
+Large organizations can sometimes lose their momentum if they do not start with good data governance and follow it up with strong organizational governance, said Reichert.
+“When your quality improvement officers meet, they should be talking about what they need to do to move from the 30th percentile to the 60th percentile, not arguing over whether or not the data on their performance from last quarter is accurate or not,” he said. 
+“Data and reporting and analytics are just the jumping off point.  It’s extremely important to get those pieces right and make sure the trust is there, but at the end of the day, you’re not going to meet your goals if you don’t use that data to actually get things done.”
+Tagged Analytics InfrastructureCare QualityHealthcare Data GovernanceHealthcare Information GovernanceHospital QualityInterviewsPatient Safety
+
+

@@ -1,0 +1,48 @@
+Groups Laud Health IT, Public Health Clauses of 21st Century Cures Act
+
+December 12, 2016
+
+By Jennifer Bresnick
+December 12, 2016 - UPDATE: President Obama signed the 21st Century Cures Act into law on December 13, 2016.
+The 21st Century Cures Act may have been primarily billed as a research stimulus package aimed at expanding the nation’s investment in precision medicine and life-saving drugs for rare diseases.  
+But the sprawling legislation also includes a number of smaller provisions touching on several other key areas for the healthcare industry, including big data analytics, interoperability, patient safety, public health, and health IT regulation.
+The masthead of the bipartisan bill, which easily passed through both the House and Senate last week, is up to $4.8 billion in funding for the National Institutes of Health, which is working with the FDA and a slew of public and private stakeholders to speed medical innovation, advance precision medicine, find a cure for cancer, and make better use of unique therapies for rare diseases.
+To accomplish many of these tasks, the legislation will attempt to speed up the drug development process by removing regulatory hurdles, reducing patient safety testing requirements, and allowing pharmaceutical companies more leeway when marketing drugs for off-label purposes.
+READ MORE: FDA Asks for Input on Modernizing to Meet Public Health Needs
+The Act also makes some broader adjustments to the healthcare landscape, many of which have already garnered strong praise from advocacy groups, research organizations, professional societies, and vendors. 
+Here are just a few of the 21st Century Cures Act’s lesser-known provisions geared towards health IT and big data analytics.
+Creating a statutory definition for “clinician-led clinical data registry”
+Clinical data registries have quickly become an important tool for public health and precision medicine research, but gathering and synthesizing big data from disparate systems remains a significant challenge. 
+Efforts to expand the usefulness of clinician-led data registries, such as the Society of Thoracic Surgeons’ National Database, have been stymied by data sharing disagreements, contends STS Secretary for Second Vice President Keith S. Naunheim, MD, but the 21st Century Cures Act may make it easier for providers to share and utilize big data for research and clinical care.
+READ MORE: Machine Learning Can Quiet “Building Crescendo” of EHR Dissatisfaction
+“This legislation has the potential to facilitate groundbreaking efforts in the area of health care quality improvement because it allows certain data registries—such as the STS National Database—to access information in the electronic medical record,” Naunheim said.
+“In the past, some EMR companies have had limited access to these data for purely proprietary or business reasons, which hampered our ongoing efforts to improve the quality of patient care and control health care costs.”
+Alongside the Physician Clinical Registry Coalition, STS has advocated for a standardized definition of “clinician-led clinical data registries” in order to facilitate future regulations and legislation.  The 21st Century Cures Act includes the definition suggested by the two groups.
+“In the bill, a clinician-led clinical data registry is defined as a clinical data repository that is led by clinicians and, among other things, is designed to collect detailed, standardized data on medical procedures, services or therapies for particular diseases or conditions; provides feedback to its participating data sources; and meets certain quality standards,” the Coalition said in a letter to Congress congratulating lawmakers on successfully passing the bill.
+“We are pleased that we could play an integral part in the formation of the definition of clinician-led clinical data registries, as this term will be critical to ensuring that data from electronic health records is shared with bona fide clinical data registries that are capable of collecting, securing, and analyzing patient information in a manner that truly promotes quality improvement.”
+READ MORE: ACP: Use Population Health to Combat Opioids, Substance Abuse
+Reforming mental healthcare regulations to expand the availability of treatment
+In addition to providing more than $1.5 billion to fund the BRAIN Initiative, which focuses on Alzheimer’s, Parkinson’s, and other neurological diseases, the 21st Century Cures Act addresses certain shortfalls in the nation’s mental healthcare community.
+The bill provides $12.7 billion to the Minority Fellowship program to train culturally competent mental health professionals to treat diverse communities and creates a new $10 million demonstration grant initiative to improve mental healthcare and substance abuse care in underserved communities, the American Psychological Association and the APA Practice Organization stated.
+HHS will also be required to create a collaborative action plan to improve federal and state coordination for mental healthcare, and the Act eliminates Medicaid’s “same day” exclusion, which will allow mental health and primary care providers to bill separately for services provided to a beneficiary on the same day.
+The National Child Traumatic Stress Network will continue to deliver care to children experiencing trauma and the Justice and Mental Health Collaboration Program will provide enhanced training to law enforcement officers when dealing with sensitive situations.
+“This legislation will improve the lives and health of countless Americans,” said APA President Susan H. McDaniel, PhD. “It will increase access to effective, evidence-based care, particularly for those with serious mental illness.”
+Improving patient safety by combating antibiotic resistance
+In addition to allocating $1 billion to fight the growing opioid abuse epidemic, the Act addresses another serious drug problem: antibiotic resistance.
+The overuse of common antibiotics is a serious concern for patient safety advocates, who have recently ramped up warnings that “superbugs” are becoming too powerful to fight with existing therapies.
+“The Infectious Diseases Society of America (IDSA) applauds the Senate for passing the 21st Century Cures Act,” the group said in a press release. “IDSA is particularly pleased that the legislation contains provisions that help combat antibiotic resistance as well as the opioid epidemic that is spurring a surge in new HIV and hepatitis C infections.”
+“Antibiotic resistance is one of the critically important public health threats addressed by the 21st Century Cures Act.  Across the globe, at least 700,000 individuals die annually from drug-resistant infections.  Increased research and development for new antibiotics is a central part of the broader strategy to combat drug resistance.”
+The legislation hopes to curb overuse of antibiotics while spurring the development of new, targeted drugs to fight multi-drug resistant bacteria by reducing the required sizes of clinical trials while simultaneously requiring additional regulations to ensure that promising therapies aren’t overused.
+“The limited-population antibacterial drug, or LPAD, pathway would allow antibiotics for resistant infections to come to market through streamlined clinical trials and would help ensure that these products aren’t used inappropriately in more general populations that can be treated with existing medicines,” explained The Pew Charitable Trusts.
+“The legislation also provides for better data to guide antibiotic selection by allowing for more frequent and timely updating of information about bacterial sensitivities. This will aid in choosing the right drug for patients and will help reduce inappropriate use that can lead to resistance.”
+Addressing data blocking, interoperability, and health IT development rules
+Precision medicine cannot flourish without seamless big data sharing, which is why the 21st Century Cures Act paid some special attention to health IT interoperability. 
+The bill directly prohibits the practice of “information blocking,” or the practice of purposely disallowing the sharing of clinical data, by defining “interoperability” in opposition to the concept.
+The Act defines information blocking as a practice that is “likely to interfere with, prevent, or materially discourage access, exchange, or use of electronic health information; and… such provider knows that such practice is unreasonable and is likely to interfere with, prevent, or materially discourage access, exchange, or use of electronic health information.”
+Lawmakers also expressed support for “interoperable network exchange,” which calls upon the ONC and National Institutes of Standards and Technology (NIST) to create and publish a framework for trusted exchange.
+“The bill encourages greater interoperability among health IT systems by establishing mechanisms for patients to be able to access their EHR electronically and requiring vendors and providers to attest that they are not blocking information exchange,” said Joe Ganley, VP Federal Government Affairs, McKesson Corporation in a statement emailed to HealthITAnalytics.com. “We applaud Chairman Upton, Chairman Alexander, Senator Murray and Congressman Pallone on this significant bipartisan achievement."
+The Difference Between Big Data and Smart Data in Healthcare
+Addressing Opioid Abuse with Analytics, Population Health Strategies
+Tagged 21st Century Cures ActEHR InteroperabilityPatient SafetyPopulation Health ManagementPrecision MedicinePublic Health
+
+

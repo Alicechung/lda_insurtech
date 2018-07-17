@@ -1,0 +1,37 @@
+Kaiser Permanente Expands Precision Medicine Biobanking Effort
+
+April 15, 2016
+
+By Jennifer Bresnick
+April 15, 2016 - Kaiser Permanente isn’t waiting for the national Precision Medicine Initiative Cohort project to get off the ground.  Instead, the sprawling healthcare system is hoping to fill up its KP Research Bank with at least 500,000 samples drawn from its own diverse patient pool.
+The network’s biobanking efforts, which have already attracted 220,000 participants, and will target many of the same diseases that are already in the sights of other institutions: diabetes, cancer, hypertension, and neurological conditions like Alzheimer’s disease. 
+But the KP Research Bank plans to go above and beyond the precision medicine projects taking place within the National Institutes of Health. 
+In addition to collecting genetic information via a blood sample, Kaiser Permanente’s integrated EHR systems and an accompanying patient survey will allow researchers to access insights on lifestyle and environmental data that will give context to genomic sequencing.
+“One of the ways the Kaiser Permanente Research Bank is unique from other efforts is that in addition to DNA samples, we ask our participants about behavioral and environmental factors,” said Sarah Rowell, Associate Director of the KP Research Bank.
+READ MORE: NIH Takes on Population Health Disparities with Social Epigenomics
+“That means we’re able to connect this information with data from the patient’s electronic medical record, which could allow us to make discoveries that just aren’t possible with other research resources.”
+With 38 hospitals and more than 18,000 physicians serving 10.2 million members, Kaiser’s built-in patient recruitment resources, as well as its big data analytics prowess and focus on research activities, have positioned it well to become a powerhouse for precision medicine.
+“Kaiser Permanente has a long history of conducting innovative, translational research that benefits the health of our members and the communities we serve,” said Karen Emmons, PhD, Vice President of Kaiser Permanente Research.
+All Kaiser Permanente members over the age of 18 are eligible to participate.  Unlike clinical trials, which exclude the majority of patients due to the need to strictly control variables, the biobanking project encourages complex patients to submit their samples and cultivate a diverse pool of data that reflects the real-life challenges of the healthcare landscape.
+“The KP Research Bank, which should reflect our richly diverse membership, could lead to breakthroughs in ways to prevent or treat diseases and may in the future provide patients with health care based on their individual DNA, environmental and behavioral information,” Emmons added.
+READ MORE: Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+The project also gives some insight into the administrative challenges of collecting, storing, and securing personal health information for precision medicine applications. The patient consent forms clearly lay out the basics of how the data will be used, how patients will be identified, and what privacy risks may be involved in participation.
+Because the Research Bank draws on patient EHR data, the project requires an additional layer of protection to ensure deidentification.  KP Research Bank staff link EHR records with biobank samples through a separate identification number, which is theoretically only accessible to approved research staff.
+But there are no guarantees of complete privacy or security, the document adds, especially since patient samples can be held and used in any number of new research efforts for an indefinite period of time, even if the patient is no longer a Kaiser Permanente member. 
+“The biggest risk is that someone might get access to the data stored about you despite the KP Research Bank’s best efforts to keep the information safe,” Kaiser Permanente says. “The KP Research Bank believes the chance that this will happen is very small, but there is no guarantee that there is no risk.”
+Researchers participating in new projects may also request access to additional patient samples, such as biopsy tissue, blood, saliva, urine, or other excess specimens that would otherwise be discarded after testing.  Additional clinical information, including test results, imaging studies, future EHR entries, diagnoses, and pharmaceutical use are also fair game.
+READ MORE: “All of Us” Precision Medicine Program Enters Beta Testing
+In addition, there is no guarantee that patient information will stay within the Kaiser Permanente research system, especially as institutions from across the country join in the growing precision medicine community.
+“Studies that use samples from the KP Research Bank may receive grants from the government through the National Institutes of Health (NIH) and other agencies,” the consent document explains.
+“The federal government requires that research information including genetic information that was paid for by American tax payers to be shared with other scientists. Scientists can use this information to learn even more about health and disease.”
+Data stored in an NIH database through this process might also be reused in multiple manners without additional review by the Kaiser Permanente Institutional Review Board.
+Patients can withdraw their consent at any time, Kaiser Permanente stresses, and every effort to ensure privacy and confidentially has been made each step of the way. 
+Still, helping patients understand why it is important to participate in this type of effort may be difficult – especially since Kaiser specifically states that patients will not receive any immediate, personal benefit from the project.
+“You should not expect to get personal results from research done through the KP Research Bank,” says the consent form. “The KP Research Bank will not give results to your doctor or put results in your health record. The KP Research Bank does not expect the KP Research Bank results to help you or your health care providers make decisions about your current health care.”
+Participation in the project must be truly altruistic for patients.  While more and more healthcare consumers are becoming comfortable with the idea of sharing their data for the greater good, healthcare data breaches are so routine that not all patients will be willing to accept the risk.
+However, excitement over the possibilities inherent in cutting-edge precision medicine research projects may be more compelling, as evidenced by the large number of participants that have already committed data to Kaiser Permanente’s efforts. 
+As research institutions continue to gather enormous volumes of patient data for their precision medicine needs, they will need to continue to refine their data collection and privacy protocols to ensure that participants remain at ease about the use and storage of their personal information. 
+Kaiser Permanente’s openness about the possibility of privacy risks, as well as the level of detail included in their consent documents, illustrates an encouraging understanding of how to educate patients about their participation in biobanking programs, and may be a useful template for other organizations looking to have similar success with their recruiting goals.
+Tagged GenomicsMedical ResearchPopulation Health ManagementPrecision Medicine
+
+

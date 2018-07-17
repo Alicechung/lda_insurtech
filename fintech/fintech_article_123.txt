@@ -1,0 +1,21 @@
+Facebook joins FIDO Alliance board of directors
+
+May 30, 2018
+
+The FIDO Alliance announced that Facebook has been appointed to its Board of Directors. With this appointment, Facebook joins other leading global technology, financial services and e-commerce board members in driving the Alliance’s strategic vision to reduce the world’s reliance on passwords with stronger, simpler authentication.
+
+ The FIDO Alliance develops specifications for interoperable strong authentication with compliant mobile and web applications and PC platforms. Through its use of on-device public key cryptography and convenient authenticators such as security keys and biometrics, FIDO Authentication is more secure, private and easy to use than passwords and other forms of strong authentication.
+
+ “Weak passwords continue to cause unnecessary problems that could be avoided if strong authentication options were more widely deployed and used. We are proud to join the FIDO Alliance Board and help them in their goal to make simple, strong authentication more broadly available through web browsers and on mobile and PC platforms,” said Brad Hill, Facebook software engineer.
+
+ While new to the Board, Facebook has played an active role in supporting the adoption of FIDO Authentication since January 2017 when they made it possible for any of their 2 billion daily users to use a FIDO-supported security key to log in.
+
+ In addition to Facebook, many top service providers, such as Aetna, Google, PayPal, Samsung,  NTT DOCOMO, Dropbox and Github, have made FIDO Authentication available to their broad user bases. Just last month, Google, Microsoft and Mozilla also committed to supporting the recently announced WebAuthn standard in their flagship browsers, making FIDO Authentication available to users across the web.
+
+ “We are pleased to welcome Facebook as the newest member of our Board of Directors,” said Brett McDowell, executive director of the FIDO Alliance. “As one of the most used web and mobile services in the world, Facebook will help the FIDO Alliance take another step closer in achieving its mission of enabling truly innovative authentication experiences that delight users, while also solving the security problems that plague passwords and one-time-passcodes today.”
+
+ About FIDO Alliance
+
+ The FIDO (Fast IDentity Online) Alliance, was formed in July 2012 to address the lack of interoperability among strong authentication technologies and remedy the problems users face with creating and remembering multiple usernames and passwords. The FIDO Alliance is changing the nature of authentication with standards for simpler, stronger authentication that define an open, scalable, interoperable set of mechanisms that reduce reliance on passwords. FIDO Authentication is stronger, private, and easier to use when authenticating to online services.
+
+

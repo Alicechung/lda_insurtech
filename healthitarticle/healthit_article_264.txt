@@ -1,0 +1,38 @@
+Artificial Intelligence to Make More Health Jobs Than it Eliminates
+
+December 14, 2017
+
+By Jennifer Bresnick
+December 14, 2017 - Some healthcare professionals might view artificial intelligence as a job-killer, but advanced machine learning may actually create more employment opportunities in the industry than it eliminates, according to a new report by Gartner.
+By 2020, AI will result in 1.8 million job losses, but will also be responsible for opening up 2.3 million new positions related to analytics, management, or augmented decision-making.  The healthcare industry is likely to be one of the biggest beneficiaries of the job-creation curve, says Gartner.
+"Many significant innovations in the past have been associated with a transition period of temporary job loss, followed by recovery, then business transformation and AI will likely follow this route," said Svetlana Sicular, research vice president at Gartner.
+"Unfortunately, most calamitous warnings of job losses confuse AI with automation — that overshadows the greatest AI benefit — AI augmentation — a combination of human and artificial intelligence, where both complement each other."
+Healthcare is particularly suited to using AI as an augmentation tool.  Big data analytics leaders have used the term numerous times to describe the eventual marriage of human clinical decision-making and machine-driven insights.
+READ MORE: PwC: Artificial Intelligence, IoT, Population Health Top 2018 Trends
+While many healthcare organizations are currently looking at AI as a way to ensure data security, detect fraud, and comb through massive amounts of imaging data or documentation, Gartner believes that non-routine tasks will also soon include an AI component.
+By 2022, one out of every five workers primarily engaged in non-routine, knowledge-based tasks will rely on AI for their main job functions, the report predicts.
+"Companies are just beginning to seize the opportunity to improve non-routine work through AI by applying it to general-purpose tools,” said Craig Roth, research vice president at Gartner.
+“Once knowledge workers incorporate AI into their work processes as a virtual secretary or intern, robo-employees will become a competitive necessity."
+Many of the competitive advantages are likely to come from increased productivity.  By 2021, Gartner expects that AI will help to recover 6.2 billion hours of worker productivity while generating close to $3 trillion in business value.
+READ MORE: How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+"AI can take on repetitive and mundane tasks, freeing up humans for other activities, but the symbiosis of humans with AI will be more nuanced and will require reinvestment and reinvention instead of simply automating existing practices," said Mike Rollings, research vice president at Gartner.
+"Rather than have a machine replicating the steps that a human performs to reach a particular judgment, the entire decision process can be refactored to use the relative strengths and weaknesses of both machine and human to maximize value generation and redistribute decision making to increase agility."
+In healthcare, these principles are already being applied to use cases where humans simply cannot process the overwhelming volume of data required to make optimally informed decisions.  Combing through multi-gigabyte pathology slides pixel by pixel and extracting results from hundreds of thousands of pages of academic journal articles are tasks best left to machines – and they have started to perform extremely well in tests and pilots.
+"Now is the time to really impact your long-term AI direction," urged Sicular. "For the greatest value, focus on augmenting people with AI. Enrich people's jobs, reimagine old tasks and create new industries. Transform your culture to make it rapidly adaptable to AI-related opportunities or threats."
+But healthcare providers seem split on the benefits and possibilities of taking an aggressive approach to AI adoption. 
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+While VC investment is booming and optimism over the eventual transformation of the industry is high, some recent data indicates that the adoption curve is likely to be slower than anticipated.
+A recent survey of some of the largest US health systems indicates that AI adoption is a relatively low priority for many organizations, at least in comparison to the pressures of creating stronger cybersecurity safety nets and improving the consumer experience.
+Sixty-three percent of large health systems said that they are putting AI on the back burner as they tackle these tasks. 
+Unclear use cases for machine learning, combined with the challenge of extracting and normalizing the data to feed these algorithms, have made top executives wary of jumping into the environment too quickly.
+Respondents to a separate survey by HIMSS Analytics in October also expressed skepticism that AI was poised to help their organizations succeed. 
+More than a third of participants questioned the maturity and usefulness of the current generation of AI tools, while a quarter agreed that the business cases for these systems are still not clear enough.
+The healthcare industry has rarely been among the first sectors to adopt new technologies, which may be why providers seem less likely than retail, financial, and manufacturing enterprises to put their eggs in the AI basket.
+But as analytics technologies get more sophisticated and start to prove their value in consumer-focused industries like retail, healthcare organizations are likely to be more open to tools that can ease the pain points of patient-centered care.
+Those six billion hours of recovered productivity will be hard for providers to ignore as they continue to search for administrative and clinical tools that streamline complex workflows and enable success in the predictive world of value-based care.
+Forward-thinking organizations tend to recognize that they do not currently have the data science expertise to harness the potential of AI, and are actively looking for new staff to fill analytics roles that did not exist just a few years ago.
+As organizations move from collecting basic big data to leveraging analytics insights for actionable improvements, they will need to bulk up their data analytics departments accordingly.  This is likely to lead to a number of new employment opportunities centered on making AI work – and the number of people required for this herculean task may, in fact, outpace the job loss rate.
+Organizations that can balance meaningful AI augmentation and automation with the human element of healthcare are likely to find success in an increasingly data-driven care environment.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsHealthcare EmploymentMachine Learning
+
+

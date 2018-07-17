@@ -1,0 +1,35 @@
+HIMSS18 Is All About Artificial Intelligence in Healthcare
+
+February 15, 2018
+
+By Jennifer Bresnick
+February 15, 2018 - The 2018 HIMSS Annual Conference and Exhibition will be opening in Las Vegas in just a few weeks’ time, bringing more than 40,000 of the nation’s healthcare IT vendors, providers, executives, educators and press together to discuss emerging trends and strategies in a rapidly evolving world.
+With hundreds of exhibitors and a packed schedule of educational sessions addressing everything from cloud security and informatics to physician mental health and imaging analytics, it is usually somewhat difficult for HealthITAnalytics.com to pick one overarching theme that ties the whole week together.
+Not this year.  Artificial intelligence is the name of the game, and anyone who’s anyone in the healthcare industry will be showcasing their take on machine learning, deep learning, natural language processing, ambient computing, and other facets of the hottest emerging technology around.
+“It’s not sci-fi stuff anymore,” HIMSS says, introducing a full-day symposium dedicated to exploring the myths and merits of AI and machine learning. 
+Developers, data scientists, clinicians, and researchers will present case studies and lead strategy sessions to help attendees set the stage for bringing AI into their own organizations.
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Monday evening, the conference’s opening keynote will address the role of machine learning and cloud computing in healthcare’s many moonshots. 
+Eric Schmidt, Executive Chairman of Google’s parent company, Alphabet Inc., will share his vision for how machine learning and other technological breakthroughs can accelerate discovery, improve care, and help the healthcare system reach its full potential.
+Throughout the weeklong exhibition, leading healthcare systems will share their best practices for bringing machine learning into the clinical and financial analytics environments.
+Christopher Ross, CIO of the Mayo Clinic, and James Golden, Managing Director at PricewaterhouseCoopers, will explain how Mayo is employing AI and where AI-based tools are likely to have the biggest impact.
+Data analytics experts from Geisinger Health will offer their insights on the topic, as well.  Elizabeth Clements, Associate Enterprise Architect, and Debdipto Misra, Senior Data Engineer, will provide a framework for managing the shift in IT strategy required to leverage machine learning tools.
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+Cedars-Sinai Medical Center will also help attendees understand the potential ROI of artificial intelligence, but will focus on its expanding role in clinical trials and research. 
+Bobbie J. Rimel, a gynecologic oncologist and Associate Director for Gynecological Clinical Trials, will be joined by Deep 6 AI CEO Wout Brusselaers to explain how AI tools are improving patient matching and speeding up the process of filling clinical trials.
+Neither last nor least, NIH Lead CT Radiologist Les R. Folio and UVA Health System Professor Cree Gaskin will break down how natural language processing and AI-driven imaging analytics are changing the way radiologists interact with imaging study results.
+The massive vendor exhibitor halls will also be packed to bursting with companies offering machine learning and AI products, giving attendees a chance to browse through hundreds of solutions geared towards clinical documentation improvement, better workflows, patient safety, patient engagement, population health and chronic disease management, financial analytics, privacy and security, business intelligence, and more.
+Anchor exhibitors, including Epic Systems, IBM, and Optum, will have plenty to say about how machine learning and advanced analytics are contributing to their product suites and overarching goals. 
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+And while Amazon AWS is there primarily to talk about their cloud storage, analytics, and database services, there is little doubt that they will receive some pointed questions about the company’s much-talked-about future in the industry.
+Artificial intelligence and its future might be the central theme running through the conference, but there are still plenty of sessions, presentations, and discussions to be had for those whose minds are focused on the present challenges of population health management, value-based reimbursement, cybersecurity, and digital health.
+Tracks devoted to emerging payment models, interoperability, security, and informatics will offer sessions on clinical decision support, EHR optimization and maturity, telehealth, ransomware, medical devices, and much more.
+Representatives from insurance companies, including UnitedHealthcare and Aetna, will explain how payers are fostering collaboration and leveraging data analytics to engage members, lower costs, and help providers succeed in alternative payment models.
+The HHS Office for Civil Rights will provide a HIPAA compliance and enforcement update, while Partners HealthCare CISO and Privacy Officer Jigar Kadakia will advise providers on how to budget and invest in cybersecurity in an increasingly dangerous world.
+And for those with an interest in population health management, there will be sessions highlighting the role of social determinants of health in the value-based reimbursement environment, the importance of managing Medicaid patients holistically, and how to leverage technology to engage patients in a meaningful way.
+With nearly a full week of education and exhibition to explore, there will be something for everyone with an interest in any aspect of healthcare information technology.
+HealthITAnalytics.com will be there all week long to track the latest trends and connect with the vendors, providers, and subject matter experts leading the way towards positive change and better outcomes.
+Stay tuned for our comprehensive event coverage, sign up for our newsletters to bring top content directly to your inbox, and follow @HITAnalytics on Twitter for live updates, pics, and videos from the show floor.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportHIMSS18Machine LearningPopulation Health Management
+
+

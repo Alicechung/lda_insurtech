@@ -1,0 +1,33 @@
+How Machine Learning Could Revolutionize Healthcare Diagnostics
+
+May 04, 2016
+
+By Carrick Carpenter, MBA
+May 04, 2016 - If you are in healthcare, you may have heard the term “machine learning” without really knowing what it means. It’s not a new technology, but it is one that has taken huge leaps forward over the past couple of years and is proving to be invaluable in healthcare.
+Essentially, machine learning is a form of artificial intelligence that refers to the ability of a computer to detect and “remember” previously encountered patterns and to learn from new data about those patterns and any new patterns that are detected.
+It’s a useful technology in situations that require analysis of large amounts of data or in tasks that require the ability to react to changing data. It’s used in a wide array of industries, allowing computers to drive cars, run assembly lines, compete on Jeopardy and provide new insights from archived data.
+In healthcare, machine learning allows a computer to analyze vast amounts of data and detect patterns in the data. It can be used to help us discover all kinds of new information.
+Think about using your medical history and associated artifacts to correlate the probability of a health incident in the future. That would be worth knowing, wouldn’t it?
+New insights about patient health from archived images
+Let’s take the example of images. Digital images are comprised of patterns of pixels. A computer can recognize and react to those patterns and use algorithms to calculate or measure the data contained in the patterns. Essentially, it can identify the pattern of pixels in an image of your spine, for example, measure the physical attributes represented, and calculate whether you are at risk for osteoporosis.
+But it doesn’t necessarily have to be an image that was created to examine your risk of osteoporosis. If you have had a chest x-ray, perhaps prior to surgery, the image was used to look at your lungs. But it also will contain data about your spine. A computer with the right analytics software can review that image and detect your risk, if any, for osteoporosis.
+What if all of your diagnostic images could be used for multiple screening analysis in addition to the disease state that prompted the test? That would add a huge amount of value to every diagnostic study.  
+Looking even further out, what if the use of this secondary imaging analytics could prompt your caregiver to order a genomic study to enhance the data derived from the image, or if a genomic study could be enhanced by analysis of past images?
+This could help to determine if you have a predisposition to a medical risk or even identify a potential drug to address the risk. While this is a futuristic scenario, the building blocks for the vision are occurring today.
+Mining stored image data offers increased screening at lower cost
+Let’s look at how diagnostic images could increase risk screening to identify people who could benefit from preventive treatment. This is a useful idea, because, while everyone agrees that risk screening can be useful, it is also an added expense and is often an added inconvenience for patients.
+As a result, overall adherence to many screening programs is low. If we can analyze patient images without requiring additional action by the patient, we can greatly increase our ability to predict health risks.
+In most diagnostic images, there is anatomy outside the portion of the image that the radiologist is evaluating. This anatomy may contain data that can be available for secondary findings leading to identification of asymptomatic disease, such as osteoporosis as I noted above.
+The average hospital imaging department has terabytes of data in storage, and the amount of data is growing exponentially. If we can mine this data, it would help identify disease much earlier, better match treatment with patients who could benefit from it, and through early detection reduce the impact of a chronic disease or prevent hospitalization as a result of the disease.
+Machine vision can help make use of big data archives
+This is where machine vision and machine learning becomes valuable. When you have huge data sets like this, it takes sophisticated software and computational power to analyze thousands, even millions, of images and “see” the patterns. It’s not something a human could do in a timely or cost-effective way. There is simply too much data there to be useful without analytics.
+While a trained radiologist could find these same patterns, it is more effective to save the radiologist’s time for other work, such as making considered diagnostic judgments of acute disease processes, based on an in-depth understanding of a patient.
+There are companies beginning to run machine vision algorithms (software that looks for patterns) against the pixels in nascent X-rays, CT and MRI scans to identify structural anomalies that correlate to health risks.
+For example, in a CT scan of the abdomen, the breadth of the anatomy in the image offers the opportunity to identify multiple findings that indicate a proclivity for cardiac disease. When this analysis is combined with other clinical data associated with the patient, the combination can more clearly define the patient’s risk.
+For example, the combination of blood work with fatty liver findings could also identify characteristics that are associated with later development of cardiac disease, allowing a warning signal that could help identify patients who need preventive treatment.
+The technology to analyze image data exists now, and we are just beginning to see new insights from it. We can now analyze images for both osteoporosis and cardiac disease risk, and more risk screenings are coming online in the near future.
+With machine learning technology, we have the opportunity to create algorithms that not only identify known markers for disease, but also help us identify new markers. As we correlate image findings and patient outcomes, there is the possibility that analysis will find new patterns in the pixels that are associated with risk and give us even more ways of identifying incipient disease and preventing it.
+Carrick Carpenter leads the global healthcare cloud computing business for Dell Services. The group is responsible for delivering cloud-based solutions and services to hospitals, payers, physicians, life sciences companies and other contributing partners in the healthcare ecosystem.
+Tagged Advanced Data Analytics SeriesAnalytics InfrastructureClinical IntelligenceHealthcare Big Data Analytics
+
+

@@ -1,0 +1,28 @@
+Precision Medicine Study Highlights Role of Machine Learning
+
+August 18, 2016
+
+By Nathan Boroyan
+August 18, 2016 - When it comes to the future of diagnosing and treating cancer, computers – not humans – could hold the key to delivering the best quality precision medicine.
+A new study out of the Stanford University School of Medicine has found that computers can be trained to more accurately assess slides of lung cancer tissue than pathologists.
+"Pathology as it is practiced now is very subjective," said Michael Snyder, PhD, professor and chair of genetics. "Two highly skilled pathologists assessing the same slide will agree only about 60 percent of the time. This approach replaces the subjectivity with sophisticated, quantitative measurements that we feel are likely to improve patient outcomes."
+The Stanford researchers found that a machine learning approach to identifying critical disease-related features was able to accurately differentiate between two types of lung cancers – adenocarcinoma and squamous cell carcinoma – and also predict patient survival times better than pathologists, who classify tumors by grade and stage.
+The research study focused specifically on lung cancer, though researchers believe that applying a machine learning techniques to other types of cancer could also prove effective.
+READ MORE: AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+"Ultimately," said Snyder, "this technique will give us insight into the molecular mechanisms of cancer by connecting important pathological features with outcome data."
+Machine learning has been at the forefront of trends in big data healthcare analytics. As computers become more powerful and analytics algorithms become smart enough to spot patterns in digital images, the process for diagnosing and treating illnesses like cancer has started to become a more data-driven practice.
+Ideally, with imaging analytics, x-rays, CAT scans, or MRIs computers could be able to detect unique abnormalities in x-rays, CAT scans, or MRIs, and allow algorithms to cross-reference the data with backlogs of other stored information to provide more individualized care.
+"If you had a chest x-ray, perhaps prior to surgery, the image was used to look at your lungs," explained Carrick Carpenter, head of Dell Services' Global Healthcare Cloud Computing division. "But it also will contain data about your spine. A computer with the right analytics software can review that image and detect your risk, if any, for osteoporosis."
+Traditionally, pathologists have determined the grade of cancer in a patient has been by using a light microscope to examine thin cross-sections of tumor tissue on glass slides. The more abnormal the cell size, shape and other characteristics of the tissue appeared, the higher the grade. Based on the location and whether the cancer had spread, the clinician could determine the stage of the malignancy.
+READ MORE: Senate Passes Pediatric Cancer Drug Development Expansion Bill
+Differentiating between the subtypes of lung cancer – adenocarcinoma and squamous cell carcinoma – can be tricky. This has the potential to cause wide variations between the stage and grade of that patient and his or her prognosis.
+The Stanford researchers used 2,186 adenocarcinoma or squamous cell carcinoma images from the Cancer Genome Atlas national database. The grade and stage of cancer was also included in the database information.
+Using the images, the researchers trained the computer software program to identify many more cancer-specific characteristics than can be observed by clinicians. While pathologists usually assess several hundred cancerous traits, the machine learning program was trained to detect nearly 10,000 individual traits.
+"We began the study without any preconceived ideas, and we let the software determine which characteristics are important," said Snyder. "In hindsight, everything makes sense. And the computers can assess even tiny differences across thousands of samples many times more accurately and rapidly than a human."
+Snyder expects that machine learning will be able to complement the fields of precision medicine cancer genomics, transcriptomics and proteomics. "We launched this study because we wanted to begin marrying imaging to our 'omics' studies to better understand cancer processes at a molecular level," he said. "This brings cancer pathology into the 21st century and has the potential to be an awesome thing for patients and their clinicians.
+READ MORE: Can IBM Watson Prove the Value of Precision Medicine in China?
+The Obama Administration's 2015 launch of the Precision Medicine Initiative (PMI) signaled a push towards attempting to gather the necessary amount of data to be able to deliver more personalized care to patients. And the findings of the Stanford study came just a month and a half after Vice President Joe Biden stressed the need for urgency in new breakthroughs in the fight against cancer at his Moonshot Summit.
+The study is an example of the push towards personalized medicine, which, within two years, research, life science, and health care professionals expect will begin to directly impact patients. But in order for this to become a reality, collecting enough data and investing in new technologies will be key.
+Tagged GenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

@@ -1,0 +1,22 @@
+Ever AI Extends Product Suite With First US-Based Liveness Detection Offering
+
+02 May 2018
+
+New Features Improve Security For Enterprise Authentication And Digital Payments Customers
+Ever AI, the world’s most advanced face recognition platform, today announced enhancements to its product suite with the addition of liveness detection and support for enhanced age, gender, emotion and ethnicity detection. Ever AI is the first U.S. based face recognition company to offer liveness detection, improving accuracy and security for enterprise customers, including SoftBank Robotics, makers of Pepper the humanoid robot. The addition of these features extends the company’s product suite and further confirms its industry dominance as the most accurate face recognition software in the market.
+“As face recognition technology becomes more mainstream, so too is the need to improve accuracy and privacy in order to protect against nefarious actors looking to leverage such software to execute attacks,” said Charlie Rice, CTO of Ever AI. “By extending our offering to include enterprise-ready liveness detection, we can now protect against sophisticated spoofing techniques, including static paper and digital screen-based attacks. For the first time, enterprises can now create frictionless experiences for their users without sacrificing security or accuracy.”
+Developed over four years and trained on the largest consumer data set of more than 13 billion photos and videos, Ever AI’s facial recognition provides the most comprehensive, real-life data set of any private company in the world. By identifying hundreds of millions of global clustered identities to date, Ever AI’s patent-pending technology collects tagged data and integrates it into enterprise-ready models that can be accessed as self-hosted APIs or as iOS and Android SDKs.
+New Features Include:
+Liveness Detection: Ability to determine if the face detected is “live”, as opposed to a photo
+Age Detection: Estimate the age range of the person, based on image
+Gender Detection: Determine whether a person is male or female
+Emotion Detection: Identify the emotional state of faces, such as happiness, sadness, anger, surprise, and more
+Ethnicity Detection: Determine the probability that a face is of a particular ethnicity
+Omar Abdelwahed
+“Our humanoid robot, Pepper, relies on Ever AI’s face recognition technology to create more personalized experiences for our retail and hospitality customers,” said Omar Abdelwahed, Head of Studio, Softbank Robotics America. “Ever AI’s introduction of liveness detection, along with additional face attributes, are likely to deliver real improvements to Pepper’s performance. We are pleased with Ever AI’s commitment to innovation and look forward to our continued partnership as the face recognition industry evolves.”
+Doug Aley
+In addition, Ever AI’s CEO Doug Aley will be speaking at Collision Conference today, on a panel titled “Facing up to advanced robotic capabilities”, alongside Steve Carlin, CSO of Softbank Robotics, Angelica Lim, Professor of Professional Practice in Computing Science, AI and Robotics at Simon Fraser University, and Jason Abbruzzese, Senior Tech Editor at NBC News.
+Ever AI is the world’s most advanced face recognition platform, trained on an ever-expanding private, global dataset of over 13 billion photos and videos. Ever AI’s technology is based on the largest tagged dataset ever used to create scalable, enterprise-ready face recognition. Notable customers include: SoftBank Robotics and Bluescape.
+Read More: Teradata Accelerates Its Customers’ Analytics In The Cloud
+
+

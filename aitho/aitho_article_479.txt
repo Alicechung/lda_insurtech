@@ -1,0 +1,29 @@
+CellPoint Mobile Fully Compliant With EU’s GDPR Regulations
+
+24 May 2018
+
+Increased support for Privacy by Design, Right to Forget and other principles of data governance
+CellPoint Mobile, a PCI-certified provider of sales and payment-side technology solutions for the worldwide travel, ground passenger transportation and hospitality sectors, is now fully compliant with the European Union’s (EU) new General Data Protection Regulation (GDPR) rules to guarantee the security of consumer data and enforce data governance as a top business priority.
+Kristian Gjerding
+“We have successfully completed the necessary adjustments and enhancements to our mobile solutions, including our Velocity, Voyage and Vantage products, to be fully compliant ahead of the May 25, 2018 deadline,” said Kristian Gjerding, CEO of CellPoint Mobile. “GDPR regulations are data-specific rather than product-specific and will affect travel, transport and hospitality operators served by CellPoint Mobile solutions. Our clients rightly expect full compliance with GDPR, PCI DSS and other consumer protection regulations that make travel easier and more secure.”
+Read More: Trescon’s World Blockchain Summit To Touchdown In Frankfurt
+GDPR Compliance and Implementation
+The new GDPR rules are based on two principles. First, “Privacy by Design” which means taking proactive measures for data privacy instead of relying on regulatory frameworks. And second, the “Right to Forget” which is the right to have personal data erased. In the process of becoming fully compliant, CellPoint Mobile was able to build on these principles already in practice with clients, and revisit strategies and procedures to ensure ongoing data security for travel, transport and hospitality operators.
+Some of the measures undertaken by CellPoint Mobile for full GDPR compliance included:
+Undergoing a data protection impact assessment to audit services and identify potential risks to the rights and freedoms of individual users.
+Reviewing solutions to ensure effective data minimization, meaning systems do not store or process any data that is unnecessary for “business as usual” (BAU) working needs.
+Performing a technical evaluation of systems, and of interactions with external systems, to identify risks and prevent threats to the rights of individual users.
+Establishing a process for when customers want their data erased and merchants need to cleanse the storage of any reference (direct or indirect) to the customer data.
+Ensuring the enforcement of end-user rights by implementing internal procedures to assist merchants when facing an end-user request.
+Read More: Trescon’s World Blockchain Summit To Touchdown In Frankfurt
+The Cost of GDPR Implementation
+Data security has become a much higher priority for travel, transportation and hospitality operators, as more consumers today expect to book, pay for and manage their journeys directly from a mobile device. This has opened up new opportunities for mobile commerce, but merchants will need better mobile security to protect sensitive personal data, such as credit card numbers, passports and loyalty points which are shared across millions of customer journeys every day.
+For ecommerce merchants doing business in the EU, GDPR can be a significant cost center – roughly half of data and compliance decision-makers in the U.S., U.K., Germany and France have allocated at least $1 million to meet GDPR requirements, and a third have earmarked over $5 million.
+Read More: Interview With Alexandre Debecker, Chief Growth Officer – Ubisend
+While it may be costly in the short term, GDPR is helping merchants prepare the future by standardizing data governance and making it easier for non-EU merchants – including travel, transport and hospitality merchants – to do business seamlessly across the EU without risking their customers’ data. The long-term benefits of GDPR compliance – such as having your customers’ and partners’ trust – far outweigh the short-term costs, which can be leveraged as an opportunity to invest in martech, fraud management and other solutions for mobile commerce.
+GDPR for Travel, Transport and Hospitality
+Global digital travel sales are set to reach $855B by 2021, according to eMarketer, with $161 billion coming from Western Europe and $10 billion from Central and Eastern Europe. GDPR compliance is particularly urgent for the airline industry, where customer data is abundant and ancillary revenue is tied closely to airline retail partners with massive data systems. But each travel, transport and hospitality sector engages in business globally and will ultimately benefit from common security frameworks such as GDPR – as will their customers and partners in the EU.
+CellPoint Mobile provides mobile solutions for secure transactions across the entire customer journey, from booking and ticketing to payments and travel management, working with merchants that are implementing GDPR and preparing for a more seamless and secure future for travel.
+Read More: James Rodriguez To Launch Cryptocurrency With SelfSell
+
+

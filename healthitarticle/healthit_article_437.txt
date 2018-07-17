@@ -1,0 +1,48 @@
+Video Analytics, Machine Learning Can Aid Mental Healthcare
+
+June 14, 2017
+
+By Jennifer Bresnick
+June 14, 2017 - Mental healthcare is one of the most complex fields of clinical study, requiring providers to blend the regulation of physiological functions with the delicate nuances of psychological and emotional distress. 
+Understanding what a patient is feeling, predicting how they will react to environmental and biological stressors, and then striking the right balance between human empathy and pharmaceutical interventions doesn’t necessarily seem like a realm in which computers would excel.
+Yet recent advances in machine learning are starting to turn algorithms into viable risk stratification tools and clinical decision aids for healthcare providers across the care continuum – including in the mental and behavioral healthcare environment.
+Louis-Philippe Morency, PhD, Assistant Professor in the Language Technology Institute at CMU and Director of the MultiComp Lab
+Source: Xtelligent Media
+Many of these projects focus on the quickly proliferating volume of big data available about individuals.  EHR data, clinical notes, socioeconomic information, and medication adherence records can help craft a detailed portrait of a patient’s environment and historical behaviors.
+But to glean an accurate understanding of what a person is actually thinking, feeling, and experiencing, a clinician must interact in real-time with the patient himself.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+That is where machine learning may be highly valuable as a diagnostic companion, believes Louis-Philippe Morency, PhD, Assistant Professor in the Language Technology Institute in the Carnegie Mellon University School of Computer Science and Director of the MultiComp Lab.
+Combining advanced video analytics and machine learning with facial analysis and the expertise of human clinicians could enhance a provider’s ability to get to the heart of mental health issues – and ensure that subtle clues about a patient’s behavior do not go unnoticed.
+“Physicians always integrate nonverbal information and behaviors into their assessments, but often in a subjective manner,” explained Morency to HealthITAnalytics.com.  “Even the best mental health professional has some subjective bias in the way they diagnose and treat patients. It’s just a part of being human.”
+“By using machine learning to analyze a patient’s facial expressions, posture shifts, gaze, and tone of voice, we are giving them objective tools to complement their assessments and confirm their intuitions.”
+Morency and his team of researchers is working with the University of Pittsburgh Medical Center (UPMC) and McLean Hospital in Massachusetts to test how adding algorithms to traditional mental health assessments can improve a provider’s diagnostic capabilities.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Using a webcam, interviews with more than 500 participants, and input from mental health clinicians, Morency developed a catalogue of behaviors and patterns related to depression, a prime use case for the technology.
+“The first and most important part is identifying landmarks that indicate a certain emotion or behavior,” he said.  “Using our own video analytics technology, we automatically detect 68 points on the face that have to do with human expression.”
+“Then we monitor the changes in muscles that indicate that the expression is changing.  Finally, we integrate that data over time to recognize behavior markers that are correlated to certain psychological traits.”
+The techniques may sound similar to those used in facial recognition software for security or identity verification purposes, but Morency’s work quickly diverges from this area of development.
+“Traditional facial recognition technology uses the first step: identifying bone structure and muscle formation that make each person a unique individual,” he said. 
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+“Facial recognition wants to make sure that it can recognize the same unique individual whether that person is smiling, angry, or fearful.  In a sense, what we want is the opposite,” he continued.  “We want to look at the variations and alterations – we don’t want to ignore them.  How the face changes, as opposed to how the face stays the same, is what we’re looking at.”
+For mental health patients, many of whom may have a difficult time verbally expressing their emotions, body language and micro-expressions often do most of the talking for them.
+“Smiling is an important behavior marker,” Morency noted.  “At the outset of our research, we supposed that people who are depressed smile less often than those who are not depressed.  We found that they actually smile just as often – but they are shorter smiles with less amplitude.”
+An examination of patients experiencing suicidal ideation produced a similar surprise.  Morency and his colleagues studied sixty patients who visited the emergency department.  Half were known to have thoughts or previous attempts at suicide, and half had come to the ED for other reasons.
+“People who are suicidal use more pronouns related to themselves, such as ‘me’ and ‘myself,’” said Morency.  “That trend has been observed before.  But we also wanted to examine re-attempts at suicide.” 
+“We called the suicidal ideation patients three or four weeks later to see who attempted self-harm or suicide again so that we could look at back at the initial interview and see if there was anything in their behavior that distinguished them from the patients who did not attempt to harm themselves a second time.”
+Morency found notable differences between the vocal patterns of patients with one episode of suicidal ideation and those with a subsequent attempt to harm themselves.
+“But it wasn’t what we expected,” he pointed out.  “We initially thought that those with more anxiety in their voices would be more likely to reattempt suicide, while those with calm tones would not make a second attempt.  It was the opposite.”
+“We think that those with a calm vocal pattern had already made up their minds to end their lives and made peace with their decision, whereas those with more tenseness in the voice may have been shaken by their actions or alarmed by their suicidal thoughts.”
+Identifying patients at higher risk of repeating an attempt at self-harm or suicide before they undertake such an act can certainly save lives, and using machine learning algorithms to warn providers when a patient meets worrisome criteria could change the way clinicians make their treatment recommendations.
+The benefits are applicable to patients with less severe concerns as well, Morency added.
+“The real usefulness will come from treating the same individuals over time,” he said.  “If you record the same individual more than once, you can see their progress and whether or not the treatment has improved their symptoms.”
+“This is very important for patients with depression or PTSD, where very subtle changes in behavior – the patient might not even be aware of them – can give providers important clues about whether there has been positive change or not.”
+But it is critical that the use of these tools should not alter the way providers and vulnerable patients interact, Morency stressed. 
+Patients with mental health concerns should feel comfortable and safe in their relationships with care providers to ensure honesty, openness, and receptiveness to treatment, and the technology is not intended to be used like a polygraph test to detect evasiveness or falsehoods.
+“We don’t want to hurt the interactions between patients and providers at all,” he asserted.  “We want that to remain as normal and natural as possible, so any recording devices would be very unobtrusive.”
+“The idea is that the physician can look at the summary of behavior at the end of the interview, in the form of a dashboard on their smartphone or iPad, and use the data to supplement their decision-making.”
+It may not take long before mental healthcare providers, along with their colleagues across multiple disciplines, are able to routinely leverage such tools in the clinic.  Machine learning is maturing at a rapid rate, bringing countless new clinical decision support possibilities to fields as diverse as pathology, ophthalmology, oncology, and endocrinology.
+“I love see the growing interest on the clinical and medical side,” said Morency. “We have been excited about this for years, but machine learning is just starting to become sophisticated enough where collaborators are willing to put in the time on top of their normal duties as clinicians.”
+“We are very grateful about the fact that our partners are taking the time to engage with us. It’s a nice synergy between the medical field and the computer science field, and we are very eager to continue refining these tools so we can deploy them in the care environment."
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBehavioral HealthcareMachine LearningMental HealthMental Health Providers
+
+

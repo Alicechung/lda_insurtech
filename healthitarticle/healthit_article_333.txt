@@ -1,0 +1,37 @@
+Artificial Intelligence Will Be Foundational for Health IT in 2018
+
+October 04, 2017
+
+By Jennifer Bresnick
+October 04, 2017 - In the healthcare industry and elsewhere, artificial intelligence is poised to become the defining feature of how humans interact with their technology, according to Gartner. 
+An AI foundation will underpin the burgeoning “Intelligent Digital Mesh” of Internet of Things (IoT) devices, big data analytics tools, and smart applications that can proactively predict and react to changing environments.
+"AI techniques are evolving rapidly and organizations will need to invest significantly in skills, processes and tools to successfully exploit these techniques and build AI-enhanced systems," said David Cearley, Vice President and Gartner Fellow.
+"Investment areas can include data preparation, integration, algorithm and training methodology selection, and model creation. Multiple constituencies including data scientists, developers and business process owners will need to work together."
+For healthcare providers, who have traditionally lagged behind their peers in other industries, making these investments quickly will be key.  Without a concerted focus on developing big data skills, competencies, and infrastructure by 2025, providers risk being unable to achieve ROI for their efforts, Gartner warned.
+READ MORE: How Big Data Analytics Underpins Every Healthcare Trend
+Artificial intelligence and machine learning will have applications across the care continuum, from consumer relations to predictive analytics for providers. 
+Intelligent applications, such as virtual assistants and adaptive clinical decision support systems, will require providers to leverage a working knowledge of big data analytics and a familiarly with the IoT.
+"Augmented analytics is a particularly strategic growing area which uses machine learning to automate data preparation, insight discovery and insight sharing for a broad range of business users, operational workers and citizen data scientists," said Cearley, noting that these applications are intended to supplement the abilities of their human users, not supplant them.
+That sentiment has been echoed repeatedly by AI leaders, who envision a “companion” role for machine learning applications in the clinic.
+As more devices and novel data sources come together to assemble a rich and comprehensive portrait of patients, health systems, and public health issues, providers will likely be able to access actionable insights in innovative ways.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+Conversational platforms built on natural language processing and voice recognition technologies are slated to become a popular way to interact with applications, Gartner predicts – if developers are able to cultivate more intuitive interfaces.
+"Conversational platforms have reached a tipping point in terms of understanding language and basic user intent, but they still fall short," said Cearley.
+"The challenge that conversational platforms face is that users must communicate in a very structured way, and this is often a frustrating experience,” he added.
+“A primary differentiator among conversational platforms will be the robustness of their conversational models and the application programming interface (API) and event models used to access, invoke and orchestrate third-party services to deliver complex outcomes."
+Dictation has always been popular among healthcare providers, and now health IT developers like Epic Systems are already putting a great deal of effort into developing voice-based interactions, harnessing the progress of consumer-focused companies like Google, Amazon, and Apple to support their work.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+The goal is to create a more natural and less stressful experience for users, who have expressed high levels of dissatisfaction with the way current health IT tools demand their time and attention.
+Immersive experiences won’t stop at ambient computing, Gartner believes.  Augmented reality (AR) and virtual reality (VR) are likely to permeate multiple verticals, including healthcare.
+While current AR and VR technologies are still in their infancies, there may be promising use cases in surgical interventions, patient engagement techniques, and medical training.
+Reliance on the simulated environment could grow to include more “digital twins” of real-world entities and systems.  Digital replications of buildings, assets, and human movement patterns will allow analysts to understand how people and objects flow through physical environments.
+These strategies are already in use in the healthcare industry.  Health systems have started to digitally tag assets such as laptops, tablets, and medical supplies, to prevent losses or misplacements, while staff members often carry badges with RFID tags to ensure they are easily located if necessary.
+“Over time, digital representations of virtually every aspect of our world will be connected dynamically with their real-world counterparts and with one another and infused with AI-based capabilities to enable advanced simulation, operation and analysis,” said Cearley.
+“City planners, digital marketers, healthcare professionals and industrial planners will all benefit from this long-term shift to the integrated digital twin world.”
+Over the next five years, these approaches will combine with data management methodologies like blockchain to create trusted, accurate, and real-time insights.
+By 2020, up to 80 percent of digital business solutions and new business ecosystems will require “real-time situational awareness” to create an adaptive, proactive environment, says Gartner.
+Meeting the challenges of these emerging technologies will require healthcare organizations to significantly enhance their big data competencies by removing data siloes that prevent access to important data assets, implement comprehensive data governance initiatives, and adopt organizational practices that promote the value an analytical approach to patient care.
+Successfully harnessing the potential of machine learning as it evolves into true artificial intelligence will position organizations well for financial security and better care quality in a rapidly changing industry. 
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareMachine LearningPredictive Analytics
+
+

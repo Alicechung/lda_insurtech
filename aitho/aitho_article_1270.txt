@@ -1,0 +1,13 @@
+Mice And Machine Learning Help Map The Mind
+
+07 Mar 2018
+
+In a new paper co-authored by Infinia ML Chief Scientist Larry Carin and published in the journal Cell, machine learning gave scientists a new way to understand and treat depressed brains. Today, mice are the subjects. Humans could be next.
+Mice brains and machine learning may lead to a new way to treat depression, according to a new paper published in the journal Cell and co-authored by Infinia ML Chief Scientist Larry Carin, Ph.D.
+The paper describes how scientists measured electrical signals in the brains of both observably resilient, active mice and observably depressed, inactive mice. The complexity and scale of the available data, gathered from 18 regions of the brain, then required advanced machine learning for analysis. In effect, scientists trained a learning algorithm to map each brain’s connections. They found a pattern in the resilient mice that differed from the depressed.
+“We wanted to understand the traffic flow of a healthy brain,” said Carin, the project’s machine learning lead. “That had not been done before, and machine learning helped us overcome that key technical challenge.”
+This new understanding of the brain’s electrical system brings new potential for treatment in mice. More importantly, the research lays groundwork for future advances in human mental health. When scientists measure the relevant patterns in human brains, advanced machine learning could help them assess and treat depression.
+Meanwhile, Carin’s company, Infinia ML, is already busy applying machine learning techniques to biological and medical breakthroughs from cancer detection to genetic screening.
+“Machine learning offers new ways for us to understand our bodies and minds,” said Carin. “And the best part is, we’re just getting started.”
+
+

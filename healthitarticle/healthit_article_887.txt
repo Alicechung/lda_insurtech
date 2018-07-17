@@ -1,0 +1,32 @@
+State Monitoring, Predictive Analytics May Cut Opioid Abuse
+
+June 08, 2016
+
+By Jennifer Bresnick
+June 08, 2016 - Diabetes, obesity, and heart disease aren’t the only epidemics affecting the patient population across the nation.  Prescription opioid abuse, misuse, and overdoses also cause serious harm and thousands of deaths each year as providers struggle to appropriately meet pain management needs. 
+While every state in the nation – with the exception of Missouri – has invested in prescription drug management databases that track potential drug seekers and provide information to pharmacists and prescribing providers at the point of care, evidence about the effectiveness of these programs is limited.
+In a pair of new studies that tackle this difficult topic, researchers from Geisinger Health System and Weill Cornell Medical College explore the role of predictive analytics, big data analytics, and state-by-state prescription monitoring in the battle to ensure patient safety, identify opioid misuse, and prevent overdose deaths.
+The Weill Cornell study, published in the latest issue of Health Affairs, reviews the prescription drug monitoring programs of 24 states from 2001 to 2010.  More than 19,000 patients died from overdosing on opioid pain relievers in 2014, while approximately ten million Americans use the drugs for non-medical reasons.
+Using data from the National Ambulatory Medical Care Survey (NAMCS), the researchers examined more than 26,000 ambulatory office visits for pain management during the study period.  Forty-one percent of these visits produced a prescription for some sort of pain medicine.  Five percent resulted in the prescription of a Schedule II opioid.
+READ MORE: Penn Med. Population Health Analytics Dashboard Wins ECRI Prize
+The researchers found that implementation of an electronic drug monitoring system produced more than a 30 percent reduction in prescription rates for Schedule II opioids, which include oxycodone, morphine, codeine, and methamphetamine.  The likelihood of receiving a Schedule II prescription dropped from 5.5 percent to 3.7 percent.
+“Our analysis of the NAMCS data suggests that the recent wave of implementations of prescription drug monitoring programs was associated with a sizable reduction in the prescribing of Schedule II opioids – the subset of prescription opioids deemed to be at the highest risk of misuse and abuse – while having limited effects on the prescribing of opioid analgesics of any kind and of other pain medication,” the study says.
+“We also found that the effect of implementation on the prescribing of Schedule II opioids and all opioids was immediate, and that after the first six months this effect remained strong for Schedule II opioids but was attenuated for opioids of any kind.”
+The researchers suggest that the implementation of a statewide prescription drug monitoring program may have raised provider awareness about the potential for abuse and misuse among opioid patients.  They also theorize that the oversight of provider prescription habits may make clinicians more cautious about how and when they allow patients access to controlled substances.
+A separate study conducted by Geisinger Health System may also help providers be more discerning about how they work with patients in need of pain management.  The research, led by senior epidemiologist and addiction expert Joseph Boscarino, PhD, MPH, used big data analytics to develop profiles of patients who experienced opioid overdoses.  The research may help to improve risk stratification techniques and develop advanced predictive analytics to flag areas of concern.
+READ MORE: Surgeon General, Healthcare Orgs Pledge to Tackle Opioid Abuse
+After analyzing the electronic health record data of more than 2000 overdose patients admitted between April 2005 and March 2015, the researchers found that patients with mental health issues, a history of drug abuse, or concurrent chronic diseases such as heart disease, diabetes, and cancer were significantly more likely than others to experience significant harm or death from opioid abuse.
+Patients who were female, unemployed, and unmarried were also more likely to experience negative outcomes.  Chronic high users of healthcare services, as well as those with previous overdoses in their records, were also identified as likely to have serious future issues with opioid medications.
+“Our study suggests opportunities for identifying patients at-risk for overdosing,” said Boscarino. “We’ve found that patients who are taking higher doses of prescription opioids combined with psychotropic medicines may need closer monitoring to avoid death and other serious complications.”
+The Senate Labor, Health and Human Services, and Education Appropriations Subcommittee is also attempting to control the rising toll of opioid abuse by allotting $261 million to programs targeted at fighting the epidemic in its proposed Fiscal Year 2017 appropriations bill.
+This represents a $126 million increase in funding over 2016 levels, and includes a $28 million boost for the CDC Prescription Drug Overdose program, $94 million in funds to Community Health Centers, and an additional $52.5 million for the National Institute on Drug Abuse at the NIH. 
+READ MORE: Geisinger, Baylor Granted $3.5M for Patient Safety Learning Lab
+The appropriations bill also continues to provide $1.9 billion in funding for the Substance Abuse Prevention and Treatment Block Grant.
+“In response to the rising rates of opioid abuse nationwide, we have increased resources for treatment and prevention programs funded in this bill by 93 percent to help the estimated 1.9 million adults in the US who have an opioid use disorder related to prescription pain relievers, and the 586,000 who have an opioid use disorder related to heroin,” said Committee Chairman Senator Roy Blunt (R-MO).
+Rural healthcare and mental healthcare programs will also receive additional funding, which may help providers develop the resources required to improve preventative care and behavioral care services that complement opioid addiction prevention programs.
+Dig Deeper
+Poor Medication Reconciliation Puts 60% of Opioid Users at Risk
+Better Patient-Centered Care Needed for Chronic Pain Patients
+Tagged Care QualityPatient SafetyPopulation Health ManagementPredictive Analytics
+
+

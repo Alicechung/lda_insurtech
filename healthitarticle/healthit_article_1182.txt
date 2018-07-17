@@ -1,0 +1,30 @@
+Simple Healthcare Predictive Analytics Flag Elderly Fall Risk
+
+November 04, 2015
+
+By Jennifer Bresnick
+November 04, 2015 - Healthcare payers looking to boost their quality scores only need a few easily accessible data points in order to accurately predict and reduce injuries from falls among elderly patients, says a study published this month in the American Journal of Managed Care. 
+Using the patient’s age, a recognized co-morbidity score, and a single patient screening question, health plans may be able to effectively target fall prevention strategies to high-risk patients, which increases the payer’s chance of scoring highly on the CMS 5-Star Medicare Advantage ratings while also reducing costs and improving patient safety.
+“Several risk factors have been identified for falls among community-dwelling older adults, with age and a history of falls being the two most commonly used risk factors to define high risk in fall intervention studies,” explains the team of authors from UCLA, the Greater Los Angeles VA System, and RAND Health divisions.
+“Other frequently reported risk factors for falls include a history of mobility problems, poor performance on office-based gait and balance testing such as the Get-Up-And-Go test, visual impairment, use of psychoactive medications, and female gender.”
+Dig Deeper
+How Big Data Analytics Underpins Every Healthcare Trend
+Predictive Big Data Analytics Identify High-Risk ED Patients
+Population Health is Top Data Analytics Challenge for Providers, Payers
+“However, there is no consensus on a best single screening question, set of questions, or clinical tool to reliably identify older adults at increased risk for falls,” the authors point out.
+While primary care providers often have the opportunity to screen patients for fall risk during face-to-face consultations, health plans looking to engage in proactive population health management do not typically have the same chance to engage with the patient in person.
+Health plans may effectively deploy prevention programs based on phone calls or email responses, but those efforts are dependent on whether or not the patient responds to the questionnaire.   The wealth of claims data available to payers may allow them to engage in predictive analytics that can ensure that high-risk patients do not slip through gaps in the care continuum.
+The team used data from 1776 patients in four community-based primary care practices who indicated that they had a fear of falling or a recorded history of falls.   The patients were asked three basic questions:
+• Have you fallen two or more times in the past twelve months?
+• Have you fallen and hurt yourself since your last visit to your physician?
+• Are you afraid that you might fall due to concerns about balance or walking problems?
+Patients who screened positive on at least one of the questions were flagged for further review.  These patients were primarily female (72.9 percent), and had an average of 2.9 co-morbidities according to the Elixhauser comorbidity count. 
+Eighty-four percent said that they were afraid of falling due to balance or walking problems, and more than one-third reported two or more falls over the past year.  A quarter said they had fallen and injured themselves since their last visit to the clinic.
+Eleven percent of patients had an insurance claim for a fall-related injury during the year prior to the study period, while 19 percent filed a claim for a fall-related injury during the two-year follow-up period.
+The team found that the combination of the comorbidity count, the patient’s age, and the screening question about falling more than two times in the past year presented the most powerful combination of factors for strong predictive ability. 
+The model found that the likelihood of a fall increased by 22 percent for every five additional years of the patient’s age.  An additional comorbidity was associated with a 10 percent increase in fall likelihood.  A patient’s fear of falling had little direct correlation with actual falls, the study revealed.
+“These findings have practical implications for insurers seeking to identify those members at highest fall risk,” the study concludes. “Using plan administrative data and a one-item screener, health plans have the ability to use similar models to identify those at highest risk of fall-related injuries.”
+“While other multivariate models predicting fall risk exist, our approach is novel in that we identify those at highest risk using available administrative data and without requiring a face-to-face office visit.”
+Tagged Clinical AnalyticsPopulation Health ManagementPredictive AnalyticsQuality Of Care
+
+

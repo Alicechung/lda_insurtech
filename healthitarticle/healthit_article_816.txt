@@ -1,0 +1,32 @@
+Google, Stanford Partner for Genomics, Precision Medicine Project
+
+August 09, 2016
+
+By Sara Heath
+August 09, 2016 - Stanford Medicine and Google are teaming up to build Stanford’s Clinical Genomics Service, which aims to leverage big data to improve precision medicine and patient care.
+According to a Stanford press release, the medical system will be using Google Genomics, to store the big data necessary for genomic sequencing and precision medicine applications.
+“Stanford Medicine and Google are committing to major investments in preventing and curing diseases that afflict ordinary people worldwide,” said Lloyd Minor, MD, dean of the Stanford School of Medicine. “We’re proud to be setting this milestone for the future of patient care and research.”
+This project involves all of Stanford Medicine, including the Stanford School of Medicine, Stanford Health Care, and Stanford Children’s Health. By utilizing the research power of all three legs of the health system, as well as Google’s cloud computing software, this project aims to change the way in which providers handle real-time big data analytics for precision medicine.
+Dig Deeper
+FDA Holds App-a-Thon for Precision Medicine, Next-Gen Genomics
+NIH Opens Up “All of Us” to Research Participants Nationwide
+Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+“This collaboration will enable Stanford to discover new ways to advance medicine to the benefit of Stanford patients and families,” said Ed Kopetsky, chief information officer at Lucile Packard Children’s Hospital Stanford and Stanford Children’s Health.
+“Together, Stanford Medicine and Google are making a major contribution and commitment in curing diseases that afflict children not just in our community, but throughout the world. It’s an extraordinary investment, and we’re proud to play such a large role in transforming patient care and research.”
+Through the Clinical Genomics Service, providers can order genomic sequencing in real time. Stanford hopes that this process will  become a standard part of patient care, increasing the health system’s stores of big data and helping to drive clinical research and precision medicine.
+When physicians receive genomic sequencing results, they can see trends in vast amounts of data. With the help of data sequencing teams, physicians can identify the best specific course of action for a patient who may be displaying unusual or distinct symptoms. Over time, may help drive new treatments for disease variations.
+  “In the past few years, the amount of available data about health care has exploded,” said Minor. “While researchers are learning to integrate this big data, putting it to work for individual patients, in real time, is a huge challenge. Our collaboration with Google will help us to meet this challenge.”
+Research shows that precision medicine approaches such as this one are likely to improve patient care. One study out of the University of California San Diego shows that patients receiving prediction medicine treatment fare better than those receiving traditional care.
+In the study, nearly 30 percent of patients receiving precision medicine treatments responded favorably to treatments and saw better health for a longer period of time. On average, conditions did not deteriorate for 5.7 months.
+Conversely, only about 5 percent of patients responded favorably to traditional treatments. Those patients saw only 2.95 months before their conditions deteriorated.
+This shows that precision medicine treatments can be effective, especially when providers take into consideration specific patient markers.
+“What we observed is that phase I trials can serve both to inform us on the effectiveness of new therapies as well as identify patients likely to benefit most if a personalized approach is employed,” said Razelle Kurzrock, MD, the paper’s senior author, in a UCSD press release.
+“Another important point is that targeted drugs in and of themselves are often quite useless if not combined with a patient’s individual tumor biomarkers to determine whether they are likely to benefit from a particular therapy.”
+Stanford’s new initiative for genomic sequencing builds on that theory. When providers identify patients displaying abnormal symptoms, they can order genomic sequencing to identify important DNA markers. This will help shape their treatment approaches.
+The partnership could be beneficial for individual patients, as well as on a larger scale. Not only will providers be identifying effective treatment forms, but they will be adding to stores of information that can fuel innovative research.
+Dig Deeper:
+How Will Internet of Things Devices Impact Precision Medicine?
+Top 5 Basics to Know About the Precision Medicine Initiative
+Tagged Big Data AnalyticsGenomicsPrecision Medicine
+
+

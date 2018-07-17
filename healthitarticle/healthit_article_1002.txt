@@ -1,0 +1,30 @@
+Big Data Analytics Show More Sepsis Deaths in Large Hospitals
+
+March 18, 2016
+
+By Jacqueline LaPointe
+March 18, 2016 - Researchers are using big data analytics to better understand the signs and symptoms of sepsis, which may be able to help physicians treat and manage patients more effectively.
+In a study published in the journal Medical Care, a team from Houston Methodist Hospital used the Sepsis Early Recognition and Response Initiative (SERRI) to uncover important insights about the development, progression, and outcomes of sepsis in the hospital setting.
+Septicemia is the most expensive condition treated in United States hospitals, and is the cause of approximately 5 percent of the total cost of all hospitalizations in the United States.
+The study examined hospital utilization patterns for the timing of diagnosis, severity of sepsis, and multiple hospital stay rates, as well as the differences between hospital types that treated these patients.
+Dig Deeper
+KLAS: Epic Systems, Cerner Lead EHR Vendors in Sepsis Analytics
+Precision Medicine Test for Bacteria May Aid Antibiotic Stewardship
+Chan, Zuckerberg Donate $10M to UCSF Precision Medicine Lab
+Researchers aimed “to establish a baseline for the incidence of sepsis by severity and presence on admission in acute care hospital settings before implementation of a broad sepsis screening and response initiative.”
+The authors conducted a retrospective cohort study with the data from five community hospitals and one academic medical center in Texas. They examined the hospital discharge data from 5,672 patients who were 18 years or older between February 2012 to January 2013.
+Data was collected using SERRI, a program that is funded by the Centers for Medicare and Medicaid Innovation (CMMI). SERRI uses big data analytics to generate useful insights about how to detect sepsis, which is overwhelmingly misdiagnosed. Hospitals submit deidentified discharge information to SERRI, which then provides analysis and data validation.
+The resulting data can be integrated into a screening tool in the electronic health record (EHR), used for educating nurses and staff about early recognition of sepsis, and standardizing a procedure for rapid response.
+During the study, the team found that 85 percent of sepsis patients had the condition on admission and the rest acquired it at the hospital. The inpatient death rate was 17.2 percent overall, and was highest for hospital-acquired sepsis.  The mortality rate was 38.6 percent for sepsis acquired in the medical setting and 29.2 percent when the condition was related to surgery.
+In terms of hospital type, the study showed that the academic medical center had a higher death rate than community hospitals.  Patients at academic medical centers experienced a 22.5 percent mortality rate, compared to just 15.1 percent at community facilities.
+The average cost to payer, which is what the hospital expects to receive from the primary payer for the stay, was higher at the academic medical center ($68,050 ± 184,541) than the community hospitals ($19,498 ± 31,506).
+One of the reasons why the mortality rate may be higher at academic medical centers is the fact that these facilities tend to care for more complex cases of sepsis, as well as patients with organ transplants, cardiac assist devices, and using extracorporeal membrane oxygenator support. These patients have a higher risk of developing sepsis.
+This shows how hospital type needs to be factored into comparisons used for rewarding and penalizing healthcare providers based on outcomes.
+The study concluded that providers need to be more aware of the symptoms of sepsis if they wish to prevent the disease advancing into later stages, which have a higher mortality rate. Additional training is especially important in the emergency department setting, and the public could benefit from more education about warning signs and treatment options
+The study acknowledges that before the SERRI program, sepsis was widely misdiagnosed because of its common symptoms, including fever and abnormal white blood count, and the high rate of false results with tests.
+By developing a big data analytic tool for sepsis recognition, healthcare providers are better equipped to determine who is at risk for the condition, if the patient truly has the condition, and how to treat it sooner.
+Similar big data tools have helped treat major diseases and conditions. Mount Sinai Hospital uses big data analytics to review echocardiograms to decide if a patient has cardiomyopathy, which requires treatment, or pericarditis, which requires surgery. Big data tools identify patterns that the human eye may pass over when looking at large volumes of data.
+SERRI and other big data programs help physicians to more accurately treat patients, prevent disease by early recognition, and reduce healthcare spending. By providing the best treatment or stopping a disease, like sepsis, from advancing, healthcare providers hope to decrease hospital stays and costly treatments.
+Tagged Big Data AnalyticsEHR AnalyticsHospital QualityMedical Research
+
+

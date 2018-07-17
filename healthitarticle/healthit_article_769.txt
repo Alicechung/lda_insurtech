@@ -1,0 +1,47 @@
+Value Proposition Hard to Find for Care Coordination Tools
+
+September 13, 2016
+
+By Jennifer Bresnick
+September 13, 2016 - Healthcare providers may be having a hard time justifying the time and expense required to implement care coordination tools due to the relatively limited value proposition for investment and persistent gaps in knowledge about patient management, says a new article in the American Journal of Managed Care.
+While providers generally acknowledge that care coordination and population health management can play an important role in the delivery of quality care, many organizations do not feel as if the value-based business case is strong enough yet to warrant a preemptive investment in data analytics technologies.
+“Arguably, the greatest opportunity to save on healthcare spending in the United States is through more effective care of complex patients—defined as those with multiple comorbidities, high risk for poor outcomes, and high cost,” writes a team of researchers from RAND Corporation and The Commonwealth Fund.
+“Given that such patients typically visit multiple providers, improved care coordination is one important means of improving the effectiveness of their care.”
+But despite the growing emphasis on the coordination of services and exchange of health information across the care continuum, providers are wary about taking a chance on health IT products that may slow down their workflow and force them into unwanted changes without producing a quick and measurable return on investment.
+READ MORE: CIOs Focus on EHR Optimization for Population Health, Analytics
+In order to better understand the barriers related to health IT adoption, the team conducted a series of in-depth interviews with 35 experts from across the private sector, federal government, and academia.
+The interviews revealed widespread hesitation on the investment front due to several key factors, including confusion over the true definition of care coordination, a lack of standardization across provider roles, responsibilities, and processes, an aversion to poorly usable technologies, and insufficient evidence that health IT upgrades will translate into long-term financial success.
+The meaning of care coordination
+“Care coordination” isn’t the only term in the healthcare reform lexicon that suffers from a fuzzy definition.  Over the past few years, the industry has struggled to craft a unified vision of what “population health management” and the Triple Aim really mean, with varying degrees of success.
+During the interview process, participants expressed different takes on what care coordination and care planning should involve, and did not always agree on what steps should be included in the process.
+READ MORE: ACOs Focus on Health IT, Population Health Management Plans
+Some respondents defined a care plan as a static goal describing “brief action steps,” such as a reminder that a patient is trying to reach a certain weight or that they should take their blood pressure every day.  Others believed these planning strategies should be dynamically adapted to emerging needs and should be accessible to patients between appointments.
+Another group of interviewees said that care planning should be focused on identifying and tracking gaps in the system, such as missed screenings, and that providers should take active steps to deliver reminders to patients, other clinicians, and dedicated care coordination staff.
+Participants also noted that care plans could be designed with a number of different users in mind, including patients and family members, and may vary in their ability to allow patients to perform tasks, track and contribute data, or communicate through embedded messaging technologies.
+These broad variabilities make it difficult for individual providers to decide on care coordination offerings that may not exactly align with what the organization envisions – and may not end up suiting what the organization eventually implements. 
+“[A] lack of standard definitions for describing the technical capability was a source of frustration for executives from provider organizations and made it challenging for them to understand the capabilities or compare products,” the study notes.
+READ MORE: CMS Picks Care Coordination Hubs for Accountable Health Program
+Locking down daily strategies
+No two healthcare organizations are exactly alike, and neither are their daily workflows, processes, resources, or cultures. 
+“The lack of standardized shared definitions for care team membership and associated workflows makes it difficult to operationally establish current care team roles,” the authors explain. “Even creating names for roles, such as ‘care coordinator,’ is challenging, because they lack universal meaning and the roles change over the course of a patient’s care.”
+Even when providers do utilize care coordination technologies, they do not always make the same decisions about who should manage certain features, like the patient’s problem list.  Defining which members of the care team are responsible for which aspects of care coordination can be difficult, and existing health IT offerings may not always allow complex, situationally-specific authorizations or meaningful tools for tracking changes.
+“Implementing care plan functionality requires identifying and tracking the current members of the care team,” the study points out, but “we found no widely agreed-upon definition of a care team member, and given that care team membership changes over time, this complicates the efforts of those developing these functionalities.”
+Getting over the usability and interoperability hurdles
+Clinicians have been complaining about poor usability of electronic health records and other health IT tools for years, but the problem may not be getting any better – especially when adding new care coordination features into the mix. 
+Participants in the interview process explained that they found it difficult to integrate care coordination tasks into their workflows.  They also said that building up the EHR integration capabilities to transfer information across disparate organizations was a major challenge.
+“[Some participants] said that care coordination capabilities could serve as a kind of bridge between different EHRs, because they would contain data from multiple systems,” says the study. “However, in order for such capabilities to bridge this EHR gap, care coordinators were often required to manually translate information (eg, physician orders) from the EHRs into separate care plan software.”
+Organizations found it easier to integrate care coordination data into the workflow when the tools were part of a comprehensive solution from their EHR vendor, but interviewees still raised the issue of poorly defined data needs, rapidly shifting big data development, and insufficient standards for information use.
+Aligning value-based changes with health IT implementation
+They also pointed out that existing incentives for adopting care coordination technologies were not sufficient to drive major investments. 
+Sluggish adoption of value-based reimbursements and risk-based financial arrangements for certain segments of the provider community make it difficult to establish an immediate business case for the hassle, the participants admitted.
+“The lack of reimbursement for the care coordination supported by IT capabilities means that only risk-sharing or other emerging forms of accountable care provide incentives for adopting these technologies,” the study says.
+“However, there may be a ‘chicken and egg’ problem: providers may resist taking on risk without proven tools and methods to manage the care of their highest-cost patients. Yet, without a market of providers to drive innovation, such tools may not be developed.”
+This reluctance to commit to a health IT purchase isn’t limited to the realm of care coordination.  A recent survey by Health Catalyst found predictive analytics tools may be suffering from a similar perception problem. 
+While many hospitals believe that predictive analytics could be the solution for many business intelligence and patient care problems, they are not willing to take the risk without developing a better understanding of the underlying data science competencies required to generate ROI.
+Rising costs and regulatory programs that put a strong focus on population health management and patient outcomes may soon turn the tide for reluctant investors, however.  The value-based ecosystem isn’t moving so slowly for many parts of the country, and is likely to accelerate nationwide as CMS intensifies its efforts to transition more and more payments away from the fee-for-service model.
+Providers who allow the “chicken and egg” problem to dictate their investment strategies may soon find themselves behind the curve on the care coordination front, and may wish to spend some time learning how to best optimize existing tools to meet the growing urgency attached to the value-based transition.
+How to Choose the Right Healthcare Big Data Analytics Tools
+Preparing the Healthcare Revenue Cycle for Value-Based Care
+Tagged Accountable CareAnalytics InfrastructureCare CoordinationPopulation Health ManagementValue Based Care
+
+

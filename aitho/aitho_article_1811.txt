@@ -1,0 +1,15 @@
+CrowdOptic Debuts Live Stream Platform At National Bioskills Laboratories, Announces Drone Integration With Hewlett Packard Enterprise
+
+11 Nov 2017
+
+CrowdOptic today announced the debut of its Intelligent Live Streaming platform at National Bioskills Laboratories (NBL).  The exclusive partnership makes NBL the first and only bioskills training center in the country to utilize the trademarked technology to interconnect training facilities nationally, transforming medical device training through improved educational outcomes for physicians and patients.
+National Bioskills Laboratories live streams training procedure using CrowdOptic’s Intelligent Live Streaming technology.
+CrowdOptic Intersec
+National Bioskills Laboratories deployed CrowdOptic’s solution, including servers and access points from Hewlett Packard Enterprise (HPE), to interconnect dozens of cameras and displays throughout its facilities.  CrowdOptic uses HPE servers to facilitate the processing of high definition video feeds locally while streaming compressed video to the cloud.
+The combined platform provides interactive live streaming with touchscreen technology to allow remote audiences to not just view, but to self-direct any live training event.  With CrowdOptic’s implementation, remote attendees drive their own viewing sessions from a selection of multiple angles and can replay certain portions of the live event for their individual purposes.
+“CrowdOptic’s Intelligent Live Streaming solution has transformed the way we conduct live clinical training events,” commented Dr. Douglas Hampers, President and CEO of National Bioskills Laboratories.  “This technology enables smarter remote training and unprecedented learning reinforcement, which means better outcomes for doctors and patients, all while helping to reduce the overall cost of clinical training for our medical clients throughout the country.”
+CrowdOptic further announced today an alliance with Hewlett Packard Enterprise to integrate CrowdOptic’s Intelligent Live Streaming including patented engagement geometry with enterprise drones in order to direct flight patterns and automate visual engagement.
+“HPE is pleased to have the innovative IoT solutions company, CrowdOptic, as a key member of our Edgeline Innovation Network ecosystem,” said Dr. Tom Bradicich, Vice President and General Manager for Servers and IoT Systems at Hewlett Packard Enterprise. “CrowdOptic’s algorithms, coupled with HPE Edgeline systems, can unlock a new class of flight and visual engagement data for drones in many public sector and commercial applications.”
+CrowdOptic’s implementations for both National Bioskills Laboratories and Hewlett Packard Enterprise utilize HPE’s IoT Gateway GL20 in conjunction with its own CrowdOptic Eye™ and software applications to deliver new forms of engagement geometry analytics and metadata.  Jon Fisher, CrowdOptic’s CEO, is scheduled to speak at Intel’s upcoming Global IoT DevFest on November 7, 2017 (http://globaliotfest.withthebest.com/) and will demonstrate these deployments at that event.
+
+

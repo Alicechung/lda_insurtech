@@ -1,0 +1,22 @@
+Feedzai Launches “OpenML,” An Open Machine Learning Engine To Fight Fraud
+
+17 Apr 2018
+
+— OpenML allows financial institutions and their data science teams to use existing tools, processes, and expertise to fight fraud, releasing them from proprietary frameworks
+— OpenML also enables automated end to end connectivity across the data science ecosystem, drastically increasing efficiency for machine learning implementations
+Feedzai has launched the Feedzai OpenML Engine, in response to recognizing the need for data science teams to utilize their own tools and expertise. Built on Feedzai’s distributed microservices architecture, this powerful service allows data scientists to bring their preferred machine learning modeling and runtime frameworks, including open source, research, or commercial, to the Feedzai platform.
+Meet Feedzai’s OpenML Engine: “Bring Your Own Machine Learning” to Fight Fraud. OpenML allows financial institutions and their data science teams to use existing tools, processes, and expertise to fight fraud.
+Initial product support includes an SDK for Python, R, and Java, and it provides close integration with any open source library, sourcing framework, and modeling environment. The three main innovations in Feedzai’s OpenML framework include:
+Use any language or environment for data science activities:
+Feedzai is removing the burden of data scientists to work in a singular environment dictated by a third-party vendor. Feedzai is also removing the bottleneck where clients require vendors to create models on their behalf. With OpenML, data science teams can create and use models in the language they choose (e.g. Python, R, and Java). Furthermore, data scientists can use end-to-end modeling environments like H2O, R Studio, or Data Robot.
+Leverage emerging algorithms as they become available:
+The OpenML Engine allows data science teams to leverage pre-written machine learning libraries from any open source (e.g., TensorFlow, H20.ai, Spark’s MLib, scikit-learn). By opening up Feedzai’s real-time engine to use an open score approach, any external library or scoring framework can be used in conjunction with Feedzai.
+Enables automated end to end connectivity across the data science ecosystem:
+The OpenML Engine enables the automation of model creation and deployment, whether these models are built inside or outside Feedzai’s platform. This end-to-end connectivity and automation provides seamless integration with Feedzai’s real-time processing for decision-making.
+Paulo Marques
+“Data scientists shouldn’t be forced to comply with closed systems by their legacy vendors, creating unnecessary burdens, and bottlenecks,” says Paulo Marques, Feedzai co-founder and CTO. “Feedzai has always worked to make that a thing of the past. OpenML will make those teams more effective, not just by a slight improvement, but by magnitudes that will set them well ahead of their competitors.”
+Nuno Sebastiao
+Feedzai’s OpenML is powering Feedzai’s fraud prevention products for customers around the world, including 10 of the top 25 banks in the world, processing more than $5 billion in transactions every day.
+“OpenML is an exciting evolution for our platform, bringing our fraud-fighting expertise and some truly revolutionary technology together to create something the industry hasn’t seen yet,” says Nuno Sebastiao, Feedzai co-founder and CEO. “This is all part of our mission to create AI systems that are attainable, explainable, and controllable.”
+
+

@@ -1,0 +1,14 @@
+KVH Fiber Optic Gyro In Humanoid That Helped Deliver Torch To Winter Games
+
+01 Mar 2018
+
+KVH’s DSP-1760 FOG is part of the inner workings of the robot that participated in the torch relay to PyeongChang
+When a humanoid participated in the PyeongChang torch relay for the Winter Games, it was one more first for robotics, and one more instance of an inertial navigation product made by KVH Industries, keeping a humanoid on track. KVH’s DSP-1760 fiber optic gyro (FOG) is part of the inner workings of Hubo, a humanoid developed by a team of scientists led by Jun-Ho Oh, professor of mechanical engineering at the Korea Advanced Institute of Science and Technology (KAIST), in Daejeon, Republic of Korea.
+Hubo is helping draw awareness to the ability of robots to take on various tasks, from the relatively simple act of participating in the torch relay to complex situations that would be life-threatening for a human being, such as firefighting and other emergency and disaster rescue efforts.
+Robotics scientists look to KVH’s FOGs and FOG-based inertial measurement units (IMUs) to provide accurate, reliable inertial data to ensure that a humanoid – or any other robotic platform – can complete its intended tasks. Those tasks include driving a vehicle, using power tools, removing debris, and climbing over rubble, or up and down a ladder or stairs. For example, the 3-axis DSP-1760 located in Hubo’s torso area measures the orientation of the upper body and provides critical data used by the biped robot walking on various types of terrain.
+A compact, affordable, precision FOG, the DSP-1760 is a high bandwidth, low-noise gyro providing superior bias instability and exceptional performance in demanding environments. The DSP-1760 is available in 1-, 2-, or 3-axis versions, either in packaged form or as unhoused, embeddable sensors. Building on the DSP-1760 FOG technology, KVH also produces inertial measurement units that integrate FOGs and accelerometers, resulting in high-performance inertial measurement and navigation solutions.
+Dozens of other humanoids include KVH FOGs and FOG-based IMUs, a fact evident at the Robotics Challenge Finals held by the Defense Advanced Research Projects Agency(DARPA), in Pomona, California, in December 2015. At that event, 14 of the 25 robot finalists included a KVH inertial measurement unit within their robotic platform. The gold-winning humanoid at that event? Hubo.
+From optics, antenna, and sensor stabilization systems to mobile mapping solutions and autonomous cars, KVH FOGs and FOG-based IMUs are in use in an extremely wide variety of applications today – and ready for many yet-to-be-imagined uses tomorrow.
+ 
+
+

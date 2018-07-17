@@ -1,0 +1,23 @@
+Westfield first re/insurer to adopt new Verisk and Duck Creek integration
+
+3rd May 2018 - Author: Matt Sheehan
+
+Westfield has become the first re/insurer to take advantage of a new integration developed by Verisk and Duck Creek Technologies, which significantly simplifies the implementation of data and analytics for commercial lines underwriters.
+
+The new technology will connect Verisk’s commercial lines underwriting information through Duck Creek Anywhere Managed Integrations, a subscription-based service fully managed and supported by Duck Creek, who provide Property and Casualty (P&C) re/insurance software and services.
+
+Westfield plan to use the integration to automatically access data for more than six million commercial buildings and 26 million businesses through Verisk’s ProMetrix database when evaluating a policy, which will significantly accelerate its underwriting decisions.
+
+Jason Reynolds, Underwriting Resources Leader at Westfield, said: “We strive for excellence in providing coverage to our customers. We’re excited to experience how this new integration can enhance the policy processing and underwriting process.”
+
+Duck Creek subscribers now have access to five pre-built integrations with Verisk, including commercial property replacement cost estimates and risk data, territory and commercial building codes, and the ability to retrieve and store ProMetrix loss costs and ISO Public Protection Classification (PPC) data.
+
+Bill Bond, Chief Technology Officer (CTO) at Duck Creek Technologies, said: “Gaining real-time access to Verisk information through managed, platform-level integrations will give carriers greater data quality and more powerful analytics.
+
+“It will allow Westfield and other insurers to make better and faster decisions through the Duck Creek Platform, by eliminating manual data entry and providing immediate data delivery.”
+
+Rick Stoll, Vice President of Product Management for ISO Commercial Underwriting at Verisk, also commented: “This joint offering with Duck Creek fits in perfectly with Verisk’s position as a leading InsurTech data provider.
+
+“We consider the integrations as ‘plug and play’ services for customers to receive the most accurate data and analytics possible. They are ideal to support companies developing commercial insurance underwriting processes.”
+
+

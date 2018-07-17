@@ -1,0 +1,19 @@
+Growlink Announces Beta Program For Exciting New AI Solution
+
+11 Jul 2018
+
+Innovative Technology Collects 200 Million Monthly Data Points to Understand and Maximize Grow Operations
+Growlink, a leading agriculture technology company, is excited to announce a beta program for its new AI solution for greenhouse and indoor farming. More information on the Growlink Plant Health AI beta program, including online sign-up for Growlink customers, is available at.
+The use of artificial intelligence is the next big innovation in agricultural technology. Growlink Plant Health AI uses cloud machine learning, computer vision, sensor data, and AI to track and predict plant health. Growlink currently collects over 200 million monthly data points from 2,200 active devices (environment, irrigation, and fertigation controllers). This massive amount of data is then combined with high-definition and infrared camera images to provide a comprehensive understanding of what’s going on.
+Follow Us
+Powered by Microsoft Azure, including Computer Vision, Machine Learning and Speech, Growlink Plant Health AI is easily accessed on any internet-connected device through native mobile applications or a desktop browser. Other features of the application include:
+Data-powered agronomy: Growlink helps producers grow healthier, higher-quality crops. It continuously monitors, enforces, and optimizes climate, irrigation, and feed systems. It also helps agronomists plan with greater precision and allows growers to benefit from the collective knowledge and experiences of others.
+Predictable, optimized yields: With yield predictions that are up to 95 percent accurate, Growlink provides sales and purchasing teams with accurate supply forecasts to closely match demand dynamics. It maximizes farm output through optimal variety allocation, planting, and harvest planning.
+Early disease and pest detection: In greenhouse cultivation, disease occurrence is influenced by the basic parameters of temperature and humidity, along with the quantity of sunlight, leaf wetness, the growing environment, and the outside weather. Growlink uses AI to analyze these factors that affect crop development, along with computer vision to predict disease and provide early detection of pests.
+Voice-enabled system management: By using Microsoft Cognitive Services and raw voice files, including captured time stamps and location data, users can improve productivity and workflow management, increase documentation accuracy, and gain valuable insights to optimize the use of resources in crop production.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+Current Growlink customers can sign up to be notified when the Growlink Plant Health AI beta program is available at http://growlink.com/ai. As members of the program, users can help shape Growlink software by test-driving pre-release versions and giving their feedback.
+“The world must produce more food using fewer resources, and we are certain AI supported by advanced technology platforms will truly benefit farmers,” says Ted Tanner, CEO and Co-Founder of Growlink. “From commercial greenhouses to vertical farming, the comprehensive data AI gathers and the real-time actions made from this data will lead to greater, predictable yields and reduced crop loss. Our new Growlink Plant Health AI will take this bold step into the future, and we are thrilled to announce this beta program to give our users the first opportunity to use this incredible new technology.”
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+
+

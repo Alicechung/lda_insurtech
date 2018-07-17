@@ -1,0 +1,23 @@
+Cape Analytics expands AI-driven property data coverage to national U.S market
+
+4th April 2018 - Author: Matt Sheehan
+
+Cape Analytics, a re/insurance data analytics provider, has announced that its property data coverage has been launched across the entire continental U.S, and claims it is the first national coverage to provide instant, imagery derived property information.
+
+The expanded coverage will allow U.S re/insurers to instantaneously access data on over 70 million buildings, meaning they can pre-fill property information, choose better risks, price policies more accurately, and reduce post-binding adjustments and cancellations.
+
+Cape Analytics also expects the product to streamline the process of home insurance application for consumers by facilitating more accurate online quotes.
+
+The company uses computer vision and machine learning to turn current geospatial imagery into structured data for any property, and provides access to 500 million data points that can inform users about a range of issues, such as nearby hazards, building footprints, and roof condition.
+
+The expanded coverage also includes new re/insurer-specific data features, such as roof characteristics like geometry, covering material, condition, and extensions; building characteristics like solar panels, and pool enclosures; and parcel characteristics.
+
+Ryan Kottenstette, Chief Executive Officer (CEO) and Co-Founder of Cape Analytics, said: “Since founding Cape Analytics three years ago, nationwide scale has been a key objective. This is not only a major milestone for us as a company, but for the insurers and reinsurers who, until now, have had to rely on outdated tax records or costly in-person inspections to collect the data they need to underwrite their policies.
+
+“This could not have been possible without our world-class data science and computer vision teams, who have developed a deep technical stack in order to build this first-of-its-kind solution for our customers.”
+
+Cape Analytics’ clients include XL Catlin, whose Chief Executive of Reinsurance, Charles Cooper, commented: “Cape Analytics provides us with unique, deep, and accurate property insights at both the individual address and portfolio level that improve our ability to better underwrite our client portfolios. This, in turn, allows us to better serve our customers while being compatible with our current workflow.
+
+“Given XL Catlin’s drive to innovate and enhance our analytical capabilities, we’re thrilled to continue working with Cape Analytics as they expand their presence nationwide.”
+
+

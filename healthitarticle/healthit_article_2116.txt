@@ -1,0 +1,18 @@
+OhioHealth uses big data analytics to increase hand hygiene
+
+January 13, 2014
+
+By Jennifer Bresnick
+January 13, 2014 - Using wireless sensors to collect real-time data on hand washing, hospital network OhioHealth and IBM will be able to gauge staff member hygiene and hopefully curtail the spread of deadly superbugs like MSRA and Clostridium difficile.  With nearly one in every twenty patients suffering from a hospital-acquired infection (HAI), and 100,000 patients a year dying from such diseases, hand hygiene has attracted a great deal of attention from data wranglers looking to increase compliance from a relatively poor 50% national average rate.
+The pilot project has already increased the rate of proper hand washing from 70% to more than 90% at one of OhioHealth’s eight hospital campuses.  Using radio frequency identification (RFID), the IBM system pairs sensors at hand washing stations with ID tags for each staff member.  The sensors are able to detect when a staff member enters or leaves a patient room and how they make use of the hand washing station during the visit.  The data is streamed wirelessly to a central location, where it can be stored and used to produce reports and identify opportunities for improvement.
+“OhioHealth is always looking for smarter ways to protect the health of our patients,” said Michael Krouse, Senior VP and CIO at OhioHealth. “Superbugs like MRSA can live for hours on surfaces, and we want to do everything we can to protect our patients from these kinds of serious infections. Working with IBM, we will gain additional insights that will help us consistently achieve total compliance with hand-washing standards and fight back against these bugs.”
+“Hospitals everywhere are grappling with ways to prevent infections, and we believe OhioHealth’s forward-thinking approach will raise the bar for the entire industry,” added Dr. Sergio Bermudez, a research scientist at IBM. “Innovative organizations like OhioHealth are leveraging the power of technology to provide smarter care for their patients to improve quality while reducing cost.”
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Alarm Fatigue, Health IT Woes Top ECRI 2017 Patient Safety List
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+A recent poll by hygiene system vendor DebMed found that healthcare organizations are generally lacking in their attention to hand washing and other simple preventable measures.  Only 30% of hospitals have achieved World Health Organization (WHO) standards, and a mere 1.5% use electronic data and performance analytics to track their staff members’ habits.  As hospitals face increasingly steep penalties for failing to meet quality benchmarks such as HAI rates, they are turning to data analytics to help make sense of their shortcomings.
+“It is encouraging to see hospitals starting to realize the advantages of moving from the  antiquated method of tracking hand hygiene compliance through direct observation to a more accurate, reliable and cost-effective electronic solution that will aid in improving hand hygiene compliance, reduce infections and save patient lives,” says Heather McLarney, vice president of marketing at DebMed. “What is needed now is for hospitals to take advantage of the latest technologies such as electronic hand hygiene monitoring systems that allow them to make a dramatic impact on the quality and safety of patient care.”
+Tagged Clinical AnalyticsClinical DataHealthcare Business IntelligenceHospital QualityPatient CarePatient SafetyQuality Of Care
+
+

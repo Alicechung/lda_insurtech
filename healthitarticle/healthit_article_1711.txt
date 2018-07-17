@@ -1,0 +1,21 @@
+Argonaut Project Aims to Boost Standards, EHR Interoperability
+
+December 05, 2014
+
+By Jennifer Bresnick
+EHR interoperability and data standards will get a boost from vendor and providers commitment to the new Argonaut Project.
+December 05, 2014 - A consortium of EHR developers, healthcare systems, and informatics experts are banding together to further the development of data standards and EHR interoperability.  The Argonaut Project, announced this week at the HL7 Policy Conference, brings together some of the most notable and progressive vendors and providers in the industry to accelerate the implementation of Fast Health Interoperability Resources (FHIR) as a way to respond to recent recommendations from the JASON group.
+“Our national health IT policy has always focused on the adoption of private sector-led standards,” said Aneesh Chopra, former US chief technology officer in the Obama Administration. “Today’s acceleration initiative draws on that collaborative spirit and will translate into better technologies to support better healthcare for patients and providers.”
+The collaboration includes the following organizations: Health Level Seven International (HL7), athenahealth, Beth Israel Deaconess Medical Center, Cerner, Epic Systems, Intermountain Healthcare, Mayo Clinic, MEDITECH, McKesson, Partners HealthCare System, SMART at the Boston Children’s Hospital Informatics Program, and the Advisory Board Company.  The Massachusetts eHealth Collaborative, headed by Micky Tripathi, who is also a JASON Task Force co-chair, will provide project management for the initiative.
+FHIR is a standards framework based on the latest web conventions and has already been adopted in other industries, the press release states.  It is versatile enough to be used for mobile devices, web-based apps, and EHR data sharing with module components.  “FHIR is already being tested and implemented by leading organizations in the public, private and academic communities. We believe this will drive industrywide adoption,” said HL7 CEO Charles Jaffe, MD, PhD.  “If you make something useful, people will embrace it.”
+Dig Deeper
+Da Vinci Project Brings HL7 FHIR to Payers for Big Data Analytics
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+Big Data, Interoperability Top Black Book’s Trends for 2017
+“Imagine the ecosystem of apps that could be created if simple read/write interoperability of these data elements was available in all mainstream EHR/PHRs with security controlled by the user of the EHR/PHR,” wrote John Halamka, MD, CIO at Beth Israel Deaconess Medical Center, referencing the common core data elements specified in the 2014 EHR certification criteria, which include basic information such as name, date of birth, smoking status, allergies and medications, and laboratory tests.  “It’s a perfect storm for innovation when stakeholders, resources, and political will align.”
+“At this point in history, we have an unprecedented opportunity to apply additional resources and focus, producing a simple, consensus-based implementation guide for query/response transactions in healthcare using the same type of technologies that Facebook, Google, and Amazon have already implemented at scale,” Halamka added.
+A recent pair of reports from the JASON group, which advises government agencies on matters of science and technology, stresses the importance of adopting data standards to foster interoperability and bring about the promise of true population health management.
+National Coordinator Karen DeSalvo, MD, MPH, MSc, called this type of interoperability and data sharing a “critical piece of the equation” that will bring about better health for each and every patient.  ““While we need infrastructure to capture and organize this data, we also need to ensure that individuals, health care professionals and community leaders can access and exchange this data, and use it to make decisions that improve health,” she wrote in a blog post on Health IT Buzz.  “We’re excited by the potential to take this emerging data and turn it into useable information to build a Culture of Health—a nation where everyone has the opportunity to live longer, healthier lives.”
+Tagged Analytics InfrastructureEHR InteroperabilityHL7Interoperability
+
+

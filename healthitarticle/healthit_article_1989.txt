@@ -1,0 +1,18 @@
+Will public EHR data offer population health management help?
+
+June 03, 2014
+
+By Jennifer Bresnick
+June 03, 2014 - Population health management is high on the agenda for cloud-based EHR developer Practice Fusion.   Adding to its integrated offerings centered around helping providers stratify patients, identify shortfalls, and compare their performance to other organizations, the company has announced a new EHR data analytics website called Insight, free to the public on a limited basis.  With deidentified data culled from a subset of its 81 million patient records, the real-time database allows users to explore and manipulate charts and graphs on medication use, diagnosis patterns, and provider habits in a first step towards changing the way patients think about themselves and their providers.
+“This is an opportunity for us to share the power and value of our data with not only the healthcare community, but also the larger public,” Dr. Richard Loomis, Director of Medical Informatics at Practice Fusion, told HealthITAnalytics.  “We believe that there is great value to be uncovered and discovered in the data that we have.  And the most powerful way to leverage that is to make it available to everyone.”
+The database provides an engaging playground for patients with the skills to read and understand the information presented to them.  Users can glean tidbits of trivia like the most common day of the year for patients to visit their providers for help with depression, or dive deeper into the market share of certain drugs for Type 2 diabetes and the prevalence of certain co-morbidities in a slice of geriatric patients.  However, for more robust access, users will need to sign up for a premium account.
+While the interface is slick and friendly to some degree, founder and CEO Ryan Howard’s claim that Insight represents an entirely novel way of “unleashing powerful health data” may be a little optimistic.  For the average patient looking to understand his medications or do research on a new diagnosis, the database may not offer too much value.  But for providers looking for a supplement to their population health management techniques or view a large sample of data in an intuitive way, the website may offer more.
+Dig Deeper
+Cerner Pilot Uses Population Health Analytics for Chronic Care
+State-Led Programs Help Meet Population Health Management Goals
+Epic Systems Integrates Geisinger Population Health Toolkit
+“I think we certainly have users that we expect to have more immediate value from this,” Loomis acknowledges.  “Members of the healthcare and pharmaceutical industry, obviously, and people from academic institutions, will be very interested in it.  On one end of the spectrum, we expect it to be leveraged as a tool for improving healthcare delivery.  And on the other end of the spectrum, sort of on the consumer end, a tool to help patients learn more about various conditions and their relationships to the medications.”
+“From Insight we can learn about what types of population health programs we should be implementing,” Loomis added.  “Is there a significant number of patients that have out-of-control hypertension in a particular geographic region, for example?  Should those patients be targeted proactively via our population health programs?  That could be very useful for providers.”
+Tagged Big DataBig Data AnalyticsEHR AnalyticsPopulation Health Management
+
+

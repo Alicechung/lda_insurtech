@@ -1,0 +1,18 @@
+Adding occupation data to EHRs helps clinical decision making
+
+August 18, 2014
+
+By Jennifer Bresnick
+August 18, 2014 - Adding information about a patient’s occupation and workplace into their electronic health record can help providers at community health centers paint a more complete portrait of the social and environmental factors that influence health, say Kerry Souza, ScD, MPH and Michael A. Wittie, MPH in a blog post for HealthIT Buzz.  Patients spend more than half their waking hours at work, yet EHRs are rarely equipped with the ability to routinely collect data on the occupational environment.  The CDC’s National Institute for Occupational Safety and Health (NIOSH) EHR Working Group is hoping to encourage providers to pay attention to this critical piece of patient care.
+“Community health centers across the country are also using EHRs to capture and use patient work information to learn more about their patients’ work and health,” the blog post says.  “Recording industry and occupation data in EHRs not only allows providers access to this important information on patients, but it can also enable clinical decision support functions to assist providers in caring for patients based on each individual’s work history.”
+After a successful pilot project conducted by the Cambridge Health Alliance and Massachusetts Department of Public Health, in which providers captured occupational data for more than 27,000 primary care patients, NIOSH has been working with St. John’s Well Child and Family Center in Los Angeles to modify its EHR documentation processes to include work information.
+“The ability to collect patient industry and occupation data leads to more informed medical care and treatment, which perpetuates St. John’s’ mission to address salient structural determinants of health, promote health equity, and foster community well-being by providing comprehensive, evidence-based, high-quality care to the sick and poor in South Los Angeles,” said Shom Dasgupta-Tsinikas MD, Director of Social Medicine and Health Equity for St. John’s.
+Dig Deeper
+IoT, Analytics, HIM Push Healthcare IT VC Market Past $5B
+New Collaboration to Support Diabetes Prevention, Management
+AHIMA 2016: Expect Big Data Governance, MACRA, Value-Based Care
+Ninety-six percent of community health centers are already equipped with EHRs, recent data shows, and 84.5% have received meaningful use payments, which puts these providers well ahead of the health IT curve.  If the majority of them begin to collect occupational information, they may be able to deploy situation-specific clinical decision support tools that take into account a broader range of data for the individual in question, improving population health management techniques and the extension of primary care.
+“ONC and NIOSH staff are exploring avenues to capture industry/occupation data in EHRs,” Wittie and Souza conclude. “Data capture would be the first step to allow health-care organizations to develop programs aimed at meeting the occupational health needs of their patients, harnessing the power of EHRs for capturing, storing, tracking, exchanging, and reporting data. Even before these data are routinely available in EHRs, health centers will undoubtedly continue to lead the way in bridging occupational health and primary care, and in using EHRs to help meet their patients’ needs.”
+Tagged Health Information ManagementPatient CarePopulation Health Management
+
+

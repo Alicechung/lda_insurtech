@@ -1,0 +1,31 @@
+“Big Data Spokes” Tackle Population Health with IoT, Informatics
+
+December 02, 2016
+
+By Jennifer Bresnick
+December 02, 2016 - Using $10 million in grant funding from the National Science Foundation, four regional consortia of academic institutions across the nation will utilize big data analytics, informatics, artificial intelligence, and the Internet of Things (IoT) to uncover new insights into population health management and public health.
+The “Big Data Regional Innovation Hubs” and “Big Data Spokes” initiatives, complementary projects to coordinate research and innovation across dozens of leading colleges and universities, will focus on improving data sharing, developing best practices for healthcare research, and opening new opportunities for explorations into data-driven public health.
+"The BD Spokes advance the goals and regional priorities of each BD Hub, fusing the strengths of a range of institutions and investigators and applying them to problems that affect the communities and populations within their regions," said Jim Kurose, assistant director of NSF's Computer and Information Science and Engineering Directorate.
+The Big Data Spokes funding, announced in September, will allow a number of notable institutions to forge stronger research partnerships and share big data more efficiently. 
+As part of the Western regional group, institutions including Arizona State University, UC San Diego and UCLA will undertake projects aimed at creating real-time interventions from IoT data collected about urban spaces and increasing the reliability of reproduction efforts in the scientific research and data analysis fields.
+READ MORE: Eye Docs Looking for Big Data, Population Health Analytics Research
+In the Midwest, Purdue University will also examine questions of reproducibility and data quality, while the University of Illinois at Urbana-Champaign will look at the use of big data to predict and respond to natural and man-made disasters that may significantly impact communities.
+Northeastern participants, including MIT, Brown University, UMass Amherst, Harvard, Columbia, the University of Pennsylvania, and Penn State, will dive into the challenges of data-driven education, the integration of environmental factors into observational research, and the creation of a licensing model for big data sharing.
+"The Big Data Hub and Big Data Spokes have been a great way to connect those of us working in Big Data in the Northeast," said Samuel Madden, professor of Electrical Engineering and Computer Science at MIT and a principal investigator on the data sharing project, which hopes to create a standardized platform that helps to overcome the obstacles of different licensing and usage agreements.
+"As a computer scientist focused on software for sharing data, I've been able to connect to a diverse group of researchers and leaders interested in a wide range of broader issues, ranging from hardware infrastructure to software architectures to the legal, ethical, and societal implications of data sharing," Madden said.
+Other partners involved in the project include Elsevier, Intel, Microsoft Research, Oracle, Rhode Island Hospital and Thomson Reuters.
+READ MORE: Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+In the Southern consortium, Emory University and the University of Texas at Dallas will collaborate with the University of Virginia, Georgia Tech, and others to learn how to leverage large-scale informatics for care coordination and patient engagement.
+Using Internet of Things data from wearable devices and sensors alongside social media information, senior investigator Dr. Indranil Bardhan, professor of information systems in the Naveen Jindal School of Management at UT Dallas, will work with researchers at Emory to lead an initial test case focusing on how to improve patient engagement among African-American patients with cardiovascular disease.
+“Successful completion of this project will allow us to accelerate progress toward addressing societal challenges related to addressing health disparities, health care access and precision medicine; improving care coordination, longitudinal health record creation and cohort tracking; and creating a system to enable closed-loop feedback once the patient is discharged,” Bardhan said. 
+“The integration of patients’ sensor-based data with clinical data from electronic health records will enable improvements in diagnosis, monitoring and care coordination between patients and providers. The goal is to develop new ways to improve patient engagement and health outcomes.” 
+Bardhan’s team will work on building infrastructure that can collect high-quality data from the Internet of Things about a patient’s individual state of health as well as their environment.  The data will ideally be shared with providers’ electronic health records to help providers and researchers work with patients to raise the level of engagement, generate empowerment, and improve overall outcomes.
+READ MORE: Healthy Nevada Study Combines Genomics, Population Health
+The National Science Foundation plans to invest more than $110 million in big data analytics research across multiple industries in Fiscal Year 2017, which will help to fuel the “brain trust in data science” created by the hub-and-spoke system.
+"This program represents a unique approach to improving the impact of data science by establishing partnerships among likeminded stakeholders," Kurose said in 2015 when announcing the initial Big Data Hub program.
+"In doing so, it enables teams of data science researchers to come together with domain experts, with cities and municipalities, and with anchor institutions to establish and grow collaborations that will accelerate progress in a wide range of science and education domains with the potential for great societal benefit."
+Explaining the Basics of the Internet of Things for Healthcare
+Can Healthcare’s Internet of Things Move from Froth to Function?
+Tagged Analytics InfrastructureHealthcare InformaticsHealthcare Internet of ThingsMedical ResearchPopulation Health Management
+
+

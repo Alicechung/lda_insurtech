@@ -1,0 +1,37 @@
+HIMSS Analytics Refreshes EMRAM, Looks to Real Health IT Value
+
+March 03, 2016
+
+By Jennifer Bresnick
+March 03, 2016 - LAS VEGAS – Health IT adoption may be an ongoing journey that unfolds a little bit differently for each organization, but there are still some valuable signposts available along the way. 
+Aside from meaningful use attestation itself, one of the most widely recognizable benchmarking tools in the industry is the EMR Adoption Model (EMRAM) from HIMSS Analytics.
+This eight stage health IT adoption scale has guided the efforts of healthcare providers for more than a decade. 
+Organizations that reach Stage 6 and Stage 7 not only win bragging rights, but gain the positive feedback and recognition they need to keep their hard-working teams focused for new challenges on the road ahead.
+“We believe those models are really the guidance for the future of what health systems need to accomplish,” said Blain Newton, Executive Vice President at HIMSS Analytics.  “These models provide a quantitative roadmap for what organizations need to do and where they need to go.  The data that we need to drive it is also relevant to the future.”
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Healthcare organizations have been working very hard to climb the EMRAM ladder, but the very nature of the health IT industry means that they are reaching for a moving target. 
+Innovation happens quickly, and HIMSS Analytics is using the 2016 Conference and Exhibition in Las Vegas as an opportunity to acknowledge just how far the health IT ecosystem has come.
+“We’re introducing new criteria for EMRAM,” Newton announced.  “The EMRAM model is almost eleven years old now, and it’s provided incredible guidance to the world.  But we’ve recognized that the world of health IT has changed, just a little bit, in the last decade or so.”
+“We took a hard look at the model and spent the last year talking to stakeholders in a pretty exhaustive process.  So we’re moving some things that are pretty much ubiquitous now that weren’t back then – like PACS, for example – down to Stage 1.”
+Hospitals have almost universally adopted some form of electronic health record technology, but their progress with complementary IT tools has varied widely.  Nearly a quarter of hospitals were still Stage 3 or below as of the last quarter of 2015, which means they lack advanced technologies such as CPOE, data warehousing, and the ability to use CCD transactions to share data.
+READ MORE: 93% of Payers, Providers Say Predictive Analytics are the Future
+But the number of high achievers is growing.  From the middle to the end of 2015, the number of hospitals reaching Stage 5, Stage 6, and Stage 7 all increased.  And despite its less-than-savory reputation, meaningful use is almost certainly the main reason why the nation’s healthcare system has seen such comparatively rapid gains, says Newton.
+“The US is far ahead when it comes to EMRAM adoption by region,” he told HealthITAnalytics.com.  “It’s interesting, because if you look at Canada, for example, the way their EMRAM scores lay out is very similar to the way the US looked pre-meaningful use.  That’s very consistent in other parts of the world, too.”
+“When it comes to Stage 7 hospitals, there are maybe seven or eight of them globally, compared to several hundred in the US,” he continued.  “So say what you want about meaningful use – and I’m excited to see the innovation that’s going to happen when we’re not under that regime anymore – but it did drive significant improvement in adoption.”
+Providers may not have been universally thrilled about the carrot-and-stick approach of the EHR Incentive Programs, but “the industry needed a kick,” Newton said.
+“We know providers aren’t happy about it, because some of the innovation that could have happened to improve workflows got channeled into meeting meaningful use instead,” he acknowledged. 
+READ MORE: $240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+“But at the same time, if you look at the big picture, we wouldn’t be able to talk about coordinated care and population health management right now, because the data wouldn’t be there without the EHR Incentive Programs.”
+With broad technical infrastructure now in place, higher performing organizations can now focus on optimization and maturity.  For those already approaching the top of the EMRAM model, HIMSS Analytics recently introduced a new benchmarking tool to continue to guide their development: the Value Score.
+“EMRAM is still an adoption model, and it’s still about the implementation of health IT,” Newton explained.  “Where we see the next wave happening is where the Value Score steps in.”
+“A lot of the really importing things that are going to happen moving forward don’t necessarily rely on the purchase and implementation of health IT.  It will be about using the technology we have more effectively, and making sure that we have things like point-of-care genomic data at the right place and the right time.”
+Accomplishing these goals may require some additional investment in health IT tools, including health information exchange capabilities and advanced big data analytics systems, but many population health management strategies and patient-centered care programs are more about workflows and processes, Newton says.
+“That’s where we see the Value Score really helping in the future in terms of helping organizations understand how to optimize for clinical, financial, and patient satisfaction returns.  You have to have the technology at a very sophisticated and secure level before you can do anything with it.  You can’t do one without the other.”
+Introduced in December of 2015, the Value Score focuses on how health IT can produce better outcomes, improved financial returns, and continued innovation for providers.  The four stages of the score, baseline value, perceived value, recognized value, and innovative value, delve into slightly more subjective realms of the health IT adoption process.
+“How much does your organization believe that IT use is a major part of the strategy to realize better outcomes, better financial return, and better satisfaction?   How much of your IT work is permeating the culture in daily practice?  This is a baseline to understand how the folks within your organization believe in the ability of health IT to support what they’re doing every day,” Newton said earlier this year.
+“We assess your organization based on its performance against those best practices.  How are you actually turning your investment and your cultural understanding and your workflows into results?  How do you measure up against the best in the world?  It’s a way to demonstrate to us and to your peers that you’re actually leveraging IT to produce better outcomes.”
+“It’s intended to be a model that evolves regularly, where as EMRAM has been stagnant for a while,” Newton said. “We do make small changes to it, but as we learn more and the industry evolves, the Value Score will start to shift.”
+HIMSS Analytics unveiled the newly revamped EMRAM criteria at HIMSS16, but is still finalizing the updated criteria.  Organizations that have attained rankings on the existing EMRAM scale will be given ample time to participate in reassessments once the new criteria are rolled out, Newton said, so that healthcare providers can continue to use their health IT systems to provide innovative, quality care.
+Tagged Analytics InfrastructureClinical AnalyticsEHR AdoptionHIMSS16
+
+

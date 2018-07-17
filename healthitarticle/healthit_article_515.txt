@@ -1,0 +1,33 @@
+Web-Based Health Risk Assessments Accurately Flag Depression
+
+April 04, 2017
+
+By Jennifer Bresnick
+April 04, 2017 - Web-based health risk assessments (HRAs) are an accurate and cost-effective way to screen patients for depression, finds a new study in the Journal of Medical Internet Research, allowing healthcare providers to proactively stratify high-risk individuals and deliver proactive, preventive care.
+The online assessment tool was able to predict the emergence of depression symptoms in patients who are not often screened in traditional healthcare settings. 
+Of the 25 percent of patients who exhibited mild or subclinical depression symptoms after completing the questionnaire, one in five later developed more significant mental health issues that negatively impacted their daily lives.
+"This study indicates that HRAs can be a useful and powerful analytic tool to identify and begin early intervention for at-risk populations," said lead author Heather Cole-Lewis, PhD, a Behavioral Scientist at Johnson & Johnson Health and Wellness Solutions, which sponsored the study.
+Depression is a difficult condition to manage on its own, but its detrimental effects can be magnified in patients who are also attempting to cope with additional chronic diseases.  Stress and depression can result in reduced adherence to medication regimens or suggested care activities, and may increase levels of patient-reported pain and decrease perceived quality of life.
+READ MORE: Why HIE Data Analytics are Critical for Behavioral Healthcare
+Incorporating an online risk assessment into routine screening practices could help to identify patients who may not be aware of just how much their low-level depression is impacting their day-to-day wellness, Cole-Lewis added.
+"There is a substantial group of people among our HRA participants who have depressive symptoms but might not necessarily meet criteria indicating a need for clinical management. We know now that a significant portion of them are at risk of progressing to levels of distress and experiencing considerable productivity impairment in the process. We need to find ways to reach these individuals before they experience such difficulties."
+The study examined the results of 22,963 web-based HRAs conducted by payers and employers in the course of wellness programming and population health management initiatives. 
+Using growth mixture modeling to analyze 15 months’ worth of patient responses, the researchers found that the patients could be divided into five risk buckets based on the trajectory of their symptoms.
+Eighty-three percent of the participants were marked as “minimal” or “low-risk” due to scores that remained consistently below thresholds that would indicate the need for behavioral health treatment. 
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+A further 4.71 percent were identified as “chronic,” with depression scores that started off high and remained at that level over time.
+The remaining two risk categories showed positive and negative changes over the course of the study period.  The “remitting” group, which made up 8.42 percent of the sample, showed moderate depression at the start of the study period but improved over time. 
+Just over 3 percent of the patients, however, were classified as “deteriorating,” moving from sub-threshold depression to much more severe symptoms during the study.
+Source: JMIR
+Older patients and male patients were less likely than their younger, female counterparts to be a part of the deteriorating group, the study found, while higher stress levels and lower overall sleep quality were correlated with chronic depression scores.
+“Most notably, however, individuals in the deteriorating group had much greater impairments in functioning as compared with those in the chronic group, despite finishing the study at the same average level of depression,” the study says, indicating that these patients may be under-prepared to cope with mental health issues that develop relatively suddenly.
+READ MORE: 69% of Medication Non-Adherence Due to Poor Patient Behaviors
+The study did not examine whether or not patients with rapidly developing depression symptoms underwent a life-changing event, such as a serious health diagnosis, death of a loved one, or economic disruption such as the loss of employment.
+Interestingly, patients with subthreshold depression scores at the start of the study who ended up in the “deteriorating” group were more likely to be in treatment for mental health issues than those in the low-risk groups, the study points out.
+“The fact that participants with subthreshold symptoms who were in treatment were more likely to be members of the ‘deteriorating’ class may reflect several different scenarios, including the possibility that these individuals were experiencing progressively greater difficulty in daily functioning than their peers with comparable levels of symptomatology or had experienced prior depressive episodes, and therefore were more likely to seek treatment,” the authors wrote.
+More study of these patients is needed before coming to a conclusion that could translate into treatment recommendations, the article states, but web-based health risk assessments can be an effective way to gain more insight into these population health management trends.
+"One of the most useful takeaways from this study is that HRAs can help identify individuals with subthreshold depressive symptoms who may deteriorate over time, as well as those who are at risk of chronic depression," said Jennifer Turgiss, Vice President, Behavioral Science & Advanced Analytics, Johnson & Johnson Health and Wellness Solutions.
+"We at Johnson & Johnson recommend that health plan providers, including self-insured employers, consider using HRAs to help identify subthreshold individuals and explore new methods to reach them as early as possible with solutions that build important skills, such as resilience, to help manage and improve low-levels of depression."
+Tagged Behavioral HealthcareChronic Disease ManagementPopulation Health ManagementPredictive Analytics
+
+

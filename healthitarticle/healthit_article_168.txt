@@ -1,0 +1,48 @@
+CVS Health Cuts Red Tape with Real-Time Prescription Cost Data
+
+March 13, 2018
+
+By Jennifer Bresnick
+March 13, 2018 - Access to real-time data at the point of care may be one of the healthcare industry’s highest priorities, yet it remains one of its most elusive goals. 
+From interoperability issues, workflow barriers, and data aggregation woes to outdated information on patient financial responsibilities, many stakeholders have struggled to integrate timely data for decision-making into the workflow.
+CVS Health, however, can check one major component of the problem off the list. 
+Casey Leonetti, SVP of Pharmacy Benefit Management Innovation at CVS Health
+Source: Xtelligent Media
+Since November of 2017, CVS Health and CVS Caremark, its pharmacy benefit manager (PBM) arm, have been offering real-time prescription benefit data to providers and pharmacists as a way to streamline a complex and often frustrating part of delivering quality care.
+“We’re trying to make it easier for patients to get immediate access to the lowest cost therapy that’s appropriate for them,” said Casey Leonetti, SVP of Pharmacy Benefit Management Innovation at CVS Health, speaking to HealthITAnalytics.com at HIMSS18 in Las Vegas.
+READ MORE: How the CVS, Aetna Deal Will Overhaul Healthcare Big Data Analytics
+Generic drugs can cost dramatically less than their name-brand equivalents while providing exactly the same clinical benefit.  Pricing for both types of medications can also vary significantly from patient to patient, depending on their benefits and deductible amounts.
+Yet many prescribers – let alone their patients – are unaware of all the options available or what they will cost.
+“At the moment, prescribers don’t typically have visibility into what is covered for the patient they’re seeing,” explained Leonetti. 
+“The patient has to go to the pharmacy only to find out that the prescription is not covered or they don’t have the right prior authorization, and that starts a whole round of administrative back-and-forth with the plan, the pharmacy, and the prescriber that could cause a delay in the patient getting what they need.”
+Providing real-time visibility into member-specific data at the point of prescribing can help to prevent administrative whiplash and ensure that patients can access their therapies in a timely and cost-effective manner.
+READ MORE: Epic Systems Leads Mindshare for Population Health, EHR Tools
+“First, you have to have member-specific information,” said Leonetti.  “That includes what is covered under their benefit, where the patient is in their deductible, and what their out-of-pocket costs will be at that point in time.  That data is provided by the PBM.”
+“We start by mapping drug classes to their therapeutic alternatives, then we match those mappings to member-specific, real-time coverage information so that we can see exactly how much of the deductible is left, what prior authorizations might be required, and what their financial responsibility will be.”
+Unexpectedly high prescription drug costs often lead patients to abandon or ignore their recommended therapies, found a Truven Health Analytics and NPR Health poll in 2017.
+Approximately 67 percent of patients have failed to maintain adherence to a prescription due to the costs.  Among patients in the lowest income brackets, ninety-four percent have failed to fill or pick up a prescription because it was too expensive.
+And most patients are surprised by the bill at the pharmacy counter, the poll pointed out.  Just 19 percent of senior patients and 30 percent of low-income patients searched for pricing information before going to pick up their medications.
+READ MORE: Pharmacy Interventions May Improve Medication Adherence Rates
+Making that data more available to clinicians and pharmacists might help to close that education gap and match individuals with more affordable options, asserts Leonetti.
+“If the prescriber knows what drugs are covered and what therapeutically equivalent alternatives are available, that prescriber can make much better decisions with the patient,” she said.
+“The key is presenting this information at the right time, ideally before the prescriber has completed the order.  It has to be included in a simple workflow so that you’re taking away administrative burden instead of adding extra steps.”
+CVS Health has worked with several major EHR vendors, including Epic Systems, to develop intuitive workflows without too many extra clicks, said Leonetti.
+“Since we use Epic Systems in our MinuteClinics, we have worked very closely with them to enhance the provider workflow so it gets better and better,” she said. “But this data is available to any EHR that interfaces with Surescripts.  That will include the big names in the industry as well as many of the smaller ones.”
+Pharmacists can also view this information, allowing them to participate in educating the patient and solving any administrative issues that may arise before they can dispense a medication.
+“Our CVS retail pharmacies have built an entire user interface and workflow around this data, so they can see the exact same thing the prescribing provider is seeing,” said Leonetti. 
+“We are also arming pharmacies with the ability to resolve rejections more quickly and address other frictions in the system.”
+CVS Health is still collecting data on the impact of the tool, which is relatively new, and does not yet have results to share around medication adherence improvements or large-scale cost savings. 
+But Leonetti is confident that the strategy will pay dividends in both costs and clinical outcomes down the line.
+“A vast majority of the time, prescribers are already choosing the lower cost or covered alternative when they’re given the option,” she said.  “It’s actually influencing how providers make their decisions, which is very encouraging.”
+“And we do know that in general, adherence tends to go down when there’s a disruption in a patient’s access to a medication.  When you remove those disruptions, you can certainly expect better adherence rates.”
+CVS Health is quickly becoming an analytics force to be reckoned with in the new data-driven healthcare economy, and is working studiously to leverage its growing data assets in a number of innovative ways. 
+As the company looks to complete its acquisition of Aetna and absorb the payer’s data analytics capabilities, CVS Health is planning to continue to add value for all of the providers, payers, and patients who interact with its networks.
+“We see this as a foundational capability, and something we can use to build other value-enhancing opportunities on top of,” said Leonetti. 
+“The entire goal is to align incentives and stakeholders across the full healthcare delivery model in order to make better decisions and provide better care.  Real-time benefits information is a crucial part of that.”
+It is also a project that can produce widespread benefits across multiple stakeholders with few competitive obstacles or business objections, she added.
+“We have a lot of products that we’re talking to our clients about, but this is the one that excites them the most, because the incentives are aligned around success,” she said.
+“The payers win because the data is helping to reduce unnecessary costs and influence decisions in a positive direction.  The prescribers win because their workflows are more efficient and they have access to more information when they need it.  And the patients win because they’re getting access to the medication they need while saving money.”
+“This is the right thing to do from everyone’s perspective, and we’re very excited about being able to bring it to the industry.”
+Tagged Analytics InfrastructureChronic Disease ManagementEpic SystemsHealthcare SpendingHIMSS18InterviewsPopulation Health ManagementPrescription Drug Rates
+
+

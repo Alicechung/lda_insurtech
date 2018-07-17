@@ -1,0 +1,12 @@
+SignalWire’s Next-Gen Communication Platform Builds Telephone Gateway To Google Cloud AI
+
+12 Apr 2018
+
+SignalWire, Inc., a stealth-mode communications startup, today announced exclusive support for low-latency traditional telephone service integration into Google’s Cloud AI Dialogflow Enterprise Edition and Cloud Text-to-Speech API products.
+Currently in closed beta, SignalWire has built a next generation elastic communications platform designed to enable developers and enterprises to easily build otherwise complex communications applications. Developed by seasoned product-builders from Barracuda Networks, RingPlus, and the authors of the open source FreeSWITCH project, SignalWire’s platform is positioned to disrupt existing incumbents by delivering a unique offering with advanced and scalable features.
+Just launched, Google’s Cloud Text-to-Speech functionality enables “developers to synthesize natural-sounding speech with 30 voices and is available in multiple languages and variants.”  Google Dialogflow Enterprise is an “end-to-end development suite for building conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices.” Both are powered by Google’s Machine Learning.
+Anthony Minessale
+SignalWire’s new offering, combined with Google Cloud Text-to-Speech API and Dialogflow Enterprise, will provide users with a low-latency gateway between the public telephone interface and Google’s conversational interface – capable of programmable, machine-learning natural and rich interactions –  for an advanced Interactive Voice Response (IVR) application.
+“Google challenged us to deliver something no other vendor could -a low latency interface between Google Cloud and the traditional telephone network,” said Anthony Minessale, CEO of SignalWire and lead author of the Open Source FreeSWITCH project. “We’re excited to work with Google, our developer community and mutual customers to deliver a best-of-breed advanced level IVR.”
+
+

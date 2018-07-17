@@ -1,0 +1,58 @@
+Do You Have A Response Plan In Case Of A Data Breach Under GDPR?
+
+06 Jun 2018
+
+GDPR Specifically States That You Have 72 Hours To Assess And Notify Affected Individuals And Their Regulators. Here’s How To Plan For The Worst by Rakuten Marketing
+With the Global Data Protection Regulation (GDPR) deadline behind us, US brands are now under the gun and those uninformed and/or unprepared face real business risk. At the very root of GDPR is a drive to protect consumer data and drive more meaningful, authentic marketing experiences for online shoppers. Rakuten Marketing, a leading technology company that enables brands to increase sales through data-driven marketing, today announced the availability of its latest thought-leadership white paper on GDPR and consumer data breaches.
+Read More: Meet 20 Of The Most Powerful Women In The Tech World
+Entitled “Managing Data Breaches: Understanding and Responding to Data Breaches Under GDPR,” this educational whitepaper guides brands and their marketing organizations on how to tackle the growing challenge of consumer data breaches. It offers valuable insight into what a consumer data breach is under the GDPR proper protocol, which brands, advertisers and publishers can use to identify, mitigate and manage data leakage within their organization. According to experts at Rakuten Marketing, brands, publishers and advertisers absolutely have control over data leakage by understanding what the GDPR deems as a consumer data breach, and then, enforcing acceptable use policies and applying appropriate controls through sound security protocol. The white paper defines a breach under GDPR; procedures to follow if a breach occurs; and the key roles marketers play in appropriately managing potential data breaches.
+Danny Kourianos
+“Consumer trust is an asset that can be lost in a second and taking proactive measure to prevent consumer data breaches is a matter of simple and sound business and marketing practice,” commented Danny Kourianos, SVP, Marketing, Rakuten Marketing. “The GDPR has put a spotlight on consumer data protection and the industry has an obligation to be 100 percent informed and prepared. This whitepaper serves as a guide to inform and guide key industry constituents, including brands, advertisers and publishers, on the ABCs of preventing any form of breach of consumer data.”
+This Rakuten Marketing whitepaper is the latest in a series of industry expert thought-leadership content for the digital marketing and advertising industry. Rakuten Marketing also recently released a new consent management platform (CMP), built on the IAB Tech Lab technology framework, in a proactive measure to address GDPR and provide U.S. brands, advertisers and publishers with a trustworthy and reliable solution that simplifies and standardizes all language used to secure consumer ‘consent’ for use of their personal data. The CMP is a free, open-sourced platform that integrates into existing marketing and IT technologies.
+Rakuten Marketing industry-leading solutions empower marketers to thrive in their evolved role and achieve the full potential of digital marketing, efficiently and effectively, with data-informed insights that create consistent, engaging and influential experiences across screens. Offering an integrated solution, along with unique insights and consultative partnerships, Rakuten Marketing delivers the tools that marketers need to increase efficiency, productivity and performance.
+Here’s what we learned from the Rakuten Marketing Whitepaper;
+Know how to identify a risk
+To understand the risks of a data breach, marketers must first understand what constitutes a data breach. A data breach, under GDPR, is defined in one of three ways:
+Breach of Confidentiality: When a customer’s personal data has been disclosed to or gained access by an unauthorized source.
+Breach of Availability: When the access to a customer’s personal data has been lost or is unavailable, either by accident or through an unauthorized behavior.
+Breach of Integrity: When a customer’s personal information or data has been altered without their action or the action of an authorized controller. This could happen accidentally (updating an incorrect profile or entering the information incorrectly) or insidiously (unauthorized access from a third party making changes).
+Know all the players
+BEFORE  THE  72  HOURS:  AWARENESS
+GDPR specifically states that you have 72 hours to assess and notify affected individuals and their regulators. Before the 72-hour clock begins, you must know whether or not a data breach has occurred.
+Advertisers and Publishers need to understand the difference between data controllers and data processors.
+What is a Data Controller?
+A data controller is a person who makes decisions about the data being collected. They choose the purpose of the data being collected as well as how that data will be leveraged and utilized by an organization.
+This does not mean the data controller of an organization is also processing the data. There are situations where a data controller might look externally to have the data processed. This does not mean they’re turning over the data to the external organization, they’re simply outlining what the processors should and shouldn’t be doing with the information as well as the purpose of the data.
+What is a Data Processor?
+Data processors are external partners from the data controller and organization, and are brought in to – as the name implies – process the data they’re given. At no point do they control the data, meaning they cannot change what the data is being used for or why it’s being used. They’re given instructions by the data controller on what data is to be processed, how it’s to be processed, and why. Data processors are set to follow these instructions.
+Role of the Parties:
+You must act swiftly once a potential breach is brought to their attention. Documentation must immediately start taking place – even if the investigation results in no breach being found – because all information will be helpful and necessary from this point forward. The investigation will involve the Chief Information Security Officer (CISO), as well as legal leads, to determine whether or not a breach has occurred.
+If a breach has been confirmed the in the assessment phase, the 72-hour clock begins counting down.
+Assess the damage
+This assessment needs to be as thorough as possible, establishing as much information as you can accurately accrue and evaluate to include in their notification and report during phase three. This information includes:
+The type of breach you are experiencing.
+The type, sensitivity and volume of information or data affected.
+The number of people concerned, and the categories of their data.
+How easily an individual could be identified from the information that was breached.
+What the consequences and severity could be for affected individuals.
+What measures have been taken and are being taken, including any effort to reduce potentially-harmful effects.
+Notify those affected by the breach
+With some exceptions, the notification phase will require you to submit an initial report to the Regulators (or supervisory authority) and any affected individuals. Each of these will require a set of information, outlined below:
+Regulators
+What was the nature of the breach?
+What categories and records were affected, and how many were impacted?
+How many individuals were affected, and what categories of data were impacted?
+What are the potential consequences of this breach?
+What steps have been taken, and are currently being taken?
+Who is responsible for overseeing this assessment, and what is their contact information?
+Affected Individuals
+What was the nature of the breach?
+What does this mean for them/how will they be affected?
+What are you doing to solve this?
+Who can they get in touch with, and how can they get in touch with them? (This will typically be your Data Protection Officer.)
+What can they do to protect themselves?
+All this must be written in language that is clear and easy for individuals to understand. You must also ensure they leverage multiple channels to ensure they reach as many affected individuals as possible.
+Rakuten Marketing is a division of Rakuten Inc, one of the world’s leading Internet service companies. The company is headquartered in San Mateo, California, with offices in Australia, Brazil, Japan, the United Kingdom, and throughout the United States.
+Read More: Interview With Bryson Hill, CEO — Daplie
+
+

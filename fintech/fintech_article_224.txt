@@ -1,0 +1,73 @@
+ICO Fraud and How to Avoid it
+
+April 21, 2018
+
+by Nathan Gore and Fred Sculthorp for The Fintech Times.
+
+ ICO’s have been successful in quickly funding innovative start-ups that may otherwise have struggled to take off. Their main advantage is that they are free from the confines of a financial establishment that could otherwise leave a startup bound by red tape. It is, however, this very appeal of ICOs that makes them susceptible to fraud. The early days of the ICO landscape drew comparisons with the Wild West; with an ‘anything goes’ attitude prevailing. Confusion over the pay-out of investments was rife, leaving many in the market vulnerable to fraudulent activity. ICOs vary in what they offer potential investors, something which led to confusion over the legality of the investor-client dynamic of ICOs. In July, the SEC of the U.S (Securities and Exchanges Commission) ruled that ICOs counted as securities, and therefore fell under their regulations. This has set the tone for 2018; large companies, such as Tezos and Giga Watt, now face lawsuits after controversy over the pay-out of their ICO tokens.
+
+ As mentioned, the ‘Wild West’ attitude left many who were involved with ICOs susceptible to fraudulent persons and activity. This then led to a number of scandals taking place during 2017, here is a brief recap of some of the most infamous ICO scandals from last year:
+
+ ‘Othor’
+
+ Ethereum founder Vitalik Buterum took to Twitter to warn of the fraudulent coin ‘Othor’ using his name to attract investors. The coin marketed itself as ‘Ethereum 2.0’, and claimed to allow users to trade on both social networks and the stock market.
+
+ Sound impressive? The brains behind the scheme also touted themselves in their bios as ‘infinite experts’ in the cryptocurrency market. If this didn’t set off alarm bells, then a reverse image search of the executive’s photos that revealed their identities to be stolen probably did. Their CEO ‘Bill Wolfhard’ was, in fact, a chef from Spain.
+
+ ‘PlexCoin’
+
+ In December last year, the new cyber unit of the SEC filed its first charges; against one Dominic Lacroix. ‘PlexCoin’ M.O. was to ‘increase access to cryptocurrencies across the world’. This coin promised massive returns, despite being unlikely to be able to deliver on such claims. Lacroix raised over $15 million before attention was drawn to the scam. Because much of the investment was via other cryptocurrencies, the SEC have so far been unable to trace or return the money. In Quebec, where he was based, Lacroix will serve two months in jail and will personally pay a fine of $10,000 CAD.
+
+ ‘Confido’
+
+ Confido held an ICO for its ‘smart contracts’, a way of acting as an escrow between a buyer and a seller during a transaction. The plausible scheme attracted interest worldwide, before disappearing from the internet overnight. TokenLot, the firm who hosted the ICO, said the company had pulled an ‘exit scam’, making off with the $375,000 of investment. The company has been traced to Bittrex, a cryptocurrency exchange who are currently being contacted by the FBI for information about the missing team.
+
+ ‘Qtum’
+
+ Some digging into Qtum’s Patrick Dai (by Ian Demartino of CoinJournal) discovered that the founder had been involved in previous ICO scams. Patrick Dai denied accusations of previous involvement in the controversy surrounding the cryptocurrency exchange Bitbay, which saw the founders steal thousands of Bitcoins from investors. His new company Qtum’ markets itself as ‘merging the reliability of Bitcoin’s unfailing blockchain with the endless possibilities provided by smart contracts.’ Qtum continues to attract investment but it will be interesting to see if the company lives up to expectations as one to watch in 2018.
+
+ ‘Giga Watt’
+
+ Giga Watt aims to ‘democratise’ the cryptocurrency mining system by creating turnkey mining pods, along with cheap and stable electricity supply, and round the clock maintenance, in a facility in Washington. Giga Watt are now in the process of being sued by investors who failed to receive the promised benefits of the tokens. No access to the promised mining facilities has materialised. The SEC stepped in after plaintiffs suing the company argued that the tokens should be considered as securities. The case is ongoing.
+
+ ‘Pump and Dump’ Schemes
+
+ Pump and Dump schemes, seen before in the outside trading world (where they are illegal), have been rife in the cryptocurrency community.
+
+ This is where a group of people, usually communicating via Telegram, buy up large amounts of a coin in a short amount of time, to rapidly raise its value. Outsiders will start to buy into this coin, having seen its recent rise in value (often thanks to the Pump and Dumpers sharing this news). Once that has happened then the insiders will sell, making a profit and the value will crash back down to its original price (or even lower).
+
+ Business Insider reported that it has “observed pump-and-dump schemes for the cryptocurrencies UBQ, VCash, Chill Coin, Magi Coin and Indorse, over the past two weeks alone.” All the scams apparently took place using the Las Vegas-based exchange Bittrex or the Russian exchange Yobit. This practice is not yet illegal within the cryptosphere.
+
+ Perhaps the most obvious lesson we can take from these scams is that the amount of money raised by an ICO does not translate into the quality of the product, or the reliability of the team. Fluffed up White Papers and clever marketing can manipulate perceptions over non-existent products and create exaggerated hype, particularly when ICO’s provide incentives for greater returns for early investors. Following that, here are some of our top things to look out for in an ICO:
+
+ If a company’s White Paper sounds outlandish, it probably is.
+
+ If they are using confusing jargon terms to back up sensationalised claims, this should ring alarm bells, especially if it is trying to ride on the back of an already established cryptocurrency. The principle applies to its founders as well as the people behind the code.
+
+ There should be a purpose to an ICO.
+
+ A quote from Mihai Ivascu: “I’m pretty sure that 95% of ICOs will not last, and many will go bankrupt. Why? Mostly because they were not conceived to really solve anything new. Blockchain technology is exciting, but not everything needs to be decentralised and put on an open source ledger.”
+
+ What does the media say?
+
+ Be wary of media reports that repeat the same sound-bites and press releases, without really even scratching the surface in terms of the viability of an ICO. Look beyond the first few articles for a more in-depth analysis. Forums can be a good place to look out for user-experiences and problem reporting, beyond the veneer of press releases.
+
+ Look for concrete justifications and evidence of technology.
+
+ In the absence of specialist knowledge, investors can point to the usual buzzwords that provide suspect justifications for products. What is much more useful, is when they provide use cases, or endorsements from respected professionals within that field.
+
+ Remember, even reputable companies with big investors are susceptible to problems.
+
+ Tezos and Giga Watt made big names for themselves in 2017 in the cryptocurrency space, but have angered investors who continue to have problems accessing their tokens. Without proper regulation and legislation in place, it can be hard to hold these companies to account, regardless of whether you are a big or small investor.
+
+ The SEC will continue to treat ICO’s tokens as securities.
+
+ Despite Tezos’ ICO having taken place before the SEC’s July ruling, it has still been slapped with six lawsuits accusing it of securities frauds. The SEC also brought charges against Dominic Lacroix and his affiliated companies.
+
+ As token sales become ever more popular, and the market cap of various cryptocurrencies increases, it is likely that regulation will also increase across all the different jurisdictions involved with ICOs, blockchain, and cryptocurrencies. Recent developments in the US, with regards to Securities, are likely to only be just the start. All the measures taken are with the intent of bringing crypto-regulation more in line with existing regulation for the financial securities market.
+
+ If regulation classifies token sales under an ICO as a security, then (jurisdictiondependant) measures will apply, such as audits, Anti-Money Laundering (AML) laws, and Know Your Customer (KYC) rules. Anything using tokens or cryptocurrency is, by nature, global. Thereby raising the now common fears regarding ‘jurisdiction shopping’ enabling startups hosting an ICO to find the place that has the most relaxed rules. To tackle this, the G20 have proposed moving forward with a more globally unified approach to the regulation of cryptocurrency. The main issue with this, however, is getting everyone on board.
+
+ In order to tackle the birth and continued existence of fraudulent ICOs strong, flexible legislation; a responsible coin exchange; and informed, savvy investors are all necessary. New legislation seems to be on its way, which in turn is likely to make the exchanges start to properly vet ICOs and tokens. What about the investors? Armed with our aforementioned guidelines in one hand, and recent crypto-legislation in the other, a prudent investor should be able to avoid fraudulent ICOs, and invest their money wisely, and profitably.
+
+

@@ -1,0 +1,58 @@
+Emotional Metrics And Analytics: Sailing Into A Brave New World Of CX
+
+11 Apr 2018
+
+There Is A Clear Paradigm Shift In The Approach To Marketing Approach, Largely Due To The Path-Breaking Advancements In AI And Machine Learning
+Every marketer would agree that we live in the age of customer experience (CX). Most marketing teams are focused on creating impressive (aka real-time and relevant) personalization to match the unprecedented standards of CX. And CX is driven by content that can do more than just hook the audience. Today, content is the hen that lays the golden egg – CX, all the way!
+Emotions Are Integral to Customer Acquisition, Retention, and Loyalty
+After speaking to global CMOs and marketing executives, we sense that there is a clear paradigm shift in the approach to marketing, largely due to path-breaking advancements in AI and machine learning. Data Science is poised to decode human behavior and the value it brings to 1:1 contextual marketing.
+Marketing analytics teams are studying emotional patterns to understand how they impact shopping behavior, and the time a customer spends on any engagement. Brands of all sizes, are increasingly focusing on how their products, services, promotions, ads, POS, and all other touch points make customers feel. Be it B2C or B2B, emotions are now integral to customer acquisition, retention, and loyalty.
+A customer’s emotions or feelings directly affect their purchase decision and the extent or frequency of their purchases.
+74% of customers with positive feelings about a brand advocate it and 63% of them are retained
+Just 8% of customers with negative feelings about a brand advocate it and a mere 13% of them are retained
+Source: CustomerThink
+To understand and analyze customer emotions clearly, they need to be measured. And, therefore, there’s a visible rise in the adoption of emotional metrics for marketers to establish a strong, positive connection with customers. Emotional targeting is what drives CX.
+Let’s ponder over emotional metrics and analytics and its subsequent use and impact on marketers and advertisers.
+Decoding the Ecosystem of Emotional Metrics
+How they Impact Marketing Strategies
+Voice recognition technologies, biometrics, and facial recognition are the prominent emotional metrics. With voice, you can determine the tonality in articulation and measure specific experiences. On the other hand, biometrics and facial recognition help you identify how people feel about a campaign, product, or service.
+The measurement and identification of emotional metrics is a complex undertaking. The reason is that quite often, customer themselves aren’t aware or in full control of their emotions or feelings. Sentiments in customers vary across touch points and so do brand choices. Even the terms that are associated with brands differ. And, of course, emotions differ between age groups.
+Ask yourself? Do the words CRM and mozzarella strike the same emotion chord? Will the feelings attached to these words be the same for a 40+ year old and a millennial?
+Plutchik’s Wheel of Emotions 
+Psychologists say that emotional responses are a product of two distinct systems which can also be classified as neural data sets within a human mind.
+Plutchik’s Wheel Of Emotions
+System 1 (rapid)
+This system leads to decisions that are based on intuition and perception. They tend to be quick and are mostly subconscious, and hence, involuntary. System 1 works on emotions, feelings, and impressions generated on human minds for certain associations. This is why we react to particular things in a particular way and it varies from person to person.
+System 2 (slow)
+This system leads to decisions that are rule-driven and analytical. It’s more on the rational side where the mind tries to make sense of the situation and then act upon it. In a way, system 2 seeks justification before decision-making.
+Before you think this is some article on psychiatry, hold on. Let’s make marketing sense out of the two systems or data sets. It’s the birthday of your loved one and you want to buy a perfume. You go to the store, smell a range, and pick the one which smells the best (ie. feels nicest to your olfactory sense). That is system 1 data, and primarily for B2Cs. Now, imagine when a C-suite leader wants to buy DAM software. That is system 2 data, and yes, essentially B2B. But, it’s not a hard and fast thing as system 1 plays almost 90% role in purchase decisions and brand affinity. No wonder that ads with absolute emotional content perform 2X better than ones with rational content.
+The Tech behind Emotion Analytics
+Remote panels in real-time are used to measure the nuances of breathing, heart rate, eye movements, and micro-expressions which are primary indicators of human emotions.
+That brings us to a modern tech – ‘affective computing’.
+“Affective computing (sometimes called artificial emotional intelligence or emotion AI) is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects.”
+The potential that affective computing holds is immense and it is going to be the answer to delivering CX that strikes an emotional chord with customers. R&D in this field is growing manifold, with companies seeking to decode facial expressions, analyze speech, recognize gestures, track eye movement, and electro-dermal analysis (measurement of change in skin conductance) among others. These technologies enable the sensing of both latent and expressed emotions which the experiences delivered by brands would provoke.
+Emotion AI and the Power of Analytics in CX
+Tech companies providing emotional analytics are not abundant but there’s much scope. The likes of Sensum, Affectiva, and Realeyes convert system 1 data into the relevant emotional metrics.
+Affectiva helps developers leverage its emotion APIs and SDKs to create mobile apps incorporated with emotional responses. Sensum develops emotion AI solutions that measure, comprehend and respond to human behavior, physiology, and emotions. Realeyes unlocks machine learning and computer vision to measure the feelings of people when they view video content. mPath, an MIT Media Lab-based startup offers a product, ‘MOXO sensor’,  that leverages electro-dermal analysis. Then there’s Lightwave.io which offers visualization of emotion-based data such as facial coding and heart rate.
+Brands that are or will look to make hay via affective computing need to be careful of one crucial aspect of this technology. They need to enable robust privacy for emotion-based data. With deep learning slated to soar to newer heights, affective computing is going to be the mainstay for brands to deliver efficient, personalized and emotionally-striking CX.
+Time for B2Bs to Embrace Emotional Metrics
+As stated above, system 2 generally leads to B2B buying decisions. However, it’s unreasonable to state that those decisions are always backed by logic. Yet, for CMOs and B2B marketers, it’s imperative to clearly exhibit the benefits, USPs, value-add, and established results to prospects. Without these facets, no emotions or feelings can ever seal a B2B deal. B2B buyers are about 50% likelier to purchase a service or products on grounds of personal value-add. In B2B, it’s not about ‘what’ you do; it’s about ‘why’ you do it. Thus, the emotional hook for B2Bs is ‘trust’.
+For long, B2B ‘branding’ has been limited largely to sales support and awareness drives. That is no longer the case today. The risk of poor decisions, complex transactions, and customer relation sophistication lead to a B2B ecosystem where branding is almost as elemental as it is for B2Cs. Forrester tells us that brand equity is now considered an important metric by 15% of B2B executives.
+B2Bs Who are Riding the Emotions
+Cisco
+The company that deals with intelligent networking solutions such as IoT sensors came up with this humorous video to express thought leadership on a funny note – Internet of Everything.
+Check this cool video about a cat drinking milk, and how that relates to emotions and IoT –
+Slack
+When Slack arrived in 2009, it entered a very competitive space. The team collaboration software provider knit together messages and content with a focus on the passion of its very target audience – collaboration. Slack showcases what great team collaboration can achieve be it NASA scientists or physicists in the South Pole or a group of social workers. The idea is to inspire passion towards teamwork. Worked and how? Slack, as per September 2017, ticked 6 million MAU.
+Juniper Networks
+Gamification is now integral to B2B martech and Juniper Networks didn’t waste much time to hop on to the gamification train with the launch of Deception Force, an online game. The emotion here is ‘interest’.
+Buffer
+Buffer evokes a feeling of transparency and trust along with joy as it invites customers to see what it does. Through its open blog, it showcases its productive and happy work culture. It instills positive feelings in its customers. High NPS numbers are a given when that happens.
+Squarespace
+Brand endorsements by celebrities also lead to strong emotions or feelings. Trust, acceptance, and admiration are some of the emotions that celebrity endorsement can bring forward. In January this year, Squarespace, a SaaS-based content management platform, and website builder broke many B2B shackles when it signed up Keanu Reeves. Brand ambassador or influencer, call it what you please. Neo, the Matrix’s protagonist evokes positive emotions!
+Here’s ‘Make it With Keanu Reeves’ –
+Until Eternity, Emotions Shall Prevail
+Sans doubt about the impact of the perpetual proliferation of intelligent machines on the human-way of marketing, emotional metrics, and analytics could prove to be “Gold Dust”. Emotional AI may peak exponentially with time and, based on the interest that brands show on improving their CX, emotional AI may become the core technology for all marketing engagements. We are yet to see which technology providers provide the right emotional metrics and attribute them to right emotion data.
+Most certainly, AI-driven marketing technologies are ahead of the curve and shall play a lead role in emotion-data measurement and analysis. The capabilities are endless and not limited to voice or facial recognition but extend to relating them to actions taken. And, marketers shall continue to keep faith in metrics such as NPS. They’re not going anywhere soon either.
+
+

@@ -1,0 +1,60 @@
+Why an “Empty Desire” for Big Data is Inhibiting Value-Based Care
+
+April 20, 2017
+
+By Jennifer Bresnick
+April 20, 2017 - For the most part, the healthcare industry has embraced the idea that access to big data is a critical part of doing business in the modern care environment.  But there’s a major difference between having big data and leveraging it effectively for cutting costs and improving quality.
+The chasm is growing between organizations that simply have access to data and those who know how to use it well, argues Shahid Shah, Entrepreneur-in-Residence at the AHIP Innovation Lab, and the resulting imbalance of information is making it difficult for payers and providers to truly make the leap into value-based care.
+Shahid Shah, Entrepreneur-in-Residence at the AHIP Innovation Lab and CEO of Netspective Communications
+Source: Xtelligent Media
+If provider organizations and their payer partners wish to bridge those gaps and prepare for a financial environment that prioritizes better outcomes, they will need to completely overhaul their approach to developing quality metrics, designing their health IT environments, and quantifying their data-driven relationships.
+The process must start with taking a closer look at what payers really want or need when they talk about sharing information.
+“Payers have an empty desire for data,” Shah told HealthITAnalytics.com at the HL7 FHIR Value-Based Care Summit in Chicago. 
+READ MORE: The Top 3 Planning Pain Points in Healthcare Big Data Analytics
+“It's empty because it's not in contracts yet. They haven’t reached the level of sophistication where they can accept data from providers and do something meaningful with it. If providers actually started giving them data, they wouldn't know what to do with it, because they don't have the systems in place.”
+While there are still some technical challenges that make data aggregation and analytics a problematic proposition, the bigger issues are cultural, organizational, and legal.
+“The infrastructure isn’t the main obstacle,” explained Shah, who is also Co-Founder and CEO of Netspective Communications.  “Developers will always try to solve whatever problems you throw at them, even if it takes a while.  There is nothing that a developer won’t eventually be able to do.”
+“Data blocking and the inability to share data really happen because we haven’t created the demand ecosystem for interoperability. The fundamental flaw of our so-called desire for interoperability is that we haven’t reduced it to a transaction that can be measured and monitored in legal terms.”
+The current generation of value-based care contracts simply don’t contain the necessary language to establish clear parameters for effective data sharing, he stated. 
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+“They just don’t deal with data,” he said.  “There aren’t clauses that say things like, ‘I want you to send me this amount of data on this number of your patients over this period of time using this particular standard so that I can calculate these ten measures using such-and-such as the denominator, et cetera.’”
+“Instead, payers ask for raw data so that they can compute the measures on their own, but that can lead to conflicts with providers and confusion over payments.  We need a better way to share data – and better data to share – if we’re going to make value-based care work.”
+PRIORITIZING OUTCOMES INSTEAD OF PROCESSES
+The lack of clarity is complicated by the fact that payers and providers tend to disagree over the weight that should be given to process measures versus outcomes measures.
+Process measures, which are designed to ascertain whether a given action was completed or not, have long been the foundation of quality measurement in the healthcare industry. 
+Meaningful use relied heavily on process measures, Shah pointed out, which he calls “a big mistake.”
+READ MORE: As FHIR Matures, Healthcare Interoperability Comes into Focus
+“A process measure is almost trivial,” he said.  “They’re typically yes or no questions, and they don’t give you very much insight into what actually happened.”
+“As a payer looking to do value-based reimbursements, I’m not going to be that interested in whether or not a provider called a patient.  Dialing the phone isn’t the important part.  I need to know the outcome of that call.  Did the patient even pick up?  Did he understand the information you gave him?  What action will be taken as a result of the conversation, and how will that contribute to some sort of improvement of his health?”
+Instead of burdening providers with copious reporting on whether or not they have completed routine tasks, payers should focus on architecting outcomes measures that are more strongly correlated with improvements to patient health.
+“The ability to move a lab value from X to Y is an outcomes measure,” Shah explained.  “A value-based care contract shouldn’t say ‘you need to test your diabetic patients’ A1C every two months.’ Instead, it should say ‘you need to keep these patients’ A1C values under this certain number for one year, and if you do that, you get this financial reward.’”
+“It doesn’t matter how the provider does it.  They could use a mobile app or they could call every one of those patients every day to remind them to check their blood sugar.  I don’t really care.  All I need from the provider is proof that they have achieved the outcomes they said they achieved.  Give me the FHIR resource for the lab records and guarantee that the results came from a certified lab, and that is all the reporting I need.”
+An outcomes-based reporting process is at the heart of value-based care, he added, and until providers and payers can work out the kinks in their contracting, “pay-for-performance” will remain just another hollow buzzword.
+“How can we call this a value-based world if we haven’t even defined what ‘value’ means?” Shah asked.  “If we don’t come to an agreement on that, and put it in our contracts in a way that makes sense, then we’ll keep talking in circles, because what you say is ‘value’ and what I say is ‘value’ are very different.”
+“And until those sorts of arrangements become more common, payers are still going to be living with those empty desires for data, because it’s not going to be meaningful for them to have it.”
+RIGHTING THE WRONGS OF INFORMATION ASYMMETRY
+A quality measure makeover is the only the first step towards value-based care, Shah says.  Solving the pervasive issue of data inequality is next.
+"In the payer-provider, pharma-payer, or patient-provider relationship, there will always be some people who have more data than others," he explained. "When you have data inequalities, the party in power can charge more money for the things the other players don't know."
+“Sometimes the data imbalance crushes providers, because they don’t have the breadth of data they need for value-based care.  On the other side, because providers have depth of data, it crushes the payers because they have no way to understand the value in it.”
+Unequal data access, intentional or otherwise, can erode the trust required for successful value-based care relationships and leave stakeholders feeling that the fee-for-service world is a safer financial bet.
+But providers will be unable to escape their dreaded administrative and reporting burdens if they stick with the traditional way of interacting with payers, Shah warned.
+“The overkill reporting in the fee-for-service world is typically because there’s no trust,” he said. 
+“When a provider sends a claim to a payer, they need to jump through all of these hoops – documenting things in a certain way and coding them in a certain way – because the payer either doesn’t trust that the provider did the right thing or doesn’t believe that the thing they did was necessary.”
+As value-based care drives the focus towards longer-term wellness for patients, payers won’t have to needle providers about medical necessity as often. 
+The proof will be embedded in the outcomes measures, and the financial imperative for becoming more efficient and fine-tuning the rate of service utilization will shift back towards physicians and hospitals.
+AVOIDING HEALTH IT PROCUREMENT MISTAKES THAT LIMIT THE UTILITY OF BIG DATA
+For providers to succeed in an outcomes-based environment, they will need to invest in the health IT tools that enable population health management, risk stratification, and care coordination. 
+And they must do so without falling into the most common trap of the procurement process: insufficient vetting of potential systems.
+“This is where we do run into some technical roadblocks with interoperability,” said Shah.  “This is where organizations need to do a lot more work before they sign on the dotted line, otherwise they’re limiting themselves to being on the wrong side of the information asymmetry equation.”
+The interview process for a new health IT tool should be at least as robust as the conversations that happen before hiring a clinician, he said.
+“Every doctor has gone through significant training and testing.  Every doctor has to be credentialed separately anywhere he wants to practice,” he asserted.  “This person is going to be managing patients in your environment, and you want to make sure that they can do what they say they can do, that they will provide safe care to your patients, and that they will not be impaired in any way from doing so.”
+“Now think about how we buy systems.  The systems touch more patients than any one doctor ever will, but how many organizations go through anywhere near the same process for certifying the technology they’re buying?”
+Testing the communication skills of a health IT package is just as important as making sure that staff members can work well with their peers, Shah insisted.
+“You would never hire two doctors who said, ‘We are never, ever going to talk to each other under any circumstances.  You need to hire a third person to facilitate communication between us.’  That would be ridiculous.  But that’s what we do with our technology systems.”
+The world of value-based care will not be kind to organizations that fail to equip themselves with the right infrastructure, Shah said. 
+As a proponent of FHIR, he advises providers to start looking into applications that take advantage of the data standard’s growing popularity among health IT developers.
+"FHIR can be a way to reduce information asymmetry,” he said.  “Right now, there may not be a standard by which we can determine in advance whether all an organization’s systems will work together or not, but there’s a better chance that they will if everyone starts adopting the API approach.”
+“It’s a very, very hard puzzle that we’re going to have to work through, but it’s essential that we start that process if we want to start making progress turning those half-hearted desires for big data into something that is going to move healthcare forward in a tangible way.” 
+Tagged Analytics InfrastructureClinical Quality MeasuresFHIRHealthcare PayersInterviewsValue Based CareValue Based Reimbursement
+
+

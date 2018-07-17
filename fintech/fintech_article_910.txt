@@ -1,0 +1,71 @@
+Insurance on the cusp of big change?
+
+March 14, 2017
+
+The insurance industry is often seen as an ”Old Boys Club”, a conservative sector characterised by inertia. However, a rapid large-scale change seems to be imminent.
+
+ Lemonade – the insurtech company powered by artificial intelligence and behavioral economics, set a world record for the speed and ease of paying a claim (in 3 seconds and with zero paperwork). This leaves traditional insurers feeling the squeeze as the sour taste of failure to innovate gives them a double shot of incentive to do so.
+
+ WHEN LIFE GIVES LEMONADE…
+
+ At seven seconds past 5:47pm on December 23, 2016, Brandon Pham, a Lemonade customer, hit ‘Submit’ on a claim for a $979 Canada Goose Langford Parka. By ten seconds past the minute, A.I. Jim, Lemonade’s claims bot, had reviewed the claim, cross-referenced it with the policy, ran 18 anti-fraud algorithms on it, approved the claim, sent wiring instructions to the bank, and informed Brandon the claim was closed. Normally insurance companies are bound to payout in 30-45 days.
+
+ INCREDIBLE GROWTH
+
+ What the Lemonade’s ‘3 seconds’ case proves is that a./ it’s technically doable, and b./ modern consumers are right to expect this level of service. “I try to avoid making claims but the process with Lemonade was so simple. I signed an honesty pledge, answered a few questions, and Lemonade reimbursed me in a matter of seconds!” said Brandon Pharm, Lemonade’s client whose claim set the record. This demonstrates what financial and insurance industries need to succeed – a technology-driven product, and consumer focused buying (post-buying) experience.
+
+ (It also raises the question of how much of the slow motion claims process for most insurers is actually deliberately frictioned, in terms of timescale and claimants experience. Where’s the incentive to payout faster, to make it easier for people to claim? How much money is currently ‘held’ which will ultimately be paid out? And what would happen to the financial models of the companies involved if this vast stockpile were released? Perhaps this is one of the reasons why disruptive startup insurtechs can outperform competitors by paying out in seconds rather than months and giving the claimant an easy ride rather than an obstacle strewn one.) At a time, there are limited technologyenabled options for the traditional insurance market. However, the InsurTech industry is growing at an incredible rate (with almost 4bn invested globally, according to CB Insights analytics).
+
+ In 2015, investment in InsurTech startups was over three times higher than that in 2014, and continues to grow. The increase in financing and M&A activity in the InsurTech marketplace will have a major impact on the existing players in the insurance sector. “InsurTech is a necessary step for insurers and brokers to expand and grow their presence in the market. 48% of insurers believe that they will lose 20% of their business due to InsurTech in the next five years. InsurTech should begin to be adopted or at least considered by insurers and brokers that have yet to discover the benefits of using it,” Simon Gilbert, Founder and Managing Director at Elmore Insurance Brokers believes. He also notes, that “a lot is changing in how users of insurance products are utilising digital engagement to streamline the transaction. As these interactions evolve and develop into accepted models, the ability for insurers to better value risk should result in improved benefits”.
+
+ DIGITAL INSURANCE
+
+ Researchers, authors and bloggers consider different InsurTech trends and aim to plot a likely future, navigating the following:
+
+ • Cost savings in claims, operations and customer acquisition;
+
+ • Customised insurance development;
+
+ • Advanced analytics based on machine learning and artificial intelligence;
+
+ • Personal data protection and cyber security;
+
+ • Platforms and marketplaces connecting insurers with customers;
+
+ • Open architecture structure (open API);
+
+ • Financial advice automation (roboadvice);
+
+ • Deep learning of blockchain technology potential as well as other technologies (e.g. VR and AR) and how it can be used in the insurance industry;
+
+ • Incumbents collaborating with insurtechs.
+
+ “In our vision of the future, we see insurance becoming a customer-centric proposition whereby insurers proactively provide tailored end-to-end protection to their customers,” mentioned the recent PA Consulting Group’s research “The Future Role of Insurance – 2018 Vision”. The company’s researchers believe that, “advanced telematics will provide richer insights, such as contextual information in real time to understand driver behaviour. Wearable devices will enable proactive intervention with medical treatments, recommended physical exercises and overall protection. Building sensors will enable proactive intervention in the event of flooding and subsidence. Finally, new propositions will be provided via collaborative platforms to fulfil financial needs at different life stages such as pregnancy and retirement.”
+
+ We can see many key players (insurers, reinsurers, and brokers) taking steps to embrace innovation, including but not limited to:
+
+ • Munich Re and AXA cooperation with insurtech TROV;
+
+ • Hannover Re US and startup Ladder’s joint initiative called ReFlex (automated underwriting platform);
+
+ • In-house accelerator launched by Allianz (Allianz X) and disruptive innovation centre built by MetLife (LumenLab) to support promising start-ups;
+
+ • Joint insurers’ efforts within B3i initiative (launched by AEGON, Allianz, Munich Re, Swiss Re and Zurich, including more than 15 members) to explore the potential of blockchain technology.
+
+ • All of the above initiatives have officially proclaimed the aim to boost the growth of innovation through their effective implementation in the insurance sector.
+
+ The question is: will those steps result in the rapid large-scale change insurance industry needs or, as the sceptics believe, are these activities no more than just another declaration of the inefficiency of the heavy-footed industry?
+
+ A CHANCE TO REVOLUTIONISE
+
+ Last month a global startup (Everledger) that uses blockchain, smart contracts and machine vision to help to reduce risk and fraud for banks, insurers and open marketplaces won an Annual Global Innovation Business Contest organised by NTT DATA in London. “This win emphasised the excitement around blockchain and its potential as a technology for different industries, including insurance,” said Bob Riddler, Vice President at NTT Data UK. According to Ranvir Saggu, the co-founder at Blocksure, blockchain will impact insurance in the same way that mobile technology and the internet revolutionised retail. “Compare 2017 to 1980, we can now call home and ask which brand of noodles is required, look at product reviews whilst in store, send pictures to our friends via a social app to seek acceptance for a purchase right at the point of sale!” Ranvir Saggu also emphasises that only a small minority currently knows about blockchain; fewer understand how it will affect their industry; and even fewer understand how it can be applied. “We see the development of the technology falling into four stages: “Discovery” (the current phase where companies and engineers understand what it can do and achieve); “Adoption” (stage where companies will take it mainstream); “Challenge the norm” (there could be major challenges to how things currently work especially around geographic boundaries and regulation); “New world” (new era of insurance). Part of the “Challenge the norm” and “New world” will be influenced by successful InsurTech businesses from other areas such as the connected world, AI, machine learning integrating with blockchain. These new technologies will drive the production of much more data than we have ever seen before. Participants will want this data distributed quickly, efficiently, and stored cheaply. Blockchain will be the central “railway infrastructure” that will connect everyone. It will need to be integrated with the exciting new applications for the insurance industry to reap the full benefits. Once this has been achieved, the payback will be huge,” he concludes.
+
+ Blockchain offers a great potential to decrease the costs and time to process insurance transactions to create new policies or to pay claims, Gary Nuttall, Managing Director at Distlytics Ltd., says. “It also allows the creation of new products and services. Cost reduction, efficiency gains and new product development is highly attractive to existing insurers and to new entrants. It’s likely therefore that blockchain will support innovative organisations whilst disrupting those who’re unable to adapt and adopt the new technology.” Overwhelmingly, blockchain could strengthen the traditional insurance industry.
+
+ “The incumbents could have faster, more efficient ways to reconcile claims. It would reduce the overheads and could compete with competitors on faster response for customers. Smart contracts would have the highest impact on streamlining, it allows decisions to be made faster, without human interventions (and biases),” Anish Mohammed, Advisor at Ripple labs, concludes.
+
+ Kate Goldfinch,
+
+ editor of The Fintech Times
+
+

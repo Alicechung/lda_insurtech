@@ -1,0 +1,27 @@
+FDA: Interoperability a Core Requirement for Precision Medicine
+
+April 22, 2016
+
+By Jennifer Bresnick
+April 22, 2016 - CMS and the ONC aren’t the only federal organizations putting health data interoperability at the top of their to-do lists.  As the FDA starts tackling its portion of the national Precision Medicine Initiative, officials are urging healthcare stakeholders to make data liquidity, connectivity, and interoperability a top priority.
+Developing a seamless and standards-based big data environment for medical researchers will be key to unlocking new clinical discoveries, testing and validating precision medicine breakthroughs, formulating new care guidelines, and furthering the use of evidence-based medicine, state FDA leaders Rachel E. Sherman, MD, MPH, and Robert M. Califf, MD, in a blog post.
+Sherman is the FDA Associate Deputy Commissioner for Medical Products and Tobacco, while Califf is Commissioner of the US Food and Drug Administration.
+“Across the clinical research enterprise, there is a growing awareness of serious shortfalls in the current paradigm of generating the scientific evidence that supports medical product evaluation and clinical care decisions and the need to modernize methods and expectations surrounding this evidence base,” they wrote.
+While there is a general consensus among clinicians and researchers that adherence to treatment plans rooted in evidence-based medicine can improve patient outcomes, many commonly accepted guidelines are not based on high quality evidence, the authors continued.
+READ MORE: UVA Gene Mutation Research Method Speeds Precision Medicine
+However, with the advent of precision medicine and a growing reliance on big data analytics, genomics, and population-level data, “there is reason to believe that we’ve arrived at a tipping point where previously separate, ‘siloed’ efforts can be linked to create a national system for evidence generation.”
+But achieving a meaningful level of interoperability is no easy task, as the healthcare industry has repeatedly seen.  EHR vendors have been repeatedly scolded for a lack of progress on the data sharing front, and disappointed customers are not very willing to be soothed by pledges, frameworks, or even demonstrations that purport to show that interoperability is indeed on its way.
+Developers are just starting to agree on the data standards, like FHIR, which may eventually break down stubborn barriers to health information exchange.  Yet the demand for technologies that allow uninhibited data sharing is outpacing the rate at which vendors can supply new products.
+Instead of waiting for the industry’s health IT suppliers to tumble over that tipping point, some cutting-edge organizations are taking the problem of precision medicine into their own hands.  By building proprietary biobanks, data lakes, and repositories that have the capability to ingest big data and deliver actionable insights without having to wait on the maturity of external forces, some providers and institutions are trying to bring advanced, evidence-based medicine into everyday practice right now.
+Some large health systems like Kaiser Permanente are trying to leverage the EHR and genetic data of the millions of patients already in their integrated systems.  Kaiser Permanente’s Research Bank hopes to collect half a million patient samples, which will be linked to certain elements of EHR data – a project that will rival the one million participant goal of the PMI Cohort.
+READ MORE: Pancreatic Cancer is Target of New Precision Medicine Grants
+Those individual efforts are important learning opportunities, but the FDA hopes that the nation will work collaboratively to build the standards-based “scaffolding” that will encourage extremely large-scale data collection, such as is required for the PMI Cohort project.
+“Evidence is derived from high-quality data that often originates from many different sources or settings,” Califf and Sherman said. “We can create an interconnected environment that leverages all the available data to provide answers to important public health questions.”
+“A defining characteristic of such a network is the ability to leverage all available data for different tasks as needed, allowing the network to integrate complex relationships between data input and output. Coupled with interoperable standards, a national system for evidence generation based on these principles will be capable of generating very large quantities of data and enabling those data to flow among system components.”
+With a comprehensive system of data standards in place, the healthcare system as a whole will be able to move away from convoluted questions of data management and towards the promise of generating actionable insights, the authors added.
+“Patients, consumers, professional groups, payers, the medical products industry, and health systems all stand to benefit from potential gains in efficiency and reductions in cost that would accompany standardized approaches to data collection, curation, and sharing, once up-front investments are absorbed.”
+READ MORE: Henry Ford to Apply Data Analytics to Pancreatic Cancer with $20M Gift
+“The result? Researchers will be able to distill the data into actionable evidence that can ultimately guide clinical, regulatory, and personal decision-making about health and health care.”
+Tagged Clinical AnalyticsEHR InteroperabilityMedical ResearchPrecision Medicine
+
+

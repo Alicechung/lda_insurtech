@@ -1,0 +1,22 @@
+CES 2018: Smartvue IoT Platform Removes Challenges Of Enabling IoT Video
+
+17 Jan 2018
+
+New Version To Speed Time To Market For Any Size Business To Launch Secure And Globally Scalable Video Services From Residential And Industrial To Smart City
+Smartvue, the largest private IoT video services provider, unveiled at CES 2018 its newest IoT video services platform, Cloudvue version 12.2.2. Businesses are investing in IoT across all markets and video offers new revenue opportunities from residential and commercial to industrial and smart city markets. The key challenges preventing IoT video adoption are speed to market, security, and cost at scale. Smartvue’s newest Cloudvue IoT video platform helps customers get from idea to successful, revenue-generating, IoT video deployment quickly.
+Martin Renkis
+“In 1999 Smartvue won the Best of Show award at CES and today we upload more video than YouTube every 24 hours,” said Martin Renkis, Founder and CEO of Smartvue Corporation. “From 20 years of experience in network video we have learned from tens of thousands of successful customer applications what is required to deliver secure video at scale and Cloudvue v12.2.2 delivers best in class video technologies from embedded to cloud to mobile.”
+David Friedman
+“Smartvue exponentially speeds time to market for IoT video services,” said David Friedman, CEO and Co-Founder of Ayla Networks. “The Cloudvue platform with its robust API, SDK, and integrated billing system empowers device manufacturers to create new revenue generating IoT services.”
+The latest version of Cloudvue is the first IoT video services platform to offer:
+Commandvue video device and services management portal which enables monitoring, management, and support of millions of video powered devices including OTA updates and user services management, all from one interface.
+Cloudvue Embedded device software supports fast integration with almost any device, even with
+limited resources.
+ Cloudvue supports expanded delivery of video services to 140 countries worldwide.
+Smartvue embedded servers support thousands of camera models from dozens of the leading
+world’s camera manufacturers.
+ Stripe integration enables fast to integrate and elegant to use billing systems for video services.
+Cloudvue API opens hundreds of video service calls for any type of cloud integration including
+video analytics, machine learning, and artificial intelligence applications.
+
+

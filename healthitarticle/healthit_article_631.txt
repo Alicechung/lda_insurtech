@@ -1,0 +1,49 @@
+Epic, Cerner Get Middling Marks on Population Health Management
+
+January 03, 2017
+
+By Jennifer Bresnick
+January 03, 2017 - Despite their dominance in the electronic health record market, providers seeking for comprehensive population health management solutions may not get the best bargain out of an Epic Systems or Cerner Corporation product, according to a new report from KLAS.
+Neither vendor scored top marks in any of the categories included in the report for fully-validated vendors, such as ease of module integration, vendor adaptability, and the number of data feeds utilized to generate population health insights. 
+Instead, they ranked behind companies including Enli, Philips Wellcentive, i2i Population Health, and IBM Watson Health in a number of key areas.
+The new vendor performance report asserts that healthcare providers are now ready to dive into population health management after a period of experimentation with value-based contracting.
+“Providers knew that value-based care was inevitable,” states lead author Bradley Hunter, KLAS research director.
+READ MORE: Which Population Health Companies Get Top Marks for Value?
+“To prepare, they practiced on their employees, took on a few payer contracts, and selectively implemented a few tools. Now, having gotten their balance, many are taking of the training wheels and taking on more risk. But are PHM vendors ready as well?”
+The answer appears to depend on what each individual customer expects from a population health solution. 
+Due to the highly variable nature of health data and the unique needs of providers starting from different points along the data analytics journey, no one vendor is capable of delivering every feature to every type of organization, the report acknowledges.
+“The world of population health is so vast that there is no one vendor that does it all for providers,” Hunter said. “Depending on the needs of the provider, there are various solutions that will meet their needs. We focused on a few key roles that are using PHM solutions for this report based on feedback from providers.”
+Providers that expect fully tailored and all-inclusive service from an off-the-shelf product without some optimization effort are likely to be disappointed, so understanding the organization’s goals, challenges, and technical requirements before making a selection will be critical for choosing the best possible product.
+READ MORE: New Epic Systems EHR, Big Data Features Zero In on Interoperability
+For example, an organization looking to focus on using internal EHR data for population health analytics may choose an offering from Enli, i2i, Allscripts, or Verscend, all of which ranked highly for their ability to establish and maintain data feeds from a smaller number of EHRs. 
+According to KLAS, providers partnering with these vendors are likely to find it easy to implement population health tools utilizing fewer than four different data sources.
+Meanwhile, a larger health system, accountable care organization, or multi-stakeholder community group with multiple EHR products to integrate may wish to choose a vendor that specializes in data aggregation, such as Valence Health, Arcadia Healthcare, or Philips Wellcentive. 
+Prospective customers may find it somewhat more difficult to stand up systems from these vendors, since the integration of a larger number of disparate data streams is, by necessity, a more complex proposition.
+But they may also find commensurate rewards for doing so.
+READ MORE: Epic Systems, Cerner Remain Leading Population Health Companies
+“A decision is only as good as the data it is based on, and providers say the best data comes from combining a variety of sources,” Hunter writes. 
+Organizations that are able to mine innovative data sources, including public health information, socioeconomic data, and alerts from other local providers, may have an edge over those without the capability to make decisions based on a patient’s accurate, timely, and complete longitudinal health record.
+All of the sampled population health management vendors have already well established the capability to turn EHR feeds into basic insights, and the majority of the 278 customers participating in the report have started to use this information to improve patient outcomes.
+Fewer customers are engaging in what might be considered true big data analytics, or the synthesis of multiple, disparate data sources to produce unique results. 
+In this respect, Epic and Cerner are more or less level with their competitors, providing validated data feeds from the EHR, payer claims, and PA/PM claims for at least a third of their customers.
+“Among fully rated PHM vendors, athenahealth, Optum, and Philips Wellcentve have the highest percentage of customers merging both clinical data from EMRs and claims data from payers,” the report says.
+“Cerner customers commonly aggregate from payers and non-Cerner EMRs. Epic users are in the early stages of doing both. Claims data is a universal challenge, even for payer experts Advisory Board and Verscend (previously Verisk).”
+None of the vendors sampled in the report have more than a third of their customers integrating feeds from data warehouses, and only Philips Wellcentive can boast that between 33 and 65 percent of its consumer base is using HIE data for actionable decision-making.
+Among vendors known primarily for their EHR solutions, Epic topped the charts for the ease of data integration, says KLAS – but with a few caveats.
+“Perceptions of aggregation are unique in Epic environments,” Hunter points out.  “Since most Healthy Planet functionality runs on top of the EMR, some customers define data feeds in the light of general interoperability, such as the ability to draw patient records ad hoc from a local HIE, rather than as consistently updated data streams.”
+“Others refer to work they are doing with Epic’s data warehouse and say they are in the early stages of integrating external information, including claims from payers.”
+Customers acknowledged that working with Epic has included some “growing pains,” but that the vendor has made progress with solidifying its vision and creating a roadmap for its customers.
+Cerner garnered similar praise from its adherents, who stated that the vendor’s HealtheIntent platform is easily integrated into Cerner’s EHR line.
+Approximately half of Cerner customers are pulling data from an average of three non-Cerner EHRs, while more than two-thirds receive claims data from an average of four payers each.
+Both companies achieved high marks for vendor flexibility when adapting to the evolving needs of their customer bases, falling above the market average among fully-rated vendors.  This flexibility has firmly anchored the competitors as part of organizations’ long-term population health management plans, as well.
+athenahealth also received special mention in the report as EHR providers with admirable population health management skills.  Organizations using athenahealth can rely on the vendor to do much of the heavy lifting for them when it comes to data integration, customers said, especially with complex and often messy claims data.
+None of these EHR companies achieved top marks from their primary end-users, however.  Epic and Cerner came third and fourth, respectively, on usability rankings from care managers, program administrators, and clinicians at the point of care.  athenahealth came in 9th out of 13 companies in this metric.
+Enli and i2i scooped up first and second place, while Philips Wellcentive and IBM Watson rounded out the top five. 
+Vendors that fell in the middle of the pack should work on providing tangible workflow benefits to their customers, the report indicates, while enhancing their ability to help larger organizations deliver complex, coordinated care to patients.
+While every vendor included in the report has room for improvement, especially as the value-based care ecosystem continues to evolve, the survey shows that health IT companies are working to remain nimble, responsible, and adaptable to this quickly changing environment.
+Healthcare organizations searching for a population health management solution are advised to start the process by developing an individualized roadmap for success, which includes a thorough assessment of existing data assets, budgetary restraints, quality measurement goals, and workflow requirements in order to help them choose a health IT vendor partner that best meets their unique needs and long-term goals.
+Using Risk Scores, Stratification for Population Health Management
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Analytics InfrastructureCare CoordinationCernerEHR IntegrationEpic SystemsPopulation Health Management
+
+

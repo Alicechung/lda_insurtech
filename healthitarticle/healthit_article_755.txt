@@ -1,0 +1,37 @@
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+
+September 22, 2016
+
+By Jennifer Bresnick
+September 22, 2016 - Big data analytics tools are helping researchers at the Pennsylvania Patient Safety Authority (PSA) unearth patient safety patterns hidden within 2.5 million reports on medical errors and near-miss events.
+The PSA found that male and female patients face certain patient safety issues at different rates, although the data does not reveal why adverse events are more likely to occur in one gender over another.  Female patients are more likely to experience adverse drug reactions, while more male patients faced skin integrity errors, such as cuts and abrasions.
+These adverse reactions frequently include skin rashes, blistering, or hives, changes in mental state, hypotension, and hematologic problems.
+Female patients are also slightly more likely to experience medication errors and complications or errors related to a procedure, treatment or test, while male patients undergo more falls and are somewhat more likely to have trouble with medical equipment or devices.
+The data, routinely collected from more than 1200 healthcare providers in Pennsylvania, is held in the nation’s largest patient safety databank, which has been in development since 2003. 
+READ MORE: EHR Analytics Track C. Diff Patients to Flag Infection Trends
+The PSA receives a quarter of a million reports each year, the organization says.
+For the past decade, researchers and patient safety liaisons have used the PSA Patient Safety Reporting System to develop custom reports that help providers improve care quality across the state.  A single data analyst was responsible for architecting custom reports for each unique query,
+In 2015, the PSA implemented new data analytics infrastructure provided by SAS, which provides data visualization capabilities and makes it easier to query the new PSA Visual Analytics Reporting System (PSA VA).  Users without a background in complex data science can now develop their own web-based reports and share their templates with approved staff members for further use.
+Earlier this year, the PSA noted that standardizing its patient safety reporting procedures has helped to produce more accurate big data for recording and reporting instances of patient harm.  Each individual patient report contains more than 200 data and text fields to detail serous events and near-miss errors.
+While implementing 28 new guiding principles to standardize data collection and reporting, PSA authorities also refined and expanded the range of event types and subtypes available to help improve the granularity and accuracy of the available data.
+READ MORE: 751 Orgs Get Medicare Penalties for Hospital Acquired Conditions
+“It is one thing to develop one of the nation’s largest and best-known statewide patient safety databases. It’s quite another to turn that data into lifesaving information,” said Howard Newstadt, PSA Finance Director and Chief Information Officer. “The effect of this project has been transformational.”
+The PSA VA project is currently a finalist for the National Association of State Chief Information Officers (NASCIO) State IT Recognition Awards.
+Efforts like these, driven by big data analytics and standardized reporting procedures, may be instrumental in continuing the rapid decline of preventable patient safety events.  Hospital-acquired conditions, including adverse drug reactions and certain infections, have dropped by 17 percent since 2010.
+Data from the Agency for Healthcare Quality and Research found that patients experienced approximately 2.1 million fewer incidents of harm between 2011 and 2014 than they would have if 2010 levels had held steady over the following four years.
+Savings from these improvements have totaled nearly $20 billion, with $7.8 billion in spending reductions in 2014 alone.
+READ MORE: HHS: Patient Safety Efforts Save 125K Lives, $28B in Spending
+A 2014 study by researchers from the PSA and Carnegie Mellon University indicates even greater gains, attributing a 27 percent decline in patient safety events to the use of advanced electronic health records and other health IT tools. 
+That figure includes a 30 percent reduction in medication and dosing errors and a 25 percent decrease in adverse events due to complications from treatments or procedures.  The researchers attributed the gains to the increased use of technologies such as computerized provider order entry (CPOE), which can reduce opportunities for transcription errors, misplaced paper orders, and other miscommunications between departments.
+One of the first reports from the new PSA VA system showed a 45 percent decrease in “high harm” events between 2005 and 2014, Newstadt added.
+“This outcome supports the work of PSA and the intent of the MCARE Act,” he said, referring to the Medical Care Availability and Reduction of Error Act of 2002 that established the PSA.
+“It also suggests a positive effect on people’s lives, alleviating suffering and in fact preventing death,” he continued. “The monetary savings alone associated with this decline are measured in tens of millions of dollars, if not more.”
+If these trends continue, and hospitals spend more time focusing on patient safety and care quality improvements, the healthcare system could see a 50 percent drop in avoidable deaths from medical errors, says the Leapfrog Group.
+Patient safety improvements are also likely to save hospitals money while they save lives.  More than one in five hospitals saw their Medicare reimbursements cut by one percent for Fiscal Year 2016 under the CMS HAC Reduction Program.
+And according to a newly proposed CMS rule, hospitals will need to invest in patient safety programs to reduce hospital-acquired infections if they wish to continue to be eligible to receive Medicare and Medicaid reimbursements at all.
+“Already, efforts to reduce healthcare-associated infections have resulted in reducing health care costs by nearly $20 billion and saving 87,000 lives,” said Kate Goodrich, MD, MHS, Director of the Center for Clinical Standards and Quality, when announcing the prospective rule in June.
+“This proposal further supports hospitals’ safety and quality efforts by requiring all Medicare and Medicaid hospitals to have designated leaders in charge of specialized programs to prevent infections, improve antibiotic use, and follow nationally recognized guidelines,” she added. 
+The plan has already received strong support from nearly two dozen public health agencies and 6500 private citizens.
+Tagged Clinical AnalyticsHospital Acquired ConditionHospital QualityPatient SafetyQuality Of Care
+
+

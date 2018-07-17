@@ -1,0 +1,28 @@
+Big Data, Clinical Analytics Will Produce Quality Improvement
+
+November 18, 2014
+
+By Jennifer Bresnick
+November 18, 2014 - The adoption of health IT infrastructure, including EHRs, clinical analytics, and health information exchange, is the foundation of a higher quality, safer, more efficient healthcare ecosystem, the Office of the National Coordinator (ONC) asserts in a new brief.  In an effort to share its “vision to achieve better health and health care,” the ONC lays out a ten-year quality improvement roadmap that combines clinical decision support, big data, and clinical quality measurement to further overall improvement in the way providers deliver care.
+The outline complements the ONC’s interoperability roadmap, released over the summer, which highlights the need for an integrated health IT ecosystem that fosters population health management and information exchange.  The quality improvement (QI) report goes one step further by explaining how the ONC and all healthcare stakeholders can leverage that interoperable system to bring about the changes that are necessary to truly achieve the Triple Aim.
+“The main goals of health IT adoption are to achieve improved health and health care quality, safety, and communication among all members of the care team while decreasing costs and increasing value,” the report says.  “ONC envisions an electronically enabled QI ecosystem that promotes better health and care, improved communication and transparency, rapid translation of knowledge for all stakeholders and reduction in the burden of data collection and reporting for providers.”
+The report outlines nine basic building blocks that will “create a rapid and actionable feedback loop to continually update science and refine the specificity and usability of the knowledge while making health care safer, more effective and more affordable,” including:
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+FDA to Streamline Regulations in Light of 21st Century Cures Act
+Apple Explores Medical Data with Health Records API, Patents
+• The opportunity to turn research and best practices into widely used data standards that support quality measurement and reporting
+• The ability to capture data one time and reuse it for a number of different purposes
+• The standardization of common data elements (CDEs) to make better use of clinical data within the routine workflow
+• The development of decision support tools that span the care continuum by providing real-time, interoperable, and relevant data to providers and patients alike
+• The creation of reliable and accurate patient outcome measures that can establish quality benchmarks and risk-adjusted analysis across the broad spectrum of care settings
+• Implementation of real-time analytics tools that can measure performance at multiple levels
+• The adoption of interoperable tools that collect existing data for multiple quality improvement reporting programs
+• A focus on creating regional aggregation of clinical and claims that to enable quality measures and actionable feedback for providers from public and private payers
+• The assurance of privacy and security for patient data that follows the consumer across the care continuum
+In the short term, the ONC will guide healthcare organizations towards developing better ways to capture data and adopt data standards, including HL7, which will help to ensure that providers are collecting the right data and have the capability to share it appropriately.  This will lead to the wider development and better use of big data, which forms the crux of the goals for six years from now, the report explains.  In addition to ensuring that patients and providers have full access to the maximum amount of standardized data, big data will be available for population health management and other research that will further the pursuit of better healthcare delivery and safer, more innovative care.
+Ten years from now, the ONC envisions that “big data” will turn into “fast data” which encourages preventative and predictive care.  Patients will receive highly personalized treatments bolstered by real-time data feeds and deep integration across care settings and the community.
+“Achieving the national priorities for better and more affordable healthcare leading to better population health will only be possible with a strong, flexible health IT QI ecosystem that can appropriately support precise and timely decision-making, robust analytics, accurate and comparable measurement, transparency, high value care, reduced waste, and protection from avoidable harm,” the report concludes.  The ONC will continue to work with policy makers and stakeholders to develop roadmaps towards interoperability and champion the adoption of standards that align with quality improvement strategies.
+  Tagged Analytics InfrastructureBig DataBig Data AnalyticsClinical AnalyticsQuality Of Care
+
+

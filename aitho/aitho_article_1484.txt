@@ -1,0 +1,28 @@
+Pensa Unveils New Intelligent Automation Software For Network Functions Virtualization
+
+12 Feb 2018
+
+Pensa Maestro NFV Enables Creation of Next Generation Networks Faster
+Pensa, the provider of intelligent automation software technology, today announced the release of Pensa Maestro NFV, the first carrier-class software for intelligent automation of Network Functions Virtualization (NFV) services.
+Maestro NFV is Pensa’s second major product introduction in the past five months, following the company’s formal launch in October 2017. Maestro NFV enables Communication Service Providers (CSPs) to create NFV network services faster and correctly every time. Maestro NFV has been market proven in digital service provider environments through the company’s existing partnership with Nokia.
+Bob Laliberte
+“As CSPs migrate from legacy appliance-based infrastructures to NFV-enabled environments to better serve their customers, they need solutions capable of accelerating that journey. The ability to streamline and automate the design, validation and delivery of new virtualized services will be required to ensure success,” stated Bob Laliberte, Senior Analyst at Enterprise Strategy Group. “Pensa Maestro NFV was architected specifically to reduce the time, mitigate the risk and rapidly validate services to ensure CSPs could quickly and confidently deploy test or production NFV environments.”
+Pensa Maestro NFV uses intelligent automation and advanced modeling to help CSPs design, validate and deliver NFV network services. With the advent of 5G wireless technology, all CSPs will need to replace their legacy systems with NFV to remain competitive. However, current technology gaps have made this transition difficult. The most important gaps involve a lack of intelligent automation, modeling and validation to handle the vast complexity and massive scale of virtualized CSP environments.
+Pensa Maestro NFV helps fill this void by radically simplifying the process of importing and testing new networking elements. Maestro NFV’s intelligent design makes it easy to create extremely complex networks composed of many vendors’ technologies, thus enabling companies to deliver new services and generate revenue faster.
+Pensa Maestro NFV provides the ability to introduce new on-demand services quickly and cost‐effectively. Maestro NFV’s intelligent validation ensures that network designs are correct and that they will work as intended, reducing the risk of human error. This approach ensures that any new virtualized network function will work properly in the user’s environment, without the user having to test each process by hand or write new code.
+The key benefits of Pensa Maestro NFV include:
+Enabling CSPs to simplify and accelerate the deployment of NFV solutions
+Enabling CSPs to bring new revenue-generating services to market faster
+Enabling CSPs to intelligently automate NFV solution design, build and test processes to reduce manual errors, lower costs, and increase business velocity
+Enormous Growth Opportunity for Early Leaders in NFV Transformation
+The worldwide market for NFV and software defined networking (SDN) is forecast to grow at a 71.4% compound annual growth rate (CAGR) through 2022. Global NFV and SDN revenue is expected to reach $54.4 billion by 2022, up from just $3.68 billion in 2017, according to market research by ReportsnReports.com.
+Tom Joyce
+“The digital services revolution has begun, but communication service providers are stuck with legacy infrastructure and processes that hold them back,” said Pensa CEO Tom Joyce. “There are huge opportunities on the horizon for telcos and CSPs, but to participate they must use NFV. Before now, it has been very hard to make this technology simple, reliable, and fast. Pensa’s mission is to help our customers transition to NFV faster.”
+NFV is a software-based architecture on top of commercial off-the-shelf hardware that can deliver enhanced agility, lower costs, and shorter time to market for CSPs. NFV embraces software virtualization on industry standard servers, switches and storage to allow the decoupling of network functions from proprietary telco hardware machines.
+Ujwal Setlur
+“We began development of this solution for NFV back in 2014, before many people were thinking about the complexity of designing these networks,” said Ujwal Setlur, co-founder and CTO of Pensa. “Today we have years of experience engineering customer solutions for NFV. Early customer deals and the introduction of Pensa Lab last years allowed us to harden our technology to the point where we are proud to call Maestro NFV carrier-class.”
+Pensa’s go-to-market strategy involves selling through strategic channel partnerships and jointly selling solutions with server vendors, system integrators, and network equipment providers to reach CSP customers.
+Pensa is a founding member of the Linux Foundation Networking Fund (LFN), the organization that hosts the most critical open networking projects including ONAP, OPNFV, OpenDaylight and others.
+ 
+
+

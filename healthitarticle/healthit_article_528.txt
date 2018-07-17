@@ -1,0 +1,30 @@
+Healthcare Business Intelligence, Big Data Tools Spark Investment
+
+March 27, 2017
+
+By Jennifer Bresnick
+March 27, 2017 - Healthcare organizations are actively seeking business intelligence and big data analytics tools that will help them get ahead in a tightly competitive marketplace, driving significant investment in infrastructure to support more efficient and cost-effective care.
+According to a new series of market reports, healthcare providers are keenly interested in developing the big data analytics competencies that will help them succeed in a consumer-focused, value-based care environment, including enhanced clinical, financial, and operational analytics programs.
+ResearchnReports predicts that these initiatives will bring the global healthcare big data analytics sector to $34.27 billion by 2022, with financial analytics and fraud detection comprising the fastest growing piece of the marketplace.
+Dig Deeper
+APIs Boost Care Coordination, Data Exchange at Northwell Health
+Lack of Talent, Direction Afflict Healthcare Data Analytics Plans
+EHR, Big Data Analytics Success Hinges on Holistic Change Management
+Clinical analytics is close behind, as providers search for innovative ways to reduce treatment costs and boost outcomes.  Precision medicine will play a large part in these clinical optimization processes, the report projects, as electronic health record data, genomic testing data, and patient-generated health data from Internet of Things devices combine to produce a new crop of actionable insights.
+Meanwhile, on the administrative and operational side, business intelligence tools will continue to be in very high demand.  Orbis Research believes the global healthcare BI market will grow at a 15.56 percent compound annual growth rate (CAGR) until 2021. 
+The marketplace will be worth more than $7 billion at that point, due to the continued implementation of regulatory reforms that are driving an increased need for transparency into quality, spending, and efficiency.
+It won’t all be smooth sailing for organizations that wish to improve their analytical intelligence, however.  Technical barriers, including security, interoperability, and data integrity, will remain a key concern as the business intelligence market expands.
+Currently, providers are also struggling with finding qualified data scientists and IT architects to help them work towards ambitious goals. 
+While population health management, predictive analytics, quality reporting, and efficiency gains are top priorities for many organizations, lackluster leadership and vacant positions are thwarting their progress.
+Organizations will have to pay close attention to developing clear roadmaps that prioritize seamless and silo-free data warehousing infrastructure if they wish to succeed with predictive analytics and develop meaningful data dashboards and report for their end-users, Orbis Research cautions.
+Luckily, providers are likely to have some very experienced partners to help with the process.  Leading vendors in the healthcare BI world include Microsoft, IBM, Oracle, SAP, Tableau Software, and Accenture – all of which are well-known for their expertise in infrastructure development.
+Cloud technology will play a major part in helping healthcare organizations create scalable and future-proof analytics architecture, adds a report by TMR Research.  Cloud computing and storage tools offer flexible options with lower up-front investment costs, and can enable more sophisticated analytics development.
+Cloud computing vendors are even offering a new crop of “as-a-service” technologies that will make it easier for providers without large in-house IT departments to engage in cutting-edge analytics initiatives. 
+From Disaster Recover-as-a-Service (DRaaS) to Integration Platform-as-a-Service (iPaaS), healthcare organizations now have a wealth of new choices for creating a plug-and-play infrastructure suite that offers nearly unlimited opportunities for expansion and growth.
+Organizations may even be able to acquire some of these products and services from the same partners that handle their business intelligence needs.  Microsoft, Oracle, SAP, and IBM are cited as top vendors in the report, alongside Amazon Web Services, Cisco, HP Enterprise, and Google.
+These companies, along with many other vendors that focus exclusively on the healthcare space, are working quickly to develop and deploy data standards that will enable the continued growth of the big data analytics ecosystem.
+Application programming interfaces (APIs) have the potential to revolutionize how organizations construct their analytics environments by improving and expanding the functionality of electronic health records, data warehouses, and other key IT components through standards-based connections.
+As healthcare organizations continue to struggle with developing the analytics skills required to succeed in the world value-based care, vendors and developers will see expansive opportunities to acquire new customers and create long-term partnerships with providers who intend to keep pushing for broader operational improvements for the foreseeable future.
+Tagged Analytics InfrastructureCloud ComputingCloud ServicesHealth IT InvestmentHealthcare Business IntelligencePredictive Analytics
+
+

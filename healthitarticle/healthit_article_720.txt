@@ -1,0 +1,44 @@
+Finalized MACRA Quality Payment Program Requires Big Data Push
+
+October 14, 2016
+
+By Jennifer Bresnick
+October 14, 2016 - On your marks – get set – go grab some data.  CMS announced this morning that the MACRA Quality Payment Program (QPP) will indeed go live on January 1, 2017, which doesn’t leave providers much time to read the 2398-page final rule, let alone gather sufficient quality reporting data for accruing maximum incentives.
+The final rule codifies the four “pick-your-own-pace” options announced by Acting CMS Administrator Andy Slavitt earlier this year, offering several opportunities to avoid negative payment adjustments without the ability to report on a full year of quality data.
+Only providers who do not participate in the Quality Payment Program at all will receive a negative Medicare reimbursement adjustment of 4 percent, slated to hit in 2019. 
+Providers who simply “test” the MIPS portion of the system by submitting information on one quality measure or improvement activity at some point during 2017 will see their reimbursements remain flat.
+Small positive adjustments are available for providers who submit 90 days of data – they do not have to start on January 1, but they do have to complete their reporting period by October 2. 
+READ MORE: Will MACRA and the QPP Unlock Health Data for Smarter Care?
+Providers who start on January 1 and submit a full year of quality data will be eligible for up to a 4 percent boost in 2019.
+As the program progresses, the positive/negative adjustments increase: +/- 5 percent in 2020, +/- 7 percent in 2021, and +/- 9 percent in 2022.  All adjustments will be taken two years after the corresponding performance period.
+Clinicians participating in the more advanced Alternative Payment Model (APM) side of the QPP may start off with a 5 percent positive adjustment for the 2017 performance year if they receive 25 percent of their Medicare payments or 20 percent of their patients through one of the risk-sharing models.
+“Today, we’re proud to put into action Congress’s bipartisan vision of a Medicare program that rewards clinicians for delivering quality care to their patients,” said HHS Secretary Sylvia M. Burwell in a press release. “Designed with input from thousands of clinicians and patients across the country, the new Quality Payment Program will strengthen our health care system for patients, clinicians and the American taxpayer.”
+Every participation track will require providers to aggregate a number of different types of quality data, much of which was previously spread out across several programs.  MACRA’s goal is to streamline data collection and reporting requirements, which may help to reduce administrative burdens, encourage providers to use data in a more constructive manner, and foster the growth of high-quality, patient-centered care.
+READ MORE: NCQA Revamps Patient-Centered Medical Home to Ease Adoption
+“With these objectives we recognize that the Quality Payment Program provides new opportunities to improve care delivery by supporting and rewarding clinicians as they find new ways to engage patients, families and caregivers and to improve care coordination and population health management,” CMS says in an executive summary of the hefty final rule.
+Read: What Does "Pick Your Own Pace" MACRA Mean for Data Analytics?
+2017 will be a “transition year and iterative learning and development period” that will require providers to familiarize themselves with data-driven population health management and quality improvement techniques.
+Quality comprises 60 percent of the MIPS score for participating providers, while the Advancing Care Innovation (ACI) program – the most direct replacement for the technology-minded piece of meaningful use – only makes up a quarter of the calculation.  The remaining 15 percent focuses on quality improvements.
+For a MIPS score high enough to receive incentives or avoid negative adjustments, providers will need to:
+READ MORE: AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+Report on up to 6 quality measures, including at least one outcomes measure, for a minimum of 90 days within the attestation window.  Groups will need to report on 15 quality measures for a full year.
+Attest to completing up to 4 quality improvement activities for a minimum of 90 days
+Complete the security risk analysis and attest to the ability to conduct e-Prescribing, provide patient access to data, send summaries of care, and request/accept summaries of care. 
+A 5 percent bonus credit (not incentive payment) will be awarded to providers who report on public health measures and participate in a clinical data registry reporting program
+Available quality measures include many common population health tasks, such as managing chronic disease patients, providing screenings for early detection of conditions, and following up on imaging, tests, and care planning.
+Other population health and patient-centered care provisions include using clinically relevant information from Certified EHR Technology (CEHRT) to provide patient-specific education and electronic access to educational materials, providing patients with view, download, and transmit (VDT) capabilities for their personal health information, and accepting patient-generated health data into the CEHRT for at least one unique patient.
+Providers can also earn accolades for actively engaging with a public health agency to submit data to public health registries and/or sending syndromic surveillance data to public health agencies – each will provide a 5 percent bump within the MIPS scoring methodology.
+Continuous improvement is also on the agenda.  MIPS providers can earn the last 15 percent of the MIPS score by administering patient safety surveys, developing care transition and care coordination practices, creating panels of patients eligible for targeted chronic disease management and preventive care, and bolstering patient engagement, follow-up, and outreach capabilities.
+For providers in the Alternative Payment Model program, many of these tasks are already enabled by health IT tools and incentivized through financial risk-sharing. 
+CMS previously announced that Next-Generation and Pioneer ACOs, Medicare Shared Savings Program Tracks 2 and 3 participants, and certain Medical Home models will be eligible for the expanded incentives under the APM track, but the agency appears to be open to expanding those options.
+Read: CMS Timelines for Stage 3 Meaningful Use, MACRA Implementation
+An initial set of Advanced APM determinations will be published no later than January 1, 2017, and may include new APM options. “All determinations of Advanced APMs will be posted on our website and updated on an ad hoc basis, but no less frequently than annually, as new APMs become available and others end or change,” CMS says.
+Providers will have an incredible amount of work to do before the end of the year if they are to successfully participate in the Quality Payment Program.  While many of the quality measures, improvement activities, and population health requirements are familiar to EHR Incentive Program veterans, the added pressure of value-based reimbursements – and a participation score that rewards actual quality instead of technical savvy – is a new addition to the regulatory pantheon.
+CMS has opened a 60-day comment period on the final rule, which will no doubt produce a new crop of complaints, suggestions, and criticisms of the MACRA framework.  But no matter what the response from stakeholders, it is abundantly clear that healthcare organizations without a firm grip on their big data will suffer under the weight of the heightened reporting requirements.
+Stay tuned to HealthITAnalytics.com for more information about how to succeed with MACRA as we unpack the final rule and learn about its impacts on the industry.
+To read the final rule in its entirety, please click here.
+An executive summary is available here.
+CMS has also created a new Quality Payment Program interactive webpage located here.
+Tagged Healthcare Data GovernanceMACRAPopulation Health ManagementQuality Payment Program
+
+

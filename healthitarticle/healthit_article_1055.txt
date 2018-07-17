@@ -1,0 +1,25 @@
+Big Data Shows Persistent Ordering of Unnecessary Procedures
+
+February 05, 2016
+
+By Sara Heath
+February 05, 2016 - Nearly a third of providers are ordering unnecessary procedures such as lower back MRIs when not necessary, regardless of their facility’s payment model, big data shows.
+In a study published in the American Journal of Managed Care, a research team used data from the Veteran’s Health Administration to determine the frequency with which providers were ordering inappropriate lumbar spine MRIs (LS MRIs).
+The data showed that 110,661 LS MRIs were ordered during 2012, and that 31 percent of those were deemed inappropriate. The researchers considered an LSMRI appropriate when it was preceded by conservative therapy, was the result of a “red flag” condition, or a combination of both. Those ordered in the emergency department, in urgent care, primary care, and internal medicine clinics were typically determined as inappropriate.
+Strikingly, a majority of the LS MRIs were ordered from a small number of providers. Although the researchers reported that each provider ordered a median of three LS MRIs, other results show that the ordering of inappropriate procedures was concentrated amongst a few providers.
+Dig Deeper
+The 7 Step Plan to Success with Big Data Analytics in Healthcare
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Does Social Determinants Data Enhance Population Health Analytics?
+In 2012, a total of 16,273 providers ordered all of the LS MRIs. Ten percent of those providers were responsible for ordering half of the total inappropriate MRIs, while 23 percent of those providers were responsible for ordering nearly three quarters of the total inappropriate MRIs.
+Interestingly enough, there was a higher-than-expected rate of inappropriate LS MRIs ordered, despite the fact that the practitioners within the VA had no financial incentive for ordering unnecessary tests. That is to say, these providers were not practicing in a fee-for-service payment model, but rather a value-based payment model.
+“This suggests that nonpecuniary factors play an important role in ordering behavior in VA,” the researchers noted. “Thus, it also suggests that changes in financial incentives alone will not be sufficient to reduce inappropriate ordering of LS MRI, and that provider and patient education may be necessary.” 
+Although this trend reportedly indicates that there are other factors beside value-based payment incentives that will put an end to unnecessary tests and procedures, the researchers acknowledge that determining those factors were not within the scope of this study, and should be further explored in future studies.
+That said, the researchers did suggest that certain cultural and education changes could be made to keep these unnecessary and costly procedures from occurring. For example, the researchers found that in many instances providers had to order an LS MRI in order to refer the patient to another specialist.
+Patients may have also been a part of the issue, with some asking their providers for the test without being educated on the necessity of it, showing that patient satisfaction may have been a motivator.
+The researchers also identified provider populations that could be reeducated to potentially reduce the number of unnecessary tests. Reeducation should be targeted toward provider populations, according to the researchers, because many of the tests were ordered by only a small number of the providers.
+“[W]e found a high concentration of inappropriate ordering among few providers, indicating that provider-focused efforts to reduce inappropriate orders should be targeted rather than universal,” the research team asserted.
+“Our results indicate that interventions to reduce inappropriate ordering will be most appropriately directed at providers who order 18 or more scans per year, at providers and managers at the lowest-complexity facilities, and at providers in primary care/internal medicine clinics,” the researchers concluded. “Interventions aimed at providers who order 18 or more scans per year represent an opportunity to have a substantive impact on reducing the absolute number of inappropriate MRIs ordered.”
+Tagged Big Data AnalyticsClinical AnalyticsQuality Of Care
+
+

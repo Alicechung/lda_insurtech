@@ -1,0 +1,41 @@
+Using Data Analytics Tools for Healthcare Claims Management
+
+November 04, 2016
+
+By Joncé Smith
+November 04, 2016 - Effective claims management requires healthcare organizations to deploy a multi-faceted strategy that relies on data analytics and includes many phases of the revenue cycle, beginning when the patient schedules an appointment. The focus cannot simply be on claims.
+Far more significant, long-lasting results are possible when a wider focus includes analyzing key performance indicators (KPIs) with business intelligence (BI) tools to identify potential improvement areas for operational change. This holistic approach yields a comprehensive, cohesive plan for a total transformation of the organization’s claims management process.
+By ensuring a wide project focus, and including pre- and post-claim generation processes, a significant improvement within the claims management process is possible. When focus is placed on only one phase of the revenue cycle, a performance improvement spike may occur, but it will not be long lasting.
+Conversely, benchmarking and driving for improvement across multiple KPIs can gain dramatic, long-term improvements.
+The first step to improving the claims management process is to assemble a cross-disciplinary team to carry out the key components of the project. Led by an experienced project manager, this team should include staff from clinical departments and the business office, as well as information technology. Chief financial officer involvement and advocacy is also essential.
+READ MORE: Using Business Intelligence, KPIs for Revenue Cycle Management
+The team will be responsible for defining new performance standards for selected KPIs and will be tasked with developing the plan to improve associated processes. The end goal is that the results must be fully sustainable by the daily operational staff.  
+The team will also utilize visual BI data to measure the weekly progress on each KPI. Visualizations provide clear roadmaps that highlight points where process modifications are needed. To maximize actionable insight, the visualizations should also depict the impact of those potential changes. Visual BI tools offer the most rapidly interpretable evidence that implemented changes are achieving the team’s desired goals.  
+Throughout the project, biweekly full-team meetings will drive internal teamwork toward a timely completion for tasks and activities, while bimonthly stakeholder meetings should be used to request and receive input and report progress toward KPI goals.
+Project milestones should also be discussed and adjusted, if necessary, during these meetings. In addition, a governance committee within the team, led by the CFO, should quickly remove project barriers and eliminate constraints that could potentially impede project objectives. 
+Prior to measuring progress, however, the project team first needs to conduct preliminary observations and assessments of targeted areas associated with the KPIs. The primary purpose of this activity is to gather data to verify initial baselines and identify where industry standards and best practices exist within present workflows.
+READ MORE: Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+An example of this includes determining if staff preregister patients during the appointment scheduling process. This best practice can easily be implemented, which streamlines the full registration process when the patient arrives in the facility. 
+An assessment of typical staff workloads also needs to be included to give adequate time for possible changes to a department’s staffing model. For example, a common pitfall during claim production is the time required to accurately code the patient’s medical record.
+An increase to the typical number of incomplete inpatient charts within the coding department can dramatically elevate the facility’s value for Did Not Final Bill (DNFB). Using the available industry benchmarks, an inpatient coder should normally complete between 35 to 40 charts per day. Not meeting this threshold could indicate the need for increased staff training or hiring additional team members.
+Briefly walking through departments associated with the KPIs to observe major workflows and discuss process and performance issues can offer excellent input that, along with the data analysis, will accelerate improvements.
+Common areas this observation would include are patient access and registration; charge capture and reconciliation for radiology, laboratory and pharmacy; and the business office areas responsible for claim generation and denial management.   
+READ MORE: Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+During this observation, baseline metrics for each of the following KPIs should be captured and included for analysis in the claims management improvement project:   
+Preregistration rate
+Insurance verification rate
+Service authorization rate
+Accuracy/timeliness of charge capture
+Late charges as percent of total charges
+Did not final bill (DNFB)      
+Days in final billed not submitted to payer (FBNS)
+Days in total discharged not submitted to payer (DNSP)
+Clean claim rate 837I and 837P (include median volumes)
+Initial denial rate – zero pay
+Denials overturned by appeal
+KPIs that are driven by visual BI insights and built into the project’s framework can result in an improved claims management process. Streamlining and optimizing this process can lead to better-informed decision making, increased revenue and a more effectively run organization over the long term.
+Stay tuned next month as part two of this series will reveal the most important KPIs associated with specific revenue cycle phases for your healthcare organization.
+Joncé Smith is vice president of revenue management for Stoltenberg Consulting.
+Tagged Claims ManagementHealthcare Business IntelligenceHealthcare Revenue CycleRevenue Cycle Analytics
+
+

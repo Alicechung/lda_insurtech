@@ -1,0 +1,59 @@
+Even More Top Healthcare Big Data Analytics Buzzwords to Know
+
+August 03, 2016
+
+By Jennifer Bresnick
+August 03, 2016 - The world of healthcare big data analytics is evolving at a blistering pace, and so is the language used to describe the latest projects, innovations, and achievements. 
+New terms are cropping up every day as developers, researchers, and regulators try to find exciting new labels for their efforts.  
+Just this year alone, the MACRA legislation added a slew of new acronyms to the healthcare lexicon, including APMs, MIPS, and ACI, while a growing constellation of CMS innovation and payment reform programs are changing the way providers and payers talk about value-based care.
+After reviewing the basics of population health management, care coordination, the Internet of Things, and information governance, advanced buzzword boffins can add these ten new terms to their bailiwicks as they navigate the increasingly complex collection of initiatives, technologies, and strategies for improving the quality of care.
+HealthITAnalytics.com presents this latest set of key concepts in alphabetical order.
+READ MORE: What Are Precision Medicine and Personalized Medicine?
+Blockchain
+Blockchain is a method of distributing data across a number of different locations, and then requiring all of those locations to agree on the approval of new transactions before they can be executed. 
+In contrast to traditional data repositories, where users only have to gain access to a single authoritative data source if they wish to make changes, the blockchain is theoretically much more secure.  Transactions that do not meet the authorization and authentication standards of every member of the chain may not be considered valid.
+When it comes to healthcare data, the blockchain has many promising applications.  The strategy may be useful for reconciling changes in an electronic health record, ensuring that patient privacy is upheld, and fostering a trusted environment of health information exchange across party lines.
+While blockchain is currently associated with the transfer of cryptocurrencies like BitCoin, the technology may soon find a home in healthcare and other industries deeply concerned about data integrity and security.
+READ MORE: NIH Calls for “All of Us” Population Health Research Proposals
+Cancer Moonshot
+The Cancer Moonshot was launched in 2016 as an industry-wide effort to leverage emerging developments in genomics and precision medicine to find a cure for cancer.  Led by Vice President Joe Biden, the Moonshot plans to work in tandem with the White House Precision Medicine Initiative to uncover the genetic roots of this cluster of devastating diseases.
+At a recent summit held in Washington DC, Moonshot public and private stakeholders including the National Institutes of Health, National Cancer Institute, Pfizer, GlaxoSmithKline, the American Cancer Society, and Department of Energy pledged their big data analytics knowhow and computing power to a series of cross-industry partnerships.
+Clinical quality measures
+CQMs are becoming increasingly important as value-based reimbursement arrangements stress the role of metrics in assessing quality and performance.  They are also used as the foundation for regulatory reporting programs such as meaningful use and the upcoming MACRA framework.
+READ MORE: AMA, Patient Groups Join “All of Us” Precision Medicine Outreach
+Clinical quality measures form the core of many pay-for-performance initiatives, and help to gauge adherence to clinical processes, care coordination procedures, population health management programs, patient safety practices, and efficient use of healthcare resources.
+Under value-based reimbursement programs, providers may lose the chance to share in savings or accrue financial penalties for failing to meet clinical quality benchmarks.  Providers that do meet the thresholds often receive financial rewards.
+Despite their importance to healthcare reform, CQMs have long been the subject of industry criticism.  There is no firm industry consensus about which of the staggering number of CQMs should be used for some quality reporting purposes, and some stakeholders are unclear about who is in charge of developing and maintaining the measures, and which measures are most applicable to their areas of specialty.
+CMS has been working to resolve these questions by working with industry partners to develop core sets of clinical quality measures for future use.
+Data dumpsters
+Big data didn’t get its name by being clear, concise, and easy to organize.  The fundamentally messy problem of squeezing multiple sources of data into a single, integrated report often leaves trimmings on the cutting room floor.
+This excess data, combined with data that may be stored in an organization without any clear plan for its immediate use, may be relegated to the data dumpster, otherwise known as a repository filled with raw, unfiltered, and borderline unusable information.
+Data dumpsters may include data that lacks adequate documentation, including metadata or data dictionaries, required for big data analytics.  The lack of accompanying information makes it difficult for data curators to standardize and utilize these datasets for generating actionable insights, and may leave the organization with a hefty data storage bill but no meaningful results.
+As the volume of data continues to grow exponentially, especially with the addition of health information exchange data, genomic data, and patient-generated health data, organizations must pay close attention to how they create and store their data assets to avoid creating hordes of useless information.
+Imaging analytics
+The emerging field of imaging analytics holds a great deal of promise for advanced diagnostics and sophisticated personalized treatments.  While x-rays, MRIs, CAT scans, and other imaging tests are currently only used to diagnose or monitor a single condition, imaging analytics tools may be able to extract significantly more information from these datasets than traditional strategies.
+Using a combination of semantic computing, heavyweight processing power, and unstructured data processing, imaging analytics may be able to identify new biomarkers for diseases that might seem unrelated to the initial reason why the study was performed.  This process could have significant implications for research into cancers and neurodegenerative diseases, among other clinical applications.
+Medication non-adherence
+Medication non-adherence costs the healthcare system untold millions of dollars each year, yet providers still struggle to help patients stay compliant with their medication regimens due to the cost of prescriptions, difficulties with access to pharmaceutical care, and low levels of health literacy.
+Non-adherence may affect up to half of diabetic Medicare beneficiaries, for example, making these patients 137 percent more likely to develop end-stage renal disease, 20 percent more likely to suffer an amputation, and almost 30 percent more likely to experience significant vision loss or blindness.
+Non-adherence increases the likelihood of a preventable hospitalization and significantly adds to overall spending per patient, yet healthcare organizations are not yet fully equipped with the analytics tools they need to reduce the problem.
+Predictive analytics, population health management tools, and health information exchange connections that close gaps in the care continuum may be critical for helping organizations manage their patients and their engagement with their medications.
+Next-generation genomic sequencing
+The rise of precision medicine has prompted the development of new genomics sequencing techniques that can analyze vast amounts of data more quickly and accurately.  While traditional sequencing methods rely on extrapolating results from a relatively limited set of reference information, next-generation genomic sequencing leverages a DNA library to map data in a more accurate manner.
+This new strategy reduces the time it takes to receive results, and may help to eliminate the “big data bottleneck” produced by skyrocketing interest in large-scale sequencing projects.  Next-generation sequencing might also be able to reduce reliance on genome-wide association studies (GWAS), which are prone to errors and unwelcome variations in data.
+Personalized medicine
+Personalized medicine and precision medicine are often used interchangeably, but they may not have exactly the same meaning.  According to David Delaney, Chief Medical Officer at SAP, “precision medicine” refers to the way that clinicians are changing the diagnostic process to rely more on examining the interplay of genomics and other “omics” disciplines with the lifestyle choices, environmental factors, and clinical decisions that make each disease situation unique.
+On the other hand, “personalized medicine” connotes a custom-made treatment tailored to each individual’s specific needs on the molecular level, he said. 
+Both terms capture the general trend towards taking numerous patient-specific factors into account when deciding on a treatment plan, but precision medicine is starting to win out as the favored term to describe the development of these intimately tailored approaches to care.
+Semantic computing
+Semantic computing is a way to “teach” computers how to make logical connections that are not explicitly pre-programmed into their operating logic.  Much like the human brain can link together concepts that include implied relationships – the phrase “my sister-in-law’s cousin” contains several logical leaps that are easily understood even if they are not laid out clearly – semantic computing uses natural language to extrapolate insights.
+While traditional relational databases must be pre-programed to return a limited number of reports based on relatively simple analytical principles, semantic computing may allow healthcare organizations to dive deeply into population health management, hot-spotting, and risk assessment by integrating disparate data sets in a manner that allows for unique, on-the-fly queries. 
+Socioeconomic data
+Electronic health records have always been geared towards collecting clinical data for the purposes of billing insurance companies for care, but the shift to value-based reimbursement has started to change the role of these documentation repositories. 
+As providers become more and more responsible for overall wellness and longer-term patient outcomes, it has become necessary to collect and analyze more information about lifestyle choices, living circumstances, health challenges, and caregiver connections.
+Socioeconomic data, or information about a patient’s demographic and social background, income level, education level, living status, and social resources, is becoming a crucial decision-making tool for population health management, risk stratification, and preventative care.
+A number of different stakeholders are now advocating for the inclusion of these datasets in the traditional EHR as a way to understand care disparities, close gaps in service delivery, reduce unnecessary utilization, improve mental and behavioral healthcare, and meet all three goals of the Triple Aim.
+Adding socioeconomic information to the big data ecosystem may be the key to coordinating meaningful, high-quality services for vulnerable patients across the care continuum and in their own communities as a way to promote better outcomes and healthier lifestyle decisions.
+Tagged Clinical Quality MeasuresHealthcare DefinitionsMedication adherencePersonalized MedicinePopulation Health ManagementPrecision MedicinePrimers
+
+

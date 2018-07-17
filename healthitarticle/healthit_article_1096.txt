@@ -1,0 +1,41 @@
+Examining Ambulatory EHR Vendor, Big Data Adoption Trends
+
+January 07, 2016
+
+By Jennifer Bresnick
+January 07, 2016 - Even as the healthcare industry celebrates the start of 2016, provider organizations are keeping a wary eye on the future of the EHR technology market. 
+Almost before they know it, physicians may be forced to upgrade their electronic health records once again to meet the 2015 Edition CEHRT mandate for participation in Stage 3 meaningful use. 
+And if the previous round of frenzied updates and replacements is any sort of guide, the process may be a difficult once.
+Cash-strapped physician groups – some desperate to remain independent; others seeking shelter under the wings of larger protectors – are constantly searching for the best value for money when it comes to their foundational health IT tools, and may be turning to their neighbors for some hints about how to invest in technology for a successful future. 
+While a vendor’s popularity isn’t always a direct indicator of how well their offerings work or how suitable they are for a given provider’s needs, it never hurts to take a peek at what peers and competitors are up to.
+READ MORE: Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+HealthITAnalytics.com recently took a deep dive into EHR and big data analytics adoption patterns in the hospital environment.  Now it’s time to turn back to the Definitive Healthcare database for insights into technology use among physician groups.
+Which vendors are top picks for physicians looking to achieve their health IT goals?  What technology tools are physicians using to cope with a rapidly changing industry?
+EHR technology adoption reaches 8 out of 10 providers, but big data analytics tools lag behind
+Eighty-three percent of physicians had some form of EHR technology in-house as of 2014, the Office of the National Coordinator said in a data brief released in September, and almost three-quarters of those systems were EHRs certified for meaningful use. 
+The majority of EHR users have access to basic care coordination and clinical documentation functionalities, including computerized prescription order entry (CPOE), patient demographics, clinical notes, problem and allergy lists, and lab results.
+READ MORE: AMA Launches Integrated Healthcare Big Data Analytics Platform
+Primary care providers are among the most likely to have an EHR in place, with 87 percent stating that they are live on some type of electronic record system.  Seventy-nine percent said they were using CEHRT in 2014, as compared to just 70 percent of specialists.
+EHR adoption may be humming along at a high level, but complementary big data analytics and patient management tools are less likely to be found in the physician sphere.
+According to a sample of more than 9200 physicians groups in the Definitive Healthcare database, just under 18 percent of physicians groups have big data or business intelligence IT tools in place.  Adoption rates are remarkably even across providers of different sizes.
+Physicians are somewhat more likely to implement patient engagement and patient management technologies.  Between twenty-five and thirty percent of physician groups have these systems in place.
+These tools are primarily structured as add-on modules or services provided by the organization’s main EHR vendor.
+READ MORE: ONC Playbook Breaks Down Health IT, EHR Tasks and Buzzwords
+Does size matter when choosing an EHR?
+Are larger physician groups likely to choose certain vendors while small organizations gravitate towards others?  Not really, says the data.
+Unlike some of the sharper divisions in the hospital arena, physician groups of all sizes are fairly evenly distributed across the vendor spectrum, with Epic Systems once again coming out as a clear leader in the field.
+While the big data analytics and business intelligence market for hospitals is highly fragmented and constantly shifting, with dozens of vendors competing for market share against established opponents and unknown opportunists alike, the physician EHR vendor landscape has been largely divvied up between a few settled frontrunners.
+Approximately one-third of the physician groups disclosing their EHR vendor have chosen Epic, the data shows, though other industry reports estimate a more modest 10 to 20 percent of the ambulatory market for the Wisconsin-based giant.
+The high prevalence of well-known vendor names like Epic and Cerner may be due partly to the fact that a large number of the physician groups included in the sample, especially the mid-size and biggest providers, are affiliated with or owned by hospital systems, academic medical centers, or integrated delivery networks that have chosen to standardize their EHR technology in the inpatient and outpatient sectors.
+Other notable vendors in the ambulatory space include Cerner, MEDITECH, NextGen, Greenway, McKesson, Allscripts, athenahealth, CPSI, and eClinicalWorks. 
+Physicians are most likely to turn to Cerner or Allscripts for their EHR needs if they choose not to implement Epic.
+Smaller groups are slightly more likely to choose vendors without such a high profile.  Fourteen percent of small and mid-sized groups are using products from other companies, compared to just ten percent of the largest organizations.
+Complementary technology tools are next on the agenda
+Physicians aren’t sitting on their heels after putting their EHRs in place.  While EHR replacements, optimization projects, and usability concerns will likely continue to consume much of their time and effort over the coming months, providers are just as eager as their hospital counterparts to implement technologies that will help them overcome the growing challenges of value-based reimbursement, population health management, and health information exchange.
+From telemedicine to transcription services, physician organizations of all sizes are focused on the future of payment reforms and quality improvements. 
+Popular new technology options include patient intake management software, supply chain tracking, pharmacy and medication administration tools, and health information exchange infrastructure that will help to build connections between partners and the community.
+As Stage 3 meaningful use comes into play, and the Merit-Based Incentive Payment System (MIPS) lines up to steal the show after that, healthcare providers of all sizes and scopes of practice may need to raise their technology game to meet the reporting and quality improvement requirements of future regulatory programs.
+These challenges, as well as the consumerization of healthcare, the shift to value-based reimbursement, and the continuing pursuit of health data interoperability, are likely to continue to drive the IT marketplace to new heights over the next few years.  The exact timing of these initiatives may not be set in stone, but savvy providers will wish to start planning for new technology acquisitions as soon as possible if they are to succeed in this pressure-cooker environment. 
+Tagged Analytics InfrastructureBig Data AnalyticsEHR AdoptionEHR Use
+
+

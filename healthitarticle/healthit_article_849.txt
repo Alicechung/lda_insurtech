@@ -1,0 +1,31 @@
+ONC Exploring Use of Blockchain in EHRs, Healthcare IoT Devices
+
+July 12, 2016
+
+By Jennifer Bresnick
+July 12, 2016 - The Office of the National Coordinator is looking at the possibility of adding blockchain technology to its health IT arsenal by offering cash prizes for the best research papers addressing the subject. 
+As part of a new challenge issued this month, industry stakeholders are being asked to submit whitepapers about the potential role of blockchain in the ongoing development of electronic health records, big data analytics tools, the research environment, and the management of Internet of Things devices.
+“We are using this Ideation challenge as a means to provide more context and substance to the hype” surrounding emerging ideas related to blockchain technology, the CCC Innovation Center says in its FAQs about the contest. 
+The blockchain is a data management approach that utilizes timestamped transactions which are verified through a decentralized but authoritative ledger that serves as a single source of truth for future reference. 
+Entities that wish to make transactions, such as transferring money from a bank account or viewing EHR data, are checked against the ledger and must be authorized by each and every member of the blockchain, which may provide a more secure and tamper-proof method of managing access to sensitive patient information.
+READ MORE: 16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+The methodology originated with BitCoin, but has quickly made waves in the traditional financial community, the manufacturing world, and other technology-dependent sectors.
+In Depth: What is the Blockchain, Anyway?
+Healthcare may be next on the list of industries that can benefit from the heightened security, transaction reconciliation, and sophisticated identity management features of the blockchain approach. 
+Potential applications could include improved medication reconciliation and management, patient data consent and authorizations, clinical documentation governance, and patient engagement.  Blockchain may also make it easier to synthesize data from Internet of Things devices for remote monitoring, chronic disease management, or patient-provider communication.
+It might also be useful for controlling costs and fostering population health management, said Scott Gottlieb, MD, Resident Fellow at the American Enterprise Institute, in a House Committee on Energy and Commerce hearing. 
+READ MORE: Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+The ultimate security of the blockchain, and its ability to completely deidentify users engaging in transactions, may be able to make payers and patients more comfortable with the idea of assigning insurance beneficiaries a risk score based on their health status, only accessible to blockchain-approved entities.
+This could make it easier for payers and providers to engage in tailored risk stratification and chronic disease management activities without the fear that a risk score might impact a patient’s employment status, financial credit, insurance prices, or other important relationships.
+“One can perhaps eventually envision a system in which consumers in a large, well-functioning pool who suffer from certain costlier conditions could have their subsidies adjusted automatically (at the time of enrollment) to reflect their higher costs,” Gottlieb said. “This can even provide incentive for health plans to recruit such individuals and actively manage their health and reduce the cost of care.”
+While a few early leaders in the field are dabbling in blockchain approaches to certain healthcare concerns, there is little consensus about how, where, or why to use it.
+Even the ONC readily admits that it knows “very little beyond a number of blogs, tweets and articles in which cited health IT experts are siding strongly for or against it use,” and is using the challenge as a way to learn more about the cryptography, policies, and potential benefits of employing this new data management strategy.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+Interested parties may submit white papers no longer than ten pages for a chance to win one of fifteen prizes ranging from $1500 to $5000, the ONC says.
+“The paper should discuss the cryptography and underlying fundamentals of Blockchain technology, examine how the use of Blockchain can advance industry interoperability needs expressed in the Office of the National Coordinator for Health Information Technology's (ONC) Shared Nationwide Interoperability Roadmap, as well as for Patient Centered Outcomes Research (PCOR), the Precision Medicine Initiative (PMI), delivery system reform, and other healthcare delivery needs, as well as provide recommendations for blockchain's implementation,” the announcement states.
+Winners will also be eligible for the chance to present their work at an industry-wide workshop hosted by the ONC and the National Institute of Standards and Technology (NIST) in September.  The ONC anticipates receiving entries from members of academia and the start-up community, as well as open source developers, healthcare organizations, and IT professionals.
+The submission period is currently open, and ends on August 8, 2016.  The ONC will be holding an informational webinar on July 20 for interested parties, and will announce the winners on August 29. 
+To submit an entry to the challenge, please click here.
+Tagged Blockchain in HealthcareHealth Data PrivacyHealthcare Data GovernanceHealthcare Data Standards
+
+

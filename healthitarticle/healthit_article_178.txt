@@ -1,0 +1,42 @@
+Vendors Push Big Data Analytics, but Hospitals Focus on Safety, Security
+
+March 06, 2018
+
+By Jennifer Bresnick
+March 06, 2018 - LAS VEGAS - Vendors and healthcare providers are not seeing eye to eye on their top priorities for 2018, according to the latest HIMSS US Leadership and Workforce Survey released at HIMSS18 today.
+While vendors and consulting firms are eager to bring big data analytics, interoperability, and better health information technology to hospitals and health systems, their clients are much more focused on the basics of ensuring patient safety, improving operational efficiencies, and keeping their sensitive health data secure.
+The two goals are complementary: improved use of health IT tools can reduce medical errors, prevent data breaches, and shrink financial waste, when used correctly.  But vendors and hospitals may not be completely aligned when it comes to how to achieve their objectives.
+Both groups are intently focused on population health management and optimizing electronic health records to promote better care and reduce provider burnout.   
+When asked to rate the importance of these issues on a scale of 1 to 7, vendors and hospital leaders were only hundredths of a point apart.
+READ MORE: AHIMA: More Organizations Embrace Information Governance
+But they diverged much more significantly when it comes to creating an organizational culture that will foster success.  
+While there is a great deal of alignment between the two survey groups, there was a statistically significant difference between the two audiences on three issues,” says HIMSS.
+Hospital leaders gave “process improvement, workflow, and change management” a priority score 5.70 out of 7, while vendors and consultants only gave these tasks a 5.2 priority rating.
+Hospitals were also more likely than vendors and consultants to focus on leadership, governance, and strategic planning - but when it comes to setting the rules of the road, vendors are significantly more likely to turn their attention to health IT standards, interoperability and data exchange.
+The biggest dichotomy, however, is around patient safety.  Hospitals gave patient safety a priority of 6.07 - the highest on the list - while vendors and consultants only served up a score of 5.30.
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+Perhaps unsurprisingly, vendors are more likely than hospitals to believe that health IT can improve quality outcomes.  Meanwhile, hospitals are targeting process improvement and care coordination techniques to reduce hospital-acquired conditions like infections, pressure ulcers, and surgical complications.
+Healthcare organizations seem to be taking a more analog approach after being less than impressed by the current capabilities of health IT tools.  
+Budgets are shrinking, with 43 percent of hospitals stating that their health IT resources are likely to decrease in 2018, and only 37 percent of healthcare organizations are planning to allocate new resources to health IT projects.
+"Part of the muted outlook for hospital representatives may be due to past challenges in completing information and technology projects as originally planned,” the report observes.
+Over the past year, “improving quality through health IT” dropped from hospitals’ top priority in 2017 to sixth on the list in 2018.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Meanwhile, process improvement and change management shot up from seventh place in 2017 to third in 2018.
+Data analytics and business intelligence saw a similar upward movement through the priority list, from ninth place in 2017 to fourth in 2018 - but technology still takes a back seat to the day-to-day workflows of clinical care.
+On the vendor and consulting side, however, technology rules the roost.  The top five priorities for the vendor community are:
+Data analytics and clinical business intelligence
+Health information exchange, interoperability, and data integration
+Improving quality outcomes through health IT
+Privacy, security, and cybersecurity
+Electronic health records
+Patient safety is only seventh on the list, down from second place in 2017.  Process improvement was ranked ninth in 2018, while organizational governance and leadership skills have lingered in the teens over the past two surveys.
+"Given the variance in future projections, leaders from Vendor/Consultant organizations are encouraged to challenge their assumptions about the market’s willingness to acquire needed information and technology solutions so that they do not overextend their organizations and experience financial challenges,” HIMSS advises.
+Despite differences in opinion about the role of technology in quality improvement, hospitals are taking their cues from executive leaders with a strong background in data science and IT savvy.  
+Chief Information Officers (CIOs), Chief Information Security Officers (CISOs), and Chief Technology Officers (CTOs) are taking on larger roles in organizational leadership and strategic planning, the survey revealed.
+"The evidence in this report...suggests hospitals employ a wide array of information and technology leaders, and that the influence of these individuals appears to be expanding,” says HIMSS.
+"Vendors/Consultants looking to extend their influence within hospital settings are therefore encouraged to be very purposeful in establishing and managing their relationships with an array of hospital information and technology executives.”
+Stronger relationships with hospital decision-makers may help vendors and healthcare organizations sync their priorities in the future.  With a number of challenges facing the industry in 2018 and beyond, ensuring that technology vendors are on the same page as their clients will be critical for accomplishing financial and clinical goals.
+Healthcare organizations should be careful not to implement technology for technology’s sake, and should instead consider how new health IT acquisitions can further progress towards the well-established shared goals of population health management, financial sustainability, and the delivery of high-quality care.
+Tagged Analytics InfrastructureCare CoordinationHealthcare QualityHIMSS18Hospital QualityPatient SafetyPopulation Health Management
+
+

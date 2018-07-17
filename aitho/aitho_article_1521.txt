@@ -1,0 +1,14 @@
+Aurora Flight Sciences And Socionext Develop Radar-Enabled Collision Protection Solution For Drones
+
+08 Feb 2018
+
+Aurora Flight Sciences is Collaborating With Socionext Inc., A Top Expert In Radar Sensor Technology, To Provide A Radar-Enabled Collision Protection System For Consumer Drones
+The Radar Flight Control Module (RFCM) is comprised of a single-chip 24GHz radar with range measurement software. The radar responds acutely to its surroundings and can detect multiple objects, objects in open spaces, target distance and speed, and more. The RFCM provides distance, warning and braking signals to the flight controller through a simple interface, allowing for integration on a wide range of drone products. When installed, the RFCM acts to prevent head-on collisions with everyday obstacles in the drone’s path.
+John Langford
+“Aurora’s decades of experience in autonomy and systems integration, paired with Socionext’s engineering expertise, resulted in the joint development of the Radar Flight Control Module,” said John Langford, Aurora CEO. “Preventing collisions is vital for safe drone operation, and this technology is an excellent solution.”
+“Socionext, a leading expert in radar sensor technology, and Aurora, a world class system integrator in flight sciences, have joint forces to develop and refine the RFCM for a robust radar collision protection system,” said Tsutomu Nozaki, CMO at Socionext Inc. “The two companies plan to continue working together to provide the best solutions for a wide range of aircraft Systems used in commercial, surveillance and communication, mission critical, experimental and exploration applications.”
+Aurora Flight Sciences, A Boeing Company, is a world leader in the development of highly autonomous aircraft. Our mission is to change the way we travel by applying autonomy and robotics to the development, production and operation of advanced aircraft. Aurora is headquartered in Manassas, Virginia, and operates production plants in Bridgeport, WV, and Columbus, MS. Aurora has Research and Development Centers in Cambridge, MA, Dayton, OH, and Mountain View, CA; and a European office, Aurora Swiss Aerospace, located in Luzern, Switzerland.
+Socionext is a new, innovative enterprise that designs, develops and delivers System-on-Chip products to customers worldwide. The company is focused on imaging, networking, computing and other dynamic technologies that drive today’s leading-edge applications. Founded in 2015, Socionext Inc. is headquartered in Yokohama, and has offices in Japan, Asia, United States and Europe to lead its product development and sales activities.
+Read More: When Will Bots Have Their ‘Mobile Moment’?
+
+

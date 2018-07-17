@@ -1,0 +1,36 @@
+16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+
+January 04, 2017
+
+By Jennifer Bresnick
+January 04, 2017 - Blockchain may have entered the healthcare lexicon in 2016 as a somewhat fuzzy concept, but the innovative method of securing and validating data transactions is poised to take the industry by storm over the next twelve months, according to an international survey conducted by IBM.
+Sixteen percent of the 200 healthcare executives participating in the poll have concrete plans to implement a commercial blockchain solution within their organizations in 2017, while an additional 56 percent are likely to follow by the end of the decade.
+Regulatory compliance issues, clinical trials, and electronic health records will all present use cases for blockchain technology, as healthcare organizations seek the tools and strategies required to build truly secure, private, and comprehensive longitudinal health records for their patients.
+“Trailblazers are leading the charge with real-world blockchain applications that they expect to take down the frictions that hold them back,” the IBM report states. “They’re keenly focused on accessing new and trusted information which they can keep secure, as well as entering new markets.”
+Since data stored on blockchains can be shared securely with a pre-approved and trusted group of individuals, patients can be sure that their data is being used properly, that it is all held in one single place - in one standardized format – and that there can be complete transparency, accuracy, and trust in the information across all of its users.
+READ MORE: CIOs: FHIR Has Potential, Blockchain Overhyped in Healthcare
+“In this way, blockchains shift the lens from disparate bits of information held by a single owner, to the lifetime history of an asset,” the survey explains. “This holds true whether that asset is a patient’s health record or a bottle of pills as it moves through the supply chain.”
+Seventy percent of likely early adopters believe that blockchain will help them improve the management of health record data, while sixty percent anticipate that the technology will help them access new and trusted information that can be kept secure.
+Among the “trailblazers,” or those planning to implement a blockchain solution within the next year, information sharing and interoperability are primary motivators.
+Sixty-six percent believe that blockchain will help reduce the frustration of making clinical decisions based on incomplete patient data, and the same number envision a reduction in data breaches and other negative security-related events when blockchain systems are installed.
+Sixty-three percent are looking forward to using the technology to open up new markets, develop innovative revenue growth opportunities, and improve their organizational ability to overcome infrastructure costs and data standards concerns.
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+Trailblazers are also anticipating benefits in a number of other organizational areas, including analytics of medical device data (69 percent), billing and claims processes (67 percent), patient safety (63 percent), and asset management (62 percent).
+Because the healthcare industry is subject to unique patient privacy and security regulations, identity management is a critical competency for any provider organization looking to use data for clinical or operational improvements. 
+Blockchain, which requires each transaction to be validated by every other member of the chain before it can be approved, can help solve the identity management problem, which may in turn allow for increased innovation and collaboration. 
+In private blockchains organized around an individual patient, that patient may be given the ability to authorize all data sharing transactions, making it easier for him or her to manage where data is going and who has access to sensitive information.
+“When data is trusted and protected, collaboration takes off,” states the survey. “Blockchains could replace the intermediaries that once existed to secure this data, perform these tasks. Smaller organizations could join ecosystems to take on larger competitors. Private sector participants could gain access to and create new sources of data, whether that’s wellness data streaming from personal devices or information collected by home caregivers.”
+READ MORE: Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+Eighty percent of trailblazer organizations are focusing on these “softer” data assets, such as Internet of Things information and other patient-generated health data (PGHD), and are searching for opportunities to turn these rich, untapped datasets into new business opportunities.
+Home monitoring, medication reconciliation, and chronic disease management may all benefit from a blockchain approach as providers start to create centralized and standardized records of patient data. 
+Sixty-five percent of participants believe that the way organizations handle medical device data, including IoT data, is ripe for disruption.
+But despite the growing interest in utilizing a blockchain approach to health data, significant barriers remain. 
+More than half of respondents believe that immature technology and insufficient skills will slow down blockchain adoption, while fifty-one percent cited a lack of executive buy-in as a top obstacle to overcome.
+Fewer participants are worried about making the business case for blockchain, however.  Only 43 percent said they would have difficulty explaining the potential for ROI or brainstorming use cases for the technology.
+“How individual organizations respond to blockchain opportunities in the next few years will depend on their circumstances, capacity and ambition,” IBM says.
+“As with any new technology that has the potential to transform, there is no ‘cookie-cutter approach.’ However, the plans, priorities and investments of the Trailblazers that are poised to enter the market today do illuminate a direction. Our analysis reveals near unanimity; blockchain benefits are compelling and can be gained in every aspect of healthcare.”
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Why Blockchain Technology Matters for Healthcare Security
+Tagged Analytics InfrastructureBlockchain in HealthcareEHR InteroperabilityHealth Data PrivacyHealthcare Data GovernancePatient Data Access
+
+

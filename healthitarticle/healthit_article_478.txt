@@ -1,0 +1,30 @@
+Nurses Play Collaborative Role in Care Coordination, Planning
+
+May 09, 2017
+
+By Jennifer Bresnick
+May 09, 2017 - Nurses must be intimately involved in the collaborative task of planning and executing care coordination strategies for patients receiving services from multiple providers – especially when value-based reimbursements are at stake, says ONC Chief Nursing Officer Rebecca Freeman, PhD, RN, PMP.
+As value-based care becomes an increasingly important driving force in care coordination and long-term patient management for Medicare and Medicaid beneficiaries, team-based care strategies should recognize and leverage the important role of nurses in the patient-provider relationship.
+“Care coordination is a key feature of evolving care models designed to avoid episodic care for patients,” Freeman wrote in a HealthITBuzz blog post.  “Currently, various federal programs that pay for health care services require a care plan as a component of care coordination.”
+Medicare patients receiving certain home health services and chronic care management services, as well as Medicaid patients in long-term care facilities, must have established care plans if their providers are to receive payment, she noted.
+CMS has repeatedly stressed the importance of developing a longitudinal, interdisciplinary, and personalized approach to treating and monitoring complex patients, yet an inconsistent and fragmented understanding of how to create these care pathways has stymied the industry, Freeman asserts.
+READ MORE: Care Coordination Cuts Nursing Home Spending, Hospitalizations
+“To move forward, we must encourage all disciplines (e.g., nursing, physical therapy, registered dieticians, etc.) to focus less on siloed, discipline-specific care and more on the communication and teamwork that optimizes patient outcomes,” she said. “The patient’s care plan should reflect that interdisciplinary and longitudinal approach.”
+Nurses, who often take on a large portion of the day-to-day responsibilities of caring for patients, especially in the inpatient or long-term care setting, require comprehensive care plans to understand what to watch for and ensure that patients are meeting improvement milestones.
+Care plans tend to evolve as patients progress, she added, which requires thorough communication and open collaboration between physicians, nursing staff, and other members of the care team.
+“The patient care plan should reflect changes consistent with communication and collaboration among all members of the team; this may require significant change management and buy-in for everyone involved,” wrote Freeman.
+“Highly successful teams work together to combine their perspectives and develop a brand new approach to a common problem. Care team members may need to learn about each other’s approach to care, strategy, and documentation for their discipline-specific care plans, and generally build trust in one another, as they seek to rework the care plan with less focus on their discipline and more focus on the patient.”
+READ MORE: Population Health, Big Data Strategies Could Reduce $2B Waste
+In order to achieve this collaborative vision, providers should leverage the health IT tools at their disposal.  But in order to use EHRs and other communication systems effectively, the healthcare industry must continue to work towards more seamless interoperability and intuitive health data exchange.
+“We must solve a longstanding conundrum regarding semantic interoperability,” stated Freeman. 
+Part of this quest will involve reconciling the multitudinous clinical terminologies available to providers.  The American Nurses Association currently recognizes a dozen different nursing terminologies, she said, despite the fact that SNOMED CT has been designated the primary standard for nurses in the federal space since 2005.
+Nursing leaders have not yet succeeded in developing a cohesive plan for using SNOMED CT across the entire clinical community.  In order to achieve the semantic interoperability that will enable true care coordination, stakeholders will need to resolve their differences in terminology and clinical descriptions to ensure that all members of the care team understand one another.
+“This move towards a shared vocabulary is incumbent on each discipline on the care team as we promote comprehensive and shared care planning,” said Freeman. “If a physical therapist, dietitian, and nurse are all working on problems, interventions, and outcomes, we must determine how to aggregate one another’s work.”
+READ MORE: Care Coordination Improves Outcomes for Dual Eligible Patients
+“The absence of a shared vocabulary can make it difficult to provide efficient, continuous care; this is especially true when the patient transitions to a new care setting. It will also make it difficult for us to track nurses in the data across the care continuum.”
+While semantic interoperability and the development of a truly comprehensive and unified care plan across the care continuum are not easy problems to solve, nurses can offer unique insight and important suggestions about how to tackle the care coordination conundrum.
+“We can leverage our experience as care planners to lead initiatives for care transformation and coordination that maximize outcomes for patients,” said Freeman.  “We can also showcase our role as consummate team players and leaders by facilitating the implementation of a shared vocabulary, thus enabling more continuity in care for patients.”
+“We encourage all nurses and allied health partners to work collaboratively on these problems – to not only move towards a vision of shared care planning in practice, but to solve the terminology puzzle with a dedicated path forward, empowering our work and patient outcomes through data that are comparable, interoperable, and standardized.”
+Tagged Care CoordinationChronic Disease ManagementInteroperabilityONCPatient Centered CarePopulation Health Management
+
+

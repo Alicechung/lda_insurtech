@@ -1,0 +1,34 @@
+Indico Announces The First Enterprise AI Product Purpose-Built For Business Users
+
+29 May 2018
+
+Connects Machine Learning To Business Challenges To Help Enterprise Users Streamline Highly Manual, Document-Based Business Processes And Gain New Insights From Unstructured Content  
+Indico, a provider of Enterprise AI solutions for unstructured content, today announced the release of the latest version of its application. The machine learning solution is built to make artificial intelligence more accessible to business users looking to automate manual processes, augment existing workflows with greater intelligence, or discover new opportunities and risks within existing unstructured data.
+Indico’s new application offers highly functional and efficient machine learning capabilities specifically designed for text, images, and other document-based information such as PDF and Word documents. Indico leverages a proven data science technique called Transfer Learning offering enterprises important advantages in their ability to apply machine learning to unstructured content compared to existing solutions.
+With Indico:
+Users can effectively train models with 100X – 1000X less data.
+End-to-end deployment time is accelerated by as much as 10X.
+Operational and hardware costs can be reduced by as much as 90%.
+Tom Wilde
+“Enterprises are struggling to apply AI to unstructured content, which makes up over 80% of the data in most organizations,” said Tom Wilde, CEO at Indico. “Existing solutions require huge training datasets, expensive hardware, and hard-to-find machine learning expertise. Indico is eliminating these barriers by enabling enterprises to use much smaller sets of data to create customized machine learning models to solve unstructured content challenges and gain the significant business benefits that come with it.”
+The offering is designed for two primary use cases in the enterprise:
+Intelligent Process Automation – accelerating existing business processes that are highly manual and involve analysis of large amounts of unstructured data and documentation; e.g., Content Process Automation, Contract Review & Analysis, RFP Analysis & Composition, and Risk/Compliance Analysis.
+Powerful Content Insights – analyzing existing unstructured datasets to fuel innovation, enhance customer engagement, and find new operational efficiencies and business opportunities; e.g., Resume Screening & Analysis, Customer Interaction Analysis, Content & Image Classification, and Sales Opportunity Prospecting.
+Indico’s latest version offers a number of other important advantages for users:
+Flexible customization – Ability to quickly build custom models for specific domains, industries and uses cases, without data science expertise.
+Performance explainability – Provides detailed explanation of model performance so users can understand the basis of data insights and conclusions.
+No data leakage – No “sharing” of users’ enterprise data to obtain results.
+Platform, text, image APIs – Available in pay-as-you-go or enterprise versions for flexibility across business and user requirements.
+Multiple deployment options– Docker-based deployment supports all public clouds as well as on-premise/virtualization environments.
+Expert guidance and support – Indico can help accelerate your efforts and assist with use case identification and deployment best practices.
+Read More: How Virtual Nurses Are Elevating Patient Care
+The solution features three core modules that can be used in correlation and individually:
+Indico Discover – For users with large datasets that may have value, but not sure where to start, this module lets them explore the data they have and the insights that might exist, and the models that can be created.
+Indico Teach – Presents first pass data results in an understandable way to business users so that they can easily transfer their knowledge of the data into a model. Validates when sufficient model training has been achieved and creates a closed-loop environment to help the model continuously learn while in deployment.
+Indico Review – Enables users to understand how their model is performing, and easily identify and reconcile any mis-labeled data. Provides comprehensive model performance analytics and explainability.
+Beta Program and Enterprise AI Workshop for Business Users
+Indico’s new application is available to qualified beta customers immediately. Indico is also offering a workshop for enterprises designed to help business users better understand how they can take advantage of AI and machine learning in their specific roles. The workshop can be delivered on-site or remotely and typically lasts two hours.
+Indico is an enterprise AI solution for unstructured content. Our focus is on helping to automate tedious back-office tasks, improving the efficiency of labor-intensive document-based workflows, and extracting valuable insights from unstructured content, including text and images. Our breakthrough in solving these challenges is an approach known as transfer learning, which allows us to train machine learning models with orders of magnitude less data than required by traditional content analysis techniques. With Indico, enterprises are now able to benefit from the dramatic advantages of machine learning at a fraction of the time.
+Read More: Leading Blockchain Healthcare Companies Enter Exclusive Partnership To Ethically Share Biobank Data
+
+

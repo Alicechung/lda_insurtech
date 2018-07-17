@@ -1,0 +1,16 @@
+DataParser Leverages Microsoft’s Azure Analytics API For FINRA Supervision Requirement
+
+23 May 2018
+
+The new integration allows clients to supervise data in compliance with regulations and gain valuable insight into communications. Analysis of sentiment, language and key phrases are supported.
+17a-4, a software and services company that enables regulated clients to comply with SEC, FINRA and CFTC requirements, has announced its widely used DataParser that collects third-party messaging and collaboration content now integrates with Microsoft’s Azure’s AI Cognitive Services Text Analytics API. This combination enhances the ability of compliance officers to supervise data in keeping with current regulations, but also makes it easier to monitor and analyze keywords and phrasing that may indicate the message contains a customer complaint or issue, allowing companies to address such concerns quickly and effectively.
+Douglas Weeden
+“Let’s say that traders are discussing a fixed-income transaction using their Bloomberg terminals and a trader uses language which expresses concern or even anger at the way the trade was handled,” said Douglas Weeden, Director of Compliance and eDiscovery at 17a-4. “By submitting that conversation to the DataParser Azure Text Analytics, we are able to evidence that conversation as negative. This becomes a helpful tool in the arsenal of the compliance team.”
+Read More: How Citizen Health Is Redesigning Healthcare With An Open & Transparent Marketplace
+Companies that conduct business in multiple languages also may find this capability of value as it flags the correct set of lexicon terms and phrases in languages that apply to that message. Without this offering, discussions in Spanish, for example, being tested by an English lexicon results in few messages being flagged, which could come back to haunt a financial institution or other company in a regulated industry, should an investigation be launched by a state or federal agency like the SEC or FINRA.
+DataParser’s integration with the Text Analytics API provides advanced natural language processing over raw text, and includes three main functions: sentiment analysis, key phrase extraction, and language detection. DataParser is deliberately designed not to capture each individual chat but rather to pull an entire day of chats and create conversations to submit to the Azure Text Analytics API. This provides a comprehensive view of the dialogue and makes minimal impact on real-time operations.
+Read More: Interview With Alexandre Debecker, Chief Growth Officer – Ubisend
+FINRA Rule 3110 Requires Broker Dealers to Supervise Messaging
+While DataParser’s integration capabilities with Microsoft Azure offers benefits to companies in any regulated industry, it is particularly useful for those in the investment sector, such as investment banks, private equity, venture capital, hedge funds and day trading entities subject to FINRA requirements. FINRA’s Rule 3110 requires broker dealers to supervise messaging and develop policies that are specific to the activities of the firm and reasonably designed to discover inappropriate behavior and representations.
+
+

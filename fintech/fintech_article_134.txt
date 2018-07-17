@@ -1,0 +1,27 @@
+Numerix Deploys Oneview Trading and Risk Apps on OpenFin
+
+May 25, 2018
+
+Numerix, a provider of risk technology, and OpenFin, the operating system powering digital transformation across financial desktops globally, announced the details of a new partnership.
+
+ Numerix will deploy Oneview, a front-to-risk platform, on the OpenFin desktop operating system (OS). Building on OpenFin will enable Oneview’s front office XVA trading and risk applications to run in a high performance, multi-window, desktop environment, while ensuring interoperability between applications and into existing workflows, for an enhanced desktop user experience.
+
+ Numerix Oneview offers powerful trading applications for front office XVA management, structured products sales and trading, as well as desk-level pricing and risk. In the XVA context, front office risk systems place great emphasis on pre-deal checks, XVA sensitivities, PnL explain and cheapest-to-trade strategies. Traders utilize these screens throughout the day to make vital pricing and hedging decisions. As such, UI, visualizations and workflow are the top technology concerns and of critical importance for both derivative trading desks as well as sales and structuring.
+
+ OpenFin OS is designed specifically for financial services and deployed at more than 400 financial firms, modernizing desktops and standardizing the operating environment for hundreds of industry applications. With OpenFin, banks, brokers, asset managers and hedge funds can now unify a fractured ecosystem of financial applications to build their own unique desktop environment, selecting the very best applications necessary for each end user’s workflow. These can include trading applications, ultra-fast market data grids and visualisation apps, the latest research and charting tools, predictive pricing engines, chat functions, and a host of supporting applications for compliance, risk management and related corporate areas.
+
+ “OpenFin OS enables us to lift Oneview out of the web browser. For our users, this enhancement transforms Oneview trading, pricing and risk applications by providing the full richness of a desktop experience while retaining the best of HTML5 UI technology and web deployment,” says Steve O’Hanlon, CEO of Numerix.
+
+ O’Hanlon continues: “Many apps that fit many kinds of workflows is a trader’s reality. What OpenFin accomplishes is getting these workflows working more proactively, focusing on application interoperability. The UI creates a native user experience, in which traders can pull an integrated workflow together in a visual way. At Numerix, the user experience for sales, traders and XVA front office risk is central to accelerating the IT modernisation and digitisation for our clients, and with OpenFin we’re not only accomplishing this, but we’re also building software that customers love.”
+
+ “OpenFin OS will transform the Numerix desktop experience by enabling interoperability across capital markets applications,” says Mazy Dar, CEO of OpenFin. “Collaborating with market-leading providers to accelerate their product innovation is central to our strategy.  We are delighted to welcome Numerix to OpenFin and look forward to supporting their mission to further digitise business processes in the risk management ecosystem.”
+
+ About Numerix
+
+ Numerix is the leading provider of innovative capital markets technology solutions and real-time intelligence capabilities for trading and risk management. Committed to out-of-the box thinking, the exploration and adoption of latest technologies, Numerix is dedicated to driving a more open, fintech-oriented, digital financial services market. Built upon a 20+ year analytical foundation of deep practical knowledge, experience and IT understanding, Numerix is uniquely positioned in the financial services ecosystem to help its users reimagine operations, modernize business processes and capture profitability.
+
+ About OpenFin
+
+ Move fast. Break nothing. OpenFin is the financial industry’s operating system, enabling rapid and secure deployment, native experience and desktop interoperability. Used by the largest industry players through to the newest of fintech innovators, OpenFin deploys hundreds of desktop applications to over 400 buy-side and sell-side firms. OpenFin investors include Bain Capital Ventures, DRW Venture Capital, Euclid Opportunities, J.P. Morgan, Nyca Partners and Pivot Investment Partners among others. The company is based in New York with offices in London.
+
+

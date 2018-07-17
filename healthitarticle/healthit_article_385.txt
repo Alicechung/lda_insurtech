@@ -1,0 +1,29 @@
+Illinois to Use Blockchain for Healthcare Credential Management
+
+August 10, 2017
+
+By Jennifer Bresnick
+August 10, 2017 - The Illinois Blockchain Initiative is partnering with industry coalition Hashed Health to explore how to apply distributed ledger technology to the complex issue of managing credentials and licensure for healthcare professionals.
+The pilot program will employ a blockchain-based registry to improve the way medical credential data is stored and shared. 
+“Blockchain and distributed ledger technology have the potential to revolutionize the delivery of public and private services, redefine the relationship between government and the citizen in terms of data transparency and trust, and make a leading contribution to Illinois’ efforts towards digital transformation,” said John Bass CEO of Hashed Health.
+Dig Deeper
+Blockchain Will “Change the Physics” of Health Data Sharing
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Hashed Health Blockchain Consortium Grows with Change Healthcare
+“As partners, Hashed Health and the State of Illinois have embarked on a journey to create blockchain healthcare solutions that demonstrate the value of this new technology and form the foundation of future related solutions.”
+Ideally, the project will help to improve the accuracy, reliability, and timeliness of licensure and credentialing for the state’s healthcare workforce. 
+Providers should be able to maintain a single record of their certifications and approvals, which will streamline interstate licensure, bolster trust, and allow organizations and individuals to authenticate the professional qualifications of jobseekers and staff.
+“In the short-term we anticipate this pilot will show how distributed ledger technology can help reduce the complexity of interstate licensing processes in Illinois,” said Illinois Department of Financial and Professional Regulation (IDFPR) Secretary Bryan Schneider.
+“In the long-term, we see this as a secure, privacy-enhancing way in which state licensure boards can efficiently manage credentialing at national scale, while also presenting health payers and provider networks a ‘single source-of-truth’ to improve the veracity of provider directories and claims adjudication processes.”
+Along with electronic health record management, patient engagement, and supply chain management, provider identity management is one of the most promising use cases for blockchain in the healthcare industry. 
+Accurately tracking clinicians as they move through the highly regulated healthcare environment is vital for patient safety, not to mention the administrative wellbeing of healthcare organizations.
+“[A] single provider’s identity is a complex composite of data points,” Hashed Health explains on its website.
+“There are multiple elements held by multiple disparate stakeholders like medical schools and residency programs and certifying boards while other data elements tend to change often over the course of a provider’s career such as practice and hospital affiliation, practice location and whether they are accepting new patients.”
+At the moment, the small Baltic state of Estonia is the only municipal entity leveraging blockchain for healthcare data management on a large scale. 
+Since 2008, the country’s e-Health project has used blockchain to help manage patient data and make personal health records available to residents through a single online patient portal.
+Illinois hopes to become a leader in tackling similar issues by moving blockchain from the realm of the theoretical into actual practice in the US, as well, says Jennifer O'Rourke, Blockchain Business Liaison for the Illinois Blockchain Initiative.
+“Illinois is committed to moving beyond the much-discussed promise of distributed ledger technologies. With this pilot we plan to bring tangible solutions that solve real problems,” she said.
+“We are excited to explore how distributed ledger technology can improve current bottlenecks in the medical licensing process and hope to share our learnings with other state boards and entities interested in collaborating on this project going forward.”
+Tagged Blockchain in HealthcareHealth Information ExchangeHealth Information ManagementHealthcare Data Management
+
+

@@ -1,0 +1,21 @@
+Nyriad Ltd Closes US$8.5 Million Series A Financing Round
+
+08 Feb 2018
+
+Nyriad specialises In The Use Of GPUs For Converging Computing And IO to Minimize Data Movement During Processing Of Large Data Sets, Significantly Improving Power Consumption And Accelerating Performance For Next-Generation Data Centres And Supercomputers
+Exascale computing company Nyriad Limited has announced it has completed its Series A investment round, bringing it to a total of over US$11 million raised to date. The funds will be used to support the continuing expansion of the business in Cambridge, New Zealand, including further investment in expanding its engineering resources and release of its first product to market in Q1’18.
+Founded in 2014, Nyriad specialises in the use of GPUs for converging computing and IO to minimize data movement during processing of large data sets, significantly improving power consumption and accelerating performance for next-generation data centres and supercomputers. It announced its first product, NSULATE, at SC17 in Denver, Colorado.
+Nyriad was pleased with the reception it received from the international and New Zealand investment communities. Five VCs participated: Data Collective VC of Palo Alto, Prelude Ventures of San Francisco, East Ventures and IDATEN Ventures of Japan, and New Zealand Venture Investment Fund (NZVIF) in New Zealand. Two New Zealand angel groups, Ice Angels and Enterprise Angels, plus several family desks participated to complete the round.
+James Hardiman of Data Collective said, “It is obvious that GPUs are playing a major role in the next generation of computing. Nyriad has expanded that to include storage and is now at the forefront of both of these applications.”
+Gabriel Kra
+Gabriel Kra from Prelude added, “Current storage architectures may be unable to scale with growing requirements for speed and real-time data security. Nyriad’s software running on GPUs can solve these problems, while dramatically reducing hardware and operating costs, including energy consumption.”
+Kenta Adachi of IDATEN Ventures in Tokyo said, “We were delighted to be able to join in the capital round as we introduced HPC Systems to Nyriad who became their first distributor. I’m personally keen to help Nyriad with its business development in Japan, especially since they have made a firm commitment to do business here.”
+Richard Dellabarca
+NZVIF CEO Richard Dellabarca says the high level of investor support is not surprising given Nyriad’s excellent prospects. “This is another example of a New Zealand company developing exceptional technology for a global market and in an area exhibiting vast scale and rapid growth. Although it is a young company, Nyriad is already involved in major global projects and is gaining traction with large international customers. We are pleased that NZVIF and other investors have been able to support the company with capital investment at this stage. We look forward to supporting Nyriad’s growth journey in the coming years,” stated Dellabarca.
+Robbie Paul
+Nyriad received record investments from the New Zealand angel groups, Ice Angels and Enterprise Angels, for a follow-on investment. Robbie Paul, CEO of Ice Angels, said, “We continue to back Nyriad for their audacity and their vision to build a global startup from New Zealand that will stay in New Zealand. Their objective to train and cultivate hundreds of new engineers is one that we hope will benefit both Nyriad and the wider New Zealand tech community.”
+Matthew Simmons
+Matthew Simmons, CEO of Nyriad, stated, “I am thrilled by the support we have had from both the local and international investment communities. Nyriad has a unique business proposition powered by a bold vision. This Series A capital raise gives us the resources to achieve the next stage of our commercial objectives, so I personally thank all who made this funding round a success.”
+Read More: Marketing Teams Will Struggle To Make Sense Of The Hype Around AI
+
+

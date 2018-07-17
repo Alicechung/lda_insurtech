@@ -1,0 +1,69 @@
+The Monopoly To Be Unlocked
+
+February 6, 2018
+
+The original legislation was brought about in 2007 and sought to clarify and ease the payment processing through uniform rules, and the opening up of new competition in the marketplace across the European Union, SEPA for corporates explains. Additional benefits of such a move are thought to be reduced costs and a stimulation in the fintech sector for startups and non-traditional financial institutions. The final PSD2 implementation date was January 13th, 2018. The biggest preparation is getting ready for compliance and following regulation. This new legal framework will be followed closely by fintechs and financial institutions, and each will get a unique perspective.
+
+ SO WHAT DOES PSD2 MEAN FOR FINTECHS?
+
+ Direct connections between retailers and customer’s bank accounts are made possible with the use of API or Application Programming Interface. This opens up all sorts of opportunities for fintechs to take advantage of. An open API, for example, would enable the use of congregate data that can be targeted to individual customers, as well as retailers, without compromising security. A classic example is card-linked marketing in which consumers can receive targeted assistance for  their financial institution at the point-of-sale.
+
+ As explained by SEPA for corporates, this may include incentives to buy or not to buy, bonus coupons, and the like. All of it made available digitally on mobile devices and all at a split-second before a purchase. It resulted in PSD2 Banking API to become the new buzz word.
+
+ WHAT DOES PSD2 MEAN FOR BANKS?
+
+ Banks will be required to build application programming interfaces (APIs) — sets of code that give third parties secure access to their back-end data. Those APIs serve as channels for developers to get to the data and build their own products and services around it. Such information could serve as a tool to understand things such as customers’ spending habits or credit history, and could lead to the creation of new services. In fact, banks will see new competition they never imagined. Two new types of will be focused on by the banks: Account Information Service Providers (AISP) and Payment Initiation Service Providers (PISP). AISPs are the ones who take the data of customers banking habits like how much the spend, when they spend, and where they spend and then turn that data into a profitable material. PISPs are the ones who will initiate the bill payments, or P2P service, on behalf of the financial institution’s customer. In either case, the two new competitors will have fewer costs than traditional banks and be much more versed in the latest in fintech.
+
+ Banks will see increased costs in their tech teams as well as compliance and security personnel for the use of banking APIs. The end result will likely be increased costs deferred to account holders in terms of creative fee structures and costs. Unfortunately for the banks this also comes at a time when consumers will be able to shop around for their financial services. The competition will be hotter than ever. All that being said, there will be unique opportunities for the traditional banks to pair with fintech companies and take advantage of the strengths these startups have in mobile and online. It should be mentioned that security will be as much a concern for the fintechs looking to emerge in this market as it is for banks. These companies will need to meet stringent security measures implemented by The European Union. This obviously includes KYC, PCI-DDS, and OTP.
+
+ HOW WILL CONSUMERS BENEFIT FROM PSD2?
+
+ With the introduction of PSD2, the European Parliament was not only focusing on changes in technology but reacting to changes in the security landscape. This is one element of PSD2 that benefits consumers on the whole, SEPA for corporates argues. The new guidelines sought to increase standards of security and encryption for the growing playing field of startup fintechs. Aside from the cost-saving wonders of an open marketplace and further competition that PSD2 brings, it also ensures better accountability on surcharges for payments. In fact, PSD2 brings enough advances and benefits to the whole financial world. It unlocks the monopoly of traditional financial institutions and enables customers to have a choice. That competition will force fintechs to drive innovations.
+
+ Expert opinions
+
+ DAVID NICHOLSON, co-founder, VP Strategy & Partnerships, Yoyo Wallet
+If to consider the companies that will be making the biggest change in this field, Yoyo, which can identify a retailer’s customers and connect them to their basket data, stole the march on using Open Banking framework back in November. Opening up retail
+loyalty to the wider banking experience, Yoyo entered into a first of-its kind partnership with Starling to enable the startup bank’s customers to automatically reap the benefits of retailer-specific loyalty programmes every time they used their Starling payment card in Yoyo-accepting high street stores.
+This partnership with Starling shows the awesome potential of Open Banking and marks the start of a new phase in high street retail to add even more value to the payments process and attach retailer loyalty to the wider banking experience.
+
+ RICHARD RANSOM, Head of Business Development, Bottomline Technologies
+Open Banking will make it easier for businesses to use Faster Payments in the UK, on a multi-bank basis. Additionally, the New Payment Architecture currently being designed for the UK will make Faster Payments even more valuable. New initiatives such as “Request to Pay” and “Enhanced Data” will see the potential introduction of sophisticated electronic invoicing into the payment system, ultimately making it easier for companies to pay and get paid.
+
+ CHRISTOPHER SCOTT, Programme Director/Compliance Lead & DPO, The Bunker
+2018 is a big year for The Payment Services Directive 2, most authorised payment & e-money institutes in the UK have until the 12/07/18 for FCA approval. One of the changes is banks having to add stronger layers of security to customers. Classed as Strong Customer Identity Verification (SCeID), and two-factor Strong Customer Authentication (SCA) it is required for all remote access to customer accounts. Failure to comply could mean proportionate, effective and dissuasive fines being imposed as outlined within the new General Data Protection Regulation.
+
+ TRENT MCCONAGHY, Founder of Ocean Protocol
+It’s a win any time that I as a customer can get more direct visibility and control of my data – financial and otherwise. My ideal is where *I* control all my data, that is, I and I alone possess the private keys to it, and I choose who and when to let others see or use that data. This is the direction we’re headed. Bitcoin and cryptocurrencies are “private key first” ecosystems, and this thinking will permeate more traditional financial and identity ecosystems too.
+The vision is the sovereign individual, which includes me having full control of my data and giving permission as needed; and getting privacy when I want it. Building blocks to this include:
+• DID (decentralized identifier) protocol which generalises a bit on private keys to
+makes key recovery, key rotation (for better anonymity) and more easier.
+• names that are secure, human-meaningful and decentralized all at once (Zooko’s triangle); this is now possible using blockchains for decentralized naming systems.
+• new algorithms that preserve my privacy while computing on my data (eg zero knowledge proofs, multi party compute)
+• attestation that is decentralized and secure, via blockchain technology. E.g. I only have to do KYC once. E.g. institution X can digitally sign that I got a degree from it.
+• and more. It’s mostly blockchain combined with old&new crypto that is making the big differences here.
+
+ MEGAN CAYWOOD, Chief Platform Officer, Starling Bank
+There is a lot of work being done in the space of AI, Machine Learning, and APIs to improve the identity process. I suspect it will be a combination of the three that will solve this challenge in the technology ecosystem.
+
+ On practice
+
+ Banks Grapple With the Technology Implications Of PSD2 And Open Banking
+The Second Payment Services Directive (PSD2) came into effect on Saturday 13th January, with the Europe-wide legislation set to change the way that banks operate. Consumers are now able to instruct their banks to share data securely with third parties, making it easier to transfer funds, compare products and manage their accounts.
+However, according to the Competition and Markets Authority several of the UK’s major banks have been granted more time, after indicating that they would fail to miss the PSD2 deadline. Barclays, Royal Bank of Scotland, HSBC, Santander and Bank of Ireland informed the Competition and Markets Authority that they could not release all the data needed on their customers in the time frame required by the new law. This indicates the ongoing technology challenge faced by banks.
+“January 13th is meant to see the start of disruption for the banking industry. However this kind of technology change can be very complex for banks. It involves dealing with very high stakes application assurance, meaning the confidence to know that their systems are running, available and secure at all times. All legacy applications need to be refactored to fit with the agile API infrastructure. Many banks currently use private APIs to improve information flow internally between legacy systems, so they already
+have experience of this kind of programming. But the technology and security implications of open APIs are far greater and require a high level of assurance,” Ben Boswell, VP Europe for World Wide Technology comments.
+
+ Kate Goldfinch,
+
+ Managing editor of The Fintech Times
+
+ The PSD2 review is based on sepaforcorporates.com analytics
+
+  
+
+  
+
+  
+
+

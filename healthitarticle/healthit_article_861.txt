@@ -1,0 +1,31 @@
+Healthcare Looks to Real-Time Big Data Analytics for Insights
+
+June 28, 2016
+
+By Jennifer Bresnick
+June 28, 2016 - Healthcare providers and life science companies are among the 92 percent of cross-industry organizations who plan to invest in near real-time big data analytics applications as soon as they possibly can, according to a new survey conducted by OpsClarity. 
+“The ability to harness the power of real-time data analysis gives businesses a competitive edge in today’s digital economy by enabling them to become more agile and rapidly innovative,” said Dhruv Jain, CEO and co-founder of OpsClarity.
+“However, as the underlying stream processing data frameworks and applications are relatively new and heterogeneous in nature, end-to-end monitoring and visibility into these fast data applications is critical for organizations to accelerate development and reliably operate their business-critical functions.”
+Fast data and streaming analytics, which allow organizations to create nearly instantaneous personalization opportunities and highly informed decisions, are a top priority for both consumer-facing and internal big data analytics tasks, the poll revealed. 
+Most respondents are seeking completed analytics transactions in five minutes or less.  Twenty-seven percent of respondents believe that streaming processing systems must deliver insights within thirty seconds of the initial query.
+READ MORE: Can Health IT Platforms Support Success as Artificial Intelligence Looms?
+Thirty-two percent of respondents are planning to use the technology to power applications to serve the needs of their consumers, while 29 percent are likely to focus on internal analytics to optimize business practices.  Thirty-nine percent will spread their efforts over both core areas.
+“With new fast data technologies, companies can make real-time decisions about customer intentions and provide instant and highly personalized offers, rather than sending an offline offer in an email a week later,” Jain said.
+“It also allows companies to almost instantaneously detect fraud and intrusions, rather than waiting to collect all the data and processing it after it is too late.”
+Real-time data pipelines are already well into their development phase for two-thirds of survey respondents, while a further 24 percent are planning to begin the adoption process by the end of 2016.  Just four percent of participants said that real-time analytics deployment was “not relevant” to their interests.
+Traditional batch processing, which may deliver insights once a day or even less frequently, appears to be on its way out, with 10 percent of respondents stating that they will eliminate batch processing and shift entirely to streaming analytics. 
+READ MORE: Big Data Analytics Resource Center Takes Aim at Pediatric Cancer
+A further sixty-eight percent will take a slightly more cautious approach by reducing their investment in batch processing while simultaneously ramping up their streaming capabilities.  Fourteen percent will increase investment in both strategies.
+“Real-time data and stream processing are becoming central to how a modern company harnesses data," said Jay Kreps, CEO and co-founder of Confluent, which provides popular technologies to enable fast data processing.
+“For modern companies, data is no longer just powering stale daily reports--it's being baked into an increasingly sophisticated set of applications, from detecting fraud and powering real-time analytics to guiding smarter customer interactions.”
+Many respondents are also looking to the cloud to host their increasingly agile data pipelines.  Forty percent of participants are completely cloud based, while 32 percent keep their infrastructure on premises.  The remaining 28 percent are taking a hybrid approach.
+However, the transformation process is unlikely to be smooth sailing for all who attempt it.  A majority of respondents said that lack of experience and questionable awareness of the role and benefits of fast data analytics are making the transition a difficult proposition.
+READ MORE: How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+Participants also identified a lack of end-to-end visibility into performance and reliability, difficulties resolving problematic issues, and poor coordination across development segments as reasons why this challenging task may hit bumps in the road.
+The complexity of the big data environment presents its own difficulties, the survey added.  More than half of respondents said that the frequency of code changes required to maintain and enhance services could lead to instability, while 44 percent added that inexperience with this new area of data analytics was an issue. 
+While stream processing may enable a new wave of speedy, personalizable analytics that could address such pressing healthcare issues as patient safety, clinical risk assessment, organizational optimization, readmissions, and patient engagement, the challenges and unknowns are many.
+“The industry is experiencing remarkable growth in both awareness and adoption of real-time high-velocity data processing platforms,” the survey concludes.
+“While there is an ensuing debate between the di­fferences between micro-batch and streaming platform, organizations are realizing the benefits of processing high-velocity data as soon as it is ingested, rather than waiting for a mid-night analysis through batch-processing.”
+Tagged Analytics InfrastructureCloud ComputingHealth IT InfrastructureHealthcare Big Data Analytics
+
+

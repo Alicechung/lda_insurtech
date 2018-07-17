@@ -1,0 +1,25 @@
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+
+May 25, 2017
+
+By Jennifer Bresnick
+May 25, 2017 - Researchers at the University of Pennsylvania Health System have developed a machine learning tool that helps predict patients at highest risk for developing severe sepsis, a common and fast-moving killer in the inpatient setting.
+Using electronic health record (EHR) data from more than 160,000 patients and a random forest classifier to train the algorithm, the team created a tool that can monitor hundreds of key variables in real-time.
+The machine learning algorithm, which was validated in clinical practice using a sample of over 10,000 individuals, identified patients headed for severe sepsis or shock a full 12 hours before the onset of the illness.
+Dig Deeper
+Using Big Data Analytics, Systems Engineering to Tackle Sepsis
+Sepsis “Sniffer” Brings Predictive Analytics to Patient Safety
+Big Data Analytics Show More Sepsis Deaths in Large Hospitals
+“We were hoping to identify severe sepsis or septic shock when it was early enough to intervene and before any deterioration started,” said senior author Craig Umscheid, MD, of the Hospital of the University of Pennsylvania.
+“The algorithm was able to do this.  This is a breakthrough in showing that machine learning can accurately identify those at risk of severe sepsis and septic shock.”
+Providers receive alerts in the EHR when patients screen positive for sepsis.  Approximately 3 percent of all acute care patients met the criteria during the validation period, which took place in 2015.  Clinicians across the three UPenn hospitals using the tool received about ten alerts per day.
+Umscheid and lead author Heather Giannini, MD, presented their study on the machine learning tool at the 2017 American Thoracic Society International Conference.
+“We have developed and validated the first machine-learning algorithm to predict severe sepsis and septic shock in a large academic multi-hospital healthcare system,” said Giannini.
+Sepsis is a common target for predictive analytics and clinical decision support initiatives.  Mortality rates from the body’s overreaction to an infection can reach 30 percent, and the condition accounts for close to $24 billion in spending each year.
+Real-time patient surveillance algorithms can support clinical decision tools that alert providers to early signs of deterioration. 
+A 2016 study from Huntsville Hospital in Alabama found that a combination of real-time surveillance algorithms and CDS applications cut sepsis deaths by more than 50 percent, while the Sepsis Sniffer algorithm developed at the Mayo Clinic detected high-risk patients in half the time it takes a typical human clinician.
+Machine learning has the potential to further enhance the health system’s ability to create highly sensitive applications to flag patients at elevated risk of deterioration.  The ability to use past results to inform future decision-making is a hallmark of the field, which leads to more and more accurate predictions about which patients are most likely to experience downturns in their health.
+“This is a breakthrough in the use of machine learning technology,” said Giannini, “and could change the paradigm in early intervention in sepsis.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsEHR Data AnalyticsHospital QualityMachine LearningPatient SafetyPredictive Analytics
+
+

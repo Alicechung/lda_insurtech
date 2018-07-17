@@ -1,0 +1,11 @@
+Exscudo uses multisignature technology to protect user accounts
+
+November 9, 2017
+
+Digital space is full of dangers, one of which is hacker attacks. That is why such services as cryptocurrency wallets and exchanges, that exist only in digital space, are particularly vulnerable. Since transactions in blockchain are irreversible it is impossible to get back the stolen funds.
+
+ Multisignature, technology developed to increase the accounts’ security level, is one of the solutions, which will be implemented in Exscudo ecosystem. Multisignature is a digital signature scheme allowing a group of accounts to sign one transaction. A user specifies accounts that will confirm his or her transactions in advance. In Exscudo ecosystem there will be several variations of this scheme – for example, a user can indicate that his transactions need two of three specified accounts’ signature to be confirmed, or, in opposite, that transactions should be necessarily protected by all the three accounts.
+
+ Multisignature is one of the Exscudo tools to enhance security. This scheme will be particularly interesting for peer holders, whose accounts confirm transactions. Indeed, a user whose account participates in block generation has to enter his private key. It means, that with some effort hacker may read the key from the server. However, if the wallet is protected with multisignature, it is impossible to withdraw the funds without the certain number of accounts to agree, even if the private key is known.There are several variations of multisignature scheme. Some are more easy-to-use, such as 2FA, where confirmation is made with E-mail and SMS. But when it comes to company’s account, it is very risky to give account access to one person only. Multisignature reduces these risks providing the scheme for several accounts to take decisions together.
+
+

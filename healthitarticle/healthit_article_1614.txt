@@ -1,0 +1,32 @@
+ONC Health IT Interoperability Roadmap Stresses Data Standards
+
+January 30, 2015
+
+By Jennifer Bresnick
+January 30, 2015 - The Office of the National Coordinator is refining its course towards health IT interoperability with the release of a detailed plan to achieve nationwide health information exchange entitled Connecting Health and Care for the Nation: A Shared Nationwide Interoperability Roadmap.  With a focus on developing and adopting data standards as a way to ensure that electronic health data reaches the right providers and patients at the right time, the plan builds off of the ONC’s ten-year strategy for interoperability released in the summer of 2014, and hopes to accelerate progress in the near term through a number of concrete actions the industry can begin to take immediately.
+“In the decade since ONC began its service to the nation, the United States has experienced remarkable progress in the digitization of the health experience,” writes National Coordinator Karen DeSalvo, MD, MPH, MSc, in a forward to the report. “There has also been significant advancement of payment reform that is driving the need for better visibility of the care experience and demand for straightforward quality measurement.”
+“Consumers are increasingly expecting their electronic health data to be available when and where it matters to them, just as their data is in other sectors. And new technology is allowing for a more accessible, affordable and innovative approach. However, barriers remain to the seamless sharing and use of electronic health information,” she cautions.
+“HHS is working to achieve a better health care system with healthier patients, but to do that, we need to ensure that information is available both to consumers and their doctors,” added HHS Secretary Sylvia M. Burwell in a press release.
+“Great progress has been made to digitize the care experience, and now it’s time to free up this data so patients and providers can securely access their health information when and where they need it. A successful learning system relies on an interoperable health IT system where information can be collected, shared, and used to improve health, facilitate research, and inform clinical outcomes. This Roadmap explains what we can do over the next three years to get there.”
+READ MORE: FHIR, Big Data to Support FDA Medical Device Development Network
+The ONC has identified four “critical actions” for achieving results by the year 2020:
+• The establishment of a clear and coordinated data governance framework to encourage system-wide health IT interoperability
+• The widespread adoption of technical standards that use a common data set for simplified information exchange and use
+• Incentives for providers who achieve interoperability and health information exchange goals that are based on a common clinical data set
+• Improved guidelines for the privacy and security measures necessary to ensure proper transmission, access, and use of sensitive patient data as it is shared
+READ MORE: 16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+These goals will set the industry on a path towards a true “learning health system” by 2024 that allows patients, providers, and researchers to seamlessly exchange health information that supports population health management, patient engagement, and improved outcomes.
+“An interoperable health IT ecosystem should support critical public health functions, such as real-time case reporting, disease surveillance and disaster response, as well as data aggregation for research and value-based payment that rewards higher quality care, rather than a higher quantity of care,” the report states.
+In order to achieve the promise of the learning health system, the ONC will rely on five “building blocks” that work together to drive improvement, including:
+• Engagement and data governance
+READ MORE: Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+• A supportive regulatory, business, and cultural environment to foster innovation
+• Data security for health information exchange
+• Certification and testing of applicable products
+• The promotion of core technical and data standards
+While the ONC is actively seeking detailed public comment on the roadmap until April 3, 2015, the healthcare industry has already reacted positively to the draft document.
+“The HHS interoperability roadmap announced today is an important step forward for all of us committed to a data-driven approach to improving health care. If the public and private sectors will work together on solving the interoperability challenge, we have a chance to significantly improve the practice of medicine and, most importantly, the health of patients across this country,” said Jennifer Covich Bordenick, CEO, eHealth Initiative.
+“While we have made great strides as a nation to improve EHR adoption, we must pivot towards true interoperability based on clear, defined and enforceable standards,” agreed CHIME President and CEO Russell P. Branzell, FCHIME, CHCIO. “This Roadmap incorporates a tremendous amount of stakeholder input and articulates a clear path towards interoperability. It is a cornerstone in the continuing evolution of federal health IT policymaking.”
+  Tagged Analytics InfrastructureEHR InteroperabilityHealthcare Data Strategy
+
+

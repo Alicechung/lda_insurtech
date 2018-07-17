@@ -1,0 +1,47 @@
+OMG!!! Only 345 Working Days to GDPR… (but what is it and what does it mean?)
+
+January 31, 2017
+
+The General Data Protection Regulation is the new legislation replacing the current Data Protection Act, becoming a new citizen’s charter for the protection of personal data.
+
+ So we’ll be running a regular on this because…
+
+ It applies to any global entity processing EU citizens’ personally identifiable information, data controllers and data processors alike, with a burden of proof on them to evidence compliance.
+
+ Which means it impacts every tech & finance company…
+
+ From Fri 25th May 2018 it becomes UK / EU Law. (It became best practice from May 2016, you knew that right?)
+
+ (And No, Brexit isn’t going to change anything on this one. Hard, soft, fried or otherwise.)
+
+ Why is this legislation happening to us? Ultimately the law needed upgrading because data breaches are real, continuous, escalating, and dangerous to individuals and companies alike. Data breaches expose consumers, like Talk Talk customers, to the ongoing risks associated with having their personal information held, shared and sold by criminals. When seen in that context, data breaches are serious. Imagine a company holds the keys to ten thousand houses, then allows those keys to be stolen, on a big bunch, along with the addresses. A shrug, a meh, and a fine of a few hours profit is no longer a sufficient slap on the wrist to motivate preventative measures. How does 4% of Global turnover sound instead?
+
+ Hit me:
+
+ Bottom line: Companies need to demonstrate they’ve taken steps to prevent any unlawful forms of processing, in particular any unauthorised disclosure, dissemination or access, or alteration of personal data. It’s all about having strong controls around personal information. With a burden of proof on the company to evidence compliance.
+
+ The following from Vega Solutions:
+
+ “Control Access is frequently a weak point. Static credentials are exploitable to gain unauthorised access to sensitive resources or perpetuate a full-blown data breach. It is therefore essential for organisations to eliminate this vulnerability by establishing strong, multi-factor authentication to any resource that holds value, be it a network, portal, or application.”
+
+ Vega Solutions are one of our partners in this series of articles, they provide a ‘secure outer shell’ for web portals and client management platforms, and are more than happy to supply further information regarding the technical solutions to this particularly important change in law. Ask them about Sirius, data protection by design and default.
+
+ The other side of the coin is compliance. Understanding what it is you need to understand. For that, we gratefully turn to Compliance3, another of our information partners. Our Information Commissioner has spoken and the message is loud and clear. In her speech to the Institute of Chartered Accountants in England and Wales last week (18th Jan 2017), Elizabeth Denham called for ‘accountability’ and very clearly positioned GDPR as a “game changer” later adding “We’re all going to have to change how we think about data protection.” So how to approach this? Well, sitting on your hands won’t achieve anything. The potential downsides of being non-compliant are significant and a clear matter of corporate governance, given up to 4% of global turnover is probably not something covered in your current insurance premium or you’d want to find somehow excluded from current supplier contracts. It’s my view that there are two other core components of GDPR that the fintech community should take on board and focus their efforts on. Both make GDPR the ‘game changer’ it is said to be. They are one, that in many cases the data processors responsibilities are equal to the data controllers and two, offenders are guilty till proven innocent.
+
+ I’m flagging this because I think the risk GDPR presents to the established fintech players that rely on extensive or complex personal data manipulation could potentially be ‘titanic’.
+
+ For the emerging players with models still at early stages of testing or development, well at least they can see what the data ‘bergs’ look like well before they start hunting for them within the ‘use cases’ and ‘data flows’ of their business models.
+
+ To finish the metaphor, underwriters, ship owners and passengers, don’t get sunk by this.
+
+ Information Partners:
+
+ Caroline Hyde, VegaSolutions.co.uk
+
+ Web portals and bespoke software development.
+
+ John Greenwood, Compliance3.com
+
+ Compliance3 help organisations align their payments and personal data compliance strategy with their existing and future commitments to customer experience and technology change.
+
+

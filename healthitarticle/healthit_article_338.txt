@@ -1,0 +1,33 @@
+EHR Usability Shortfalls May Up Pediatric Patient Safety Risks
+
+October 02, 2017
+
+By Jennifer Bresnick
+October 02, 2017 - EHR usability and design flaws may be putting pediatric patient safety at risk, and must be addressed by vendors and rule makers in order to ensure the delivery of high-quality care to children, says a coalition of healthcare stakeholders in a new letter to National Coordinator Dr. Don Rucker.
+In order to safeguard pediatric patients, providers must pay attention to a number of unique factors, such as weight-appropriate medication dosing and services tailored to the patient’s age and developmental status.
+However, electronic health records are not generally equipped to enable pediatric care providers to simply and safely order the correct therapies without a heightened risk of medical errors, asserts the letter signed by half a dozen professional societies and provider organizations.
+“Electronic health records have reshaped healthcare delivery—giving clinicians access to data to inform decisions, alerting doctors and nurses to potential safety risks, and enhancing efficiency,” wrote the American College of Cardiology, American College of Physicians, American Medical Group Association, American Nurses Association, Children’s Hospital Association, and The Pew Charitable Trusts.
+“EHR usability—which refers to their layout, design, how they fit into different workflows, and customizations made within healthcare facilities—can influence the efficiency of using these systems, user satisfaction with health information technology, and patient safety.”
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+Incorrect, unclear, or inaccessible information can lead to unintentional errors, the groups continued, such as one oft-cited example of a 16-year-old patient receiving 39 times the intended dose of a medication due to a mistake in weight-based dosing.
+EHRs often feature at the top of industry health IT hazard lists, such as those published by ECRI Institute every year.  In 2017, EHR data management was the number one concern for patients, while clinical decision support tools that offer suggestions for treatment planning or medication prescribing came in third.
+While the ONC has made a concerted effort to ensure that EHR development is monitored through its Certified EHR Technology (CEHRT) program, the groups contend that the current certification framework is not optimally tuned in to the needs of pediatric patients.
+That could change as the wide-ranging 21st Century Cures Act comes into focus.  The legislation, passed in 2016, requires rule makers to develop voluntary certification criteria specifically for pediatric EHRs by the end of 2018.
+The ONC has an opportunity to ensure that those criteria focus strongly on pediatric patient safety, the letter says.
+READ MORE: Patient Safety Errors are Common with Electronic Health Record Use
+“Specifically, the criteria developed through this voluntary program should include provisions to detect potential safety concerns before EHR systems are installed and used, and after implementation to identify challenges associated with—for example—customization by a healthcare facility,” the groups wrote.
+Many providers and industry stakeholders, including the ONC, have already tried to address these issues, and their work could serve as a springboard for future efforts to improve usability for pediatric caregivers.
+The National Quality Forum’s “retract and re-order” metric, which tracks how many times a provider cancels a prescription order for one patient and resubmits it for another, could be adapted to pediatric care situations, the letter suggests.
+Additionally, The Leapfrog Group’s standard for alerting providers to common yet serious medication errors may serve as a positive example for how to test EHR systems for safety and usability.
+And the ONC’s own work on EHR usability and patient safety may be valuable for informing future efforts, the groups note.
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+The recently-updated Safety Assurance Factors for Electronic Health Record Resilience (SAFER) Guides offer tips on ensuring EHR usability and optimizing workflows to prevent errors across all care settings, and can be an important resource for pediatric EHR developers and users as they work to improve their health IT use.
+“ONC could review whether certain aspects of the SAFER guides could be utilized as part of the pediatric EHR certification criteria to test products during development of after implementation,” said the letter.
+The ONC might also consider reexamining safety and usability criteria that did not make it into the existing versions of EHR certification criteria to see if these suggestions might, in fact, improve the delivery of safe care.
+“ONC initially proposed an electronic prescribing standard that included dosing instructions (called National Council for Prescription Drug Programs SCRIPT) as part of the 2015 EHR certification criteria,” the letter says.
+“Although this specific standard was not finalized, ONC could consider this standard for implementation as part of the voluntary pediatric certification program due to the necessity of having accurate medication dosing instructions to prevent overdoses in children, especially given weight-based dosing needs.”
+Implementation of the 21st Century Cures Act, which also contains directions to EHR developers to improve interoperability, adopt shareable standards, and expands patient data access, could be a turning point for patient safety, the groups conclude.
+“The development of voluntary certification criteria for pediatric EHRs affords ONC an opportunity to improve safety of children. We urge ONC to promptly begin work on the pediatric EHR certification criteria and to include provisions that monitor and test for safety through all of the stages of EHR development.”
+Tagged EHR OptimizationEHR UsabilityHealthcare QualityPatient SafetyQuality Of Care
+
+

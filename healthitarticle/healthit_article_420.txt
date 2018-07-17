@@ -1,0 +1,43 @@
+By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+
+July 05, 2017
+
+By Jennifer Bresnick
+July 05, 2017 - Within the next five to ten years, healthcare organizations are likely to have access to integrated health IT platforms based on an emerging set of information management technologies including blockchain, the Internet of Things (IoT), and machine learning, predicts Frost & Sullivan.
+The convergence of these big data analytics and access methodologies will accelerate the growing trend of data decentralization and consumer access to personal health information by making it easier for all members of a patient’s care team to stay securely informed, involved, and interoperable with one another.
+"A blockchain-based system will enable unprecedented collaboration, bolstering innovation in medical research and the execution of larger healthcare concepts such as precision medicine and population health management,” explained Transformational Health Industry Analyst Kamaljit Behera.
+Blockchain leverages a distributed ledger system, in which every member of the community holds identical records of all transactions conducted between them. 
+Every entity that holds a copy of a ledger must approve any and all changes to the dataset before it can be conducted, providing a more secure way to ensure that access and edits are authorized.
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+As more sensitive data starts to move more rapidly between a larger number of devices, organizations, platforms, and machine learning applications, blockchain may be able to offer an easier and more comprehensive strategy for ensuring trust, data integrity, and better control over how information is used.
+"Burgeoning connected health devices and the need to protect against data breaches make blockchain, with its ubiquitous security infrastructure, the obvious foundation for emerging digital health workflows and advanced healthcare interoperability,” Behera continued. “It creates an additional trust layer through unique distributed network consensus that uses cryptography techniques to minimize cyber threats."
+“Blockchain technology may not be the panacea for healthcare industry challenges, but it holds the potential to save billions of dollars by optimizing current workflows and disintermediating some high-cost gatekeepers."
+The life science and pharmaceutical industries are likely to be among the first to benefit from a more comprehensive way to track and manage transactions, Behera noted. 
+Blockchain could improve pharmaceutical supply chain management by offering a tamper-proof record of how every single pill, vial, or patch moves between stakeholders until it gets to the patient.
+READ MORE: Top 4 Ways to Use Blockchain for Healthcare Data Management
+“In the pharmaceutical industry, the technology can potentially save $200 billion by inhibiting counterfeit and substandard drugs," he said.
+This assertion is backed by another recent report from the Pistoia Alliance, which forecasts that the majority of the life science industry will adopt blockchain-based data management tools within the next five years.
+Twenty-two percent of pharmaceutical and life science executives participating in an online survey said they are already using or experimenting with blockchain.
+This figure mirrors a poll conducted by IBM at the beginning of 2017, which found that 16 percent of global healthcare organizations – including payers and providers – had definite plans to start implementing blockchain tools during the following 12 months. 
+In that survey, IBM also predicted that 56 percent of healthcare organizations would invest in blockchain by the end of the decade. 
+READ MORE: Google DeepMind: Blockchain Can Ensure Health Data Integrity
+Blockchain has the potential to unify disparate data sets, breaking down data siloes that make it difficult for machine learning algorithms to access the standardized, comprehensive, high-integrity datasets required to perform advanced analytics.
+If blockchain can increase organizations’ trust that the data they hold is current, accurate, and clean, they may be able to apply machine learning more effectively for predictive analytics, clinical decision support, and medical research at a much larger, nationwide scale.
+“When data is trusted and protected, collaboration takes off,” IBM said in its survey.
+“Blockchains could replace the intermediaries that once existed to secure this data, perform these tasks. Smaller organizations could join ecosystems to take on larger competitors. Private sector participants could gain access to and create new sources of data, whether that’s wellness data streaming from personal devices or information collected by home caregivers.”
+In order to achieve these goals, however, the industry will need to quickly come together to define and adopt standards – something that stakeholders failed to adequately achieve during the first rush to digitize healthcare and adopt electronic health records.
+"The healthcare industry needs to establish blockchain consortia to facilitate partnerships and create standards for future implementation on a large scale across healthcare use cases," stressed Behera.
+Several consortia focused on bringing blockchain to healthcare already exist.  The Pistoia Alliance, which is dedicated to fostering innovations in the life science space, is among the organizations taking a leading role in promoting collaboration around blockchain.
+Hyperledger, the cross-industry effort to help blockchain expand from powering cryptocurrency to becoming a mainstream tactic for information sharing, has also attracted a growing number of members interested in the healthcare space.
+“We want blockchain to become integrated into the very fabric of the internet,” Brian Behlendorf, Hyperledger’s Executive Director, said to HealthITAnalytics.com earlier in 2017.
+“We think coalition building is the way to do that. Blockchain allows us to change the physics of data sharing by allowing us to expand secure, private access to data in a decentralized, equitable way.”   
+SAP and Change Healthcare recently signed up for the collaborative, joining IBM, Kaiser Permanente, Intel, NTT Data, and other companies with healthcare interests in their portfolios.
+Gem Health, identified by Frost & Sullivan as one of the companies leading the way in the healthcare-specific vendor space, is also a Hyperledger member. 
+Another company on Behera’s watch list is Guardtime, which worked with the Estonian government in 2016 to deploy the world’s first blockchain-based healthcare records management system at the government level.  
+Other vendors to watch include PokitDok, Patientory, and iSolve, says Frost & Sullivan.
+As machine learning and access to Internet of Things data become a basic requirement of healthcare big data analytics, blockchain could offer an innovative and effective way to ensure that all that big data is being using and stored appropriately. 
+From medical research to patient safety to population health management, a secure and trustworthy distributed ledger system is a promising development for an industry still struggling with the basics of data integrity and quality.
+If the industry’s increasingly confident predictions about the future of blockchain come true, it may only take a handful of years before blockchain, machine learning, the Internet of Things, and other areas of big data analytics combine into a seamless, interoperable, and trusted powerhouse for generating actionable insights and ensuring high quality patient care.
+Tagged Blockchain in HealthcareHealthcare Data GovernanceHealthcare Internet of ThingsHealthcare InteroperabilityMachine LearningMedical ResearchPopulation Health Management
+
+

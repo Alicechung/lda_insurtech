@@ -1,0 +1,17 @@
+OTOY Introduces RNDR, Blockchain-Based Rendering Platform Built On The Ethereum Blockchain
+
+02 May 2018
+
+RNDR Announces New Partnerships with Zeppelin, Decentraland
+Leading cloud-based graphics rendering firm OTOY has introduced RNDR, a blockchain-based rendering platform that leverages a distributed network of idle GPUs to render graphics more quickly and efficiently. Based on a patent taken out by OTOY in 2009 for a token-based billing model for server-side rendering, RNDR is built on the mission of accelerating an immersive, virtual future, allowing content creators to crowdsource the power of graphics cards across its peer-to-peer network. RNDR’s technology makes it possible to scale rendering speed and simplify the transactional process of rendering and streaming 3D environments, models, and objects. Recently closing the completion of their Phase I release, RNDR’s team and advisory board is comprised of notable players such as Hollywood director and producer J.J. Abrams, founder of Brave and Basic Attention Token Brendan Eich, and famed talent agent Ari Emanuel.
+Jules Urbach
+Jules Urbach, CEO of OTOY said, “The concept for RNDR has been in the works for some time and the reaction we’ve seen so far is highly encouraging. We’re now in an excellent position to deliver on our mission of democratizing the process of complex rendering.”
+Today, RNDR also is announcing partnerships with blockchain innovators ZeppelinOS and Decentraland. Zeppelin will be working with RNDR to provide an on-chain smart contract library that developers can call to provide standard and common functions in their applications. In addition to this, the Zeppelin OS SDK will assist in the development, testing, and deployment of RNDR’s decentralized apps. This partnership is a crucial element in the scaling of the RNDR network and its potential to perform an ever-growing number of transactions.
+Demian Brener
+Demian Brener, Zeppelin CEO, said, “We are proud to partner with RNDR to achieve our mission of creating the next generation of smart contract infrastructure. We look forward to collaborating with them to usher in a new era for smart contract security with ZeppelinOS.”
+Through RNDR’s partnership with VR blockchain, Decentraland, RNDR will make the process of rendering and streaming intricate virtual works easier for all users by allowing complex GPU-based render jobs to be distributed and processed on a peer-to-peer network. RNDR’s partnership with Decentraland will see RNDR working directly with the public VR blockchain’s user base to provide them with access to RNDR’s network of GPUs that can power the creation of assets on the Decentraland platform. Decentraland co-founder Ari Meilich also serves on RNDR’s advisory board.
+Urbach added “Working with these two renowned blockchain companies is valuable in our move towards creating an extensive, distributed network of idle GPU computing power. Both Zeppelin and Decentraland are experienced players in the blockchain space and we are confident that these partnerships will provide us with access to even more users as our network scales.”
+Decentraland co-founder Ari Meilich said, “I chose to join RNDR’s advisory board because they share my mission of creating an open, decentralized Metaverse. We hope that, with the launch of their platform, Decentraland content creators will be able to rent GPU power in a P2P network. RNDR has the potential to increase the pool of GPUs available by 3 to 4 orders of magnitude, compared to the public cloud.”
+ 
+
+

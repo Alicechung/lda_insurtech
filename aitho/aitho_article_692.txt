@@ -1,0 +1,17 @@
+Facebook Integrates The Sketchfab Download API In AR Studio
+
+03 May 2018
+
+Over 150,000 Creative Commons Licensed 3D Models From The Sketchfab Community Now Available To AR Developers
+Announced at the annual developer conference f8 today, Facebook shared the integration of the recently released Sketchfab Download API in Facebook AR Studio.
+Facebook AR studio is a suite of tools to create augmented reality filters for mobile. With this integration, Facebook developers can easily search and import Sketchfab content from a library of more than 150,000 assets available for free download under Creative Commons licensing.
+Sketchfab became the go-to way to publish 3D content by spending the past 6 years integrating their toolset in creation tools as a sharing feature, As a result, the company has grown into the largest library of 3D models online with over 2.5 million assets.
+With the release of the company’s download API a month ago Sketchfab shared its vision of providing a search bar for the 3D world, allowing its content from its huge community to integrate back into all the use-cases that need 3D content.
+The move, integrating Sketchfab into both the upload and download sides of the 3D coin makes the platform a central piece of the 3D/VR/AR ecosystem.
+Alban Denoyel
+Sketchfab, CEO, Alban Denoyel, said, “Partnering with Facebook is an important milestone on our path to make our download API the industry standard.”
+About Sketchfab, Inc: With a community of over one million creators, Sketchfab is the largest platform to publish and find 3D models online.
+Our technology integrates with every major 3D creation tool and publishing platform and supports almost every 3D format directly through our site or using one of our official exporters. Using our universal 3D player, your creations can be embedded on any web page and every major network including Facebook, Twitter, Tumblr, LinkedIn, WordPress, Behance, DeviantArt and Kickstarter. Our store supports the buying and selling of 3D assets with confidence.
+Read More: Changing Face Of Gaming Debunks Long Held Stereotypes
+
+

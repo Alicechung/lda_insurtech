@@ -1,0 +1,33 @@
+HIV/AIDS Patient Registries, EHR Use Improve Population Health
+
+September 21, 2017
+
+By Jennifer Bresnick
+September 21, 2017 - The combination of an electronic health record (EHR) and a digital patient registry is starting to significantly improve care for individuals with HIV and AIDS in a number of clinics and health systems across the country, says ONC Chief Medical Officer Dr. Thomas A. Mason in a new HealthITBuzz blog post.
+While the adoption of data-driven population health management tools has not come without its trials and tribulations, EHRs and patient registries can help providers identify patients, stratify individuals by risk, target interventions, and access key patient data at the point of care, Mason says.
+“Having data managed and curated in electronic form helps doctors quickly identify patients who are missing their appointments or who aren’t filling their prescriptions,” he wrote. “It lets the clinicians look at key clinical metrics like CD4 counts. Ultimately, it helps the doctors and other clinic staff keep very close track of HIV patients and avoid costly complications or treatments.”
+“Well-implemented electronic health records are also an important tool that helps provide continuity of care, so when a specialist picks up a chart down the line, he knows exactly what was going on with a patient at a specific point in time.”
+At the Woodlawn Health Center in Chicago and Ruth Rothstein Core Center, part of the Cook County Health and Hospital System, Dr. Pete Thomas is levering his EHR and population health registry to “get straight to the point,” he told Mason.
+READ MORE: Will Big Data Analytics Rescue Lackluster Electronic Health Records?
+“It allows us to have the data in one place and helps us make good decisions and have clear conversations with whoever else picks up the chart down the line.”
+Thomas, who is an internist and medical director at Woodlawn, said there is “no comparison” between how his clinicians practiced before installing an EHR and how they can care for patients with the help of registries and other health IT systems.
+“It took a lot of work by the physicians and the implementing staff to get the tools where they are now,” Mason acknowledged. “Dr. Thomas told me that the data now allows doctors to deploy clinical resources to HIV patients quickly.”
+“Their EHR installation allows the clinicians to focus less on the unknown and more on the practice of medicine. The technology shows the data all in one place and makes clinical decision making much easier.”
+The Department of Veterans Affairs has made similar progress caring for this unique and often very complex population. 
+READ MORE: Health Data Exchange Could Save Medicare $3.12 Billion a Year
+The Veterans Aging Cohort Study Index (VACS Index), which tracks mortality and other outcomes for individuals living with HIV infections, would “not have been possible without electronic health records,” said Amy Justice, MD, PhD, the section chief of general medicine at the Connecticut VA and professor of medicine and public health at Yale University.
+Data visualization capabilities within the EHR allow providers to show patients exactly how they are faring with a variety of key metrics, which encourages collaboration and helps deliver meaningful education. 
+Providers can also monitor patients and their self-care habits, such as filling prescriptions and acquiring vaccines for shingles or the flu.
+Proactive monitoring is also a top priority for other public health entities, including state-level health information exchange (HIE) organizations in states such as New York, Louisiana, and Georgia.
+Healthix, one of New York’s publicly funded HIEs, is using its registry of more than 56,000 HIV/AIDS patients to collaborate with the AIDS Institute and prevent individuals from being lost to care.
+READ MORE: Cost is a Primary Driver of Medication Non-Adherence Rates
+Healthix sends alerts and C-CDA documents to providers in real time when an at-risk patient is identified.  The HIE can deliver data on labs, medications, diagnosis and procedure codes, and encounters to the individual’s primary care providers or specialists, ensuring that care teams are up to date.
+“In the South, similar initiatives, using federal funding, are in place helping to identify HIV and AIDS patients,” Mason added.  “In Georgia and Louisiana, health departments are harnessing data to identify and manage the care of patients with the help of our federal partners at the Health Resources and Services Administration (HRSA).”
+The Louisiana Public Health Information Exchange (LaPHIE), also sends real-time alerts to providers when individuals who have not had HIV viral load or CD4 tests in more than a year show up for care in a network of seven hospitals, even if their visit is not directly related to their chronic condition.
+Out of the 344 lost-to-treatment patients identified within the first 18 months of the program, 82 percent were referred to proper HIV care, Mason said.
+Georgia’s Department of Public Health is working to bring similar successes to the state, although policy barriers have presented some obstacles.  The state is exploring how to identify characteristics of out-of-care patients, reduce the time from alert to care re-entry, and support patients as they try to achieve and maintain viral suppression.
+The continued development of EHRs, registries, and health information exchange capabilities will be vital for these tasks, Mason concluded.
+“As we look to expand the use of interoperable health IT and electronic health information across the healthcare system, we hope to be able to highlight additional successes in the work being done to help people living with HIV and AIDS,” he said.
+Tagged Chronic Disease ManagementEHR UseHealth Information ExchangeInteroperabilityPopulation Health ManagementRegional Health Information Organizations
+
+

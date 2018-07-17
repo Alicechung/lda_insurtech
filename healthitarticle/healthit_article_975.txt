@@ -1,0 +1,52 @@
+How to Participate in the Physician Quality Reporting System
+
+April 05, 2016
+
+By Jennifer Bresnick
+April 05, 2016 - Healthcare providers may not always jump for joy when thinking about their participation in one or more of CMS’ plethora of quality reporting programs, but performance measurement initiatives are an inescapable part of practicing modern medicine.
+Intended to bring greater standardization to the healthcare system and hold providers accountable to high standards of care, quality reporting frameworks like the EHR Incentive Programs can help organizations keep pace with their peers, ensure that they are delivering safe and effective care, and even bring additional dollars into the coffers when performance is high.
+In the case of the Physician Quality Reporting System (PQRS), successful participation means dodging a negative payment adjustment on Medicare reimbursements of up to 2 percent. 
+And since PQRS data is also used to calculate positive or negative reimbursements for the Value Modifier program, understanding how to navigate this quality framework is essential for keeping revenue cycles intact.
+PQRS payment adjustments are delayed by two years, so what happens in 2016 won’t catch up to healthcare organizations until 2018 – a year that is likely to bring any number of additional challenges as the Merit-Based Incentive Payment System (MIPS) starts coming into effect. 
+READ MORE: CMS: Patient-Centered Care Strategies Can Combat Opioid Abuse
+Taking the time to understand and participate in PQRS now can help providers avoid a rocky financial future in the years to come.
+What is the Physician Quality Reporting System?
+PQRS is one of the quality reporting programs that helps CMS quantify healthcare processes, outcomes, and patient experiences.  Collecting quality data from physicians is instrumental in helping CMS identify best practices, provide additional education or training for underperforming groups, and ensure that patients are receiving safe and effective care at the lowest possible cost.
+PQRS collects data that falls into the six quality domains that comprise the National Quality Strategy: patient safety, effective clinical care, patient-centered and caregiver-centered experience and outcomes, population health management, communication and care coordination, and practice efficiency and cost cutting opportunities.
+Measures are calculated using a numerator and denominator that create a ratio of how often a provider performs a certain service for a given population.
+READ MORE: Why an “Empty Desire” for Big Data is Inhibiting Value-Based Care
+Participants should choose at least nine individual measures that span at least three of the six quality domains. If the provider has any Medicare patients that they see face-to-face, they must also report on one cross-domain measure.
+Along with the EHR Incentive Programs and the Value-Based Modifier, PQRS is one of the major quality reporting initiatives used to monitor industry progress and reward or penalize providers for their performance.  In the future, PQRS, meaningful use, and the VBM will all become part of the Merit-Based Incentive Payment System (MIPS), which will also promote the adoption of alternative care and payment models.
+Who is eligible to participate in PQRS?
+PQRS eligibility generally covers the same general provider population as meaningful use.  Eligible professionals include Doctors of Medicine, Osteopathy, Podiatric Medicine, Optometry, Oral Surgery, Dental Medicine, and Chiropractic Medicine.
+Other EPs include physician assistants, nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists, midwives, clinical social workers and psychologists, registered dieticians and nutritionists, audiologists, physical and occupational therapists, and qualified speech-language therapists.
+READ MORE: Which Healthcare Data is Important for Population Health Management?
+However, CMS states that “professionals who do not bill Medicare at an individual National Provider Identifier (NPI) level, where the rendering provider’s individual NPI is entered on CMS-1500 or CMS-1450 type paper or electronic claims billing, associated with specific line-item services” are not able to participate in the program.
+How do I report my data?
+PQRS data can be reported individually or through the Group Practice Reporting Option (GPRO).  A “group” or “group practice” is made up of two or more individual eligible providers submitting reporting data under a single Taxpayer Identification Number (TIN).  The participating group members must reassign their billing rights to the TIN.
+Individual EPs may submit their data through claims reporting, registry reporting, certified EHR technology, or a qualified clinical data registry.
+Groups can submit their data through a qualified PQRS registry, through their certified electronic health record technology, or through a qualified clinical data registry.  Groups of 25 or more eligible providers can also use the CMS web interface.
+To use the Registration System, eligible providers will need to obtain an EIDM account in advance of their reporting activities.  CMS encourages participants to apply for an account as soon as possible to avoid last-minute complications.
+All groups between 2 and 99 eligible participants may decide whether or not to supplement their reporting with the CAHPS for PQRS Survey.  CMS will select survey vendors during an application process, who will then distribute the patient experience questionnaire.  Groups of providers with more than 99 EPs must complete this survey.
+The CAHPS survey collects data on patient-provider communication, patient education, administrative functions, and care coordination.  Providers who do not have a sufficient number of beneficiaries to produce reliable data are discouraged from participating in this optional program.  CMS suggests a minimum of 125 eligible responses for small providers and 255 responses for groups between 25 and 99 EPs.
+Groups must commit to reporting their 2016 data through a specified reporting mechanism before June 30, 2016.  If a group does not select a GRPO reporting mechanism between April 1, 2016 and June 30, 2016, they will not be eligible to submit their 2016 data to avoid the 2018 payment adjustment.
+“Groups with 2 or more EPs that choose not to report via the PQRS GPRO in 2016 must ensure that the EPs in the group participate in the PQRS as individuals in 2016 and at least 50 percent of the EPs meet the criteria to avoid the 2018 PQRS payment adjustment in order for the group to avoid the automatic downward payment adjustment and qualify for adjustments based on performance under the Value Modifier in 2018,” said CMS in an email update to providers.
+What are the benefits of participating?
+The Physician Quality Reporting System is technically an optional program, just like meaningful use.  However, since a 2 percent reduction in Medicare reimbursements is likely to produce significant impacts for many healthcare providers, there is a strong incentive to participate.
+In 2015, more than 470,000 eligible professionals lost 1.5 percent of their Medicare reimbursements due to non-participation in the PQRS program during 2013.  The vast majority of these providers simply did not register for participation or attest to the program.
+Calendar year 2016 is also tied to 2018 payment adjustments for the Value Based Modifier.  Providers will earn a positive, neutral, or negative payment adjustment based on quality and cost measures.
+In addition to the quality-based payment adjustments included in the program, non-participation in PQRS comes with an automatic two percent negative adjustment for solo practitioners and groups of 2 to 9 EPs, while larger groups will receive an automatic 4 percent negative payment adjustment.
+If providers also fail to attest to the EHR Incentive Programs, which will carry a 3 percent negative adjustment in 2018, organizations could be looking at a loss of more than ten percent of their Medicare reimbursements.
+EPs or groups that did not satisfactorily report on PQRS measures in 2016 will receive notice of any negative payment adjustments in the fall of 2017.
+Not only is PQRS participation tied to reimbursement rates, but the results from the program are publicly reported.  PQRS data is included on CMS’ Physician Compare website, which is a patient-facing tool for judging the quality of Medicare providers.
+As higher costs force patients to become more savvy shoppers, they will increasingly seek objective resources to help them make decisions about their care.  These public reporting programs may significantly impact patient perceptions about a provider’s ability to keep pace with federal requirements, not to mention their ability to deliver high-quality patient care.
+Where can I go for more information?
+CMS has released a variety of resources and guides to help eligible professionals succeed with the Physician Quality Reporting System.
+For information on payment adjustments related to quality reporting programs, click here.
+To read more about the CAHPS for PQRS survey, click here.
+For a step-by-step guide to registering for the GPRO system, please click here.
+For the list of eligible professionals and information about how to understand the eligibility process, please click here.
+Additional information about PQRS is available on the CMS website.
+Tagged Centers for Medicare & Medicaid ServicesPhysician Quality Reporting SystemPrimersQuality Of CareValue Based Reimbursement
+
+

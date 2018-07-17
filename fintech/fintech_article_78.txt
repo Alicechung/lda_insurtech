@@ -1,0 +1,27 @@
+Decentralised technology changing the financial world – fresh insights from Blockshow, Berlin
+
+June 17, 2018
+
+The problem of creating trusted digital identities to improve customer experience is among the core challenges for the incumbents and challengers in the digital era. Can blockchain help?
+
+ The Fintech Times spoke to the participants of Blockchow Berlin. The below companies, spanning a wide range of industries, are all ushering in the next wave of blockchain technology and bringing a number of unique use cases to life.
+
+ Today, we see the global finance taking the conservative approach and fighting blockchain. This situation resembles the one with Uber and regular taxi drivers, except in this case it will unravel much faster. Bankers realistically have very little chance of pushing away the change. Attempts to create a strict regulatory environment that is unfriendly to blockchain, such as what SEC is doing right now, is rather an interim process to clean the market of scam projects.
+
+ If we want blockchain to become a part of everyday life, the blockchain community has to focus on two big goals:
+
+ Enecuum developers found a proper solution to the scalability problem and designed a completely new approach for storing transactions – the HyperDAG. The approach guarantees high security and scalability.
+
+ Blockchain technology’s potential for saving on transactional costs and improving operational efficiencies is driving renowned financial institutions such as Santander, Credit Suisse, and UBS to invest millions in blockchain research.
+
+ Two areas which stand to benefit from the use of blockchain technology is fraud reduction and Know Your Customer (KYC): unlike traditional, centralised databases which are prone to cyberattacks due to a single point of failure, blockchain technology is a collection of transactions saved in separate blocks and is therefore less liable to data breaches and hacking.
+
+ With regards to KYC, blockchain would allow independent client verification by one organisation that could be used by any other organisation, resulting in a significant reduction in administrative and compliance costs, and saving financial institutions the US$60-300m spent each year on client due diligence.
+
+ Digital identities are also becoming more widely used, and blockchain technology allows users to make digital identity applications more secure and trustworthy. Unlike username and password combinations which are vulnerable to being hacked, a trusted digital ID is created with a verified identity document once a user’s information has been checked, allowing companies to verify if customers are who they claim to be.
+
+ Decentralised technologies and blockchain are already having transformative effects upon the world of traditional finance. Their further application by traditional financial institutions promises only to lead to further fundamental changes to this somewhat stagnant sector. The levels of security and immutability furnished by decentralising technologies will provide new storage solutions within the financial sector for documentations and loans, saving institutions billions of dollars as a result and drastically decreasing processing times. Recent estimates by Accenture show that the global financial industry could save up to $10 billion USD by using blockchain to store and process clearing and settlement – this figure is independent of blockchain’s other applications within financial markets and the savings they can accrue. As such, it highlights only a fraction of the positive effects which blockchain can have on traditional finance.
+
+ Blockchain technology similarly benefits customer experience by allowing the creation of trusted digital identities. The beauty of blockchain is that once a given transaction, or piece of information, is registered on a permissionless, fully-functioning blockchain, it is virtually impossible to manipulate or alter that data. If a customer opts to store their personal information on a decentralised ledger, they can enjoy full transparency as to what way their data is used – giving them levels of security and assuredness previously unknown to them. If a financial institution also opts to make use of a decentralised ledger to store customer data, it leads to far greater clarity in its service offering, improving customer experience. This improved service offering, giving customers renewed levels of transparency and security – which are increasingly valued in the modern economy – results in the business becoming more competitive, and leads to greater success in the long term.
+
+

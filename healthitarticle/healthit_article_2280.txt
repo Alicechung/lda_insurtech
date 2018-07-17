@@ -1,0 +1,18 @@
+IndiGO predictive risk scores reduce heart attacks, strokes
+
+September 13, 2013
+
+By Jennifer Bresnick
+September 13, 2013 - Analyzing EHR data on a patient-by-patient basis to generate predictive risk scores can increase the likelihood of medication adherence and reduce the chance of heart attacks and strokes, according to a new study published in JAMIA this week.  Researchers from Kaiser Permanente’s Care Management Institute found that use of the IndiGO score, individualized clinical guidelines based on the Archimedes model of validated biomathematical simulations, increased the likelihood of a patient receiving a statin prescription by nearly 5 times, and cut predicted risk of heart attacks and strokes by 1.6 percent.
+The IndiGO score uses data about human physiology, diseases, behavior, interventions, and healthcare system to generate predictions for the likelihood of cardiovascular and stroke events based on criteria such as blood pressure, medication history, body mass index (BMI), lifestyle factors, and cholesterol.  It’s one of a series of algorithms intended to flag potential complications being developed by analytics researchers to promote interventions before expensive and life-threatening conditions take hold.
+“IndiGO’s unique strength is identifying two types of individuals: those for whom traditional population-based guidelines indicate treatment but who would benefit too little to justify the side effects or risks, and those missed by population-based guidelines but who would derive considerable benefit,” the study explains.  “The score is a weighted combination of the decreased risk of adverse outcomes; weights approximate the expected 5-year reduction in quality of life that would result from each outcome.”
+Patients were shown a video explaining the guidelines and their benefits, and discussed their individualized score with their primary care providers for five to ten minutes.  They received a printed summary of chosen interventions and an outline of their five-year risks with and without the changes to lifestyle or medical treatment.  The researchers found that patients who studied their score were more likely to fill prescriptions for statins or other lipid-lowering medications, as well as medications for hypertension control.
+Dig Deeper
+EHR Sample Size Matters in Machine Learning, Predictive Analytics
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Eighty percent of participating providers rated the IndiGO score “very helpful” for patient education and involving patients with decision making.  However, 90% of physicians felt the process was too time consuming to use on a large scale, but believed it could be helpful for patients who were non-compliant with medications as a way to incorporate a “teachable moment” into the visit.
+“Individualized guidelines constitute a further evolution in point-of-care clinical decision support, with patient-specific risk-reduction information based on all available information,” the report concludes.  “The observed increase in statin prescribing rates in our project is consistent with these findings and suggests that the enhanced clinical decision support provided by IndiGO may be an effective mechanism for improving care.”
+Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsMedical ResearchPredictive Analytics
+
+

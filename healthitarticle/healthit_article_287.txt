@@ -1,0 +1,34 @@
+OIG Seeks Cloud-Based Big Data Analytics, Visualization Tools
+
+November 20, 2017
+
+By Jennifer Bresnick
+November 20, 2017 - The HHS Office of the Inspector General (OIG) is requesting industry input on healthcare big data analytics and data visualization tools that can help it manage its existing and future data assets.
+The federal agency’s ideal solution will be cloud-based, flexible, able to handle both structured and unstructured data, and able to develop visualizations and dashboards to help stakeholders easily identify patterns or anomalies in relevant data sets.
+“The mission of HHS-OIG is to protect the integrity of HHS programs, as well, as the health and welfare of program beneficiaries,” the agency explains in its request for information (RFI).
+Dig Deeper
+Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+Can Cloud Big Data Analytics Fix Healthcare’s Insight Problem?
+How Big Data Analytics Companies Support Value-Based Healthcare
+“Since its 1976 establishment, HHS-OIG has been at the forefront of the nation’s efforts to fight waste, fraud and abuse in Medicare, Medicaid and more than 100 other HHS programs.”
+OIG has been integral in keeping providers, payers, and other healthcare entities on the straight and narrow through reports to Congress as well as publications available to the public at large.  From the EHR Incentive Programs to the Veterans Affairs healthcare system, the OIG’s explorations, audits, and recommendations have spurred improvements across the care continuum.
+In an effort to continue this progress, OIG is looking for a new toolset that will allow it to combine data sets of different sizes, origins, and types.
+“The HHS-OIG strives to empower its staff to conduct data analytics themselves through data exploration, while learning new things, asking new questions and making decisions based on the data,” the agency says.
+According to the RFI, developers from across the data analytics industry are invited to suggest products that offer most or all of the following capabilities:
+Ability to combine unstructured text analysis with related structured data
+Tagging required for analysis models or search criteria triggered
+Detailed reference back to source required for any analysis (e.g., page numbers for documents, cell reference for structured data)
+Ability to bring in or ingest data manually or by a scheduling engine
+Wizard tool for developing analysis models or search criteria.
+Dashboard view of results with the ability to drill down
+Ability to conduct analysis on hit count or on existence interchangeably
+Ability to view results with ease
+Ability to put weights on any of the analysis models or search criteria used
+Potential tools must be able to generate reports in multiple common formats, including Word and Excel, and must be able to count the number of analysis models or search criteria used in the analytics by both hit count and existence count.
+Vendors and developers are encouraged to create short presentations that describe their offerings and their approaches to supporting and enhancing their customers’ big data analytics capabilities.
+Data security and governance are of the utmost importance, OIG stresses, as is experience working with governmental agencies that must adhere to strict protocols.
+Interest parties may submit their proposals until November 29, 2017, but are reminded that the request does not constitute an obligation for the OIG to award a contract. 
+More information on the submission process is available in the RFI by clicking here.
+Tagged Analytics InfrastructureCloud ApplicationsHealthcare Big Data AnalyticsOIG
+
+

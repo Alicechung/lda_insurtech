@@ -1,0 +1,30 @@
+EHR Natural Language Processing Identifies Care Guideline Adherence
+
+January 18, 2018
+
+By Jessica Kent
+January 18, 2018 - Using natural language processing (NLP) can help providers measure the quality of heart failure inpatient care by extracting key data from the electronic health record (EHR) and monitoring adherence to clinical guidelines, according to a study published in JMIR Medical Informatics.
+Researchers developed an application called the Congestive Heart Failure Information Extraction Framework (CHIEF). This NLP system was designed to identify if patients experienced left ventricular ejection fraction (LVEF) of less than 40 percent - and if so, whether or not certain clinically relevant medications were prescribed upon hospital discharge.
+The team collected documents from 1083 inpatients at eight Department of Veteran Affairs (VA) medical centers to see if the NLP tool could accurately identify the protocol, known as the Congestive Heart Failure Inpatient Measure 19 (CHI19).
+Dig Deeper
+What is the Role of Natural Language Processing in Healthcare?
+Natural Language Processing, AI to Foster Clinical Decision Tools
+EHR Natural Language Processing Flags Social Determinant Search Terms
+The CHIEF patient classification performance was also compared to that of the External Peer Review Program (EPRP), which provides the VA with manually abstracted data.
+Researchers found that the CHIEF algorithm classified each hospitalization within the test set with a sensitivity of 98.9 percent and a positive predictive value of 98.7 percent, compared with a reference standard and sensitivity of 98.5 percent for available EPRP assessments.
+The CHIEF system was found to extract relevant mentions of heart failure medications with recall of 97.8 to 98.6 percent and precision of 96 to 97.8 percent.
+Additionally, the system extracted measures of LVEF with recall of between 97.8 and 98.6 percent and precision of 98.6 to 99.4 percent.
+Researchers also found that the CHIEF processed 100 percent of patients in the test set, with 92.1 percent of patients classified as meeting the CHI19 measure.
+As the researchers point out, these findings have significant implications not only for quality measurement within the VA, but in other healthcare organizations as well.
+The current EPRP method used by the VA is time-consuming and costly. The researchers state that heart failure diagnoses are expected to increase by 25 percent by 2030, so it is becoming essential that patients have access to care that will prolong life and reduce hospital readmissions.
+“Congestive heart failure is a prevalent condition and CHIEF is an application that could provide an automated first review for heart failure patients to assess guideline-concordant care,” the researchers wrote.
+The team conducted interviews with VA quality measurement experts, who noted that NLP processes could benefit organizations by improving the efficiency of data capture. An automated system could serve as a data source for primary care teams and for clinical decision support (CDS).
+Experts interviewed also said that natural language processing could aid with heart failure guideline training for providers, as well as identification of patients with gaps in care coordination.
+An automated system could also assist with quality measurement using real-time data real-time data as opposed to retrospective data. Real-time data is becoming essential for providers who want to provide patients with quicker results and cut care costs.
+In their discussion of their findings, the researchers state that the use of NLP for quality measures can extract meaning from the large amount of clinical data captured in EHRs.
+“The next step is to transform healthcare big data into actionable knowledge for quality improvement and research that helps to improve patient care, and potentially limit health care costs,” the researchers wrote.
+The accurate, efficient data extracted by such natural language processing tools can offer the VA and other organizations insight into ways to cut costs and improve patient care.
+“Our results demonstrate that automated methods using NLP can improve the efficiency and accuracy of data collection and facilitate more complete and timely data capture at the time of discharge, at a potentially reduced cost,” the researchers concluded.
+Tagged Care QualityEHR Data MiningEHR Patient DataNatural Language Processing
+
+

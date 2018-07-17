@@ -1,0 +1,36 @@
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+
+January 30, 2018
+
+By Jennifer Bresnick
+January 30, 2018 - Epic Systems is moving ever closer to creating true interoperability within a comprehensive health record by enhancing many of its data exchange, patient and provider communication, and population health management functionalities.
+As part of the company’s “One Virtual System Worldwide” initiative, a series of new and upgraded functionalities will focus on improving interoperability, streamlining workflows, and facilitating access to key data elements required to succeed in a value-based care environment.
+“We’re taking interoperability from being able to ‘view more’ to being able to ‘do more,’” said Dave Fuhrmann, Epic Vice President of Interoperability, in a press release.
+A three-part strategy will leverage Epic’s broad customer base to allow more robust collaboration between organizations while reducing friction around accessing and viewing patient records.
+The first component of the plan, called “Come Together,” will allow users to find existing records for patients at other Epic organizations to prevent duplication and potentially improve patient matching. 
+READ MORE: Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+Epic users exchange more than 2.3 million patient records per day, the company says, and approximately two-thirds of US patients have at least one current record with an Epic organization.
+Epic users can already exchange 415 discrete data elements, including basic demographics and information, social determinants of health, imaging results, data from specialists, and family history data. 
+The company’s existing “Happy Together” functionalities will continue to gather and present this data in a single, merged view to users, offering a comprehensive look into a patient’s clinical, environmental, family, and socioeconomic challenges.
+This holistic approach to presenting data falls in line with Epic’s ongoing mission to help providers lower costs and improve outcomes through more proactive, value-driven care.
+“We have to look at who you are, what you eat, how much you sleep, and what your social conditions are like,” said Epic founder and CEO Judy Faulkner at Epic’s annual User Group Meeting (UGM) in late 2017. “We know these factors affect health.”
+READ MORE: Epic Systems: Machine Learning Is the EHR Usability Solution
+“We won’t be able to afford to continue doing what we’re doing if we don’t change the way we look at social determinants and population health.  There is information that is not in the EHR right now that has to be accessible.”  
+Expanding interoperability and the availability of non-traditional data elements, like the social determinants of health, will help organizations continue to refine their population health management skills and recoup more of the reimbursement they may be entitled to under accountable care arrangements.
+"The ‘E’ in ‘EHR’ is so last year,” said Faulkner at the 2017 UGM. “‘Electronic’ has to go away as a distinguisher now, because everything is electronic these days. Now we need to go beyond the traditional walls and knock them down.”
+“It’s time to create a central nervous system so that when you do things that fall outside of the traditional care processes, you can get paid for it.”
+Patients also have access to a unified view of their data through the MyChart patient portal, eliminating the need to access multiple interfaces for individual organizations or providers.
+READ MORE: Epic Systems, Cerner Remain Leading Population Health Companies
+“In the past, if you had two MyCharts from two different Epic providers, you’ve had two different MyCharts,” Faulkner explained to EHRIntelligence.com in 2016, when the upgraded portal was first made available. 
+“We have now changed MyChart so that everything is all together no matter how many iterations of the portal you have – or if you have a portal from other vendors.  So you, as the patient, can see all your appointments, no matter where they’re from, and all your meds and everything else together, which is very neat.”
+The third part of the newest announcement also aims to reduce data duplication and the need to make extra administrative effort to request records from partners. 
+With “Working Together,” users will be able to access reference-quality imaging studies with a single click, directly book appointments for patients at other Epic facilities, and send secure messages directly to clinicians to discuss referrals or care coordination activities.
+Users will also be able to search data received from other organizations, including both discrete data elements and free text from clinical notes or other documents.
+“Over the last decade we expanded the amount of data that customers can exchange, going well beyond industry requirements,” said Fuhrmann. “Now, our new functionality ‘Working Together’ will allow clinicians to work across Epic organizations to improve the care for their patients.”
+In the future, Working Together will also alert clinicians to duplicated orders for lab tests or imaging studies and include more sophisticated self-scheduling features.
+These new functionalities will continue to allow Epic customers to collaborate and communicate more freely, said Darren Dworkin, CIO at Cedars-Sinai Health System.
+“Deploying Epic across our organization has not only enabled us to become deeply integrated within our own organization, but by leveraging Care Everywhere we have been able to share patient information across other organizations caring for that patient,” he said.
+“Now, with One Virtual System Worldwide, we are excited to be able to join a connected community that we think can dramatically improve our efficiency and the quality of care we deliver to our patients.” 
+Tagged Analytics InfrastructureCare CoordinationEpic EHREpic InteroperabilityEpic SystemsHealth Information ExchangeInteroperabilityPopulation Health Management
+
+

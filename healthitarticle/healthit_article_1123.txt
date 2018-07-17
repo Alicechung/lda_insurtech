@@ -1,0 +1,55 @@
+5 Questions to Prep for Healthcare Big Data Analytics in 2016
+
+December 16, 2015
+
+By Jennifer Bresnick
+December 16, 2015 - 2015 may have been a big year for healthcare big data analytics, but the next twelve months are likely to bring even greater challenges for organizations investing in improved patient care quality strategies while seeking a competitive edge over their rivals.
+Technology, people, and processes must come together in perfect balance for an organization to make the most from their resources, but constant uncertainty, arduous mandates, and rapid advancement in the healthcare industry has left many providers trying to play catch-up as their operating environment changes around them.
+To prepare for the next stages of the healthcare reform marathon, providers may wish to ask themselves the following five questions about their fundamental readiness to tackle major upcoming initiatives including accountable care, the Internet of Things, and population health management.
+Have we recently assessed our health IT infrastructure needs?  What investments are we likely to make in the next twelve months?
+EHR implementation is only the beginning of a long journey towards health IT maturity.  As big data analytics becomes more and more integral to the way providers interact with patients, organizations must keep investing in continuous improvement if they want to see a measurable return on their efforts.
+READ MORE: Meeting the Challenge of Healthcare Consumerism with Big Data Analytics
+Providers may be able to keep their 2014 Edition Certified EHR Technology for the foreseeable future, but data integration, health information exchange, and interoperability projects are likely to consume much of their IT energy – not to mention their budgets.
+Big data analytics tools will also continue to age in place, leaving providers with some tough questions about the future.  Should they invest in new in-house technologies to bulk up their predictive analytics and population health management competencies, or is outsourcing the way to go?
+Organizations may wish to conduct a thorough assessment of their current technology capabilities before comparing their existing toolkit against a comprehensive roadmap of strategic goals.
+Important questions to consider include the following:
+• Do we need to hire new staff to meet our objectives?  Are data scientists and IT specialists available to fill open positions?  How can we best utilize existing manpower resources to develop new workflows and integrate new technologies into the process of care?
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+• Do we know what technologies are available to meet our needs?  Have we thoroughly vetted our vendors and their products?  Do these new tools integrate and interoperate appropriately with existing software?
+• What do we expect from outsourcing certain aspects of our health IT infrastructure?  Do we fully understand the costs of these new contracts?  How quickly will we see a return on the investment?
+• Are we risking privacy and security problems by adding new vendors to the mix?  How can we ensure that all third-party products and services are secure and compliant?  Have we drawn up clear and comprehensive contracts in regards to responsibility for any privacy and security issues?
+Other issues to consider may include the impact of unfamiliar technologies on provider workflows and productivity, and the ability of new tools to be flexible and scalable to meet the organization’s needs for as long as possible.
+Do we have a detailed and meaningful data integrity and health information management strategy?  If not, do we have the ability to create one?
+READ MORE: Five Blockchain Use Cases for Healthcare Payers, Providers
+Whether or not new investments are in the cards, providers must be certain that they are paying close attention to the quality, integrity, accuracy, and completeness of their big data.  Health information management is an important part of any data analytics strategy, and collecting input from HIM professionals about your organizational direction is critical for success.
+“We feel that information governance is the framework that will propel everything needed to make sure organizations get a return on their data,” said former AHIMA President and Chair Cassi Birnbaum, MS, RHIA, CPHQ, FAHIMA. “They’re collecting so much of it, and it’s difficult to normalize it.  It’s difficult to do the necessary assessments for analytics and informatics so that we can really make a difference.”
+HIM professionals are experts at guiding healthcare organizations through the complex process of developing and maintaining high standards of data integrity.  
+ICD-10 implementation may have been relatively uneventful for most providers, but the highly granular data it will produce for years to come must be interpreted correctly, coded consistently, and put to use efficiently for population health management and revenue cycle improvements.
+“HIM professionals understand how physicians are documenting in the record, and they also understand the technology,” asserted current AHIMA President and Chair Melissa M. Martin, RHIA, CCS, CHTS-IM.  “HIM staff are typically at the top of the rung in regards to EHR super-users.  So we know how to use the system, and we understand what physicians are trying to say.”
+“Implementing an EHR is a huge process, and sometimes it spans over many years,” she added.  “Often what happens is that you implement, but you don’t have time to optimize.  If we could all look at HIM as the optimizers, then we can help out physicians, which is our goal.”
+Are we planning to enter any value-based reimbursement arrangements in 2016?  What process and technology changes will be required to succeed?
+Value-based reimbursement saw rapid uptake in 2015, and the number of providers engaged in some sort of accountable care arrangement is likely to keep rising over the next few years as CMS pushes towards its ambitious payment reform goals.
+Some providers have seen quick and measurable success by joining accountable care organizations (ACOs) or contracting with their payers to receive financial rewards for quality improvements, but the process requires careful planning and significant commitment.
+Providers should ask themselves the following questions about their readiness to jump into the risk-based care environment:
+• Do we have a clear understanding of the challenges facing our attributed population?  What IT tools do we have – or need to buy – in order to develop a comprehensive risk stratification and patient management strategy?
+• Are we financially prepared to accept risk?  What are our margins for disruption to the revenue cycle?  How will we measure and monitor our financial health?
+• Which care improvement frameworks may help us succeed?  How long will it take to implement these process changes without overburdening our staff? 
+• What data will we collect to measure our quality improvement?  How will we report on these metrics?  Who needs to see this information in order to ensure informed decision-making?
+Providers may already be collecting much of the necessary measurement data for other quality improvement programs like meaningful use, but may need to retool their reporting procedures to meet the requirements of their payer partners.  Be sure to fully understand your payer’s expectations before embarking on an accountable care contract.
+Do we have a plan to address patient-generated health data and the Internet of Things?  How can we leverage these developments for improved patient engagement?
+Population health management isn’t just a matter of identifying diabetics or making sure that patients keep their appointments for cancer screenings or other routine care. Providers are becoming increasingly responsible for more of the choices that consumers make in their daily lives, and must have constant contact with their patients in order to keep them on the right track.
+As patients embrace the Internet of Things (IoT), which includes mHealth apps, wearable devices, home monitoring equipment, and online communication tools, providers must brace themselves for an enormous influx of big data from a variety of disparate sources.
+Many EHRs and data management tools have not yet caught up to the demand for real-time data analytics using patient-generated health data, but the developer community is committed to making progress as quickly as possible.
+Healthcare organizations must develop their own plans for handling the big data produced by the IoT, which should span everything from device integration to care management tasks to setting clear boundaries for provider-patient communications.
+Providers should educate their staff on what the Internet of Things will mean for them in the next two to three years, and ensure that workflows are flexible and productive enough to maintain a high standard of patient care. 
+Interoperability will be a critical piece of the puzzle when it comes to gathering multiple data sources into a meaningful view of patient health, so understanding the role of APIs and other data standards in the big data landscape will be an important competency for your IT experts.
+Do we understand how our clinicians, administrative staff, and patients feel about our strategic visions?  Can we better integrate organizational feedback into our decision-making?
+Collaboration is the name of the game for 2016.  Healthcare organizations will need to develop strong partnerships and robust relationships across the care continuum – including with their own staff members and their own patients. 
+Change is hard for overworked clinicians who have been reinventing their professional lives over and over again in response to governmental mandates, new technologies, and high expectations, and many providers are starting to reach the boiling point.
+Patient satisfaction scores are having a bigger influence on quality rankings for healthcare providers, but patients aren’t the only ones that need to be engaged in order to see better results. 
+A simple way to relieve the pressure and renew staff commitment is to ask for their opinions.  What can the organization do better to relieve some of their concerns?  What technologies are causing more problems than they solve?  Are there manageable workflow changes that can save time or reduce frustration?
+Providers who collect feedback from their staff members in the trenches – and make appropriate changes based on the results – may be more likely to see success with the vast array of big data analytics projects coming their way over the next twelve months. 
+Without a thorough understanding of the pain points, from technologies to data integration to clinician satisfaction, healthcare organizations are risking their ability to capitalize on the IT innovations and operational initiatives that enable the delivery of high quality patient care.
+Tagged Analytics InfrastructureBig Data AnalyticsListsPopulation Health ManagementPrimersQuality Of Care
+
+

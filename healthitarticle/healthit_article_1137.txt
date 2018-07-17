@@ -1,0 +1,39 @@
+IoT, Big Data to Spur Health Data Interoperability in 2016
+
+December 08, 2015
+
+By Jennifer Bresnick
+December 08, 2015 - The upcoming year is likely to be a doozy for the healthcare industry as providers continue to call for increased EHR interoperability, a relief from the relentless pace of meaningful use, and the implementation of better tools for population health management and big data analytics.
+2016 is likely to bring some major changes on the health data sharing front, predicts DirectTrust, the non-profit industry alliance dedicated to spreading the use of simple secure messaging and better health information exchange. 
+In addition to seeing some meaningful interoperability momentum on the regulatory side, wearable devices and the Internet of Things will produce masses of patient-generated health data (PGHD), which will drive greater engagement and produce new opportunities for big data analytics to help providers manage patient care.
+“In the world of electronic health information exchange, we’re on track for another year of momentous forward movement in increased adoption by providers and greater interoperability between federal and state agencies with private-sector providers,” said Dr. David Kibbe, MD, MBA, President and CEO of DirectTrust.  
+“We’ll also see, finally, patient and consumer participation in the use of electronic health information exchange.”
+READ MORE: IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+DirectTrust believes that the following six areas of health IT development will continue to be critical for the success of the healthcare ecosystem in 2016.
+Patient engagement will become a driving force of health information exchange
+Patients are very keen to have unfettered access to their critical health data, and providers are likely to continue the process of opening up avenues for health information exchange in 2016, DirectTrust says.  Consumer demand and regulatory encouragement will likely combine to encourage greater patient engagement across the care continuum. 
+As organizations build more robust pathways for data exchange between local business partners and former competitors, patients will gain more control of their own care, and hopefully feel empowered to make smarter, more cost effective decisions about their health.
+Big data will break free of siloes and drive untold clinical and operational improvements
+READ MORE: CDC Works to Improve Public Health Data Analytics, Surveillance
+Healthcare organizations may even start to accept the fact that wearables, home monitoring tools, and other Internet of Things devices can deliver valuable lessons for chronic disease management and other aspects of care. 
+Combined with EHR data and other sources of information, providers will have access to an unprecedented wealth of insights that will bring improved operational and clinical outcomes. 
+To take advantage of these data sources, however, providers much continue to work on bringing down data siloes and developing new methods of collecting, standardizing, and analyzing disparate data streams.  2016 is likely to see major breakthroughs on this front, DirectTrust predicts, though “explosive” growth may be coupled with setbacks such as security risks and usability concerns.
+Interoperability will continue to be a top priority for federal and state agencies
+DirectTrust already facilitates health information exchange for a number of large governmental agencies, state-level health information exchanges, and other national partners. 
+READ MORE: Gaps in Chronic Disease Care Leave Patients, Docs Frustrated
+“We have the Indian Health Service, the United States Postal Service, and the Veterans Administration all seeking to become HISPs accredited by EHNAC and DirectTrust and to join the community of Direct service providers,” Kibbe said to HealthITAnalttics.com.  “We hope and expect CMS will join that group in early 2016.”
+Meanwhile, Medicare and many state Medicaid agencies will use 2016 to take advantage of health information exchange capabilities already in place within the provider community, spreading interoperability, care coordination, and big data analytics competencies into communities across the country.
+Meaningful use will see “an early forced retirement”
+One federal initiative that won’t be sticking around so long is meaningful use.  “Having alienated almost the entire healthcare provider community by overreaching for the final Stage 3 version of its regulations, the Meaningful Use programs will be phased out by the end of 2016,” predicts DirectTrust.
+CMS’ proposals for Stage 3 have seen intense backlash from the healthcare industry, but it would almost certainly take Congressional action to bring the EHR Incentive Programs to a screeching halt.  Luckily for meaningful use opponents, lawmakers seem like they’re ready to bring legislation to the floor if CMS does not reconsider its course of action.
+Privacy and security will receive even greater attention from healthcare organizations
+2015 was marked by some of the biggest and most damaging healthcare data breaches in history, which means that 2016 is certain to see healthcare organizations making major efforts to keep out of the news.
+“The cost of data breaches in health care is simply too high to be tolerated,” DirectTrust says.  “As use of electronic health information exchange soars, we will experience a corresponding rise in concern about and actions taken to mitigate the risks of exposure of both data at rest and data in transit.”
+As patients clamor for assurances that their data is safe, providers will ramp up their prevention strategies, demand more rigorous testing and copious certifications from their business partners, and invest in new technologies like two-factor authentication to reduce the likelihood of experiencing a headline-making data breach.
+Direct secure messaging will continue to grow in popularity, bringing reliable health information exchange to providers
+2016 will be a year of ongoing growth for DirectTrust as providers take the importance of health data interoperability to heart.  As value-based reimbursement and population health management initiatives demand increased access to reliable, complete, up-to-date patient information, services that provide vendor-neutral, interoperable data exchange are likely to see their popularity grow by leaps and bounds.
+The simplicity and low set-up costs of Direct will be the keys to its continued success in 2016, Kibbe stated.  “Everybody knows how to use e-mail,” he said.  “Everybody understands that there's some other person at the end of the address. It's bi-directional.  It’s not like a fax, where you send off this piece of paper and you don’t know who is going to read it or when it’s going to get there.”
+“Many of these problems that we have are solvable with just barely minimal, but sufficient, communication. So I think this dual demand for collaboration and interoperability are going to continue to grow within every healthcare system that sees itself at increasing risk of not taking care of patients well and coordinating their care well.”
+Tagged Big Data AnalyticsHealthcare Internet of ThingsInteroperabilityPopulation Health Management
+
+

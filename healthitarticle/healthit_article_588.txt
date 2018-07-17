@@ -1,0 +1,24 @@
+Mismatched Symptoms Call EHR Data Integrity into Question
+
+February 02, 2017
+
+By Thomas Beaton
+February 02, 2017 - A new study published in JAMA this month indicates that EHR data may not be completely aligned with what patients report to their providers. Eye health researchers from Michigan Medical School investigating EHR data integrity found that just 23.5 percent of EHRs contain exactly the same information as volunteered by patients, raising questions over the accuracy of clinical documentation.
+Investigators from the Department of Ophthalmology and Visual Sciences at the University of Michigan Medical School studied 162 patients with eye health issues and found that EHRs rarely contained all of the information reported by the patients themselves on eye symptom questionnaires (ESQs).  
+There was some agreement between ESQ and EHR data for all eight symptoms in 46.3 percent of the participants, but less than a quarter of EHRs were completely aligned with data from the ESQ. Notably, when the ESQ had reported three or more symptoms, the EHR never had exact symptom agreement.
+Dig Deeper
+The Difference Between Big Data and Smart Data in Healthcare
+EHR Use Correlated with Higher Rates of Blood, Imaging Tests
+EHR Adoption, Population Health a Struggle for Rural Providers
+"Symptom reporting was inconsistent between patient self-report on an ESQ and documentation in the EHR, with symptoms more frequently recorded on a questionnaire. These results suggest that documentation of symptoms based on EHR data may not provide a comprehensive resource for clinical practice or “big data” research."
+The researchers found "fair to poor agreement" in the data between the ESQs and EHRs with ESQs recording more positive occurrences in the eye symptom categories of glare, pain or discomfort, and redness.
+"At the participant level, positive reporting of symptoms on the ESQ with no documentation or a negative report in the EHR was more prevalent than the converse for glare (43.8 percent vs 4.3 percent), pain or discomfort (19.8 percent vs 6.8 percent), and redness (19.8 percent vs 4.9 percent) but not for blurry vision (15.6 percent vs 18.1 percent)," the researchers said.
+"Tests to assess the level of agreement between the ESQ and EHR indicate imbalance in discordant symptom reporting, with more discrepancy in the direction of positive report on the ESQ and negative documentation in the EHR for all eye symptoms."
+While the EHRs are intended to improve the quality of data in clinical workflows, the researchers found that reporting discrepancies between the ESQs and EHRs indicate poor communication of data.  
+"We demonstrated that there is substantial discrepancy in the symptoms reported by patients on an ESQ and those documented in the EHR, as shown in previous studies in other specialties. This discrepancy can occur in the following 2 directions: positive reporting by self-report with negative or no documentation in the EHR or negative reporting by self-report and positive documentation in the EHR."
+Some limitations of the study include that only one type of EHR had been used, limiting generalization on all types of EHR. Patient recall bias between self-reporting and a clinical encounter indicated another limitation of the study. Also, the researchers noted that if a symptom was reported "negative" on the ESQ then the negative was conversely not reported on the EHR.
+The researchers concluded that the biggest challenge of an EHR is data integrity and quality. The researchers implied based on the study findings that there are implications in patient care associated with EHR use because of poor representation of a patient's conditions.
+"The inconsistencies imply caution for the use of EHR data in research studies. Future work should further examine why information is inconsistently reported," the researchers said. "Perhaps the implementation of self-report questionnaires for symptoms in the clinical setting will mitigate the limitations of the EHR and improve the quality of documentation.”
+Tagged Clinical AnalyticsEHR Patient DataHealth Information ManagementHealthcare Data GovernancePhysician EHR Use
+
+

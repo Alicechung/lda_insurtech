@@ -1,0 +1,20 @@
+65% of researchers say data analytics policies boost sharing
+
+October 07, 2014
+
+By Jennifer Bresnick
+October 07, 2014 - Data sharing policies from the National Institutes of Health (NIH) have made data analytics easier and more commonplace by increasing the sharing of information, say 65% of researchers studied in a poll published in PLOS ONE this September.  Geneticists were particularly pleased with projects and funding opportunities that encouraged big data research, with three-quarters rating NIH policies as being “very influential” in their field of study.
+“In the life sciences, collegial sharing of research resources–data, methods, and materials–is believed to play a critical role in scientific progress,” the study says. “Prompt and widespread dissemination of new methods and findings allows scientists to build on each other’s work quickly and to speed the advancement of science; failure to share can lead to needlessly duplicative research, unproductive lines of inquiry, and delays in scientific innovation.”
+“Inherent in the practice of scientific sharing, however, are tensions between what is in the public interest and what is in the private interest of individual scientists,” the report adds.  “While science advances through the open dissemination of information, scientists are rewarded for their individual scientific contributions and ability to amass scientific priority and individual credit. These individual interests act as a brake or constraint on unfettered data sharing in the sciences.”
+For healthcare organizations, the tension between viewing data as a key business asset and a force for the public good is a familiar one.  Providers have been wary of joining health information exchanges or contributing to population health management projects that require big data from an entire community, fearing the loss of the competitive edge when it comes to patient volumes and generating revenue from high-dollar cases.
+Dig Deeper
+NIH, 23andMe Crowdsource Precision Medicine Depression Study
+Mount Sinai Uses Machine Learning for Heart Imaging Analytics
+Precision Medicine, Population Health Share Strategies and Goals
+But data sharing and the destruction of detrimental silos are critical for scientific and clinical progress, and many leadership organizations and academic institutions are focusing on smoothing the way towards a more fluid ecosystem of information governance.  In 2003, the NIH started to require grant applications of more than $500,000 to include data sharing plans, and 27% of researchers who had served on grant review boards said that these plans have significantly impacted their decision making.
+Of the 1165 life science researchers surveyed in the study, 35% said that journal publication policies were helpful in improving data sharing, while informal learning through advisors or the dissemination of best practices among colleagues had a major impact on more than half of the respondents.  Meanwhile, intellectual property policies put a damper on the flow of information for the majority of researchers.  Nearly 80% believe that industry agreements stifle data sharing, while commercial activities are a major block for two-thirds of respondents.
+“Overall, the public goods feature of data sharing points to an important role to be filled by actors like funding agencies and journals that have a public interest in moving science forward. These external actors can do what no single private party has an incentive to do or is able to do on its own: decrease the individual costs of sharing and level the playing field,” the study concludes.
+“Our analysis points to the NIH and, to a somewhat lesser degree, journals and other funding agencies, successfully able to play the role of an independent third party norm-setter and enforcer. Tensions in the role of data sharing in the grant review process, in enforcing policies, and in how to balance between institutional intellectual property rights and scientists’ norms and needs, will need to be clarified and resolved as science and scientific sharing models evolve.”
+  Tagged Big DataHealthcare Data StrategyMedical Research
+
+

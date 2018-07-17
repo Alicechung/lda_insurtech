@@ -1,0 +1,64 @@
+10 Jobs That Companies Are Using Drones To Do
+
+19 Apr 2018
+
+The Consumer Drone Industry May Be In Its Infancy But Businesses Have Begun Outsourcing Work To Drones Already. Here’s How Drones Are Helping Enterprise
+It’s a fast moving industry. Drones are increasingly finding use with hobbyists and artistes. But it’s not all fun and games; they have real jobs. Here’s looking at the how enterprise has put drones to work for them.
+(1) For Emergency Services
+In March last year, DJI, the world’s leading maker of unmanned aerial vehicles, released the first-ever survey of lifesaving drone activity, finding that drones have rescued at least 59 people from life-threatening conditions in 18 separate incidents around the globe. Most of the cases involved search and rescue operations conducted by civilian operators and volunteers offering their services to help professional rescue personnel, indicating that the widespread adoption of personal drones offers a concrete benefit to public safety.
+The numbers were based on media reports.
+Authorities are taking note of the benefits of using unmanned aerial vehicles (UAV) as well. The Wrightsville Beach Fire Department uses drones to assist in monitoring public safety during big events.
+They can reach speeds of 45 miles per hour and carry a payload of up to 12 pounds meaning a radio or buoy can be attached and dropped to a person in trouble. Infrared cameras and a GPS transmitter also allow better aerial monitoring at night especially for a missing person report.
+In fact, The Telemedical Drone Project, known as HiRO, the Health Integrated Rescue Operations, was developed by Italo Subbarao, DO, senior associate dean at William Carey University College of Osteopathic Medicine, and Guy Paul Cooper Jr., a fourth-year medical student at WCU.
+“Reaching the victims is the critical challenge in these situations. As an osteopathic physician, my goal was to find ways to help save lives. A medical drone is the bridge that delivers life-saving treatment directly to the victims, giving remote physicians eyes, ears, and voice to instruct anyone on site,” said Dr. Subbarao, a nationally recognized expert in disaster and emergency medicine.
+(2) For Mapping and Traffic Woes
+With GPS equipped drones, digital cameras and powerful computers can survey an area with an accuracy of up to 1 to 2 cm. Think UAV lidar and photogrammetry imaging applications. Using GPS enabled UAVs for aerial surveying is very cost effective in comparison to hiring an aircraft with photogrammetry equipment.
+Because UAVs are relatively inexpensive, many organizations will have their own fleet, allowing for rapid surveys over large land areas where required.
+Here’s how this works; Photogrammetry is the science of making measurements from photographs. The output of photogrammetry is typically a map, a drawing or a 3D model of some real-world object or land mass. UAV Lidar involves mounting a laser scanner on a UAV to measure the height of points in the landscape below the UAV.
+Lidar actually means (Light Detection And Ranging). 3DR X8-M UAV For Photogrammetry and LiDar Mapping Lidar scanners can capture hundreds of square kilometers in a single day. By measuring 10-80 points per square meter, a very detailed digital model of a landscape can be created.
+Interestingly, Apple secured special permission from the Federal Aviation Administration to fly drones back in 2015. According to Bloomberg, the organization planned to use them to “examine street signs, track changes to roads, and monitor if areas are under construction.” Whatever it takes to save Apple Maps!
+TOP DRONE MANUFACTURERS YOU MUST KNOW
+PARROT  —
+Parrot designs and markets a prestigious line of high-end wireless multimedia products in collaboration with some of the world’s most well-renowned designers. Finally, Parrot is expanding on the UAV market with the Parrot AR.Drone, the first quadricopter piloted via Wi-Fi and using augmented reality and so with new solutions to address the UAV market for professional use.
+(3) Drone Journalism
+CNN is an example of an early adopter of drone use in news reporting.
+Greg Agvent, senior director of national news technology & CNN Aerial Imagery & Reporting, said CNN realized about two and a half to three years ago
+“when many people were throwing stones at the FAA for integrating drones into the national airspace,” that it wanted to be part of the solution, not the problem.
+CNN then did research with the Georgia Tech Research Institute and worked with the FAA to determine what role UAVs, also known as RPAs (remotely piloted aircrafts), could play in journalism.
+Many other news channels caught on. The technology sees particular use in natural disaster zones.
+In fact, Professional Society of Drone Journalists (PSDJ) (established in 2011) is the first international organization dedicated to establishing the ethical, educational and technological framework for the emerging field of drone journalism. We develop small unmanned aerial systems (sUAS) for journalists, and explore best practices to deploy them for a variety of reporting needs, including investigative, disaster, weather, sports, and environmental journalism.
+(4) Inspecting Mines and Other Dangerous Areas
+Researchers from the Swiss Federal Institute of Technology in Zurich are making drones more independent. They have demonstrated a small drone that can build its own 3-D map of an unfamiliar environment with minimal help from a human operator, and then plan its own routes around a space and its obstacles autonomously.
+Read More: PrecisionHawk Secures $75 Million To Foster Global Adoption Of Commercial Drone Technology
+(5) Bringing Broadband To Remote Villages
+Cable company Openreach used the drone to avoid having to lay cable across “challenging” terrain that included woods, a river and steep hills.
+The drone was flown across a section of forest near Pontfadog, Wrexham, to help sling wires between telegraph poles.
+The community’s 20 homes now have access to broadband that can run at speeds of up to 1Gbps.
+Take this small example and compound it with Faceebook’s force. Mark Zuckerberg has a long-term plan for the drone, called Aquila. Zuckerberg plans to have it provide internet access to 4 billion people around the world who are currently in the dark.
+“When Aquila is ready, it will be a fleet of solar-powered planes that will beam internet connectivity across the world,” he wrote on Facebook.
+(6) Passenger Transport
+The RTA has announced that it will begin testing an Autonomous Air Taxi (AAT) in skies of Dubai as early as the end of the year.
+Partnering with German company VOLOCOPTER, who specialize in building self-driving air vehicles, the electric-powered AAT will have 18 rotors to ensure safe cruising and landing capabilities, with multiple redundancy systems for additional safety.
+The fully-autonomous vehicle will seat two passengers and is fitted with plus leather interiors and seating. It will be able to reach a top speed of 100km/h, with a max flight time of 30 minutes.
+(7) Military Operations
+Much like the internet that reached civilians years after it was already in use by the military, drones too are a military hand-me-down. Drones changes the face of modern warfare, some say.
+The first time when drones were used for observation was in 1973, during the Vietnam War. However, in the modern world, UAVs make a lot of sense, especially on the battlefield. They are highly convenient since you don’t have to worry about deploying people behind enemy lines since no one will be on board in case the device gets destroyed.
+More than 70 countries now have some type of drone — although only a few possess armed drones, according to The New American Foundation.
+(8) Studying And Mimicking Flight Patterns
+Animal Dynamics is a UK startup creating military drones inspired by dragonflies.
+Biomechanics professor Dr Adrian Thomas has been taking inspiration from the innate abilities of creatures in nature, including the dragonfly to improve the way we create and look at mechanics, with particular attention being placed on flight.
+Animal Dynamics has been working in partnership with the Defence Science and Technology Laboratory which is the research arm of the Ministry of Defence.
+(9) Farming And Field Monitoring
+With acres of fields to monitor, drones help do the job in a fraction of the time. Here are the notable players;
+Drone Seed is working with foresters to reduce the cost and make reforestation easier to accomplish while reducing planting costs.
+They are the first and currently the only company in the US approved by the FAA to use drone swarms to deliver agricultural payload products such as herbicides, fertilizer, and water.
+American Robotics developed Scout, a fully autonomous drone system, self-charging, self-managing which has the capability to autonomously carry out daily scouting missions.
+Turn-key technology is delivered in a package consisting of a drone fitted with visual and multispectral cameras, plus a weatherproof drone station that handles housing, charging, data processing, and data transfer. No manual intervention from the farmer is needed for the analysis and data to be sent seamlessly to the farmer. Boston based American Robotics has raised $1.1M in seed funding to support further development of its technology.
+Skycision redefines traditional farm management with an innovative SaaS solution ready to shake up agriculture. Their software calibrates visual data to take into account factors such as the intensity of light on a given day, contours of the land, etc. to provide an accurate, indispensable image to detect crop stress early in the growing season. Farmers pick the drone they want to use – based on recommendations given to them by Skycision – and tell it which field they want to scout.
+(10) Couriers And The New Delivery Agent
+We’ve all read the story about Amazon’s attempt with Prime Air but Israeli startup Flytrex has created a fully operational drone delivery service that is being rolled out in Iceland’s capital, Reykjavik.
+In what it claims is the world’s first fully operational autonomous drone delivery service, Flytrex’s can deliver food and consumer goods, reducing a journey of up to 25 minutes, to just four.
+Flytrex’s fleet of drones is just two, but they are completing 20 deliveries per day, with that amount expected to go up to roughly 100 or more flights per day in the coming weeks.
+Read More: Interview With Tomer Kashi, Co-Founder & CEO, SkyWatch
+
+

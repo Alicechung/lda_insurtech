@@ -1,0 +1,36 @@
+ICD-10 Allows Non-Physician Documentation of Social Determinants
+
+June 13, 2018
+
+By Jennifer Bresnick
+June 13, 2018 - Healthcare organizations concerned about how to record data on patients’ social determinants of health are allowed to use non-physician documentation to support ICD-10 coding for common socioeconomic issues, says the American Hospital Association (AHA).
+Providers may use notes from any member of the care team, including social workers, nurses, case managers, and discharge planners, as evidence for coding for potential health hazards posed by social, economic, or psychological concerns not typically included in clinical diagnoses.
+The codes themselves (Z55 through Z65) are not new, the AHA notes, but are rarely used. 
+Dig Deeper
+What Are the Social Determinants of Population Health?
+Identifying Big Data Sources for Population Health Management
+Humana Pins Social Determinants of Health to Better Quality of Life
+“Despite the availability of these ICD-10-CM codes, however, recent studies show that they have been infrequently utilized in inpatient settings for discharges other than those related to mental health and alcohol/substance use,” the organization says in a guidance document.
+“In addition, another study noted that an ‘obvious discrepancy exists between the number of identifiable social factors, a provider’s ability to address them, and documentation with billing and diagnosis codes.’”  
+The AHA points out that ICD-10 coders have had their hands tied by the fact that they are typically only allowed to code factors that appear in physician, physician assistant, and nurse practitioner documentation.
+“As a result, most hospitals and health systems are unable to report these codes because societal and environmental conditions are routinely documented and addressed by non-physician providers, such as case managers, discharge planners, social workers and nurses,” the bulletin explains.
+This small but important change, included in the first quarter 2018 updates to official ICD-10 guidance, may help providers improve their data collection around critical factors of patient wellbeing, such as health literacy, housing and food security, interpersonal stressors, and lack of social or community support.
+The available code groups cover a wide range of common social, economic, environmental, and interpersonal issues, including:
+Z55 – Problems related to education and literacy
+Z56 – Problems related to employment and unemployment
+Z57 – Occupational exposure to risk factors
+Z59 – Problems related to housing and economic circumstances
+Z58 – Problems related to physical environment (excluding occupational exposure)
+Z59 – Problems related to housing and economic circumstances
+Z60 – Problems related to social environment
+Z62 – Problems related to upbringing
+Z63 – Other problems related to primary support group, including family circumstances
+Z64 – Problems related to certain psychosocial circumstances
+Z65 – Problems related to other psychosocial circumstances
+“Understanding data related to social determinants of health – including educational level, employment, or problems related to home and work environments – is critical as hospitals and health systems work to improve the health of their communities,” the AHA stressed.
+Adding social determinants of health data to risk scoring frameworks and predictive analytics could help to improve population health management and allow providers to develop effective interventions for chronic disease management, pediatric developmental concerns, medication non-adherence, and other conditions that contribute to higher costs and poor long-term outcomes.
+The AHA recommends that healthcare organizations educate both their care teams and their coders about the change to increase awareness of available codes and what documentation can support them.
+Additional information is available from the AHA Central Office Coding Clinic
+Tagged Chronic Disease ManagementHealth Information ManagementICD-10 CodingPopulation Health ManagementSocial determinants of health
+
+

@@ -1,0 +1,25 @@
+PA Big Data Analytics Projects Get $3M in Funding from UPMC
+
+March 23, 2016
+
+By Jacqueline LaPointe
+March 23, 2016 - Six big data analytics projects focused on personalized medicine and patient outcomes will receive funding from UPMC Enterprises, the innovation arm of the University of Pittsburgh Medical Center. The newly established Pittsburgh Health Data Alliance is overseeing the projects, which include initiatives to leverage big data for provider decision-making and patient engagement.
+The Health Data Alliance, a collaboration between Carnegie Mellon University, University of Pittsburgh, and UPMC, focuses on improving quality of care and reducing healthcare costs by fostering innovations in big data analytics. Some important components of the organization are bolstering patient engagement, assisting physicians with making more accurate diagnoses, and supporting precision medicine.
+Leaders of these funded projects hope to develop novel ways of using EHR data, patient-generated health data from wearable devices, and genomics information.
+“These projects represent some of the key areas of focus for UPMC Enterprises, namely clinical tools that will transform the delivery of care; population management that will be essential in health care’s move from volume to value; consumer-centric healthcare; and business services that improve efficiency,” said the president of UPMC Enterprises, Tal Heppenstall.
+Dig Deeper
+VA Precision Medicine Databank Hits 500,000 Participants
+Point of Care Diagnostics Usher in Era of Personalized Medicine
+Most Patients Eager to Join Precision Medicine Initiative Cohort
+The six projects include:
+• The Clinical Genomics Modeling Platform is a platform to establish precision-medicine models for an array of diseases and populations. The software will be able to use triage algorithms to help physicians decide if patients with a specific disease should be admitted to the intensive care unit or sent home.
+• MEDIvate is a smartphone application that focuses on improving patient-centered care through medication management. The app will sync with physician’s EHR systems to add individual patient’s medications. Individuals can also input other medications and health information. It is described as a “personal medication coach” because it sends medication reminders, reduces medication errors, and provides links to educational medication information.
+• The Tumor-specific Driver Identification (TDI) system works to help physicians provide personalized treatments for cancer patients. The software uses genomic information to provide cancer clinicians with data about genetic drivers of tumors. TDI aims to discover new cancer drivers, which pharmaceutical companies can use to develop better drugs.
+• Fall Sentinel is an automated system, which aids clinical pharmacists with monitoring patients in nursing homes. The system focuses on reducing nursing home falls, which costs the healthcare system more than $4 billion each year. It will be able to monitor drug-drug interactions that could cause falls.
+• PUMP is a tool for monitoring and preventing hospital-acquired pressure ulcers. The tool uses a combination of wearable devices and hospital bed sensors to create up-to-date documentation of patient movements. It provides alerts to healthcare providers. The system focuses on improving consistent use of preventative practices.
+• Computational Pathology for Accurate Cancer Diagnosis (ComPACD) assists pathologists with deciding on more accurate diagnoses from tumor images. The software initially centered on breast cancer diagnosis, but will expand its research to other cancers.
+“We’re excited to work with these inventor-scientists to change the face of America’s healthcare system,” Heppenstall said.
+UPMC expects to fund over $3 million for these projects in the next six months. More funding and support may be available as UPMC assesses the commercial potential for each product.
+Tagged Big Data AnalyticsPersonalized MedicinePrecision Medicine
+
+

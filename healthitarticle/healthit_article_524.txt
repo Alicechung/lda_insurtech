@@ -1,0 +1,29 @@
+ONC Updates EHR Usability, Health IT Patient Safety Guides
+
+March 29, 2017
+
+By Jennifer Bresnick
+March 29, 2017 - As teased earlier this year at HIMSS17, the ONC has announced the availability of a revamped version of its SAFER Guides, which address EHR usability best practices and patient safety issues related to health IT. 
+The guides, first released in 2014, aim to support providers as they optimize their electronic health record workflows to prevent adverse safety events and improve productivity.
+“Every day, clinicians work tirelessly to provide the best possible care for their patients,” wrote a team of ONC officials, including Acting Deputy National Coordinator Andrew Gettinger, MD, ONC Chief Nursing Officer Rebecca Freeman, PhD, RN, PMP, and Acting Director of the Office of Clinical Quality and Safety Thomas Mason, MD.
+“Clinicians and other health care providers like hospitals are increasingly using health information technology (health IT) such as electronic health records (EHRs), and a growing body of evidence shows health IT can help them make care safer. However, new technology can pose challenges and risks.”
+Patient safety is a top priority for the ONC, said Gettinger and his colleagues in a blog post on HealthIT Buzz, but the agency has struggled to help providers and developers improve usability and maintain high levels of data integrity while reducing the risks produced by data entry errors, software glitches, interoperability roadblocks, and issues related to alarms and alerts.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Once again, EHR data mismanagement topped this year’s ECRI Institute list of health IT hazards, followed by improper use of associated clinical decision support tools, patient identification issues, and low levels of accountability and reporting on patient safety events.
+Additional research from across the industry has continued to raise doubts about the ability of EHRs to improve patient safety, with multiple reports asserting that EHRs contribute to communication errors, significantly raise frustration levels in physicians and nurses, and overwhelm providers with poorly triaged “data dumps” that sap their ability to provide quality patient care.
+The ONC has been taking these concerns seriously since its inception, but officials still appear to have an uphill battle on their hands.  Last October, the ONC announced that it would expand its oversight of the Certified EHR Technology (CEHRT) program in an effort to take a more hands-on role in the health IT design process.
+The Safety Assurance Factors for Electronic Health Record Resilience (SAFER) Guides, which are available as part of the ONC’s interactive online Health IT Playbook, attack the problem from the other end, as well, by providing resources to healthcare organizations in need of extra help with their workflows.  
+The documents provide templates and self-assessment tools for providers to work on these critical health IT optimization issues, the ONC says. 
+READ MORE: ONC Boosts Oversight to Fix EHR Usability, Patient Safety Woes
+“The Guides are compilations of evidence-based, expert-recommended practices for a key focus area, in a checklist-based format,” states the blog post. “Each Guide includes recommendations, checklists, and note templates that can be used by teams to thoroughly assess the safety and usability of EHRs while lessening data-related burdens.”
+With input from a variety of industry stakeholders, including the EHR Association, National Quality Forum, National Academy of Medicine, and the American Medical Informatics Association, the documents also address issues such as contingency planning for security breaches, ransomware, and unplanned downtime.
+Guides addressing additional issues, such as communicating information to patients, using CPOE technology, strengthening patient identification processes, and optimizing interoperability, are also available.
+More than 52,000 users have downloaded the Guides since 2014, the ONC says, and the agency has seen “encouraging examples” of EHR developers using the recommendations laid out in the Guides to fine-tune their health IT offerings.
+“In some cases, developers have used the Guides to create manuals that help their customers configure and implement their system for improved usability and safety,” Gettinger and his team added.
+READ MORE: Can Providers Overcome Vendor Inattention to EHR Usability?
+The ONC anticipates that the new version of the SAFER Guides will help deliver technical assistance to providers, especially smaller organizations that may need additional advice as they work to improve care quality, patient outcomes, and patient safety.
+“We look forward to continued engagement across a wide array of stakeholders focused on improving health IT operational usability and safety,” the authors concluded. 
+“We have seen impressive growth in the safe use of health IT, but know that it takes work to keep them, and ourselves, up to date as the health IT industry evolves. We encourage you to explore the updated SAFER Guides, the Health IT Playbook , and other resources available on HealthIT.gov to improve the safety and safe use of your EHR.”
+Tagged Analytics InfrastructureCare QualityEHR OptimizationEHR UsabilityONCPatient Safety
+
+

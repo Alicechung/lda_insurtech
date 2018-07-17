@@ -1,0 +1,33 @@
+Reviewing the Progress of Health Data Access, Interoperability
+
+May 27, 2016
+
+By Sheri Stoltenberg
+May 27, 2016 - Vice President Joe Biden may not be the most likely champion for improving healthcare data interoperability, but that was exactly the topic of his speech at this May’s seventh annual Health Datapalooza, a public-private conference focusing on health data management.
+Biden’s speech was not just about policy, but rather, it was a personal story explaining why he is involved with the National Cancer Moonshot Initiative which focuses on improving cancer prevention, early treatment and patient therapies. Biden lost his son, Beau, to cancer last year. Throughout the ordeal, the family found it very difficult to access and share Beau’s health information with different hospitals.
+In his speech, Biden challenged health IT leaders to enable technologies that allow for the safe and effective sharing of patient health information, but his story also highlighted an ongoing challenge facing the industry.
+While numerous new technologies have emerged to help providers capture, analyze and view data, the process of effectively and efficiently sharing information between providers, as well as between providers and patients, remains an obstacle. As the industry inches toward interoperability, numerous lingering factors continue to slow its progress.
+Patient stories leading the interoperability push
+READ MORE: CMS Announces Patient-Centered Data Sharing Initiative
+Similarly touched by cancer, Kathryn Pearson Peyton, MD, founder of Mammosphere, also rallies for the exchange of patient health information and ease of access. Earlier this year, Peyton shared her passion behind Mammosphere, which merged nationally in February with lifeIMAGE, a network of 800 healthcare facilities. Peyton founded Mammosphere after several women in her family, including her mother and her own bilateral mastectomy, were impacted by breast cancer.
+As a radiologist, Peyton created the cloud-based Mammosphere database of breast cancer scan images after learning that lack of access to prior scans can result in a high rate of false positives. The imaging cloud repository helps providers compare breast scans over time in a readily accessible platform to identify changes that signal cancer development.
+Barriers to data access, health information exchange remain
+Even with a significant patient push for interoperability, progress is stalled with hurdles such as providers who are unable or unwilling to share information. For example, the Get My Health Data initiative, launched in 2015, asked patients to drive demand for obtaining their individual health information.
+However, at Health Datapalooza, initiative coordinator Christine Bechtel shared that in the first round of patient health information requests, not a single provider sent health data to patients’ health apps.
+READ MORE: Verma: CMS Will “Use Every Lever” for Promoting Interoperability, Data Access
+After being asked by providers why they wanted their data, some patients only received their information in PDF files or CD-ROMs, while others faced fees for data access or patient portal use.
+Beyond slow progress on the patient front, interoperability faces additional challenges. One study describes how the rising volume of available clinical data may increase the number of repositories or “data dumpsters,” which lack necessary metadata and documentation to put the clinical data into context.
+Without effective data analysis and visualizations as a foundation, patient health information may be better accessible to providers, yet useless for supporting safe and effective clinical decision making.
+Another barrier standing in the way of interoperability is data blocking, where IT developers intentionally create solutions that knowingly or unreasonably interfere with information sharing.
+Leaders in the industry are now recognizing the challenges data blocking presents, but there are still few incentives in place to share information. From a business standpoint, data blocking could be seen as a competitive means to protect company interests. What is encouraging is that the industry’s major EHR vendors joined the Interoperability Pledge of the US Department of Health and Human Services (HHS) at HIMSS16.
+READ MORE: Change Healthcare Pushes Scale, Finds Value in Blockchain
+In the pledge, developers and other parties agreed to a set of three core commitments: facilitate consumer access, no information blocking and to implement national, federally recognized interoperability standards. How these commitments will be demonstrated or enforced has yet to be described by HHS.
+With interoperability measures slated to be part of the Medicare Access and CHIP Reauthorization Act (MACRA) programs, its spread is gaining headway. What has not been discussed in great detail though is the increased likelihood of data breaches associated with information sharing.
+With additional integrated systems, healthcare organizations have greater potential health information access and disclosure points around their enterprises. Plus, cybercriminals may be enticed by a more integrated network, which could offer the potential to steal greater amounts of data by attacking just one large enterprise instead of multiple smaller facilities. While data sharing is necessary in the push for value-based care, we cannot ignore the potential security concerns.
+Encouraging case application
+Yet still, the benefits of interoperability progress are encouraging. In one study involving multiple New York City provider organizations and the city’s department of health, researchers found the exchange of immunization data between one centralized registry and provider EHRs led to major improvements in pediatric immunization coverage, on-schedule vaccinations, reduction of adolescent over-immunizations and more complete records. Meanwhile, updated vaccination rates rose from 75 percent to 82 percent across all age groups.
+These results show the direct benefit of data exchange on a patient population. If healthcare providers can expand the breadth and complexity of information shared beyond immunizations, care quality and direct patient health results look promising.
+Sheri Stoltenberg is founder and CEO of Stoltenberg Consulting, which helps health systems and hospitals implement, manage, and utilize information and business systems.
+Tagged Health Information ExchangeHealthcare InteroperabilityPatient Access to CarePatient Data Access
+
+

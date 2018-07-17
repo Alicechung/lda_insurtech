@@ -1,0 +1,33 @@
+EHR Analytics Track C. Diff Patients to Flag Infection Trends
+
+October 24, 2017
+
+By Jennifer Bresnick
+October 24, 2017 - Using electronic health record (EHR) data to track the movements of Clostridium difficile (C. diff) patients throughout the hospital can help to highlight the risks of infection for future patients sharing the same spaces, according to a new study from health informaticists at UC San Francisco.
+By analyzing the EHR time stamps associated with every patient procedure, first author Sara Murray, MD, MAS, assistant professor of medicine at UCSF, and her colleagues created a map of more than 430,000 patient location changes over three years.
+“There are just so many places data are stored, and one of the challenges is ensuring that the data you choose truly represent what they appear to,” said Murray, whose work has been published in JAMA Internal Medicine. “The key to success with these kinds of studies is careful attention to detail and validation of the work.”
+The map specifically tracked patients infected with C. diff, a stubborn bacteria that can lead to serious complications or death. 
+Murray and her team also identified patients who occupied the same spaces as infected individuals within 24 hours, and calculated the rate at which those patients also contracted C. diff infections.
+READ MORE: Patient Safety Errors are Common with Electronic Health Record Use
+“Most studies looking at C. diff in hospitals typically only look at whether patients were on the same hospital floor,” said Russ Cucina, MD, senior author on the study and chief health information officer at UCSF.
+“Some studies look at whether patients were roommates or occupied a bed recently vacated by an infected patient. But they don’t think about everywhere else in the hospital patients go. If we just look at transmission in their room, we’re missing potential opportunities for disease transmission.”
+The study found higher rates of C. diff infections in patients who had followed infected individuals within the designated time period.
+One specific CT scanner illustrated the problem: patients who used the scanner within a day of a C. diff infected patient were more than twice as likely to acquire an infection themselves. 
+Four percent of patients who used the scanner within a day of a previously infected patient contracted C. diff themselves within two months.  Only 1.6 percent of individuals who had not come into contact with a C. diff patient were later infected.
+READ MORE: Patient Safety, Engagement Relies on Crafting a Culture of Change
+UCSF quickly changed its cleaning practices for the room with the scanner, reducing the rate of infection at that location.
+“This shows the potential for what can happen when thoughtful data scientists leverage electronic health records to tackle a common health care problem,” said Niraj Sehgal, MD, MPH, vice president and chief quality officer for UCSF Health and professor of medicine at UCSF, who was not involved in the study.
+“Their novel approach helped bolster our infection prevention strategies but also demonstrated the answers that can come from studying the vast sources of data generated through a patient's hospitalization.”
+Creating hospital-level visualizations to track the spread of infections is a promising use case for the big data collected by healthcare organizations.
+Augusta Health in Virginia has taken a similar approach to matching digitalized floor plans with infection rates, although the community hospital uses data from its microbiology systems instead of the electronic health record directly.
+READ MORE: Patient Safety Improvements Could Cut Avoidable Deaths by 50%
+“We used images of the hospital floor plan imported into Tableau, then we geocoded the locations of the patient rooms on top of that using XY coordinates on those images, so it looks like the rooms correspond to the floor plan,” explained Decision Support Manager Penny Cooper. 
+“Then we incorporate the positive organisms, the date, and all of the rooms the individual was in – they might move from the ICU to a step-down unit before they might be discharged from our 3 East medical unit – so you would see the time period that they spent in each one of those locations.”
+Just like UCSF, Cooper and her team discovered that certain locations in the ICU were more prone to high C. diff and MRSA infection rates than others.  The results will inform the hospital’s future patient safety and environmental services initiatives.
+“It’s one thing to look at a box on a spreadsheet that says ‘this unit had 12 infections last year,’ but it’s another thing entirely to see a visual representation of where those infections occurred, how close they were to each other, and how the physical environment contributes to these patterns,” Cooper said.
+While EHRs have not always enjoyed a spotless reputation for enhancing patient safety, extracting key data sets for patient monitoring could help to reduce serious hospital-acquired infections and their associated penalties and expenses.
+“The electronic health record is a treasure trove of clinical data and insights, but we are just beginning to discover how to unlock its secrets,” said Robert Wachter, MD, chair of the UCSF department of medicine.
+“This study demonstrates the potential to transform patient care when innovative clinicians and technology experts join hands to tackle healthcare's hardest problems.”
+Tagged Analytics InfrastructureClinical AnalyticsEHR AnalyticsHospital Acquired ConditionHospital QualityPatient Safety
+
+

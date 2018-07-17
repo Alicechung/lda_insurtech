@@ -1,0 +1,41 @@
+AI, Big Data, IoT Bring Growth to Multiple Healthcare Markets
+
+May 18, 2018
+
+By Jennifer Bresnick
+May 18, 2018 - Big data analytics tools and services are poised to bring unprecedented growth to almost every segment of the healthcare IT marketplace, according to the latest series of market reports. 
+From the Internet of Things (IoT) and artificial intelligence to clinical decision support and fraud analytics, the demand for data-driven insights that support higher quality, safer, and more efficient patient care will bring numerous opportunities to vendors, developers, and their clients over the coming years.
+COMPUTER VISION MARKET EXPECTED TO SEE A 47.54 PERCENT CAGR
+Computer vision, the artificial intelligence strategy that underpins imaging and video analytics, is expected to see massive growth during the five years as applications for visual machine guidance increase. 
+The $3.62 billion segment is predicted to expand at a compound annual growth rate (CAGR) of more than 47 percent, reaching $25.32 billion by 2023, according to ResearchAndMarkets. 
+While much of this growth will be attributed to the use of computer vision for autonomous vehicles, augmented reality, and robotics, healthcare-related applications will play a role in bringing value to the market.
+READ MORE: Predictive Analytics, Care Management Combine for Value-Based Care
+Radiology, pathology, and other image-based diagnostic disciplines are in an excellent position to benefit from rapid advances in computer vision, which can help to identify suspect features in imaging studies. 
+Computer vision may also have applications in medication adherence, patient monitoring, quality control, biometric security, and additional healthcare-related tasks.
+INTERNET OF THINGS ANALYTICS MARKET TO REACH $60 BILLION BY 2025
+The IoT is another cross-sector revenue powerhouse that will see dramatic growth over the next few years.  Persistence Market Research anticipates a 16.2 percent CAGR from 2017 to 2025 for the global IoT analytics marketplace, pushing the segment to $60 billion by the end of the forecast period.
+While the IoT spans everything from smart refrigerators and thermostats to manufacturing sensors and security cameras, many of its most promising applications are found in the healthcare industry.  Healthcare will be the largest vertical in the global market, Persistence says, accounting for over 70 percent of the market value by 2025.
+Wearable devices, including consumer-focused fitness monitors, are quickly becoming a popular way to monitor basic health metrics outside of the clinic. 
+READ MORE: Growing NLP Marketplace Drives Healthcare Machine Learning
+Other use cases include clinical-grade monitors for diabetes, home monitoring or bedside devices that feed data into the cloud, or health management apps that utilize smartphones and their built-in sensors.
+The software used to collect and analyze these novel data sets will bring significant revenue to developers.  The report predicts that the software component of IoT analytics will be worth $40 billion by 2025, with North American investment leading the way.
+GLOBAL WEARABLE SENSORS MARKET WILL BE WORTH $2.86 BILLION BY THE MID-2020S
+Along the same lines, the wearable sensors market is expected to see major growth through 2025.  The market for wearable sensors, including fitness bands, smartwatches, and new categories of smart fabrics, glasses, and footwear, is anticipated to see a 38.8 percent CAGR during that time period.
+Smartwatches alone are expected to be worth more than $1 billion by 2025, keeping pace with the continually strong demand for wrist-worn fitness trackers. 
+Brands such as Apple and Samsung are likely to continue to target healthcare applications as they roll out additional improvements to their smartwatches over the next few years.
+CLINICAL DECISION SUPPORT FOR SEPSIS TO SEE 24.3 PERCENT CAGR TO 2022
+READ MORE: Natural Language Processing Markets Set to Grow in Healthcare
+Clinical decision support (CDS) systems and patient surveillance tools are an increasingly important category of big data analytics tools, especially as machine learning and artificial intelligence begin to enable highly accurate and timely insights.
+Sepsis, an insidious and deadly disease that requires prompt identification and treatment, has been the test case for numerous clinical decision support strategies in recent years, including many powered by AI algorithms.
+A large proportion of these sepsis-focused CDS systems have been homegrown, but vendors are moving quickly to offer predictive analytics and alerting functionalities through EHR add-ons and other commercialized products.
+This trend will result in a global market worth $35.6 million by 2022, a marked increase from 2017, when the sector was valued at $12 million.
+Growing incentives to cut costs by reducing hospitalizations, hospital acquired conditions (HACs) and unplanned readmissions will continue to foster growth among CDS developers, says MarketsandMarkets.
+In addition, stakeholders are offering more grant funding and research opportunities to help address this problem, and many are actively searching for artificial intelligence and machine learning solutions that can flag sepsis in its earliest stages.
+INSURANCE ANALYTICS MARKET SLATED FOR A 12.5 PERCENT CAGR FROM 2018 TO 2023
+Healthcare providers aren’t the only ones seeking to harness big data to improve quality and reduce inefficiencies.  Payers, including healthcare insurance companies, are actively investing in analytics tools to help them generate actionable insights into financial and administrative pain points.
+As a result, the global cross-sector insurance analytics market will expand from a $6.63 billion opportunity in 2018 to just under $12 billion by 2023, says ReportsnReports.
+Insurers are finding it a challenge to integrate big data from multiple sources to develop visibility into revenue sources, fraud risks, and opportunities to cut unnecessary spending.  They are turning to a number of vendors for solutions, including SAP, Salesforce, Tableau, LexisNexis, Palantir, and Verisk Analytics.
+These and other vendors aim to equip insurance companies with the tools to help them make better decisions in an era of uncertain regulation and changing payment models.  Payers will need to carefully select health IT systems to integrate with legacy tools and equip them for a future in which big data analytics is a core competency.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportHealthcare Internet of ThingsHealthcare PayersWearable Devices
+
+

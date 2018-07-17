@@ -1,0 +1,25 @@
+HSPC Interoperability Project Tackles HIE with FHIR, App Culture
+
+September 02, 2015
+
+By Jennifer Bresnick
+September 02, 2015 - CommonWell, Carequality, and the Argonaut Project may be the names that first spring to mind when discussing the healthcare industry’s private interoperability efforts, but the Healthcare Services Platform Consortium (HSPC) is planning to put its own stamp on the landscape. 
+Newly incorporated as a non-profit and with a freshly appointed cadre of executive leaders, HSPC intends to bring a vendor-agnostic, application-based perspective to big data analytics, health information exchange, and EHR interoperability.
+“We are thrilled with HSPC’s progress and the growing momentum for a vendor-agnostic, market-driven interoperability solution like ours,” said Dr. Stanley M. Huff, Chief Medical Informatics Officer at Intermountain Healthcare and Chairman of the HSPC Board of Directors.
+“We launched HSPC to enable software developers to create interoperable applications free of proprietary constraints. Clearly, healthcare is ready for apps that work with any health system’s EHR, regardless of vendor.”
+Dig Deeper
+Big Data, Interoperability Top Black Book’s Trends for 2017
+Health IT Vendors, Providers Struggling with API Development
+Blockchain, APIs Take a Stab at the Healthcare Revenue Cycle
+Along with CEO Oscar Diaz, who previously held a post as VP and General Manager of Harris Healthcare Solutions, Huff hopes to build on HSPC’s early successes, which include several promising collaborative meetings and commitments from a number of notable healthcare stakeholders.  Intermountain Healthcare’s twenty-two hospitals are joining with members including LSU Health Care Services Division, the Regenstreif Institute, and the American Medical Association to develop a standards-based approach to accelerated software development.
+“Intermountain and LSU are both highly regarded pioneers in the use of HIT,” said Diaz. “That these leading healthcare organizations have become founding members of HSPC shows how critical it is to develop an industry-wide, multi-stakeholder approach to interoperability.”
+“LSU has developed informatics and analytics innovations utilizing clinical data for population health and chronic disease management since prior to Hurricane Katrina devastated the Gulf Coast in 2005,” added Wayne Wilbright, MD, CEO of LSU Health Care Services Division. “HSPC offers us the most innovative, market-based strategy for enabling the healthcare industry’s significant investment in clinical and financial data systems to be efficiently leveraged to meet the information demands of the evolving value-based healthcare environment.”
+The collaboration will focus on improving clinical application interoperability through open data standards and specifications such as HL7 and FHIR, hosting “sandbox” development and testing environments for innovators, and creating a marketplace for the promotion and distribution of clinical applications that adhere to the principles of interoperability.
+Like many of the industry’s most promising interoperability projects, HSPC hopes that FHIR, the internet-based protocol that allows for the development of plug-and-play apps and other tools, will be the key to unlocking the free flow of data across disparate EHR systems.
+“Our initial strategy is using the SMART on FHIR approach as our way of integrating with and interacting to store and retrieve data from EHRs,” Huff said to EHRintelligence.com in an interview this spring. “Much of the technical work, especially around the FHIR services, is a specification of FHIR profiles that get you to true interoperability around those services.”
+“We want to make more applications available to everyone and if we can do that in a way that that application actually shareable — that exact same application can run as part of Epic, Cerner, Allscripts, athenahealth, etc. — then it’s huge benefit,” he continued. 
+“It meets an unmet need, but above and beyond that you have created an app store-like environment where the motivation for people to create new and useful applications and you have created a marketplace that doesn’t depend on any single vendor but is actually vendor independent. It has the potential to dramatically change the quality and cost of software that would be available to healthcare enterprises.”
+HSPC’s next technical meeting will be hosted by Intermountain Healthcare in September, where participants will discuss the group’s upcoming activities, share interoperability use cases, and define the direction and objectives for the collaboration’s ongoing efforts.
+Tagged Analytics InfrastructureApplication Programming InterfacesBig Data AnalyticsEHR InteroperabilityFHIRHealth Information Exchange
+
+

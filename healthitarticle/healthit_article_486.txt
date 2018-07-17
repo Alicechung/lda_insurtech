@@ -1,0 +1,25 @@
+ONC Offers $75K for Better EHR Patient Matching Algorithms
+
+May 02, 2017
+
+By Jennifer Bresnick
+May 02, 2017 - The Office of the National Coordinator is intensifying its focus on patient identification and patient matching by offering up to $75,000 in prize money for the best new tool to ensure that EHR data is appropriately linked to the right individuals.
+Participants in the Patient Matching Algorithm Challenge will be asked to run their algorithms against specially curated test data from the ONC.  The dataset contains a certain number of verified duplicate entries, which the tools will need to spot and reconcile correctly.
+Patient matching is a serious data integrity and patient safety issue that has plagued health information management professionals since the start of the EHR adoption process.  Duplicated or conflated records may lead to inaccurate documentation of allergies, medications, previous procedures, or diagnoses, leaving patients with dangerously incomplete records of their care.
+Dig Deeper
+Data Governance Can Help Improve Patient Matching Issues
+Demographic Data Quality Key in Improving Patient Matching
+Half of HIM Pros Face Patient Matching, Data Integrity Issues
+There is also a financial implication.  The ONC estimates that the administrative costs to manually correct a mismatched record can reach $60 per case.  This figure does not include any additional costs for correcting improper treatments or potential legal fees that may result from incorrect care.
+“From an interoperability perspective, the ability to complete patient matching efficiently, accurately, and at scale has long been identified as a key element of the nation’s health IT infrastructure,” added ONC Office of Standards and Technology Director Steven Posnack, MS, MHS, in a blog post on HealthITBuzz.
+“Patient matching is almost universally needed to enable the interoperability of health data for all kinds of purposes. Patient matching also requires careful consideration with respect to its effect on patient safety and administrative costs.”
+The ONC Patient Matching Algorithm Challenge is the latest in a long series of industry efforts aimed at ensuring that EHR data follows the right patient across the care continuum.  In addition to public-private competitions and guidelines issued by organizations including CHIME, WEDI, HIMSS, and other stakeholders the ONC’s 2015 Nationwide Interoperability Roadmap takes specific aim at the issue. 
+The Roadmap highlights the critical role of patient data integrity in the healthcare system’s ability to exchange information, monitor patients for population health management, and track individuals for the purposes of value-based reimbursement or accountable care.
+“While numerous recommendations have been issued over the years to tackle different aspects of patient matching, it is important to recognize that the entire health care system can impact its performance – from data capture at patient registration to the technology and algorithms along the way,” Posnack asserted.
+“At the same time, there has been little transparency about how well current patient matching algorithms perform and no industry-accepted minimum baseline(s), benchmark(s) or testing approach(es) exist.”
+When the contest opens in June, entrants will compete for up to six cash prizes.  Teams will unlock the dataset upon submission of registration, then run their algorithms and submit the results to a scoring server.
+“Upon submitting results, participants will receive objective evaluation metrics (F-scores) that can be used to guide system improvements; a total of 100 re-runs will be allowed,” the challenge website explains.  “Top prizes will be awarded to participants’ algorithms that generate the highest F-Score(s). Additionally, algorithms with the best recall, best precision, and best first F-Score run performance will also receive a cash prize.”
+The ONC will be offering three information webinars in May for interested parties.  Registration for the online session is available here.
+Tagged Data IntegrityEHR Data QualityHealthcare Data GovernanceInteroperabilityONC
+
+

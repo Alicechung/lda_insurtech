@@ -1,0 +1,37 @@
+identitii and Blue Prism Partner to Enable Banks to Securely Streamline Financial Transactions While Helping Detect Money Laundering and Fraud
+
+June 25, 2018
+
+identitii, the company enabling the secure, trusted and auditable exchange of information within and between counterparty financial institutions, announced a new partnership with Blue Prism (AIM: PRSM), a pioneer and innovator in Robotic Process Automation (RPA). The partnership will see a joint technology offering designed to help financial institutions securely digitise and automate corporate payment and trade transaction processes, and provide a detailed audit trail to aid the efficient and effective detection of fraudulent activities.
+
+ For many financial institutions, collating and verifying the information necessary to complete a transaction such as a cross-border corporate payment or corporate trade deal is a very manual, time-consuming and costly process. Furthermore, the extensive anti-money laundering and financial crime sanctions checks that firms must conduct to accurately assess the transaction’s intended purpose and requirements add additional layers of complexity.
+
+ The partnership will enable financial institutions to digitise costly and inefficient manual processes by automating the collation and permissioned exchange of information whilst securely recording a detailed audit trail of all processes and activities on a private distributed ledger, allowing for detailed reporting.
+
+ identitii will integrate their permissioned data sharing capabilities and their verification engine, Integrity, with Blue Prism’s Digital Workforce, used by businesses to automate complex work processes.
+
+ With Blue Prism’s Digital Workforce solution, firms can automate previously manual tasks required by counterparties and to meet regulatory commitments, such as the collation of diverse documentation and data stored across multiple legacy systems. When combined with identitii’s Integrity, any document, process or piece of information can be quickly and easily verified and secured through identitii’s private distributed ledger and accompanied with a digital audit trail.
+
+ Recording the data provenance and creating an immutable time-stamp of any process and database change, the cryptographic audit trail allows all parties to quickly understand who has accessed or changed a piece of information, and when and where those changes took place, proving full transparency and traceability. This allows all parties throughout the process to ensure they are making decisions based on the correct information, as they are aware of who has viewed the documentation, if it has been amended and its origination.
+
+ Nick Armstrong, CEO and Co-founder of identitii, commented, “We are delighted to be partnering with Blue Prism. By combining our core strengths, we will enable our customers to achieve enhanced transparency and a complete audit trail of the provenance of information from Blue Prism’s digital workforce. This will allow users to share information more securely, reduce the risk of information being tampered with and allow for detailed reporting.”
+
+ David Moss, CTO and co-founder of Blue Prism, added, “Security, auditability and compliance can’t be an afterthought when thinking of automation. Working with identitii bolsters our ecosystem of security partners while providing our joint customers with the Digital Workforce they need to complete their digital transformation programs, which helps to ensure that every transaction is safe and accounted for.”
+
+ Blue Prism complements the workplace with an elastic, multi-faceted and multi-talented digital workforce, helping organisations automate and scale business processes via AI, machine learning, intelligent automation and sentiment analysis. The Digital Workforce Platform eliminates vendor lock-in by providing access to the best of breed AI technologies and Intelligent Automation skills through Blue Prism’s Technology Alliance Program (TAP) that transforms how organisations can leverage technology to deliver true operational agility.
+
+ About identitii
+
+ identitii allows financial institutions to accelerate transaction verification processes by enabling the secure, trusted and auditable exchange of information within and between counterparty financial institutions, and financial institutions and their end clients.
+
+ Employing tokenisation and a private distributed ledger, with identitii all parties involved in highly complex transactions can use a permission-based system to share and enrich the information needed by each counterparty. The information shared is accompanied with a cryptographic audit trail, detailing the data’s provenance and providing time-stamped proof of who accessed each piece of information, when and where.  
+
+ identitii was founded in 2014, and is led by a team of industry experts with extensive experience in strategic management, distributed ledger technology and fast business growth, and is complemented by an advisory board of senior financial services industry veterans. Identitii has offices in Australia and Singapore.
+
+ About Blue Prism
+
+ As a pioneer and innovator in Robotic Process Automation (RPA), Blue Prism delivers a Digital Workforce. The company’s software robots automate complex work processes while meeting the requirements of the most demanding IT environments, where security, compliance and scalability are paramount.
+
+ Blue Prism provides a scalable and robust execution platform for best-of-breed AI and cognitive technologies and has emerged as the trusted and secure RPA platform of choice for the Fortune 500. Billions of transactions and hundreds of millions of hours of work are executed on Blue Prism robots from renowned companies including Aegon, BNY Mellon, Coca-Cola, Commerzbank, IBM, ING, Maersk, Nokia, Nordea, Procter & Gamble, Raiffeisen Bank, Siemens, Westpac and Zurich.
+
+

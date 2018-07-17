@@ -1,0 +1,36 @@
+AI, Machine Learning as a Service Set to Overhaul Healthcare
+
+April 05, 2017
+
+By Jennifer Bresnick
+April 05, 2017 - Relatively few healthcare organizations have the resources or analytics maturity to develop their own intricate big data analytics infrastructure from scratch, but a growing number of vendors are starting to make the daunting and costly process easier by offering artificial intelligence and machine learning as a service (MLaaS). 
+The “as a service” industry, which has quickly branched out to cover a number of critical data-heavy use cases, allows organizations to contract with third-party vendors that do the heavy lifting in terms of data collection, storage, movement, and analytics.
+Many healthcare stakeholders are already familiar with MLaaS technologies, even if the acronym itself is new to them.  On the consumer side, voice-driven personal assistants like Siri, Alexa, Cortana, and Google Home use machine learning techniques to create smart environments and automate technical tasks.
+In the enterprise space, IBM Watson’s commercialized analytics and precision medicine services are a good example, as is Partners Healthcare’s IDEA platform, which uses data lake technology to streamline the development of research projects targeting a number of high-value use cases.
+These cloud-based tools reduce development burdens and infrastructure requirements, and often help healthcare organizations get around the talent shortages and limited in-house knowhow that can make it difficult to move forward with the clinical analytics and population health management programs that underpin value-based care.
+READ MORE: Top 4 Basics to Know about Semantic Computing in Healthcare
+Turning to the “as a service” sector for solutions will allow organizations to focus on operationalizing insights for imaging analytics, clinical decision support, consumer relations, cybersecurity, and quality assessments instead of getting bogged down in basic hardware and software development.  
+With a potential global compound annual growth rate of 38.40 percent, the machine learning as a service market is likely to be worth close to $20 billion by 2025, says Transparency Market Research, as stakeholders across multiple industries try to integrate cutting edge analytics capabilities into their platforms and services.
+Healthcare alone may account for $5.4 billion in spending by 2022, a separate report predicted at the end of 2016.
+Source: Transparency Market Research
+Coupled with an artificial intelligence sector slated to bring more than $46 billion in revenue to vendors by 2020, MLaaS could fundamentally revolutionize the way healthcare organizations approach big data analytics by making these tools more budget-friendly for a broader range of organizations.
+“Intelligent applications based on cognitive computing, artificial intelligence, and deep learning are the next wave of technology transforming how consumers and enterprises work, learn, and play,” says David Schubmehl, research director, cognitive systems and content analytics at IDC, which compiled the AI report.
+READ MORE: Artificial Intelligence in Healthcare: Augmentation or Companionship?
+“These applications are being developed and implemented on cognitive/AI software platforms that offer the tools and capabilities to provide predictions, recommendations, and intelligent assistance through the use of cognitive systems, machine learning, and artificial intelligence. Cognitive/AI systems are quickly becoming a key part of IT infrastructure and all enterprises need to understand and plan for the adoption and use of these technologies in their organizations.”
+Diagnosis and treatment systems, quality management tools, fraud and threat analysis, and customer service are likely to drive nearly half of all cognitive computing or artificial intelligence spending in 2017, IDC added, with pharmaceutical R&D and public safety representing some of the fastest growing market segments.
+Source: IDC
+At the moment, the MLaaS industry is dominated by three major players: Amazon, IBM, and Microsoft, says Transparency Market Research. 
+These three companies comprise nearly three-quarters of the 2016 marketplace, and are likely to hold onto their dominance through continued acquisitions of smaller vendors that can supplement their core offerings, although healthcare-specific machine learning vendors are gaining clients at a rapid clip.
+In the healthcare industry, growing comfort with cloud technologies and a rising sense of urgency to use big data for operational and clinical improvements is creating a new generation of partnerships and research efforts aimed at solving some of the most complex diagnosis and treatment problems facing providers today.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+As pattern recognition and natural language processing become more sophisticated, organizations are starting to extract meaning from large or unstructured data sources ranging from pathology slides, genomic tests and MRI scans to voice recordings, free-text notes, and patient-generated health data.
+“We’re in a golden age of machine learning and AI,” said Ralf Herbrich, Director of Machine Learning Science and Core Machine Learning at Amazon when the web giant announced the launch of the Partnership on Artificial Intelligence to Benefit People and Society.
+“As a scientific community, we are still a long way from being able to do things the way humans do things, but we’re solving unbelievably complex problems every day and making incredibly rapid progress.”
+The partnership also includes Microsoft, IBM, Apple, Google, and Facebook, among others.
+IBM President and CEO Ginni Rometty expressed similar optimism at the 2017 HIMSS Conference and Exhibition in February.  “It’s a profoundly hopeful moment in time,” she said.  “There’s a land rush around AI right now.  I think we're in a moment where we can actually transform healthcare.  We can reinvent things, and I think it's within our power to change the world for the better."
+Providers are certainly eager to see artificial intelligence and machine learning come to fruition.  In September 2016, more than a third of respondents to a Silicon Valley Bank survey said that AI was going to be healthcare’s most impactful technology in 2017 – and it is unlikely to relinquish the title any time soon.
+If healthcare organizations start to accelerate their adoption of machine learning as a service tools, they may find themselves in a better place to address the critical clinical, financial, and operational questions that currently produce so many inefficiencies and negative outcomes. 
+MLaaS offers a cost effective way to engage in the analytics required to succeed in a rapidly evolving environment, harnessing healthcare’s big data assets to improve the diagnostic and treatment capabilities of providers across the size and revenue spectrum.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareCloud ComputingMachine LearningNatural Language ProcessingSemantic Computing
+
+

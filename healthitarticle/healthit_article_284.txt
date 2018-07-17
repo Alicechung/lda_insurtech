@@ -1,0 +1,45 @@
+Artificial Intelligence is Altering Healthcare, but Not with “Magic”
+
+November 27, 2017
+
+By Jennifer Bresnick
+November 27, 2017 - Depending on who is making the statement, artificial intelligence is either the best thing to happen to healthcare since penicillin or the beginning of the end of human involvement in the medical arts.
+Robot clinicians are coming to take over every job that can possibly be automated, warn the naysayers. 
+That might not be such a terrible thing, say the enthusiasts.  The sooner the healthcare system can eliminate human error and inefficiency, the safer, happier, and healthier patients will be.
+In reality, artificial intelligence is still many, many years away from replacing the clinical judgement of a living, thinking person, says Dr. Joe Kimura, Chief Medical Officer at Atrius Health.  And it may not ever do so.
+While AI and machine learning hold enormous potential to improve the way clinicians practice, AI proponents should try to temper their expectations, and cynics worried for their jobs can relax for the moment – there is a great deal of work to be done before providers can or should trust computers to make reliable decisions for them.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+"Artificial intelligence is not magic,” Kimura said at the 2017 Boston Value-Based Care Summit.  “It’s not an instant panacea, and it’s not a master robot that will come out and replace all your clinicians.” 
+Dr. Joe Kimura, CMO at Atrius Health
+Source: Xtelligent Media
+“We’ve slapped the name of 'AI' on it because it sounds exciting, but what we have at the moment is just a more advanced form of clinical decision support.  There’s a misperception about the maturity of AI and what it can actually do.  What we need to do is balance expectations with reality.”
+Vendor enthusiasm and a deeply-seated desire among healthcare organizations to make sense of their big data assets has produced a highly charged environment that is full of lofty promises, the majority of which come with large caveats and lots of fine print.
+Healthcare organizations are rightly eager to harness the latest and greatest analytics technologies to improve efficiency, safeguard patients, boost revenue, and succeed with population health management.
+Yet doing so requires individual clinicians to synthesize vast amounts of information from disparate sources, Kimura explained, and the challenge of analyzing so much data is quickly outpacing providers’ abilities.
+READ MORE: Healthcare Data Access is Biggest Artificial Intelligence Bottleneck
+“The amount of information we need to understand is getting so untenable that it’s unreasonable to expect the average clinician to integrate all of it into their decision-making effectively and reliably,” he said.  “If we really want to make sure every human being gets great care, then you have to make sure that you’re assisted by technology.”
+Even the skeptics are already benefitting from some clinical decision support capabilities that supplement human decision-making, he pointed out.
+“I don’t think there’s a doctor out there using an EHR that feels the medication-allergy cross-check is not helpful,” he said.  “We used to turn to a clinical pharmacist and ask if there was anything we needed to worry about.  The pharmacist would say, ‘Nope, you’re good,’ and we’d finish prescribing the medication.”
+“Now the computer can do that, and it does it really well.  That’s a good deal for us as clinicians, and an even better deal for our patients.”
+These clinical decision support capabilities are designed to help clinicians sleep at night, he continued. 
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+“The average internist gets pummeled with messages coming in.  They’re not curated,” he said.  “And providers are petrified that they’re going to miss something critical in the sheer volume of things.  The more information that’s coming in, the more clinical liability you’re taking on, whether or not you feel able to deal with it.”
+“Think about those times when you order a CT scan that says we’re looking at this for appendicitis, but there’s a nodule in the lung that we picked up.  You’re not looking for that, but now you’re legally responsible for it because you have the information in your possession.  You’re accountable for that.”
+Advanced clinical decision support based on the principles of machine learning and artificial intelligence can help filter that tsunami of incoming data, Kimura said.
+In pursuit of that goal, Atrius Health has been following the lead of Kaiser Permanente to develop a safety net system using machine learning, he explained.
+“Let’s say the urologist ordered a prostate specific antigen (PSA) test and advised the internist to have the patient follow up in three months," he said.  "Maybe we called the patient twice; he missed an appointment; he doesn’t return our messages.  Or maybe I thought the urologist was following up, and he thought I was doing it, and it turns out cancer is developing in the patient and he doesn’t know it.” 
+“The computer does know there’s a problem,” he continued.  “It knows that ‘abnormal result’ plus ‘no follow up’ equals a potential problem.  I don’t know a single colleague who feels that getting that alert, just because it comes from a computer, would somehow diminish their ability to be a better physician.”
+The benefits will only accrue if AI is targeted to specific use cases and if algorithms are rigorously vetted using the principles of good data governance, Kimura stressed.
+After all, machine learning and AI are just computer science methodologies, and the old data science adage of “garbage in, garbage out” still applies.
+“The best analogy I can make is that a couple of years ago, everyone was into visualization – everyone had to have everything put into interesting graphs,” Kimura recalled.  “There is certainly sound reasoning for how visualization can make complex data more easily understandable for a wider variety of people who need to look at it.”
+“But if you’re visualizing garbage and don’t know it’s garbage, you can get into trouble.  When you show someone a dashboard, they’re going to believe that it’s the truth.  But even the world’s best visualization isn’t going to create value if the underlying data isn’t trustworthy or accurate.  And the same applies to artificial intelligence.”
+AI can only reliably separate signal from noise if the organization has a strong understanding of what that signal should look like, how well their data expresses it, and how much trust they can place in their algorithms to separate actionable insights from background static.
+There is no artificial intelligence product or machine learning tool that can perform those tasks independently with 100 percent reliability, Kimura said – nor do most developers currently envision that their offerings should do that.
+“I haven’t seen any machine learning technology that aims to become completely FDA cleared to take liability for making an autonomous decision,” he noted.  “You need a clinical expert to go that next step and take the signal and turn it into an action that will help the patient.  I really think vendors understand that, even if it’s not always communicated well to clinicians.”
+“Technology can’t function independently yet, and it might not ever be able to.  Whether that’s a good thing or not probably depends on your role in the industry.”
+Ultimately, even the most advanced artificial intelligence tools will only serve to augment clinician judgement, not replace it, Kimura said, echoing the position of many thought leaders in the industry.
+“It doesn’t have to be threatening,” he said. “Doctors and nurses and everyone else in the industry know that medicine is getting complicated, and they know that there is simply no way for even the smartest, hardest-working humans to keep up.”
+“If we implement and adopt artificial intelligence correctly, it won’t be viewed as a threat.  It’ll be viewed as a savior.  But we’re not looking at 2019 as the horizon for that.  It’s in the future still – maybe many years in the future – but I believe we will all benefit from it when it arrives at scale to support the delivery of care.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR WorkflowInterviewsMachine LearningValue Based Care Summit
+
+

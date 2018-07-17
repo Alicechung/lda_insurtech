@@ -1,0 +1,17 @@
+Daimler And HERE To Bring HD Live Map To Future Mercedes-Benz Models
+
+01 Mar 2018
+
+Highly precise maps are a key element for autonomous driving
+Data from car sensors enables near real-time map “self-healing”
+HD Live Map complements ADAS applications for more safety
+Daimler and HERE Technologies have teamed up to make HERE HD Live Map an integral part of Daimler’s autonomous driving technology. With these efforts both companies are laying the ground work for upcoming generations of highly automated and autonomous Mercedes-Benz vehicles* to come to market with the benefits of HD Live Map on board. For Daimler, this is a logical step as the current E- and S-class models are already using maps from HERE.
+Highly precise digital maps are a key component for advanced driver assistance systems (ADAS) and autonomous driving.  The machine-readable, cloud-based HD Live Map allows an automated vehicle to effectively ‘see around corners’ and consists of multiple layers of information essential for it to know where exactly it is, what lies ahead and what it should do in various scenarios.
+Maps from cars for cars: self-healing maps require large amounts of vehicle sensor data
+HERE has created HD Live Map to be “self-healing”. This means it can reflect dynamic changes in the road environment and update itself accordingly in near real-time. This enables vehicles to proactively adjust to changing road conditions – for example, switching lanes and adjusting speed ahead of time in the case of an upcoming lane closure.
+Vehicle sensor data is the most crucial element for an HD map to self-heal because of its quality, and the sheer volume of vehicles on the road that can detect and validate change. HERE is already receiving rich vehicle sensor data from multiple automakers, including Daimler, to produce near real-time map updates. With passenger safety top of mind, HERE HD Live Map constantly publishes changes to the map through an innovative content validation process, where multiple vehicle sensors act as a “closed loop” to detect any deviations from the published data.
+Ralf Herrtwich
+“The map of the future is one that’s self-healing – constantly updating to mirror what is happening across the road network” said Ralf Herrtwich, SVP Automotive at HERE Technologies. “Together with Daimler, we are mastering this powerful mapping technology and are truly excited to make it available for the next generations of Mercedes-Benz vehicles.”
+Ola Källenius, Member of the Board of Management for Group Research and Mercedes-Benz Cars Development, emphasized: “Maps with centimeter precision updating itself in near real-time, is one key element for autonomous driving. With the new HD Live Map and the rich, continuously growing information it provides we are taking a big step on the way towards autonomous driving.”
+
+

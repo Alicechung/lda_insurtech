@@ -1,0 +1,52 @@
+Breaking Down the Basics of Population Health Management
+
+April 08, 2016
+
+By Jennifer Bresnick
+April 08, 2016 - Population health management may be one of the trendiest terms to hit the healthcare scene as the industry works through its myriad reform efforts, but it’s also one of the most elusive. 
+Used to describe everything from basic team-based care initiatives to big data analytics projects that synthesize EHR records from millions of patients across the country, there are as many different definitions of “population health management” as there are healthcare professionals.
+But how are organizations supposed to embrace this critical piece of the Triple Aim if they don’t know what it means, where to get started, or what health IT tools they will need to make it work?
+In this primer, HealthITAnalytics.com breaks down the fundamentals of population health management and explains what this new approach to patient-centered, data-driven care will mean for providers across the care continuum.
+What is population health management?
+READ MORE: 44% of Payers, Providers Find Population Health Tools Effective
+At its core, population health management is the process of establishing patient cohorts based on identified characteristics, developing tailored preventative and acute care protocols for each of these groups, and treating patients according to their risk profiles.
+Providers engaging in population health management are responsible for the health outcomes of these groups of individuals, and must make sure that they are providing standardized, high-quality care to patients on a consistent basis in order to achieve optimal results. 
+Increasingly, these patient outcomes are tied to financial reimbursements through contracts between providers and payers.  Payers, including Medicare, Medicaid, and private insurance companies, will identify a goal for a specific service or segment of the population, and providers will receive a certain reimbursement rate based on how well they manage to meet that goal.
+This type of arrangement makes healthcare providers accountable for what happens to patients in the long run, no matter where those patients receive their care.  That requires healthcare organizations to improve their communication with business partners, such as local hospitals and specialists, and to use health IT tools like the EHR to monitor, manage, and analyze patient data.
+These strategies are intended to reduce costs, improve quality, and engage patients in their own care, but transforming a practice to operate under a population health management model can be a challenge all its own.
+READ MORE: How the CVS, Aetna Deal Will Overhaul Healthcare Big Data Analytics
+What does population health management entail?
+Population health management requires several new competencies that many traditionally-focused organizations have not yet developed.
+First, providers must understand and clearly delineate their pool of attributed patients, which is often accomplished with the help of payers. 
+Next, organizations must analyze the challenges of this attributed population and choose which health issues they wish to address.  Organizations often start small – improving tobacco use screening rates by 10 percent or providing eye exams to 80 percent of diabetics each year – and then expand their reach as they gain confidence with the workflow changes necessary to enact measurable improvements.  Providers may wish to look at the service areas that bring the highest costs to identify opportunities for improvement.
+Chronic disease management is often an important place to start, especially as the incidence of diabetes, heart disease, hypertension, asthma, and COPD continue to strain the healthcare system.  Enacting relatively low-cost patient management improvements can put a significant dent in the costs, time, and burden of managing these conditions across an aging population.
+READ MORE: IBM, Rensselaer Open Cognitive Computing Center for Chronic Disease
+Developing a quality reporting process supported by a robust health IT infrastructure is an important piece of this journey.  The majority of healthcare organizations are already accountable for some degree of quality reporting through federal programs like meaningful use, but may not realize how important these metrics can be for internal assessments and strategic planning.
+Many electronic health records now offer population health management modules or built-in big data analytics capabilities that can deliver the patient reporting necessary to take action for certain groups.  EHR templates, clinical decision support tools, and analytics dashboards can help care managers track patients and target appropriate services to those who might be experiencing gaps in their care.
+Effective population health management also requires follow-up and increased patient-provider communication.  Under this accountability model, providers are responsible for reaching out to patients to remind them when they are due for routine care, ensure that they are receiving and taking their medications appropriately, and help them manage contact with specialists or other care providers.
+Practice transformation frameworks like the patient-centered medical home can help to guide providers through the process of
+What health IT tools are required to engage in these activities?
+It is certainly possible to take a population-based approach to patient care using paper, pen, and telephone, but it is much easier to accomplish the data analytics required to succeed with this method on a larger scale by using currently available health IT options.
+Thanks to the EHR Incentive Programs, the majority of primary care providers and hospitals now have the basic technologies they need to start their journey towards population health management.
+Electronic health records contain much of the basic data required for entry-level analytics: patient demographics, diagnosis and procedure codes, and clinical notes that may include information of patient challenges and concerns.
+However, extracting, normalizing, and analyzing that data can be a major undertaking – and combining EHR data with other key sources of information, such as insurance and pharmacy claims, patient-generated health data, registry data, and socioeconomic information, is often too large of a task for smaller providers to handle.
+Healthcare organizations have several options for overcoming these technology obstacles:
+• Purchase and optimize in-house tools, such as a data warehouse, dedicated population health management software product, or big data analytics infrastructure
+• Join an accountable care organization that allows individual providers to pool their resources and jointly develop analytics capabilities
+• Subscribe to a regional or state-level health information exchange that aggregates data and offers population health management reporting services
+• Collaborate directly with payers to identify at-risk populations and address areas of highest concern to insurers
+Each of these strategies comes with its own complications, of course.  Healthcare providers have continually struggled to find qualified data scientists and informaticists to undertake these projects, and often lack the budget bandwidth to purchase and implement the best possible combination of health IT systems.
+Working with external organizations or business partners is essential for accountable care, but these relationships can be difficult to manage.  Some providers run into trust issues or encounter a reluctance to share data with competitors – even on the EHR vendor level.
+Many of the arguments over data sharing or collaboration are financially motivated, and may stem from a lack of understanding about the real benefits of population health.
+What is the incentive for engaging in population health management?
+There are two main reasons why population health management is such an important path for the healthcare industry.  The first is financial, while the second speaks to the mission of every clinician and staff member: delivering safe, effective, meaningful patient care.
+On the financial side, population health management has the potential to significant slash wasted dollars for payers and providers.  As explained above, a population-based care strategy prepares healthcare organizations for entering into value-based arrangements, where outcomes take precedence over the number of visits or volume of services performed.
+As quality starts to play a bigger role in the reimbursement landscape, providers must be able to identify opportunities to cut unnecessary services that take time and manpower but don’t return revenue into the system.  Using population health management techniques, like an emphasis on preventative care, can reduce unnecessary service utilization and keep patients away from expensive inpatient admissions or emergency department visits.
+Providers will be rewarded for these efforts if they choose to participate in value-based reimbursement contracts, and patients are likely to be happier, too. 
+A once-a-year visit to a primary care provider is much less expensive, time consuming, and nerve wracking than rushing to the ED at midnight due to a severe asthma attack that could have been prevented with better monitoring and medication adherence.
+Studies and demonstrations have repeatedly shown that population health management can effectively cut costs, raise patient satisfaction, and significantly reduce unnecessary service utilization across a broad patient cohort.
+Patients who are encouraged to engage in more comprehensive primary care through online portals, expanded access opportunities, and more personalized interactions with providers are more likely to express positive feedback about their healthcare experiences.
+In order to succeed in the value-based reimbursement environment, healthcare organizations will need to start exploring how they can engage in population health management strategies sooner rather than later.  Developing this approach to patient care will not only position providers for success in a changing financial world, but can also create better relationships with patients, business partners, and payers.
+Tagged Analytics InfrastructureChronic Disease ManagementPopulation Health ManagementPrimers
+
+

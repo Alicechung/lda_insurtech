@@ -1,0 +1,12 @@
+XMOS At Computex: The World’s Broadest Portfolio Of Voice Interface Solutions For The IoT And Consumer Electronics
+
+16 Apr 2018
+
+Class leading true stereo AEC far-field voice capture for consumer electronics on show
+XMOS Ltd, a leading supplier of advanced embedded voice and audio solutions to the consumer electronics market, today announced that they will be showcasing their extensive portfolio of VocalFusion™ true stereo voice capture solutions for far-field voice-enabled stereo smart TVs, soundbars, and set-top boxes at Computex 2018, Taipei, 5th to 9thJune. XMOS will also be previewing their next generation VocalSorcery™ advanced blind source separation technology (by appointment only).
+XMOS will be demonstrating their latest products and proof of concepts that capture voice commands for use in Alexa, Google, DuerOS or other voice enabled AI and IoT systems.
+VocalFusion™ Stereo Dev Kit: In home electronics devices, this technology accurately captures voice commands from across the room, even in complex noisy environments, and when the same audio appliance is playing content at high volume. This development kit is the world’s first stereo acoustic echo cancellation (AEC) far-field linear microphone array solution. Uniquely, the solution also supports configurable AEC latency, where the AEC reference signals can be accurately calibrated, and the latency adjusted, to enable after-market far-field voice accessories for existing consumer electronics products. Available as an Amazon Alexa Voice Service qualified solution, and for use with Google, Baidu or other voice enabled AI systems.
+VocalSorcery™: An advanced blind sound source signal separation technology that spatially identifies individual speakers or conversations within a crowded noisy audio environment to optimize voice capture and input into speech recognition systems. This technology elegantly solves the cocktail party problem, and opens up a wide variety of applications from video and conference calls, to automotive.
+During Computex XMOS will be at The Grand Hotel Hyatt, Taipei, 5th to 9th June 2018. Visit this page to arrange a meeting with the XMOS team.
+
+

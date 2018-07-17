@@ -1,0 +1,19 @@
+Over 50 teams sign up to put tokenization on Bitcoin BCH chain
+
+April 28, 2018
+
+More than 50 teams are taking on CoinGeek.com‘s tokenization challenge, which will shape the next evolution of the Bitcoin Cash (BCH) blockchain.
+
+ After demonstrating that the vision contained in the original Satoshi Nakamoto white paper can be realized on the network, the next step for Bitcoin Cash is to move from being a simple cryptocurrency solution and become the cornerstone of a globally distributed economy. Tokenization is one of the key elements for opening up the Bitcoin Cash chain to support a broader range of transactions than simply payments in the native cryptocurrency. Digital tokens, typically executed with smart contracts, allow real-world assets to be represented within a blockchain transaction.
+
+ To achieve this, CoinGeek.com—along with blockchain technology research and development firm nChain Group—recently announced a design contest for a tokenization solution that runs on the Bitcoin BCH blockchain as well as its associated test networks. The available prize is £5 million worth of Bitcoin Cash.
+
+ “While it is our firm belief that BCH is the one true blockchain that will emerge out of all the FUD around cryptocurrencies right now we want to also ensure BCH has all the tools necessary to make that claim and more. Tokenization is another step on that journey as we create a ‘best of breed’ coin that has all the components of the original Satoshi white paper but also has the additional features that enhance BCH further still,” said CoinGeek.com owner Calvin Ayre.
+
+ The challenge requires participants to design a generic system, or suite of interacting systems that deliver: an issuer solution that permits an entity to securely create tokens, issue tokens to user’s wallets, redeem tokens from users, and securely destroy tokens back into the originating cryptocurrency at the end of that token’s life cycle; a user solution that either plugs into their existing cryptocurrency wallet or sits alongside the wallet, allowing the user to view, trade and redeem their holding; and an audit solution that allows a third party to securely and independently validate the status of all issued tokens on the blockchain.
+
+ All submissions need to include supporting design documentations, as well as a working code with the source codes. The solution is not required to involve the execution of a smart contract on the blockchain, but participants must demonstrate real-world use cases—such as in gaming and casino, company stocks, and even tickets—that manage a token from issuance to final destruction.
+
+ CoinGeek will provide access and licenses to use certain assets from nChain Group’s patent portfolio. The assets are limited for use on the Bitcoin Cash blockchain and participants can only use them for their design proposals. The solutions will be evaluated on how well their solution meets the objectives as well as their effectiveness in using nChain’s intellectual property assets. Participants, however, are not limited or required to use nChain’s assets as CoinGeek encourages creativity and new ideas.
+
+

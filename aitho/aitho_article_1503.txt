@@ -1,0 +1,17 @@
+Quovo Announces “Cue,” A Data-Driven Alert Engine For Financial Services Firms
+
+09 Feb 2018
+
+Cue to Provide Financial Advisors and Institutions with Alerts on Important Account Activity
+Quovo, a data platform that provides connectivity to financial accounts, today announced at the T3 Advisor conference the launch of Cue, an alerts engine that leverages data science to notify financial advisors about key account activity and client milestones, creating timely and relevant touchpoint opportunities.
+Fueled by Quovo’s industry-leading account connectivity and data analytics, Cue helps advisors actively stay on top of their clients’ financial lives, enabling timely client communications at scale. Advisors can use Cue to stay engaged with their clients, monitor business development opportunities, and help clients make healthier financial decisions.
+Niko Karvounis
+Cue represents a transformative evolution in account connectivity. The first bundle of cues focuses on fundamental account-level insights such as tracking changes in balances, significant money movements, and even leveraging data analytics to predict client ownership of accounts that the advisor has not yet seen.
+“The insights and proactive notifications from Cue will help financial advisors take the right action, for the right client, at the right time,” said Niko Karvounis, co-founder and Chief Product Officer of Quovo. “Cue is a prime example of how we’re evolving account connectivity to mean more than just aggregation by providing actionable intelligence.”
+Cue can be implemented in a number of ways, including directly into a firm’s CRM via the Quovo API, through email notifications, and, eventually, as front-end news feed widgets.
+Michael Kitces
+Michael Kitces, co-founder of XY Planning Network and publisher of the Nerd’s Eye View blog, said: “Thus far, most financial advisors have simply used account aggregation to track held-away account balances, and perhaps to automate data updates to financial planning or portfolio reporting software. But the reality is that having your finger on the pulse of the client’s flowing financial data can achieve so much more—from spotting new business development opportunities, to really engaging clients around the financial issues that matter to them. Cue takes account aggregation to the next level, by monitoring for changes in a client’s financial situation to trigger real-time notifications to advisors that allow them to immediately connect with the client, develop new business, and add value to the relationship. I’m looking forward to seeing the product develop as Quovo continues to build out new cues over time.”
+Lowell Putnam
+“This launch is just the beginning for the Cue platform,” said Lowell Putnam, co-founder and CEO of Quovo. “We’re excited for the potential to take this technology beyond the wealth industry and explore other financial verticals, such as the lending and insurance spaces, where timely cues will help deepen a larger variety of customer relationships.”
+
+

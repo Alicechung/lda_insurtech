@@ -1,0 +1,47 @@
+FDA Outlines EHR Data Use Best Practices for Precision Medicine
+
+May 17, 2016
+
+By Jennifer Bresnick
+May 17, 2016 - Even though the rapid advance of precision medicine has brought new sources of genomic and socioeconomic data into the research community, the electronic health record remains an invaluable tool for clinical trials and investigations.  EHRs can provide a window in a patient’s treatment history, while delivering insights into recent test results, allergies and problems, radiology images, pharmacy records, and more.
+This rich and comprehensive data source can be mined to produce nearly real-time insights into how an experimental therapy is affecting an individual or a patient cohort.  But EHR data use is not without its pitfalls, especially when it comes to advanced big data analytics, the FDA warns in new draft guidance.
+Data integrity issues, interoperability problems, and improper use of EHR data in the research process could pose significant challenges to precision medicine projects.  Using EHR information judiciously and appropriately will become increasingly important to investigators as the precision medicine ecosystem grows more and more complex.
+“With the widespread use of EHRs, there are opportunities to improve patient safety, data accuracy, and clinical trial efficiency when data from these systems are used in clinical investigations,” the FDA says in its draft guidance document. 
+“EHRs may have the potential to provide clinical investigators and study personnel access to real-time and longitudinal health care data for review and can facilitate post-trial follow-up on patients to assess long-term safety and efficacy of medical products. There are also opportunities for long-term follow-up of large numbers of patients in studies where primary endpoints are rare, such as in prophylaxis studies.”
+READ MORE: Two Cancer Research Centers Form Personalized Medicine Alliance
+Yet as most healthcare providers are already aware, EHRs do not always function as smoothly and intuitively as they could wish, nor are their data absolutely reliable.  Poor clinical documentation habits at the point of care may leave out critical patient data, or record important information in inaccessible fields or convoluted free-text narratives. 
+Interoperability obstacles may make it impossible for data to move from the clinical setting to the research setting in a standardized and comprehensive format.  Transcription errors may be magnified or perpetuated when data is shuffled back and forth between disparate systems, which could adversely affect the quality and reliability of clinical information.
+The FDA suggests that researchers should prioritize the use of ONC Certified EHR Technology (CEHRT) when the option is available, as CEHRT products “generally have clear advantages because many of the certification requirements are aimed toward ensuring interoperable data sharing and enabling processes to keep electronic data confidential and reliable.”
+When using EHRs of any time in a clinical investigation, researchers “should ensure that the EHRs they use and the processes and policies for their use provide electronic source data that are attributable, legible, contemporaneous, original, and accurate (ALCOA),” the FDA says.  These are the fundamental features of high-quality EHR data.
+The guidance also highlights six best practices for using EHRs in the research process.
+READ MORE: As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+Plan ahead for data integrity problems
+Researchers should be sure to understand the limitations and potential obstacles involved in using EHR data before beginning their work, the FDA says.  When developing a protocol or data management plan, investigators should clearly chart out how they plan to extract data from the EHR, which data elements they intend to use, and how they will ensure that the data is accurate, complete, and consistent.
+The FDA suggests that researchers create a diagram or other detailed description of the flow of data between the EHR and the electronic data system supporting the investigation. 
+Track and monitor providers’ changes to EHR data
+Electronic health records are living documents, and healthcare providers may need to modify the data when they encounter a patient, whether or not the study is ongoing. 
+READ MORE: Data Governance Key to Hospital’s Natural Language Query Project
+“When health care professionals who are not part of the clinical investigation make modifications or corrections to data in the EHR that will be used for the clinical investigation, it is important to ensure that these modifications are made without obscuring previous entries,” the guidance says.
+Researchers should be sure that their own electronic data management systems can capture updated EHR information as well as metadata that accompanies the modifications.
+Create a comprehensive audit trail
+Providers may not be the only ones who wish to modify EHR data during the course of a clinical trial.  Other investigators may want to analyze or manipulate data elements in different ways to help generate new insights, as well.  Each time someone touches the data, for whatever reason, there should be a record of that interaction, the FDA states.  This audit trail will help to ensure that researchers can trace any changes or interference with the dataset that may impact their methodology or the outcome of the trial.
+The guidance suggests that researchers track the identification of the user interacting with the data, as well as the date and time at which the interaction occurred. 
+“The audit trail documentation of the EHR should be retained for a time period that is at least as long as the time period required for the subject’s electronic records and should be available for FDA to review and copy,” the document says.
+Secure truly informed consent from patients
+Due to the extremely sensitive nature of patient data, researchers must carefully follow prescribed steps to gain informed consent for its distribution and use. 
+“The informed consent for clinical investigations in which EHRs will be used must include a statement describing the extent, if any, to which confidentiality of records identifying the subject will be maintained and must also identify all entities who may gain access to the patient’s electronic health record relating to the clinical investigation,” the FDA explains.
+Researchers must also identify any “reasonably foreseeable” potential for a data breach or other event that may put the data at risk, and should include this information in their informed consent documentation.
+The consent form must also clearly state all the parties that will gain access to the data.  In order to clearly describe these access points, researchers must have a solid grasp on the flow of data between disparate systems.
+Ensure adherence to privacy and security principles
+In order to minimize the privacy and security risks involved in using EHR data for clinical trials or precision medicine research, investigators must abide by industry standard safeguards.  These include outlining clear procedures to ensure the privacy and security of participants, including those who withdraw their consent or leave the trial for other reasons.
+In addition to following all existing regulations related to patient data privacy and security, including HIPAA, researchers should be sure to understand and implement any privacy or data security safeguards applicable to their specific institution, organization, or operating environment, the FDA notes.
+Invest in good recordkeeping to avoid inspection complications
+Since the FDA retains the right to inspect and review all documentation related to clinical trials, researchers must be sure that they are generating and retaining audit logs, access notes, and other materials, including paper documents. 
+For drug trials, investigators must save all their materials for two years following the marketing application date.  For medical device projects, researchers must retain EHR data and other documentation “for 2 years after the latter of the following two dates: the date on which the investigation is terminated or completed or the date that the records are no longer required for the purposes of supporting a premarket approval application or a notice of completion of a product development protocol.”
+Researchers are advised to establish good data governance practices at the beginning of a new project in order to avoid complications with FDA audits or review procedures down the line.  By adhering to the suggestions laid out in the FDA’s draft guidance, researchers will be able to maximize the potential of EHR data for their clinical trials and precision medicine efforts.
+Dig Deeper
+Why are HIM Pros Key to Big Data Analytics, Precision Medicine?
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+Tagged EHR Data AnalyticsHealth Information ManagementHealthcare Data GovernanceMedical ResearchPrecision Medicine
+
+

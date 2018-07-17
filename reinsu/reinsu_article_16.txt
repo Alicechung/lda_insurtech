@@ -1,0 +1,29 @@
+Blockchain could bring greater efficiency & higher profits for re/insurers: BCG
+
+14th June 2018 - Author: Charlie Wood
+
+Blockchain’s promise of a more efficient, secure and cost-effective ecosystem for re/insurers is very real, but the logistical and regulatory shift required to leverage its benefits is considerable and will require years of further examination and experimentation.
+
+A report by BCG estimates that blockchain, properly integrated and deployed, could reduce the worldwide property and casualty’s (P/C) combined operating ratio by up 13% and generate upwards of $200 billion more in technical margin from its current gross written premiums.
+
+By investing and partnering with Blockchain-wielding Insurtech platforms re/insurers have been hoping to benefit from this swell of potential.
+
+Examples of this rising trend include the recent unionSteadfast agreement with iXledger and the introduction of Insurwave, a blockchain-powered marine insurance platform that galvanised several major players – including XL Catlin, Microsoft and the world’s largest container ship operator, A.P. Moller–Maersk – from disparate industries.
+
+Re/insurers hope that this burgeoning technology can facilitate the transparent tracking of assets, real-time information delivery, preservation of privacy and confidentiality as well as higher efficiency in comparison to a centralised setup.
+
+Such capabilities would translate to real-time visibility of the location, condition and safety of high-value assets moving around the world, streamlined regulatory reporting and compliance and accurate and transparent data sharing among stakeholders.
+
+There are, however, a number of significant hurdles yet to be cleared before such technologies can be effectively integrated and realised on a global scale.
+
+Productive dialogue between rival companies will need to be successfully negotiated to maximise blockchain’s capabilities – for example in automating risk trading among re/insurers involved in a specific contract – and may prove challenging. Particularly in situations where one firm may be required to give up certain aspects of its operations previously seen as differentiating it from the competition.
+
+Additionally, the robust software required to count and process millions of transactions and thousands of participants is a variable that still remains untested within the small-scale environments in which re/insurers are currently experimenting.
+
+Unifying a singular, regulated protocol should also be a priority as technologies, or protocols, designed to ensure interoperability are often not deployed consistently and current standards in place for the operation of individual blockchains not compatible.
+
+As is the case with any digital platform, particularly in an industry built upon high volumes of sensitive data traffic, security will continue to be intensely scrutinised. Despite its use of basically-impenetrable encryption technology, the shared ledger of a blockchain could still be vulnerable should the surrounding interfaces be improperly secured. An intruder could hack into secondary software – into wallets for instance – and, once in the system, steal the encryption keys.
+
+As outlined in BCG’s report, re/insurers should not adopt a wait-and-see approach to blockchain and still expect to catch up to other players that have already finessed the details. Continued experimentation, though yielding inconsistent results initially, is the best method to illuminate the true boundaries of potential for this still-untested platform.
+
+

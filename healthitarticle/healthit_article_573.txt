@@ -1,0 +1,27 @@
+Machine Learning Predicts Leukemia Remission with 100% Accuracy
+
+February 14, 2017
+
+By Jennifer Bresnick
+February 14, 2017 - Researchers at Indiana University-Purdue University Indianapolis have developed a machine learning algorithm that can correctly predict relapse rates for acute myelogenous leukemia (AML) with 90 percent accuracy – and remission rates 100 percent of the time.
+Using bone marrow and medical history data from AML patients along with information from healthy individuals, the small study highlighted the potential for machine learning to eventually replace traditional manual flow cytometry data analysis for highly accurate and timely results.
+"As the input, our computational system employs data from flow cytometry, a widely utilized technology that can rapidly provide detailed characteristics of single cells in samples such as blood or bone marrow," explained Bartek Rajwa, research assistant professor of computational biology in the Bindley Bioscience Center at Purdue University.
+Dig Deeper
+Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Health Information Governance Strategies for Unstructured Data
+Rajwa is first author on the study, published in the IEEE Transactions on Biomedical Engineering journal.
+"Traditionally, the results of flow cytometry analyses are evaluated by highly trained human experts rather than by machine-learning algorithms,” he added. “But computers are often better at extracting knowledge from complex data than humans are."
+Michael Snyder, PhD, professor and chair of genetics at Stanford University School of Medicine, agrees that computers are the key to supplementing – and perhaps eventually supplanting – human diagnosticians for complex cancer cases.
+"Pathology as it is practiced now is very subjective,” he said in August while detailing his work with machine learning for distinguishing between different types of lung cancer. "Two highly skilled pathologists assessing the same slide will agree only about 60 percent of the time. This approach replaces the subjectivity with sophisticated, quantitative measurements that we feel are likely to improve patient outcomes."
+According to the National Cancer Institute, close to 20,000 patients were likely to receive an AML diagnosis in 2016, and more than 10,000 individuals were expected to die from the disease. 
+Machine learning is quickly becoming a popular tool for predictive analytics and diagnostics across many disease categories, including sepsis, trauma care, heart disease, population health management, vision care, and mental healthcare.
+In 2015, a study from Columbia University in New York, the Universidad de Buenos Aires, and IBM’s Computational Biology Center also used machine learning to achieve a spotless predictive diagnostic record, using natural language processing to flag mental health patients likely to enter a psychotic episode.     
+These remarkable results may become more common as developers and researchers refine their approaches to machine learning, and as vendors release more tools that allow organizations to access the vast computing power required to engage in advanced analytics.
+“It's pretty straightforward to teach a computer to recognize AML, once you develop a robust algorithm, and in previous work we did it with almost 100 percent accuracy,” said Murat Dundar, senior author of the disease-progression study and associate professor of computer science in the School of Science at Indiana University-Purdue University Indianapolis.
+"What was challenging was to go beyond that work and teach the computer to accurately predict the direction of change in disease progression in AML patients, interpreting new data to predict the unknown: which new AML patients will go into remission and which will relapse.”
+The study provides a framework for a clinical decision support tool that can recognize very small residual amounts of malignant cells in bone marrow samples from patients with AML, which can be used to quickly predict changes in the direction of the disease’s progression.
+"Machine learning is not about modeling data,” Dundar added. “It's about extracting knowledge from the data you have so you can build a powerful, intuitive tool that can make predictions about future data that the computer has not previously seen -- the machine is learning, not memorizing - and that's what we did.”
+Tagged Clinical AnalyticsMachine LearningPrecision MedicinePredictive Analytics
+
+

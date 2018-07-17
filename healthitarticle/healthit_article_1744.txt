@@ -1,0 +1,19 @@
+Predictive Analytics Help Identify Military Suicide Risk
+
+November 13, 2014
+
+By Jennifer Bresnick
+Predictive analytics can accurately identify members of the military at the highest risk of committing suicide.
+November 13, 2014 - Veterans Day may have been earlier in the week, but a new study from the US Army shows how an improved predictive analytics model can help members of the military fight an even more insidious foe than they find on the battlefield: the shockingly high prevalence of suicide among current and former servicemen and women.  Published in JAMA Psychiatry this month, the Army Study to Assess Risk and Resilience in Servicemembers (Army STARRS) showed that the top 5% of soldiers sorted into the highest risk level identified by an analytics program made up more than 52% of suicides, and were 15 times more likely to take their own lives than the rest of the study cohort.
+There were 325 suicides among active Army, National Guard, or Reserves personnel in 2012 and 301 in 2013.  Available data from the Department of Veterans Affairs from 2012 shows that more than 18% of all people who committed suicide in 2012 had a record of military service.  The incidence of suicide within the military has risen sharply since 2004.  More active-duty soldiers have died by suicide than have been killed in military actions in Afghanistan and Iraq combined.
+While the VA has been mining EHR data to identify patients at risk of self-harm for several years, the effort has mostly focused on flagging past attempts at suicide that may place patients at a higher risk of a repeated attempt.  The STARRS algorithm is somewhat more sophisticated in design, the New York Times reports, and started by narrowing down more than 300 factors to a smaller group that best predicted risk.  These include clinical data points such as prescription drug use, as well as data collected on behavioral history, military experience, and lifestyle factors more typically collected in a personnel file.  Access to weaponry, age at enlistment, past conflicts with leadership, and IQ scores were all flagged as possible signs of mental health trouble that might lead to suicide.
+The study, conducted by a number of researchers from civilian and military institutions, looked at Army hospitalizations between 2004 and 2009.  They found that within that time period, 68 soldiers committed suicide within twelve months of a hospital discharge, representing 12% of all Army suicides.  The strongest predictors of suicide included being male, enlisting in the army at a more advanced age, past criminal offences, and easy access to weaponry.
+Dig Deeper
+VA, DOE Launch Healthcare Big Data, Machine Learning Project
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Duke Health Achieves Stage 7 Maturity Score from HIMSS Analytics
+“The high concentration of risk of suicide and other adverse outcomes might justify targeting expanded posthospitalization interventions to soldiers classified as having highest posthospitalization suicide risk, although final determination requires careful consideration of intervention costs, comparative effectiveness, and possible adverse effects,” the study says.”
+“According to [the STARRS] estimate, we could save four lives for every hundred people we treated” by integrating better care coordination and follow-up care for soldiers who are discharged from the hospital after a psychiatric episode, said Lt. Gen. Eric B. Schoomaker, a former surgeon general of the Army and a professor of military and emergency medicine at the Uniformed Services University of the Health Sciences. “This would be unparalleled, compared to almost any other intervention we could make in medicine.  This study begins to show the positive effects big data can have, when combined with administrative health records.”
+Tagged Big DataPopulation Health ManagementPredictive Analytics
+
+

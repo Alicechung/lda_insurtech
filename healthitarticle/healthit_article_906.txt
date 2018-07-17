@@ -1,0 +1,21 @@
+Population Health Management Tool Wins Data Sharing Prize
+
+May 24, 2016
+
+By Jacqueline LaPointe
+May 24, 2016 - Two physicians and Clinical Informatics Fellows at the Children’s Hospital of Philadelphia have won the top prize from the de Beaumont Foundation’s  “Closing the Data Divide” Virtual Challenge for the development of an EHR-based population health management tool.
+Marc Tobias, MD, and Naveen Muthu, MD, designed the Population Health Risk Assessment Support Engine (PHRASE) Health system, which was selected as the $30,000 first prize winner. The platform facilitates two-way communication between physicians and public health advisors, such as the Philadelphia Department of Public Health and Pennsylvania’s Department of Public Health.
+“Creating a portal where we can securely log in, define a disease, and see how many cases of that disease currently exist in the electronic health records brings the public health community closer to front line providers,” said José Lojo, MPH, epidemiologist at the Philadelphia Department of Public Health. “Down the road, we hope to be able to extract even more specific information from those cases.”
+Through PHRASE Health, public health officials can gain access to real-time EHR data in order to identify at-risk populations for specific diseases, like the Zika virus. Public health groups can also use the program to advise physicians on the best population health management methods for selected groups.
+Dig Deeper
+AHIMA 2016: Expect Big Data Governance, MACRA, Value-Based Care
+IoT, Analytics, HIM Push Healthcare IT VC Market Past $5B
+AHIMA Offers Clinical Documentation Tips for Opioid Abuse
+For healthcare providers, PHRASE Health acts as a convenient reporting tool and a clinical decision support system located in the EHR system. Researchers designed the system to update physicians on new population health research and best practices and make that information available at the point of care.
+The second place title was awarded to HealthStead for developing a software that provides primary care physicians and public health professionals with community-level socioeconomic and environmental data, such as education status, income averages, and crime rates. The software is intended to help providers develop risk assessments different geographic areas, such as city, county, zip code, or even a specific block radius.
+Taking third place was Healthcare Access San Antonio for their health information exchange reporting portal called HASAFacts. The portal collects data from different hospitals and provides users with real-time information on community health outcomes. Healthcare providers can use the program to evaluate population health management initiatives.
+The challenge was jointly created by the de Beaumont Foundation, which aims to improve public health initiatives, and the Practical Playbook, an organization that facilitates collaborations between primary care physicians and public health groups. Through the challenge, the two groups aimed to foster health IT innovation projects that help healthcare providers share data with public health agencies.
+“In today's rapidly evolving health care landscape, tools to bridge public health and primary care are more necessary than ever. Through 'Closing the Data Divide,' we identified innovative approaches to meet this need – and are helping move these innovations into real-world practice,” said Edward L. Hunter, President and CEO of the de Beaumont Foundation.
+Tagged EHR Data AnalyticsHealth Information ManagementPopulation Health Management
+
+

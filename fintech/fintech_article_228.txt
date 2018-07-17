@@ -1,0 +1,31 @@
+Expert Opinion: Open Banking
+
+April 20, 2018
+
+Marten Nelson, Co-founder & CMO of Token.io, discusses the revolution of Open Banking.
+
+ Your expectations, will the UK Open Banking Project Deliver on its Promise?
+
+ It will take some time for consumers to realise the power of open banking. I don’t believe “open banking” as a term will mean anything to them. Instead, it will be about the new products and services that will become available by banks and fintechs to make it easier and cheaper for consumers to manage finances and share their financial information in a secure way. This will not happen overnight, but may take months, even years.
+
+ How do you evaluate the revolution of open banking and what does it mean for the customers?
+
+ The success of open banking will be measured in a few different ways including incumbent banks’ ability to retain customers and, on the flip side, ability of challengers to acquire new customers. The availability of new financial services applications will be another strong indicator. For customers, open banking means…
+
+ How PSD2 will influence the concept of ‘identity’? How do you see identity processes changing within the next 5 years?
+
+ Banks are well positioned to offer identity as a service, but I’m not quite sure they’ve understood that yet, or rather that they understand the opportunity in offering such a service. PSD2 is a first step in sharing identity information with a customer’s consent, but this can easily be expanded to KYC as a service. Imagine at the car rental desk you receive a push notification on your phone prompting you to share your personal information from your bank with the car rental firm. By the tap of a button, you share the requested information for a limited time, in an encrypted form with the firm. In the Nordic countries, managing one’s identity has already become much improved. We will see more of this in the next five years, but it will likely take slightly longer for it to become ubiquitous.
+
+ Can you describe a business case that opens up the potential of Open Banking?
+
+ The big picture business case is the two-sided marketplace that is enabled by open banking. On one side you have the ‘suppliers’ (or banks), and on the other side you have ‘customers’ (fintechs, developers, PSPs and even banks themselves) who want to access the suppliers. In this case, it’s typically about access to account information and payments. This translates into new revenue opportunities for banks, and stresses the importance of having strong relationships with the developer community.
+
+ Which new technologies can help drastically improve identity processes?
+
+ One of the current weaknesses in most identity processes is the use of username and password, or shared secrets as it’s called. By moving away from shared secrets and embracing public key cryptography, identity processes will become much more secure and not as vulnerable to mass breaches. The use of public key cryptography will also significantly improve the customer experience.
+
+ How is open banking challenging the established financial industry?
+
+ In one word, disintermediation. Incumbents should clearly be worried about how upcoming challengers can cause customer churn. It’s important to understand what causes customer churn. Ultimately, it’s the lack of customer centricity that causes customers to go elsewhere. If customers are happy with their providers, meaning they are getting the right service and the right products, at the right price, there is no reason to leave. As a result, established players in the financial industry must embrace open banking and will need to go on the offensive to offer the products and services that their customers demand.
+
+

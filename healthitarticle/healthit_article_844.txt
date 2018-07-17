@@ -1,0 +1,32 @@
+Global Precision Medicine Study Explores Genetics of Diabetes
+
+July 15, 2016
+
+By Jennifer Bresnick
+July 15, 2016 - More than three hundred scientists in twenty-two countries around the world have collaborated on a global precision medicine effort to understand the genetic roots of Type 2 diabetes, using genomic big data from more than 100,000 patients.
+The study, published in Nature this month, is “unprecedented in its investigative scale and scope,” said National Institutes of Health Director Dr. Francis Collins, and includes the “largest-ever inventory of DNA sequence changes involved in Type 2 diabetes (T2D).”
+“While diet and exercise are critical contributory factors to this potentially devastating disease, genetic factors are also important,” explained Collins in a blog post. “In fact, over the last decade alone, studies have turned up more than 80 genetic regions that contribute to T2D risk, with much more still to be discovered.
+The results from two collaborative research projects were combined to fuel the large-scale study, Collins said. 
+The first, called the Genetics of Type 2 Diabetes (GoT2D) project, included approximately 2600 genetic samples from the United Kingdom, Sweden, Finland, and Germany.  Half of those patients experienced Type 2 diabetes, while the remainder did not.
+READ MORE: NIH Takes on Population Health Disparities with Social Epigenomics
+The second study, the Type 2 Diabetes Genetic Exploration by Next-generation sequencing in multi-Ethnic Samples (T2D-GENES), sequenced the exomes of close to 13,000 people who could trace their ancestry to regions around the globe.
+After generating results from these two initial studies, researchers went a step further to integrate genomic sequencing data from another 111,000 individuals.
+“This ‘Big Data’ strategy has already yielded important new insights into the biology underlying the disease, some of which may yield novel approaches to diabetes treatment and prevention,” Collins said.
+The study found more than a dozen genes that contained diabetes-related variants that changed the structure and function of proteins.
+“Several of these new coding-region discoveries offer intriguing clues about the mechanisms underlying T2D,” Collins said. “For example, the data uncovered a single coding variant in a gene called PAX4 that was powerfully associated with T2D, but only in people from East Asian countries, including Korea, China and Singapore.”
+READ MORE: Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+“The study also implicated another gene, called TM6SF2, already known for its role in the development of fatty liver disease, a chronic liver condition that is very common in people with T2D and often makes their diabetes harder to control.”
+The study also serves as an example of research work that goes far beyond the basic genome-wide association studies (GWAS) that have formed the bulk of early explorations of precision medicine.
+While GWAS projects have successfully given scientists a broad view of genetic variants that may be implicated in the likelihood of developing certain diseases, they fall short of the incredibly detailed view of genetics required for truly personalized medicine.
+In addition, Collins explains, many of the variants identified by GWAS studies do not fall within the protein-coding part of the human genome, which makes their function difficult to understand.
+“Could we have been missing the most significant, but rare, mutations in the coding region of genes?” he asked. “Those would be easier to understand functionally and would point more directly toward possible drug targets. By doing direct sequencing in GoT2D and T2D-GENES, it was possible to search directly for rare changes in the coding region of protein-coding genes that had been invisible before.”
+READ MORE: “All of Us” Precision Medicine Program Enters Beta Testing
+As the science of precision medicine evolves, researchers are rewriting their understanding of Type 2 diabetes, just as they are doing for cancer, autism, and any number of conditions whose origins straddle the line between environmental factors and genetic roots.
+For one thing, Type 2 diabetes is no longer referred to as “adult-onset diabetes,” since patients can develop the condition in adolescence or even earlier due to a combination of lifestyle choices and potential genetic predispositions.
+The global study has helped to drive new conversations about the role those genetic factors may play in the precipitous rise of this disease.  Some researchers believe that common genetic variants are primarily responsible for predispositions to the disease, while others argue that rarer inherited traits are the main culprit. 
+“Clearly from this extensive analysis, the first option is right: it is common variants that provide the majority of the genetic risk for this disorder,” Collins said.  “Taken together, the findings suggest that everyone carries an assortment of genetic variants related to T2D, including some that may offer protection and others that may place us at greater risk for disease.”
+“Most of these versions of the DNA code are widely shared within and between populations, but the precise combination of risk and protective variants carried by any given individual is likely to be unique.”
+An individual may fall on a “spectrum of risk” when it comes to developing the disease, Collins concluded, but more research will be required to understand where the boundaries of risk may lie and how to eventually predict whether a patient is likely to develop Type 2 diabetes in their lifetime.
+Tagged GenomicsMedical ResearchPopulation Health ManagementPrecision Medicine
+
+

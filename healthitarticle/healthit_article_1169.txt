@@ -1,0 +1,32 @@
+How to Gather Good Data for Healthcare Claims Accuracy Testing
+
+November 12, 2015
+
+By Mark Benedict
+November 12, 2015 - In the time it takes you to read this sentence, the health care industry will lose about $22,000 to waste, fraud and other issues related to claims accuracy and administration. That’s a $275 billion loss in the United States each year, according to the government’s Centers for Medicare & Medicaid Services.
+Errors in medical claims processing routinely lead to overpayment and underpayment of claims, delays in payments, and the misallocation of responsibilities between various payment systems. The subsequent aggravations of dealing with the fallout of these errors can directly strain the relationships between healthcare providers, their patients, and the patient’s insurance providers.
+To administratively handle errors related to Medicare claims alone, the CMS spent more than $201 million dollars to investigate and correct more than $1 billion dollars in claims processing mistakes.  Industrywide payers and providers conduct similar audit and recovery programs in order to data mine claims and deal with errors within and between their systems, routinely spending a 30 percent commission against problem recovery.
+But could this additional excess spend be prevented?
+In 1979, Philip Crosby published the then-revolutionary concept that “Quality is Free.”  His idea was that a preventative quality system pays for itself by preventing problems rather than losing money to recovering from them. Quality practices that have evolved beyond the 1980s have proven that a 2 to 10 percent spend on prevention can all but eliminate the 20 to 30 percent spend on recovery. 
+READ MORE: Healthcare Financial Analytics, Business Intelligence Market Takes Off
+In many industries outside of healthcare, the Shift Left Movement – a convergent evolution of best practices in testing and quality assurance – has driven emphasis to the left of go­-live and into the pre-launch lifecycle of development and integration, even improving business processes such as claims coding, to prevent defects, errors and their aftermath.
+The evolved ICD-10 Standard (just now going into effect in the US, the last major industrialized nation to implement that standard) is aimed at increasing the accuracy and precision of describing patient conditions and treatments, thereby informing more accurate processing of claims submitted to insurance payers.
+The 70,000+ codes of ICD-10 have required many changes and upgrades in claims processing, leading the healthcare industry towards more improvements and newer technologies that can now deliver quality models and predictive analytics driven from the data itself.
+However, this increased complexity in claims data and claims processing hasn’t eliminated or prevented the kinds of IT & IS errors that lead to software and integration defects.  Mistakes made left of production, in the IT & IS Lifecycles, have not been magically healed by the rise of ICD-10 – in fact, they may have just gotten aggravated and amplified. 
+Test claims have long been a problem in this industry. It is commonly accepted that during testing, 50 percent of the test claims won’t be able to be processed – which may leave 50 percent of the system and data conditions untested. Sadly, to avoid showing this reality, some test managers remove the blocked test cases (blocked by bad data) from the test runs in order to get better-looking numbers and focus their efforts on the 50 percent of the system that their teams can test.
+READ MORE: Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Great strides have been made in creating and maintaining test data and test coverage in other industries, but most health care companies cling to old ways that haven’t worked well yet are accepted as “business as usual.” 
+Multiple factors contribute to this problem, from responsibilities kept in siloes and organizational barriers, to a lack of data-centric skills in both key and supporting roles, to missing insights of QA leaders. 
+But at the center of it all stands data, and data handling methods and techniques.  New successes are being brought into health care by borrowing from other industries, applying methods like:
+• Conditioned testbeds from avionics and flight control
+• Intrinsic data forges used in telecommunications testing
+READ MORE: Using Business Intelligence, KPIs for Revenue Cycle Management
+• Data injections and overlays used to test financial transactions
+• Mined combinatoric models used in testing reservation and safety systems in travel and hospitality
+• Disparate data gloms, used in defect exploration techniques on military weapons command and control systems to auto-generate and auto-populate new test cases that can “test around” a found problem
+Most of these methods have been applied and refined for two or more decades, but are just now being applied to healthcare testing. By adapting a unique combination of these methods, we see clients able to prove the financial accuracy of claims and benefits processing while creating a fully reusable and adaptable test coverage solution.
+These methods are cost effective, saving both time and money while delivering improved customer experiences – and the benefits to healthcare derived from proven techniques developed in other sectors are themselves known to be up to the test!
+Mark Benedict is a Technology Services Director at Top Tier Consulting (T2C). As a Solutions Architect, he built several Testing and Automation Centers of Excellence (both TCoEs and ACoEs) for various clients and large scale consulting firms. Always a multi-disciplinary leader, Mark has helped transform numerous organizations needing to optimize their business drivers, applications integrations and lifecycle speeds; identify and nurture innovations; and embrace quality and excellence as a way of doing business.  
+Tagged Big Data AnalyticsFinancial AnalyticsHealthcare Business IntelligenceRevenue Cycle Analytics
+
+

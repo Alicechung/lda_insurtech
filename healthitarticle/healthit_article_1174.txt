@@ -1,0 +1,26 @@
+DOD Awards $77M Healthcare Big Data Analytics Contract to CACI
+
+November 10, 2015
+
+By Jennifer Bresnick
+November 10, 2015 - True health data interoperability with the VA may still be years away, but the Department of Defense isn’t letting the glacial pace of its sprawling suite of health IT modernization projects sit idle for long.  In pursuit of improved insights and clinical decision support for its 9.3 million beneficiaries, the DOD has awarded a $76.8 million big data analytics support contract to CACI International Inc.
+The three-year task order, awarded under the Business Force Support (BFS) Pillar contracting program, directs CACI to provide medical information delivery systems engineering support to the Space and Naval Warfare Systems Center (SPAWARSYSCEN) Atlantic, according to a press release.
+CACI will be responsible for the development, deployment, and maintenance of big data analytics capabilities for the Defense Health Agency, which will include cloud-based solutions, data warehousing, visual analytics systems, and clinical quality management algorithms that will improve decision-making. 
+The systems will support areas of emerging concern, including precision medicine and genomics, traumatic brain injury, and overall population health management.
+Dig Deeper
+Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+As FHIR Matures, Healthcare Interoperability Comes into Focus
+“CACI is proud to be a leading provider to the federal healthcare market, deploying our expertise in healthcare analytics to help the Space and Naval Warfare Systems Center Atlantic and Defense Health Agency improve healthcare for America’s military men and women,” said CACI Chief Operating Officer and President of US Operations John Mengucci.
+The Department of Defense has experienced significant challenges during its drawn-out quest to modernize its health information technology infrastructure.  After several failed attempts to create a joint EHR system with its biggest health partner, the Department of Veterans Affairs, the two agencies decided to go their separate ways, to the great irritation of Congress.
+In July, the DOD announced that it had selected the Leidos Partnership for Health to implement a $9 billion upgrade, with a Cerner EHR at the core of its efforts.  While industry observers praised the DOD for its choice of a health IT system known for its interoperability and health information exchange capabilities, Congress has not yet been fully appeased.
+Poor planning, a lack of oversight, insufficient performance metrics, and a frustrating inability to collaborate across departments have plagued both departments, lawmakers and the Government Accountability Office (GAO) have said, leaving millions of service members and veterans without access to high quality, coordinated, informed healthcare.
+To bolster its plans to create an integrated, interoperable, user-friendly health IT ecosystem, the DOD has started to award contracts that will no doubt supplement the Leidos Partnership’s efforts to bring some semblance of order to the Department’s toolkit. 
+The team has steadily added partners in the wake of the massive contract award.  In September, the coalition announced that Clinovations Government + Health would come on board as a small business partner to train physicians, nurses, and other EHR users to engage with the new system in a productive, efficient manner.
+“Installing and using an EHR solution isn’t a simple undertaking. Healthcare is a unique environment where the software end users aren’t trained technologists. Their specialty is care, and because of that, the software should be tailored to their needs, and not the other way around,” Manan Trivedi, MD, Chief Medical Officer for Clinovations GovHealth.
+And in October, the Leidos Partnership added interoperability and HIE expert Orion Health to its list of subcontractors.  The Partnership plans to leverage Orion’s health IT integration engine to bridge the gaps between DOD providers and non-military healthcare organizations that deliver services to DOD beneficiaries.
+"Our qualified and experienced team is working with the Department of Defense to deliver a world class interoperable electronic health records solution for our nation’s armed forces, their families and beneficiaries," said Orion Health President Paul Viskovich. "We look forward to the work ahead and are committed to improving access to comprehensive healthcare data in order to facilitate improved clinical outcomes for our deserving men and women in uniform."
+The sprawling and expensive effort will no doubt continue to expand as the DOD finds new health IT needs to address.  A focus on interoperability and data exchange will hopefully prepare the health system for a future in population health management and big data analytics often seen as the foundation for success in a complex and quickly changing delivery environment.
+Tagged Analytics InfrastructureBig Data AnalyticsClinical Decision SupportInteroperability
+
+

@@ -1,0 +1,17 @@
+Glassbeam Integrates Machine Data Analytics Platform With Apache Kafka
+
+05 Feb 2018
+
+Opens Platform For Customers And Partners To Develop Applications On Complex Log Data
+Glassbeam, Inc., the leader in machine data analytics, announced today it is enhancing its Industrial IoT analytics platform to include open-source stream processing model with Apache Kafka. This gives unmatched freedom for organizations to develop and deploy custom machine data analytics applications without the need to lock in their data with Glassbeam. This transition into an industry-wide, neutral platform will drive innovation in building machine-data based solutions and services that solve an organization’s biggest data analytics challenges and remove debate on having the need to build and own a platform or invest in an off-the-shelf solution.
+Glassbeam’s Semiotic Parsing Language (SPL) already provided IIoT industry’s first Data transformation and Preparation framework for complex machine data. By integrating with Apache Kafka, Glassbeam now allows customers to not only deploy Glassbeam on-premise, but also connect to any data store by using open source Apache Kafka consumers or building their own custom consumers.
+“Developers anywhere can now collect and enrich machine data from any source in their organization. With open access to our core platform, developers can use their existing enterprise apps, connectors and tools to deploy Kafka-based parsed data quickly,” says Puneet Pandit, co-founder and CEO, Glassbeam. “With our open platform, organizations now have the complete freedom to build custom connected-machine applications with Glassbeam without the need to build their own data ingestion platform that may not fulfil their business objectives.”
+Key Highlights:
+Access to open standards – familiar environment with Kafka-based messaging bus for developers to configure flexible topics and quickly build apps on a variety of use cases involving real-time data streams.
+Unrivalled developer productivity – eliminates the need for organizations to own, deploy, and maintain a data ingestion platform. This allows developers to solely focus on building applications.
+Eliminate unnecessary data preparation burden – Glassbeam platform includes a data preparation and transformation tool (Glassbeam Studio™, currently in Beta). This reduces the developers’ time to prepare and transform complex data from hundreds of data sources. Organizations can expect as much as 100 x improvement in the time taken to prepare data.
+Helps organizations focus on their core-competency – avoid the unnecessary burden to build complex, distributed systems and attempting to scale them. Glassbeam’s core platform (SCALAR) is designed to take care of multiple clusters, data velocity & variability, and handle computing terabytes of streaming, real-time data.
+Re-use existing infrastructure investment – use the consumer framework of the Kafka message bus and the host of open source consumers to connect to any existing data stores.
+Glassbeam is the premier machine data analytics company bringing structure and meaning to complex data generated from any connected machine in the Industrial IoT industry.
+
+

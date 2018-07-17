@@ -1,0 +1,15 @@
+Rev.io Announces Newly Developed REST API To Support Partnership Initiative At Channel Partners Conference & EXPO
+
+18 Apr 2018
+
+Top innovator in billing, usage-rating, and monetization, Rev.io launches REST API to promote partnerships and expand their ecosystem of Communications and IoT integrations
+This week, Rev.io joins top Communications service providers and enablers in Las Vegas, NV for the Channel Partners Conference & EXPO, an annual telecommunications event. In addition to exhibiting at Channel Partners, Rev.io will host their 3rd consecutive Rev.io Connects event. Rev.io Connects is an executive-level networking reception held exclusively for clients. During the event, Rev.io will announce their new REST API – the latest enhancement to Rev.io’s quote-to-cash solution.
+Rev.io’s new REST API gives clients and partners access to their usage-rating, metered billing, customer data, and inventory catalog via easy to implement integrations. After celebrating their 15-year anniversary, achieving 100 active clients, and experiencing 27% growth in 2017, Rev.io expects these product improvements to make 2018 another record-breaking year.
+In the evolving Communications and IoT market, the Atlanta-based software provider has strived to preparing clients with tools for success. Last year, Rev.io released 1,845 improvements to the platform, including a suite of IoT features and 130 customer suggestions from the Rev.io Ideas forum. This year, by revealing their REST API, Rev.io hopes to expand partnerships and has encouraged other companies to utilize the REST API to create integrations with their monetization engine.
+Ross Overstreet
+As Founder and CTO of Rev.io, Ross Overstreet led the REST API project. “Over the last year, we’ve carefully designed and developed our REST API. Passion for innovation is one of our company values and it ensures that we hold ourselves to the highest technology standards. We want to support our clients by providing modern technologies and tools. Building the REST API empowers our clients to fully integrate Rev.io with other systems,” says Ross Overstreet.
+Brent Maropis
+The new API Development Portal combined with an API-first architecture will allow Communications and IoT service providers to have an improved developer experience. Rev.io clients will be able to fully integrate with proprietary or partner systems, access a library of documentation, and enjoy the quality and usability improvements gained by moving from a SOAP API to a REST API.
+“Rev.io exist to help our clients grow revenue efficiently,” says Rev.io’s CEO, Brent Maropis. “The REST API will empower our clients to create new integrations with ease. We’re focused on helping Rev.io clients stay lean, improve time-to-market, and beat their competition.  Additionally, the REST API enables Rev.io to strengthen partnerships through deeper integrations with industry leaders in Communications and IoT.”
+
+

@@ -1,0 +1,13 @@
+The Linux Foundation Launches Open Source Acumos AI Project
+
+27 Mar 2018
+
+Delivers a Framework and Marketplace to Empower Data Scientists and Developers to Build the Future of Artificial Intelligence
+The Linux Foundation today publicly launched the Acumos AI Project, a federated platform for managing artificial intelligence (AI) and machine learning (ML) applications and sharing AI models. AT&T and Tech Mahindra contributed the initial Acumos code, now freely available for download, to the new LF Deep Learning Foundation. With the Acumos platform, developers and data scientists gain a new industry standard for making AI applications and models reusable and easily accessible.
+Many AI tools today are difficult to implement and require significant domain expertise. Acumos is the first to give users a visual workflow to design AI and ML applications, as well as a marketplace for freely sharing AI solutions and data models. The Acumos framework is user-centric and simple to explore. The Acumos Marketplace packages various components as microservices and allows users to export ready-to-launch AI applications as containers to run in public clouds or private environments.
+Jim Zemlin
+“An open and federated AI platform like the Acumos platform allows developers and companies to take advantage of the latest AI technologies and to more easily share proven models and expertise,” said Jim Zemlin, executive director at The Linux Foundation. “Acumos will benefit developers and data scientists across numerous industries and fields, from network and video analytics to content curation, threat prediction, and more.”
+The Linux Foundation is hosting the Acumos platform and Acumos Marketplace and is focused on nurturing an active, large community around the project.
+The Linux Foundation is the organization of choice for the world’s top developers and companies to build ecosystems that accelerate open technology development and industry adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company.
+
+

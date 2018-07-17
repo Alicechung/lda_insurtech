@@ -1,0 +1,73 @@
+No More Ransom!
+
+June 16, 2017
+
+WannaCry raises Cyber Security to a global priority
+
+ Recent ransomware attacks in the UK and around the world have elevated cybersecurity to the top of the international agenda – in areas ranging from politics to national defence, and from smart-homes to global economic systems. How can we buttress our office technologies in today’s digital world against the next malicious malware onslaught?
+
+ A month ago, on May 12th, WannaCry ransom-demanding malware struck Britain’s National Health Service; large Spanish corporation such as Telefónica; and computers across Russia, Ukraine and Taiwan, with hardware and data frozen up and held to ransom. The coordinated attack managed to cross-infect large numbers of computers across Britain’s state monopoly health service in just six hours, partly due to its ability to spread within networks from PC to PC.
+
+ The ransomware has already caused hospitals across England to divert emergency patients. Global flight delays and other drastic consequences also were monitored. “Ransomware isn’t new, but it’s increasingly popular and profitable. The concept is simple. Your computer gets infected with a virus that encrypts your files until you pay a ransom. It’s extortion taken to a networked extreme. The criminals provide step-bystep instructions on how to pay, sometimes even offering a help line for victims unsure how to buy bitcoin. The price is designed to be cheap enough for people to pay instead of giving up: a few hundred dollars in many cases. Those who design these systems know their market, and it’s a profitable one,” explains Bruce Schneier, Chief Technology Officer of IBM Resilient – a Fellow at Harvard’s Berkman Center, and a board member of EFF.
+
+ “The next such ransomware attacks will be worse than WannaCry. We’ll need new security standards when hackers go after the Internet of Things,” he believes. The lessons this case brings for users are to keep your system patches up to date, and regularly backup your data. “This isn’t just good advice to defend against ransomware, but good advice in general. Yet it’s still becoming obsolete.”
+
+ Cybersecurity as mainstream
+
+ The World Economic Forum defined 2017 as the year Cyber Security goes mainstream. “It shouldn’t surprise us that the World Economic Forum pointed to this issue. We’ve already seen some very significant activity this year – be it the recent ransomware attacks or the influence over elections globally. Typically, securing computers and information had been primarily a concern that was discussed mostly by technologists. What we’re seeing now is people outside the tech industry being profoundly hit by the results of this topic. I’d suggest their assertions are spot on,”commented James Chappell, CTO and CoFounder of Digital Shadows. “Cyber Security has been mainstream for years. If you think back to Y2K or the dotcom bubble, Cyber Security was at the heart of identifying the turn-of-millennium issues, offering solutions to fix them. It only needs major events to occur to bring these issues back into the headlines. There’s no denying the ever-critical role Cyber Security plays in today’s society,” says Simon Gilbert, Managing Director and Founder at Elmore Insurance Brokers Limited.
+
+ Andersen Cheng, CEO of Post-Quantum, focuses on the opposite: “It’s troubling that such definitions [as the WEF’s] are still necessary. Cyber Security is a central facet of our time, affecting everything from business operations to our personal lives – and increasingly the overlap between these areas. Protecting your data, both as an individual and as part of an organisation, is fundamental nowadays. We need to go beyond abstract terms like ‘Cyber Security’ and prioritise aspects that people can engage with and do something about – protecting their information and their identity at home, and at work. We also need to help people understand the value of that data – why someone might want to steal it, and the effect losing it could have”.
+
+ Moderating discussion around the “Cyber Security mainstream thesis”, it is very sanguine to note that 46% of companies suffered from a cyber attack or breach of their computer systems last year (2016) – as compared with just 24% the year before (2015). The risk of cyber attack doubles each year.
+
+ Leading global analytical centres, consultancy firms and experts have fallen in line with the “mainstream conclusions” of Cyber Security trends-2017.
+
+ “We need to adapt to a world that is changing due to data explosion, an increasing number of cyber-threats, a need for fast and secure access to data, and also new regulations,” Jérôme Totel, Vice President Product & Sales Engineering, at DATA4 GROUP, concludes.
+
+ “The main challenges we are facing right now are fast moving targets, a lack of skilled people, a need of intense collaboration and a regulatory framework which will increase in complexity.
+
+ Cyber Security needs a transverse and cross-sector approach. It as a collective challenge,” underlines François Thill, Assistant Director Communications, Ministry of the Economy and Foreign Trade Luxembourg. Oliver Saban, project director of Fintech1010, highlighted the same thesis: “Organisations and government need to collaborate so a common message and framework is filtered down to the retail level. Financial organisations potentially need more assistance as they are the custodians of the individual and insurers are a part of this process.” Overwhelmingly, Michael Hofmann, CEO, KPMG Services, lists the following key Cyber Security trends: external threats, change in the way business is conducted, rapid technology change, regulatory compliance and changing market and client need.
+
+ The regulatory framework
+
+ The National Cyber Security Centre (hereinafter NCSC) is a key means for government to deliver many elements of strengthened Cyber Security for the UK. Britain is being hit by dozens of cyber-attacks a month, says Ciaran Martin, head of the new NCSC. As an example, the Centre has blocked 34,550 ‘potential attacks’ on government departments and members of the public in the past six months – about 200 cases a day. Martin confirms, that Britain had been hit by 188 high-level attacks, “many of which threatened national security”, in the last three months. “In the case of government departments, [it involves] getting into the system to extract information on UK government policy on anything from energy to diplomacy to information on a particular sector.” Philip Hammond – a former Defence and Foreign Secretary, warns that hacks could bring down national infrastructure and that even kettle, fridges and driverless cars are at risk. He stresses that the ‘internet revolution’ has brought the threat of being held to ransom by hackers, the theft of intellectual property and the “shutting down of critical national infrastructure”.
+
+ “Beyond hacked kettles and fridges, ‘Internet of Things’ devices, such as driverless cars, can present alarmingly real security threats that could be incredibly dangerous if the right security isn’t in place,” Hammond adds. The 2015 National Security Strategy (NSS) reaffirmed cyber threats as one of the most significant risks to UK interests. The NSS set out the Government’s determination to address cyber threats and put tough and innovative measures in place as befits a world leader in cyber security. To deliver on that commitment, on 1st November 2016 the Government published the 2016-2021 National Cyber Security Strategy, in which it was committed to invest £1.9B.
+
+ What is National Cyber Security Strategy mostly concerned with – protecting the government, or protecting the UK’s digital economy? “We directly benefited from the first grants in 2015. We saw this recent commitment very much to protect the UK economy which in turn helps strengthen the government and its supply chain,” Simon Gilbert, Managing Director and Founder at Elmore Insurance Brokers Limited, specialists in cyber-insurance, says. “This is about both. In order to protect the UK economy and government, we need an effective commercial Cyber Security industry.
+
+ The UK is in a unique position in that, we have a strong heritage in encryption, engineering and computers combined with an internationally recognised education sector. This is a fantastic position to grow and inspire strong capable companies who can offer services to secure the UK economy and Government. The investment announced by the chancellor in November last year is in part about creating world leading support such as that in the National Cyber Security Centre (NCSC) and critically support from the Department of Culture, Media and Sport in creating and inspiring a new generation of Cyber Security startups who become the companies to lead the industry of tomorrow.
+
+ There is a genuine opportunity to create a strong sovereign Cyber Security sector in the UK which can lead global innovation in Cyber Security,” argues James Chappell, CTO and Co-Founder of Digital Shadows. Meanwhile Oliver Saban, project director of Fintech1010, supports the point of view that NCSC protects both sides and raises awareness. “Initiatives can be put into place to raise awareness and simple security measures can be implemented to mitigate initial threats.”
+
+ Cyber Security functions
+
+ It’s difficult to come up with a one-size-fits-all approach, but broadly speaking most Cyber Security strategies should consider the following, James Chappell believes:
+
+ “Generally we see the functions ranging from services, software, hardware and physical security then a combination of those. Breaking these into sub-sections of different services creates a picture of a hugely diverse and complex industry,” Simon Gilbert describes.
+
+ Cyber Security solutions tend to target three customer segments – individuals, organisations and government. Let’s analyse which segments require more Cyber Security solutions so far? “I don’t think any one requires more than the other, they are all part of the same global connected problem. A bank has customers with unsecured endpoints has to consider both ends of this. Governments that have to ensure the resilience of the economy require businesses and their users to be secure,” James Chappell notes.
+
+ “The customer changes, but across these the vulnerability and the solution are often the same: people are at the centre of Cyber Security. At Post-Quantum, we design our systems to help people operate more securely by removing single points of failure – those points where someone’s level of access can be exploited, by an attacker or of their own desire. We do this by using biometrics to reduce reliance on passwords, and by cutting the effectiveness of phishing and whaling attacks by only giving access to high-value data and systems if multiple people agree to grant that access,” Andersen Cheng explains.
+
+ How should SMEs protect their businesses
+
+ The sophistication of the threat has increased. As a result, “organisations are progressing their approaches to security,” James Chappell explains. SMEs need to consider their security from both a people and a technology perspective. “Thinking first about their people, we recommend using biometrics for ease of use when accessing systems and sensitive data to help employees be more secure in their activities. We also suggest implementing multiparty authorisation to access high-value data and systems, to remove single points of failure and reduce risk,” Andersen Cheng, CEO of Post-Quantum notes.
+
+ “On the technical side, businesses need to ensure they have cryptographic agility in their systems. As new weaknesses in encryption schemes emerge – whether that’s the result of increased computing such as quantum computing or an underlying vulnerability in the cryptosystem – businesses cannot be in a position where they’re tied to a particular encryption algorithm and unable to switch to something else should that be broken.”
+
+ A great place to start your business protection is the Cyber Essentials framework provided by the UK government, James Chappell advices. As for Simon Gilbert, Managing Director and Founder at Elmore Insurance Brokers Limited, specialist in cyber-insurance, it is very important to train employees, get cyber essentials, back-up company data, regularly update software, create a data asset risk register, and know who you are going to call when things go wrong. Oliver Saban, project director of Fintech1010, also supports this point of view. “You need to understand the market and to seek consultancy firms for education.”
+
+ Threats and opportunities
+
+ Experts predict Cyber Security will play a crucial role in global politics, although in a more overt manner than in previous years. “The role of social media in our democracies will continue to be a battleground. With the release of government grade vulnerabilities in computer systems we will see the organised criminals exploit these techniques and tradecraft to maximum effect. Governments outside of the traditional nuclear states will invest in their own capabilities to both defend and invest in their global political interests abroad,” James Chappell has no doubt.
+
+ Some disruptive technologies (such as blockchain), integrated into Cyber Security eco-systems, could be considered as both opportunities and threats simultaneously. “This year we’re seeing a great many blockchain projects underway, and large organisations are starting to consider that the technology offers a new business stream. or is a replacement for legacy systems.
+
+ This, however, creates a significant Cyber Security threat. The cryptographic signature scheme which underpins blockchain is known to be vulnerable to attacks by quantum computers. By implementing ‘standard’ blockchain technology, businesses are storing up risk and expense for the future. The deployment time for a largescale enterprise blockchain implementations will nearly overlap with the advent of codebreaking quantum computers – making the business’ new system vulnerable almost immediately. There is an opportunity now to futureproof these deployments with quantum-resistant signature schemes. This will save time and costs by eliminating the need to migrate again soon after the system is in place,” the CEO of Post-Quantum adds.
+
+ Kate Goldfinch,
+
+ Editor of The Fintech Times
+
+

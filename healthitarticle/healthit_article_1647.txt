@@ -1,0 +1,60 @@
+How to Select a Big Data Analytics, Business Intelligence Vendor
+
+January 13, 2015
+
+By Jennifer Bresnick
+January 13, 2015 - Healthcare organizations may be in hot pursuit of business intelligence solutions that harness the best of their big data and provide actionable insights with clinical analytics, but choosing the right vendor to invest with is one of the most difficult parts of the process.  While many providers seem to play it safe with stable, familiar names in the EHR industry, like Epic Systems, Allscripts, and Cerner, the rapidly growing market for big data analytics has thrown up a number of new contenders focused more tightly on providing advanced analytics and business intelligence capabilities.
+What features, capabilities, issues, and metrics should providers keep in mind while selecting a big data analytics suite?
+What technologies are available on the market? 
+“Business intelligence” is a broad term for the insights that encompass a number of individual analytics capabilities.  Not all organizations need to make a full-scale thirty million dollar investment in a comprehensive analytics program right off the bat – and fewer organizations can even afford it.
+Business intelligence vendors typically offer products that provide data analytics in one or more of the following categories:
+READ MORE: Providers Struggle with Time, Tools for Revenue Cycle Analytics
+• Quality and physician benchmarking
+• EHR and clinical data analytics
+• Population health management
+• Financial and billing analytics
+• Supply chain and workforce management
+READ MORE: HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Many providers already have some level of data analytics capability for some of these categories, and must choose new products that work with their existing infrastructure.  Others are seeking to start from scratch, and may wish to commit to a single vendor offering multiple items from the menu.
+Vendors that build their products based on industry-wide data standards should always move to the top of the list as the sector’s focus on interoperability, data sharing, and patient health information exchange requires a simple and universal way to communicate with partner organizations.
+What do I want to achieve, and what am I ready to implement?
+Healthcare organizations may think that using an EHR means they have all the big data they can eat available to them at the snap of their fingers.  They just need the add-on software to crunch the numbers and pop out richly detailed reports.  But while EHRs do facilitate analytics, not all providers have as much data as they might think.
+Before scouting out specific products, healthcare organizations should take stock of their data assets, and ask themselves the following questions:
+READ MORE: Laying the Groundwork for Actionable Healthcare Analytics
+• How clean, accurate, and complete is my data?  How is it stored?  How is it retrieved?
+• Is my data mostly unstructured or structured?  How much free-text input do my EHR templates allow?  Would I benefit from changing that?
+• Do I wish to explore natural language processing technologies?
+• Do I need to build a data warehouse?  Connect to an HIE?
+• What analytics infrastructure should I consider outsourcing?  What should I keep in-house?
+Organizations should also have a clear idea of what they hope to achieve by implementing additional technologies.  Population health management is a trendy topic in healthcare, but it can mean a hundred different things to a hundred different people.  To avoid letting your imagination run away with your budget, try to create a detailed roadmap with specific goals before signing on the dotted line:
+• What does my patient population look like?  Are they primarily Medicare or Medicaid beneficiaries?  Do they suffer with chronic diseases?  Do they over-use the ER?  Do they lack preventative care?
+• What analytics do I need to help me find out and better manage these issues?  What metrics do my clinicians want to see at the point of care?
+• What do my patients need from me in order to help me achieve cost savings and better outcomes?  How can I reach them in their communities?
+• Who do I need to have as partners to achieve better care coordination?  How can data analytics help us work together better?
+• How well do my goals align with the national strategic roadmaps?  With the future of meaningful use?
+Once the organization’s goals have been clearly outlined, a provider can move on to the meat of the process: selecting a vendor that best meets their particular needs while staying within their budget.
+How can I compare value between vendors?
+Business intelligence vendors are very good at tooting their horns, as any successful company should be.  But independent assessments of performance, quality, and value are perhaps more useful for prospective clients than reading press releases or vendor-produced case studies.  Unbiased review firms such as Black Book Reviews and KLAS can provide objective benchmarking for the industry, and use a number of different comparison points to rank companies against each other.
+A new report from KLAS, for example, compares vendors using several different criteria:
+• Success of implementation process
+• Customer service and support
+• Meeting expectations of value
+• Product ease-of-use
+• Timely delivery of new technologies
+Some vendors may be great at getting the implementation done in six weeks, but if they disappear after that and fail to offer support for maintenance, bug fixes, or user questions, then the thrill with a speedy start-up will wear off pretty quickly.  Business intelligence users expect proactive customer service from their vendors, flexibility and individualized attention, an expertise in the healthcare industry, and a stable reputation.
+Instead of relying wholly on market reports, however, organizations may do just as well to ask their peers what technologies they are using and how they are working out.  A glowing recommendation from a similarly sized hospital or a tip from a trusted colleague who has been struggling with the same issues can be worth a great deal more than a sales blurb or a pie chart.  Note the variation in correlation between the vendors on the above KLAS-ranked scale and the vendors that are most recommended by clients below:
+Personal experience may not always be the gold standard, but it certainly helps to get an idea of how products function for real healthcare organizations facing crucial challenges in population health management and financial sustainability.
+What questions should I ask as I select my products?
+After using reviews and rankings to whittle down the available options to a short list, healthcare organizations must come face-to-face with their prospective vendors and ask the hard questions:
+ • What can we realistically achieve together?
+• How much will it cost?  Are there ongoing maintenance fees?  Data access fees?  Do I need to purchase an entire suite to get access to specific modular features?
+• How interoperable are your systems?  What data standards do you use and how often do you test them?  How secure are your systems?
+• How will my clinicians’ workflow change?  What will they gain immediately?  What will they gain long-term?
+• Who will own the data and insights produced under the contract?  What happens if I wish to terminate the contract or switch vendors?
+• How and when are upgrades delivered?  Will I experience significant system downtime when they occur?
+No doubt additional specific queries will arise during the vendor selection process, but in general, providers should be sure they have a clear idea of the vendor’s willingness to engage with the project at hand, the general costs and investments involved, and their assurance that they can help achieve specific goals.
+Choosing a vendor for business intelligence is not an easy task, but asking probing questions about the health of your organization, the patients in question, and the company that will become one of your most important partners in the ongoing battle towards healthcare reform can be an important place to start.
+As a large number of vendors jostle for market share in a crowded, growing industry, healthcare organizations can afford to be picky when making their selections, as long as they enter the process with a clear strategy and well-defined wish list that will lead them towards true population health management and intelligent business decisions.
+Tagged Analytics InfrastructureBig DataHealthcare AnalyticsHealthcare Business Intelligence
+
+

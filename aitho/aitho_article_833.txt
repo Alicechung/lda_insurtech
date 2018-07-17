@@ -1,0 +1,47 @@
+Urban Airship AI Marketing Orchestration Unveiled For Optimized Customer Engagement
+
+19 Apr 2018
+
+Urban Airship’s New Predictive Machine Learning and Intelligent Orchestration Allows Marketers to Effortlessly Coordinate Communications Across All Digital Channels and Reduce Costs
+Leading digital growth company for brands, Urban Airship has announced the extension of its open data and channels to support existing MarTech solutions, while adding new native support for triggered email and SMS notifications.
+Urban Airship AI Marketing Orchestration Allows Brands to Grow Beyond Contemporary Personalization Standards in an Intelligent Way
+Brett Caine, CEO, Urban Airship
+At the time of this announcement, Brett Caine, president and CEO of Urban Airship, said, “Businesses want to create the most effective digital experiences for their customers, and consumers’ expectations of their favorite brands have rapidly evolved beyond personalization to real-time individualization. Marketing clouds have failed on their promise to target users across channels in an intelligent and orchestrated way.”
+Predictions Series 2018: Add More Science and Personalization to Your Storytelling Initiatives
+Urban Airship unveiled cloud-based AI marketing orchestration to take the guesswork out of delivering highly relevant cross-channel messages that customers will welcome. The new predictive machine learning enables marketers to deliver notifications at the precise moment each individual is most likely to engage.
+Marketers Can Send Personalized Notifications Across Omnichannel Touchpoints with Better CX
+Together with the new intelligent orchestration rules and Urban Airship’s real-time automation and segmentation, marketers can coordinate sending rich, personalized notifications to any digital channel in their stack, providing the best customer experiences at the lowest marketing cost.
+Brett added, “With this newest offering, AI-based marketing orchestration, Urban Airship is fulfilling a promise the market has been waiting for.”
+A recent survey of marketing executives found “Marketers’ real-time vision falls short of their real-world execution. One-third of respondents said that they struggled to balance channels that best serve audience needs and business objectives. Nearly 40% say reaching audiences at the right moments using advanced techniques continues to be their top multichannel marketing challenge.”
+Core Capabilities of Urban Airship AI Marketing Orchestration
+Urban Airship’s AI marketing orchestration uses machine learning and data- and preference-based orchestration rules to make it easy and more automatic for marketers to drive higher engagement and better business outcomes. New core capabilities include —
+AI/Machine Learning
+o    New Predictive Send-Time Optimization delivers messages to individuals on the exact day and time they are most likely to engage, using ongoing machine-learning predictions
+o    Daily send-time predictions (and predictive churn risk assessments from Urban Airship’s first machine-learning model) can stream in real-time to other solutions and are available for deeper analysis and cross-channel segmentation
+Intelligent Orchestration
+o    Priority Channel with Automated Fallback allows marketers to prioritize channels for the best user experience and lowest cost, with fallback ensuring users are reached on their highest priority opted-in channel
+o    Preferred Channel directs message delivery using customers’ preferences and the flexibility of Urban Airship’s real-time automation and segmentation
+o    Fan-Out makes it easy to send critical, time-sensitive messages to all of a customer’s available channels
+o    Last Active eliminates concerns of over-messaging with delivery to a user’s last active channel
+Marketers can combine intelligent orchestration with Send-Time Optimization or real-time automation to coordinate individualized messaging across channels. For example:
+Send-Time Predictions
+Send a promotional offer to MVP Gold members using a combination of send-time predictions and preferred or last active channel to optimize reaching these valuable customers on the right channel at the right time without over-messaging them and risking opt-outs or unsubscribes.
+Time-Sensitive Service Updates
+Deliver critical or time-sensitive service updates (e.g., hurricanes to delivery/service appointments) immediately with fan-out to all available channels, while less important messages like order confirmations, receipts, or loyalty balances could be sent with real-time automation and priority with fallback to ensure they are received while reducing messaging costs.
+Simplified Shopper’s Analytics
+Schedule a daily shopping cart abandonment message with send-time predictions and last active orchestration, tuning into shoppers’ implied preferences as well as cross-channel engagement data to maximize conversions.
+Urban Airship Bolsters Behavior-Based SMS and Email Notification Features
+In addition, Urban Airship also announced new native support for triggered and transactional email and SMS notifications, enabling marketers to rapidly adopt messaging that is highly responsive to an individuals’ behaviors and interactions.
+Urban Airship also expanded on its commitment to support customers’ existing marketing solutions, with the industry’s deepest integration with Salesforce Journey Builder for real-time multichannel engagement and bi-directional cross-channel user-level data.
+Executive Comments
+AI Takes Out the Whole Guesswork in Marketing Orchestration
+Thomas Neumann, principal digital products manager, Vodafone Consumer Products and Services, said, “Artificial intelligence takes the guesswork out of marketing orchestration and lets our customers’ data do some of the critical thinking for us. It’s quickly becoming one of our ‘easy buttons’ to better and more productive customer experiences across every digital engagement channel.”
+Thomas added, “Since UrbanAirship’s platform is open, we will be able to reach our customers on digital channels such as RCS or voice assistants and moving forward to IoT and chatbots, which we can expand at scale.”
+AI-Powered Interactions Create Data That Can Fuel One-To-One Engagement
+James Washington, Product Manager, TGI Fridays, said, “From ordering ahead and paying at your table to engaging with our chatbots on social platforms and in connected cars and homes, TGI Fridays is committed to better serving our guests in every moment wherever they choose.”
+James added, “All of these interactions create data that can fuel one-to-one engagement, and we’ve already seen how effective that can be with one mobile personalization experiment yielding a conversion rate of over 60 percent.”
+Fisher Fisher, Senior Technical Product Manager, Cox Media Group, said, “With a host of traditional and digital media platforms, and more ways to connect with our audiences, reaching them in real-time, or at the right time, across our channels is a key area of focus.”
+Fisher added, “Not only does Urban Airship help us deliver on the real-time nature of news in the digital era, it helps us deepen the engagement with our audiences.”
+Urban Airship CEO Brett Caine added, “Our new capabilities are revolutionary for marketers. We’re bringing the real-time nature of mobile to traditional digital channels with the only open platform that spans the entire MarTech stack. With AI-powered marketing orchestration, brands would now be capable of maximizing their use of customer data, automation, and machine learning across existing solution investments to boost results and lower costs.”
+
+

@@ -1,0 +1,36 @@
+Big Data Interoperability a Must for Precision Medicine Progress
+
+November 16, 2016
+
+By Jennifer Bresnick
+November 16, 2016 - The United States healthcare system still has a long way to go before it develops the seamless health data interoperability required to take on the most pressing precision medicine challenges, including finding cures for cancer.
+According to a November report from the President’s Cancer Panel, health IT could be an extremely effective weapon in the fight against cancer and other serious diseases, but a lack of big data interoperability, patient access to data, and a fragmented research environment may be holding back stakeholders from making key breakthroughs.
+“We live at a most exciting and critical time of technological advances with potential to help individuals manage and improve their own health and support high-quality, patient-centered cancer care,” wrote Barbara K. Rimer, DrPH, Hill Harper, JD, and Owen N. Witte, MD.
+“But today, many patients cannot access or share their own health information; care teams experience electronic health record fatigue and frustration due to lack of interoperability, among other challenges; and researchers do not have a central location to compile, analyze, or even access critical data.”
+Data siloes often prevent providers, patients, public health agencies, and researchers from collaborating to generate actionable insights from disparate sources of information, the Panel added, and many members of the care continuum lack the tools and resources they need to leverage big data for measurable improvements.
+READ MORE: Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+But the Panel believes that these obstacles can and will be overcome as the healthcare system fine-tunes its approaches to creating, storing, sharing, and analyzing big data.
+“Connected health technologies have the potential to maximize the value of our nation’s investments in cancer by supporting empowered individuals and patients. The report concludes that connected health is truly about people more than technologies, and that timely and equitable access to data is imperative to improve health outcomes. In addition, a culture of collaboration is essential to accelerate progress.”
+The report outlines a series of objectives and action items that may help to bring providers, patients, and researchers into alignment around their use of big data and their ability to reach common precision medicine goals.
+Interoperability among institutions and individuals is the first step – not just between clinicians and researchers investigating new therapies, but between providers and patients from prevention to survivorship.
+“The potential benefits of interoperable connected health tools and systems are particularly great for oncology because the delivery of care across the cancer continuum depends on access to accurate and complete information, as well as extensive coordination among patients, caregivers, and diverse teams of providers,” the report states.
+READ MORE: Precision Medicine Test for Bacteria May Aid Antibiotic Stewardship
+Health IT stakeholders should continue to focus on improving the nation’s health information exchange capabilities, overcoming technical and policy barriers to seamless data exchange, and developing standards-based tools and APIs to create opportunities for precision medicine apps and systems that support cancer care.
+Patients must also be actively involved in this process, which means that big data must flow to and from the healthcare consumer – and consumers must have the mechanisms required to check for errors in aggregated medical records and report concerns to their providers. 
+“Connected health tools are needed to ensure that people at risk for cancer, cancer patients, and cancer survivors have access to the information they need when they need it and in formats that meet their needs,” the Panel says.
+Patient engagement and shared decision-making are key features of any cancer treatment plan, and health IT organizations should pay close attention to developing intuitive, engaging, and useful tools to help patients participate in their own care.
+The Panel also highlights the need to ensure that patients and healthcare organizations have regular, reliable access to broadband internet in order to facilitate engagement and data sharing.
+READ MORE: Henry Ford to Apply Data Analytics to Pancreatic Cancer with $20M Gift
+“The full benefits of connected health cannot be achieved unless everyone in the United States who wants to participate and the organizations that support health and deliver healthcare have adequate access to high-speed Internet service.”
+“For individuals, access to online tools, such as patient portals, is necessary to receive information from and communicate with healthcare providers. For healthcare providers and systems, robust broadband access is needed to facilitate collection and sharing of increasing quantities of health-related data.”
+The report supports initiatives that expand broadband access into underserved areas.  Stronger broadband infrastructure and increased access to data sharing tools are important for facilitating surveillance and public health research that can help to identify trends in disease development, treatment, and outcomes.
+Breaking down data siloes is also critical for fostering large-scale surveillance and population health management, the report stresses.  As electronic health records allow providers to collect more and more clinical information, researchers must have access to big data that can be mined for hidden insights.
+“In the past, health data remained wherever they were collected and generally were used in limited ways to serve the specific needs of whoever collected them,” the Panel says. “These silos represent a significant missed opportunity. Connected health technologies have an important role to play by facilitating linkages of systems and data sets and creating tools that enable researchers, clinicians, and patients to use data in meaningful ways.”
+Big data analytics and connected health technologies should eventually help the nation develop more fluid, centralized, and actionable data stores that allow researchers and providers to improve their approaches to precision medicine challenges. 
+“To achieve the development of a national infrastructure to support sharing and processing of cancer data, technical and logistical challenges to data integration must be overcome, and the cancer community must foster a culture of collaboration that encourages data sharing and free exchange of ideas,” the Panel concludes.
+“The Panel urges all stakeholders – health IT developers, healthcare organizations, healthcare providers, researchers, government agencies, and individuals – to collaborate in using connected health to reduce the burden of cancer through prevention and improve the experience of cancer care for patients and providers.”
+Cancer Moonshot Unveils 10 Big Data Tasks for Curing Cancer
+How Precision Medicine Will Shift from Research to Clinical Care
+Tagged Health IT InteroperabilityMedical ResearchPersonalized MedicinePrecision Medicine
+
+

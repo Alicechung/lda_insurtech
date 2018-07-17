@@ -1,0 +1,16 @@
+BlackBerry And Baidu Partner To Accelerate Connected And Autonomous Vehicle Technology
+
+24 Jan 2018
+
+The Two Companies Will Collaborate To Accelerate The Deployment Of Connected And Autonomous Vehicle Technology For Automotive OEMs And Suppliers Worldwide
+BlackBerry Limited and Baidu, Inc announced that the two companies will collaborate to accelerate the deployment of connected and autonomous vehicle technology for automotive OEMs and suppliers worldwide.
+The companies have signed a statement of intent to make BlackBerry QNX’s industry-leading ISO26262 ASIL-D certified safety operating system (OS) the foundation for Baidu’s Apollo autonomous driving open platform. Also, BlackBerry and Baidu will work together to integrate Baidu’s CarLife, the leading smartphone integration software for connected cars in China, as well as its conversational AI system DuerOS, and high definition maps to run on the BlackBerry QNX Car (Infotainment) Platform.
+“BlackBerry QNX has established itself as the OS platform for safety-certified production-based systems,” said Li Zhenyu, General Manager of Intelligent Driving Group, Baidu. “We aim to provide automakers with a clear and fast path to fully autonomous vehicle production, with safety and security as top priorities. By integrating the BlackBerry QNX OS with the Apollo platform, we will enable carmakers to leap from prototype to production systems. Together, we will work toward a technological and commercial ecosystem for autonomous driving, intelligent connectivity, and intelligent traffic systems.”
+John Wall
+“Joining forces with Baidu will enable us to explore integration opportunities for multiple vehicle subsystems including ADAS, infotainment, gateways, and cloud services,” said John Wall, Senior Vice President and GM of BlackBerry QNX. “Baidu has made tremendous strides in Artificial Intelligence and deep learning. These advancements paired with their high-definition maps and BlackBerry’s safety-critical embedded software and expertise in security will be crucial ingredients for autonomous vehicles.”
+Announced by Baidu this past April, Apollo is an open platform that provides a comprehensive, secure, and reliable solution that consists of cloud services, an open software stack, and reference hardware and vehicle platforms. It supports all major features and functions of an autonomous vehicle. Apollo has now attracted over 70 global partners, including OEMs, Tier 1 suppliers, developer platforms, and technology start-ups. The project was named after the historic lunar landing program to illustrate its scale and complexity.
+As the leader in safety-certified, secure, and reliable software for the automobile industry, BlackBerry currently provides OEMs around the world with state-of-the-art cybersecurity technology to protect and mitigate, hardware, software, applications and end-to-end systems from cyberattacks. BlackBerry’s pedigree in security and continued innovation has led to recent automotive design wins with Delphi, Denso, Qualcomm, Visteon, and others.
+BlackBerry is a cybersecurity software and services company dedicated to securing the Enterprise of Things.
+Baidu, Inc. is the leading Chinese language Internet search provider. Baidu aims to make a complex world simpler through technology.
+
+

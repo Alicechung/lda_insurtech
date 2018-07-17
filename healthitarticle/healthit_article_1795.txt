@@ -1,0 +1,19 @@
+96% of providers say they can’t handle big data, analytics
+
+October 15, 2014
+
+By Jennifer Bresnick
+October 15, 2014 - Ninety-six percent of hospitals are unprepared to fully leverage the power of big data and advanced clinical analytics due to immature health IT and EHR infrastructure, claims a new poll by MeriTalk, despite at least half of the industry getting their feet wet with some level of analytics technologies.  With a strong sense that big data will be crucial to the future delivery of healthcare, hospitals are actively looking to invest in new analytics infrastructure and technologies in order to take advantage of the constantly evolving capabilities of EHRs, data warehouses, and other advanced health IT tools.
+The survey of 151 healthcare decision makers found that about half of organizations with EHR technology are using big data to reduce avoidable readmissions, track and evaluate treatment outcomes, and conduct cost/benefit analyses to reduce risk.  Two-thirds are currently running health IT applications in the cloud, while 57% use mobile devices to view patient information at the bedside or on the go.  Forty-six percent have implemented mobile clinical notifications, and 41% use mobile devices for ePrescribing.
+Social technologies are also popular, the survey found, despite continued skepticism about the value of patient-generated data from wearable tracking devices.  Almost a third of hospitals are collecting wearable device data, while 52% are using social media tactics to communicate with patients, send reminders, and help them keep track of their medications.
+
+“Accurate diagnosis is the first step on the journey to a cure,” said Steve O’Keeffe, founder of MeriTalk. “The healthcare industry needs to change its IT diet to ensure better healthcare outcomes for America.”
+Dig Deeper
+How Big Data Velocity Informs Population Health, Patient Safety
+Data Mining, Big Data Analytics in Healthcare: What’s the Difference?
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+Healthcare organizations generally expect that big data will become a critical part of their healthcare delivery strategy in the near future, and that investments in analytics and patient engagement infrastructure will help to improve access to real-time decision making data, reduce the cost of care, and help organizations make smarter financial and clinical decisions.  To that end, they are investing big bucks in bolstering their technologies.  In 2015, 62% of hospitals will increase their spending on cloud technologies, while 67% will add to their big data budgets.  Seventy-two percent will pour money into mobile spending, and 60% will focus on social technologies.
+By 2016, providers expect that big data will cut a whopping 21% of their annual IT budget, the poll found.  Cloud will trim one-fifth of IT costs, while mobile and social will slash 16 percent and 11 percent, respectively.  If providers are to achieve their financial targets, which total more than $23 billion in potential savings, as soon as 2016, they will need to rapidly implement big data technologies that are still scarce in a quickly changing healthcare landscape.
+Tagged Analytics InfrastructureBig DataClinical Analytics
+
+

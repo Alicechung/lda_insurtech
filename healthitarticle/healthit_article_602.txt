@@ -1,0 +1,27 @@
+EHR Use Correlated with Higher Rates of Blood, Imaging Tests
+
+January 25, 2017
+
+By Thomas Beaton
+January 25, 2017 - A recent study published in the American Journal of Managed Care (AJMC) found that physicians using electronic health records tended to order more CBCs, CT scans, and x-rays for their patients than non-EHR users, calling into question the idea that EHRs could cut costs by helping providers reduce repetitious or unnecessary testing.  
+“EHR systems have been federally subsidized since 2009, when the HITECH Act earmarked billions of dollars in reimbursement to early adopters,” explained the research team from Stanford University and the National Bureau of Economic Research. “Proponents argued that EHR use would improve care coordination, increase efficiency, expose duplicate testing, and, thereby, reduce costs.”
+While preliminary research may have supported this notion, the latest study raises concerns that making it easier for providers to order tests through electronic interfaces might increase the number of services prescribed for patients.
+Dig Deeper
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+EHR Optimization is Key for Quality Reporting, Population Health
+Epic EHR, Big Data Tools Bring 2016 HIMSS Davies Award to Mercy
+The team examined 183,519 patient-provider engagements to determine if there was a relationship between EHR access and ordering CBC tests, CT scans, x-rays, and MRIs.
+EHR-enabled physicians are 30 percent more likely to order their patient a complete blood count test (CBCs), 41 percent more likely to order a CT scan, 37 percent more likely to order an x-ray, and 23 percent more likely to order other imaging tests, the study found. These results indicate that EHRs may be working counterintuitively to their ideal purpose of increasing care efficiency and decreasing the number of tests needed for patients.
+The health status of the study population included patients with hypertension (27.4 percent), hyperlipidemia (16.5 percent), arthritis (13.4 percent), diabetes (11.6 percent), and depression (9.2 percent). Common diagnoses of patients included external injury (19.9 percent), respiratory disease (9.8 percent), and musculoskeletal disease (9 percent).
+The team noted that users working within systems that lack widespread interoperability are more likely to contribute to the problem.  
+The team acknowledged some limitations that influence certain aspects of the study. The data was drawn from interactions occurring between 2008 and 2011, and does not include any data past that point.  Meaningful use came into being in 2012, which has significantly changed the health IT landscape.
+Radiologists, pathologists, anesthesiologists, and other providers not typically included in primary care practices were not part of the data set.  Interactions in large private practices accounted for 92.1 percent of the study population.  In addition, the patients surveyed were largely white and privately insured.
+While the study does have its limits, the researchers note that the spike in ordering rates showed some noteworthy features.
+“First, we found striking increases in both test and imaging orders for EHR-equipped physicians across nearly every subgroup; no variable, from patient demographics to insurance type to comorbidities, eliminated this effect,” they said.
+“Second, from 2008 to 2011—when this data was available—we found that the largest effect of EHRs on test ordering was in large practice settings, such as HMOs, in which individual physicians are least likely to influence institutional IT decisions. In those settings, the argument that doctors who are most likely to adopt EHRs are the same doctors who are most likely to order excessive tests bears less relevance.”
+The team concludes by calling for a reexamination of the role of EHRs in the healthcare industry’s quest to cut costs and improve value.
+"Against a backdrop of policies suggesting cost savings for EHRs, these results call for reassessment of the hope that EHRs can reduce medical expenditures and increase clinical efficiency," they said.
+"Adopting EHRs is not enough: providers must also foster the organizational and delivery processes required to realize system wide efficiencies. Implementing EHR systems may become cost-effective only when complemented by models of care that emphasize quality, value, and efficiency."
+Tagged EHR ImplementationEHR UseHealthcare SpendingPhysician EHR Use
+
+

@@ -1,0 +1,24 @@
+EHRs Can Aid Chronic Disease Management in Urban Settings
+
+December 04, 2014
+
+By Jennifer Bresnick
+Public health departments are often frustrated in their attempts to improve chronic disease management by a lack of data.
+December 04, 2014 - Public health departments in large urban settings face a number of population health management challenges, but none so great as a lack of adequate EHR data and analytics technologies to track and address problem areas, says a new study and survey in the Journal of Public Health Management and Practice.
+Despite significant advances over the past century in the way public health organizations deal with outbreaks of contagious diseases, urban populations remain susceptible to poor chronic disease management as obesity, hypertension, and diabetes continue to rise as threats to health and wellness. Public health departments lack speedy access to data and connections with the clinical care system that could help them better serve these vulnerable populations.
+Researchers conducted open-ended interviews with 45 leaders from 16 large health departments (LHDs) from the Big City Health Coalition (BCHD), which includes representatives from 20 of the biggest health departments, overseeing the health and welfare of 46 million Americans, or15% of the US population. Some of the findings from their discussions and questions include the following:
+• Fewer than half of LHDs use IT systems that collected or sent data from EHRs or health information exchanges (HIEs). Bidirectional reporting capacities were limited and varied, and access to local and state data was not widespread.
+Dig Deeper
+ACOs Focus on Health IT, Population Health Management Plans
+Chronic Care Management Improves Pediatric Outcomes by 20%
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+• Only six LHDs could electronically collect chronic disease data. Two received data through an HIE, while three were capable of bidirectional reporting. Half of LHDs reported no interaction with local or state HIE organizations.
+• However, LHDs do collect data from a number of other sources, including hospital discharge information, school system data, emergency medical services reports, and data from other city-level agencies including departments of housing, planning, transportation, education, and law enforcement.
+• Ten health departments have created and fielded their own community health surveys in order to collect data on a hyper-local level. These LHDs have shouldered the costs of data collection and oversampling.
+• Despite relatively limited use of health IT, LHDs have been able to complete important public health projects such as modeling influenza outbreaks to help avoid the spread of the illness in schools and participating in policy development by reporting data on health disparities.
+• LHDs are most concerned with delays in data gathering from other organizations. Some participants said they had to wait between two and four years to receive vital statistics data relevant to their area.
+• Public health departments agree that they would benefit from more data from the healthcare system, and particularly from more EHR data provided by hospitals and ambulatory care facilities. EHR data has the potential to improve “hot spotting” of communicable and chronic diseases, the study says, which are not currently included in statutory requirements.
+“The participants in this study noted the opportunity to leverage the national investment in the EHR infrastructure as a strategy to gain access to chronic disease data that are more timely and geographically specific,” the study concludes. “The public health leaders who participated in this study supported the use of electronic health data to fill the many gaps in local health information. However, clear strategies and “how-to” guides are needed to facilitate partnerships between health care providers and public health leaders to maximize the potential impact of EHRs on population health.”
+Tagged Analytics InfrastructureChronic Disease ManagementPopulation Health Management
+
+

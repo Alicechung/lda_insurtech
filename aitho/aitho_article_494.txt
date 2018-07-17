@@ -1,0 +1,23 @@
+Tencent Youtu Lab Highlights Deep Image Deblurring And Portrait Manipulation Features
+
+23 May 2018
+
+Highlights Two Promising Technologies at CVPR, the World’s Leading Computer Vision Conference
+Tencent Youtu Lab highlighted key achievements in 2018, submitting two papers for CVPR (Conference on Computer Vision and Pattern Recognition) 2018, the world’s most important computer vision conference, which takes place June 18-22 in Salt Lake City, Utah, USA.
+The papers entitled “Scale-recurrent Network for Deep Image Deblurring” and “Facelet-Bank for Fast Portrait Manipulation” describe important breakthroughs that can solve key problems for the imaging market. Fewer than 30% of submissions are invited to present at CVPR and these papers were selected based on their promising applications for industry.
+“Scale-recurrent Network for Deep Image Deblurring”
+Researchers from Tencent’s Youtu Lab developed an algorithm that can successfully remove blurriness across a wide range of images, addressing problems caused by camera shaking, fast motion and out of focus subjects.
+Youtu Lab’s approach uses deep neural network to process thousands of blurry/sharp image pairs to the degree of single pixel. After training on many thousands of blurry/sharp image pairs, the algorithm automatically learns how to transform blurry structures into clear ones.
+This method applies an innovative approach which incorporates physical intuition to facilitate model training. In its paper, Youtu Lab describes how its neural network mimics a well-established strategy in image restoration called `coarse-to-fine’. This strategy starts by first analyzing and resolving a small version of an image, which is often less blurry and easier to handle. This initial image is then used to guide and restore progressively larger images. This reduces the difficulty of network training and helps guarantee the fineness of restoration.
+Youtu Lab’s method was applied to a wide range of blurry images captured from real life and performed well across several types of content and blur scenarios. This algorithm continues to test well and promises to deliver significant benefits to anyone who wants to capture and creates images with outstanding clarity.
+Read More: James Rodriguez To Launch Cryptocurrency With SelfSell
+“Facelet-Bank for Fast Portrait Manipulation”
+Researchers from Tencent Youtu Lab, led by Professor Jiaya Jia, described an innovative model for manipulating portrait photos automatically.
+Using this approach, users simply provide high-level descriptions of a desired effect, such as “make the subject look younger,” and the model automatically renders a new corresponding image. Some examples of the results achieve using this model:
+This is a challenging task for an algorithm as because paired data is usually not available for training. These types of challenges are usually addressed with the Generative Adversarial Network (GAN), an option which is popular for unsupervised learning.
+“GAN is a powerful tool, but it is hard to optimize,” said Dr. Jia. Youtu Lab applied a different approach which generates pseudo targets and uses them to train a Convolutional Neural Network (CNN) with standard loss. “We want to find simpler way to solve this problem,” added Jia.  “We hope that this work can ease the burden of not only artists, but also the engineers who train the model.”
+Another benefit of this model is that it supports partial model updating. When switching between different image manipulation tasks, only a small portion of the model needs to be replaced. This makes the system much faster, more efficient and friendly to developers.
+Testing is simpler and easier. The model can implicitly identify and address the correct facial regions, even if the images or faces are not cropped or well aligned. In many cases, users do not need to do much preprocessing/post-processing. Feeding the original photos to the model is sufficient to produce high-quality results. Even feeding a video frame-by-frame to the model can produce desirable results. Other benefits of this model include fast inference speed, high noise resistance, and controllable edit strength. Overall, this work is simple to train and easy to use.
+Read More: Interview With Alexandre Debecker, Chief Growth Officer – Ubisend
+
+

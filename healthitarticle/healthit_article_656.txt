@@ -1,0 +1,33 @@
+Patient-Reported Outcomes Use Relies on Health IT Usability
+
+December 09, 2016
+
+By Sara Heath
+December 09, 2016 - While patient-reported outcomes (PRO) data may not detract from primary patient care, it also might not help, says a study recently published in the American Journal of Managed Care. In order to make PROs more useful for outcomes, health IT developers must focus on creating intuitive, usable, and meaningful tools for collecting and analyzing patient-reported data.
+The research team tested PRO use for managing chronic non-cancer pain, an issue that is difficult for providers to treat. Because it is difficult to pinpoint the causes and extent of pain, the researchers suggested that PROs could help providers determine treatments, ultimately improving both patient and provider satisfaction.
+The research team enrolled primary care providers and their patients at four family medicine clinics in a two-pronged study. In the first part of the study, the researchers conducted educational sessions with providers, informing them of how to collect PROs, why this data could be effective, and how to integrate it seamlessly into patient care.
+The second leg of the study was dedicated to collecting PROs via surveys prior to primary care appointments and integrating that data into care.
+Dig Deeper
+CIOs Focus on EHR Optimization for Population Health, Analytics
+Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+Payers Starting to Tie Precision Medicine to Value-Based Care
+The researchers also had one control group of providers who delivered usual care.
+Overall, there was negligible difference in satisfaction for patients and providers.
+During both the first and second portions of the study, the intervention patient group and the control patient group differed in satisfaction by 0.2 on a ten-point scale. Providers differed by approximately 0.17 during the first portion of the study and 0.7 on the second portion.
+These results indicated that incorporating PROs into chronic non-cancer pain management neither added to nor detracted from usual care.
+Despite these results, the researchers acknowledged that some studies show the effectiveness of PROs in patient care. For example, a year-old study published in the Journal of Clinical Oncology shows that PROs are useful for improving quality of life in cancer patients.
+According to researchers in this most recent study, the disparity in results may be due to external factors.
+“The potential effects are likely influenced by several intervening factors, including the format of the intervention, the motivation of patients and PCPs to discuss the information, and alignment of the information with clinical workflow and decision making,” they said.
+This current study also could have been unsuccessful because providers were not fully committed to using PROs.
+“It is possible that our intervention was still minimally attended to by PCPs,” the researchers said. “For example, PCPs may not have found the PROs directly relevant to what they perceived the patients’ chief complaint to be, or, PCPs may have been unsure how to efficiently translate the PRO results into clinical action.”
+According to the researchers, these results also show a potential shortcoming of health technology, suggesting that technology developers need to do more work to better display this information and make it more usable.
+“These factors underscore the enormous challenges facing designers and implementers in producing health IT tools that are accessible and easily used by clinicians,” the researchers said.
+“Our study, like others, provides a cautionary tale about pushing technology and information into clinical encounters,” they continued. “Even if clinically relevant information is technically accessible, it does not necessarily mean that it is practically useful.”
+Ultimately, health IT developers are going to need to figure out how to make information like PROs useful for providers, the researchers concluded. With value-based care an important theme in current healthcare initiatives, providers will need to deliver patient-centered, data-driven care. Health IT is integral to that mission.
+“Today, the state of health IT is one of widespread adoption and rapidly increasing electronic data collection,” the researchers said. “The next hurdle in reliably improving care satisfaction will be to transform data to information and to integrate that information into effective clinical process.”
+Dig Deeper:
+Cerner, Epic to See Improvements in EHR Patient-Reported Outcomes
+How to Get Started with a Population Health Management Program
+Tagged Patient Generated Health DataPopulation Health ManagementValue Based Care
+
+

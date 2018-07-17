@@ -1,0 +1,37 @@
+EHR Documentation Burdens Bring Usability, Satisfaction Declines
+
+January 05, 2018
+
+By Jessica Kent
+January 05, 2018 - EHR adoption rates among ophthalmologists are up to 72.1 percent, according to a survey published in JAMA Ophthalmology, but satisfaction is on the decline due to significant documentation and usability concerns.
+A research team headed by Michele C. Lim, MD, collected responses from 348 ophthalmologists between 2015 and 2016. The questions assessed subjective changes in financial outcomes, clinical productivity, and EHR documentation accuracy.  
+The survey measured productivity as the number of patients seen per day. More than half of respondents to the 2016 survey reported a decrease in productivity related to their EHR use.
+Dig Deeper
+AMA Tackles EHR Usability, Physician Burnout, Meaningful Use
+EHR, Health IT Spending Rises as Provider Satisfaction Drops
+As Hospital EHR Adoption Rises, What’s Next for Health IT?
+Forty-four percent of respondents said that their overall experience using EHRs in their practice was worse than using paper records.
+Although respondents reported generally negative feelings toward EHR use and productivity, researchers found their answers contradictory to the results of previous studies performed.
+The researchers note 3 prior studies of large ophthalmology practices that showed no change in productivity after EHR implementation.
+“The perception of productivity decline may be partially owing to the multiple tasks that are required to obtain incentive payments,” the researchers state, such as those available from the first two stages of the EHR Incentive Programs.
+The volume of documentation physicians must complete after seeing each patient, and the time it takes to do so, may be the reason they perceive a loss in productivity. A survey from the American Medical Association found that for every hour physicians spend with patients, they spend two hours on EHR documentation and other desk work.
+As the researchers note, EHRs have several tools that are meant to increase efficiency, including copy forward, drop-down menus, pick lists, and templates. However, these shortcuts often cause more harm than good when it comes to entering patient information.
+The survey also asked respondents to assess how often documentation errors, such as entering contradictory information or entering data for the wrong patient, occurred when using their EHRs. Sixty percent responded “sometimes” or “frequently,” while only 34 percent responded “rarely.”
+Eighty-eight percent of respondents to the survey said their EHR has a copy forward function, and over half reported documentation errors.
+“These errors can reduce the utility of electronic documentation when clinicians begin to doubt the veracity of what was entered,” the researchers write.
+A 2017 EHR usability study from the National Institute of Standards and Technology (NIST) found that the copy-and-paste function in EHRs has introduced widespread safety issues in healthcare.
+Additionally, in 2016, the American Medical Informatics Association stated that increased documentation requirements are what drive physicians to use the copy-and-paste function.
+Other noteworthy findings from the survey include:
+Almost 80 percent of respondents felt that overall practice costs had increased after EHR adoption
+Forty-one percent thought that net practice revenue had decreased after EHR adoption, while only 9 percent thought it had increased
+Twenty-five percent of respondents believed EHRs make it easier to provide quality care than paper records, while 35 percent believed EHRs make quality care harder
+Fifty-five percent of respondents stated that they would recommend their EHR to an ophthalmologist
+Only seventy-one percent of respondents said that their practice has policies or guidelines to oversee EHR documentation accuracy
+The survey suggests a need for improvement in EHR usability, including faster, more accurate data entry, the researchers suggested.
+Organizations may have to make significant improvements to their EHRs in order to streamline documentation processes for providers, which could include better data governance and documentation improvement guidelines.
+Data governance, the process of managing data assets throughout their lifecycles to ensure quality and integrity, starts with recognizing the need for a plan at the very highest level. Organizations that view data governance as a top priority for every level are more likely to succeed.
+Organizations can also begin to develop a cross-departmental governance team, which should include EHR optimizers and technical staff, financial leaders, and big data analysts. Providers should also create benchmarks to measure their progress, and each team member should have a set of tasks and responsibilities.
+ Additionally, organizations can improve documentation guidelines by regularly training end-users about optimal data integrity and data entry practices. This will ensure that providers are accurately capturing clinical quality and patient information.
+“Assessing the rate of EHR adoption and ophthalmologists’ perceptions on financial and clinical productivity is important in understanding how to direct future design and health care policy,” the researchers concluded.
+
+

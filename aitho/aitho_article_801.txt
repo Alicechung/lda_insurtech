@@ -1,0 +1,19 @@
+SAP Introduces SAP Digital Manufacturing Cloud
+
+23 Apr 2018
+
+A New Solution To Help Companies Optimize Performance, Elevate Production Quality And Efficiency, And Ensure Worker Safety
+SAP SE today introduced the release of SAP Digital Manufacturing Cloud, a new solution to help companies optimize performance, elevate production quality and efficiency, and ensure worker safety. Drawing on SAP’s expertise in the Industrial Internet of Things (IIoT), predictive analytics and supply networks, the solution enables manufacturers to deploy Industry 4.0 technologies in the cloud. The announcement was made at Hannover Messe 2018, being held April 23–27 in Hannover, Germany.
+The new cloud solution extends and complements the digital manufacturing portfolio of on-premise solutions from SAP and is available in different bundles to serve manufacturers of varying sizes in both discrete and process industries and roles within their respective organizations.
+SAP customers can choose from the SAP Digital Manufacturing Cloud solution for execution, which provides all solutions in the manufacturing cloud portfolio, or the SAP Digital Manufacturing Cloud solution for insights, which focuses on performance management and predictive quality.
+Bernd Leukert
+“Manufacturers in the era of Industry 4.0 require solutions that are intelligent, networked and predictive,” said Bernd Leukert, Member of the Executive Board of SAP SE, Products & Innovation. “Our manufacturing cloud solutions help customers take advantage of the Industrial Internet of Things by connecting equipment, people and operations across the extended digital supply chain and tightly integrating manufacturing with business operations.”
+SAP Digital Manufacturing Cloud includes the following:
+SAP Digital Manufacturing Cloud for execution: Industry 4.0-enabled shop floor solution features “lot size one” and paperless production capabilities. It integrates business systems with the shop floor, allowing for complete component and material-level visibility for single and global installations.
+SAP Digital Manufacturing Cloud for insights: Centralized, data-driven performance management enables key stakeholders to achieve best-in-class manufacturing performance and operations.
+Predictive quality: This helps manufacturers gain valuable insights to conform to specifications across processes and streamline quality management. It also allows manufacturers to apply predictive algorithms that can reduce losses from defects, deficiencies or variations, and recommend corrective actions.
+Manufacturing network: The network provides a cloud-based collaborative platform integrated with SAP Ariba® solutions connecting customers with manufacturing service providers, such as suppliers of 3D and computer numerical control (CNC) printing services, material providers, original equipment manufacturers (OEM) and technical certification companies.
+Also at Hannover Messe 2018, SAP announced SAP Connected Worker Safety, a solution designed to reduce risks, costs and protect employees. Information from wearables and other sensor-enabled equipment can help companies react immediately to a hazardous situation or incident while proactively managing worker fatigue and other hazard inducers. Real-time information allows monitoring of compliance at all times against regulatory and other parameters.
+As market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back office to boardroom, warehouse to storefront, desktop to mobile device – SAP empowers people and organizations to work together more efficiently and use business insight more effectively to stay ahead of the competition. SAP applications and services enable more than 378,000 business and public sector customers to operate profitably, adapt continuously, and grow sustainably.
+
+

@@ -1,0 +1,44 @@
+Early Adopters Question Usefulness, Maturity of AI in Healthcare
+
+October 18, 2017
+
+By Jennifer Bresnick
+October 18, 2017 - Adoption of business intelligence and clinical intelligence tools is on the rise as healthcare organizations equip themselves with the health IT infrastructure required to succeed with value-based care, yet healthcare organizations are still wary of cutting-edge technologies such as artificial intelligence.
+According to a new HIMSS Analytics Essentials Brief, sixty-two percent of healthcare organizations have business intelligence systems in place, while 48 percent have adopted clinical intelligence tools in an effort to improve quality and safety.
+A number of these organizations have also invested in artificial intelligence or machine learning tools as part of their advanced health IT development initiatives.
+“The first phase of IT adoption across the healthcare market is over and the second phase has begun,” the report declares.
+“Organizations are becoming more sophisticated on how they approach IT implementation to address not only immediate needs but future needs as well. Included in this second phase is leveraging analytical platforms to manage the clinical, financial and operational data and to make it actionable to the benefit of the clinicians, the patients and the organization.”
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+Meaningful use is still the primary driver of clinical analytics development, said respondents, with nearly 70 percent noting that the regulatory program’s reporting requirements have led them to invest in more analytics skills and technologies.
+Developing data-driven population health management competencies outside of the meaningful use framework is becoming increasingly important, however. 
+While just 20 percent of organizations were leveraging their data assets for population health management in 2016, an additional ten percent have shifted their focus to preventive and chronic disease care in 2017.
+Organizations are optimistic about the growing potential of artificial intelligence to help support their clinical activities. 
+Just under a quarter of respondents believe that AI or machine learning will have a major impact in population health over the next few years, while 20 percent said that AI will play its biggest role in patient diagnosis.  The same number tapped clinical decision support as the primary use case for AI.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Precision medicine (14 percent), hospital and physician workflow (8 percent), data security (6 percent) and revenue cycle management (2 percent) also made the list of potential high-impact use cases.
+These capabilities may manifest themselves in as little as two years, said 23 percent of participants.  Another quarter of respondents believe it will take between three and five years for artificial intelligence to achieve broad adoption in healthcare, while 8 percent forecast a decade of development before machine learning is commonplace.
+Skepticism over the maturity of AI for use in the current generation of business intelligence and clinical support tools is keeping investment relatively low, although buy-in from clinicians and executives appears easy to secure.
+While just 11 percent of respondents cited lack of executive buy-in as a reason to defer AI implementations, thirty-seven percent of respondents said their organizations are unlikely to adopt AI because the technology is still in its development stage.
+Twenty-four percent added that there are unproven business cases for algorithmically-driven tools, while 19 percent said that the opportunities are difficult to understand.
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Infrastructure constraints concerned 20 percent of organizations, while 19 percent said that their current data integration competencies are not sufficient to support advanced AI systems.
+Even organizations that have already implemented some form of machine learning system aren’t completely sold on the value. 
+Fifty percent said they feel the technology has not been developed fully enough yet, while the same number admitted they are struggling to understand how to apply AI capabilities to their current business problems.
+The lack of surety among early adopters contrasts rather sharply with a number of upbeat reports from across the industry.
+In June, Accenture found that 80 percent of healthcare executives believe AI is primed and ready to overhaul healthcare, especially when it comes to consumer relations.
+“AI is the new UI,” the report said. “It’s a new world where artificial intelligence is moving beyond a back-end tool for the healthcare enterprise to the forefront of the consumer and clinician experience.”
+“AI is taking on more sophisticated roles, with the potential to make every technology interface both simple and smart – setting a high bar for how future interactions work.”
+Artificial intelligence is likely to play a major role in expanding health IT ecosystem development.  Ninety percent of executives believe creating a platform-based business model supported by strong vendor partners is a critical competency for organizations.
+An October Gartner report offered a similarly rosy view of the upcoming AI landscape, suggesting that machine learning is the cornerstone of the developing digital healthcare ecosystem.
+"AI techniques are evolving rapidly and organizations will need to invest significantly in skills, processes and tools to successfully exploit these techniques and build AI-enhanced systems," predicted David Cearley, Vice President and Gartner Fellow.
+"Investment areas can include data preparation, integration, algorithm and training methodology selection, and model creation. Multiple constituencies including data scientists, developers and business process owners will need to work together."
+In order for providers to better understand and take advantage of what AI is likely to offer over the next few years as its maturity increases, organizations must continue to prioritize data governance, interoperability, and increased visibility into their big data assets and shortfalls.
+Encouragingly, providers are starting to take data and information governance to heart, AHIMA said recently.  Eighty-five percent of respondents to the health information management society’s annual governance poll said that they are familiar with the principles of information governance.
+Fourteen percent had already implemented organization-wide information governance programs, which may help to adequately prepare them for an artificial intelligence environment where clean, complete, accurate, and trusted data is a fundamental prerequisite.
+HIMSS Analytics also sees data governance advancing, noting that respondents are more likely to describe their initiatives as “strong” or “highly optimized” than in previous years.
+This bodes well for the industry as clinical and business intelligence adoption morphs into reliance on artificial intelligence, the report said.
+“The use of clinical intelligence solutions across the US hospital market is steadily increasing and as organizations become more sophisticated from an IT standpoint it is expected their analytical capability will move in lockstep,” HIMSS Analytics said.
+“The market has a long way to go until a higher level of analytics maturity is achieved, but with continued data governance efforts and the implementation of analytics platforms to address emerging areas such as AI, healthcare organizations are moving in the right direction.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsHealthcare Business IntelligenceHealthcare Data GovernanceHealthcare Information GovernanceMachine Learning
+
+

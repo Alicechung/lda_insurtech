@@ -1,0 +1,33 @@
+EHRs, IoT, Revenue Cycle Bring Opportunities for Healthcare APIs
+
+January 04, 2017
+
+By Jennifer Bresnick
+January 04, 2017 - Application programming interfaces (APIs) are quickly becoming a critical tool for healthcare organizations looking to build interoperable connections, and it is likely that this new standard for health data exchange will keep growing in importance during the next few years.
+A new report from Market Research Engine (MRE) predicts healthy growth for the nascent healthcare API ecosystem, forecasting a 4 percent compound annual growth rate (CAGR) that will produce a $234 million market by 2024.
+Open APIs such as FHIR, the Fast Healthcare Interoperability Resource developed by HL7, as well as custom interfaces developed by individual vendors, will find themselves in high demand across many healthcare use cases.
+EHR data exchange may seem the most pressing at the moment, as providers seek the interoperability capabilities that will allow them to engage in population health management, advanced big data analytics, and value-based care. 
+“In a health care market where APIs are commonplace, patients could have easy, efficient access to their own data, which would help them understand their own health and make more informed choices," envisioned Professor Robert Huckman and White House policy adviser Maya Uppaluru in an article for the Harvard Business Review last year.  
+READ MORE: Finding the Value in the IoT, Patient-Generated Health Data
+"Providers would be empowered by innovative user interfaces and analytics platforms that could support their clinical decision making," they continued. "Researchers could have easier access to detailed clinical and claims data to create hypotheses and identify trends — and create a better experience for individuals donating their data for science."
+Indeed, EHR vendors have embraced the API outlook rather quickly in response to mounting frustrations and accusations around data blocking, whether intentional or not. 
+Vendors looking to certify their products under the 2015 CEHRT criteria for use within Stage 3 Meaningful Use and the Quality Payment Program will be required to include the capability to offer patients access to their data through an API, which may make it easier for patients and providers to engage around a user-friendly, longitudinal care record.
+But APIs will also play a role in the many ancillary components surrounding this central mission of ensuring that all members of the care continuum have access to current, uniform, and accurate data.
+As the healthcare Internet of Things becomes more integral to patient engagement and patient-generated health data (PGHD) collection, APIs will be required to collect data from numerous disparate connected devices and feed that data into a centralized location for future analysis. 
+READ MORE: Health IT Vendors, Providers Struggling with API Development
+Chronic disease management and remote patient monitoring for the elderly or homebound will rely upon the ability to gather and synthesize data from wearables, implantables, or home-based devices manufactured by different vendors, each of which may produce their own unique type of data.
+“There’s no such thing as one set of data that gives you everything you need in one single format,” said Dr. Nicholas Marko, Chief Data Officer at Geisinger Health, when discussing the utility of FHIR.  “There will always be information coming from a number of different places, and there will always be a need to work with systems that handle that.”
+Apple’s HealthKit and ResearchKit are early examples of unifying API systems for the Internet of Things, giving providers and investigators the data collection tools they need to explore a variety of intriguing use cases leveraging the popularity of the iOS ecosystem.
+A similar effort on the Android side, called ResearchStack, will also serve to expand the research community’s ability to harness the untold petabytes of data streaming through the mobile landscape at any given moment. Linking patient-generated health data to the electronic health record will be a complex challenge, but APIs are likely to be up to the task.
+They may also help to ease the pain of collecting patient payments and conducting customer relations tasks like making appointments, says MRE. 
+READ MORE: CMS: New API Will Automate MACRA Quality Measure Data Sharing
+Financial giant Capital One is already exploring the role of APIs in revenue cycle management through a collaboration with Pokitdok, which offers API tools to conduct insurance eligibility checks and offers electronic payment options.  Patients can also schedule appointments and access personal health information through the system.
+“The result is a dramatically more efficient claims management process that eliminates the traditional claims clearinghouse and reconciliation layers and lowers administrative costs, compresses cash flow cycles, and reduces revenue loss,” Capital One said in an October press release announcing the partnership.
+Hassle-free payment options and increased transparency around pricing and financial responsibility are two key factors for securing patient loyalty and continued engagement, which are critical for delivering regular preventive care.
+Using APIs to connect EHR data, Internet of Things data, and patient-facing revenue cycle activities may help to break down some of the organizational data siloes that prevent true interoperability, informed clinical decision-making, and seamless patient engagement.
+As health IT vendors and provider organizations continue to develop the concept and implementation of APIs, they are likely to find even more innovative use cases for one of the most promising interoperability technologies in the healthcare industry.
+Why Health Data Interoperability is Setting EHR Vendors on FHIR
+Why Application Programming Interfaces are Key for Healthcare
+Tagged Application Programming InterfacesEHR and Patient EngagementEHR InteroperabilityHealthcare Internet of ThingsRevenue Cycle Management
+
+

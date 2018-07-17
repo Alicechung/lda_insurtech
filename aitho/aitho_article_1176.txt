@@ -1,0 +1,16 @@
+New Analytics Engine Delivers Fastest Intelligence From Customer Interactions At Scale
+
+16 Mar 2018
+
+CallMiner, the leading platform provider of award-winning speech and customer engagement analytics, announced today at Enterprise Connect 2018 that the company has made significant enhancements to its cloud-based customer engagement analytics platform, CallMiner Eureka, to increase speed to intelligence, reliability, and scaling capabilities.
+Scott Kendrick
+CallMiner has witnessed a rapid increase and changing demand in the customer interaction analytics market.  “In this age of the customer, the ability to pull intelligence from customer conversations is becoming a need-to-have, no longer a nice-to-have,” said Scott Kendrick, VP of Marketing at CallMiner. “In many cases this data is becoming critical to daily business operations,” Kendrick continues. In addition, CallMiner is seeing more large enterprises adopt cloud solutions and the use cases for speech analytics continue to expand across the organization.
+CallMiner has advanced its core data processing engine to address these market needs. This latest innovation, built on a micro-services architecture, achieves the following:
+Improved Data Integration & Interoperability – The Eureka Cloud Connector™ feature combined with a new Ingestion API allow for an expanding list of data integration capabilities across customer engagement channels. In addition, companies can connect engagement data to other operational data such as sales conversions or customer satisfaction surveys.
+Enhanced System Monitoring – New administration features and reporting provide for easier system management and self-service administration abilities offer predictability and visibility into interaction processing and system state.
+Unified Real-time and After-Contact Processing – Real-time intra-call processing is now integrated into the core CallMiner Eureka platform, enabling use cases where real-time action and after-contact analytics are required.
+Tenfold Scalability – The new platform has a capacity increase of 10x the volume of its predecessor, allowing for more elasticity and flexibility to support customer needs ranging from SMB through enterprise deployments.
+By combining increased capacity and the ability to do both real-time and after-contact processing, the new platform redacts sensitive information and produces transcripts in real time that can then be sent to after-contact mining for quicker analysis. This provides a single streamlined solution for companies that are leveraging real-time alerting for scenarios such as regulatory disclosures and also using CallMiner Eureka engagement analytics for trending data such as automated call dispositioning and agent quality scoring.
+“Importantly, the new CallMiner Eureka mining platform provides the foundation to continue adding more advanced features and products. This architecture will allow for continued advancements in our use of artificial intelligence and machine learning to drive greater and faster insights for our customers” concluded Kendrick.
+
+

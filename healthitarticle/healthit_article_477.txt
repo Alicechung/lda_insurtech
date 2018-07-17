@@ -1,0 +1,34 @@
+Top Healthcare Business Intelligence Companies by Hospital Users
+
+May 09, 2017
+
+By Kate Monica
+May 09, 2017 - In an increasingly data-driven environment, healthcare business intelligence companies are offering hospitals the health IT tools they need to participate in value-based care, population health management, and operational analytics.
+Business intelligence (BI) tools allow providers to glean actionable insights from large amounts of data and use those insights to improve a wide range of organizations processes, from performance management to workflow automation.  
+As the growing trend of hospital mergers and acquisitions looms over a quickly changing regulatory and reimbursement landscape, healthcare organizations are under strong pressure to adopt up-to-date EHRs and implement the latest health IT systems to maintain market share and meet care quality goals.  
+Business intelligence tools designed to extract insights from big data stores offer providers a way to monitor and improve their organization’s quality and cost efficiency. The following is a list, in alphabetical order, of the top healthcare business intelligence companies by implementation count, based on information from Definitive Healthcare.
+ACMEWARE, INC.
+Developed as a solution for MEDITECH’s Data Repository, Acmeware is designed to analyze large swaths of clinical data spanning years of healthcare delivery, including data gathered during physician visits, outpatient care, and inpatient stays. Acmeware also possesses the analytics capabilities to categorize and assess data for chronic disease management, care management, and financial performance modeling. The vendor currently works in tandem with MEDITECH to offer report development and support services for over 50 hospitals and health systems.
+DATAWATCH
+READ MORE: How to Select a Big Data Analytics, Business Intelligence Vendor
+Datawatch specializes in self-service data preparation and complementary solutions for self-service analytics tools. The twenty-year-old vendor aims to provide organizational support to allow healthcare organizations to spend less time on data preparation and more on quality and cost improvements. Datawatch prioritizes simplifying the process of BI through user-friendly solutions allowing users to directly interact with available data. The vendor’s solutions can also be deployed at any required scale. Datawatch Monarch specifically offers clinicians access to financial, clinical, and operational system data.
+EPIC SYSTEMS
+Epic Systems provides BI tools to support big data functions in hospitals, including clinical workflow optimization, clinical decision support, population health management, predictive analytics, and financial performance modeling. Epic’s Clarity database allows hospitals to run data-intensive reports well-suited to analyzing and managing large quantities of data and integrating data into other systems.  
+GETWELLNETWORK
+GetWellNetwork offers healthcare organizations access to actionable data and data management through its Management Console. GetWellNetwork is currently the largest interactive patient care provider for the VA, aiding in patient engagement. GetWellNetwork also provides hospitals with monthly performance reporting on the status and support of its IT installations to allow staff to evaluate problems and determine solutions for improvements. The vendor also provides hospitals with comparative performance data showing how their organizations stack up to other hospitals.
+INOVALON
+Inovalon provides cloud-based platforms to facilitate hospitals in the transition from volume to value-based care models. The vendor specializes in leveraging large-scale data interconnectivity capabilities, proprietary data sets, analytics capabilities, and data-driven intervention systems to optimize various aspects of hospital management. Inovalon enables providers to assess and improve clinical and quality outcomes and financial performance across their hospital system. The vendor services many different healthcare stakeholders, including health plans and pharmaceutical companies. Inovalon currently provides actionable insights for almost 500 healthcare organizations and 856,000 physicians in 375,000 clinical facilities.
+MEDHOST
+MEDHOST’s business intelligence solutions provide applications for financial, clinical, operational, and regulatory data reporting. The modular, interoperable platform provides scalable solutions covering over 600 key performance indicators (KPIs) surrounding regulatory reporting and compliance. MEDHOST also provides support for mobile analytics as well as on-premise or cloud-based deployments. The vendor’s BI solutions recently passed ONC’s 2015 Edition Certified EHR Technology Program to meet CMS Meaningful Use Stage 3 requirements.
+QLIKVIEW
+READ MORE: Healthcare Business Intelligence, Big Data Tools Spark Investment
+Qlikview provides a BI platform to turn data into actionable insights for over 24,000 healthcare organizations worldwide. Qlikview’s analytics capabilities enable users to consolidate, search, and visually analyze available data for business insights and clinical decision-making. The company’s data analytics tools offer unrestricted analysis of application data through simple user interfaces.
+SAS
+SAS Enterprise BI offers healthcare organizations insights into data using a variety of tools including SAS Information Maps, SAS Stored Processes, and SAS BI Dashboard. SAS offers data analytics and insights for large stores of varied data allowing for accurate decision-making. The vendor’s platform is adaptable to a range of data sources and meets the requirements and regulations of IT federal policies.  
+SIEMENS MEDICAL SOLUTIONS USA, INC.
+Siemens offers automated solutions to provide optimal care coordination and improve clinical, financial, and operational processes. Acquired by Cerner in 2015, Siemens uses integrated workflow and analytics to generate data reports geared toward improving cost and quality.
+STRATA DECISION TECHNOLOGY
+Strata Decision Technology offers cloud-based financial and performance analytics to assist healthcare providers in financial planning, clinical decision support, and quality improvements. Strata currently provides services over 1,000 hospitals and healthcare delivery systems in the US. The vendor integrates its solutions into existing health IT infrastructure and specializes in improving financial performance. 
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Business IntelligenceListsPopulation Health ManagementValue Based Care
+
+

@@ -1,0 +1,16 @@
+How Blockchain Startup SIMBA Chain Helps Enterprises Build Low-Latency DApps
+
+31 May 2018
+
+The Absence Of A Central Point Of Failure In Decentralized Blockchain Networks Makes Them An Attractive Solution For Data Protection
+Any enterprise or government institution that deals with large volumes of data and other digital assets should be interested in learning how to amplify its data protection levels. The absence of a central point of failure in decentralized blockchain networks makes them an attractive solution for data protection. However, many governments have been reluctant to examine and apply decentralized networks because of misconceptions about the novel technology. For now, enterprises have been more eager to embrace the blockchain challenge, testing the waters with private decentralized applications (dApps) that can improve the way they deliver goods and services. A number of governmental authorities are also plunging ahead, largely because of the security enhancements made possible by blockchain and SIMBA chain technology.
+DApps for Public-Private Partnerships
+As things stand at the moment, users are connected with enterprise and government services in many different ways, typically indirectly and with the help of many third parties. The more intermediaries involved in a transaction, the less secure it becomes.
+The purpose of the SIMBA chain is to provide a software infrastructure for direct communication between users and big data entities. Started as an initiative by the U.S. military, specifically the Defense Advanced Research Projects Agency (DARPA), the SIMBA chain is developed as a blockchain cloud solution for public-private partnerships. The initial intention of the project was to use the platform for secure messaging that would be less vulnerable to hacking attacks.
+Read More: Tech For Good Summit In Paris: All You Need To Know From Day 1
+What Is the Technology Behind SIMBA?
+The Blockchain-as-a-Service (BaaS) concept enables dApp developers to build their own dApps on the SIMBA chain and connect directly with users without third-party mediation.
+The SIMBA chain provides a highly secure, open source and stable environment that uses the Microsoft Government Azure cloud platform. It allows participants to establish fast, low-latency transactions. SIMBA actually solves one of the biggest blockchain problems, scalability, by providing the infrastructure to store immutable data and use it for custom dApp development.
+Read More: Blockchain Company Expands Services In Bid To Offer Americans New Way To Access Healthcare
+
+

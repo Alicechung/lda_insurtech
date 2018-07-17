@@ -1,0 +1,28 @@
+NIH Launches Genomic Data Commons Supporting Cancer Moonshot
+
+June 06, 2016
+
+By Sara Heath
+June 06, 2016 - The Precision Medicine Initiative (PMI) and Cancer Moonshot just took one large step forward with the launch of the Genomic Data Commons, according to a National Institutes of Health press release.
+The Genomic Data Commons (GDC), a data repository located at the University of Chicago, is the heart of the Cancer Moonshot, serving as the central location for all of the necessary data. Powered by $70 million worth of funding as a part of PMI for Oncology, GDC will also serve as the core standardization mechanism for all necessary data.
+The quantity of data already stored in the GDC is reportedly impressive, with nearly two petabytes of genomic data in its stores. For reference, the press release states that one petabyte is the equivalent of 223,000 DVDs filled to their maximum capacities.
+The amount of data in the GDC is only expected to grow from there. Currently, it is accepting submissions of genomic and cancer data to help continue to build up its repository.
+Dig Deeper
+UCSC Cancer Research Awarded $500,000 Precision Medicine Grant
+NIH Renames Precision Medicine Cohort, Urges Patient Engagement
+Cancer Moonshot Report Showcases Precision Medicine Progress
+While the data will be stored in its raw form, helping researchers to reanalyze it as developments continue, NIH says that GDC will also reconcile this expansive amount of data through a thorough standardization process.
+“Data in the GDC, representing thousands of cancer patients and tumors, will be harmonized using standardized software algorithms so that they are accessible and broadly useful to any cancer researcher,” the agency said in the press release. “The storage of raw genomic data in the GDC will also allow it to be reanalyzed as computational methods and genome annotations improve.”
+As noted above, the GDC has been established foremost to help propel the Precision Medicine Initiative and Vice President Joe Biden’s Cancer Moonshot. Through its massive stores of data, the GDC will ideally help facilitate comparative research projects and various initiatives to drive those two programs forward.
+“With the GDC, NCI has made a major commitment to maintaining long-term storage of cancer genomic data and providing researchers with free access to these data,” said NCI Acting Director Douglas Lowy, MD. “Importantly, the explanatory power of data in the GDC will grow over time as data from more patients are included, and ultimately the GDC will accelerate our efforts in precision medicine.”
+The data within the GDC will also ideally lead to better cancer treatments by helping experts comb through a wide array of genomic data.
+“Of particular significance, the GDC will also house data from a number of newer NCI programs that will sequence the DNA of patients enrolled in NCI clinical trials,” said Louis M. Staudt, MD, PhD, NCI.
+“These datasets will lead to a much deeper understanding of which therapies are most effective for individual cancer patients. With each new addition, the GDC will evolve into a smarter, more comprehensive knowledge system that will foster important discoveries in cancer research and increase the success of cancer treatment for patients.”
+According to Vice President Biden, who visited the GDC today for its launch, this advancement will help speed up the research to help find a cure for cancer.
+“This is good news in the fight against cancer,” the Vice President said in a White House statement. “With the launch of this new national resource, anyone can freely access raw genomic and clinical data for 12,000 patients - with more records to follow. Increasing the pool of researchers who can access data and decreasing the time it takes for them to review and find new patterns in that data is critical to speeding up development of lifesaving treatments for patients."
+Dig Deeper:
+Top 5 Basics to Know About the Precision Medicine Initiative
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+Tagged GenomicsHealthcare Big Data AnalyticsPrecision Medicine Initiative
+
+

@@ -1,0 +1,37 @@
+CMS Releases Medicare Opioid Prescribing Maps, Data Resources
+
+January 18, 2017
+
+By Jennifer Bresnick
+January 18, 2017 - The Centers for Medicare and Medicaid Services is continuing its data transparency push by releasing interactive, online visualizations of Medicare Part D opioid prescribing rates. 
+The map and accompanying datasets include prescribing information from 2013 and 2014, allowing users to view changes over time at the state, county, and zip code levels.
+“New in this release is an interactive map presenting the Medicare Part D opioid prescribing rates for 2014 and an interactive map presenting the percentage point change in opioid prescribing rates from 2013 to 2014,” CMS said in an email announcement.
+“The opioid prescribing mapping tool shows geographic comparisons at the state, county, and ZIP code levels of de-identified Medicare Part D opioid prescription claims – prescriptions written and then submitted to be filled – within the United States.”
+As the toll of opioid abuse rises, CMS has joined a growing list of other healthcare stakeholders looking to promote more effective strategies for prescribing painkillers, monitoring patients with chronic pain, and delivering overdose prevention and rescue care to the thousands of patients who suffer health crises due to opioid misuse each year.
+READ MORE: Addressing Opioid Abuse with Analytics, Population Health Strategies
+Surgeon General Vivek H. Murthy recently urged providers, payers, public health organizations, and patient advocates to commit to reducing the destructive impact of opioid overuse and abuse by reevaluating prescribing strategies that often put excess painkillers into the hands of friends and family members who do not have legitimate reasons to use the drugs.
+With support from HHS, the Federation of State Medical Boards, the National Safety Council, and other organizations, the “Turn the Tide” pledge aims to promote alternative treatment options and the use of risk assessments to guide clinical decision-making for patients with serious pain.
+Medicare patients are particularly susceptible to unintentional abuse, CMS officials said earlier in January.
+“The Medicare population has among the highest and fastest-growing rates of opioid use disorder, currently at more than 6 of every 1000 beneficiaries,” wrote Shantanu Agrawal, MD, Director of the Center for Program Integrity and Kate Goodrich, MD, MHS, Director of the Center for Clinical Standards and Quality.
+“For Medicaid beneficiaries, the prevalence of diagnosed opioid use disorder is even higher, at 8.7 per 1,000, a figure which is estimated to be over 10 times higher than in populations who have private insurance coverage.”
+2014 opioid prescribing rates in the continental United States
+Source: CMS
+READ MORE: Big Data Analytics Cuts Medicaid Opioid Abuse, Ups Patient Safety
+In 2013, the national percentage of Medicare Part D claims for opioids was 5.3 percent, CMS said, ranging from 2.6 percent in New York to 7.4 percent in Alabama.  Naturally, specialists associated with pain management were most likely to prescribe opioids, which often exceed 50 percent of their claims.  For some individuals, opioids made up more than 80 percent of their pharmaceutical claims.
+Opioids made up between 4 and 5 percent of Medicare claims for family practice and internal medicine providers.  CMS stresses that the data only includes Medicare patients, not Medicaid or privately insured individuals.
+In conjunction with an update of the agency’s 2016 opioid misuse reduction roadmap, the interactive online dataset gives stakeholders insight into how providers are faring on a local and regional level.
+The initial results are promising.  Only eighteen states recorded higher or neutral prescribing rates between 2013 and 2014.  The rest of the nation reduced opioid prescribing rates between 0.02 percent and 0.44 percent, with states such as West Virginia, Kentucky, Rhode Island, and Mississippi seeing the greatest reductions over time.
+Difference in opioid prescription rates between 2013 and 2014
+Source: CMS
+According to recent data from the Agency for Healthcare Quality and Research, Kentucky, West Virginia, and Rhode Island had some of the highest rates of opioid-related hospital stays in 2014.  The decline in prescribing rates during the same year may indicate that these states are focused on making a concerted effort to remove themselves from the AHRQ’s list of high inpatient utilization.
+READ MORE: State Monitoring, Predictive Analytics May Cut Opioid Abuse
+In addition to the mapping tool, CMS has developed a Medicare Part D prescriber lookup tool, which allows users to search for individual prescribers and access information including the type, number, and expenses of opioids and other drugs prescribed to Medicare patients during 2014.
+The data may help stakeholders identify improper prescribing habits among individual providers, which will be the first step towards reducing unnecessary variation in care and increasing reliance on evidence-based medicine and alternative pain management strategies.
+Curbing the number of unnecessary prescriptions at the source is likely to produce a significant impact on inappropriate access to opioids, argued David B. Nash, MD, MBA, Dean of the Jefferson College of Population Health at Thomas Jefferson University in a journal article last year.
+“Getting to the crux of the problem will require a proactive approach that minimizes the introduction of opioids into general circulation by reducing or eliminating avoidable exposure,” he said. “This presents a formidable challenge because it entails a reappraisal of well-entrenched prescribing practices.”
+Increasing transparency around the practices of individual providers may be the first step for steering providers away from being too free with the prescription pad.  In conjunction with state monitoring databases that keep an eye on “doctor shopping,” federal, state, local, and provider-based initiatives to improve the flow of prescribing data will be key for addressing the epidemic.
+“CMS is committed to high quality care, including appropriate pain management,” Agrawal and Goodrich said in their blog post.  “In order to best fulfill that commitment, we need to modify trends in opioid prescribing, use, misuse, and overdose, and increase support services to help individuals recover from opioid use disorder, as well as provide the full spectrum of evidence-based practices for acute and chronic pain management.”
+“We will continue our strong collaboration with community stakeholders, HHS agencies, and across government.  We are focused on making a real, positive impact in the lives of our beneficiaries.”
+Tagged Chronic Disease ManagementCMSHealthcare Data MiningPopulation Health Management
+
+

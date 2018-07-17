@@ -1,0 +1,39 @@
+IBM: Blockchain, Artificial Intelligence Combo to Alter Healthcare
+
+November 02, 2017
+
+By Jennifer Bresnick
+November 02, 2017 - The combination of blockchain and artificial intelligence could bring significant improvements to a healthcare sector plagued by interoperability problems and big data analytics shortfalls, says IBM Watson Health Chief Science Officer Shahram Ebadollahi.
+Speaking at the Fast Company Innovation Festival in late October, Ebadollahi announced that the company would be expanding its exploration of healthcare blockchain opportunities with a new CDC partnership, according to reporter Jay Woodruff. 
+The CDC has already been engaged in blockchain pilots around public health responses and crisis situations, and is looking to further its ability to define value-driven use cases for the technology. 
+The new partnership will complement an existing collaboration between IBM Watson and the FDA, giving IBM additional insight into how blockchain, in tandem with artificial intelligence, could overhaul the way stakeholders extract meaning from the overwhelming volume of big data in the industry.
+“Blockchain is very useful when there are so many actors in the system,” Ebadollahi said. “It enables the ecosystem of data in healthcare to have more fluidity, and AI allows us to extract insights from the data.”
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+IBM has been angling to become a leader in the blockchain space, with several projects in financial services, healthcare, and other sectors that could benefit from the distributed ledger approach to data management.
+“Blockchain is a major focus area for IBM as a whole,” Ebadollahi told HealthITAnalytics.com earlier in 2017. 
+“It’s a big investment for IBM – and of course, Watson Health thinks blockchain could have a major impact in healthcare and life sciences, especially around how data is being stored, shared, and used for its various applications.”
+Blockchain purports to offer enhanced security and data integrity, as well as opportunities for patients to maintain more control over who accesses their data and how it is shared.
+“Healthcare data resides in many different places – the primary care provider, the hospital, or the lab where their results are processed – but if you have the patient’s consent to share the data, you can pull together these different elements for use within a particular application or service that they need,” he explained.
+READ MORE: Five Blockchain Use Cases for Healthcare Payers, Providers
+“A permissioned blockchain brings together trusted collaborators.  Each of them can join the chain, or run their own chains, and the distributed ledger will keep track of all the events that are of importance for that particular iteration of providers within a patient’s care team for whatever task they’re trying to accomplish.”
+Payers are also keenly interested in creating a more trustworthy data management system, which could better support value-based care and the complex administrative processes involved in claims adjudication and payment.
+As risk-based reimbursement continues to exert influence over the payer-provider relationship, blockchain may offer an innovative approach to measuring and rewarding performance, believes Hashed Health CEO John Bass.
+“Blockchain is one of the emerging technologies that would allow payers to programmatically throttle payments or incentives based on external data sources instead of adjusting payments through laborious administrative processes,” he explained.
+“As long as you can provide an attestation that a certain best practice is being followed, you can create credits and debits in the provider's virtual wallet to provide incentives.  That is a fundamental redesign of what value transfers look like today.”
+READ MORE: Blockchain Will “Change the Physics” of Health Data Sharing
+Almost all of the nation’s large health plans are currently implementing or actively planning to spin up a blockchain solution for at least some of their administrative needs, says a recent survey from Black Book, setting up the potential for broader adoption in the near future. 
+Activity in the payer space is quickly outpacing interest on the provider side. Sixty-eight percent of all size payers are aiming to take a blockchain approach to at least one business problem by the end of 2018, while just 12 percent of providers are planning to do the same.
+As with financial services and banking, the payer-facing use cases for operational efficiencies in back-end processes may be clearer at the moment, leading to speedier adoption rates.
+Payers may be able to use AI tools to identify fraud or incorrect billings more efficiently if blockchain-based provider identity management and claims adjudication techniques make it easier to identify anomalies in billing patterns.
+However, adding a layer of artificial intelligence to this blockchain substrata could also drastically improve the way healthcare providers extract actionable insights from big data that is fundamentally more trustworthy than before.
+If a patient himself has verified that his record is complete, up-to-date, and accurate on a permissioned blockchain, artificial intelligence algorithms that stratify risk, suggest diagnoses, or identify gaps in care may be more efficient and effective, for example.
+A recent Frost & Sullivan report suggests that the convergence of blockchain with machine learning and AI could also reduce pharmaceutical supply chain issues, create better clinical trials, and allow the integration of Internet of Things (IoT) data into the clinical care environment.
+“A blockchain-based system will enable unprecedented collaboration, bolstering innovation in medical research and the execution of larger healthcare concepts such as precision medicine and population health management,” said Transformational Health Industry Analyst Kamaljit Behera.
+“Blockchain technology may not be the panacea for healthcare industry challenges needs but it holds the potential to save billions of dollars by optimizing current workflows and disintermediating some high-cost gatekeepers."
+The confluence of blockchain and artificial intelligence is not too far away, Behara noted.  By 2025, Frost & Sullivan expects the healthcare industry to be deeply immersed in both technologies across the payer, provider, and pharmaceutical segments.
+IBM also believes the inflection point for AI and blockchain is just over the horizon.  While the industry is still in its infancy at the moment, progress happens quickly – and unforeseen breakthroughs can radically alter the technology experience in just a few short years.
+“When a bunch of physicists collaborated and created this thing called the World Wide Web a few decades ago, nobody imagined Facebook and Google and Amazon,” said Ebadollahi.
+“With blockchain we can collect data and extract insights through AI, and the future will have an economy around that we can hardly even imagine right now.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareHealthcare PayersMachine Learning
+
+

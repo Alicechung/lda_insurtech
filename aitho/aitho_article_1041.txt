@@ -1,0 +1,10 @@
+ONVIF Calls On Developers For Advanced Video Streaming Challenge
+
+28 Mar 2018
+
+ONVIF®, the leading global standardization initiative for IP-based physical security products, is announcing the ONVIF Open Source Spotlight Challenge, a technology competition to develop open source applications for innovative IP video streaming applications to help resolve global security issues.
+The two-month online challenge, offered in conjunction with BeMyApp, offers lucrative cash prizes for developers who use the protocol provided by ONVIF to create open source mobile or desktop applications for advanced video streaming that provides easy and secure authentication from all platforms. Developers will connect to online prototype cameras with Profile T functionality from Axis Communications, Bosch Security and Safety Systems, Dahua Technology, Hikvision and Uniview for the challenge.
+“As the need for interoperability grows in significance in other industries, it’s more important than ever to seek out innovative physical security solutions to make sure we’re offering that interoperability with the highest levels of efficiency, security and reliability,” said Per Björkdahl, Chairman of the ONVIF Steering Committee. “We’re excited to see what inventive ideas are offered from the greater technology community.”
+Using a series of video tutorials, participants will learn how to create an application using C# on Windows, iOS on Apple, Java on Android or JavaScript in the browser that connects to an IP camera. Once a developer, submits a mobile or desktop app with an innovative security solution, they can earn instant rewards, as well as the opportunity to compete for major cash prizes from a $20,000 prize pool.
+
+

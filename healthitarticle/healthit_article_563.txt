@@ -1,0 +1,20 @@
+Google Cloud Partners with HL7 to Support FHIR Development
+
+February 21, 2017
+
+By Jennifer Bresnick
+February 21, 2017 - ORLANDO - HL7 International and Google have partnered to bring Google's cloud clout to bear on the Fast Healthcare Interoperability Resource, commonly known as FHIR.
+At HIMSS17 this week, Google and the HL7 FHIR Foundation announced a joint initiative to provide cloud technology for the FHIR development ecosystem, enabling innovators to create new applications for the popular interoperability standard. 
+“The HL7 FHIR Foundation is thrilled by this generous contribution of Google Cloud Platform services to support the ongoing activities of the FHIR community to help advance our goal of global health data interoperability,” said Grahame Grieve, HL7 FHIR Foundation Board Member and HL7 FHIR Product Director.
+“The future of health computing is clearly in the cloud, and FHIR will serve to accelerate this transition.” 
+FHIR has quickly gained popularity over the past few years as a promising tool for connecting disparate sets of health data using an internet-based protocol.  
+Now in use by some of the biggest health IT vendors, including Epic and Cerner, FHIR helps create a standardized interface that allows third-party developers to connect to major platforms, enhance their capabilities, and add new features in an intuitive manner. 
+“Our support of the HL7 FHIR Foundation will help pave the way for data interoperability in the healthcare ecosystem based on open standards, which we value at Google,” said Greg Moore, VP HealthCare at Google Cloud.
+“This collaboration as an important step in helping the developer community quickly build important FHIR-based experiences without the need to worry about the underlying infrastructure - a key advantage of the cloud.” 
+Google is already an industry leader in cloud-computing, with millions of consumers taking advantage of its online storage and communication options.  The company, like other tech giants including Microsoft and IBM, is setting its sights on the lucrative healthcare industry, which is ripe for disruption. 
+Google has already invested in predictive analytics, machine learning, and artificial intelligence in the healthcare space via its DeepMind spin-off,  and has made forays into patient engagement, chronic disease management, and precision medicine through a variety of other projects. 
+The collaboration with FHIR will allow developers to accelerate the industry's interoperability progress and share insights more efficiently. 
+"Google Cloud Platform’s commitment to support the ongoing activities of the FHIR community will help advance our goal of global health data interoperability. The future of health computing is clearly in the cloud, and our joint effort will serve to accelerate this transition," said Grieve. 
+Tagged Cloud ComputingFast Health Interoperability ResourceFHIRHIMSS17HL7Interoperability
+
+

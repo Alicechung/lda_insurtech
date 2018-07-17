@@ -1,0 +1,15 @@
+Gopher Reports New R&D Efforts For Its AI Mesh Technology; Autonomous Driving Tracking And Safety
+
+23 Feb 2018
+
+Gopher’s Core Tracking Technology Is Based On Artificial Intelligence Data In Real-Time And Is Currently Implemented In Its Pet Tracking Device
+Gopher Protocol Inc (“Gopher”), a development-stage company which specializes in the creation of Internet of Things (IoT) and Artificial Intelligence – enabled mobile technologies, reports new R&D efforts for its MESH Technology.
+New research includes testing of its MESH network technology for use in autonomous driving tracking and safety applications. Gopher’s core tracking technology is based on Artificial Intelligence data in real-time and is currently implemented in its pet tracking device, as previously announced.
+The new research division, named gNETCar, is focusing on autonomous car safety research using its proprietary tracking technology. Gopher tested the tracking technology, using its private, secured communication protocol, and performed safe, autonomous vehicle driving successful experiments.
+CTO, Dr. Rittman said, “Currently we are in the process of defining, adapting and testing of our advanced MESH network architecture to be implemented within autonomous driving systems. Our MESH network includes AI, deep learning methodology, which we believe will allow  cars to rapidly and adaptably scale to safely handle situations as conditions change. Using Gopher’s MESH technology, we believe it will potentially enable autonomous vehicles to communicate, learn and share vital safety details, among them road conditions, obstacles, weather and other safety information. “
+Dr. Rittman went on to say “With Gopher’s MESH technology, we expect data to be shared amongst all vehicles that are participating in the network for the most efficient, real-time, decision making.”
+The MESH network is a communications network intended to be made up of radio nodes organized in a mesh topology. A mesh refers to rich interconnection among devices or nodes. Wireless mesh networks often consist of mesh clients, mesh routers and gateways.
+Gopher Protocol Inc is a development-stage company which consider itself Native IoT creator, developing  Internet of Things (IoT) and Artificial Intelligence enabled mobile technology.  Gopher has a portfolio of Intellectual Property that when commercialized will include smart microchips, mobile application software and supporting cloud software.  The system contemplates the creation of a global network.  The core of the system will be its advanced microchip technology that can be installed in any mobile device worldwide. Gopher envisions this system as an internal, private network between all enabled mobile devices providing shared processing, advanced mobile database management/sharing and enhanced mobile features.
+Read More: MediaTek Joins Open Neural Network Exchange To Evolve Its Edge AI Platform
+
+

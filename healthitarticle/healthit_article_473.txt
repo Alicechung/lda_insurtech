@@ -1,0 +1,45 @@
+Epic Systems EHR Brings Care Coordination to Walgreens Retail Clinics
+
+May 11, 2017
+
+By Jennifer Bresnick
+May 11, 2017 - Retail clinics are becoming an increasingly popular – and increasingly sophisticated – alternative to traditional primary care appointments, especially for patients who may not be able to afford or access other healthcare providers.
+Now equipped with top-shelf EHR infrastructure, much of which hails from Epic Systems, retail clinics are becoming fixtures of communities that are in need of additional options for primary care.
+In 2014, just over a third of US urban residents lived within a ten-minute drive of a retail clinic location, RAND Corporation found, although relatively few locations – just 12.5 percent – were directly situated in areas classified as medically underserved by the Health Resources & Services Administration (HRSA). 
+The retail clinic landscape has grown dramatically since then.  Two years ago, Accenture predicted that the number of clinic locations would rise from around 1900 to more than 2800 as the healthcare consumerism trend increases demand for convenient and low-cost options for treating minor complaints such as strep throat and ear infections.
+Walgreens is among the companies that have responded quickly to the keen interest in supplementary care sites.
+READ MORE: How Retail Health Clinics Impact Population Health Management
+“We see a great value in retail health.  It’s accessible and affordable care, seven days a week, and it is cost effective and consumer-centered,” Dr. Patrick Carroll, Chief Medical Officer at Walgreens, told HealthITAnalytics.com.  “We have been investing quite a lot in it, because we think it will add value to the entire healthcare system.” 
+“There’s a real need for expanded care access – not to mention that there are some significant advantages to having a pharmacist three to five yards away from where patients are receiving treatment.  It’s a serious perk for consumers if they don’t have to make a separate trip to pick up their prescriptions.”
+Retail pharmacy chains may also benefit from the co-location strategy, since patients might be more likely to fill their prescriptions at the same place where they receive care, instead of using another pharmacy option.
+Source: Accenture
+Together, CVS Health and Walgreens operate around three-quarters of the retail clinic landscape, RAND says.  The rest of the environment is largely divided between Walmart, Target, Kroger, and Rite Aid, which is currently in the midst of a possible Walgreens take-over.  
+Both of the leading chains have recently adopted health IT from Epic Systems to equip their providers with documentation tools and health information exchange technology that mirrors what’s available in hospitals and physician offices around the country.
+READ MORE: Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+“We completed our Epic Systems EHR implementation in March, and it has been very well received by our clinicians,” said Carroll.  “They see it as a positive tool for helping them deliver that consumer-focused experience that everyone wants.”
+Epic also offers the benefit of its Care Everywhere health information exchange network, which allows users to share information with more than 28,600 clinics and 1200 hospitals.  In 2016, Epic announced that it had moved close to a quarter of a billion patient records through the system in just 12 months. 
+Retail clinics are an important member of that ecosystem, Carroll said, and the ability to access and share data on Epic’s covered population of 181 million patients is a crucial factor in allowing Walgreens to become an integral part of the care continuum.
+“One of the reasons why we chose Epic was because we don’t want to be siloed and add to the care coordination issues that many patients face,” he explained.  “We want to be an integrated part of the process so that we and our partners can provide the best possible services.  In order to do that, we need to be able to freely exchange information.  Connectivity is very important to us.”
+Keeping patients connected to the primary care environment is a top priority, he stated.  While the clinics are often seen as a quick-fix replacement for a primary care visit, Walgreens is committed to helping its customers build or maintain relationships with full-service traditional PCPs.
+READ MORE: Population Health Management New Focus for Retail Clinics
+“I’ve been a practicing family physician for 25 years, so I understand the challenges and opportunities of primary care,” Carroll stressed.  “The one thing we try to get across to PCPs is that we are not trying to replace them as the patient’s medical home.  That will always be the job of the primary care provider.”
+“But we can help them do their jobs better by offering high-quality care and communication when the PCP might not have office hours, or when the patient is having an acute issue that requires attention but the PCP doesn't have immediate appointments available.”
+Carroll believes that his company’s EHR implementation plays a significant role in allowing the retail clinics to play that supplementary, not competitive, part in care delivery.
+“When a patient comes to see us, the first question we ask is if the consumer has an established primary care physician,” Carroll said.  “If they do, we can go into Care Everywhere and access a full view of that patient’s history.  Of course, it’s more robust if that PCP is using Epic, but even if they are on another EHR, Care Everywhere can still provide valuable information.”
+Dr. Patrick Carroll, Chief Medical Officer at Walgreens
+Source: Xtelligent Media
+“And once the visit is complete, the PCP is able to use the same tool to see what occurred at the visit.  This gives us very robust connections to the primary care environment, and to specialists for that matter.”
+If the patient does not have an established primary care relationship, Walgreens clinicians will refer them to a practitioner in the patient’s area who is accepting new patients, he added.  The company does not have a preferred network of providers.  Recommendations are made based on the patient’s home address.
+Interestingly, however, not all clinics at Walgreens locations use Epic.  The chain has several partnerships with local healthcare systems, such as Advocate Health Care in Chicago and Swedish Medical Center in Seattle, wherein the health system owns and operates fast-access clinics within Walgreens retail stores.
+Partnership sites are generally staffed by nurse practitioners or physician assistants, the same as Walgreens-operated locations, and tend to offer the same scope of services as other retail clinics.
+“Currently, we have ten health systems that run the clinical care model in our locations,” Carroll said.  “They hire their own providers and they bring in their own EHRs, and oversee all of the care delivered at our sites.”
+Partnering with local health systems isn’t Walgreens’ only innovation.  In April, the company announced that it will expanding its offerings to include testing for sexually transmitted infections (STIs). 
+In the Houston area, providers will also be able to write prescriptions for HIV Pre-Exposure Prophylaxis (PrEP), a daily regimen for patients at high risk of contracting HIV that can reduce the risk of infection by more than 90 percent.
+The option to receive care at a retail clinic for these sensitive conditions may be attractive to patients who are reluctant to seek treatment from their regular providers, or those who cannot access services during typical working hours.
+“Offering these services in an alternative setting that still brings that information back to the PCP can help patients overcome any issues and ensure that they do get the care they need,” Carroll said.  “Our demographics at the retail clinics tend to be younger people – from millennials to people in their 30s and 40s – and that population can really benefit from having these services available to them.”
+Once again, Carroll credited a robust EHR infrastructure for the clinics’ ability to increase its offerings and meet patient needs.
+“Epic gives us a platform that really enhanced our confidentiality features,” he said.  “We can share the information with the PCP or a specialist, but only if the patient consents.  The ability to create evidence-based protocols and clinical workflows backed by strong patient privacy protections has allowed us to expand our scope of care to meet the realistic needs of our consumers.”
+“Sickness doesn’t care much about office hours, and no one wants patients to end up in the emergency room or avoid care all together because there’s nowhere convenient to go.  If we can serve those individuals in a consumer-centered environment and get the records back to the PCP through a recognized and widely-adopted EHR system, then everyone wins.”
+Tagged Epic EHREpic SystemsHealth Information ExchangeInterviewsPopulation Health ManagementPrimary Care ServicesRetail Health Clinic
+
+

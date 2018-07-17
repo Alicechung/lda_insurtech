@@ -1,0 +1,25 @@
+Inertial Sense Partners With DataTribe To Revolutionize Autonomous Navigation
+
+06 Jul 2018
+
+Closes $2M Seed Round Of Funding To Bring Inertial Navigation Systems Technology To New Frontiers With New Micro-Navigation Solutions And 3D Motion Sensors
+Inertial Sense, creators of the world’s smallest, high-performance precision GPS-Inertial Navigation Systems, today announced that it has closed a $2 million round of seed funding led by DataTribe and supported by Atomic Ventures. Inertial Sense will use the funds to accelerate their market-leading position and advanced development of additional micro-navigation solutions and 3-D motion sensors.
+Located on Utah’s Silicon Slopes, Inertial Sense designs and manufactures precision GPS sensors that deliver fast, accurate, and reliable attitude, velocity, and position for autonomous vehicle applications. The company’s technology encompasses Inertial Navigation Systems, Attitude Heading Reference Systems, and Inertial Measurement Units.
+Walt Johnson
+“We provide engineers with a turn-key solution to help solve the complex problem of autonomous vehicle navigation, at a size, accuracy and price point that the market has never seen before,” said Walt Johnson, Founder and CTO, Inertial Sense. “Traditional GPS technology is no longer sufficient for today’s autonomous applications. We are bringing the smallest, low-cost precision GPS solution to the market, targeting unmanned aerial vehicles, robotics and other applications where there is a need for GPS augmentation.”
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+Inertial Sense modules are patent pending and are currently being sold worldwide at volume for a broad variety of applications including: 
+Autonomous Navigation: Drones, Robots, Automobiles
+Aerial Surveys: 3D Mapping, Photogrammetry, Orthomosaics
+Gimbal Stabilization and Antenna Pointing
+3D motion capture and Personnel Tracking
+Inertial Sense is the recipient of DataTribe’s inaugural DataTribe Challenge competition, announced in March 2018. “We instantly recognized Inertial Sense as a remarkably efficient approach to the problems associated with traditional GPS technology,” said Mike Janke, Co-founder and Investment Board Member, DataTribe. “By offering a higher degree of precision in a smaller size with lower power consumption, Inertial Sense is making it possible for GPS to work more effectively in more challenging environments and applications. And by bringing the cost down, they are also paving the way for a mass market navigation system to support consumer applications like wearables and other types of devices. We’re impressed with Inertial Sense’s early achievements and are eager to collaborate with their experienced management team to realize their vision.”
+Bob Ackerman
+“Inertial Sense fits the mold of over-the-horizon technology breakthroughs that we look for coming out of the military as it ventures into the commercial space,” said Bob Ackerman, Founder and Managing Director of AllegisCyber, a leading Silicon Valley VC firm. “They are at the forefront of micro-sensors and software for autonomous vehicles, robotics, transportation and drones. The explosive growth of IoT, requires micro-sensor-based instrumentation to measure, monitor and ensure accuracy. These guys are leading by a large margin.”
+Read More: Announcing AI Breakthrough’s Inaugural Award Winners Across Robotics, NLP, Intelligent Assistants
+Headquartered in the #SiliconSlopes of Provo, Utah, Inertial Sense specializes in the development and distribution of the world’s smallest precision GPS-Inertial Navigation Systems, Attitude Heading Reference Systems, and Inertial Measurement Units. These solutions are helping self-driving cars, robots and drones navigate in an autonomous world.Lead by a team of experts in unmanned aerial vehicles (UAVs), control theory, embedded systems, and electronic design, Inertial Sense are leading pioneers in Miniature Precision Inertial Navigation Technology.
+DataTribe is a cybersecurity and data science startup studio that invests and co-builds next generational commercial software. The firm draws upon experienced technology and entrepreneurial teams from the world’s most prestigious, high-stakes environments, including the international intelligence community and National Labs from US, Canada, UK and Australia. Headquartered in Fulton, MD with offices in San Francisco, CA.
+Atomic Ventures, Inc. (Atomic) is Utah’s premier “Venture-Builder”. Atomic Ventures partners with top engineers, ideates, and scales promising technology companies internationally. Current portfolio companies target applications of deep learning, blockchain, big data analytics, the industrial internet of things, and content management in Financial, Medical, Agriculture, Education, and Consumer spaces.
+Read More: MoCo Is World’s First To Combine Blockchain, AI, VR, And Video And Data Compression In One Platform
+
+

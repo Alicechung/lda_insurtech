@@ -1,0 +1,18 @@
+Data integrity, care coordination top ECRI safety concerns
+
+April 22, 2014
+
+By Jennifer Bresnick
+April 22, 2014 - A lack of data integrity and adequate health information exchange, along with poor care coordination, have topped the 2014 list of ECRI Patient Safety Concerns.  As hospitals and health organizations attempt to steer their health IT and analytics infrastructures to improve the quality of care and reduce adverse events, data quality issues like test result reporting errors, mislabeled specimens, and inadequate patient monitoring have become serious areas of focus that are ripe for improvement.
+“We’ve been collecting events since 2009, and with over 300,000 events, we’re at a point where it’s important to share where we’re seeing recurring themes,” says Karen P. Zimmer, MD, MPH, FAAP, medical director of ECRI Institute’s patient safety, risk, and quality group. “In a time of competing priorities and limited resources in healthcare, this list can help guide internal discussions on where to focus.”
+In 2013, EHRs were the most critical area of concern on ECRI’s hospital technology hazards list, and worries over data collection, integrity, and exchange continue to plague healthcare organizations a year later.  Fragmented clinical workflows, insufficient training and user support, and unclear methods for reporting errors or problems have all contributed to health information failures, the report says.
+“For example, the integrity of data in health IT systems can be compromised from any of the following: data entry errors, missing data or delayed data delivery, inappropriate use of default values, copying and pasting older information into a new report, use of both paper and electronic systems for patient care, and patient/data association errors (i.e., patient data from a medical device is mistakenly associated with another patient’s record),” the brief notes.  Testing systems in a simulated environment and establishing clear mechanisms for user feedback, along with bolstering training for heavy users, can help to mitigate these issues.
+Dig Deeper
+EHRs, Clinical Decision Support Top 2017 Patient Safety Hazard List
+Vendors Push Big Data Analytics, but Hospitals Focus on Safety, Security
+HHS: Patient Safety Efforts Save 125K Lives, $28B in Spending
+Health IT has become a critical part of the care coordination process, and yet workflow breakdowns continue to threaten patients who are shuffled between the hospital and their primary care provider without their information following them.  All providers involved in a patients care share responsibility to adequate data flow, says Lorraine Possanza, DPM, JD, MBE, patient safety, risk, and quality analyst at ECRI Institute. “It can’t just be up to the patients.  It’s not only the hospital’s responsibility.  It’s also on me as the provider to communicate with the patient’s other providers, so they know I’ve been involved in the patient’s care.”
+Providers need to leverage their technology infrastructures to ensure that patients understand their discharge instructions, seek follow-up care, and have access to the data they need when visiting other providers.  “The patient is overwhelmed by their disease process and by navigating the system,” Possanza adds. “Whether a discharge planner in a hospital, a nurse manager in a physicians’ office, or a care coordinator within an ACO, someone needs to help that person, especially an elderly patient, to remind them to make appointments, to take medications, and to help them know what to ask and expect at their next healthcare visit.”
+  Tagged Healthcare Business IntelligenceHealthcare QualityHospital QualityPatient CarePatient Safety
+
+

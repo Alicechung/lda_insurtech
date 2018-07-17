@@ -1,0 +1,19 @@
+WP Engine Uses Amazon Web Services To Bring Voice Technology To WordPress Websites
+
+14 Feb 2018
+
+Amazon Polly Plugin Leverages AWS’s Artificial Intelligence Services to Expand Voice Experiences for Users
+WP Engine, the leading WordPress digital experience platform, today announced its collaboration with Amazon Web Services (AWS) to launch the Amazon Polly plugin, which transforms text into lifelike speech. With the assistance of the Amazon Polly plugin, publishers can turn their written content into podcasts to reach consumers on the go.
+.@WPEngine Uses @AWSCloud To Bring Voice Technology To WordPress Websites
+Available in the WP Engine Solution Center, the Amazon Polly plugin is an open source integration for AWS’s text-to-speech functionality with WordPress, the most popular content management system which powers 29 percent of the web. The Amazon Polly plugin integrates effortlessly — enabling content creators to easily add text-to-speech capabilities to any written content. With millions of voice-driven devices being shipped every year, brands need to think about building new voice-driven experiences for users. Plus, with more voice-enabled searches, brands need to build audio content that works in emerging channels such as inline audio players and podcast mobile applications.
+The Amazon Polly plugin leverages AWS’s artificial intelligence (AI) services, bringing the power of AWS’s natural text-to-speech technology to content on WordPress. With Amazon Polly, publishers can create podcasts available on iTunes based on the site’s WordPress taxonomy including author and category, creating targeted streams to reach audiences interested in specific topics.
+Particularly as younger generations shift to accessing content and the web through voice commands, the need for technology to meet their increasing demands continues to rise. A national study commissioned by WP Engine and conducted by The Center for Generational Kinetics, found 70% of consumers (aged 14-59) believe that we will interact with the Internet by voice or movements rather than keyboard or mice within the five years.
+Comments on the news:
+Mary Ellen Dugan
+“Publishers, whether it’s a news site, blog or a brand that publishes content, have to meet audiences where they are — across devices, across media,” said Mary Ellen Dugan, Chief Marketing Officer at WP Engine. “The Amazon Polly plugin for WordPress, tested and optimized on the WP Engine Digital Experience Platform, is a tremendous opportunity for customers to capture their audience’s attention when it’s convenient for them to take a moment to consume content – waiting in line, on the train, or grabbing a bite.”
+Swami Sivasubramanian
+“Amazon Polly allows developers to convert text to lifelike speech, using the same technology that powers Amazon Alexa,” said Swami Sivasubramanian, Vice President of Machine Learning at Amazon Web Services, Inc. “With its natural, lifelike voices and a wide selection of languages, we are excited to have Amazon Polly be the voice for WordPress and provide an alternative way for customers to consume their WordPress content and meet the needs of a larger audience.”
+Johannes Boege
+“Our readers are digesting news and stories through their mobile and voice-driven devices more and more,” said Johannes Boege, Chief Product Officer at POLITICO in Europe. “This is a great opportunity for us along with our agency 10up to test the distribution of our content with voice technology. We are excited to use Amazon Polly to reach more people in new ways.”
+
+

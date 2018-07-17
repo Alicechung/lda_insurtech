@@ -1,0 +1,29 @@
+IT Outage: A Third of Business Leaders Remain in the Dark
+
+March 7, 2018
+
+Data shows that organisational leaders need to improve their understanding of IT downtime.
+
+ Understanding what the cost of IT downtime means for business is critical to securing the resources needed, to strengthen business resilience. This is according to Databarracks, which recently revealed that a third of organisations remain in the dark regarding how much an IT outage could cost their organisation.
+
+ The results were identified in Databarracks’ annual Data Health Check survey, which provides insight into the changing priorities and attitudes towards IT, from over 400 IT professionals.
+
+ From the data 46 per cent of those surveyed, experienced more than four hours of IT related downtime over the past 12 months. Critically, of those organisations able to quantify the cost of an IT outage to their business, 23 per cent said that they incurred costs ranging from £10,000 up to more than £1million, per hour. When participants were asked what challenges were preventing a better recovery speed, the most popular response (34 per cent) cited financial constraints as the biggest factor.
+
+ Commenting on these findings Peter Groucutt, managing director of Databarracks states:
+
+ “It’s clear that organisations and the decision-makers within them, need to have a better understanding regarding the impact these IT outages have on their business.
+
+ “IT downtime affects every organisation differently. In the event of an outage some businesses start feeling the financial impact immediately from a loss of sales, while others won’t notice a loss of revenue for the first hour or two, but can endure a much steeper curve the longer staff are unable to do their jobs. Increasingly, we are also seeing the cause of downtime being cyber-related. Cyber-attacks add an additional layer of complexity to the recovery with several steps that need to be completed before systems can be brought back online. In practice, this starts by identifying the root cause and then remediating, which might include removing malware as well as revoking access for any adversaries. Only then can you begin your recovery process, which adds downtime for your business and customers, which can carry severe cost implications.
+
+ “It’s a concern that 35 per cent of organisations are unware of what these financial implications are. We need to improve awareness and understanding, not just at the IT level, but board-level too.”
+
+ Groucutt continues: “Understanding what downtime costs your organisation is fundamental to making informed decisions on IT resilience. Our data shows that financial constraints are the biggest challenges to improving recovery speed. It will always be difficult to secure budget for IT resilience if you’re not able to assign real monetary values to specific areas impacted by an outage. Presenting a downtime cost immediately puts the cost of investment into context and will help senior leaders within an organisation understand where investment is needed.
+
+ “Firstly, it’s important to understand that there are several different costs that need to be considered when estimating the impact of an outage. The obvious ones are the lost revenue, staff costs and the associated costs needed for fixing an outage. These are tangible costs and are usually well known to a business. Importantly, a business must look beyond these to get a more holistic view of what impact an outage will have financially. ‘Hidden’ or intangible costs, such as damage to reputation, can often outweigh the more obvious immediate costs. Typically, these intangible costs are less easy to estimate and therefore excluded from calculations. This is wrong and they should be considered.
+
+ Groucutt concludes: “IT investment is critical to business operations not only in terms of delivery of services, but also safeguarding against threats. It is imperative that board-level representatives become aware of where these threats lie and what the cost to the business from any downtime experienced will be. From this the necessary resources needed to improve resilience can then be made available.”
+
+  
+
+

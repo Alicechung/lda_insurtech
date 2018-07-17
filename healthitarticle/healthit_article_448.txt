@@ -1,0 +1,38 @@
+Artificial Intelligence Could Take Over Surgical Jobs by 2053
+
+June 07, 2017
+
+By Jennifer Bresnick
+June 07, 2017 - Robots are already a familiar sight for surgeons in many operating rooms, but there is a good chance that artificial intelligence will eventually render its human colleagues obsolete. 
+In a survey of machine learning and AI experts, researchers from Oxford University and Yale predict that all industries, including healthcare, could become significantly more reliant on machine intelligence by the middle of the century – and that machines may be able to automate all human jobs in less than 120 years.
+“Advances in artificial intelligence will have massive social consequences,” the report’s authors stated.
+“To prepare for these challenges, accurate forecasting of transformative AI would be invaluable.”
+The team surveyed more than 350 machine learning and artificial intelligence experts attending two academic conferences in 2015 about their predictions for when AI is likely to be able to perform specific tasks better than humans.
+Overall, the respondents said that there was a 50 percent chance AI would outperform humans in a broad variety of tasks by 2045, including writing novels, performing surgery, working retail, and driving vehicles.
+READ MORE: Artificial Intelligence in Healthcare: Augmentation or Companionship?
+Respondents from Asian countries were significantly more optimistic about the timeline, expecting AI proficiency in just 30 years, while North American participants predicted that it will likely take at least three-quarters of a century.
+Predicted time to artificial intelligence matching human abilities for specific tasks
+Source: Oxford / Yale
+The debate may seem somewhat premature to a healthcare industry still struggling with how to push drug interaction alerts to users and making sure that the right patients are matched with the right files, but the experts believe that once scientists get the ball rolling, AI will grow exponentially more sophisticated in a short period of time.
+Sixty-seven percent of respondents said that the field of machine learning has accelerated markedly over the past few years, leading to an eventual “intelligence explosion” after AI hits the human performance equivalency tipping point.  Twenty percent believe that there will be sudden and massive global technological improvements just two years after reaching the threshold.
+However, despite Hollywood’s love affair with grim dystopian uprisings, few respondents to the survey believe that AI will precipitate an apocalyptic battle to save humanity from a dominant race of robot overlords. 
+Close to 50 percent of participants said that AI was likely to produce a net benefit for humans. Quite encouragingly, just five percent that an “extremely bad” outcome, such as global human extinction, was likely to occur. 
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+Nevertheless, humans should prioritize research efforts that focus on minimizing the risks of getting trapped in the Matrix, said 48 percent of the survey respondents.  Only 12 percent said that such research could or should be reduced.
+The survey may seem comfortably futuristic, but it does highlight several important points about the current machine learning environment.
+Perhaps most importantly, the report indicates that even leading experts are not yet ready to say that true artificial intelligence exists yet.  The notion that AI is ready and available for customer consumption has been an advantageous misconception for health IT developers offering products that are more accurately described as leveraging machine learning or predictive analytics.
+Participants in the Yale and Oxford survey believe that AI is still five to ten years away from mimicking human performance in mathematically-based tasks like playing poker or jobs requiring basic mechanical dexterity, such as folding clothing – let alone tackling the enormous cognitive complexity of correctly treating a rare disease without human guidance, verification, or intervention.
+Healthcare organizations considering purchasing such products or services should remain aware that few offerings will be able to match the unbridled hype currently sweeping through the marketplace, and should temper their expectations when deploying machine learning for clinical decision support or other applications into the care environment.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Overall, healthcare is likely to be a particularly tough nut for AI to crack due to the pervasively low levels of data integrity and uneven development of information technology across the industry. 
+At the moment, the majority of machine learning experiments are predicated on datasets that have been validated, curated, or checked for completeness and correctness by humans to some degree in order to ensure a level playing field for testing the accuracy and specificity of emerging tools.
+Even IBM Watson’s voracious appetite for consuming medical literature assumes that the content of the journal articles and clinical trial results can be trusted.
+Turning an AI algorithm loose on the electronic health record data of the average healthcare organization, with its shorthand clinical notes, workarounds, typos, and missing values, might produce very different results.
+The healthcare system is also heavily regulated in terms of patient privacy and liability for harm, which presents some interesting questions when computers are taking point on patient care.
+Surgery, which often comes with unforeseen complications that can quickly become life-threatening, is a particularly challenging conundrum for patient safety and liability experts.  It may be difficult to assign responsibility to – and collect malpractice payments from – an AI surgeon that causes a complication or fails to address one while the patient on the table. 
+At the moment, healthcare-specific stakeholders on the cutting edge of big data analytics and machine learning are more comfortable with viewing AI as an eventual companion to human clinicians instead of an imminent replacement.
+Vendors, developers, and researchers are still working on refining the basics of machine learning, natural language processing, pattern recognition, and other components of the AI ecosystem to take on the difficult challenges of clinical data.
+While fifty or one hundred years hence, the health IT landscape may look very different than the technological patchwork constraining the industry’s progress today, surgeons, diagnosticians, and other healthcare providers can probably be fairly confident that their skills and problem-solving prowess will not go completely out of fashion any time soon.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsMachine LearningMedical Research
+
+

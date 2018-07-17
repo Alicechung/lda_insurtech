@@ -1,0 +1,43 @@
+Fighting Fake News Content With AI, Sentiment Analysis Tech And Machine Learning
+
+03 Jul 2018
+
+To Fight Fakes News and Fake Reviews, Marketers Should Aim to Provide the Best Experience Possible Helps Drive Customer Loyalty, Which Prompts Customers to Generate Even More Reviews
+Customers and marketers are riddled with a common challenge — how to identify fake news and fake reviews online. According to a recent article by MIT Technology Review, MIT Media Lab researchers found out that fake news about all kinds of topics spread faster than those that are accurate. Especially, false political news!
+Recently, BBC investigation discovered fake five-star reviews are being bought and sold for leading platforms like Amazon and TrustPilot, the efficacy of “zero-tolerance policies” is more questionable than ever. Collin Holmes, CEO of online review management tech Chatmeter, recommends that businesses should start taking a stance against purchased reviews and ‘review-gating’ (when a company encourages/incentivizes positive reviews while burying negative).
+Collin Holmes, Founder and CEO at Chatmeter
+Follow Us
+How does the Fake News market survive in a highly open publisher marketplace?
+Fake news survives because it’s typically sensational so it drives clicks. But we really see this as fake content, not just news, it’s been around a long time. We are just suddenly aware of it because it has a name. The reality is that this is about content. If there is a high volume of fake content – it outweighs real content unless you increase the volume and make it a priority. The best way to combat this is through truth and honesty in your own content.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+Start sharing lots of valuable content about your brand –  in your social media posts, in consumer reviews and your responses.  Search Engines are looking for relevant content and consumers want to work with transparent brands. So get engaged and be diligent. Content should be truthful, open, relevant, and respond to stories that may create fake content.
+Read More: California Becomes First State To Strengthen Consumer Data Privacy Protections
+How big is the Fake review market? Does the B2B tech market also suffer from the malice?
+While there are plenty of headlines and even some lawsuits around fake reviews, they’re not as much of an epidemic as many marketers think. The majority (53%) of consumers rarely or never see a fake review. Before marketers take a sigh of relief, the research found that while fake reviews aren’t top of mind, real reviews are more important than ever.
+With 80.7% of today’s consumers using online reviews to influence their purchase decisions, a B2B tech brand’s online presence must be up to par with customer expectations in search, on social media, and within individual reviews.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+What are the challenges facing Online Marketing review platforms? How can Chatmeter help these platforms against fake review posting?
+It’s becoming harder than ever to win over today’s digital shopper. Often times, they’ve stopped listening to your marketing messages and instead depend on their peers for recommendations through word of mouth. It all boils down to the common trust that’s been established between shoppers, which in turn poses an opportunity for review platforms. A positive online reputation in local search sites and social platforms elevates a brand’s reputation.
+Providing the best experience possible helps drive customer loyalty, which prompts customers to generate even more reviews. In order to compensate for certain fake reviews, Chatmeter launched Pulse, a sentiment analysis engine that helps businesses understand first-hand what their customers are experiencing so they can make actionable decisions on where and how to improve.
+By becoming familiar with the needs and wants of your customers, loyalty and trust in the brand itself will naturally increase.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+How can review sites go beyond zero tolerance of fake reviews & start taking a stance against purchased reviews/ ‘review-gating’?
+Simply having a zero tolerance of fake reviews is not enough to trump the presence of fake reviews.  It is the industry’s responsibility to go beyond zero tolerance and take a stance against purchased reviews and ‘review-gating’, which is when a company encourages or incentivizes positive reviews while burying negative ones.
+As an industry, we must stress the importance of review sites, not as a way to simply identifying fake reviews, but also to ensure they do not impact the quality of local search results and rankings.
+What measures can marketing teams take to improve beyond zero tolerance effort?
+Marketing teams should begin to utilize new technologies to go beyond the zero tolerance effort, including the implementation of artificial intelligence and machine learning. With the increasing accuracy of AI, sentiment analysis tech, and machine learning, these technologies can join in with tech leaders in acting against a fake review, through capturing these reviews more quickly and accurately than a human could.
+We anticipate the end of fake reviews to be closer than ever, with the joint forces of these new technologies and marketing teams acting together to go beyond a zero tolerance effort.
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+Tell us about the impact of AI, sentiment analysis tech & machine learning on fake content.
+As mentioned, the impact of AI, sentiment analysis tech, and machine learning have a crucial impact on capturing fake content. Pulse is Chatmeter’s AI tool that allows us to speak to the role AI can play in identifying fake content automatically. With this tool, as well as others in the industry, artificial intelligence is utilized in capturing concerning fake reviews more proactively so that marketers and brands can rest assured that they have insight into everything that is being said, whether fake or true.
+How can tech leaders and review platforms work together against Fake News malice?
+Tech leaders in the industry have a responsibility to maintain the reputation of their company’s brand, and utilizing a review platform, such as Google Reviews, Yelp, or Facebook, is essential in trumping fake news. A surface level understanding of these platforms is unfortunately not enough when tackling fake reviews; tech players must have an in-depth knowledge of review platforms and an understanding of their algorithms in order to tackle fake content properly. Partnering with platforms to monitor, identify and flag malicious or fake content can provide brands with the visibility and actionable insight to resolve the threats being made to their brand’s reputation.
+ Read More: The Three Biggest Industries Who Can Utilize A Language Translation Device
+How do you work with Data Science and AI/ML to improve Content Advertising campaigns?
+Chatmeter AI technology helps bring awareness of consumer reviews (i.e. Yelp, Google Reviews, etc.) and action to brands looking to improve marketing campaigns.
+For example, Chatmeter provides insights down to the location level. Most social tools provide sentiment analysis across the entire brand. Chatmeter’s ability to geotag content locally, allows operators to know what specific issues are occurring at each location/region, without reading hundreds of reviews. Also, these AI technologies provide improved sentiment accuracy. Typical sentiment accuracy is around 70-80%, however, Chatmeter’s updated technology able to detect sentiment accuracy is scoring between 80-90% accuracy.
+We also apply machine learning from ongoing data collected to improve accuracy over time and the engine itself gets smarter. Another benefit is seen through enhanced industry accuracy. Most sentiment algorithms are either open source or built for social across mentions on all brands and all industries. Chatmeter’s built in-house technology is optimized based on each industry we serve.
+By doing this, we have greater accuracy for word variations based on industries. For example, “cold” for Hotels would be negative, like a cold shower, but “cold” for Restaurants would be good, such as a “cold” beer.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+
+

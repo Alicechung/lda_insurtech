@@ -1,0 +1,115 @@
+How can providers manage and use unsolicited patient data?
+
+November 14, 2013
+
+By Jennifer Bresnick
+November 14, 2013 - There’s been plenty of talk about how great it is that patients are getting involved in their care, and how wonderful it is to compile a complete picture of a patient’s health by gathering and accessing multiple streams of data.  But it’s important to remember that patients and providers often have a different idea of what’s important, and patients may often send documents from specialists, emergency rooms, home health monitors, mobile apps, or previous physicians without thinking about what the influx of that data is doing to organization and management of their EHR data.  As data increasingly flows from a variety of non-traditional sources, how can health information managers ensure that a patient’s information is received, stored, and presented in a way that providers can use?
+“In its most simple form, unrequested information is data received by a healthcare provider who has taken no active steps to ask for or collect that information. This unsolicited data can arrive in a variety of formats from paper to electronic media,” explains a recent issue brief developed by a team of HIM specialists at AHIMA.  As payers and providers alike place more emphasis on the continuum of care, primary care providers may start seeing an increase in cross-provider communications, which can be good and bad at the same time.
+HIM staff should be aware of the workflow challenges that these new data sources will bring, both to the administrative staff receiving faxes, envelopes, and CDs, and for the clinical staff charged with reviewing the materials for pertinent data.  While paper charts allowed staff to tuck a piece of paper under the right tab and forget about it, EHRs demand an additional step: turning paper correspondence into electronic form – and extracting the right data to add to a patient’s chart or use for analytics, quality measures, and other tracking projects.
+Legacy Health, a network of hospitals and clinics that recently achieved Stage 7 on the HIMSS Analytics EMRAM scale, funnels all its paper patient documents, unsolicited and otherwise, through a central office that scans each piece of data and assigns it to the appropriate EHR chart before a physician ever sees it.  This process allows the HIM staff to ensure the quality of data provided by other sources while making it simple for physicians to access new data when needed.
+AMA, MSMS Partnership Promotes Diabetes Management in Michigan
+4 Basics to Know about the Role of FHIR in Interoperability
+Low-income patients much less satisfied with care quality
+Coding, CDI Outsourcing Improve Case Mix, Healthcare Data Integrity
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+Online predictive analytics simulator tackles ED bottlenecks
+Brown Gets $1.1M to Study Medicare Post-Discharge Care Quality
+DOJ Leverages Big Data Analytics to Combat Opioid Fraud, Abuse
+IBM healthcare analytics to combat malaria, dengue fever
+Expect Population Health, Big Data Analytics at HIMSS15
+Mayo Clinic, VC investors bring analytics to the bedside
+AMA to Connect Physicians with Health IT, Big Data Companies
+Don’t Publish Stage 3 Meaningful Use Rule, Urge AMA and Others
+WEDI: Show your progress on data standards, patient engagement
+Blockchain Offers to Solve Pain Points in Healthcare Data Management
+Using Machine Learning to Target Behavioral Health Interventions
+How the Search for Smart Data Drives Healthcare IT Investment
+FHIR App Provides Precision Medicine Support at Point of Care
+EHRs, health IT can be leveraged to cut health disparities
+Washington lawmakers want hospital price transparency
+Can Big Data Solve the Health Insurance Transparency Problem?
+EHR Timestamp Data Can Help Monitor, Improve Clinical Workflows
+HHS, OptumLabs Partner for Healthcare Big Data Analytics
+Quick facts: How healthcare analytics can help your patients
+Medication Non-Adherence Brings Millions in Avoidable Costs
+How Data-Driven Care Management Improves Population Health in NC
+Care Coordination, Quality Projects Win HHS Innovation Awards
+IBM pours $1 billion into big data with Watson supercomputer
+Data registry flags overlapping payers for revenue management
+Epic Systems EHR Brings Care Coordination to Walgreens Retail Clinics
+Patient-Centered Medical Home Complements Healthcare Reform
+PCMH model, EHRs provide better care for patients, study says
+HIMSS Tool Offers New Healthcare Business Intelligence Insights
+CMS Reform Model Fosters Care Coordination, Population Health
+mHealth Messages Improve Diabetes Chronic Disease Management
+HIE, standardization are critical for healthcare analytics: Q&A
+36% of Patients with Diabetes are Undiagnosed, Unmanaged
+Population Health Cuts Native American Kidney Disease by 54%
+Machine Learning Can Flag Adverse Drug Events in Unstructured Data
+EHR Chronic Disease Management Tool Boosts Prescriptions by 40%
+EHR Clinical Decision Support Produces Better Patient Care
+FDA, Europe Team up for Precision Medicine, Patient Engagement
+IBM Patents Machine Learning Model for Pharmaceutical Discovery
+ICD-10 will be the foundation of “exciting” data analytics
+mHealth supports diabetes, heart health in rural populations
+NY Public, Private HIEs Connect for Population Health Management
+Grants spur research into genomics, big data, applied analytics
+“Virtual Clipboard” to Streamline Patient Intake Data Workflow
+Patient-Centered Medical Home May Improve Safety Net Care
+Mental Healthcare Big Data Warehouse Illuminates Care Trends
+ONC’s 10-year plan: Big data, analytics, population health
+North, South Carolina Partner for Chronic Disease Management
+New CMS Accountable Care Organizations Raise Risk Sharing
+CMS Urges Providers to Tackle Minority Health Disparities
+Six Foundational Steps for Better Population Health Management
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Flow of data through HIEs is critical for analytics success
+Global big data market to grow at 32.14% CAGR to 2018
+Will Risk-Based Population Health Management Take Off in 2017?
+DeSalvo: Pressure, Optimism over EHR Data Interoperability
+HHS Awards $36.3M to Providers for Population Health, EHR Use
+Global Precision Medicine Study Explores Genetics of Diabetes
+“Bundled” diabetes care produces better outcomes quickly
+What Are the Clinical Analytics Lessons from EHR Adoption Data?
+TX Health IT Leader Wins 2015 HIMSS Nursing Informatics Award
+Hospital quality experts see fewer readmissions as top goal
+PCDC Celebrates Aiding Its 200th Patient-Centered Medical Home
+AHIMA: Focus on Healthcare Big Data Analytics, Informatics in 2018
+EHR Adoption, Health IT Use Improve Patient Safety, ONC Says
+Cultivating a Big Data Mindset for Coders, Clinical Documentation
+Finalized MACRA Quality Payment Program Requires Big Data Push
+Care Coordination Market Set to Grow at 26% CAGR until 2020
+Will Meaningful Use Disgruntlement Delay Precision Medicine?
+$335K Grant Supports Chronic Disease Management for Lupus
+DOD Meets Electronic Health Record Interoperability Goal
+Integrated Care Delivery May Bring Better Outcomes, Lower Costs
+Physician Portal Aids Data Exchange for Stand-Alone Hospital
+Will Personalized Medicine Hit Its Stride Within Two Years?
+Study: Nonwhites have 33% higher post-surgical mortality rate
+65% of Patients Unlikely to Volunteer for Clinical Research
+Patient-Reported Outcomes Use Relies on Health IT Usability
+Web-Based Health Risk Assessments Accurately Flag Depression
+Poor Medication Reconciliation Puts 60% of Opioid Users at Risk
+Healthcare sees big potential for big data, analytics in 2014
+New Healthcare Analytics Model May Improve Patient Satisfaction
+Academic Medical Orgs Leap into Precision Medicine Initiative
+Study: Pancreatitis patients should be screened for cancer
+HIM, Revenue Cycle Analytics to Overtake EHR Purchasing
+Partners, Samsung Team Up for Chronic Disease Management
+Market Growth Ahead for Healthcare Big Data, Internet of Things
+EHR Interoperability, HIE Criteria Prompt Stage 3 MU Concerns
+Study: Socioeconomics, communities play role in cardiac health
+Predictive Big Data Analytics Identify High-Risk ED Patients
+Precision Medicine, Big Data Partnerships Will Enhance Treatment
+25% of Physicians Won’t Be Ready for ICD-10 Implementation
+Do mammogram screenings do more harm than good for patients?
+HINTS surveys dig into population health literacy for smokers
+Just 8.3% of Safety Net Patients Receive Hepatitis C Screenings
+Why are hospitals data rich but lacking in data analytics?
+The AHIMA brief recommends that healthcare organizations establish standard protocols for what information should be added to the EHR. “Some documents have succinct summaries of relevant information that supports the longitudinal record and clinical decisions. For example, if the unsolicited records contain a discharge summary, that document might be retained. Conversely, months of inpatient progress notes might not hold the same long-term clinical value. As a rule of thumb, always include any record that is used to make a decision about the diagnosis or treatment of the patient.”
+And always review the data thoroughly, even if it seems irrelevant or takes extra time, AHIMA urges.  “Legal ramifications may occur if inadequate review of received unsolicited health information leads to ill-informed medical decisions or missed diagnoses,” the report warns. “Providers that accept unsolicited information without completing a review may be held responsible for knowing the information is housed in their legal health record.”
+While unasked for data can be cumbersome to sort through, it’s a necessary evil for a variety of reasons.  Not only can multiple sources of information help present a richer picture of an individual patient’s health, it can ease care transitions and give providers and analytics teams a better idea of local utilization of services to aid in the appropriate allocation of resources.  As part of the ongoing effort to retool healthcare organizations to embrace patient data as a valuable asset, HIM professionals should work to establish protocols to accept, review, and leverage all the data resources available, whether the information is expected or not.
+  Tagged Clinical DataData StorageEHR Patient DataEHR UseHealth Information ManagementHealthcare Data Management
+
+

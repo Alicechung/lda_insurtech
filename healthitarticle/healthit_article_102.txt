@@ -1,0 +1,30 @@
+Patient Matching Issues Stem from Poor Data Standardization
+
+April 24, 2018
+
+By Jessica Kent
+April 24, 2018 - Poor data standardization can result in incomplete and inaccurate data collection, patient matching issues, and slower organizational workflows, according to a study published in AHIMA’s Perspectives in Health Information Management.
+In order for healthcare organizations to deliver efficient, high-quality care, they must have access to accurate and up-to-date patient data.
+The master patient index (MPI) plays a major role in providing organizations with a complete view of a patient’s medical history. MPIs contain both demographic data and clinical information to help providers better understand and identify individual patients across an organization.
+Dig Deeper
+Patient Matching Issues Increase Costs, Threaten Patient Safety
+Data Integrity Strategies for Patient Matching, Identification
+Data Governance Can Help Improve Patient Matching Issues
+To uncover the key challenges associated with MPIs in healthcare delivery, researchers conducted interviews with health information management (HIM) professionals at an urban outpatient healthcare facility.
+Eighty percent of HIM professionals reported that data standardization issues result in inaccurate and incomplete MPI data.  
+Participants said that their organization lacked standards for data collection, which poses a problem when demographic information changes. HIM professionals noted that patients at the facility often change their demographic information, and that the current data collection method did not address this issue.
+Incomplete or incorrect demographic data can be detrimental to patient matching and identification, with organizations failing to recognize existing patient records or failing to update their records with accurate information.
+HIM professionals also said that MPI records did not have enough matching data points. Some key identifying fields in the MPI, such as the social security number field, have been set to default values or simply don’t contain the patient’s information.
+This causes patient matching to occur with limited data, which creates the risk of providers associating two different patients with the same record.
+Eighty percent of interviewees reported that these mistakes were only discovered when providers were performing treatment.
+A high percentage of participants (80 percent) said that these challenges have slowed their workflows.
+These results align with past research on patient matching and data standardization issues. A 2016 AHIMA survey of HIM experts found that more than half routinely face problems related to patient matching and record duplication. Seventy-three percent of these experts reported conducting reviews of duplicate patient records at a minimum of once per week.
+To alleviate these issues, and to increase data accuracy and workflow productivity, clinic managers and the HIM director of the facility involved in the latest survey developed a strategic plan that would improve MPI processes.
+The plan stated that the organization would focus on improving the collection of data, standardize the approaches to patient identification across all points of registration, and encourage patients and families to actively participate in the identification and data integrity processes.
+The researchers point out that because this study looked exclusively at a facility that primarily serves adults in an outpatient setting, it may not be representative of other settings.
+Still, the team stated that the results show a persistent need to standardize data collection and entry to ensure successful patient matching and identification.
+“Overall, this study demonstrates that duplicate patient record discrepancies are often due to a lack of data standardization within the organization,” the group said.
+“Clinical managers need to work together to reengineer and standardize the MPI record process by developing an extensive, organization-wide MPI record cleaning project, focusing especially on areas in which duplicate patient record discrepancies are often due to a blank entry or a default entry in one of the key identifying fields.”
+Tagged Clinical workflowsData IntegrityEHR Patient DataHealthcare Data StandardsPatient Matching
+
+

@@ -1,0 +1,32 @@
+Medication Nonadherence Challenges 70% of Statin Patients
+
+March 14, 2016
+
+By Jennifer Bresnick
+March 14, 2016 - Statins are one of the most common therapies prescribed for managing high cholesterol in patients, and when used properly, they can be a very effective way to reduce the risk of adverse cardiac events for high-risk individuals. 
+However, prescriptions only work when patients take them appropriately – and an average of seventy percent of statin users fail to do so, according to an article published in the American Journal of Managed Care.
+Medication nonadherence is one of the most persistent and expensive failure points in chronic disease management, writes a coalition of researchers from Kaiser Permanente, Emory University, Mount Sinai School of Medicine, the University of Toronto, and the University of Alabama.
+While the use of statins to control low-density lipoprotein (LDL) cholesterol has increased markedly over the past two decades, “substantial treatment gaps” caused by nonadherence remain, which may have significant effects on prospective population health management programs and healthcare spending.
+In order to examine the true impact of medication nonadherence on patients in need of improved LCD cholesterol control, the researchers utilized electronic health records data from the Kaiser Permanente Georgia healthcare system. 
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+The investigators divided the cohort into three categories of medication adherence based on the proportion of days covered by recommended statin use. 
+High adherence patients took their medications as prescribed more than 80 percent of the time, while intermediate patients used their prescriptions properly between 50 percent and 79 percent of the time.  Low adherence patients were less than 50 percent compliant with their regimens.
+The rates of medication adherence for the patients enrolled in the study were 41.3 percent for the highest group, 23.2 percent for the intermediate patients, and 35.6 percent for the lowest adherence patients.  This pattern may indicate that a high number of patients are not actively ignoring their prescriptions, but may simply struggle to remain compliant with their therapies. 
+Female patients and those of African American heritage were more likely to experience medication nonadherence, the study found.  Other characteristics that predicted better adherence to statin treatments included high incomes, a history of heart disease, a regimen that included at least ten different medication, and a record of a follow-up visit with a cardiologist.
+However, even patients with close-to-optimal medication adherence were not guaranteed to see clinical improvements.  More than 58 percent of patients participating in the study failed to hit the 30 percent LDL cholesterol reduction benchmark.
+READ MORE: SC Online Population Health Dashboard Reveals Community Disparities
+Using a 30 percent in LDL cholesterol reduction as a baseline for success, the researchers found a clear and distinct correlation between medication nonadherence and a lack of improvement in cholesterol levels.
+Forty-two percent of the high adherence patients did not achieve the 30 percent reduction goal, while 54.7 percent of intermediate adherence participants and 79.7 percent of low compliance patients also failed to see significant cholesterol improvements.
+At the end of the follow-up period, which lasted a median of 213 days, 44.7 percent of patients had uncontrolled LDL cholesterol levels equal to or greater than 100 mg/dL. 
+Two-thirds of low adherence patients ended up with uncontrolled LDL levels, compared to just 45.3 percent of intermediate patients and 25.7 percent of high adherence participants.
+“After multivariable adjustment, and compared with high adherence, intermediate and low statin adherence were associated with a risk ratio for uncontrolled LDL-C of 1.64 and 2.44 respectively,” the study adds.
+READ MORE: Research Collaboration to Use Big Data for Diabetes Prevention
+The study suggests that nonadherence may be due to a high number of factors involving both the patient and the healthcare system as a whole, including the possibility of intolerable side effects, a lack of social or community support that may hinder individual chronic disease management, and poor patient-provider communication strategies.
+While more frequent contact with providers, including cardiologists, may be related to improved adherence, the researchers point out that the study was “not able to discern whether cardiologists are more active in monitoring and encouraging statin adherence or whether patients in this health system who see cardiologists are more motivated to be adherent.”
+Still, the results may indicate that providers have a significant opportunity to improve their proactive population health management strategies.
+Unrelated research has shown that approximately seventy percent of medication nonadherence is due to patient behaviors and individual challenges, and that simple changes to the way providers and patients interact may be able to ameliorate the problem.
+A separate Kaiser Permanente study found that home delivery of medications could reduce nonadherence by ensuring that patients have steady access to their prescriptions.  Patients who received automated delivery of statins exhibited an adherence rate of 88 percent, compared to just 56.4 percent of patients who had to take additional steps to acquire their medications.
+Big data analytics pilots have also shown promise for the management of patients at high risk of medication nonadherence.  Matching aggregated pharmacy claims data with clinical information from EHRs helped a team from Thomas Jefferson University and Christiana Care to identify hypertension patients with low adherence rates, allowing providers to reach out offer aid to improve adherence rates.
+Tagged Chronic Disease ManagementClinical AnalyticsMedication adherencePopulation Health ManagementQuality Of Care
+
+

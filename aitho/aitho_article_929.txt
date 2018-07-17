@@ -1,0 +1,13 @@
+BUFFERZONE And Lenovo Offer Customers BUFFERZONE’s Virtual Container Security Solution
+
+10 Apr 2018
+
+BUFFERZONE to provide network separation capabilities through virtual container isolation, addressing some of the most vulnerable attack vectors – web browsers, external storage devices and email attachments
+BUFFERZONE, a provider of next-generation endpoint security solutions which protect organizations from advanced threats such as ransomware, zero-days and phishing scams, announced today it has signed a reseller agreement with Lenovo to provide its patented virtual container security solution.
+Through this partnership, Lenovo will resell BUFFERZONE’s solutions to its customers, as well as represent the product in marketing activities at relevant industry events. Lenovo has thousands of global customers across various industries, however, the initial phase of the agreement will be focused on North America, targeting customers with at least 3,000-5,000 endpoints.
+Israel Levy
+BUFFERZONE protects organizations from a wide range of threats with patented containment, bridging and intelligence technologies. Instead of blocking these threats, BUFFERZONE isolates potentially malicious content from web browsers, email and removable storage into a virtual container that keeps the application separate from the real memory, registry, files and network resources of the computer. BUFFERZONE maximizes user productivity with seamless, unrestricted access to information, while empowering IT with a simple, lightweight and cost-effective solution for thousands of endpoints both inside and outside the corporate network.
+“We are thrilled to collaborate with an industry leader like Lenovo,” said Israel Levy, CEO of BUFFERZONE. “With cyber-attacks at an all-time high, this partnership highlights the value of a prevention-based security solution in protecting the largest and most vulnerable attack surface in any organization-the endpoints.”
+“As cyber threats become increasingly targeted and sophisticated, ensuring proper network and endpoint protection is more crucial than ever,” said Joe Pennisi, Distinguished Engineer and Head of Product and Software Security for Lenovo’s PC & Smart Devices organization. “Lenovo is excited to partner with a leading cyber security company to deliver pioneering containment solutions. BUFFERZONE enables enterprise users to safely access content from web browsers, email, and removable media with minimal impact to productivity. Including BUFFERZONE as part of our device and online security solutions promises to enable users to interact securely with all sources of information.”
+
+

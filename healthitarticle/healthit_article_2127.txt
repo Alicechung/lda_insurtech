@@ -1,0 +1,18 @@
+Analytic risk score predicts time to Alzheimer’s death
+
+January 07, 2014
+
+By Jennifer Bresnick
+January 07, 2014 - Researchers from Columbia University have devised an algorithm that accurately predicts how fast a patient’s Alzheimer’s disease will progress form onset until death.  Using information collected from a single clinical visit, the Longitudinal Grade of Membership (L-GoM) model incorporates sixteen lifestyle and health variables to outline when a patient might need to enter a long-term care facility and when the patient is expected to need increasingly intensive personal care, such as help with eating and bathing.
+“The benefit of the L-GoM model is that it takes into account the complexity of Alzheimer’s disease. Patients don’t typically fall neatly into mild, moderate, or severe disease categories. For example, a patient may be able to live independently yet have hallucinations or behavioral outbursts,” said senior study author Dr. Yaakov Stern, Professor of Neuropsychology and Director of the Cognitive Neuroscience Division at Columbia University Medical Center. “Our method is flexible enough to handle missing data. Not all 16 variables are needed for accurate predictions—just as many as are available.”
+The variables include the ability to participate in everyday activities, mental and motor skill acuity, and presence of neurological symptoms like tremors and rigidity.  The study followed 252 Alzheimer’s patients twice a year for a decade before publishing initial results in 2010.  A second stage of the study predicted the outcomes of an entire cohort of more than 200 patients based on the L-GoM score of a single person.
+“Until now, some methods of predicting the course of Alzheimer’s have required data not obtained in routine clinical practice, such as specific neuropsychological or other measurements, and have been relatively inaccurate. This method is more practical for routine use,” said Nikolaos Scarmeas, MD, a study co-author and associate professor of neurology, in the Taub Institute and the Sergievsky Center. “It may become a valuable tool for both physicians and patients’ families.”
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+Research Collaboration to Use Big Data for Diabetes Prevention
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+“Predicting Alzheimer’s progression has been a challenge because the disease varies significantly from one person to another—two Alzheimer’s patients may both appear to have mild forms of the disease, yet one may progress rapidly, while the other progresses much more slowly,” Stern added.  “Our method enables clinicians to predict the disease path with great specificity.”
+The researchers are currently working on a computer program, possibly available within the next two years, which will allow clinicians to plug in variables for their individual patients and receive a report.  While the enormous economic burden of caring for Alzheimer’s patients may be reduced by such accurate read-outs, ethical concerns may arise when receiving such information for dementia patients who may no longer have the mental capacity to agree to learning about their own death date.
+Tagged Applied AnalyticsChronic Disease ManagementClinical AnalyticsMedical ResearchPopulation Health
+
+

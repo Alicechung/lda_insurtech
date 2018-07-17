@@ -1,0 +1,33 @@
+Marsh and IBM to streamline proof of insurance with blockchain tech
+
+25th April 2018 - Author: Matt Sheehan
+
+Insurance broker Marsh has announced a collaborative partnership with IBM, ACORD, and ISN, which will leverage blockchain technology to provide commercial solutions for proof of insurance.
+
+The companies believe blockchain technology will streamline the certificate of insurance process, which is currently manual, and allow clients to more easily hire contractors and transfer risk while increasing coverage certainty.
+
+Marsh will develop the solutions in conjunction with IBM, using the open source Hyperledger Fabric technology and the IBM Blockchain platform.
+
+As a distributed ledger technology, blockchain can share an immutable record of transactions across large networks of partners and allow permissioned parties to access reliable data in real-time.
+
+Sastry Durvasula, Chief Digital Officer and Chief Data & Analytics Officer at Marsh, said: “Marsh sees great opportunity in leveraging blockchain technology to better serve our clients by maximizing efficiency and creating new opportunities in the insurance value chain.
+
+“We believe strategic engagements such as this one with IBM, ACORD, and ISN will help accelerate the adoption of further blockchain applications benefiting our clients across industries.”
+
+Sandip Patel, General Manager for the Insurance Industry at IBM, also commented: “Vastly simplifying the process for providing proof of insurance is a key enabler of business.
+
+“IBM is committed to connecting emerging blockchain networks to facilitate the next generation economy. This is an ideal example of how blockchain can be used on a much broader scale to drive real business results.”
+
+Marsh asserts that because proof of insurance is such a key business requirement across so many industries, its blockchain solution may in the future be extended to provide verification across a ‘network of networks’.
+
+ISN, a provider of contractor and supplier information management, will be the first Marsh client to pilot the solution, and will offer the developers customer feedback.
+
+Additionally, ACORD (Association for Cooperative Operations Research and Development), the global re/insurance standards-setting body, will also provide input in the development process.
+
+Brett Parker, Technical Insurance Lead at ISN, said: “The insurance industry has been dependent on paper certificates of insurance, manually populated by an insurance agent. By digitizing the policy information, we can streamline the process saving our customers time to focus on their core competencies.”
+
+Bill Pieroni, President and Chief Executive Officer (CEO) of ACORD, added: “This blockchain solution is key to evolving standards, enhancing data leverage, and enabling state-of-the-market technology to better integrate ACORD members and foster innovation.”
+
+Currently in pilot, Marsh’s new blockchain network is expected to go into production later this year.
+
+

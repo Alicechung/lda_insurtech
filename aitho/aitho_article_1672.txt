@@ -1,0 +1,12 @@
+Loom Systems Simplifies GDPR Compliance With AI-powered Event Management Platform
+
+19 Jan 2018
+
+Loom Eliminates Tedious Manual Work Of Locating Data Files Deemed Problematic According To Newly Created GDPR Regulations
+Loom Systems, the leading end-to-end AIOps solution for IT issues, announced its newest offering, a state of the art AIOps platform and virtual IT data analyst that helps users maintain GDPR compliance with just a click of a button. Designed with data protection and privacy in mind, Loom’s platform analyzes logs and unstructured machine data for immediate visibility into IT environments, highlighting and anonymizing sensitive log data to ensure companies can more easily become and remain GDPR compliant.
+One of the foundations of GDPR compliance, which has been proposed by the EU to reinforce data protection for anyone in the EU, focusing on the export of personal data outside the EU, is the ability to detect privacy protected data. As such, Loom’s AIOps offering can search a company’s files, determine which logs contain personal information, and label them as GDPR sensitive. This process eliminates the tedious manual work required to find logs that put companies at risk. Additionally, any personal information can be ‘anonymized,’ removing the identifiable data in order to comply with regulations. Loom also enables organizations to delete any personal data once it’s no longer needed for its original purpose, so they remain compliant with the new guidelines.
+Gabby Menachem
+“A centralized logging platform is essential to getting machine data compliance with the EU’s General Data Protection Regulation, which will start being enforced this coming May,” said Gabby Menachem, CEO of Loom Systems. “Many companies are going through significant changes as a result of the new regulations, and the efficiency and speed that our AI-powered platform offers can significantly help streamline the entire process if companies want to ensure compliance.”
+Loom Systems is the leading AI-based log analysis company, providing an end-to-end log monitoring solution. Loom’s coherent solution enhances operational excellence, enabling any organization to succeed in the digital era. Loom Systems has been named Gartner’s “Cool Vendor for 2017” in Performance Analysis and has recently raised $6m from leading companies: JVP, Meron Capital and 31Ventures Global Innovation Fund.
+
+

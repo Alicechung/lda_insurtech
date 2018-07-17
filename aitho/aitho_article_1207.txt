@@ -1,0 +1,13 @@
+PTC Introduces New Augmented Reality Capabilities And Spatial Tracking With Creo AR Design Share
+
+14 Mar 2018
+
+Easy-to-Use Augmented Reality Solution Simplifies Collaboration Throughout the Engineering and Product Design Process
+PTC announced the release of the Creo® AR Design Share solution, which further expands the ability of product designers and engineers to use augmented reality (AR) in product design. AR is an essential technology for product designers, allowing them to share designs instantly, experience their product at scale, and better collaborate with colleagues anywhere in the world.
+Product designers and engineers can leverage augmented reality (AR) in product design with new Creo AR Design Share
+Creo is the only CAD software on the market with easy-to-use AR capabilities integrated into the software. Now with Creo AR Design Share, powered by the ThingWorx Studio™ solution, users will be able to create and share experiences easily.
+Mike Campbell
+“Creo AR Design Share takes a complex technology and makes it easy-to-use and accessible in a way that enables companies to fundamentally change the way they design and develop their products,” said Mike Campbell, EVP, ThingWorx Platform, PTC. “With AR, designs are brought to life in full-scale and in real-world context, giving a perspective that is normally lost on a 2D screen. These AR capabilities can ultimately save companies time, money, and effort.”
+Creo AR Design Share gives users full control over authoring and accessibility for all AR experiences. Spatial tracking, powered by the Vuforia Engine, makes it even easier to share experiences with a simple link and the free ThingWorx View™ App. The extended AR capabilities in Creo enable companies to reduce time-to-market and product development cost, increase quality and innovation, and protect intellectual property.
+
+

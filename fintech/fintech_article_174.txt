@@ -1,0 +1,35 @@
+“Fake data” will make banks vulnerable, according to Accenture
+
+May 10, 2018
+
+A new report from Accenture (NYSE: ACN) has found that many banks have not invested in the capabilities to verify the validity and accuracy of their data.
+
+ According to the report, Banking Technology Vision 2018, banks have always held a large volume of confidential data and are increasingly adding data from external, unstructured sources. However, while more than nine in 10 (94 percent) of the bankers surveyed said they are confident in the integrity of the sources of their data, the report found that half of the bankers aren’t doing enough to validate and ensure data quality: 11 percent trust their data is reliable, but don’t validate it; 16 percent try to validate their data, but aren’t sure of the quality; and 24 percent validate the data, but recognise they should do a lot more to ensure the quality.
+
+ In addition, while five in six bankers (84 percent) said they increasingly use data to drive critical and automated decision-making, more than three-quarters (78 percent) of those surveyed believe that these automated systems create new risks, such as fake data, external data manipulation and inherent bias.
+
+ “Inaccurate, unverified data will make banks vulnerable to false business insights that drive bad decisions,” said Alan McIntyre, senior managing director and head of Accenture’s banking practice. “Banks can address this vulnerability by verifying the history of data from its origin onward — understanding the context of the data and how it is being used — and by securing and maintaining the data. Given that four in five bankers that we surveyed said they are basing their most critical systems and strategies on data, it’s critical that the data can be verified and validated.”
+
+ The Accenture Banking Technology Vision 2018 report draws on the analysis of an advisory board of more than two dozen individuals, interviews with technology luminaries and industry experts, and results of a survey of nearly 800 bankers. This year’s report, with the theme “Building the Future-Ready Bank,” showcases five IT trends — including data veracity — that could generate the next wave of industry disruption for banks and how technological change will rewrite the rules of banking over the next decade.
+
+ Artificial intelligence (AI) — a big theme in last year’s report — continues to be a top trend for 2018. Nearly four in give bankers (79 percent) surveyed for this year’s report believe that AI will work alongside humans as collaborators and trusted advisors within the next two years. However, bankers are concerned about how decisions will be made by AI as the technology advances and if those decisions will adhere to regulatory and ethical standards. The report’s “Citizen AI” trend focuses on the need for humans to ensure that machines are well-trained, make ethical decisions, and can evolve in ways that are consistent with the bank’s brand.
+
+ “As AI becomes more visible within banks — as both a co-worker to employees and a customer-facing representative — there will be more scrutiny placed on how AI decisions are made,” said Peter Sidebottom, a managing director of strategy in Accenture’s Financial Services practice. “AI decisioning processes can’t be a black box; banks need to adhere to and provide the same transparency as they do with any other employee to ensure regulatory compliance, and to earn customer trust.”
+
+ Ninety percent of bankers believe it’s important for employees and customers to understand the general principles used in AI-based decisioning. Nearly one-quarter (24 percent) of bankers said their bank plans to provide transparency for all areas where AI is used in the bank within two years, and an additional 29 percent said their bank plans to be fully transparent for all AI decisions that are customer-facing. Transparency will be key, as more than two-thirds (71 percent) of surveyed bankers said the biggest benefit they expect from AI is that it will enable banks to build trust and confidence with their customers.
+
+ The “Frictionless Business” trend discusses how businesses today depend on technology-based partnerships for growth, but many banks can’t easily partner with third parties because of their own complex, often inflexible operating and technology platforms. The report identifies two technologies that can help banks overcome these challenges: microservices and blockchain.
+
+ Blockchain, in particular, is important to the banking industry. In fact, of all the executives surveyed for the broader Accenture Tech Vision 2018 report, those in the banking industry were more likely than those in any other industry to cite blockchain and smart contracts as being critical to their organisation over the next three years (71 percent of bankers vs. 60 percent of executives in other industries, on average). In addition, the banking executives expect that operational blockchain systems will be live in their banks in 2.6 years, on average, and that the technology might one day provide cost-effective replacements for legacy core banking systems.
+
+ Methodology
+
+ The Banking Technology Vision 2018 report is derived from the Accenture Technology Vision, developed annually by the Accenture Labs and Accenture Research. The research process for Accenture Technology Vision 2018 included gathering input from the Technology Vision External Advisory Board, a group comprising more than two dozen experienced individuals from the public and private sectors, academia, venture capital firms and entrepreneurial companies. In addition, the Technology Vision team conducted interviews with technology luminaries and industry experts, as well as with nearly 100 Accenture business leaders. In parallel, Accenture Research conducted a global online survey of more than 6,300 business and IT executives across 25 countries and 18 industries to capture insights into the adoption of emerging technologies.
+
+ The banking industry report is based on responses from nearly 800 respondents at banks in 25 countries across North America, Europe, Asia-Pacific, Africa and South America. The survey helped identify the key issues and priorities for technology adoption and investment. Respondents were mostly C-level executives and directors, with some functional and line-of-business leads, at companies with annual revenues of at least US$500 million, with most having annual revenues greater than US$6 billion.
+
+ About Accenture
+
+ Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialised skills across more than 40 industries and all business functions – underpinned by the world’s largest delivery network – Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With approximately 442,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives.
+
+

@@ -1,0 +1,18 @@
+Intel: Wearables, big data will track Parkinson’s disease
+
+August 14, 2014
+
+By Jennifer Bresnick
+August 14, 2014 - Intel Corporation and the Michael J. Fox Foundation are launching a new pilot program to combine the power of big data with the ubiquitous reach of a wearable health tracking device in order to gather deeper insight into Parkinson’s disease.  Using a smartwatch created by Pebble to collect data on variables such as sleep quality, slowness of movement, and the disease’s characteristic muscle tremors, researchers hope to paint a portrait of the illness that goes far beyond what the naked eye can observe.
+“Nearly 200 years after Parkinson’s disease was first described by Dr. James Parkinson in 1817, we are still subjectively measuring Parkinson’s disease largely the same way doctors did then,” said Todd Sherer, PhD, CEO of The Michael J. Fox Foundation. “Data science and wearable computing hold the potential to transform our ability to capture and objectively measure patients’ actual experience of disease, with unprecedented implications for Parkinson’s drug development, diagnosis and treatment.”
+The smartwatch can unobtrusively collect data around the clock without the patient or provider needing to take an active role in journaling symptoms, providing researchers with a wealth of information with which to chart the progress and development of the disease.  Intel’s big data expertise led to the company developing a platform that can integrate and analyze more than 300 observations per second collected by the wristband, offering researchers a new way to monitor and study changes that may not be obvious to the patient himself.
+“The variability in Parkinson’s symptoms creates unique challenges in monitoring progression of the disease,” said Diane Bryant, senior vice president and general manager of Intel’s Data Center Group. “Emerging technologies can not only create a new paradigm for measurement of Parkinson’s, but as more data is made available to the medical community, it may also point to currently unidentified features of the disease that could lead to new areas of research.”
+Dig Deeper
+Eye Docs Looking for Big Data, Population Health Analytics Research
+Research Collaboration to Use Big Data for Diabetes Prevention
+Which Healthcare Data is Important for Population Health Management?
+The analytics platform may also be expanded to include genomic data or information from clinical trials, Intel says, and could be integrated with machine learning tools to develop a predictive analytics engine that could chart the course of an individual patient’s disease.
+In the coming months, the partners plan to launch an mHealth application that allows patients to submit remarks on their current state of health and medication intake.  The partnership also plans to open the project to other Parkinson’s researchers, who will be invited to submit their own de-identified data for analysis.
+Tagged Big DataChronic Disease ManagementClinical AnalyticsMedical Research
+
+

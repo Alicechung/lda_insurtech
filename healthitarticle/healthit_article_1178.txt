@@ -1,0 +1,29 @@
+Legacy Big Data Analytics, IoT Tools Unable to Meet Demand
+
+November 06, 2015
+
+By Jennifer Bresnick
+November 06, 2015 - Big data analytics just ain’t what it used to be, and the infrastructure tools that used to adequately support healthcare organizations and other enterprise ventures are no longer able to perform their duties appropriately, according to a new cross-industry survey by Actian Corporation.
+As healthcare organizations add more and more data streams to their warehouses and business intelligence systems, including information from Internet of Things (IoT) applications and devices, they are finding that their analytics tools were simply not designed with such large and broad tasks in mind. 
+In the healthcare sphere, these deficiencies may be hobbling providers as they attempt to extract actionable insights from clinical, administrative, and financial data sources.
+Half of IT leaders participating in the poll said they are “not very confident” in their existing big data infrastructure, while 42 percent added that their existing data warehousing platforms are cracking under the pressure produced by emerging requirements to provide rich, speedy functionality and reporting to demanding end-users.
+Dig Deeper
+“Data Lake as a Service” Enables Internet of Things, Precision Medicine
+Big Data, Artificial Intelligence, IoT May Change Healthcare in 2017
+Amazon Machine Learning, Big Data Tools Have Healthcare Implications
+Business intelligence systems garnered slightly less disappointment, with just 21 percent of respondents saying that their tools performed poorly with big data sets.  Forty percent said their BI infrastructure works well for historical data sets, but a third pointed out that BI systems contain the same flaws as data warehousing tools: they simply are not designed for an Internet of Things era.
+“Organizations face a set of unique challenges—and opportunities—as they navigate the disruptive waters of the modern data era and start to implement broad-based big data analytics and Internet of Things strategies to drive new revenue, improve customer analytics and capitalize on business opportunities,” said Ashish Gupta, CMO and senior vice president of business development for Actian.
+“These same organizations know they are sitting on a wealth of untapped data due to the commercial and technical constraints of their traditional data management systems. They know they need a new approach.”
+Only half of respondents said that they are somewhat or completely confident that their existing tools could handle a massive influx of data associated with adopting Internet of Things technologies, with organizational CEOs reflecting significantly more confidence than their IT directors. 
+Respondents generally agreed, however, that they would prefer to augment existing infrastructure with new tools rather than undergo a painful and costly “rip-and-replace” procedure.  Forty-five percent added that they are planning to keep pushing excess data into storage solutions or emerging data lake technologies so that they can address it in the future, when systems are more mature.
+But some organizations may be forced to make expensive changes more quickly than they might like as they face the realities of the big data world.  Sixty percent said that they are struggling to collect actionable insights from their existing tools, and a similar number added that accessing and analyzing the right data at the right time has been a challenge. 
+Additional concerns included a lack of scale to manage growing project demands (48 percent) and concerns over processing speed (45 percent).
+Only one out of every four executives believes that infrastructure installed five years ago will be able to adequately handle the high level of demand predicted to develop five years from now.
+“Just like mainframes that could not keep up with compute and scale requirements, traditional data management systems are faltering in the face of current data workloads because of their architectural limitations and expensive commercial models,” said Gupta.
+“Similar to mainframes that still exist for specific tasks, customers will not rip and replace traditional systems for transaction processing workloads, choosing instead to augment these systems with powerful analytic platforms to garner timely insights and maximize the value of their data.”
+As healthcare providers stare down financial and clinical analytics initiatives associated with value-based care and population health management, they may need to start the process of upgrading their current architecture and devising new solutions to data integration problems. 
+Unlike many other industries, healthcare organizations face the extra burden of wresting with existing EHR infrastructure that adds yet another layer of complexity to the challenge of developing integrated, interoperable, user-friendly big data analytics ecosystems that support high quality care.
+More than 250 top-level executives participated in the survey, which included respondents from the healthcare industry along with leaders in the information technology, finance, and e-commerce sectors.
+Tagged Analytics InfrastructureHealthcare Business IntelligenceHealthcare Internet of ThingsSemantic Data Lakes
+
+

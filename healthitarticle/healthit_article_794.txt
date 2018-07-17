@@ -1,0 +1,43 @@
+As ICD-10 Grace Period Ends, EHR Data Quality Reclaims Attention
+
+August 24, 2016
+
+By Jennifer Bresnick
+August 24, 2016 - Just when it seemed like the healthcare industry had successfully laid its phobia of ICD-10 to rest, another October is bringing yet another challenge to health information managers and EHR-using clinicians.
+The yearlong ICD-10 grade period, a negotiated détente to exempt providers from certain post-payment reviews of less-than-optimally specific codes, is about to expire on October 1, 2016, leaving healthcare providers on the hook for all that detail and specificity in clinical documentation they might have been sweeping under the rug.
+Just months before the 2015 transition, the AMA pushed hard for the exemption, arguing that physicians should not be penalized due to data quality shortfalls that resulted in incorrect ICD-10 codes. 
+At the time, clinical documentation improvement efforts were a sore point for frustrated, overwhelmed clinicians still wrestling with Stage 2 meaningful use and EHR usability concerns on top of the chronic will-they-won’t-they uncertainty of ICD-10 implementation.
+Despite successful rounds of industry-wide Medicare claims testing, and vocal opposition from pro-transition groups arguing that the industry had largely misunderstood the role of unspecified codes to begin with, CMS handed the AMA an ICD-10 grace period victory.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+The ruling fell short of the AMA’s most fervent hopes – lawmakers had previously suggested a two-year amnesty that would prevent claims denials for the use of any incorrect ICD-10 code – but did provide a little wiggle room for the use of codes that fell into the right family, but did not meet stringent requirements for being the most applicable choice.
+When the compromised was announced, CMS released a fact sheet to explain the ICD-10 grace period in detail:
+While diagnosis coding to the correct level of specificity is the goal for all claims, for 12 months after ICD-10 implementation, Medicare review contractors will not deny physician or other practitioner claims billed under the Part B physician fee schedule through either automated medical review or complex medical record review based solely on the specificity of the ICD-10 diagnosis code as long as the physician/practitioner used a valid code from the right family.
+For all quality reporting completed for program year 2015, Medicare clinical quality data review contractors will not subject physicians or other Eligible Professionals (EP) to the Physician Quality Reporting System (PQRS), Value Based Modifier (VBM), or Meaningful Use 2 (MU) penalty during primary source verification or auditing related to the additional specificity of the ICD-10 diagnosis code, as long as the physician/EP used a code from the correct family of codes.
+Claims could still be audited for reasons unrelated to ICD-10 code specificity, CMS reminded providers, and organizations were still responsible for meeting specificity requirements for national and local coverage determinations, prepayment reviews, and requests for prior authorizations.  The flexibility rule also failed to cover Medicaid and privacy payer claims.
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+The AMA, along with many unprepared providers, breathed a sigh of relief at the time. Most still braced themselves for payment delays and increased denials, but the financial impacts of the switch have largely been minimal – even though coding accuracy may have declined.
+So why should healthcare organizations start to reexamine their EHR data quality and clinical documentation improvement programs in light of the grace period’s expiration date?
+To a clinician without a coding background, there seem to be only slight differences between choosing the most specific code and a code that would only be acceptable under the grace period. 
+In updated documentation detailing what will happen after October 1, 2016, CMS gives an example of why higher levels of data integrity and precision in clinical documentation could make the difference between a successful payment and an immediate denial.
+The grace period allows providers to use any valid code within the right coding family to indicate a diagnosis. 
+READ MORE: Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+The coding family for Hodgkin’s lymphoma, for example, is labeled as C81.  By itself, C81 is not a valid ICD-10 code, since it does not contain five characters.  But any of the following codes could be used to indicate Hodgkin’s lymphoma in a patient, even though their specific meanings are notably different:
+C81.00 Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site
+C81.03 Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes
+C81.10 Nodular sclerosis classical Hodgkin lymphoma, unspecified site
+C81.90 Hodgkin lymphoma, unspecified, unspecified site
+During the past year, providers have not been penalized for using any one of those four codes interchangeably.  But come October 2, 2016, physicians will have to be absolutely certain that their clinical documentation distinguishes between the four types of lymphoma, or it will be returned to sender.
+Physicians who have still been unable to meet the detail and specificity required in their patient documentation will have no more excuses, CMS warns.  As soon as the flexibility period ends, auditors will once again be able to use code specificity as a reason to deny ICD-10 claims.
+CMS appears to have little sympathy for providers who have purposefully taken advantage of the lax guidelines over the past months.  In the updated guidance about the expiration of the ICD-10 grace period, the agency says plainly that providers “should already be coding to the highest level of specificity,” so there is no reason to slowly phase in more stringent requirements.
+“ICD-10 flexibilities were solely for the purpose of contractors performing medical review so that they would not deny claims solely for the specificity of the ICD-10 code as long as there is no evidence of fraud. These ICD-10 medical review flexibilities will end on October 1, 2016,” CMS said.
+“As of October 1, 2016, providers will be required to code to accurately reflect the clinical documentation in as much specificity as possible, as per the required coding guidelines.”
+The agency adds that since many major payers did not offer additional flexibility after the 2015 implementation date, it should not be much of a hardship for providers to add Part B Medicare claims to the list of reimbursement paperwork that requires top-level detail.
+To get ready for the expiration date, CMS has a very simple suggestion: “Avoid unspecified ICD-10 codes whenever documentation supports a more detailed code.”
+The guidance does remind providers that unspecified codes do still have a role to play in clinical coding.  “While you should report specific diagnosis codes when they are supported by the available medical record documentation and clinical knowledge of the patient’s health condition, in some instances signs/symptoms or unspecified codes are the best choice to accurately reflect the health care encounter,” the documentation says. “You should code each health care encounter to the level of certainty known for that encounter.”
+AHIMA recently reported that specificity challenges have been fairly minimal thus far, and the health information management organization does not anticipate any major disruptions from the end of the grace period and the revival of annual code updates, which will also start in 2016. 
+Healthcare organizations may wish to double check their default code assignment settings in their EHRs and computer assisted coding (CAC) software packages, which may automatically dole out unspecified codes.  Some physicians who handle their own code selection may not realize that there are additional options to consider.
+Overall, however, the end of the ICD-10 grace period is likely to mirror the ICD-10 transition as a whole: an anticipated disruption that does not produce as many problems as foreseen by skeptics. 
+Providers will still need to pay very close attention to ongoing clinical documentation improvement errors, and must ensure that their EHR data quality meets the highest standards – but as CMS so clearly pointed out, organizations should already have that skill well in hand.
+Tagged Health Information ManagementHealthcare Data GovernanceHealthcare Data StrategyICD-10
+
+

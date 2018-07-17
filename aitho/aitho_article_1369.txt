@@ -1,0 +1,15 @@
+MediaTek Joins Open Neural Network Exchange To Evolve Its Edge AI Platform
+
+22 Feb 2018
+
+Along with Facebook, Microsoft, Amazon and Others, MediaTek Supports Open And Mainstream Frameworks To Drive AI Innovation
+MediaTek today announced that it has joined the Open Neural Network Exchange (ONNX) to drive AI innovation and support the evolution of its edge AI platform.
+ONNX was created and launched by Amazon, Facebook and Microsoft to establish an interoperability standard for transferring deep learning models between frameworks. The result is an open ecosystem that allows AI developers to mix and match the tools and frameworks they need during any stage of a project.
+Existing involvement in the Android Neural Network (ANN), combined with its new support of and participation in ONNX, is part of MediaTek’s strategic imperative to continue integrating AI across its technology portfolio.
+MediaTek is also building upon its recent announcement to enable AI edge computing with the launch of its new NeuroPilot AI platform, which encompasses both hardware and software. MediaTek NeuroPilot includes an SDK and an AI processing unit to support the development of AI enabled mobile and smart home devices as well as autos.
+“A key to developing AI applications and capabilities lies within an open ecosystem where shared research and interoperability are the true enablers of innovation,” said Jerry Yu, Corporate Vice President and General Manager of the Home Entertainment Business Group, MediaTek. “In an effort to evolve our own AI platform and to ensure that interoperability and choice is preserved when developing with MediaTek NeuroPilot, it made sense to widen our support for open AI frameworks by joining the Open Neural Network Exchange.”
+The MediaTek NeuroPilot AI platform already supports mainstream AI frameworks, as it operates in concert with existing neural processing SDKs including Google TensorFlow, Caffe, Amazon MXNet, Sony NNabla, and more. At the OS level, MediaTek offers support for both Android and Linux.
+MediaTek Incorporated is a global fabless semiconductor company that enables 1.5 billion connected devices a year. We are a market leader in developing innovative systems-on-chip (SoC) for mobile device, home entertainment, connectivity and IoT products. Our dedication to innovation has positioned us as a driving market force in several key technology areas, including highly power-efficient mobile technologies and advanced multimedia solutions across a broad range of products such as smartphones, tablets, digital televisions, OTT boxes, wearables and automotive solutions. MediaTek empowers and inspires people to expand their horizons and more easily achieve their goals through smart technology. We call this idea Everyday Genius and it drives everything we do.
+Read More: World’s First Accredited Blockchain Training Program To Address Global Shortfall In Blockchain Education
+
+

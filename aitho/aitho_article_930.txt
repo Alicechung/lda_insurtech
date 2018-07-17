@@ -1,0 +1,19 @@
+Cloudera And Simudyne Offer Banks Advanced Simulation Solutions For Risk Management
+
+10 Apr 2018
+
+Cloudera’s machine learning and analytics alongside Simudyne’s simulation platform helps financial firms make radically better decisions
+Cloudera, Inc. (NYSE: CLDR), the modern platform for machine learning and analytics, optimized for the cloud, announced a partnership with Simudyne, a leading simulation software company. The two will jointly bring the first computational simulation platform built for big data to the financial sector. Now banks and financial companies can design and run any detailed simulation model at massive scale. This will give CEOs and their senior business leaders the ability to make dramatically better decisions more quickly than ever, whether in the cloud, on premises, or in a hybrid environment.
+Simudyne Logo
+1st computational simulation platform for big data now available. @Cloudera #MachineLearning and #Analytics + @Simudyne Advanced Simulation helps #FinServ model at massive scale: http://bit.ly/2qcDUhG #RiskManagement, #CreditRisk, #StressTesting, #CustomerInsights
+Tom Reilly
+“With Cloudera Enterprise and our Shared Data Experience (SDX), we provide the identity management, security capabilities, policy enforcement and data governance that banks need for regulatory compliance. Financial firms can use our flexible machine learning platform to store more volumes of heterogeneous data than they could before and subject it to all sorts of different processing and analysis frameworks,” said Tom Reilly, chief executive officer at Cloudera. “Combined with Simudyne, this modern approach to gaining insights and understanding risk helps financial institutions make better predictions and business decisions as economic scenarios emerge.”
+Financial firms are under pressure to grow their business while containing risk and complying with worldwide regulations. While existing analytics tools provide various measures of risk exposure, they are not able to fully consider complexities that exist in today’s world. While banks have spent considerable time and resources meeting stringent regulatory requirements, there are still many shortcomings in the current risk modeling methods.
+Simudyne’s core technology is the only simulation platform certified to run on Cloudera Enterprise. With Cloudera’s modern platform, financial firms can manage credit risk, enable scalable stress testing tools, drive better customer insight, and promote economic stability.
+“Simudyne is ground breaking technology currently being leveraged across Barclays, and enables us to model multiple scenarios on huge data sets so we can understand our risk, exposure and options,” said Jes Staley, chief executive officer at Barclays Bank.
+Computational simulation is a key set of analytic tools that provide methods for studying a wide variety of models of real-world systems. With detailed simulations, banks can incorporate the complexities required to model the real world.
+Justin Lyon
+Agent Based Models (ABMs) are a critical new tool for researchers, risk managers, marketing experts, business executives, and policymakers because they provide a robust and holistic view of possible future outcomes.
+“Using the power of Cloudera machine learning and Simudyne’s computational simulation software, business leaders can now easily run ‘what if’ scenarios on their existing infrastructure,” said Justin Lyon, chief executive officer at Simudyne. “Together, we offer financial services the first simulation toolkit that accurately captures complex feedback and amplification effects that give rise to systemic risk. This new approach addresses the issues created with single scenario analysis, including limited insight into the resilience of the financial system and the inability to capture nonlinear dynamics, knife edges of risk, and emergent phenomena.”
+
+

@@ -1,0 +1,52 @@
+Big Data, FHIR, Machine Learning Dominate Top 10 Stories of 2017
+
+December 07, 2017
+
+By Jennifer Bresnick
+December 07, 2017 - 2017 has been a huge year for fans of healthcare data analytics.  From the growing fascination with machine learning to the ongoing maturity of FHIR and aggressive vendor investments in population health and decision support, 2017 has marked the transition away from viewing big data as little more than a “nice-to-have” competency.
+As the year draws to a close, healthcare providers are largely agreed that simply having a data analytics team to help optimize processes is no longer a competitive differentiator – the difference will come from doing it well.
+The urgency with which provider organizations are trying to build their big data knowledge is clearly reflected in the clicking habits of HealthITAnalytics.com readers.
+Our most-viewed stories from the past 12 months include numerous articles outlining the basics of fundamental big data building blocks like information governance, vendor selection, and selecting high-value use cases for emerging technologies including blockchain, AI, and predictive analytics.
+Moving into 2018, where pundits predict an explosion of futuristic applications for technologies like digital voice assistants and ambient computing, healthcare stakeholders racing to catch up with their adventurous peers may actually find that slower and steadier is a perfectly acceptable way to go.
+After all, taking the time to meticulously identify opportunities for value and carefully consider technology acquisitions often leads to greater successes with less waste, even if they take slightly longer to get off the ground.
+Whatever the approach, few organizations can afford not to establish at least a working relationship with their big data – and based on our top ten stories from 2017, stakeholders are well on their way to developing analytics initiatives that will produce better outcomes for patients while potentially lowering costs.
+Here is our annual countdown of most popular articles from the past year.
+10. TURNING HEALTHCARE BIG DATA INTO ACTIONABLE CLINICAL INTELLIGENCE
+Every organization has data, but only a few really know how to use it.  Making the leap from big data to actionable insight can be a difficult proposition, especially when data remains siloed due to infrastructure barriers and poor communication between members of the organization.
+In this article, Dr. Danyal Ibrahim, Chief Data and Analytics Officer at Saint Francis Care, and other experts share their roadmaps for creating a successful big data analytics initiative that returns measurable value to the organization.
+9. DATA MINING, BIG DATA ANALYTICS IN HEALTHCARE: WHAT’S THE DIFFERENCE?
+Healthcare is full of buzzwords, many of which share shades of meaning.  “Data mining” and “data analytics” are one such pair of confusing terms. 
+Both are used to sell health IT products to healthcare organizations looking to dig deeper into their data assets.  But what are the differences, and why should they matter so much to providers?
+8. 4 BASICS TO KNOW ABOUT THE ROLE OF FHIR IN INTEROPERABILITY
+FHIR, the pun-friendly interoperability standard from HL7 International, has certainly brought the heat to healthcare in 2017.  The launch of Release 3 in March marked the continuing evolution of this important standard, which allows healthcare developers to harness the same type of technologies used to support the internet.
+FHIR has the potential to turn providers’ patchwork of health IT tools into a seamless ecosystem bridged by modern technical conventions, experts explain in this article, allowing providers and patients to interact with information in a manner that is completely new to the document-based industry.
+7. HOW BIG DATA ANALYTICS COMPANIES SUPPORT VALUE-BASED HEALTHCARE
+Value-based care is one of the biggest catalysts for the data analytics boom in healthcare, since it requires providers to understand new categories of financial risk, manage patients holistically, and use predictive analytics get upstream of expensive crisis events.
+Choosing the right health IT tools for these mission-critical tasks is not easy: the price tags are steep and few organizations can afford to scrap unsuccessful implementations part-way through.
+What are the key considerations for healthcare organizations seeking to equip themselves with big data analytics tools to support value-based reimbursements, and what does the future of population health technology look like?
+6. EXPLORING THE USE OF BLOCKCHAIN FOR EHRS, HEALTHCARE BIG DATA
+Artificial intelligence isn’t the only attractive new methodology promising to reshape the healthcare industry.  Blockchain is gaining steam as data management becomes a more complex task for providers, patients, payers, and their partners.
+A call for papers from the Office of the National Coordinator helped introduce the concept to the industry, and identified several potential use cases for distributed ledgers.
+Here we explain what blockchain is, how it could be applicable to the healthcare industry, and what challenges lie ahead for its continued development.
+5. HOW HEALTHCARE CAN PREP FOR ARTIFICIAL INTELLIGENCE, MACHINE LEARNING
+Real artificial intelligence that operates more or less independently of human supervision is still many years away, but there is plenty that healthcare organizations can do right now to prepare for the day when digital virtual assistants are commonplace.
+Much of the prep work has to do with data governance: laying good foundations of quality, accuracy, privacy completeness, and trust so that machine learning algorithms have something to work with.
+4. JUDY FAULKNER: EPIC IS CHANGING THE BIG DATA, INTEROPERABILITY GAME
+Epic Systems founder and CEO Judy Faulkner always makes headlines.  Her company’s huge influence on the industry is matched by a curiosity about the reclusive self-made billionaire’s personal opinions on the state of healthcare technology and its future path.
+In this one-on-one interview with HealthITAnalytics.com at HIMSS17, Faulkner shared her perspectives on health data interoperability, the lingering perception of Epic as a closed ecosystem, and some of the new big data analytics efforts put forth by the health IT giant.
+3. WHAT IS THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE?
+Natural language processing (NLP) has a number of different applications in the healthcare industry.  It supports voice recognition technologies that allow dictation, reads through PDFs and other static documents to extract data into machine-readable formats, and helps comb through unstructured text to identify meaningful elements.
+These capabilities underpin many of the machine learning and AI algorithms that have seen early success in the healthcare environment.  In this piece, we explore the challenges and opportunities around NLP while looking to a future where working with documentation is somewhat less cumbersome for providers.
+2. TOP 4 MACHINE LEARNING USE CASES FOR HEALTHCARE PROVIDERS
+The idea of AI is all very well, but how will it actually help alleviate the many pain points in the healthcare workflow? 
+Where are machine learning pilots finding success, and how can providers use this information to guide their own investment decisions?
+In our second most popular story of the year, we break down some of the most promising emerging use cases for machine learning technology, including imaging analytics, free-text interpretation, and clinical decision support.
+1. TOP 10 CHALLENGES OF BIG DATA ANALYTICS IN HEALTHCARE
+Our top story of 2017 indicates that there may still be more challenges than solutions in the big data analytics arena.  By nature, big data is messy, confusing, complex, and difficult to wrangle – providers are having trouble getting their data under control every step of the way.
+There are ten major gates to go through when working with a data set, and each poses its own particular troubles.  From capture and cleaning, storage and security to querying, reporting, and visualization, successful data analytics requires careful attention to each part of the process.
+Using this article as a guide, healthcare organizations can better understand their critical big data checkpoints and evaluate their successes and challenges with each. 
+Crossing all ten items off the list is likely to mean that an organization has a strong foundation of good data governance, open communication across the enterprise, and a clear idea of how they want to leverage their existing and future big data assets to improve the quality and delivery of care.
+These organizations will be best positioned for success in an increasingly complex environment – one that will require providers to have a firm grip on every topic addressed in our top stories from the past year.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareFHIRInteroperabilityListsMachine LearningPredictive Analytics
+
+

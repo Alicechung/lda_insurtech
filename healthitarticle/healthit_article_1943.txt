@@ -1,0 +1,19 @@
+Can Salesforce take on care coordination, patient engagement?
+
+July 07, 2014
+
+By Jennifer Bresnick
+July 07, 2014 - Hospitals looking to ramp up their offensive tactics when it comes to patient engagement may soon have an interesting new tool at their disposal: a care coordination and consumer engagement system leveraging the business savvy of Salesforce and the deep healthcare knowhow of Royal Philips.  Salesforce is best known for its customer relationship management software, which may offer a unique angle for healthcare organizations seeking better ways to track patient involvement in their own care, rope in new sources of revenue, and ensure that niche services are being appropriately utilized by patients at risk.
+“We have entered a new transformative era for healthcare and technology is enabling the industry to connect to, care for and engage with patients and each other in a profound new way,” said Marc Benioff, chairman and CEO of Salesforce.com. “Together with Philips, we are creating an open health platform and ecosystem to benefit everyone that cares about one of the most important issues of our time.”
+“With this strategic alliance, Philips is making great strides to deliver real-time, digital healthcare solutions,” added Frans van Houten, CEO of Royal Philips. “Healthcare data exists in many different forms and in many different systems today.”  Philips will contribute its expertise in medical technology and clinical applications, while Salesforce will add its cloud-computing prowess and customer engagement platform.
+The partnership has already produced two care coordination apps which allow providers to monitor chronic disease patients in their homes.  Future projects plan to cover the whole of the care continuum, including products focused on disease prevention, diagnosis and treatment, and ongoing support for wellness and recovery.
+Dig Deeper
+Chronic Care Management Improves Pediatric Outcomes by 20%
+AMIA: Consider Broadband Access a Social Determinant of Health
+21% of Patients See Medical Errors, but Providers Deny Responsibility
+The long-term goal of the collaboration is to streamline the way providers interact with each other and the way patients interact with the wider healthcare delivery network, the companies said.  Consumer engagement technology is widely used in other industries, such as retail and finance, which may hold valuable lessons for a healthcare industry struggling to see patients as a choosy, empowered customer base rather than static objects that pop into the shop for a tune-up when necessary.  Healthcare has been lagging behind when it comes to offering patients an innovative set of tools to make interacting with providers easier and intuitive, but tools and lessons from other industries may be the key to changing that.
+“We really believe that the standard for [patient engagement] should not be set by healthcare,” Michael Dermer, Chief Incentive Officer at Welltok, told HealthITAnalytics in June.  “It should be set by your credit card, airline, and hotel loyalty programs, right?  Just the same way that you go into a department store, and buy a pair of shoes, and two minutes later you’ve got 100 points in your account.  The same thing is going to be the standard that’s set for healthcare.  It just happens to be that you’re following your prenatal care instead of going shopping.”
+Salesforce and Philips plan to open their platform to developers interested in building an ecosystem of apps and tools to improve personal health management and care coordination, integrating data from EHRs, medical devices, wearable monitors, and other sources of information that are becoming more and more essential to clinical decision making and preventative care.
+Tagged Healthcare Data StrategyPatient EngagementPopulation Health Management
+
+

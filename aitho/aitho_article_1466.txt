@@ -1,0 +1,13 @@
+Litecoin Cash – The First Litecoin Fork
+
+13 Feb 2018
+
+Litecoin Cash has announced that the countdown has begun towards the release of a new cryptocurrency that will be born from a hard fork of Litecoin (LCC). At Litecoin block 1371111, Litecoin Cash (LCC) will be created.
+Everyone holding Litecoin will automatically receive 10 Litecoin Cash for every Litecoin they own. While Litecoin has always been mined with Scrypt, Litecoin Cash is a proof of work cryptocurrency securing the network using the SHA256 hashing algorithm. This allows an extension of life for older Bitcoin mining hardware, which is no longer powerful enough to mine Bitcoin; the lower anticipated difficulty of mining Litecoin Cash will put such legacy hardware to effective use.
+A SHA256 Coin For The Real World
+Litecoin Cash has significant advantages compared to the other main SHA256-mined coins, Bitcoin (BTC) and Bitcoin Cash (BCH). While those currencies both have a 10-minute block time, Litecoin Cash’s 2.5-minute block target allows much faster transaction confirmation.
+Compared to Litecoin itself, the new fork features superior mining difficulty retargeting, via the proven DarkGravity algorithm used by Dash. Transaction fees are also reduced by 90 percent to provide incentive for real-world use.
+In order to ensure a fair launch, Litecoin Cash implements slow-start control to block rewards and intend to pre-release a bootstrap file to prevent a blockchain download race once the wallets become available (slated to happen shortly after the fork block).
+The network will use a new address prefix and replay attack prevention to eliminate inter-chain issues and minimize user confusion.
+
+

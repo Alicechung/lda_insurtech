@@ -1,0 +1,22 @@
+Payers Say Healthcare Data Analytics Is “Unprepared to Evolve”
+
+December 09, 2014
+
+By Jennifer Bresnick
+Why do payers think that healthcare data analytics won’t be able to rise to the challenges of cost-cutting and other reforms?
+December 09, 2014 - Healthcare might be at the very beginning of its journey towards leveraging data analytics for everyday patient care, but a new survey of payer industry executives calls into question the board room’s belief that analytics can grow, change, and rise to the challenges presented by regulatory compliance, value-based reimbursement, and patient-centered care.
+In a poll conducted by Genpact, business intelligence and analytics was ranked as the least mature technical component within the payer community and the least prepared to evolve into a useful tool to address the challenged faced by the industry today and in the future.
+The wider survey included more than 900 senior-level executives, but a more detailed brief focused on the responses of 41 chief operating officers (COOs) and other C-suite representatives from large payers, mostly with more than 10,000 employees.  Payers have been on the forefront of pushing value-based reforms and pay-for-performance incentives as a way to cut extraneous spending from providers.  To gauge the effectiveness of these reforms, and to help providers target necessary services to the highest risk patients, payers have also taken the lead in the analytics sphere, whether through backing accountable care agreements or developing innovative tools that promote care coordination and data exchange.
+But payers, quite naturally, have largely focused their efforts on analytics related to customer service, patient satisfaction, and claims processing and adjudication, the survey finds.  Nearly all the executives ranked claims processes as the most mature and most ready to meet the challenges of the industry, compared to just 69% of respondents who said the same about analytics.  “Claims processing and adjudication is the most mature; business intelligence and analytics is seen as the least mature and the least prepared to evolve further,” the report notes.
+Dig Deeper
+Congress: Health IT, Big Data Tools Crucial for Quality Care
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Despite the relatively dim view of the current state of analytics and business intelligence, payers still see such technological tools as one of three major legs of comprehensive healthcare reform.  With two-thirds of respondents citing regulatory compliance as a top challenge in an environment of cost-cutting, government involvement, and increased pressure to provide patient satisfaction, a multi-faceted approach to reform is required to meet a plethora of difficult goals.
+In addition to the implementation of analytics and other technologies, payers believe that internal process reengineering and the restructuring of business functions such as shared services will work together to achieve industry-wide savings.  All together, these changes may save more than $500 million per year.
+“While evolving regulations continue to challenge healthcare organizations, operational efficiencies and consumer satisfaction are now an important focus,” said Jim Mapes, Senior Vice President and Business Leader of Healthcare at Genpact. “The industry sees the greatest value in a pragmatic approach that uses technology judiciously and combines it with shared organizational models to address these challenges.”
+While payers may be correct in identifying healthcare data analytics as an immature piece of the reform puzzle, the assertion that it is unprepared to evolve and grow in the near future may be unnecessarily pessimistic.  On the provider side, analytics is becoming more deeply integrated into clinical practice every day, and optimism about the use of big data, population health management, and clinical decision support is certainly a common theme.
+As CMS and the ONC start digging into big data in a more concentrated way by revamping roadmaps and creating a new analytics office to guide the industry’s development of new technologies, the payer side might soon see just how ready provider organizations are to push analytics into the forefront of a cost-cutting, patient-pleasing, data-driven healthcare industry.
+Tagged Accountable CareAnalytics InfrastructureHealthcare Business Intelligence
+
+

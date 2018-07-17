@@ -1,0 +1,33 @@
+23% of Hospitals See Payment Cuts for Patient Safety, HACs
+
+December 11, 2015
+
+By Jennifer Bresnick
+December 11, 2015 - Patient safety deficiencies and high rates of hospital acquired conditions (HACs) have led CMS to cut reimbursement rates for 758 hospitals, representing 22.9 percent of the 3308 organizations subject to the HAC Reduction Program. 
+Fiscal Year (FY) 2016 has seen a slight increase in the number of organizations receiving a one percent cut in reimbursements from CMS, due largely to changes in the scoring mechanism.  CMS estimates a savings of $364 million in FY 2016 from the program.
+The scoring methodology incorporates a number of metrics that gauge performance and patient outcomes across several domains.  Hospitals may be penalized for unacceptably high rates of hospital acquired conditions including pressure ulcers, catheter-related bloodstream infections, sepsis, postoperative hip fractures, and accidental punctures or lacerations.
+Hospitals are given scores between 1 and 10 for their performance on each measure.  The scores are then included in a multi-dimensional, weighted algorithm that determines their overall rating and sorts the hospitals into performance quartiles. 
+For FY 2016, CMS changed the bottom quartile cutoff point from 6.75 to 7.0, adding 34 hospitals to the ranks of the lowest performers.
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+Fifty-four percent of the hospitals in FY 2016’s worst performing quartile also achieved the unenviable distinction in FY 2015.
+The data follows a report from the Agency for Healthcare Research and Quality (AHRQ) stating that patient safety gains have been holding steady over the past few years, as healthcare organizations maintain a 17 percent drop in adverse events since the beginning of the decade.
+Compared to patient safety problems in 2010, hospital quality improvement programs have led to approximately 2.1 million incidences of harm, including preventable infections, falls, pressure ulcers, and other events over the following four years.
+“Interim 2014 estimates indicate that more than 36,000 fewer patients died in hospitals in 2014 as a result of the decline in HACs compared with the number of deaths that would have occurred if the rate of HACs had remained steady at the 2010 level,” AHRQ said.
+The Joint Commission has also praised hospitals for their quality improvement efforts, designating 31.5 percent of the nation’s facilities as “Top Performers” that consistently provide standardized treatments for acute conditions, deliver appropriate preventative care and screenings, and pay close attention to patient safety improvement opportunities.
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Graded on six different measure sets, Top Performer hospitals must deliver appropriate care for conditions such as heart attacks, strokes, and substance abuse in at least 95 percent of cases.  Joint Commission accredited hospitals racked up a 97.2 percent composite accountability rate on 23.9 million opportunities to perform optimal patient care, representing a 15.4 percent improvement over 2002 levels.
+Despite the fact that hospitals appear to be doing well across many critical performance domains, questions have been raised about the completeness and accuracy of patient safety metrics used for CMS calculations.  In 2014, a study in the American Journal of Medical Quality pointed out that CMS guidelines about what constitutes an HAC may be too narrow to effectively measure improvements over time.
+Using an expanded list of HACs and ICD-9 codes to identify potential instances of harm among 5.5 million patients, the researchers found that 16 percent of patients experienced an adverse event according to the broader definition of an HAC, while just 1 percent of the same patient group would have been flagged by CMS metrics.
+Even among such a large patient sample, eight of the CMS patient safety metrics occurred so rarely that researchers were able to find fewer than 50 instances of each, the study added.
+As value-based reimbursement expands and CMS ramps up its scrutiny of healthcare providers through new quality programs, the healthcare industry will need to address debate and confusion over metrics and measures should be used to calculate payment rates. 
+READ MORE: ECRI: “Most If Not All” Patient Identification Errors Preventable
+The issue may be particularly pressing for large hospitals and academic medical centers, which are nearly three times as likely as smaller organizations to be fined for patient safety violations, according to research by Harvard School of Public Health professor Dr. Ashish K. Jha in 2014. 
+“When an older American walks into a hospital, he or she has about a 1 in 4 chance of suffering some sort of injury during their stay,” Jha wrote, noting that 53.8 percent of major teaching hospitals had been penalized by CMS for patient safety problems to date, compared to just 17.3 percent of small, non-teaching organizations.
+While the Patient Safety Indicators (PSIs) used by CMS provide valuable data for reimbursement adjustments and patient safety improvement programs, “there are three potential problems with PSIs,” he explained. 
+“Hospitals vary in how hard they look for complications, they vary in how diligently they code complications, and finally, although PSIs are risk-adjusted, their risk-adjustment is not very good — and sicker patients generally have more complications.”
+Healthcare organizations are attempting to overcome these variances and improve their performance on a variety of patient safety concerns by using big data analytics tools to predict complications or adverse events, reduce infection rates through better staff hygiene monitoring and antibiotic stewardship, and give providers the data-driven tools they need to make better treatment decisions.
+As these tools continue to evolve, and hospitals focus on pursuing greater patient safety gains to stay ahead of penalty programs, patients may be able to expect consistently better outcomes and fewer risks to their health after an inpatient admission.
+A full list of participating hospitals, along with a breakdown of their HAC Reduction Program scores, can be found on the Medicare Hospital Compare website.
+Tagged Hospital QualityPatient CarePatient SafetyQuality Of Care
+
+

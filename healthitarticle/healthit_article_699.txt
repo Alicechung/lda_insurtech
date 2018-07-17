@@ -1,0 +1,39 @@
+Healthcare CIOs Turning to Data Analytics for Business Intelligence
+
+November 01, 2016
+
+By Jennifer Bresnick
+November 01, 2016 - Big data analytics and business intelligence tools are a top priority for CIOs in the healthcare industry, says data from a Harvey Nash and KPMG survey, as organizations seek to improve efficiencies and generate actionable insights for decision-making in an increasingly IT-driven environment.
+More than half of CIOs are planning to increase their spending on health IT over the next twelve months, and a further 35 percent are likely to maintain their current operational budgets, found the poll of healthcare executives from more than 190 global organizations.  
+Healthcare CIOs are significantly more interested in expanding data analytics infrastructure than their counterparts in other industries, where an average of just 45 percent of executives are likely to devote more money to IT tools.
+In the United States, healthcare providers are likely opening their wallets in anticipation of value-based care initiatives, which demand a heavier reliance on data analytics to manage the health of populations and trim unnecessary costs from business processes to cushion the impact of the pay-for-performance shift.
+“There is little doubt that our industry is changing rapidly,” said Dr. Jonathan Mitchell Non-Executive Chair, Global CIO Practice, Harvey Nash. “In the last two years, IT leaders have become newly invigorated. The days of budget cuts and staff losses are well behind us.”
+READ MORE: Healthcare Business Intelligence, Big Data Tools Spark Investment
+“CIOs are experimenting with innovative apps and some are even changing long-established core business models. Everyone it seems is now focused on finding ways to give their organization an edge in an increasingly challenging business world.”
+Around two-thirds of respondents said that increasing operational efficiencies and improving business processes are critical priorities for their organizations, while 60 percent are aiming to improve the way they deliver business intelligence and analytics reporting to members of the team.
+CIOs are using a number of strategies to accomplish these goals and use their limited resources wisely.  More than half are adopting agile methodologies to develop new initiatives, and just over 40 percent are forming strategic partnerships to supplement their activities.
+Forty-one percent of healthcare CIOs prefer to buy health IT and big data analytics tools rather than build them in-house, a trend likely fueled by a growing desire to implement standards-based technologies that promote interoperability and health information exchange.
+Cloud-based offerings, especially software-as-a-service (SaaS) tools, are particularly popular with CIOs as they attempt to leverage their big data assets for business intelligence.  Twenty-eight percent have already invested in SaaS products, and 43 percent are likely to sign up with an SaaS cloud vendor within the next three years. 
+READ MORE: Desire for Predictive Analytics Outpaces Hospital Investment
+Infrastructure-as-a-service and platform-as-a-service offerings may also start to gain traction by the end of the decade, with just under 30 percent of CIOs indicating that these strategies may soon find a home in healthcare.
+Cloud technologies offer several advantages over server-based tools, respondents said.  Improved availability and resiliency (45 percent), improved agility (34 percent), and simplified management (29) were among the top five reasons to shift to the cloud.
+Thirty-five percent of participants believed that a cloud-based offering was the best solution available on the market, while 28 percent think cloud solutions allow for quicker development and more innovation.
+However, 46 percent said they had trouble integrating cloud-based solutions with existing architecture, and 35 percent struggled with governance issues.  Healthcare organizations significantly more likely than other industries to face regulatory, compliance, and legal issues with cloud offerings, due to strict patient privacy frameworks that govern the flow and use of big data.
+Skill shortages and organizational red tape are also making it difficult for CIOs to develop the big data and business intelligence competencies that they so desire.
+READ MORE: Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+Forty-five percent of CIOs are struggling with developing the analytics capabilities required to make the best use of their data, and 36 percent admitted that they could improve their project management strategies.  Organizational change management was a major obstacle for 30 percent of participants, while security and resiliency was a top concern for 29 percent.
+All of these challenges appear greater in the healthcare industry than in other sectors, the survey added, but healthcare CIOs are more likely than their counterparts to believe that they themselves are the secret to success.
+Eighty percent of healthcare executives think the CIO or IT Director is become more of a strategic position in their organization, compared to just 67 percent of board members in different industries. 
+“The CIO has never been more relevant or influential,” said Mitchell. “Participation at the most senior level of decision-making is at an all-time high. Many respondents report that they are also spending increasing amounts of time with external stakeholders.”
+“Organizations are seeing the role of the CIO change from the ‘purveyor of technology’ to the ‘agent of change’ for the enterprise. IT organizations have largely cracked the problem of service quality and reliability, freeing up their leaders to take a wider role.”
+An enterprise-wide perspective and a strong, cohesive leadership plan are vital for healthcare organizations, many of which believe that they are facing unprecedented digital disruption.  Nearly a quarter of executives identified the need to adapt to new products and services and new operating models as a major source of disruption. 
+Participants also flagged the growing emphasis on patient engagement as a significant pressure for embracing big data and digital tools.  Twenty-nine percent are partnering with external organizations to cope with these changing forces.
+“There is a vast infrastructure of projects which are making a myriad of incremental changes to operations and even to core business models,” said Mitchell. “Collectively, these pack a massive digital punch. And digital isn’t just a private sector phenomenon. Demand from the public who see themselves as consumers will see to that.”
+Just under a third of providers already have a clear vision for how they are going to succeed in this fluid environment, and an additional 39 percent are in the process of charting a course towards a data-driven future. 
+Healthcare organizations that haven’t yet started architecting a strategy to integrate big data analytics, business intelligence, and digital tools into their daily operations will need to do so soon, Mitchell urged, in order to best leverage their data assets for quality improvements and cost containment.
+“As organizations increasingly use digital platforms to reach their customers in new ways, data volumes are rising at a spectacular pace,” he concluded. “We think that those who understand what they need to collect and what they should do with this data are going to be the big winners in the years ahead.”
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular? 
+How to Choose the Right Healthcare Big Data Analytics Tools
+Tagged Analytics InfrastructureCloud ServicesHealthcare Business IntelligenceHealthcare Data Strategy
+
+

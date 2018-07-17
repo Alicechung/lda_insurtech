@@ -1,0 +1,23 @@
+Is healthcare analytics taking into account patient’s views?
+
+September 26, 2013
+
+By Kyle Murphy, PhD
+September 26, 2013 - Consumers — in the world of healthcare, patients — produce a tremendous amount of data. So much so that now with the adoption of EHR and health IT systems, healthcare organizations and providers are beginning to consider how healthcare analytics will make sense of all this information. But according to one keynote speaker during Strata Rx 2013, there may be one area being too easily overlooked. That is the matter of data ownership, particularly from the patient’s perspective.
+That speaker was Kevin Patrick, MD, MS, is a Professor of Family and Preventive Medicine at the University of California, San Diego and Adjunct Professor of Public Health at San Diego State University. He is also one of the key figures behind the Health Data Exploration Project, a California Institute for Telecommunications and Information Technology project with support from the Robert Wood Johnson Foundation that looks at the consumers’ opinions of personal health data — that is, personal data for the public good.
+During his talk, Patrick talked about how researchers and consumers (i.e., patients) view patient-generated data. Researchers question these data in the following way:
+These data raise lots of questions for researchers such as myself with respect to how to use them in the area of health. What about their quality and validity, their reliability, their dependability, especially if we’re going to use them in just-in-time interventions? They raise many methodological issues including making causal inference from lots of cross-sectional data in ways that traditional clinical and epidemiological researchers might not trust.
+Dig Deeper
+Does Social Determinants Data Enhance Population Health Analytics?
+Challenges of Applying Predictive Analytics to Population Health
+VA, DOE Launch Healthcare Big Data, Machine Learning Project
+The views of researchers are in stark contrast to the views of respondents to the Health Data Exploration Project:
+Are they willing to share these data with researchers? Well, the good news is they really are — either probably or definitely willing to share. And more importantly would they share it if they had a specific interest in the problem, a particular interest that might be driven by their families’ concerns or others? Absolutely, yes. And would they donate their data; would they actually place these data into a repository of some sort to allow people to do it? Again, the good news is people are willing to do this.
+What the project and process of dealing with analytics in healthcare reveals is a need to be sensitive to the concerns of patients. These are matters that collectors and analysts of data much take into account:
+People who do this think that they own the data even though they have signed a terms and conditions that almost invariably says that the companies that have captured this data own the data themselves. So we see this as an important area that needs to be reconciled if we are doing to be addressing this issue of sharing data and opening these data up to others.
+Privacy, anonymity, and confidentiality are very, very important concerns on the part of the respondents, but it’s a complex thing. It’s not a monolithic concept. People have different levels of expectations with respect to privacy — some happy to share with researchers but they don’t necessarily want their names published. Others have different feelings about this. In part, they don’t want to commercial uses of it, but they’re happy to have more scientific uses done.
+If patients are made uncomfortable by the prospect that their sensitive information may be misused, they are unlikely to consent to making it available. And without sufficient data to analyze, the conclusions drawn by researchers will not be as meaningful and therefore actionable for real-world applications. As a result, data sources — in this case, individuals — must be treated with as much transparency as possible.
+More from Strata Rx 2013 is available here.
+Tagged Big Data AnalyticsHealthcare AnalyticsHealthcare InformaticsPatient DataPopulation Health ManagementPredictive Analytics
+
+

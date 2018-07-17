@@ -1,0 +1,29 @@
+Humana Refines Diabetes Risk Stratification Tool Using ICD-10
+
+April 28, 2017
+
+By Jennifer Bresnick
+April 28, 2017 - In an effort to improve the delivery of targeted chronic disease management services to diabetes patients, Humana has revamped its Diabetes Complications Severity Index (DCSI) risk stratification tool to use ICD-10 codes, the payer detailed in a recent journal article.
+The study, published in March in the Journal of Diabetes and its Complications, outlines Humana’s efforts to integrate ICD-10 codes into the risk stratification process following the 2015 upgrade from the less specific ICD-9 code set.
+“Humana is committed to furthering our own and others’ population health goals,” said Roy A. Beveridge, MD, Humana’s Chief Medical Officer, in an accompanying press release. The payer is the first to publish a DCSI system that takes advantage of ICD-10 codes instead of relying solely on ICD-9.
+Dig Deeper
+Using Risk Scores, Stratification for Population Health Management
+Predictive Risk Score Targets Highest Cost Patients
+Preventable Diabetes Care Costs Total $16 Billion Per Year
+The tool combines claims diagnosis data regarding a number of related health factors and complications, such as presence and severity of chronic kidney disease, cardiovascular disease, neuropathy, and retinopathy, to provide a comprehensive assessment of individual risk. 
+“The updated ICD-10 diagnostic code system forces greater specificity in defining diabetes type,” the researchers explained, opening up new opportunities to enhance the granularity of the risk scoring system.
+“The DCSI is derived from a quantitative and comprehensive assessment of seven body systems that can be affected by diabetes complications,” said the study. “In addition to giving the total score credibility, this multidimensional approach facilitates clinical understanding, provides more useful patient stratification for population health management and has myriad predictive modeling applications.”
+The updated model builds off of work performed in 2008 at the Department of Veterans Affairs in Washington State.  In that study, researchers found that a simple count of complications and comorbidities could predict the likelihood of future service utilization and mortality.
+The new iteration of the DCSI score may provide better discrimination between severity levels due to its ability to use more detailed diagnostic codes, the study asserted, calling the ICD-10 transition “the perfect opportunity” to improve the existing risk scoring technique. 
+The refinements included adding previously unavailable laboratory data coded in the LOINC format and changing the weighting of certain criteria to reflect the availability of more granular information in ICD-10.
+Creating a more complex risk score based on detailed clinical and claims data “allows us to take a big step forward in providing the data that we and the physicians we collaborate with can use to improve outcomes for members living with diabetes,” Beveridge added.
+The risk stratification score was built using data from more than 800,000 individuals enrolled in Humana insurance plans between 2014 and 2016. When applied to patient data, the team found that the risk stratification tool performed more accurately when ICD-10 codes were either added to existing ICD-9 algorithms or when ICD-10 codes replaced the outdated code set entirely.
+Source: Humana / Journal of Diabetes and its Complications
+The results of the analytics “followed expected patterns” when researchers charted the relationship between risk score severity and relative risk of mortality.  Patients who had higher risk scores also experienced more hospital admissions and more deaths.
+The study notes that a successful claims-driven risk stratification tool relies on high quality documentation and high levels of data integrity in the source material.
+“Any instrument like the DCSI that uses administrative data is only as good as the accuracy of the claims submitted for reimbursement,” the team pointed out.
+As healthcare providers become more adept at generating big data usable for risk stratification and population health management, the team hopes to be able to integrate additional clinical dimensions into the tool.  Depression and behavioral health data, as well as diabetes-related oral health data and additional codes related to metabolic syndrome, could further enhance the accuracy and usefulness of the scoring system.
+“We are pleased to be able to facilitate the efforts of all researchers in the field of diabetes,” said Vipin Gopal, PhD, Enterprise Vice President and head of Clinical Analytics. “The improved tool will allow more accurate identification of members’ disease progression, as well as more accurate assessment of the effectiveness of programs designed to keep members as healthy as possible.”
+Tagged Chronic Disease ManagementHealthcare PayersICD-10ICD-10 AnalyticsPopulation Health ManagementRisk Assessment
+
+

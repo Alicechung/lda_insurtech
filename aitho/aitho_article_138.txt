@@ -1,0 +1,19 @@
+GLOBALFOUNDRIES To Deliver Socionext’s Next Generation Graphics Controller For Advanced In-Vehicle Display Applications
+
+03 Jul 2018
+
+55nm LPx platform, with SST’s highly reliable embedded SuperFlash®, enables enhanced features and security protection for remote display applications
+GLOBALFOUNDRIES today announced that Socionext Inc. will manufacture the third and latest generation of its graphics display controllers, the SC1701, on GF’s 55nm Low Power Extended (55LPx) process technology with embedded non-volatile memory (SuperFlash®). The 55LPx platform enables several new features in Socionext’s SC1701 series including enhanced diagnostic and security protection capabilities, cyclic redundancy code (CRC) checks, picture freeze detection, and multi window signature unit for advanced in-vehicle display systems. The shipping of the SC1701 from Socionext will start at the end of July.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+In recent years, the number of in-vehicle electronic systems has risen exponentially with increasing requirements for multiple content-rich displays. Socionext’s SC1701 controller integrates a variety of system component features along with APIX®3 technology and automotive safety functions to meet the increasing demand for high speed video and data connectivity and stringent safety requirements. The device supports display resolution up to one U-HD (4K) or two F-HD (2K) at 30bpp, and capable of receiving two separate video streams over a single link by utilizing the VESA® display stream compression (DSC) method. Moreover, the SC1701 offers video content protection through built-in HDCP decryption technology that enables a richer user experience.
+Follow Us
+“The SC1701 display controller is designed to support high performance computing within a vehicle, with one of the most innovative evolutions in automotive system architectures,” said Koichi Yamashita, senior vice president and head of IoT and Graphics Solution Business Unit at Socionext. “GF’s automotive grade 1 qualified 55LPx platform, with its low power logic and highly reliable embedded non-volatile memory, was ideal for our product.”
+GF’s 55LPx platform, with SST’s SuperFlash® memory technology, provides a fast path-to-product solution, and is fully qualified for consumer, industrial and automotive grade 1 applications. The implementation of SuperFlash® on 55LPx provides a small bitcell size, increased fast read speed along with superior data retention and endurance.
+Dave Eggleston
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+“GF is excited to be working with Socionext, who is a leader in state-of-the-art SoC technology,” said Dave Eggleston, vice president of embedded memory at GF. “Socionext joins our rapidly growing client base for GF’s 55LPx platform, which offers a combination of superior low power logic, embedded non-volatile memory, extensive IP, and superior reliability for the industrial and automotive grade 1 system-on-chip markets.”
+The 55LPx-enabled platform is in volume production at GF’s 300mm line in Singapore. In addition to the SC1701, Socionext is currently developing several products on the technology, joining On Semiconductor, Silicon Mobility and Fudan Microelectronics, who are currently optimizing their chip designs with GF’s 55LPx platform for wearable IoT and automotive products.
+Process design kits and an extensive offering of silicon proven IP are available now. For more information on GF’s mainstream CMOS solutions, contact your GF sales representative or go to globalfoundries.com.
+Read More: Interview With Robert Schwarz, Managing Director ANZ, Nuance Communications
+
+

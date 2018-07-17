@@ -1,0 +1,20 @@
+Zvelo’s URL Database And Categories Expanded To Include Terrorism, Fake News, Cryptocurrency, Crypto Mining, And More
+
+01 Mar 2018
+
+zveloDB™ extends leadership of URL database for OEM partners
+zvelo, the leading provider of categorization and malicious detection data services for web content, traffic, and connected devices, today announced significant and timely category additions to its comprehensive URL categorization database. zveloDB now offers OEM partners, network security vendors, and brands new and enhanced support for several emerging categories, including terrorism, cryptocurrency, blockchain, fake news, new malicious threat categories, and new objectionable categories.
+zveloDB covers 99.9% of active web traffic and supports 500 topical, malicious, and objectionable categories in more than 200 languages. Each of the newly supported categories has been selected by zvelo as an area of urgent importance for easy integration with web filtering solutions, and increased granularity for brand safety and contextual targeting. Combined with the recently announced page-level categorization support, these new categories significantly increase the power and performance of zveloDB across the various web filtering, parental controls, brand safety, and other use cases.
+Jeff Finn
+“Over the past several years, we have been developing a scalable platform that utilizes AI-based microservices with the specific goal of being able to rapidly deliver the most accurate categorizations of new content and emerging threat types,” said Jeff Finn, CEO, zvelo. “Today’s zveloDB category releases are an exciting milestone for zvelo and our OEM partners – enabling real-time categorization and support, and affirming the design decisions made over the past several years by our engineering and product teams.”
+New categories now available within zveloDB – at no additional cost – to partners and users include:
+Terrorism: Websites promoting terrorism, radicalism, and the unlawful use of violence and intimidation.
+Cryptocurrency: Websites discussing cryptocurrency such as Bitcoin, Ethereum, Litecoin, and others. This category can also include web pages which discuss cryptocurrency mining and web pages which perform cryptocurrency mining with user permission (opt-in).
+Cryptocurrency Mining: Websites that use cryptocurrency mining technology without user permission. This is considered a malicious category.
+Blockchain: Websites that discuss or explain Blockchain technology (advantages and disadvantages), and the management of the database that records cryptocurrency transactions.
+Fake/Fabricated News: Websites promoting news that has no basis in fact but is presented as being factually accurate.
+APIs: Websites that pertain to the development, use, and promotion of an application programming interface (API), as well as tools for building application software.
+Internet of Things: Websites which discuss or explain the Internet of Things, and the interconnection (via the internet) of devices embedded in everyday objects which enable them to send and receive data. This also includes websites which market or promote IoT devices.
+A.I. & M.L.: Websites that discuss or explain Artificial Intelligence and Machine Learning algorithms.
+
+

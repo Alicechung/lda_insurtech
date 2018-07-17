@@ -1,0 +1,32 @@
+Big Data Analytics Resource Center Takes Aim at Pediatric Cancer
+
+August 23, 2017
+
+By Jennifer Bresnick
+August 23, 2017 - The Center for Data Driven Discovery in Biomedicine at Children's Hospital of Philadelphia (CHOP) will use a $14.8 million NIH grant to explore the root causes of pediatric cancer and structure birth defects. 
+With the help of a coalition of providers, researchers, and big data analytics experts, the new "Kids First Pediatric Data Resource Center" will leverage a cloud-based database and discovery portal that includes curated clinical and genetic sequencing data from thousands of patients with dozens of different cancers and birth defects.
+Approximately 6000 patient samples will be available when the project launches, but officials anticipate that the dataset will expand to more than 25,000 individuals by 2018, opening up a wealth of possibilities for precision medicine researchers and data analysts.
+"Scientists are beginning to recognize the developmental biology connections between structural birth defects and pediatric cancers, and building on that shared understanding, we can now leverage new technologies, cloud computing, and sophisticated algorithms for collaborative discovery to develop improved, less toxic therapies," said Adam Resnick, PhD, Director of the Center for Data Driven Discovery in Biomedicine (D3b) at Children's Hospital of Philadelphia.
+Researchers will be able to search repositories of genomic data using data visualization tools and cloud-based information sharing platforms to identify key genetic factors that lead to certain childhood cancers and structural birth defects.
+READ MORE: Precision Medicine Benefits Pediatric Cancer Care, Study Says
+The project also plans to develop big data analytics tools for use in the wider research community and open up access to clean, accurate, and trusted genomic datasets so organizations can engage in novel research efforts.
+"For clinicians, structural birth defects and cancer have been some of the most challenging areas of pediatric medicine,” said N. Scott Adzick, MD, Surgeon-in-Chief of Children's Hospital of Philadelphia and Director of the Center for Fetal Diagnosis and Treatment at CHOP.
+“For the first time, clinicians and researchers, along with academic, government and commercial partners, are coming together to fully harness the power of emergent technologies, shared data, and precision medicine. This collaboration will lead to improved outcomes for every child across all of these diseases.”
+Five other organizations will be working with CHOP to develop the resource center.  The Ontario Institute for Cancer Research will support the design and architecture of a resource portal and a series of web-based analytics tools that connect to disease-specific datasets.
+Meanwhile, the University of Chicago will tackle data optimization and management issues, while the Children’s National Health System will act as a project coordinator, overseeing the creation of additional partnerships.
+READ MORE: Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+Oregon Health and Science University will help to develop community standards and frameworks for the Data Coordination Center to ensure that research is sharable and reproducible. 
+And technology developer Seven Bridges will continue to develop and support the data analytics infrastructure, building off an existing genomic analytics partnership with CHOP.
+The coalition will also integrate data from other collaborative pediatric big data analytics efforts, including the Children's Brain Tumor Tissue Consortium (CBTTC) and the Pacific Pediatric Neuro-Oncology Consortium (PNOC).
+"It is only through an authentic partnership with patients and families and the integration of efforts across disciplines, from surgery to oncology to genetics, within and across institutions, that these efforts are made possible," said Phillip (Jay) Storm, MD, Chief of the Division of Neurosurgery at Children's Hospital of Philadelphia.
+"The Kids First DRC will continue to work closely with partnered foundations, disease-specific consortia and other partners in support of patients and their families."
+READ MORE: Precision Medicine Sparks New Conversations about Patient Data
+CHOP opened its Center for Data Driven Discovery at the beginning of 2016 with the vision of taking a collaborative, open-source approach to research and precision medicine development.
+"Change is urgently needed in pediatric research, where territorial boundaries, scarce data, and limited technological infrastructures impede medical progress,” Storm said at the time. “Our center has a goal of developing new models for collaboration, data sharing and scientific integration."
+"In the 21st century, innovation mandates collaboration. This not only includes our long-standing partnerships with other hospitals and researchers, but also countless foundations, and the patients and families themselves."
+Contingent on continued NIH funding, the Center will have five years to use its grant money to pursue these goals.  The grant stems from the Gabriella Miller Kids First Pediatric Research Program, a multi-departmental effort within the NIH to promote research breakthroughs in pediatric oncology.
+"NICHD is committed to supporting research on birth defects as part of its overall focus on improving the health of children," said Dr. Diana Bianchi, Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD).
+"The Kids First initiative provides a unique opportunity to use DNA sequencing information to gain a better understanding of the underlying causes of birth defects and childhood cancers."
+Tagged Analytics InfrastructureClinical AnalyticsCloud ComputingGenomicsHealthcare Big Data AnalyticsMedical ResearchPrecision Medicine
+
+

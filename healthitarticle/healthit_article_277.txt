@@ -1,0 +1,55 @@
+Amazon Machine Learning, Big Data Tools Have Healthcare Implications
+
+November 30, 2017
+
+By Jennifer Bresnick
+November 30, 2017 - Healthcare organizations looking to expand their big data analytics horizons will have more infrastructure, Machine-Learning-as-a-Service (MLaaS), and deep learning options thanks to a series of new product launches from Amazon.
+The bookseller-turned-innovation-juggernaut has announced a suite of new tools including an Internet of Things (IoT) analytics platform, natural language processing (NLP) tools, a deep learning imaging analytics system, and a graph database platform that may allow providers to take their big data assets to the next level.
+The technology releases, showcased by Amazon Web Services (AWS) at the annual re:Invent convention, highlight the increasingly important role of companies more traditionally known for their consumer-facing interests. 
+Microsoft, Google, Amazon, and Apple have all made moves into the healthcare space in recent months, jockeying for position as leaders in one of the most lucrative technology marketplaces still waiting for its transformative lightbulb moment.
+Applying retail-style analytics, targeting tools, and consumer engagement strategies to healthcare business problems is a promising opportunity to streamline workflows for providers while delivering the smooth, intuitive, and convenient customer service that patients are beginning to expect from their clinicians.
+READ MORE: Navigating the Hype of Healthcare Artificial Intelligence Companies
+AWS’s most recent sortie into the big data analytics market may not be specifically directed at healthcare, but it certainly has wide-ranging implications for hospitals, health systems, physician groups, and payers who are looking to arm themselves with cutting-edge tools to succeed with value-based care, population health management, and business intelligence.
+The democratization of data science capabilities, packaged up in ready-to-use, low-investment interfaces, bodes extremely well for the large number of healthcare organizations who may feel as if advanced analytics are beyond their current capabilities.
+While it is certainly interesting to keep tabs on Amazon’s specific product lines, it will be even more intriguing to see how quickly its competitors can push their own platforms out into the world.
+Healthcare organizations seem headed towards the development of “operating systems,” where organizations will align themselves with suites from certain companies that integrate seamlessly into their optimized environments. 
+Whether the analytics operating system comes from Amazon, Google, Microsoft, or another infrastructure vendor, it is clear that Amazon is getting a jump on the competition with its aggressive, integrated approach to promoting big data analytics and Machine-Learning-as-a-Service tools.
+READ MORE: How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+Here is a roundup of some of the most intriguing offerings unveiled by Amazon Web Services this week.
+AMAZON NEPTUNE AIMS TO EXPAND GRAPH DATABASE ACCESS
+Data lakes have become a popular goal for healthcare organizations looking to maximize the value of their big data assets, but Amazon is planning to take that notion one step further by giving enterprises access to graph database technology through its Amazon Neptune offering.
+Unlike traditional relational databases, where each relationship must be specifically created and programmed to produce the expected result, graph databases can conduct complex analytics on the fly, explains Amazon.
+“They have advantages over relational databases for use cases like social networking, recommendation engines, and fraud detection, where you need to create relationships between data and quickly query these relationships,” the website says.
+“Neptune uses graph structures such as nodes (data entities), edges (relationships), and properties to represent and store data. The relationships are stored as first order citizens of the data model. This allows data in nodes to be directly linked, dramatically improving the performance of queries that navigate relationships in the data.”
+READ MORE: Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+In healthcare, there are many advantages to a more agile approach to mixing and matching disparate datasets. 
+Correlating social determinants of health data with patient outcomes, conducting risk stratification for patients with high out-of-pocket expenses, or monitoring the flow of asthma patients through an ED during periods of bad weather all require a level of semantic analytics sophistication that many organizations are struggling to achieve.
+“Graph databases are useful for connected, contextual, relationship-driven data,” explains Senior Technical Evangelist Randall Hunt in an accompanying blog post. “Some examples [of] applications are social media networks, recommendation engines, driving directions, logistics, diagnostics, fraud detection, and genomic sequencing.”
+The fully-managed platform may also enable organizations with limited in-house data science staff to punch above their weight, the company added.  The platform allows integration through open application programming interfaces (APIs), which may make it easier for providers to share development successes and access data sets.
+MACHINE-LEARNING-AS-A-SERVICE STANDARDIZES ALGORITHMIC INSIGHTS
+Few technologies are generating more excitement in healthcare and elsewhere as machine learning and artificial intelligence.  Recognizing the strong desire for machine learning tools and the accompanying difficulties securing qualified talent, Amazon SageMaker plans to reduce the time-to-insight for enterprises.
+“Machine learning is a pivotal technology for many startups and enterprises. Despite decades of investment and improvements, the process of developing, training, and maintaining machine learning models has still been cumbersome and ad-hoc,” Hunt said in a separate blog.
+“The process of incorporating machine learning into an application often involves a team of experts tuning and tinkering for months with inconsistent setups. Businesses and developers want an end-to-end, development to production pipeline for machine learning.”
+The service can be used as an end-to-end MLaaS platform or as a way to fill in existing infrastructure gaps, Hunt says. 
+NATURAL LANGUAGE PROCESSING OFFERS UNSTRUCTURED DATA ANALYTICS
+Natural language processing is one of the core components of unstructured data analytics, and often contributes to the success of machine learning algorithms.  Healthcare providers are continually searching for ways to extract actionable insights from free text input into electronic health records, and Amazon thinks it may have a solution for them.
+Amazon Comprehend “can identify different types of entities (people, places, brands, products, and so forth), key phrases, sentiment (positive, negative, mixed, or neutral), and extract key phrases, all from text in English or Spanish,” wrote Jeff Barr, Chief Evangelist for AWS.
+The tool presents users with interactive confidence scores that specific elements are related to common definitions, such as a quantity, an organization, or a place.
+Source: Amazon Web Services
+Users will be able to take the results and use an API to build applications, Barr says.  The function is already available for use.
+DEEP LEARNING FOR IMAGING ANALYTICS COULD ACCELERATE DETAILED DIAGNOSES
+Imaging analytics has seen an explosion of interest from the machine learning and artificial intelligence community, and represents one of the most promising areas for the current generation of pattern recognition technologies.
+Radiology images and pathology slides have been the subject of numerous machine learning and AI research initiatives, which have proven that computers can already approach the level of accuracy of human diagnosticians.
+The Amazon Rekognition Image service harnesses the power of deep learning neural network models to classify, search, and analyze still images as well as video clips, writes Technical Evangelist Tara Walker.
+The cloud-based tool “can accurately detect, track, recognize, extract, and moderate thousands of objects, faces, and content from a video,” Walker said. 
+“It not only provides accurate information about the objects within a video but it [is] the first video analysis service of its kind that uses the complete context of visual, temporal, and motion of the video to perform activity detection and person tracking.”
+Source: Amazon Web Services
+For healthcare organizations looking to engage in home monitoring for elderly patients, prevent falls in the hospital setting, diagnose mental health issues, or monitor progress with physical rehabilitation, easily accessible activity tracking and video analytics could be a game-changer.
+Amazon isn’t the only company with an interest in images, however: Google recently announced a new cloud storage option for medical images, and IBM has poured billions of dollars into bulking up its imaging analytics capabilities in healthcare.
+INTERNET OF THINGS ANALYTICS MAY HELP CONTROL THE BIG DATA TSUNAMI
+Continuing the theme of taking the heavy analytics lifting off the shoulders of enterprises, Amazon’s Internet of Things analytics platform aims to manage the overwhelming flow of data from wearables, sensors, and other devices.
+The AWS IoT Analytics package “helps with predictive analysis of data by providing access to pre-built analytical functions, provides ability to visualize analytical output from service, provides tools to clean up data, [and] can help identify patterns in the gathered data,” Walker says.
+Healthcare organizations searching for a way to bring patient-generated health data into the clinical environment without swamping clinicians with FitBit app printouts may be able to take advantage of such platforms to create structured pipelines for the growing number of medical devices in patients’ homes and lives.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareHealthcare Internet of ThingsImaging AnalyticsMachine LearningNatural Language ProcessingSemantic ComputingSemantic Data Lakes
+
+

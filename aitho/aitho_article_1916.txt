@@ -1,0 +1,16 @@
+Compelling HMIs Require Minimal Cognitive Effort, According To Strategy Analytics
+
+22 Aug 2017
+
+Combining Voice with Emerging HMIs Such as Emotion Sensing, Eye Tracking & Gestures Creates More Personable & Personal UX
+There is no one ideal Human Machine Interface (HMI) across all devices and platforms. Instead, the focus of HMI needs to be on specific use cases and context. A recent report from the User Experience Strategies (UXS) service at Strategy Analytics “UXS Technology Planning Report: Human Machine Interface: Moving Towards the Invisible Experience“, investigating the needs, behaviors and expectations of consumers regarding HMI, has found that the most successful HMI will be those that meet emerging user needs, enhance usability and require minimal cognitive effort.
+Click here for the report: https://www.strategyanalytics.com/access-services/ux-innovation/user-experience-strategies/reports/report-detail/uxs-technology-planning-report-hmi#.WZWjMT6GOM8
+Key report findings:
+Continued advances with Artificial Intelligence (AI), coupled with machine learning and the ever-expanding Internet of Things, is creating more personal and personable experiences. While this is primarily driven by voice, joining voice with other emerging HMIs such as gestures, eye tracking, and emotion sensors can help detect what a user wants to do without vocal command.
+The ideal context for eye-tracking HMI will stem across the car, phone and in-home – all of which can cause line-of-sight interference from other objects. This HMI will have will have greatest impact on devices from which users frequently read, although most concerns center on accuracy and positioning.
+Through analyzing and assessing a user’s current emotional state, emotion sensors could be best utilized at detecting tired users – especially while driving – and provide actions or recommendations.
+Thought controlled sensors could be best aimed at thought to text dictation and controlling various elements of the smart home, including lighting. This concept holds the greatest levels of uncertainty however due to consumer concerns surrounding privacy, assuming their thoughts may always be tracked and to how commands are initiated and concluded through thought.
+Christopher Dodge, Associate Director and report author commented, “AI is becoming more central to our everyday lives: for example, emotion sensors can provide greater context to a user’s command when speaking to a digital assistant. All of these future HMIs revolve around in-home use with scattered use cases across the phone, in-car, and wearables. Flexibility is key.”
+Chris Schreiner, Director of Syndicated Research, UXIP added, “To allay consumer fears around false positives, ensuring a system asks before acting will make the user feel in control of the experience. As HMIs move from mature to future, less cognitive effort from the user for single usage scenarios is required, while more machine intelligence is needed for validation and error recovery.”
+
+

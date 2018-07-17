@@ -1,0 +1,23 @@
+“Most Wired” hospitals heavy on clinical analytics, engagement
+
+July 10, 2014
+
+By Jennifer Bresnick
+July 10, 2014 - The 16th annual “Most Wired” hospitals survey has produced a crop of healthcare organizations with a few big things in common: clinical analytics, patient engagement, robust EHR use, and a commitment to leveraging all the health IT at their disposal to improve outcomes, reduce costs, and raise patient satisfaction.  The coveted title recognizes hospitals that have gone above and beyond their peers during the ongoing transformation of healthcare into a data-driven industry, and have focused extensively on investing in tools to further the role of population health management and accountable care while the great shift trundles on.
+”The Most Wired data show that shared health information allows clinicians and patients to have the information they need to promote health and make the most informed decisions about treatments,” said Rich Umbdenstock, president and CEO of the American Hospital Association. The AHA collaborates with CHIME, AT&T, and McKesson to produce the rankings.  “Hospitals, their clinicians and their communities are doing tremendous work to enhance their IT systems in ways that support care and delivery improvement, and patient engagement goals.”
+Among the notable statistics revealed by the survey are the following:
+• 61% of percent of “Most Wired” organizations use predictive analytics.
+Dig Deeper
+Desire for Predictive Analytics Outpaces Hospital Investment
+Population Health is Top Data Analytics Challenge for Providers, Payers
+Apple Explores Medical Data with Health Records API, Patents
+• 36% conduct planned experiments to make better management decisions or complete forecasting models.
+• 43% have integrated clinical and claims data which is accessible and reportable across the continuum of care, while 69% can run reports on clinical and administrative data to identify opportunities for population health management, including improvements to care quality and the reduction of costs.
+• 67% of “Most Wired” hospitals participate in health information exchange.
+• 82% of organizations currently offer a patient portal, while 53% offer patients with chronic diseases a suite of self-management tools accessible online.  Fifty-eight percent have an mHealth app that provides patient portal access.
+“We are using real-time algorithms within and outside of the EHR to look at risk, and predict and inform clinical and operational pathways,” says Steve Hess, CIO, University of Colorado Health, which made this year’s list. “While still early, we are starting to see patterns related to how our patients are interacting with our system and the reimbursement impact of those changes. It is important that our systems are set up to provide the complete patient picture and to ensure that the patient is getting the appropriate care in the appropriate setting at the right time.”
+“While we are proud to say we have an IT culture across our organization, the bottom line is what this means for our patient families,” said Bill Considine, president and chief executive officer of Akron Children’s Hospital, another “Most Wired” winner. “It means better patient documentation and fewer medical errors. It means we have an electronic record for the patient’s medications, tests, therapies and treatments. It means our primary care offices are connected to our Emergency Department, our pediatric specialists and other locations so all providers are able to easily access and share a patient’s medical history. In short, it means better care.”
+To download the list of all the 2014 “Most Wired” hospitals, please click here.
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Business IntelligencePatient Engagement
+
+

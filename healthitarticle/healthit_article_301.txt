@@ -1,0 +1,36 @@
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+
+November 06, 2017
+
+By Jennifer Bresnick
+November 06, 2017 - Neural networks, a type of machine learning strategy, can predict a positive ovarian cancer diagnosis 91.3 percent of the time when analyzing a novel RNA biomarker, according to new research from the Dana-Farber Cancer Institute and Brigham and Women’s Hospital.
+In an article published in the journal eLife this autumn, researchers assert that combining next-generation RNA sequencing with an advanced analytics algorithm has the potential to create a highly accurate, non-invasive diagnostic test for ovarian cancer, a leading cause of cancer deaths among women.
+“A woman’s survival often hinges on doctors detecting the tumor before it has spread beyond the ovary,” the authors explained.  Ovarian cancers are typically diagnosed at their latter stages, after metastasizing.
+At that point, the disease becomes much more difficult to treat, leading to an average survival time of less than five years. 
+"There is currently no reliable test to diagnose ovarian cancer before symptoms emerge,” the researchers said, leaving most providers unable to treat the disease as proactively as they could wish.
+READ MORE: Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+In addition, some existing tests, including blood protein analysis and ultrasounds, may also produce false positive results, leaving women with the prospect of undergoing expensive and invasive surgery for a cancer that may not exist.
+The lack of precise and accurate testing led the researchers to explore the potential for machine learning to improve the diagnostic process. 
+The team posited that small genetic defects present in many ovarian cancers, called microRNAs (miRNAs), could be detected in the blood for an earlier diagnosis even before symptoms appear. 
+“Testing a seemingly healthy women’s blood for the same pattern of altered microRNAs found in women with ovarian cancer might be one way to detect the disease earlier,” the researchers suggested.
+The team selected specific miRNAs highly likely to appear in even the earliest ovarian lesions, which means their presence is likely indicative of pre-symptomatic tumors.
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+The team tested several different predictive analytics tools, including one based on a neural network, using publicly available datasets and subjects from previous studies in the US and Poland. 
+Neural networks use complex layers of decision-making nodes that mimic the structure of the human brain, allowing for highly accurate and precise outputs.
+Among a sample of 454 patients with a variety of known diagnoses, the miRNA-neural network combination was 100 percent accurate at picking out those with ovarian cancer.
+Compared to using a known cancer biomarker called CA-125 to identify the presence of tumors, the neural network and miRNA combination was better able to identify positive, negative, and non-invasive cases of ovarian cancers. 
+[pic]
+READ MORE: Informatics, Machine Learning Accelerate Pharmaceutical Discovery
+In a group of 120 subjects, the machine learning tool correctly classified 35 out of 43, or 81 percent, of non-invasive tumors.  The CA-125 method only identified 47 percent of these cases.
+While the study acknowledges that researchers have a lot more to learn about the relationships between miRNA and the development and expression of cancer, it does add to the growing collection of trials proving that machine learning is a promising avenue for improving cancer diagnostics.
+Highly accurate algorithms built upon a variety of machine learning techniques have proliferated quickly over just the past few years, offering support to pathologists, radiologists, and oncologists seeking to personalize care for patients.
+Earlier in 2017, researchers at Case Western Reserve University developed a deep learning tool that was 100 percent accurate at identifying images of invasive breast cancer from pathology slides, while a team from Indiana University-Purdue University Indianapolis achieved a similarly flawless score with their algorithm to identify remission rates from acute myelogenous leukemia.
+Machine learning algorithms could help providers target their resources more effectively by freeing up clinicians to focus on treating cancers instead of diagnosing them after they have developed significantly. 
+Quicker diagnoses supported by non-invasive testing, such as RNA serum analysis, could also increase patient quality of life, reduce costs associated with biopsies or false positive surgeries, and improve the prospect for better long-term outcomes.
+The use of RNA biomarkers for cancer diagnostics is still in its infancy, the ovarian cancer study’s authors readily acknowledged, and much more work will need to be done before the strategy can be applied to routine clinical practice. 
+Future work may also focus on developing algorithms that can predict outcomes or chart the likely progression of the disease, which may have important applications for preventive medicine and population health.
+“In conclusion, serum miRNA adds to the toolbox of options to diagnose ovarian cancer,” the Dana-Farber team said.  “Additional study is necessary to determine whether integrating clinical risk factors could further improve its performance. 
+“Whether serum miRNA offers a lead time advantage over other putative biomarkers remains to be proven. We need to study the performance characteristics of the miRNA neural network in high risk and low risk populations. With our improved understanding of miRNA analytic approaches, we can develop better models for this and other diseases.”
+Tagged Artificial Intelligence in HealthcareClinical AnalyticsMachine LearningMedical ResearchPersonalized MedicinePopulation Health ManagementPrecision Medicine
+
+

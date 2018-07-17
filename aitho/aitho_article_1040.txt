@@ -1,0 +1,15 @@
+Palo Alto Networks Closes Acquisition Of Evident.io
+
+28 Mar 2018
+
+Palo Alto Networks®, the next-generation security company, announced that it has completed its acquisition of Evident.io, a pioneer and leader in public cloud services infrastructure protection. For Palo Alto Networks, the transaction will extend its leadership in cloud security and create the only holistic cloud offering to address the critical security needs of today’s enterprise customers as they adopt the cloud.
+Mark McLaughlin
+“The completion of this acquisition provides Palo Alto Networks the opportunity to extend our leadership in cloud security,” said Mark McLaughlin, Palo Alto Networks CEO. “We expect customers from both Evident.io and Palo Alto Networks to benefit from Evident as part of our platform and to experience a smooth transition.”
+Palo Alto Networks has established itself as the leader in public cloud security through the unique combination of VM-Series virtualized next-generation firewalls for inline cloud security, API-based security for public cloud services infrastructure, and Traps for host-based protections.
+Evident.io extends the Palo Alto Networks API-based security capabilities, and helps cloud practitioners ensure their deployments are secure as well as achieve a continuous state of compliance by analyzing the configurations of all the services and account settings against strict security and compliance controls. Once integrated with the Palo Alto Networks cloud security offering, customers will be able to use a single approach to continuous monitoring, storage security, and compliance validation and reporting. This will give security, DevOps and compliance teams unique capabilities to:
+Confidently develop and deploy new applications in the cloud faster.
+Simplify developer and security operations to speed deployments without sacrificing security.
+Continuously validate compliance of cloud deployments.
+Palo Alto Networks acquired Evident.io for $300 million in cash.
+
+

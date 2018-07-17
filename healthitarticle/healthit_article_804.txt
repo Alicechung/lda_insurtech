@@ -1,0 +1,25 @@
+Population Health Management, Big Data Markets Set to Grow
+
+August 16, 2016
+
+By Nathan Boroyan
+August 16, 2016 - The need for big data in healthcare IT appears to be driving significant growth in population health management solutions and global healthcare analytics markets, according to two recent studies.
+According to a Transparency Market Research study, the US population health management solutions market is projected to grow steadily between 2015 and 2023 at a compound annual growth rate (CAGR) of 23.90 percent.
+By 2023, the study notes, the population health management solutions market is expected to be valued at $45.7 billion, up from its 2014 value of $3.4 billion. One of the driving factors behind this growth: the implementation of the Affordable Care Act, which has spurred the demand for population health management solutions in the US.
+A quickly aging population and an uptick in incidence of chronic diseases are also contributing to the increase in demand for population health management solutions.
+Dig Deeper
+Big Data Analytics, Population Health Top Executive Priority List
+Top Healthcare Business Intelligence Companies by Hospital Users
+Business Intelligence Tools Bring Insights to Organ Donation Network
+The lack of necessary infrastructure, however, is keeping this market from growing at a more rapid pace. Population health management – which aims to separate patients into groups connected by identified characteristics so that each can be treated based on individual risk profiles – needs the proper infrastructure in order for the data to be properly analyzed and distributed between providers, payers and end users.
+Electronic health records (EHR), already used by a majority of primary care providers and hospitals, provide basic data for early stage analytics. However, normalizing and analyzing the data can be a challenge for many providers. For patients to receive the best possible care, information such as insurance and pharmacy claims, patient-generated health data, registry data, and socioeconomic information is also needed.
+The study breaks down the market into premise-based, cloud-based, and web-based population health management systems. These tools facilitate database management for monitoring and comparing health outcomes among different patient cohorts.  Based on the report, the cloud-based population health management solutions segment is forecast to experience the most rapid growth among all mode of application segments.
+In order for population health management to continue to develop, the need for big data is becoming paramount. According to a report by Mordor Intelligence, the value of the global healthcare analytics market is projected to more than triple. The global healthcare analytics market is currently valued at $9.96 billion and is expected to rise at a CAGR of 26.1 percent over the next five years to $31.75 billion.
+Geographically, North America is expected to command the highest market revenue while also witnessing the highest CAGR of 26.0 percent. As of 2015, North America already dominates the global healthcare analytics market, accounting for 61 percent of the market share, followed by Europe (18.10%) and Asia Pacific (6.30%).
+Descriptive analytics, currently accounts for the largest segment of the big data analytics industry at 62 percent.  Descriptive analytics allow providers the ability to generate reports that highlight past events such as previously consumed resources or existing diagnoses.  As organizations turn their focus to more advanced analytics, however, its hold on the market will lessen.  According to Mordor Intelligence's report, the market share for descriptive analytics is expected to decrease by 2021.
+Predictive analytics, which uses descriptive data to forecast what might happen to patients in the future, is expected to claim a larger share of the market while experiencing the highest CAGR of all technology/platform segments. Prescriptive analytics is also expected to increase its market share over the next five years.
+Additionally, though the on premise delivery system segment currently accounts for the largest share, the cloud-based services segment is rapidly scooping up more of the market.
+The forecasts offered by the TMR and Mordor Intelligence reports demonstrate how population health management and big data go hand-in-hand. As providers shift towards a population-based model, the need for big data tools is driving further investment in the market.
+Tagged Clinical AnalyticsHealthcare Big Data AnalyticsHealthcare Business IntelligencePopulation Health Management
+
+

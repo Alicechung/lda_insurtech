@@ -1,0 +1,31 @@
+FDA Unveils Clinical Decision Support, Medical Device Guidance
+
+December 08, 2017
+
+By Jennifer Bresnick
+December 08, 2017 - The Food and Drug Administration (FDA) has released three new guidance documents aimed at helping developers and vendors better understand how to create effective and safe clinical decision support tools, medical device applications, and other digital health products.
+The guidance, developed in compliance with the 21st Century Cures Act, will help define what clinical decision support applications fall under the “medical device” category that is subject to FDA regulation.
+“CDS has many uses, including helping providers, and ultimately patients, identify the most appropriate treatment plan for their disease or condition,” said FDA Commissioner Scott Gottlieb, MD, in a public statement.  “For example, such software can include programs that compare patient-specific signs, symptoms or results with available clinical guidelines to recommend diagnostic tests, investigations or therapy.”
+“This type of technology has the potential to enable providers and patients to fully leverage digital tools to improve decision making. We want to encourage developers to create, adapt and expand the functionalities of their software to aid providers in diagnosing and treating old and new medical maladies.”
+The three documents, including two drafts and one final release, will continue the FDA’s efforts to streamline and simplify regulations in an era where innovation is quickly outpacing antiquated methods of oversight and approval.
+READ MORE: 21st Century Cures Act Rekindles Information Blocking Debate
+The agency has been actively reviewing what types of health IT tools fall under its jurisdiction.  When it comes to clinical decision support, the line has been drawn according to provisions in the 21st Century Cures Act.
+“Generally, CDS that allows for the provider to independently review the basis for the recommendations are excluded from the FDA’s regulation,” explained Gottlieb. “This type of CDS can include software that suggests a provider order liver function tests before starting statin medication, consistent with clinical guidelines and approved drug labeling.”
+Low-risk patient-facing decision support software will also avoid regulation, as long as the applications limit their functions to allowing patients and caregivers to review treatment recommendations or access reminders.  Applications that purport to make recommendations, like dosage suggestion apps, will still be subject to FDA oversight.
+The second draft guidance document codifies this change by refining definitions of the low-risk applications that will not be within the FDA’s purview.
+“The FDA will continue to enforce oversight of software programs that are intended to process or analyze medical images, signals from in vitro diagnostic devices or patterns acquired from a processor like an electrocardiogram that use analytical functionalities to make treatment recommendations, as these remain medical devices under the Cures Act,” added Gottlieb.
+READ MORE: FDA Eager for Precision Medicine Under 21st Century Cures Act
+The delineation has significant implications for developers of machine learning, artificial intelligence, and other data analytics offerings that use imaging analytics or Internet of Things analytics to make treatment suggestions to providers.  These applications would require FDA review.
+“These are areas in which the information provided in the clinical decision software, if not accurate, has the potential for significant patient harm, and the FDA plays an important role in ensuring the safety and effectiveness of these products,” Gottlieb pointed out.
+The last document, which has been released as final guidance, addresses the FDA’s efforts to synchronize its efforts with other leading countries around the globe. 
+“Innovations in digital health remind us that we live in an interconnected world – one that reaches across borders and joins us in new and unique ways,” Gottlieb said.
+“That’s why in recent years, we’ve worked closely with regulatory authorities across the globe through the International Medical Device Regulators Forum (IMDRF) to evaluate requirements in individual countries, and harmonize our regulatory approaches to digital health medical devices, where possible. Many of our global counterparts are represented, including Australia, Brazil, Canada, China, the European Union, Japan, Russia and Singapore.”
+READ MORE: EHR Clinical Decision Support Produces Better Patient Care
+The final guidance document, originally issued as a draft in October of 2016, establishes a set of common principles to use when evaluating the safety, outcomes, and effectiveness of Software as a Medical Device (SaMD).
+“The agency’s adoption of these principles provides us with an initial framework when further developing our own specific regulatory approaches and expectations for regulatory oversight, and is another important piece in our overarching policy framework for digital health,” said Gottlieb.
+The FDA hopes that the new information will make it easier for developers to work on creating innovative products that adhere to useful and well-defined guidelines.
+“Our aim is to provide more clarity on and innovative changes to our risk-based approach to digital health products so that innovators know where they stand relative to the FDA’s regulatory framework,” Gottlieb concluded.
+“Our interpretation of the Cures Act is creating a bright line to define those areas where we do not require premarket review. And we’re providing more detail on those technologies and applications that would no longer be classified as a medical device subject to FDA regulation. This will allow us to focus our efforts on the highest-risk products.”
+Tagged Analytics InfrastructureClinical Decision SupportClinical Decision Support SystemsImaging AnalyticsMachine Learning
+
+

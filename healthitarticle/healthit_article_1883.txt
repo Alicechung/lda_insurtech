@@ -1,0 +1,12 @@
+UMass professor receives $500K grant for mHealth big data
+
+August 21, 2014
+
+By Jennifer Bresnick
+August 21, 2014 - Benjamin Marlin, an assistant professor at the University of Massachusetts Amherst, has received a five year, $536,000 grant to assist his research into machine learning tools that capture and analyze mHealth data.  The big data analytics project will attempt to discover new ways to harmonize patient-generated health data from wearable devices and smartphone applications with EHR data to give providers new insights into patient care.
+“Electronic health records are seeing wide adoption across the United States and we’re starting to see the emergence of large stores of complex clinical data as a result,” Marlin said. “There’s significant interest in leveraging these data to enhance all kinds of clinical decision support tools with the hope that they can ultimately improve quality of care.”
+“Developing models and algorithms that can accurately and reliably detect activities like smoking from wearable sensor data has tremendous potential for use in behavioral science research as well as continuous health monitoring,” he added.
+Marlin is a co-founder and co-director of the UMass Amherst Machine Learning for Data Science Laboratory, and will collaborate with other computer scientists at academic institutions including Yale University School of Medicine and the University of Memphis on his work.
+Tagged Big DataClinical AnalyticsPatient Generated Health Data
+
+

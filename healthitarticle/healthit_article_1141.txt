@@ -1,0 +1,27 @@
+HIMSS Health IT Score Gauges Value of EHR, Big Data Adoption
+
+December 04, 2015
+
+By Jennifer Bresnick
+December 04, 2015 - Healthcare providers looking for an objective way to measure the real worth of their health IT infrastructure need look no further than the new Value Score from HIMSS. 
+Intended to complement the existing HIMSS Analytics Electronic Medical Record Adoption Model (EMRAM), the score adds to the industry’s efforts to quantify the impact of IT tools and their associated organizational and financial changes.
+"With the move towards value-based care, the international healthcare community can now look beyond initial adoption and toward a broader, all-encompassing way to measure the clinical and financial value of health IT," said Stephen Lieber, President and CEO of HIMSS.
+"The Value Score is a combination of HIMSS' core competencies and is the natural next step in the continual evolution towards better care and outcomes for patients and providers."
+Dig Deeper
+Leveraging Business Intelligence for Healthcare Management
+Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+Which Healthcare Big Data, Business Intelligence Vendors are Most Popular?
+The new metric builds on the industry standard EMRAM system, which ranks an organization’s health IT adoption level on a scale from Stage 0 to Stage 7. 
+As of the middle of 2015, only 3.7 percent of US hospitals have achieved Stage 7 recognition, which includes complete EMR adoption and the use of CCD transactions to share data, as well as big data analytics capabilities like data warehousing and continuity across the organization.
+The new score will utilize key performance indicators (KPIs) that represent four levels of health IT value:
+Baseline value will be defined as the inherent value derived from having advanced EHR and other health IT capabilities, such as those judged by the EMRAM score.
+Perceived value will gauge how the organization comprehends the importance and potential of IT throughout the practice.
+Recognized value, a major focus of the score, will assess how the organization achieves demonstrable outcomes against accepted KPIs.  These outcomes include gains in clinical quality, as well as financial and operational efficiencies.
+Lastly, the score will evaluate the innovative value of health IT within the organization, using KPIs that measure how advanced health IT adoption is driving progress and better outcomes within the industry. 
+HIMSS is refining the Value Score’s algorithms in conjunction with a sample of high-performing providers, including HIMSS Davies Award winners, and critical access hospitals.  These organizations will help to develop actionable data sets to be used as the Value Score is introduced into the industry.
+The effort follows the 2013 release of the DELTA Powered Analytics Suite by HIMSS Analytics, which focuses specifically on the maturity of a healthcare provider’s analytics programs. 
+“New healthcare delivery models, such as accountable care and patient-centered medical homes, require the use of analytics to better understand patient populations, medication adherence and other types of patient-centered statistics and activities,” said James Gaston, MBA, FHIMSS, who was Senior Director of Clinical and Business Intelligence at HIMSS Analytics at the time. He is now the Senior Director of Model Development. 
+“The DELTA Powered Analytics Assessment allows healthcare organizations to better understand their analytics capabilities, and to plot a course to derive value from and advance them over time,” he added. “This allows healthcare organizations to be more competitive and drive improved patient outcomes within the new healthcare world.”
+Tagged Analytics InfrastructureBig Data AnalyticsHealthcare Business Intelligence
+
+

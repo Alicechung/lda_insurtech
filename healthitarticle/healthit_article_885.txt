@@ -1,0 +1,39 @@
+What Big Data, EHR Vendors Do Accountable Care Organizations Use?
+
+June 09, 2016
+
+By Jennifer Bresnick
+June 09, 2016 - Selecting a vendor for an electronic health record, big data analytics system, or population health management tool can be a difficult process for a healthcare provider – and it only gets harder if that provider wants to participate in value-based care.
+Accountable care organizations (ACOs) are founded on the ability to communicate with each other, coordinate services, and analyze the activities of their attributed patients. 
+But since many ACOs are partnerships between providers and care sites that may not have worked closely together in the past, many ACOs find themselves juggling multiple technologies, varying levels of health IT sophistication, and vastly different vendors as they struggle to achieve their quality and revenue goals.
+As Medicare and private payers both stress the importance of value-based reimbursement, the number of ACOs is continuing to rise.  New quality-based initiatives like MACRA, as well as a growing variety of attractive participation options from commercial payers and Medicare, have all prompted more providers to test the waters of accountable care.
+In this article, HealthITAnalytics.com takes a look at some of the latest Definitive Healthcare data about EHR adoption and big data analytics technology use among hundreds of ACOs across the country.
+Business intelligence and performance management tools are in common usage
+Big data analytics is becoming a necessary competency for ACOs, especially long-term participants that must continually find creative new ways to meet benchmarks that grow more stringent each year.
+Business intelligence and performance management technologies, which help providers understand opportunities to squeeze out administrative waste, streamline service offerings, and predict areas of risk, are among the most popular modules for ACOs.
+A sample of 430 commercial ACOs reveals that the business intelligence technology landscape among accountable care organizations is somewhat less fragmented than in the hospital community.
+While hospital facilities at the end of 2015 were likely to choose from a wide variety of smaller vendors, or craft their own proprietary systems, the commercial ACOs in the data sample gravitated towards fewer vendors, and rarely chose to develop infrastructure on their own.
+The most popular choices included Altegra Health, ActiveHealth, Midas+ A Xerox Company, and Medecision, while vendors better known for their EHR offerings, like Epic and Allscripts, also made an appearance. 
+Just 9 percent of commercial ACOs chose one of the nineteen “other” vendors that garnered fewer than ten ACO customers from the dataset.
+However, Medicare ACOs, including participants in the Medicare Shared Savings Program (MSSP), Pioneer program, and Next Generation program, took a different approach.  Of the 93 Medicare ACOs in the survey, a whopping 42 percent chose business intelligence or performance management vendors that fell into the “other” category.
+Epic Systems enjoyed a somewhat larger share of the Medicare ACO marketplace, with 12 percent of the organizations, but Medecision took 15 percent of the pie.  Cerner, eClinicalWorks, Altegra Health, Allscripts, TriZetto, ActiveHealth, and Sandlot Solutions divvyed up the rest of the customers.
+ACOs are investing in a range of health IT tools to generate actionable data
+Business intelligence is just the tip of the iceberg for most accountable care organizations, however.  Most ACOs have a number of different tools at their disposal to exchange information, manage populations, improve patient safety, and monitor their data.
+A sample of 397 commercial ACOs which have 3107 different technology installations at their associated care sites, illustrates the importance of health IT tools that can coordinate and communicate across multiple settings.
+Read: How to Choose the Right Healthcare Big Data Analytics Tools
+The majority of ACOs are using several types of health IT across their affiliated care sites, and may be using multiple vendors at individual offices or care locations.
+Health information exchange capabilities are clearly extremely important to accountable care success, and electronic health records are just as crucial for generating and managing patient data across the continuum of care.
+Dedicated care coordination software attracted customers at 256 care sites, while data and information lifecycle management tools were in use at 73 ACO sites.
+Well-known EHR vendors remain popular with the ACO crowd
+Accountable care organizations are unlikely to stray far from the tried-and-true EHR vendor landscape, the data shows, although Medicare ACOs are slightly more likely than commercial organizations to invest in a broader array of developers.
+Of the 3107 technology installations at commercial ACO care sites, there were 1007 different EHR implementations.  There were 238 Medicare ACOs with a total of 745 care sites that listed their EHR vendor affiliations. 
+Forty-one percent of commercial ACOs and Medicare ACOs have adopted Epic as their EHR vendor.  Thirty-five percent of commercial ACOs chose Cerner, along with 22 percent of the 745 Medicare ACO care sites included in this part of the analysis. 
+Other common choices among the 1007 commercial ACO care sites included Allscripts, athenahealth, MEDITECH, McKesson, and NextGen.
+Just four percent of commercial ACOs and three percent of Medicare ACOs are using “other” EHRs, which adds evidence to the fact that the EHR marketplace has consolidated quickly. 
+EHR vendors with a proven track record of helping accountable care organizations succeed in a difficult value-based environment are likely to attract more ACO customers than other developers.
+Read: What Are the Benefits of Accountable Care Organizations?
+Medicare and commercial payers are only going to ramp up their efforts to get healthcare organizations to cut costs and improve quality as they strain to reach industry goals for value-based reimbursement – and providers will soon have to make some tough choices about attesting to quality and technology use under MACRA’s flexible new pathways.
+As providers gain more experience and confidence with accountable care and the technologies that drive it, vendors will also have to continue to innovate in order to deliver the tools and capabilities that providers are likely to demand in the quest to provide quality, coordinated care to their patients.
+Tagged Accountable Care OrganizationsCare CoordinationEHR VendorsHealthcare Business Intelligence
+
+

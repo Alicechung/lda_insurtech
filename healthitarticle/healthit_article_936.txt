@@ -1,0 +1,30 @@
+Partnership Ups Medication Adherence with Predictive Analytics
+
+May 02, 2016
+
+By Jacqueline LaPointe
+May 02, 2016 - Sanofi is attempting to improve medication adherence rates in Type 2 diabetes patients using big data analytics tools developed by partners from Duke and Massachusetts General Hospital, reported an official press release.
+The healthcare company is collaborating with the Duke Clinical Research Institute (DCRI) and the Center for Assessment Technology and Continuous Health (CATCH) at Massachusetts General Hospital to develop predictive analytics mechanisms that advance Type 2 diabetes management programs.
+The collaborations with DCRI and CATCH will establish more comprehensive and accurate predictive analytics models using non-traditional data measures, such as prescription fill information, socio-geographic data, and behavioral information.
+“The results of this very innovative approach to using all available data, including non-traditional healthcare data, will help to direct the deployment of ever more personalized engagement programs, practical tools and services to enable people living with diabetes to engage more proactively with their treatment and thus achieve more satisfying outcomes,” explained Peter Juhn, MD, MPH, Vice President of Sanofi Global Diabetes Integrated Care.
+Dig Deeper
+Web-Based Health Risk Assessments Accurately Flag Depression
+Diabetes Medication Adherence Cuts Costs by 4%, Boosts Outcomes
+Challenges of Applying Predictive Analytics to Population Health
+The separate partnerships will help to advance patient outcomes through novel drug development, improved clinical trial design, and increased care quality. Specifically, the healthcare company aims to help providers better anticipate medication adherence rates for individual patients.
+“The DCRI's collaboration with Sanofi has the potential to transform chronic disease population management by analyzing how predictive analytics – big data – might forecast medication adherence and result in more personalized patient adherence programs,” said Michael Pencina, PhD, Director of Biostatistics at the DCRI.
+DCRI and CATCH are using different predictive machine learning tools to pull out meaningful insights from the large volumes of de-identified patient data. While maintaining high patient privacy standards, the predictive tools will use patient information to assist healthcare providers with designing tailored treatment plans based on demonstrated behaviors.
+“CATCH's focus on integrative analytics and phenotypes will allow patients and healthcare professionals to make better informed and more tailored, effective decisions,” stated Dennis Ausiello, MD, CATCH's Co-Founder and Director. “Collaborations like this will help ensure our work is brought to the discovery and development process far sooner than was ever before possible.”
+Recently, healthcare providers and medical researchers have recently been turning to predictive analytics to improve chronic disease management initiatives, especially with prescription adherence.
+Medication nonadherence cost the healthcare industry approximately $337 billion in 2013, which resulted in significant setbacks for population health management programs.
+However, a study from Brigham and Women’s Hospital and CVS/Caremark found that predictive analytics tools can help healthcare providers anticipate when a patient will stop following a medication plan. By knowing when a patient is at risk for nonadherence, providers can create more effective intervention tactics.
+While predictive mechanisms can advance chronic disease management, the next step is for healthcare companies and researchers, like Sanofi, to present medication adherence data to providers in convenient ways.
+Despite the benefits of big data analytics tools, healthcare providers are reluctant to integrate medication adherence data into EHRs, according to a recent survey by HealthPrize. About 24 percent of primary care participants reported that they did not want to acquire drug adherence information for each patient because it would lead to data overload.
+The study also stated that only 44 percent of respondents were satisfied with the helpfulness of the patient data they get from pharmacies and health insurance companies.
+If healthcare providers don’t want or trust medication adherence data, then how can physicians improve chronic disease management initiatives?
+The answer may be with semantic data analytics tools. More healthcare providers and big data scientists are focusing on semantic databases to provide more comprehensive insights on population health management.
+Semantic data analytics mechanisms connect different concepts together rather than displaying rows of specific information. Semantic databases draw on different data sets, such as patient information, socio-economic data, and pharmacy information, to make more accurate predictions about patient outcomes.
+Many healthcare groups are searching for ways to improve medication adherence by using different types of datasets to better predict outcomes for diabetes patients. For Sanofi, predictive and semantic data analytics tools are integral to helping healthcare providers access and engage with medication adherence information.
+Tagged Chronic Disease ManagementMedication Non AdherencePopulation Health ManagementPredictive Analytics
+
+

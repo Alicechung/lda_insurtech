@@ -1,0 +1,81 @@
+Identifying Big Data Sources for Population Health Management
+
+January 02, 2018
+
+By Jennifer Bresnick
+January 02, 2018 - Effective population health management is beginning to require healthcare providers to rely heavily on big data derived from both their own health IT systems and from their business partners. 
+Identifying patients at high risk of developing chronic diseases or falling away from maintenance protocols is a significant challenge for many organizations, but is quickly becoming an essential part of succeeding in the value-based care environment.
+In order to develop a comprehensive portrait of a patient’s clinical, financial, and social risks, healthcare providers must aggregate key data from across the care continuum before they can leverage risk scoring frameworks and target interventions to individuals.
+The technical and regulatory complexity of interoperability still presents a major hurdle for many providers, especially those not directly plugged in to large health systems with sophisticated health IT infrastructures.
+Most providers are still many years away from developing big data firehoses that can stream all applicable data into the right systems at the right time.
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+But taking a more targeted approach to identifying and collecting important data elements can help organizations bolster their population health management initiatives in the shorter term.
+Focusing on a specific population health use case, such as diabetes management, asthma care, or smoking cessation, can help providers make immediate gains in patient wellbeing while developing best practices for future initiatives.
+For some organizations, a well-known need in the patient population will dictate which data they seek out.  
+For many others, however, the ideal population health entry point will depend on which data is already easily available, accurate, timely, and trustworthy. 
+Either way, providers must start their population health management initiatives with the same foundation: information on patients that allows clinicians to highlight risks, predict the future course of events, and intervene before those events turn into costly downturns in a patient’s health.
+READ MORE: Why Value-Based Care Must Inspire Partnerships, Data Exchange
+What are some of the common data categories that providers should consider accessing to enable more robust population health management?
+PATIENT DEMOGRAPHICS
+Correct identification of the individual patient across multiple settings of care, as well as accurate representation of patient panels or cohorts, is essential for ensuring accurate management. 
+In the absence of a national patient identifier, stakeholders have struggled to create reliable systems for ensuring they are looking at the same individual’s information when data is being shuttled back and forth across organizational lines.
+Patient demographics are also used to group individuals into basic categories, such as “males aged 30 to 45” or “children under 18 living in a designated provider shortage area.”
+These “buckets” can then be used to target specific interventions that are appropriate for the largest number of people in these specific groups.
+VITAL SIGNS
+READ MORE: Challenges of Applying Predictive Analytics to Population Health
+A patient’s body temperature, blood pressure, heart rate, and respiratory rate can be used in a variety of ways to predict risks, understand the development of chronic diseases, and prevent acute events.  
+High blood pressure, for example, is one of the most common chronic conditions in the US, affecting about a third of the adult population.  Only about half of these individuals have their hypertension under control, according to the CDC.
+Identifying patients whose blood pressure falls outside of recommended ranges and ensuring that these individuals receive the appropriate treatment is a high-value use case that requires only limited analytics investment.
+LABORATORY RESULTS
+Lab results offer similar opportunities to flag risks and chart the effectiveness of ongoing interventions, such as monitoring a diabetic patient’s blood glucose levels over time.
+Laboratory data is often standardized through the LOINC coding system, which offers organizations around the world a shared way to represent the data.  LOINC, overseen by the Regenstrief Institute in Indiana, has also been collaborating with the proprietors of other popular code sets, such as SNOMED-CT, to ensure compatibility.
+PROGRESS NOTES
+Progress notes are one of the most important data sources for patient care, and also one of the most complex.  Often generated in free-text or semi-structured formats, progress notes can present significant challenges for data analytics tools that only accept highly structured data inputs.
+Extracting meaningful, structured information from narrative documentation requires either a major manual investment or the use of natural language processing tools that can automate the process while allowing clinicians to document encounters in an intuitive manner. 
+Striking a balance between free-text note taking and the more analytics-friendly structured input fields can be tricky for organizations as they optimize their electronic health records. 
+Organizations with specific population health management projects in mind may choose to develop specific templates that collect standardized data elements relevant to the task at hand.
+PROBLEM LISTS AND DIAGNOSES
+Like progress notes, a patient’s problem list and diagnoses are vital for determining what an individual is currently experiencing and what that person has overcome in the past.
+While a diagnosis is typically associated with a single episode of care – the patient’s lab work and physician evaluation reveals that she has stage 1 chronic kidney disease, or the patient presents with a UTI – the problem list is a longer-term record of health. 
+Diagnoses are normally recorded for payment and billing purposes using the ICD-10 coding system, which offers an important standardized resource for data analytics.
+A problem list can include both active conditions and resolved diagnoses, which gives providers some insight into the overall burden of disease on an individual, as well as which treatments have been successful at addressing their concerns. 
+A condition on a problem list may remain active across multiple encounters or multiple providers as the individual receives care for that condition.  Organizations should create a governance policy that helps determine when a resolved condition is removed from the problem list.
+PROCEDURE CODES
+Procedure codes, in conjunction with diagnosis codes, offer an extremely rich playground for analytics due to their standardized nature and high levels of detail.  Organizations use both the ICD-10 and the Current Procedural Terminology (CPT) code sets to record procedures for payment and billing purposes.
+By combining diagnosis and procedure codes, organizations can better understand which treatment pathways are most effective for certain conditions, and may be able to personalize these recommended protocols by adding patient demographic data or even more advanced elements like genomic testing results.
+However, organizations should be wary of having too much of a good thing.  ICD-10 has been roundly criticized for being far too granular for the vast majority of needs, and may present providers with enormous volumes of data that are dizzyingly detailed without actually providing the necessary level of insight.
+ALLERGY LISTS
+From severe food sensitivities to adverse drug reactions, allergies can have significant impacts on a patient’s quality of life and interaction with the healthcare system.  Maintaining an up-to-date and accurate allergy list can help to avoid patient safety events and ensure that individuals are being given treatments that will improve their conditions.
+Many providers also include side-effects from certain medications, such as nausea or rashes, which are not true allergies, in order to prevent a clinician from recommending a drug that is not well-tolerated.
+A correct and timely allergy list is especially important when patients move through different care settings.  An individual who arrives in the emergency department may not be in a fit state to remind clinicians of his allergy to a specific type of painkiller, but access to this information is critical for ensuring safe care.
+MEDICATION DATA
+Medications change much more frequently than allergies, and may be even more important for ensuring safe and effective care.  Adverse drug events are common and can be disastrous for both the patient and the provider’s revenue cycle.
+Patients may not always be aware that medications can have multiple names, and may be given two prescriptions for the same drug that result in an unsafe quantity. 
+And in the era of the opioid epidemic, providers must be scrupulously vigilant about prescribing multiple doses of painkillers, especially if a patient purposely omits the fact that have recently received an opioid prescription from a different provider.
+Medication data can also help providers identify gaps in care, such as eligible patients with hypertension who have not been prescribed a statin, or highlight medication adherence issues when a patient fails to refill a prescription or runs out more quickly than anticipated.
+ADMISSION, DISCHARGE, AND TRANSFER (ADT)
+ADT data is one of the most highly valuable communications between the inpatient setting and the physician ecosystem. 
+Knowing when a patient has been admitted, how long that patient has stayed in the hospital, and when they have been discharged is critical for ensuring timely and effective follow-up by a PCP or specialist.
+In a value-based care environment, physicians may see their reimbursements go up or down depending on how nimbly they respond to an unplanned admission. 
+At the same time, hospitals at financial risk for avoidable readmissions want to ensure that patients receive as much care as possible from their ambulatory providers to prevent a return to the inpatient facility.
+Many health information exchange (HIE) organizations support ADT notifications, and adoption of these tools is on the rise.  In 2015, close to 60 percent of hospitals could alert a PCP about a patient’s visit to the emergency department using electronic messaging, says the ONC.
+SKILLED NURSING, HOME HEALTH, AND LTPAC DATA
+Long-term post-acute care (LTPAC), skilled nursing facilities (SNFs), and home health agencies play an important role in helping patients recover from serious events, maintain a level of independence as they age, and support medically frail individuals.
+Unfortunately, many of these facilities are not digitally connected to their physician and hospital partners, which can lead to gaps in information and fragmented treatment plans.  Adverse drug events are very common in these environments, due to insufficient access to records, and patient safety events like falls can be very hard to avoid.
+Managing the most complex patients, such as elderly individuals with multiple comorbidities and high risks, requires payers, providers, and LTPAC organizations to share more data and collaborate more closely – something that many stakeholders are currently working to address.
+Providers and payers may be able to help that process along by making a concerted effort to reach out to their local LTPACs and SNFs to foster communication and ensure patients are being managed appropriately across these settings.
+THE SOCIAL DETERMINANTS OF HEALTH
+Socioeconomic data is one of the most complicated datasets, but may also have the biggest impact on population health management.  The social determinants of health, such as employment and education, food and housing security, access to transportation, and interpersonal violence, are often more important to a patient’s overall wellness than their clinical care.
+Unfortunately, there are few unified, standardized, and easily-accessible datasets that providers can use to augment their population health programs.  Socioeconomic circumstances can vary widely from county to county – even from street to street – which makes it difficult for organizations to reliably assign patients to risk buckets based on available factors.
+Even if they can identify the challenges most impactful for their populations, they may not feel as if they can do much about them. 
+Few organizations can dramatically influence the socioeconomic status of their patients at scale – but small, targeted interventions can have a surprisingly profound effect on individuals.
+Patient education and simple follow-up activities can be a surprisingly powerful tool for influencing lifestyle choices.  The Medicare Diabetes Prevention Program, for example, uses group coaching and periodic check-ins to ensure that participants are making healthy dietary choices and getting enough exercise to achieve weight control goals.
+The program has not only been proven to be effective for diabetes management, but also offers providers an opportunity to accrue reimbursement for their activities while still saving money for Medicare.
+Healthcare providers and payers can use patient demographics, diagnosis codes, and freely available census data or other public health datasets to rough out a portrait of their community and its challenges in order to create tailored programs that address common needs.
+Adding administrative data, such as the number of missed or rescheduled appointments, may also help flag patients in need of transportation services or those who might benefit from a child care arrangement so they can see their providers without having to first secure a babysitter.
+As a whole, the healthcare industry is just starting to learn how to effectively utilize the social determinants of health for population health management, and much work remains to be done before providers can routinely leverage these insights for proactive care.
+Learning to use more readily available data, like demographics, ICD-10 codes, and ADT alerts, will be a viral first step for eventually integrating much more complex and varied big data into the population health management ecosystem.
+Healthcare stakeholders that aim to create highly personalized preventive care and chronic disease management initiatives should work with their partners, health IT vendors, and peers to access and analyze big data that can meaningfully improve the delivery of quality patient care. 
+Tagged Analytics InfrastructureCare CoordinationChronic Disease ManagementClinical AnalyticsHealth Information ExchangeListsPopulation Health ManagementPreventive Care
+
+

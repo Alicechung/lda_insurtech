@@ -1,0 +1,113 @@
+Clinical Decision Support App Helps Nurses Diagnose Diseases
+
+February 24, 2015
+
+By Stephanie Reardon
+February 24, 2015 - Mobile devices like smartphones and tablets may help nurses to diagnoses patients with chronic health problems such as obesity, smoking and depression (in both adults and children) with the use of a custom app, according to a study from Colombia University.
+The custom mobile app provides questions to users to encourage them to follow clinically supported guidelines to help them create care plans and make treatment decisions. The study observed diagnosis rates for smokers, depression and obesity, and assigned nursing students the mobile apps, some with clinical decision support systems and some without, at random.
+Nursing students with mobile apps that contained the clinical decision support systems showed higher diagnosis rates for smokers, depression and obesity than nursing students whose apps did not contain the system.
+The diagnosis rates between nurses using the clinical decision support system and nurses who were not using the system differed greatly, showing that the clinical decision support mobile apps showed obesity diagnoses of 33.9 percent versus 4.8 percent diagnosed without the system, and tobacco use of 11.9 percent versus 2.3 percent. With the guideline system, 44 times more adult depression was diagnosed than without the system and four times more pediatric depression was diagnosed with the clinical decision support system than without.
+ECRI: “Most If Not All” Patient Identification Errors Preventable
+EHR Replacements Rise, but Usability Remains in Question
+DeSalvo: Pressure, Optimism over EHR Data Interoperability
+Healthcare Analytics Market Sees Shakeup Early in 2015
+Major payers, providers form accountable care organizations
+Should providers add consumer data to clinical analytics?
+Healthcare analytics and the promise of personalized genomics
+Data registry flags overlapping payers for revenue management
+ACO Success Relies on Population Health Management Tools
+NIH Awards $21M to Precision Medicine Epilepsy Collaboration
+CMS Diabetes Prevention Program Cuts Spending, Boosts Outcomes
+HIM, Healthcare Big Data Analytics Skills Increase in Demand
+PCORI will speed analytics with $93.5M in research funding
+UF integrates genetic testing into clinical analytics, EHRs
+Natural Language Processing, AI to Foster Clinical Decision Tools
+Deep Learning Tool Tops Dermatologists in Melanoma Detection
+CMS Offers New Accountable Care Payment Model for Oncologists
+ONC Health IT Interoperability Plan Gathers Fractious Comments
+Opioid Prescriptions Dropped 12% in 2017 as Guidelines Change
+25% of Physicians Won’t Be Ready for ICD-10 Implementation
+Interoperability, Internet of Things First Tasks for Precision Medicine
+CDC: Improved care could prevent 258,000 annual deaths
+Preventative care aids 24% decline in strokes over 20 years
+Healthcare analytics checklist: What you need to get started
+Patient-Centered Medical Home Is a “Pragmatic” Shift in Care
+Ore. Medicaid CCOs slash inpatient chronic disease care by 23%
+Semantic Computing, Predictive Analytics Need Reliable Metadata
+Healthcare Big Data, Accountable Care Spark Vendor Spending
+Retail Clinics May Expand Access to Care, But Don’t Cut ED Costs
+How Big Data Velocity Informs Population Health, Patient Safety
+Setting your EHR data free for clinical analytics
+Despite EHR Patient Portals, Providers Still Charge for PHI
+Pharmacy Interventions May Improve Medication Adherence Rates
+UCSF Receives $85M NIH Grant for Precision Medicine Research
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+AHIMA: “Long-Awaited” ICD-10 Implementation is Good for Patients
+EHR Use, Population Health Lessons from a Davies Award Winner
+Improved medication adherence is key to population health
+Pediatric Patient-Reported Outcomes Can Improve Cancer Care
+Real-time data analytics accurately predicts local flu activity
+HIMSS Tool Offers New Healthcare Business Intelligence Insights
+Big Data Analytics Link Economic Wellness to Population Health
+Cleveland Clinic Sets Up New Biobank for Clinical, Genomic Research
+Is healthcare analytics taking into account patient’s views?
+UMass professor receives $500K grant for mHealth big data
+Limits of Big Data Analytics Pose Challenges to Patient Safety
+Cloud, predictive analytics helping healthcare inside and out
+Quality care relies on clinical, administrative cooperation
+Examining Ambulatory EHR Vendor, Big Data Adoption Trends
+Congress Urged to Incentivize Combating Antibiotic Resistance
+FDA App Challenge Honors Opioid Abuse, Overdose Tool
+CVS to Charge More for Prescriptions Filled at Tobacco Sellers
+EHR Big Data Analytics Aid Cancer Screenings, Follow-Ups
+Consumers Support AI in Healthcare More than Other Industries
+Web-Based Health Risk Assessments Accurately Flag Depression
+87% of Patients Want Health Information Exchange Without Fees
+Developing Big Data Governance Strategies for Better EHR Use
+Pressure ulcer predictive risk score may be inaccurate
+CDC Awards $28.6M for Big Data Analytics to Track Opioid Abuse
+ONC Taps Boston Children’s for $275K FHIR, API Innovation Award
+Hepatitis C Patients Often Lost along Continuum of Care
+Success of AI in Healthcare Relies on User Trust in Data, Algorithms
+EHR Clinical Decision Support Produces Better Patient Care
+UPenn EHR analytics tool predicts risk of 30-day readmissions
+Medication Non-Adherence Brings Millions in Avoidable Costs
+ONC Health IT Interoperability Roadmap Stresses Data Standards
+How Will Internet of Things Devices Impact Precision Medicine?
+AMA, Intermountain Form Real-Time Data Partnership for Diabetes
+Rural Healthcare Grants Tackle Population Health Management
+Using the Healthcare Internet of Things for Better Patient Care
+Docs return to bad antibiotic habits when monitoring ends
+Top 5 Christmas Gifts for the Healthcare Big Data Analytics Pro
+Precision Medicine, Big Data Analytics Intersect for Better Care
+48% of Businesses, Including Healthcare, Face Big Data Skills Gap
+Can the Patient-Centered Medical Home Help Achieve Savings?
+89 Accountable Care Organizations Join Medicare Savings Program
+CMS Publishes Medicare Payment Info to Promote Data Transparency
+Chronic Care Management Improves Pediatric Outcomes by 20%
+CT Medical Society Announces New Health Information Exchange
+Internet of Things, Precision Medicine, NLP Drive Market Growth
+58% of hospitals have population health goals in sight
+Pancreatic Cancer is Target of New Precision Medicine Grants
+Patient-Centered Care May Improve Diabetes Self-Management
+Incremental Effort Can Craft the Patient-Centered Medical Home
+Henry Ford to Apply Data Analytics to Pancreatic Cancer with $20M Gift
+Visualizing a User-Friendly Future for Healthcare Data Analytics
+CHIME: Patient Matching Crucial for HIE, Care Coordination
+ICU Admissions from Opioid Overdoses Increase 34% Since 2009
+Blue Button Codeathon winners track disease, financial data
+EHR Adoption, Health IT Use Improve Patient Safety, ONC Says
+SC Online Population Health Dashboard Reveals Community Disparities
+Workplace focus on chronic disease may improve management
+30-Day Readmissions for CHF Cut in Half with Remote Monitoring
+Prescription Monitoring Program to Reduce Opioid Abuse in VA
+EHR Data, Machine Learning Create Cost-Based Clinical Pathways
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Semantic Big Data Lakes Can Support Better Population Health
+Rapid genetic testing for newborns helps pinpoint diagnoses
+Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+Health IT Helps CA Children’s Hospital Win HIMSS Davies Award
+The release indicates that the app worked because it encouraged detailed conversations between the nursing students and their patients during screening. For example, the mobile app provided the nursing students with question prompts that included multiple types of tobacco products when asking patients about their tobacco use, calculated body-mass index to identify patients that might benefit from weight-loss programs and provided a series of questions to students to ask their patients to determine if they were depressed.
+According to a recent report on mhealthintelligence.com, millennials prefer using this type of healthcare technology. After receiving a list of possibly technological updates, 73 percent of millennials indicated they would be interested in using mobile devices for their healthcare, 71 percent were interested in mobile apps.
+
+

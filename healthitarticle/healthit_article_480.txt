@@ -1,0 +1,27 @@
+48% of Businesses, Including Healthcare, Face Big Data Skills Gap
+
+May 08, 2017
+
+By Jennifer Bresnick
+May 08, 2017 - Nearly half of the global business landscape, including the healthcare industry, are currently unable to find staff with the talent and skills to help them reach their big data analytics goals, according to a new survey from Teradata.
+While 96 percent of business leaders believe that a big data analytics strategy is vital for the future success of their enterprises, just six in ten are satisfied with the way they manage their information assets.
+Insufficient data analytics talent has been a perennial pain point for the healthcare industry, which has struggled to develop the competences required to extract actionable insight from its treasure trove of clinical, financial, and operational data.
+Dig Deeper
+Big Data Analytics Poses Problems, Promises for Healthcare
+How to Build a Successful Big Data Analytics Program in Healthcare
+The Difference Between Big Data and Smart Data in Healthcare
+As providers move more deeply into the realm of value-based care and population health management, an agile and robust big data analytics team will become even more critical for maintaining revenue and raising quality.
+In addition to deeply entrenched organizations challenges such as lack of executive buy-in, interoperability woes, and budgetary concerns, the scarcity of qualified and experienced talent is a factor that rears its head in nearly every recent industry poll.
+In November of 2016, Harvey Nash found that 65 percent of CIOs and IT professionals across various industries believe that technology skills shortages will prevent them from keeping up with the rapid pace of change.  Thirty-nine percent of respondents said that data analytics experts in particular are prohibitively difficult to find.
+Earlier this year, a survey from HIMSS added that just 38 percent of healthcare organizations are fully staffed for their health IT needs.  Forty-three percent are actively trying to fill vacant positions, but to no avail.
+And in March, HealthITAnalytics.com readers reinforced the worrying trend when just under half of participants in an annual poll said they could not find the qualified workers to help them move forward with their big data plans.
+But all is not lost for the healthcare industry just yet.  Providers generally recognize that the only way to attract more analysts is to spend more money – and many are willing to invest as heavily as possible in their long-term big data plans. 
+In the Teradata poll, fifty percent of US respondents said they are angling to increase their data and analytics training programs, while 43 percent of participants globally are eager to invest in new infrastructure that will allow them to track and analyze their business processes more efficiently. 
+Healthcare organizations are pouring significant funding into bringing their big data analytics programs up to par, the HIMSS survey added.  Fifty-six percent of organizations anticipated their budgets to rise in 2017.  Providers have been snapping up project management professionals to lead their health IT initiatives, with a 22 percent increase in management hires from 2014 to 2017.
+And many organizations are starting to think about utilizing the evolving skills of health information management (HIM) professionals to bridge the divide between data creation and data analytics.  HIM workers with advanced informatics and data analytics competencies are in high demand from organizations seeking staff with extensive training in the intricacies of healthcare data.
+A study of job trends from the Journal of AHIMA this month found that a large number of open job postings request experience with informatics, analytics, health IT infrastructure, and advanced medical record management, adding another dimension to the big data analytics talent force.
+Providers may start to find some level of relief from the talent shortages as the application programming interface (API) ecosystem starts to take root in the healthcare industry, however.  APIs function similarly across all industries, and offer a standardized way to extract data from repositories.  With standards such as FHIR quickly changing the way healthcare data is stored, shared, and analyzed, providers may be able to ease their way into meaningful big data analytics without quite as much of a struggle.
+Still, the talent gap is likely to persist for some time as the majority of providers rush into analytics all at once.  Organizations that hope to buck the trend of empty offices and vacant posts should start by developing analytics roadmaps that include clear goals and achievable waypoints in order to help them understand the scope of their needs and the type of talent required to fulfill their objectives. 
+Tagged Analytics InfrastructureClinical AnalyticsHealth Information ManagementHealthcare Big Data Analytics
+
+

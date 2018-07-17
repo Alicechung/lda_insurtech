@@ -1,0 +1,45 @@
+Business Intelligence Tools Bring Insights to Organ Donation Network
+
+November 28, 2017
+
+By Jennifer Bresnick
+November 28, 2017 - Many healthcare provider organizations have made the adoption of business intelligence tools a top priority, but they are not the only members of the vast and varied care continuum in search of actionable big data insights.
+The nation’s network of non-profit organ procurement organizations (OPOs) serve a critical role in the industry, matching patients across the country with organs and tissue donated by good Samaritans. 
+Working closely with hospitals, family members, and the United Network for Organ Sharing to ensure success, organizations like the Indiana Donor Network (IDN) are turning to business intelligence technology to enhance their ability to conduct community outreach, monitor their metrics, and achieve their goals.
+An operational failure due to a lack of relevant data is simply not an option for an OPO, says Chief Operating Officer Steve Johnson.
+“In donation and transplant, there isn’t any room for error,” he told HealthITAnalytics.com.  “You can imagine that if you or a loved one was in need of a life-saving organ, it would not be acceptable for us to make a mistake.” 
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+“Our ability to get visibility into our key performance indicators (KPIs) and see the measurements associated with quality in real-time is critical for preventing us from making mistakes or missing an opportunity to create a positive impact.”
+Steve Johnson, COO at Indiana Donor Network
+Source: Xtelligent Media
+IDN serves more than five million people in Indiana, and transplants around 630 organs every year, both within the state and across the nation.
+“We’re one of 58 organizations that work together to make sure that organs can get to people who need them no matter where they are in the country,” Johnson explained. “That means we are working with a very complex network of OPO partners as well as with healthcare provider organizations.”
+OPOs need to capture a number of different data elements, including the clinical histories of the organs or tissues in question, donor and recipient demographics, the types and numbers of organs being transplanted, and where they end up.
+“We found that a lot of the data was being captured somewhere, but it wasn’t readily available in a way that we could interpret and actually use,” said Johnson.  “We couldn’t do much to identify trends or get ahead of some issues, because all that data was not very accessible as a holistic portrait of our activities.”
+READ MORE: Few Healthcare Business Intelligence Users Join an ACO, HIE
+Much of IDN’s data was being stored in Microsoft Excel, added Bill Janczak, Manager of IT Services.
+“We had a lot of spreadsheets,” he recalled.  “The same data would sometimes be in different sheets or different tabs, or we would have to connect multiple sheets together in a sort of chain just to get all the bits and pieces together in a format that made some sort of sense.”
+Bill Janczak, Manager of IT Services at IDN
+Source: Xtelligent Media
+This patchwork approach to storing information made it extremely difficult for stakeholders across the organization to access and leverage relevant data.
+“You would never be quite sure where to look – or if the data was even correct once you found it,” he said.  “It was pretty clear that we needed a single tool that could unify the data, make sure it was correctly validated, and let us manipulate it a lot more easily.”
+“We are using Sisense to support our real-time dashboard – the data is refreshed every ten minutes, which is pretty darn close to real-time for this type of information – that is shown on TVs all over the building,” said Janczak.
+READ MORE: Top Healthcare Business Intelligence Companies by Hospital Users
+The dashboard includes critical metrics, such as month-to-date and year-to-date donation rates, as well as information on how close the organization is to achieving each of its goals.
+“We use a standard stoplight approach with red, yellow, and green indicators,” said Janczak.  “We can break down the data to see what our short-term goals have to be in order to meet our yearly target numbers.”
+Additional dashboards can provide more information to specific users, such as the managers responsible for certain types of organs and tissue, he added.  Other reports are geared towards the board members and the metrics of highest concern to the executive suite.
+“We still use Excel, of course,” Janczak said.  “Every business is going to have to rely on it, or something similar, for some of its information. And there’s nothing wrong with that – it can be a great tool.  But for true business intelligence, you have to make sure that you develop a single source of truth that you can trust.” 
+“Do we still question our data sometimes?  Absolutely.  You should always maintain a critical eye when you’re dealing with any sort of data.  But making it as trustworthy as possible can ensure that your organization has something meaningful to go on and that they can all agree on what we’re seeing.” 
+As a result of the shift to real-time insights, donations are on the rise across several categories.  Skin donations have increased by 70 percent, while cornea donations are up by 224 percent.
+Many healthcare organizations are used to getting more ambiguous results from their business intelligence efforts, but OPOs have the benefit of being able to directly correlate such a marked increase in donations with lives saved or better outcomes for the patients they serve.
+The results can serve as a promising roadmap for other organ donation organizations, many of whom are still working with fragmented data and basic analytics tools, Johnson noted.
+“The OPO community is very much behind the times with technology, and they are all extremely different in their capabilities,” he said. “They have all expressed frustration with not being able to get real-time data, and they are looking for solutions.”
+“The challenge is that they are very unique organizations: some cover extremely large populations, like our two partners in California.  Those are going to be very different organizations than our friends down in Kentucky.  They all have different needs and different resource levels.”
+Indiana Donor Network hopes to share its successes and the best practices it has developed with its peers across the country, added Janczak.
+“We have all gotten together and talked about what we’re doing, shown each other demos, and discussed the pros and cons of the different approaches. We’re happy to learn from them, and we’re just as happy when they learn from us.  It’s a very open community, which benefits everyone.”
+The significant variation in skills and resources among the nation’s OPOs requires organizations to adopt business intelligence tools that are intuitive, standards-based, and easy to integrate with existing health IT infrastructure.
+“Because we all have different levels of experience with analytics, it’s important to adopt a tool that doesn’t require intensive resources,” he said.  “I don’t want to create a position in the organization that is dedicated to fiddling with our business intelligence tools to make them work.  That isn’t an effective use of our time and limited resources.” 
+“Everyone is realizing that there are more opportunities out there, and that it’s important to collaborate on them.”
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Business IntelligenceInterviewsPopulation Health Management
+
+

@@ -1,0 +1,52 @@
+Blockchain, Artificial Intelligence, FHIR Dominate 2016 Headlines
+
+December 09, 2016
+
+By Jennifer Bresnick
+December 09, 2016 - Every year seems to be a transitional year for the healthcare industry, but 2016 had more than its fair share of major changes, new ideas, and stunning events to talk about. 
+From big data analytics and artificial intelligence to a growing interest in emerging technologies like FHIR, semantic computing, and blockchain, the past twelve months have seen a surge in the development and adoption of cutting-edge tools to support a complex, value-based landscape.
+The pressure to transition to pay-for-performance reimbursement structures ramped up significantly this year, as did the adoption of analytics infrastructure to enable the population health management skills, business intelligence, and data governance required to facilitate high performance in a risky financial world.
+And with MACRA slated for its big entrance right after the New Year’s ball drops, followed by uncertain political and policy changes ahead in 2017, healthcare providers are looking for the most innovative – and least expensive – strategies for keeping their organizations functioning smoothly no matter what the future brings.
+Our expert readers at HealthITAnalytics.com have been prepping all year long for these looming challenges by brushing up on the advanced analytics concepts, techniques, and market offerings that will equip them with the knowledge they need to succeed in the evolving healthcare environment.
+READ MORE: Big Data, FHIR, Machine Learning Dominate Top 10 Stories of 2017
+Here is our annual countdown of the top ten articles of 2016.
+10. Why Health Data Interoperability is Setting EHR Vendors on FHIR
+After an April 2015 report by the ONC turned “data blocking” into a key term in the electronic health records world, vendors spent most of the following year combating the perception that that were lacking on the interoperability front. 
+Epic Systems took some particularly hard knocks from the industry on that score, but fought back with some very public commitments to working with competitors on bringing FHIR to an open, cooperative EHR community.
+In this article, Epic Systems CEO Judy Faulkner gives a rare interview alongside representatives from other major technology vendors discuss the role of FHIR in the quest for improved interoperability across the health IT continuum.
+READ MORE: IoT, EHRs to Push Healthcare API Market to $243M by 2024
+9. Four Basics to Know about the Role of FHIR in Interoperability
+Not sure what FHIR really is, how it works, or what all the fuss is about? 
+HealthITAnalytics explains the fundamentals of the Fast Healthcare Interoperability Resource and why the internet-based protocol has been able to enjoy such popularity among health IT developers.
+8. The Difference Between Big Data and Smart Data in Healthcare
+More data means more problems for healthcare organizations feeling a little bit overwhelmed by the sheer volume of information streaming into and out of their health IT systems.  The ongoing struggle to translate data into actionable insights has led providers to invest in an enormous array of different analytics tools – sometimes without an overarching plan to help guide development of a cohesive, meaningful, intelligent big data infrastructure.
+READ MORE: Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+What is the point of big data, how can providers learn how to use it to their advantage, and why is it so important to develop these skills?  This article breaks down the different between “big data” and “smart data” while explaining how to create the latter from the former.
+7. Is Blockchain the Answer to Healthcare’s Big Data Problems?
+Blockchain is one of the debut buzzwords of 2016 for the healthcare industry.  This decentralized approach to data management has already found favor in the financial sector, but its potential use cases in healthcare have been less immediately apparent.
+However, as the care continuum comes closer together and the flow of data between disparate organizations increases, a secure and trusted methodology for validating permissions to access information is exactly what the industry needs.  Blockchain may be that solution.
+6. A FHIR Future Burns Brightly for Population Health Management
+FHIR steals the spotlight again with this entry on the list.  This in-depth interview with executives from Cerner Corporation and Geisinger Health System explores how the promising data standard can enable improved population health management in a world where “interoperability is imperative.”
+At Geisinger, FHIR is enabling the development of an ecosystem of apps that engage patients, inform clinicians, and create seamless, data-driven experiences for users, and the data standard’s potential to do the same for other organizations is nearly limitless.
+5. Explaining the Basics of the Internet of Things for Healthcare
+Wearable devices, patient monitoring tools, mHealth apps, and a new generation of tiny, powerful sensors are quickly combining into healthcare’s very own Internet of Things (IoT), opening up new opportunities for engagement and decision-making.
+While many providers are still wary of the messy, complicated, and voluminous nature of IoT data, patient-generated health information from non-clinical devices is quickly becoming an important source of insight for holistic patient care.
+How will the IoT change healthcare, and why should providers start to prepare for integrating this new category of data into their analytics strategies?
+4. Big Data Analytics to Bring Billions in Healthcare Market Growth
+Billions of dollars are up for grabs as healthcare organizations continue to make large-scale investments in population health management, precision medicine, natural language processing, and cloud-based analytics offerings.
+The global healthcare big data analytics marketplace will likely be worth more than $34.27 billion by 2022, according to a Research and Markets report from February, giving vendors a significant incentive to develop best-of-class tools for eager organizations.
+3. Top 4 Emerging Tech Trends in Healthcare Big Data Analytics
+Much of the investment in big data analytics is likely to be focused on a few key areas that show promise for enabling the smart, intuitive technologies of the future. 
+Imaging analytics, machine learning, genomics, and the IoT are generating significant interest for both vendors and providers, and are likely to combine into artificially intelligent clinical decision support aids for precision medicine, risk stratification, and improved patient care.
+2. Blockchain, IoT, Artificial Intelligence Poised to Shake Up Healthcare
+Blockchain, the IoT, and artificial intelligence are a trio of intriguing technologies that keep cropping up due to the exciting possibilities they present for the care continuum.
+True artificial intelligence may still be a few years away, but even the White House is advising industry stakeholders to start prepping for it right now.  AI applications could quickly find important use cases in healthcare, including predictive analytics, clinical decision support, and consumer engagement.
+Meanwhile, the Internet of Things is creating smarter environments for patients in the home, in the hospital, and on the go.  If vendors can find a way to streamline, simplify, and present IoT data in a meaningful way to clinicians, all of this information about the intricate, everyday details of patients’ lives may be able to contribute to more intelligent care.
+And blockchain could be the technology that allows entities to collect, store, exchange, and modify this information in a trusted, easily-managed way.  While none of these tools have quite hit their stride just yet, 2017 could be a pivotal year for large-scale data management and analytics.
+1. Which Vendors Lead the Healthcare Big Data Analytics Market?
+Our top story of the year is less about futurism and more about the here-and-now.  It’s difficult to think about what might happen ten years down the road if an organization is struggling with outdated or unusable technology each and every day.
+Purchasing decisions are high-stakes commitments, and readers of HealthITAnalytics are eager to hear about what is working for their peers.  This popular article uses statistics from the Definitive Healthcare database of hospital technologies to explore the leading vendors of EHRs, clinical decision support tools, HIE connectivity, business intelligence packages, and care coordination software.
+It may not be difficult to guess which major vendor comes out ahead in a number of important categories, but there is significant room for growth in these sought-after marketplaces as healthcare organizations move into 2017 with big data analytics, interoperability, and value-based care on their minds.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareBlockchain in HealthcareEHR ChecklistsFHIRHealthcare Internet of Things
+
+

@@ -1,0 +1,39 @@
+Big Data Analytics, Machine Learning Support 2017 Most Wired Hospitals
+
+July 11, 2017
+
+By Jennifer Bresnick
+July 11, 2017 - A select group of hospitals and health systems that have fully committed to leveraging big data analytics, machine learning, and other advanced health IT systems are celebrating their designations as the American Hospital Association’s (AHA) Most Wired Hospitals of 2017.
+The annual survey recognizes organizations that have made a concerted effort to improve quality, outcomes, and efficiencies through the use of digital tools such as electronic health records, analytics initiatives, telehealth, remote monitoring devices, and patient engagement applications.
+This year, hospitals that leveraged big data analytics to gain visibility into their opportunities for improvement stood head and shoulders above their peers. 
+“The Most Wired hospitals are using every available technology option to create more ways to reach their patients in order to provide access to care,” said AHA President and CEO Rick Pollack. “They are transforming care delivery, investing in new delivery models in order to improve quality, provide access and control costs.”
+Eighty-two percent of Most Wired organizations are using tools to retrospectively analyze clinical and administrative data compared to just 67 percent of all hospitals surveyed in 2017. 
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+While 60 percent of all hospitals are using some sort of predictive analytics for decision-making – not a number to sneeze at by any means – just under three-quarters of organizations chosen for the honors list were using predictive modeling and data for these purposes.
+Most Wired hospitals and health systems were more likely to interface EHR data with population health management tools (69 percent versus 60 percent), develop internal patient registries (54 percent versus 45 percent), use big data analytics to measure value-based care (51 percent versus 40 percent), and support real-time patient identification and tracking to ensure care continuity (32 percent versus 28 percent).
+More than 40 percent of Most Wired organizations provide real-time home care management services to patients with certain chronic diseases, such as diabetes and congestive heart failure.  Seventy-four percent provide secure email capabilities so patients and caregivers can stay in touch with their providers.
+Just under two-thirds are currently incorporating at least some patient-generated health data into the electronic health record to develop a comprehensive view of the individual’s health.
+These data-driven projects and engagement programs have led to impactful results on patient care for many organizations.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+“The quality dashboards we’ve built over the last year with our EHR data have led to workflow improvements within our health system; for example, we’ve seen measurable improvements in starting our OR cases on time,” said Jon Morris, MD, chief technology officer and CIO at Wellstar Health System in Marietta, Georgia.
+At UCHealth in Colorado, CIO Steven J. Hess agreed that the value of big data analytics is well worth the effort.
+“[We] now have access to data we previously never saw possible,” he told Hospitals & Health Networks.
+“With our new partners and more on the horizon, we are able to analyze years of historical and case log data to create predictive algorithms. But, we are just getting started in realizing how we can use that health care data and influence the next generation of health care IT and operational intelligence."
+Missouri-based Mercy, which boasts 14 appearances on the Most Wired list during the 19 years the survey has existed, is one of the health systems that has successfully translated analytics adoption into measurable financial and clinical results. 
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+In addition to being a mainstay on the general roster, Mercy is one of 27 organizations tapped for the “Advanced” category, along with peers including Geisinger Health System, Hackensack Meridian Health, Cedars-Sinai, and UNC Health Care.
+“Health care has been sitting on a mountain of data that really hasn’t been used to its fullest - until recently,” said Gil Hoffman, Mercy’s chief information officer. “Combining the speed and accuracy of computing hardware, powerful data science and clinical best practices, Mercy is pioneering breakthroughs not seen before.”
+Using machine learning techniques, Mercy is able to provide detailed clinical decision support to its providers and identify best practices for patient care pathways.
+“The same way Google maps tell you when traffic has slowed down just ahead and spits out alternative routes, we can predict surges and bottlenecks in our hospitals before they happen,” explained Aaron Steffens, Mercy’s vice president of operational improvement. “Mercy can make informed decisions in real time to care for patients more quickly and get them home sooner.”
+Mercy’s big data efforts have cut the mortality rate for patients with heart failure and pneumonia in half, decreased the time to administer diuretics to heart failure patients by nearly three hours, and reduced ED length of stay by 20 percent in a pilot program.
+In addition to improving clinically, the health system saved $14 million in 2016.
+Advanced use of big data and health IT tools to improve communication, patient safety, care coordination, and patient engagement requires healthcare organizations to work collaboratively across departments and develop strong technology teams.
+"In the dynamic field of healthcare technology, adopting and implementing technical innovations is critical to support the evolving needs of our care providers and our patients. Health IT plays a vital role in improving care quality and efficiency, helping control costs and enhancing the patient and caregiver experience," said Jon Manis, senior vice president and chief information officer for Sutter Health in California.
+"On behalf of our entire Information Services team, we are truly honored to be recognized for our support achievements for the third year in a row."
+Ron Rutherford, RN, Chief Information Officer at Beth Israel Deaconess – Plymouth, just south of Boston, also highlighted the importance of complete organizational buy-in for achieving big data goals.
+“Receiving Most Wired status demonstrates the commitment of BID-Plymouth to implement and use advanced technology throughout the hospital to support our commitment of providing patients with outstanding care,” he said.
+“Most Wired status reflects the priorities and values of the BID-Plymouth Information Services Team who utilize their expertise every day to promote the safe and effective utilization of technology for all.”
+For a complete list of this year’s Most Wired hospitals and more details on the AHA survey, please click here.
+Tagged Analytics InfrastructureCare QualityChronic Disease ManagementHospital QualityMachine LearningPatient SafetyPopulation Health Management
+
+

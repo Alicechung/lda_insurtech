@@ -1,0 +1,39 @@
+Pew: Better Patient Matching, APIs Will Enhance Interoperability
+
+June 26, 2018
+
+By Jessica Kent
+June 26, 2018 - Improved patient matching, the effective use of application program interfaces (APIs), and standardized clinical data will enhance interoperability in Medicare and increase health data access for patients, says the Pew Charitable Trusts in commentary submitted to CMS.  
+The letter was drafted in response to the Hospital Inpatient Prospective Payment System (HIPPS), proposed in an effort to rebrand the EHR Incentive Programs and highlight the agency’s goal of streamlined communication and patient access to data. The new rule includes several measures that focus on interoperability and the seamless exchange of health data.
+While the measures are a step in the right direction, Pew noted that CMS must overcome a number of barriers before it can help the industry achieve widespread interoperability in hospital payment programs.
+Patient matching issues are among the most significant challenges. The inability to sync patient records across disparate systems has long plagued healthcare professionals and organizations, and these discrepancies can often result in patient harm, duplicate records, and decreased patient satisfaction.
+Under HIPPS, hospitals will be required to receive data from other organizations and reconcile those medical records with their existing EHR data. Additionally, the new rule calls for hospitals to exchange patient records with other facilities upon transfer or discharge to improve care coordination.
+READ MORE: Patient Matching Issues Increase Costs, Threaten Patient Safety
+However, for these measures to be successful, hospitals must improve their patient matching rates, Pew stated.
+“Pew is conducting research to better understand challenges with patient matching and evaluate solutions to this interoperability problem,” wrote Ben Moscovitch, Manager of Health Information Technology.
+“For example, we are assessing whether the use of more detailed standards for demographic data—such as name and date of birth—could help enhance match rates, or whether individuals can be involved in matching their records—such as by using a smartphone application.”
+ Previous research has shown that consistent representations of names, dates, addresses, and other identifying elements led to higher rates of accuracy.
+Pew also suggested that CMS could encourage hospitals to use additional data elements to support patient matching, such as patients’ email addresses.
+READ MORE: ONC: APIs Can Boost Interoperability, Healthcare Data Access
+In addition to patient matching issues, Pew advised that CMS facilitate improved data access and exchange through the effective use of APIs.
+“Federal regulations are progressing to advance the use of APIs for interoperability,” Moscovitch noted. “The Office of the National Coordinator for Health Information Technology (ONC) has required that EHR developers provide patient access to some EHR data through APIs, and is in the process of drafting regulations to further expand the use of APIs.”
+“In parallel, CMS Administrator Seema Verma has expressed the importance of patient access to and control of their own health data. This shift toward data availability via APIs can ensure that patient health information is readily accessible and easy to use while meeting security and privacy standards.”
+APIs have the potential to allow patients and organizations to seamlessly access and exchange data, and CMS is seeking to employ the technology under HIPPS.
+The proposed rule will require hospitals to provide timely access to data so that patients can view, download, and transmit their health information from any application of their choice that uses appropriately configured APIs.
+READ MORE: Patient Matching Issues Stem from Poor Data Standardization
+This measure can empower patients to access and utilize their health data, but CMS will need to address security and privacy challenges before patients can successfully use APIs.
+Pew pointed out that one major challenge is the amount of data that is accessible through APIs. ONC currently requires EHR vendors to make a small amount of critical health data available to patients, known as the Common Clinical Data Set (CCDS).
+“If CMS’ intent is to allow patients’ access to their entire health record, access to just the CCDS is not enough, and the agency should work closely with ONC to harmonize technical requirements with payment incentives to support interoperability for other data elements,” urged Moscovitch.
+“For example, social determinants of health, medical images, and genomic information are not part of the CCDS and therefore may not be available to patients via APIs.”
+The organization noted that in the coming months, ONC is expected to release regulations that require EHR developers to have APIs that make all data elements in the EHR easily available.
+Once these regulations are finalized, Pew recommended that CMS update its payment policies to ensure that hospitals can use APIs for many purposes, including patient access.
+Pew also stated that lack of standardized clinical data is a major barrier to interoperability.
+“Data that come from multiple locations, if not documented in a standard way, can prevent the information from being effectively integrated in the EHR,” the letter explains. “When that occurs, the information may be lost or stored in a manner that is not easily accessible to clinicians, making it difficult to use the data to inform care.”
+“Standardization of terminologies helps ensure that EHR systems speak the same language and facilitates the development and use of new tools to guide health care decisions such as indicating trends in patients’ status or warning against potential complications.”
+HIPPS will require that hospitals attest to the electronic reporting of data to registries that will track immunization and public health.
+In order for this measure to truly improve public health, Pew advised that CMS encourage the use of common data elements and definitions among hospital EHRs. Pew is also working to identify a set of commonly collected data elements and standards to code that information.
+Pew expects that with these recommendations, the HIPPS proposed rule will make great strides in facilitating interoperability and patient data access.
+“The proposed changes in the HIPPS proposed rule marks an important step in ensuring that patients and clinicians have the data they need to inform care decisions—especially once additional progress is made on patient matching, effective use of APIs, and adoption of clinical data standards,” Pew concluded.
+Tagged Application Programming InterfacesClinical DataCMSInteroperabilityPatient Data AccessPatient Matching
+
+

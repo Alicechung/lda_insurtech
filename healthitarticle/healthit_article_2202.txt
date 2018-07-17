@@ -1,0 +1,114 @@
+Can mHealth help low-income patients with chronic diseases?
+
+November 12, 2013
+
+By Jennifer Bresnick
+November 12, 2013 - From the provider’s perspective, population health management often depends on using a wide swath of data to identify patient cohorts that might benefit from a certain intervention.  But sometimes those cohorts are self-selecting, and offer themselves up as an opportunity for providers to fill a critical need.  Mobile health (mHealth) is becoming an increasingly valuable weapon in the battle against common chronic conditions, and a new report by the Commonwealth Fund shows that it could be more effective than previously imagined among minority and low-income patients suffering from these diseases.
+While the number of commercially available apps for Apple and Android phones is staggering, and many of these apps provide only questionable medical value, payers and hospital systems are also investing in tailored mHealth technology, developed with input from clinicians and intended to fill specific needs.  Clinical management apps range from mobile patient portals to secure texting with providers to reference materials, and can be a vital bridge between safety net populations and providers when access to routine care is prohibitively difficult or expensive.
+The Commonwealth Fund report found that in 2010, African American and Hispanic patients were more likely than white patients to own a smartphone, and more likely to use that phone to access health information.  As minority populations are also disproportionately affected by chronic conditions like diabetes and asthma, this presents a clear opportunity for providers to proactively engage with patients through mHealth to improve everyday care and preventative disease management.
+Geisinger Health System, for example, developed an app to survey patients with persistent asthma every 90 days.  Patients with low asthma management scores receive a call from a nurse to help them manage the condition and schedule appointments if necessary.   A different asthma app, developed by Asthmapolis and backed by the California HealthCare Foundation, found that tacking Bluetooth sensors onto rescue inhalers can track usage and provide personalized feedback to reduce instances of uncontrolled asthma by 50 percent.
+CMS Provides $114M Boost to Accountable Care Organizations
+mHealth supports diabetes, heart health in rural populations
+CMS Reform Model Fosters Care Coordination, Population Health
+VA Lighthouse API Platform with FHIR Enables Health Data Access
+Informatics, Machine Learning Accelerate Pharmaceutical Discovery
+Data Integrity Groups Rally for a National Patient Identifier
+Eye Docs Looking for Big Data, Population Health Analytics Research
+New Healthcare Analytics Model May Improve Patient Satisfaction
+Could Blockchain Control Population Health Management Costs?
+HCOs Falling Short of Population Health, Value-Based Care Goals
+Artificial Intelligence Mobile Coach Can Aid Diabetes Care
+AAFP: Behavioral health should be an integral part of PCMH
+Will Healthcare Data Analytics Suffer If DeSalvo Leaves ONC?
+Radiology data brings business intelligence to accountable care
+EHR analytics: Hypertension 4 times more likely in obese kids
+40% of CIOs to Deploy a Healthcare Analytics Platform in 2018
+Data Analytics Aid Safety Net Population Health Management
+UMass Gets $5.5M Chan-Zuckerberg Grant for Healthcare AI Work
+Predictive Analytics, Big Data Underpin Episodes of Care
+How Georgia Tech Trains Healthcare Data Analytics Scientists
+Pain monitoring database adds analytics to patient care
+Accountable Care Organizations Still Face Interoperability Woes
+Why Aren’t Hospitals Using Patient-Reported Outcomes Data?
+WEDI Launches Genomic HIE Workgroup for Precision Medicine
+SNOMED CT Code Framework Will Aid EHR Reporting, Interoperability
+Sustainable Growth Rate Fix Passes House but Stalls in Senate
+Aetna Grant Helps PA Expand Opioid Data Analytics Dashboard
+Survey: Big data analytics is just as important as the internet
+Who is Responsible for Ensuring Health Data Interoperability?
+How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+Nurses Play a Critical Role in EHR Optimization, Data Governance
+NCQA Pilots Electronic Clinical Quality Measures Program
+ACC: Big Data, Coordination Key for Population Health Management
+IoT, Machine Learning Integration Boosts Medicaid Patient Care
+NH Population Health Management Program Cuts Overdoses by 34%
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+Value Score Moves from EHR Adoption into Real Health IT Value
+Penn. Doles Out $674K Grants for Health Information Exchange
+Just 8.3% of Safety Net Patients Receive Hepatitis C Screenings
+CHIME, DirectTrust Partner for “Universal” Health Data Exchange
+Flexible Healthcare Data Strategy a Must for Accountable Care
+AMA, AHA to Prioritize Hypertension, Chronic Disease Management
+Patient Matching Issues Stem from Poor Data Standardization
+SAMHSA Offers $142.9M in Grants for Substance Abuse Programs
+UCSF Takes Aim at Health Data Interoperability with New Platform
+Physician Perceptions of Patient Engagement Affect Consumer Use
+Open Source EHR Generator Delivers Healthcare Big Data with FHIR
+Most States Lack Transparent Physician Quality Reporting Data
+Predictive analytics, big data, HIS markets grow by 20% CAGR
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+Geisinger, Baylor Granted $3.5M for Patient Safety Learning Lab
+Missile defense analytics can spot sepsis before physicians
+Can Cloud Big Data Analytics Fix Healthcare’s Insight Problem?
+Nearly 34% of business intelligence, big data users pick Epic
+Hospitals using analytics to tackle infections, hand hygiene
+Relaxed hypertension guidelines to affect millions of patients
+Mayo Clinic launches “Better” apps for remote care
+Demographic Data Quality Key in Improving Patient Matching
+Familiar Faces Win Best in KLAS for EHRs, Big Data Analytics
+Preventable Hospital Readmissions Fall Dramatically Across US
+Chronic Disease Management Complicated by Economic Insecurity
+Broader Genetic Testing for Cancers May Benefit Population Health
+HIM, Revenue Cycle Analytics to Overtake EHR Purchasing
+Healthcare Big Data Analytics Keeps Small Hospitals Independent
+ONC Pilot Focuses on PGHD, Patient Engagement, HIE Start-Ups
+Summit Medical, Humana Form Accountable Care Organization
+IoT, EHRs to Push Healthcare API Market to $243M by 2024
+“Basic Science” of Healthcare Big Data Analytics Still Needs Work
+Genomics, big data can thrive through CDS, analytics tools
+Will Personalized Medicine Hit Its Stride Within Two Years?
+Big Data, Health IT Innovation for Hospitals Risks Stagnation
+2.5 petabytes of centralized cancer data to accelerate genomics
+Nursing Quality Analytics Data Can Raise Patient Satisfaction
+CMS Equity Plan Promotes Data Analytics, Population Health
+EHR Predictive Analytics Flag 32% of Nursing Home Patient Falls
+ACA slashes young adult ED use by 2.1% in three states
+$347M in CMS Grants to Improve Patient Safety, Care Quality
+Medicaid Savings Require Integrated Physical, Mental Healthcare
+EHNAC Releases Practice Management Accreditation Criteria
+Open source mentality brings new data visualization techniques
+Cancer Patient Care Coordination Key to Medical Home Program
+CT Medical Society Announces New Health Information Exchange
+Healthcare Big Data Analytics Plays Critical Role in Quality
+Will Apple Watch be the mHealth Answer to Big Data Analytics?
+What Are the Clinical Analytics Lessons from EHR Adoption Data?
+IBM Grows Watson with $2.6B Truven Health Analytics Purchase
+Professional Societies, Universities Embrace Big Data Analytics
+86% of Providers Aim for Integrated EHR, Practice Management
+API-Based Genomics Databank Facilitates Personalized Medicine
+HL7, ONC Seek Entries for C-CDA Data Visualization Challenge
+Precision Medicine Summit Brings Big Data, EHR Ideas Together
+PCORI picks 30 “Pipeline to Proposal” research grant winners
+WEDI and NATE Partner for Patient Matching, Interoperability
+AMA Launches Integrated Healthcare Big Data Analytics Platform
+How Many Emergency Department Visits are Really Avoidable?
+65% of researchers say data analytics policies boost sharing
+AMA Launches Diabetes Care Grants for Underserved Patients
+Four EHR Optimization Steps for Healthcare Data Integrity
+How NPs, PAs Add Value to Population Health Management Teams
+Barriers to the widespread adoption of mHealth as an integrated piece of the population health management puzzle remain, however.  Few providers have started to receive financial reimbursements for the use of such techniques, and accessing quality tools continues to be a challenge for the majority of patients.  While the FDA recently released its final guidance on the regulation of mHealth, which may aid in the development of clinically relevant applications, peer-reviewed evidence of the effectiveness of such tools is still scare.
+As smartphones become ever more integral to the daily lives of patients in all socioeconomic brackets, the use of mHealth is predicted to rise steadily.  With the market’s expansion comes the chance for providers to leverage the growing interest in mHealth use among vulnerable populations with the intention of preventing unnecessary emergency room visits and hospitalizations down the line.  mHealth adoption may be aided by the shift to accountable care and value-based payments, producing a compelling business case for the growth of chronic disease management applications available wherever a patient happens to be.
+Tagged Accountable CareBig DataChronic Disease ManagementHealth Information ManagementHospital ReadmissionsPopulation Health Management
+
+

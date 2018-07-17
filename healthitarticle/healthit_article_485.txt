@@ -1,0 +1,33 @@
+New Medical Scribe Exam Keeps an Eye on EHR Data Integrity
+
+May 02, 2017
+
+By Jennifer Bresnick
+May 02, 2017 - A new national certification program for medical scribes will help to guide the growth of a profession that has seen a massive surge in demand since the advent of the electronic health record.
+Medical scribes are individuals who are hired for the purpose of entering clinical documentation into the EHR in an effort to reduce the administrative burdens foisted upon physicians. 
+According to AHIMA, scribes may also assist providers in navigating EHR systems, respond to messages on behalf of physicians as directed, locate information, or perform research.
+The American Healthcare Documentation Professionals Group (AHDPG) will be offering the Medical Scribe Certification Exam (MSCE) to professionals working in the field.  Individuals will be able to earn their Certified Medical Scribe Apprentice or Certified Medical Scribe Professional credentials through the competency-based exam, which focuses on demonstrating job-readiness. 
+Applicants for the credential must also document a certain number of on-the-job hours, depending on which program they wish to participate in.
+READ MORE: Data Integrity, Patient Safety among Top Health IT Hazards
+The certification may help healthcare organizations hire qualified and well-prepared employees who understand the critical importance of accuracy and EHR data integrity.
+"Health care employers value credentials. Becoming a CMSP places you, your coworkers and your entire organization in another league, positioning you as a leader and role model for your organization," explained AHDPG President and CEO Peter Reilly.
+"In working with health care organizations across the country who are interested in developing their own teams of internally managed scribes, we have been at the forefront of this wave of change and critical need to reduce physician burnout."
+The American College of Medical Scribe Specialists (ACMSS) also offers a credentialing test for the profession.  The Medical Scribe Certification & Aptitude Test (MSCAT) confers the CMS-Approved Certified Medical Scribe Specialist (CMSS) credential upon successful test-takers.
+ACMSS estimates that there were around 15,000 scribes working in hospitals and ambulatory settings in 2015, but expects that number to rise to around 100,000 by the end of the decade. 
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+The 21st Century Cures Act recently amended a section of the HITECH Act dealing with the role of medical scribes, allowing physicians to “delegate electronic medical record documentation requirements specified in regulations promulgated by the Centers for Medicare & Medicaid Services to a person performing a scribe function who is not such physician if such physician has signed and verified the documentation.” 
+While this revised policy could make it easier for providers to add scribes to their administrative staff, the professional is still lacking well-defined guidelines governing the extent of a medical scribe’s role in the examination room.
+As a result, scribes must often tread carefully around the limits of their professional and legal capacities, and healthcare organizations must often create their own individualized regulations for how to integrate scribes into their workflows.
+2011 guidelines by the Joint Commission state that scribes must sign, date, and differentiate all of their documentation from notes completed by a licensed physician.  Scribes must also meet all organizational health information management, HIPAA, confidentiality, and patient rights standards in the same manner as all other personnel.
+Licensed providers remain responsible for all documentation completed by their scribes, which means they must still review, verify, and authenticate all data produced on their behalf.  Physicians will be clinically and legally responsible for any documentation mistakes or data integrity errors that result in patient harm.
+READ MORE: APIs, EHR Data Integrity, Patient Access Key to Value-Based Care
+Individual state regulations differ on whether or not mid-level providers, such as physician assistants and nurse practitioners, are allowed to avail themselves of scribes due to the fact that not all PAs and NPs qualify as independent providers on their own.
+While physicians must still be heavily involved in the EHR documentation process, scribes may be able to ease the schedules of overwhelmed providers hovering on the edge of burnout.
+“In today’s healthcare environment of increased regulations, documentation incentives, and reimbursement requirements, charting and documenting takes time,” AHIMA says. “Scribes can help to reduce the documentation time needed by the provider during a visit.”
+“Many providers feel the pressures of increased clerical responsibilities and learning curves with the implementation of new and upgraded systems. The use of scribes can help to increase provider morale by reducing the amount of clerical tasks and resulting stress while learning a new system.”
+In addition to preventing burnout and reducing physician frustrations, scribes may help physicians produce more revenue.  With a yearly salary averaging around $20,000 for a scribe, organizations may save hundreds of thousands of dollars per clinician by adding more appointments to the schedule, says AHDPG. 
+Patient satisfaction may also rise when physicians are able to spend more time attending to the patient’s needs and less time staring at the computer screen – a key pain point across most of the healthcare industry. 
+While the argument can be made that scribes are only a temporary solution for the much deeper problem of poorly designed EHRs, a dedicated scribe with specific, detailed training in the EHR data integrity needs of a healthcare organizations could offer a better way for providers to work at the top of their skillsets without inadvertently compromising the health information of the patients they serve.
+Tagged Data IntegrityEHR Data QualityEHR UseHealthcare Data GovernancePhysician EHR Use
+
+

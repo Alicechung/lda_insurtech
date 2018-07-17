@@ -1,0 +1,47 @@
+JWG and ClauseMatch Launch Next Generation Regulatory Policy Management Solution
+
+November 2, 2017
+
+Technology collaboration reduces financial institutions regulatory gap analysis by 85% – linking regulatory obligations to internal policies in a cost effective, automated and auditable fashion.
+
+ London, UK – 2 November 2017 – JWG, the trusted industry experts in regulatory change management, and ClauseMatch, a leading global provider of document collaboration for financial institutions, legal firms and other large enterprises, today announced the launch of their combined next-generation policy management service. The solution reduces financial institutions regulatory gap analysis by 85% by linking regulatory obligations to internal policies in a cost-effective, automated and auditable fashion.
+
+ Born out of the 2-day session of the FCA TechSprint, where the unique solution was twice commended by the industry, the two firms brought together JWG’s semantic regulatory  platform, RegDelta, with ClauseMatch’s document collaboration platform. The combined platforms facilitate a streamlined response to regulatory updates for financial institutions by performing gap analysis between their policies and regulatory obligations.
+
+ Earlier this year a Tier 1 bank tasked JWG and ClauseMatch to connect granular regulatory obligations to its frameworks, policies, standards, and controls. Challenges the bank historically encountered included the time associated with regulatory gap analysis, assessing the impact of regulatory changes on its policies and no consistent method to prove that regulatory obligations had been assessed and implemented internally.
+
+ Such efficiencies were achievable due to RegDelta’s next generation semantic ontology that was able, through an open API with ClauseMatch, to machine-match obligations in regulatory documentation to the bank’s frameworks, policies, standards and controls managed in ClauseMatch.
+
+ The results of the technical integration included reducing, by 85% (from 3 months to 2 weeks), the time associated with regulatory gap analysis, providing an immediate view of the gaps between regulation and policy, empowering the banks employees to quickly assess the applicability of regulation to their policies and creating a reusable framework for new regulatory regimes which is easily applied to other firms.
+
+ JWG’s CEO, PJ Di Giammarino, commented: “This new capability really changes the game by deploying state of the art technology in a collaborative manner. We can now radically reduce the repetitive load of document processing and work smarter by getting the right input to the right people in a better way.”
+
+ Evgeny Likhoded, ClauseMatch CEO & Founder, added: “With constant regulatory changes and the requirement to improve conduct, governance and controls environments in financial institutions, it has become a challenge for the industry to keep up with the changes required to be made to the internal governance documentation on continuous basis. Our collaboration with JWG is bridging this gap by using technology to automate impact assessment and speed up the implementation of regulatory change.”
+
+ ClauseMatch and JWG will join forces at FIMA Europe on November 8th to discuss how next-generation regulatory policy automation can be deployed to cut costs, increase quality and save time through data lineage techniques. For more information please visit https://fimaeurope.wbresearch.com/
+
+ About JWG and RegDelta
+
+ JWG are operations and technology professionals, trusted by the global financial services industry as experts in regulatory change management. For the past decade, the team of independent analysts have helped the industry interpret large quantities of regulatory reform and action it in a smart and intelligent way.
+
+ RegDelta, the state of the art platform houses semantic rule books for regulators, financial institutions and technology companies.  It is the golden source of global regulatory documentation, which classifies your rules with a rich proprietary model for FS obligations and gives the user the power to manage their single version of the business truth.  Delivered safely and securely via the cloud, the user-friendly interface and powerful MI provides financial institutions with a fully auditable workflow to prove completeness and help senior management to sleep at night.
+
+ About ClauseMatch 
+
+ ClauseMatch is an award-winning London-based financial technology company which provides software-as-a-service for smart document management. Its flagship product is a next-gen real-time document management platform which brings an unprecedented productivity for Compliance, Legal, Finance, Operations and Risk teams saving millions in terms of time and resources, while significantly reducing risk and providing accountability. It works as a browser-based collaborative document editor containing in its core a detailed workflow, where comments, approvals, and changes are a part of a full audit trail, providing full visibility, unprecedented control of content and groundbreaking reporting capabilities.
+
+ Media contacts:
+
+ Blythe Barber
+
+ Blythe@jwg-it.eu
+
+ +44 7908 795505
+
+ Anna Antimiichuk
+
+ anna@clausematch.com
+
+ +44 740 881 2657
+
+

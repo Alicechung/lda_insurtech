@@ -1,0 +1,19 @@
+Missile defense analytics can spot sepsis before physicians
+
+October 31, 2013
+
+By Jennifer Bresnick
+October 31, 2013 - When you think about Lockheed Martin, you probably think about national defense instead of healthcare.  But the global security and aerospace company, which also operates more than 50 medical clinics nationwide within the VA and Social Security Administration, is using its missile defense insights to tackle an insidious foe: sepsis, which kills nearly 40% of the 750,000 people it affects each year.  Leveraging data analytics insights that can spot enemy projectiles, Lockheed Martin’s application of machine learning technology to medical IT has the potential to identify sepsis between fourteen and sixteen hours before physicians do.
+“In the area of missile defense, we treat data as constantly changing signals,” explained Macy W. Summers, Chief Technology Officer for Lockheed Martin IS&GS Defense Advanced Programs, to HealthITAnalytics.  “We thought that machine learning algorithms could be used to look at vitals and lab data.  That’s typically not how doctors examine lab data today.  We had these insights from detecting and characterizing missiles and we applied that technique to critical care patient data.”
+Sepsis costs hospitals more than $12.5 billion per year, and can often be confused with flu symptoms in its early stages.  But each hour treatment is delayed, the risk of mortality increases substantially.  Detection of the disease is complicated by the fact that many electronic warning systems produce false alarms that are ignored by busy physicians.
+“The biggest advance here is going to be in reducing the false alarm rate,” Summers predicts of the sepsis algorithm.  “Right now, critical care systems have very high false alarm rates for sepsis because they don’t look at the data over a long sequence of time.  Think of it like a car alarm in a parking lot.  Most people don’t pay attention because they know it is probably a false alarm.  That happens in hospitals also.  Quite often, hospital critical care attendants ignore sepsis alerts because as many as half of the alerts are false.”
+Dig Deeper
+EHR Sample Size Matters in Machine Learning, Predictive Analytics
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Clinical Analytics Studies, Partnerships Target Personalized Care
+“That’s how missile defense offered clues into how we could better detect this disease,” Summers continued.  “If one looks at a snapshot of missile defense data, it is initially difficult to discern an adversary’s missile from a routine launch.  But if we look at sensors over a long period of time and collect enough data, we can fingerprint the missile and have a very high confidence in the missile source and the appropriate response.”
+While the system has not yet been deployed in a hospital setting, it has been through a series of blind tests using real patient data with more than 90% accuracy.  “We had physicians go back and double check our work and we found some patients who had the disease and the doctors didn’t even know it,” Summers noted.  Lockheed Martin hopes to further optimize the concept to apply machine learning to other conditions, such as cancer, heart disease, and eventually to emerging fields like genomic risk prediction.
+
+Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsMedical ResearchPredictive Analytics
+
+

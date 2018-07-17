@@ -1,0 +1,55 @@
+Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+
+September 12, 2017
+
+By Jennifer Bresnick
+September 12, 2017 - Health IT giant Epic Systems maintains an edge over its closest competitors in the hospital inpatient and outpatient EHR space, and continues to gain ground in the lucrative business intelligence systems market, according to the latest data from Definitive Healthcare. 
+As the healthcare industry continues to struggle with interoperability, health data exchange, and technical siloes that stunt the growth of big data analytics, health systems in search of health IT infrastructure seem most comfortable partnering with established names in the business, including Cerner Corporation, MEDITECH, and Allscripts.
+However, the market remains open for smaller companies to scoop up customers, especially in the business intelligence space. Newcomers will have to compete with Epic’s popular data products, but have a wide range of opportunities to deliver innovative services that harness the growing sophistication of machine learning and semantic computing.
+How is the health IT landscape changing to account for the sharp increase in desire to leverage big data, predictive analytics, and digital clinical documentation for population health management and other reform opportunities?
+INPATIENT EHR ADOPTION IS A CLOSE RACE BETWEEN EPIC, CERNER
+As hospital EHR adoption trundles towards the total saturation point, it may seem impossible for one vendor to gain ground over another.  Cerner and Epic have started to put aside their data sharing quibbles, but are still eagerly vying with one another for the top spot in EHR market share.
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+In this data sample, which includes 7576 individual care site installations (multiple care sites may be part of the same health system which has implemented a single product across many locations), Epic is slightly ahead of Cerner in terms of the number of installs.
+Source: Xtelligent Media
+The difference between Epic’s 28 percent and Cerner’s 26 percent of the market is a mere 185 care sites.  Since both companies are known to attract large, multi-site health system customers, the actual number of contracts signed with parent entities may be more or less even.
+In terms of hospitals attesting to the Medicare EHR Incentive Programs as of July 2017, the difference between Epic and Cerner basically vanishes. According to the ONC, Epic had 997 customers successfully attest to meaningful use, while Cerner racked up 994 attestations.  MEDITECH came in a close third, with 935 hospitals using its products to avoid CMS penalties.
+  Source: ONC
+The only measurable distinction in this dataset is the fact that 68 of the Epic hospitals completed their attestation while using 2015 Edition Certified EHR Technology, while none of Cerner’s hospitals have yet done the same.
+READ MORE: Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+And as the market continues to consolidate, the race is likely to remain neck-in-neck for the foreseeable future. 
+The two vendors’ nearest competitor, MEDITECH, retains 16 percent of the sample inpatient hospital customer base, while two divisions owned by CPSI, Healthland and Evident, together take fourth place.
+OUTPATIENT EHR LANDSCAPE SHOWS SIMILAR ADOPTION PATTERNS
+A drawn-out and staggered EHR adoption process has left many health systems juggling two different EHRs: one for inpatient care, and a completely separate product for their outpatient specialty and primary care providers.
+Yet two familiar names still rise to the top of the list, again separated by the slimmest margin.  Among the 6600 care sites included in the data sample, 34 percent (2242 care sites) are using Epic Systems and 30 percent (1966 care sites) have adopted products from Cerner.  
+Source: Xtelligent Media
+MEDITECH again scoops up the bronze medal, with 11 percent, followed closely by Healthland and Evident, the two CPSI companies at 10 percent.
+READ MORE: How Big Data Analytics Companies Support Value-Based Healthcare
+Allscripts, athenahealth, NextGen, McKesson, and eClinicalWorks are perhaps underrepresented in this dataset, considering their relatively high numbers of ambulatory and hospital meaningful use attestations.
+As of July 2017, all five are ranked among the top EHR vendors for meaningful use certifications from ambulatory primary care physicians, medical and surgical specialists, podiatrists, optometrists, dentists, and chiropractors.
+Four out of the five stand between top-ranked Epic and Cerner’s sixth place spot, the ONC indicates.
+  Source: ONC
+While many of these eligible professionals are not directly affiliated with a hospital-based care organization, the growing trend of hospital acquisitions of ambulatory providers and the inclusion of surgical specialists in the criteria do present an important counterpoint to the initial data sample.
+Still, Cerner and Epic are undisputed leaders among hospital-affiliated outpatient care sites, and are unlikely to be unseated from their perches any time soon.
+ARE CHANGES AFOOT IN THE HEALTHCARE BUSINESS INTELLIGENCE MARKET?
+Cerner may be shadowing Epic closely in the EHR space, but the big data analytics and business intelligence world looks somewhat different. 
+Not only is Epic miles ahead of its nearest competitors, but it has been steadily growing its customer base over the past two years.
+Source: Xtelligent Media
+The latest data from 4728 care sites shows that Epic dominates 46 percent of the hospital business intelligence landscape, mostly due to broad adoption of Clarity, a relational database which allows users to conduct analytics on data from their Epic EHRs.
+That number represents a significant increase from November of 2015, when Epic products represented a quarter of the market, and September of 2016, when the company held 39 percent of the market share, albeit among a slightly smaller sample of hospitals.
+In general, the business intelligence market is somewhat more fragmented than the EHR landscape, even with Epic gobbling up a large portion of the pie. 
+Companies like SAP are gaining, while the proportion of organizations using smaller vendors or proprietary systems appears to be steadily shrinking.
+Yet once again, this particular dataset may not be capturing a wholly accurate picture. 
+Business intelligence and predictive analytics vendors are moving at lightning speed to capture a new wave of customers who cannot afford to enter value-based contracts or undertake population health management initiatives without the secure backing of data to guide their decisions.
+Fragmentation – or at least a different set of business intelligence players – is much more pronounced outside of the traditional hospital environment.  Among accountable care organizations (ACOs), which may combine acute care facilities with ambulatory providers, Epic is barely a blip on the radar.
+Instead, proprietary systems and small vendors comprised 42 percent of the Medicare ACO environment in June of 2016, while Midas+, a Xerox Company, holds nearly a quarter of the commercial ACO market.
+This is despite the fact that Epic and Cerner both held the vast majority of ambulatory and inpatient EHR installs at the same set of commercial ACO organizations.
+Source: Xtelligent Media
+The disparity may indicate a disconnect between the needs of traditional acute care facilities and the next generation of value-driven provider networks, giving a new crop of vendors an opportunity to offer a different set of services to support organizations looking to invest in accountable care and data-driven population health management.
+Healthcare organizations now have access to a growing number of choices offering a wide variety of low-cost capabilities, including cloud-based storage and analytics products, machine-learning-as-a-service, predictive analytics, and cognitive computing tools.
+And as the market keeps growing – recent reports pin the global healthcare analytics sector at 34.27 billion by 2022 and the BI market at $7 billion by 2021 – providers may find themselves investing in smaller, more specialized, and more nimble vendors who can easily adapt to a rapidly changing technology environment while offering the latest and greatest in artificial intelligence and decision support.
+Regardless of this potential for market movement, it will take a lot of work to displace the health IT juggernauts that have built up such momentum and experience over the past few years.  Epic, Cerner, MEDITECH, and their other competitors are working hard to transform themselves into comprehensive health IT ecosystem vendors, which is also a highly attractive notion for providers who value simplicity, support, and integration.
+As hospitals and ambulatory providers stare into a future that will only bring more financial risk and a more pressing need to rely on big data for their decision-making, they will need to carefully select the technology partners that can best meet their individual needs and long-term organizational goals.
+Tagged Analytics InfrastructureCernerEHR AdoptionEHR Vendor ImplementationEHR VendorsEpic SystemsHealthcare Business IntelligenceMachine Learning
+
+

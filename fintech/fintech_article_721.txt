@@ -1,0 +1,45 @@
+What are the biggest issues faced by payment service providers?
+
+July 14, 2017
+
+What is a payment service provider?
+
+ Payment Service Providers (PSPs) are defined as a third party that provides a robust and secure framework that enables online merchants to accept payments such as credit, debit and prepaid cards, bank transfers, vouchers, e-wallets, alternative payment solutions and mobile payments.
+
+ A PSP typically has to offer fraud protection, risk management, transaction reconciliation solutions, reporting and Payment Card Industry Data Security Standard (PCI) compliance as part of their service. Depending on the PSP, they may also be able to offer multi-currency processing, translate different languages, host secure pages and provide flexible 3D secure options as well as guidance on reducing chargebacks.
+
+ Few industries have undergone a more rapid and transformational change than the e-commerce industry, and with this evolution, new challenges for PSPs have emerged.
+
+ Slow cross border payments
+
+ PSPs are designed to offer a fast and convenient payments solution; however, when it comes to cross border payments, PSPs are being let down by a slow service.
+
+ Providing a comprehensive global payment service to merchants can be challenging for PSPs, particularly when faced with the speed at which international transfers are processed. This is stunting their potential for growth, holding them back from rapid expansion around the globe.
+
+ Omnichannel is here to stay
+
+ With the rise of the digital-savvy, connected consumer came the rise of omnichannel commerce – consumers expect a seamless shopping experience across devices online, which extends to a consistent experience when shopping offline.
+
+ Offering an omnichannel shopping experience provides merchants with countless opportunities to build loyalty and increase their revenue.
+
+ New payment methods
+
+ As well as delivering an omnichannel experience, PSPs also need to meet consumer demand for emerging alternative payment methods. Preferred payment methods vary by country too, so merchants wanting to expand into new territories are likely to choose a PSP who is already able to process payments in that region and support the preferred payment method of their customers.
+
+ Accepting payments from territories that are known to have a higher risk of fraud also presents issues for PSPs. Finding payment infrastructure that is able to support smooth and secure transactions is crucial. Choosing to operate in these areas, therefore presents security challenges, which could jeopardise the entire network.
+
+ Compliance with financial regulation across territories
+
+ With expansion into new territories comes the issue of regulation. While all PSPs should be PCI compliant, there are a number of countries which lack payment security protocols or a regulatory framework to facilitate secure online payments.
+
+ Regulation can vary from country to country, and PSPs often find themselves navigating the complexities of different laws and regulations to ensure they are compliant.
+
+ What can payment service providers do?
+
+ For successful global expansion, PSPs need to secure a number of payment-related partners, including acquirers, and issuers.
+
+ In addition, to expand globally PSPs need to manage multiple banking relationships. This is time-consuming and can also be fraught with issues due to the PSP’s lack of bargaining power, and the complex regulatory requirements of the traditional banks. Reconciliation can also be complex and require much manual intervention to manage each of the many stages and providers – unlike the Saxo Payments Banking Circle, traditional banking is not a one-stop-shop.
+
+ Major PSPs and acquirers are already utilising our platform to make instant cross border payments, allowing for rapid expansion into new territories for them and their merchants.
+
+

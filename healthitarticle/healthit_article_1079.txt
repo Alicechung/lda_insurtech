@@ -1,0 +1,23 @@
+ECRI: Healthcare Internet of Things to Boost Population Health
+
+January 20, 2016
+
+By Sara Heath
+January 20, 2016 - Some of the upcoming healthcare trends for 2016 could bring major improvements to population health management. The healthcare Internet of Things may play a major role in the continued improvement of population health management strategies in 2016, says a report published by the ECRI Institute.
+The 2016 Top 10 Hospital C-Suite Watch List predicts that the Internet of Things, along with medication-based management for heart disease, could help to maintain patient engagement and decrease hospital readmissions.
+Although wearables have been around for a few years now, their burgeoning popularity with patient populations will bring the Internet of Things to new heights this upcoming year. These devices, made popular by products such as the FitBit or AppleWatch, have the power to monitor patient health from a remote location, helping to reduce costs and maintain patient and population health.
+“Wearable sensors hold promise for both outpatient and inpatient monitoring as they continuously monitor health status less obtrusively, capture and provide more data to clinicians, and possibly enable patients to leave the hospital sooner and prevent readmissions,” the authors of the report write. “Wearable sensors have potential to cut the cord for inpatient physiologic monitoring and can potentially provide continuous, unobtrusive monitoring pre-, intra-, and post-surgery.”
+Dig Deeper
+“Big Data Spokes” Tackle Population Health with IoT, Informatics
+State-Led Programs Help Meet Population Health Management Goals
+Finding the Value in the IoT, Patient-Generated Health Data
+Using big data analytics techniques, wearable devices are also proving to be effective in the early prediction of neurological function for patients with Parkinson’s disease, Alzheimer’s, dementia, cerebral palsy, post-stroke management, and epileptic seizures. Some wearables have the ability to detect when a patient might have a seizure, experience a fall, or have tremors.
+“By combining data from several motion sensors and computing them through machine-learning algorithms, wearable sensor systems can give detailed insight into gait, falls, tremor, dyskinesia, and limb paralysis. In conjunction with electroencephalogram sensors, the sensors can even distinguish between normal movements and tonic-clonic movements.”
+When wearable devices detect potential health problems, patients are able to better manage episodes that otherwise could have been detrimental to overall health. Additionally, providers can mitigate these episodes early, potentially reducing costs in the long-run.
+ECRI Institute also described a series of heart disease medications that could potentially improve readmission rates and keep chronically ill patients healthy without significant medical intervention. Specifically, ECRI Institute discussed alirocumab and evolocumab, and Entresto.
+The first to medications work well for patients with a type of high cholesterol that does not respond well to statins. Alirocumab and evolocumab are alternatives to statins that could potentially manage the health of this patient population. Entresto can treat patients with New York Heart Association class II-IV heart failure in place of ACE inhibitors.
+However, these drugs come with high price tags, and researchers find administering them to patients at their current price would cost the healthcare industry billions of dollars. With cost adjustments, the authors at the ECRI Institute assert that these preventative medications could help increase population health management and decrease hospital readmissions.
+The ECRI Institute compiled this report to give hospital executives insights into various health IT implementation decisions they may face throughout the year. From device security to the population health management solutions presented, providers and hospital executives should expect to see a wide variety of healthcare trends that could affect every aspect of their practice.
+Tagged Big Data AnalyticsHealthcare Internet of ThingsmHealthPopulation Health Management
+
+

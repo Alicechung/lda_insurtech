@@ -1,0 +1,26 @@
+WEDI Launches Genomic HIE Workgroup for Precision Medicine
+
+October 21, 2015
+
+By Jennifer Bresnick
+October 21, 2015 - The Workgroup for Electronic Data Interchange (WEDI) has announced the formation of a new workgroup designed to address the health information exchange issues surrounding the collection, dissemination, and use of genomic as the nation delves deeper into the intricate world of precision medicine.
+The group will bring together stakeholders from across the industry to develop a common strategic vision for the privacy and security of genomic data, and will also discuss the adoption of communal data standards, governance, and information storage.
+“With all of the latest advances in genomic sequencing, profiling, testing and phenotyping, the healthcare industry is quickly entering a completely new era of personalized medicine," said Devin Jopp, EdD, President and CEO of WEDI.
+"This progress will require more advanced health information technology, capable of rapidly accessing, exchanging and processing information to fully inform diagnostic, treatment and prevention decisions at the point of care."
+Dig Deeper
+Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+Provider Data Management Offers Payers a Blockchain Use Case
+CMS Begins the Search for a Chief Health Informatics Officer
+Katherine Johansen Taber, PhD, director of the AMA’s Personalized Medicine Program, Adam Scott, vice president of consumer clinical strategy at Aetna, and Grant Wood, senior IT strategist for Intermountain Healthcare’s Clinical Genetics Institute will jointly chair the workgroup.
+In conjunction with the announcement, WEDI released a white paper outlining the major issues facing the industry as it contemplates the development of genomic health information exchange.  Precision medicine faces many of the same challenges as other healthcare big data analytics initiatives, including limited exchange capabilities and immature data governance guidelines, the paper says.
+Data access and integration also poses a major problem for providers who wish to incorporate genomic data into their clinical decision-making.  “Genomic data, if captured at all, is generally done so as an unstructured PDF attachment to a medical record and thereby limits the extent to which data can be used in an actionable manner,” the report explains.
+“Nonetheless, the blending of disparate data is critical to developing advanced clinical decision-support capabilities that can retrieve and synthesize data for clinicians in real-time, and ultimately support population health management.”
+WEDI envisions that the industry will quickly need to outpace the guidelines included in the EHR Incentive Programs when it comes to collecting historical patient data, including family histories and ethnic background.  While the meaningful use objectives hope to guide providers towards using this data for risk stratification and preventative care, precision medicine will require a much deeper look into a patient’s genetic profile.
+CMS and the ONC are currently trying to address the underlying EHR interoperability and health information exchange barriers that prevent this information from flowing freely across the care continuum, but WEDI does not believe that these efforts, such as the ONC’s recent long-term interoperability roadmap, appropriately take precision medicine and the intricacies of genomics into account.
+“As currently envisioned, the ONC Roadmap does not sufficiently address the challenges, standards, architecture, or governance associated with the complexity and granularity of genomic data,” the issue brief says. “Given the size and complexity of ‘omic’ data (e.g. genetic, genomic, exomic, epigenomic, proteomic, microbiomic, etc.), it is likely that document-based storage and exchange is not a feasible long-term approach.”
+“It is therefore paramount to begin engaging stakeholders to discuss the standards, protocols, workflow processes and strategies that will be required to access, exchange, store and integrate genomic data, as well as the associated business, clinical, legal, technical and ethical issues within and between systems as patients move between healthcare systems, care providers and insurers.”
+The workgroup plans to create its own roadmap outlining the best strategies for helping providers and EHR developers utilize genomic information effectively for precision medicine applications at the point of care, Jopp added.
+“It is important that WEDI, as the leading authority on health IT and health information exchange, bring this issue to the forefront and investigate not only how to build a national infrastructure to support this genomic data, but how to create seamless workflows to enhance the delivery and coordination of care.”
+Tagged Big DataHealth Information ExchangeHealthcare Data GovernancePrecision Medicine
+
+

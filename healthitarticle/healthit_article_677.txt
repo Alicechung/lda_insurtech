@@ -1,0 +1,29 @@
+UCSF to Develop Machine Learning for CDS, Imaging Analytics
+
+November 18, 2016
+
+By Jennifer Bresnick
+November 18, 2016 - The University of California San Francisco’s Center for Digital Health Innovation (CDHI) and GE Healthcare are partnering to develop a cache of machine learning algorithms and imaging analytics tools that can be used to provide clinical decision support for patients with complex medical needs.
+The collaboration will initially focus on creating tools to speed accurate differential diagnoses for trauma patients before branching out into predictive analytics, precision medicine, and increased automation of routine care.
+“With this partnership, we have the opportunity to leverage the technical expertise of one of the largest providers of medical technology globally and the clinical and research expertise of UCSF, one of the largest recipients of National Institutes of Health (NIH) funding, in order to make the promise of precision healthcare a reality,” said Michael Blum, MD, associate vice chancellor for informatics, director of CDHI, and professor of medicine at UCSF.
+“Next generation data science techniques have already transformed the industrial and consumer world. With this collaboration, these technologies will be applied to our clinical data and images to provide clinicians with actionable information in near real-time.”
+Dig Deeper
+Machine Learning 84% Accurate at Flagging Dementia within 2 Years
+Transparency is Key for Clinical Decision Support, Machine Learning Tools
+Top 4 Machine Learning Use Cases for Healthcare Providers
+UCSF and GE will create a library of deep learning algorithms that will be accessible through the GE Health Cloud, a broad partnership intended to connect smart imaging machines.  Researchers are currently working on developing an algorithm to help imaging machines identify pneumothorax. 
+The project uses machine learning to fine-tune the process of distinguishing between normal and abnormal scans, providing clinicians with sensitive and accurate information about patients at risk for serious complications from the life-threatening condition.
+Imaging analytics is a growing area of interest for health IT vendors and developers, who are keen to unlock the wealth of data contained in x-rays, MRIs, CAT scans, and other tests. 
+Recent advances in pattern recognition algorithms have started to make it easier for computers to understand what images represent and how to identify subtle variations in anatomy that may even escape the attention of human clinicians.
+Pattern and image recognition technologies, which are often placed under the same umbrella as natural language processing tools due to the shared focus on unstructured data, are likely to contribute to a $2.65 billion marketplace by the year 2021, fueling the growth of precision medicine and personalized therapies.
+GE Healthcare will have a number of competitors in the field, including Microsoft, IBM, and Dell Services, all of whom have recently formed similar strategic partnerships to bulk up their abilities to bring actionable insights to clinicians where and when they are needed most.
+“This partnership is about the future of healthcare – technology, analytics and cloud computing power all combining to enable clinicians to make faster decisions for better patient outcomes,” said John Flannery, President and CEO of GE Healthcare.
+“By working hand-in-hand with a leading academic medical center like UCSF to design, build and verify new deep learning tools, we are defining how digital health solutions can be seamlessly integrated into care.”
+The partnership will eventually expand into integrating electronic health record data into machine learning algorithms to enhance the sensitivity of the tools.
+“What is so powerful about combining analytics, deep learning and cloud technology is that the solutions will only get smarter and more scalable over time,” said Charles Koontz, Chief Digital Officer of GE Healthcare.
+“While this partnership combines the capabilities of a large medical technology vendor and a major research institution conveniently located near Silicon Valley, it’s the global users of the algorithms who will disrupt the way care is delivered by leveraging the tools we have developed. Patients who previously lacked even the most basic medical services may benefit from GE Healthcare’s best-in-class technology and UCSF’s world renowned clinical expertise.”
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Clinical AnalyticsClinical Decision SupportImaging AnalyticsMachine Learning
+
+

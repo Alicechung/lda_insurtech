@@ -1,0 +1,31 @@
+Data Governance, More Attention Required for Patient Safety
+
+April 18, 2016
+
+By Sara Heath
+April 18, 2016 - The healthcare industry will need to improve its reliance on data governance and focus on developing additional reporting standards if it is to make true improvements to patient safety, say Ashish Jha, MD, MPH, and Peter Pronovost, MD, PhD, in a recent article published in the Journal of the American Medical Association.
+The pair explained the growing need for better patient safety measures, noting that patient morbidity and mortality due to medical errors has been on the healthcare industry’s radar for more than 15 years, since the Institute of Medicine shed light on the subject in the 1999 report, To Err is Human.
+However, providers have not made much headway in preventing adverse events due to medical errors, despite the fact that some reports predict that nearly 400,000 deaths each year can be traced back to patient safety mistakes.The growing number of potential deaths due to medical error, combined with the increased prevalence of value-based payment models which tie patient safety measures to hospital finances, highlight the importance of improving patient safety measures going forward.
+While acknowledging the importance of patient safety measures is an important step, Jha and Pronovost maintain that the healthcare industry must complete a full overhaul of patient safety measures, ensuring that provider activities are accurately and fairly assessed.
+While greater focus on safety is a welcome development, there is little reason to believe that added attention alone will lead to safer care. Why? Because the health care industry lacks valid patient safety measures, which are fundamental to improvement. Without these measures, the key ingredient in these efforts is missing: systematic, real-time data on adverse events with timely feedback to clinicians and health care organizations. Without effective measurement and reporting, progress in patient safety will be arduous and slow.
+READ MORE: EHRs, Clinical Decision Support Top 2017 Patient Safety Hazard List
+Federal policymakers are mainly responsible for boosting patient safety measures. Through three action steps, CMS can implement better policy for measuring this standard.
+First, CMS should reassess current patient safety measures and get rid of duplicative or unnecessary measures. The agency should then develop a new set of standards more applicable to today’s healthcare ecosystem.
+CMS should employ clinical data to measure patient safety rather than billing or administrative data. A focus on billing data poses the risk of inaccurately reporting patient safety levels at different hospitals.  Hospitals that are very diligent in reporting all adverse events in their billing claims may appear as if they have poor patient safety protocols, even if they are actively addressing the issue.
+Conversely, a hospital that does not report the full scope of adverse events in their claims data may appear as if they are a top performer, even though they may just be sweeping more patient safety problems under the rug.
+“CMS instead should focus on the most common and clinically meaningful causes of harm and should use clinical data, not billing data, and monitor and report the validity of the measures,” Jha and Pronovost say. “Such an approach will enable hospitals to focus on improving patient safety rather than changing coding, as the current programs have encouraged.”
+READ MORE: Data Integrity Strategies for Patient Matching, Identification
+When developing a set of new patient safety measures, CMS should consult with other agencies that have a long-standing history of good patient safety protocol, such as the Centers for Disease Control (CDC).
+“The CDC’s work has made substantial gains in making hospital care safer, particularly with regard to central line–associated bloodstream infections and surgical site infections,” the pair wrote. “The CMS should work with the CDC to expand this proven model to other types of patient harm.”
+CMS, in partnership with the CDC, can work to expand CDC’s pre-existing patient safety measures to encompass a wider range of potential adverse events, helping them to develop better and more specific policies.
+CMS should also develop a set of standards identifying what constitutes good patient safety measurements prior to implementing new standards into a fee-for-service reimbursement model.
+Jha and Pronovost say this responsibility could lay with the National Quality Forum, and should entail the development of standards, performance audits, transparent reporting, and dissemination of information to journalists for public reporting.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Ultimately, these plans all require adequate funding from Congress. While there are naturally competing budget priorities, the pair highlight the long-term payoff that investing in patient safety measures development may have.
+“Complications are expensive, and reducing their frequency can provide significant savings to payers,” Jha and Pronovost explained. “Reducing complications such as central line infections not only likely saved thousands of lives but also billions of dollars, much of it to the Medicare program.”
+While improving patient safety does require individual physician buy-in, the effort begins with overarching policy and governance. Without a set of overarching standards, individual physicians are unable to begin their efforts in improving patient safety.
+As such, Jha and Pronovost concluded, the federal government must acknowledge its role in improving patient safety measures to boost the total healthcare industry.
+Through a collective effort spearheaded by government agencies, healthcare professionals can identify important patient safety measures and begin to implement best practices in their clinical workflows, ultimately reducing the number of patient deaths due to medical error.
+Tagged Healthcare Data GovernancePatient SafetyValue Based Care
+
+

@@ -1,0 +1,30 @@
+Machine Learning to Fuel “Collective Intelligence” of Human Dx Project
+
+August 14, 2017
+
+By Jennifer Bresnick
+August 14, 2017 - Machine learning may soon make intelligent, informed healthcare decision-making power available to underserved and uninsured populations through an online global network of volunteer physicians called the Human Diagnosis (Dx) Project. 
+Supported by major organizations including the American Medical Association, American College of Physicians, and American Board of Internal Medicine, the international collaboration aims to make the “collective intelligence” of machines and human clinicians available to the uninsured, the high-risk, and those without access to quality specialty care.
+“The Human Diagnosis Project is a worldwide effort created with and led by the global medical community to build an online system that maps the best steps to help any patient,” explains the website.
+“By combining collective intelligence with machine learning, Human Dx intends to enable more accurate, affordable, and accessible care for all.”
+The project aims to provide electronic specialty consults to patients without reliable access to care, including patients who do not have insurance.  
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“Inspired by projects like Wikipedia, thousands of doctors from around the world have joined us in solving this problem by contributing their knowledge to the Human Diagnosis project,” says a video introduction to the project.  “Now, with an alliance with the leading medical board and societies in the country, which together credit, license, and educate every doctor in the country, we have a solution.”
+“We’ll bring specialist medical care to the nation’s uninsured by enabling a hundred thousand volunteer specialists to help over three million patients in the next five years.”
+Patients who receive consultations through the project will contribute their data to an open software system that leverages machine learning to turn the data into actionable insights for future individuals. 
+Research teams from Harvard Medical School, Johns Hopkins, and UCSF will explore how to best combine the expertise of human clinicians with the big data processing power of machine learning to offer meaningful clinical decision support to future participants.
+“Human-only and machine-only approaches to intelligence have major limitations,” says the site. “Human Dx is pioneering an approach to collective superintelligence, by combining the collective intelligence of humans with machine learning. It is now studying its applications to clinical decision making with the world's leading medical institutions.”
+READ MORE: Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+Ideally, the collaborative approach will help to reduce medical errors, accurately diagnose rare or complex cases, help to educate physicians, and expand the reach of top-quality care to populations that often go without specialist interventions.
+“Similar to how people around the world contribute encyclopedia articles to Wikipedia, or engineers contribute code to open source software projects like Linux, the global medical community submits clinical case contributions to Human Dx,” says the project’s FAQ section.
+“As medical practitioners, residents, and students give and receive input on clinical cases within Human Dx, the open system automatically contextualizes their decisions and individual clinical insights.”
+Providers can interact with the tool from any connected device.  Members of the public will also be able to access information on specific diseases and anonymized case data through the homepage.  Eventually, the project hopes to allow developers to access and utilize data sets through an open API.
+“Over time, as more of the Project's data reaches a level of fidelity that is practically useful, we intend to make much of the Project's aggregated case insights, metrics, source code, services, and applications available for academic, research, social, and other noncommercial uses,” says the website.
+READ MORE: Can Artificial Intelligence Relieve Electronic Health Record Burnout?
+“In health care, many disparate sources of data exist, but we lack a comprehensive "map" to guide patients from an initial health problem to triage, diagnosis, treatment, discharge, ongoing care, and prevention. The Project hopes to facilitate the construction and broad distribution of such a system.”
+Ultimately, stakeholders hope that the collaboration will contribute significantly to the health system’s knowledge of critical population health issues, and serve as an open and freely accessible supplement to the public health and traditional healthcare ecosystems.
+“Our vision is a world in which each person benefits from and contributes to the collective insights of each other (including doctors, patients and organizations),” says the team.
+“Such a system of collective intelligence would underlie all public health and health care systems so that information would be quickly and cheaply distributed to everyone in need. It would empower each stakeholder so that he or she could use the information to make the best decisions for themselves, their loved ones and their patients.”
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsMachine LearningPopulation Health ManagementTelemedicine
+
+

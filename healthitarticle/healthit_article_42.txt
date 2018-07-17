@@ -1,0 +1,45 @@
+Provider Data Management Offers Payers a Blockchain Use Case
+
+June 11, 2018
+
+By Jennifer Bresnick
+June 11, 2018 - Moving provider directories onto a blockchain could offer payers a high-value use case for exploring the role of distributed ledgers in healthcare data management, assert Humana and Ernst & Young (EY) in a new white paper. 
+Payers, patients, and healthcare professionals depend on accurate, up-to-date directories for selecting new providers, understanding coverage options, and maintaining high-quality care networks – yet this critical dataset is often riddled with inaccuracies.
+In 2016, CMS found that 45 percent of Medicare Advantage provider directory entries contained at least one error, which can result in a poor patient experience and the potential loss of business for providers and payers.
+Blockchain, coupled with an innovative “data marketplace” that allows for incentive-based information exchange, could help to improve collaboration and develop trust without requiring a centralized authority to oversee the distribution of data.
+“The current ecosystem for provider data displays many of the hallmark pre-marketplace characteristics: inefficient distribution of efforts and resources, minimal competition and poor quality,” Humana and EY explained.
+READ MORE: Five Blockchain Use Cases for Healthcare Payers, Providers
+Most healthcare providers have affiliations with dozens of plan administrators, each of which is managing their own provider data independently.
+Maintaining these complex datasets is time-consuming and costly, putting health plans on the hook for a conservative estimate of $6 million per year. Verifying changes in provider practice sites, availability status, and other key data can require between 20 and 40 minutes on the phone. 
+For a plan attempting to keep pace with half a million in-network providers, the investment in time and money can be daunting, and there is no guarantee that the data will remain correct until the next time the payer contacts its providers.
+Plan administrators rarely collaborate with one another, leading to duplicated effort on both sides of the equation. 
+“Currently, there is no easy way for plan administrators to collaborate on the maintenance of a single record, and no set of attestation or outreach standards that would allow a plan administrator to trust another administrator’s maintenance efforts,” the white paper points out.
+READ MORE: Blockchain Aims to Foster Payer, Provider Trust for Value-Based Care
+A blockchain-based provider data management (PDM) marketplace could change that.
+“Blockchain technologies have unique applicability to support consortia-backed approaches because they provide a shared, potentially autonomous platform that is ‘trustless’ – meaning that assurance is provided by the platform, not by trusted third parties,” the report says.
+“By adopting technologies that indiscriminately distribute information, all participants on the platform have access to the historical record of decisions made by participants, including the logic and the details used to make that decision. This level of transparency enables trust. It also drives openness since each participant has the same level of access without relying on an intermediary or centralized system.”
+By establishing a trustworthy foundation, blockchain could help to introduce financial incentives for exchanging data between members of the PDM community, thereby creating a free market that, in turn, creates an imperative for every participate to ensure its contributions are as valuable as possible.
+“Inevitably, free-market forces enable an evolution among market participants,” EY and Humana said. “Efficient, large suppliers are able to compete on quantity and price, while smaller suppliers compete on specialization and quality.”
+READ MORE: Blockchain Activity Grows Sharply for Healthcare Payers, Providers
+“In a marketplace ecosystem, the PDM function will change from a cost center to a revenue-generating function for some, and data will become an asset that is bought and sold based on the price and reputation of the supplier and buyer demand.”
+Plan administrators can become both buyers and sellers of data in this new ecosystem, and can compete with one another to offer the most accurate, up-to-date data at the lowest acceptable price. 
+Third-party validators can also join the environment by selling services to ensure that proposed updates are correct, taking the burden off the shoulders of plan administrators themselves.
+Blockchain can provide both a payment system for enabling these transactions and an underlying data management framework for moving information between entities in a trusted, transparent manner.
+“Blockchain technologies impose data and transaction standards on participants, which creates rules of the road,” the white paper explains. “This has significant benefits in terms of interoperability because every participant is now able to benefit from shared roads.”
+“In the case of provider data, the network activity includes the addition of an attestation, or a flag, and the subsequent purchase and sale of a data asset. Multiple buyers can be notified when a seller proposes an update or when a party validates information, allowing all participants to have up-to-date data and market information.”
+Stakeholders will also be able to flag suspect transactions, or data that has been tampered with in some way, allowing for greater security and a speedier way to identify potential fraud or malicious actions.
+A number of healthcare stakeholders who believe in blockchain’s potential for improving data management are already working towards making their visions a reality.
+Humana has joined with several other entities, including MultiPlan, Optum, Quest Diagnostics, and UnitedHealthcare, to launch a PDM pilot that reduces administrative burdens and slashes the associated costs.
+"Health is hard, but great breakthroughs may come from industry players collaborating around emerging, innovative technologies to make life easier for doctors and patients,” said Busy Burr, Vice President and Head of Healthcare Innovation and Trend at Humana.
+“We think industry leaders can work together to eliminate technology barriers in the health care system and promote better health outcomes.”
+Others are already on the trail, as well.  In August of 2017, industry consortium Hashed Health announced a pilot with the state of Illinois to apply blockchain to the problem of managing provider credentials.
+And in March of 2018, the group launched a commercialized version of a solution that relies upon blockchain to verify employment and licensure changes. 
+Hashed Health believes that its new tool will fill the need for a network that connects disparate data sources in a trustworthy and easily verifiable manner.
+"The fundamental reason why healthcare organizations repetitively and redundantly perform the collection and verification of credentials information is that there lacks a trusted and reliable forum to request and receive verified credentials information,” wrote Anthony Begando in a blog post in March.  
+"Blockchain will change that.  Through the establishment of a network connecting practitioners, primary sources, and consumers of credentials information, a utility can be created which captures credentialing transactional data and, where authorized, makes that data available for consumption by all other future requestors of that same information.”
+Automating and streamlining these administrative tasks using blockchain could eventually produce positive downstream impacts on data quality for the entire healthcare industry, predict Humana and EY.
+“Participants providing high-quality data will be rewarded, and those providing low-quality data will be penalized,” said the report. “These dynamics may also encourage nontraditional players with unique access to certain provider data fields to enter the market, increasing competition and eventually driving down costs.”
+“With the quality of provider data being a systemic issue, a collaboration to improve accuracy and decrease waste is a cause from which the entire industry can benefit.”
+Tagged Blockchain in HealthcareHealth Information ExchangeHealth Information ManagementHealthcare Data GovernanceHealthcare PayersInteroperability
+
+

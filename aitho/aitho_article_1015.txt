@@ -1,0 +1,14 @@
+Streamroot & CastLabs Partner To Simplify Video Streaming While Providing Robust Delivery And A Better Viewer Experience
+
+31 Mar 2018
+
+castLabs, a global partner in premium digital video technology, and Streamroot, the provider of the world’s most extensive distributed delivery network for OTT video, announced today their new product integrations. Streamroot DNA[TM] is now fully compatible with PRESTOplay, castLabs’ suite of player SDKs which includes an HTML5 player for browsers, as well as SDKs for Android/iOS and desktop apps.
+Pierre-Louis Théron
+Streaming providers using PRESTOplay SDKs can now benefit from easy deployment of Streamroot’s distributed delivery network for OTT video. Advantages include unrivalled CDN offload and cost reduction, improved QoS and increased delivery capacity during peak traffic, ensuring a smooth, hiccup-free streaming experience for viewers worldwide. From now on, Streamroot DNATM libraries are built-in to all of PRESTOplay SDKs – customers are only a toggle away from harnessing the power of distributed delivery.
+“We are happy to offer castLabs customers a seamless, truly plug-and-play integration of Streamroot DNATM. PRESTOplay support demonstrates our commitment to being compatible with 100% of both commercial and open-source players on the market,” says Streamroot Co-Founder and CEO Pierre-Louis Théron. “Our partnership with castLabs strengthens our global position as the leading provider of distributed video delivery, offering the best QoS on the widest range of players, devices and operating-systems on the market.”
+PRESTOplay player SDKs are designed to greatly simplify playback application development, facilitating offline, VoD, and live playback. Additionally, PRESTOplay SDKs offer MPEG-DASH, HLS, and Smooth Streaming ABR support; DRM support for studio content; multi-language audio & subtitles; fully customizable UI; common ABR algorithm for consistent cross-platform experience, IMA/VAST ads support and QoE & analytics integrations.
+Michael Stattmann
+“PRESTOplay player SDKs enable top broadcasters to provide premium playback features and adhere to the latest standards across all platforms,” said Michael Stattmann, CEO at castLabs. “We are very excited to partner up with Streamroot, and to be able to offer our customers a simplified, out-of-the-box integration of Streamroot’s next generation video delivery solution, providing their millions of viewers a better streaming experience across all devices.”
+Streamroot and castLabs will be showcasing their joint solution at the NAB Show between April 9-12, with a special presentation at 15:30 on Tuesday April 10. For more information, or if you can’t wait to see how well we play together, request a demo of Streamroot’s integration with castLabs today.
+
+

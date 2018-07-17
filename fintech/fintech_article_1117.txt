@@ -1,0 +1,17 @@
+New Version of the Pendo Data Platform Brings Machine Learning, AI to Spreadsheet Data
+
+June 29, 2016
+
+A smart prospector knows to dig where the gold is. And this helps explain why the latest version of the Pendo Data Platform (PDP) from Pendo Systems makes it easier to pull and analyze the unstructured data from Excel spreadsheets.
+
+ PDP now enables users to search spreadsheets at a relatively granular level, including being able to extract data from a specific range of cells on a given worksheet. This, combined with the platform’s ability to extract structured data from traditional databases, gives version 3.1 of the company’s platform the ability to process an even wider variety of file types. Philip Dodds, Pendo CTO referred to the solution as an “off-the-shelf tool set which performs the same type of rapid analysis performed in the Panama Papers on your internal databases, document stores, and emails.” With the latest version of the PDP, we can add spreadsheets to this list.
+
+ The new version is driven by a powerful combination of artificial intelligence and machine learning, with the former bringing what Pendo Systems CEO Pamela Pecs Cytron called “a magnitude” of greater complexity to the challenge of aggregation. She pointed out that task is to create intelligent systems that can generate and maintain models on a continuous basis so as not to become obsolete as soon as new inputs arrive. “This is the value PDP is providing to help financial institutions,” she said.
+
+ The solution is a boon for companies that have most of their vital information stored on hundreds or even thousands of spreadsheets. The latest version of PDP is geared to accompany major – often costly – data projects, dealing with the problems of multiple information sources, redundant customer data, and data stuck in legacy systems – like spreadsheets.  “We are the ideal tool for ‘matters requiring attention’ projects such as AML, CCAR, and mandatory changes in credit risk, regulatory, and compliance,” Pecs Cytron said. “These projects require agility and speed. The PDP completes critical customer projects in days and weeks.”
+
+ 
+
+ This articles was originally written and posted on Finovate Blog.
+
+

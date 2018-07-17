@@ -1,0 +1,18 @@
+Open source popHealth tool from ONC certified for 2014
+
+March 24, 2014
+
+By Jennifer Bresnick
+March 24, 2014 - The ONC’s open source, free-for-everyone population health management tool is now a 2014 certified EHR module, John Rancourt, Public Health Analyst in the Office of Health Information Exchange announced in a HealthIT.gov blog post last week.  The popHealth dashboard allows providers to import, calculate, display, and export electronic clinical quality measures (eCQMs) in order to facilitate population health management with standards-based technology that is adaptable and entirely free.
+“ONC is working to ensure that popHealth flourishes as a useful tool for providers, health information exchanges, states, and others,” Rancourt writes. “This is why ONC originally created popHealth and why the agency is supporting the transfer of the tool’s stewardship to the open source community.”
+Northwestern Medicine has adopted the dashboard as part of its enterprise data warehouse, tweaking the open source code to meet the health system’s particular needs.  The system’s version of the popHealth tool was then certified according to 2014 criteria for use as an EHR add-on module.
+“We recognized early on that leveraging popHealth would not only help us measure and improve quality of care more quickly and accurately, but also provide a sustainable technical foundation for the future,” said Eric Whitley, Manager of Clinical Analytics at Northwestern. “The standards-centric focus provides unparalleled interoperability for plug-and-play information exchange and analytics that lets us get back to the real job of focusing on the patient and not IT challenges.”
+Dig Deeper
+Population Health Management, Big Data Markets Set to Grow
+Research Collaboration to Use Big Data for Diabetes Prevention
+Using Claims, Lab, and Clinical Analytics to Discover Diabetics
+As Stage 2 of Meaningful Use puts an even greater focus on clinical quality measures and managing the health of patients on a population level, the unique open source aspect of the popHealth tool sets it apart.  ONC has officially decided to transfer control of the software to the open source community, hoping to encourage providers and developers to explore new use cases and develop the application further.
+“This strategy was pursued because ONC believes that the tool will best flourish in the future if it is developed and supported by the growing community of robust users,” Rancourt says.  The transition process kicked off in late January with a stakeholders meeting and presentation involving more than a dozen groups.  There will be additional meetings over the next few months to further accelerate the process.
+Tagged Clinical AnalyticsClinical IntelligenceHealthcare AnalyticsPopulation Health Management
+
+

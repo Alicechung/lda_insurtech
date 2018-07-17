@@ -1,0 +1,15 @@
+VoiceBase Strengthens Its Speech Analytics API With A Powerful New Categorization Engine And Query Language (VBQL)
+
+16 Mar 2018
+
+Using A Familiar SQL-like Language And A Web-Based Analyst Workbench, Analysts Can Quickly Build Call Categories At Scale To Power Dashboards, Scorecards, And KPIs That Matter The Most To An Enterprise
+At Enterprise Connect today, VoiceBase, the leading provider of AI-powered speech analytics, announced a powerful update to their leading speech analytics API. With the launch of the VoiceBase Query language (VBQL), analysts can rapidly define Categories using a simple and expressive SQL-like language designed specifically for analyzing calls.
+VBQL includes dozens of features designed to analyze conversational interactions in detail. The language includes native support for querying not only the words spoken, but also temporal patterns like part of call, before/after, and nearness, speaker turns, stemming, fuzzy matching, word and phrase substitutions, over-talk, silence, and more. In addition, VBQL lets you query user-supplied metadata, and all other VoiceBase API outputs, from NLP and Conversation Metrics to AI-based Detectors, and Classifiers.
+Categories are applied to calls in near real-time by the new Categorization Engine, delivering results within seconds at any scale – even for hundreds of Categories and millions of calls per day.
+Categorization results are delivered via the VoiceBase API and via the new BI Connector, and can be incorporated into applications and workflows, flowed into an enterprise data lake or warehouse, mashed up with existing data, and visualized using any standard BI tool, including Tableau®, Qlik®, Pentaho®, and OBIEE®.
+Greg Borton
+“I have worked with a lot of platforms, and the call query and categorization engine VoiceBase has built is the fastest and most advanced I have worked with,” stated Greg Borton, CEO Listening Methods and former VP of Analytics at Nuance. “Listening Methods leverages VoiceBase Speech Analytics to power our scorecard solutions that detail the end-to-end experience a caller has with a company,” Borton continued.
+“The importance of the customer experience is on the rise, and enterprises are eager to take more control and get deeper insights into call drivers and exactly what their customers are saying,” explained Jeff Shukis, VP Engineering and Operations VoiceBase. “We have designed our query and categorization solution so that it allows the enterprise to inspect calls with previously unattainable granularity, and to visualize those results using their existing BI tools,” Shukis finished.
+VoiceBase is defining the future of deep learning and communications by providing unparalleled access to spoken information for businesses to make better decisions. With flexible APIs developers and enterprises build scalable solutions with VoiceBase by embedding speech-to-text, speech analytics, and predictive analytics capabilities into any big voice application. VoiceBase’s customers include Amazon Web Services, Oracle, The Home Depot, Twilio, Nasdaq, and Veritone. The company is privately held and is based in San Francisco, California.
+
+

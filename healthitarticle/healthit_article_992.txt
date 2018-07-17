@@ -1,0 +1,32 @@
+Will Half-Hearted Commitment Scupper Healthcare Data Analytics?
+
+March 24, 2016
+
+By Jennifer Bresnick
+March 24, 2016 - Healthcare providers are used to making all-or-nothing decisions about patient care each and every day, but they may not be taking the same committed, confident approach to their big data analytics programs. 
+Wary of the risks of failure – financial and otherwise – organizational executives may be unwilling to pledge sufficient resources to fledgling analytics work, leaving newly formed programs staggering along without the potential for growth.
+Despite widespread recognition within the C-suite that analytics is a critical competency for success in a changing reimbursement landscape, project managers and IT experts do not feel as if they have the resources available to complete their tasks, according to the newest Health IT Industry Outlook Survey from Stoltenberg Consulting.  
+Nearly forty percent of respondents, including CIOs, CMIOs, IT managers, and consultants, say that insufficient funding and manpower are holding them back from making the most of their organization’s big data, leaving analytics projects in limbo as the demands of healthcare reform march on.
+"Healthcare providers are flooded with piles and piles of EHR data each day," said Sheri Stoltenberg, founder and CEO of Stoltenberg Consulting.
+READ MORE: The 7 Step Plan to Success with Big Data Analytics in Healthcare
+"It has now become imperative to learn to sift through the large quantities of complex information to leverage data insights through data analytics for improved clinical care and compliance and operational effectiveness."
+But not all organizations have the tools to do so, even if they do recognize how important it is to leverage existing data sources to improve patient care. 
+Just under half of participants said that care coordination and quality are a top strategic objective for 2016, and two-thirds identified data analytics, business intelligence, and population health management as some of the most exciting issues to address this year.
+However, a worrying number of providers are still facing major challenges when it comes to putting their ideas into action.  Confusion over how to acquire, analyze, and report on big data is still widespread, the survey found.
+Thirty-two percent said that data harmonization and standardization is the most significant obstacle for their big data analytics programs. 
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+"Data cannot support decision making or provoke cultural change if it's out of date.  Harmonizing data across the enterprise is essential for giving providers and administrators a meaningful view of a healthcare organization's performance," Stoltenberg said.
+When it comes to the revenue cycle, forty percent said that they have trouble utilizing their data to identify areas of improvement.
+While these numbers are slightly lower than last year’s survey, wherein fifty-one percent of respondents said that they could not even start to define what data they had, where to find it, or what to do with it, they still indicate that organizations may not be equipped with the knowledge to generate actionable insights.
+Nor are they particularly willing to pay for the expertise to help them. 
+Outsourcing has become a popular way to achieve results without having to invest heavily in data infrastructure development and maintenance, but it can be a risky proposition.  Third-party partners for big data analytics are not always easy to monitor, may not meet expectations, or might even become a patient privacy liability.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+They can also be very expensive, and some organizations appear to be balking at the costs involved with undertaking an outsourcing project. 
+Thirty-eight percent of respondents to the poll said that financial reservations are a top reason why their organizations are not undertaking partial or full outsourcing of data analytics work, despite the fact that a similar number said their newly-formed analytics programs are in desperate need of some outside assistance.
+Outsourced or not, more than a third of participants said that they simply don’t have the resources to meet expectations.  A quarter of survey respondents added that unrealistic timeframes were making a challenging project even more difficult.  In 2015, thirty-four percent of survey respondents admitted that they felt a lack of organizational buy-in was one of their most significant barriers.
+Analytics experts clearly do not pin all their problems on willful withholding or mistrust from the board room, but the large number of frustrated project managers may indicate that organizations have not appropriately aligned their business strategies with the reality of the big data landscape.  
+And it appears that this disconnect may only be getting worse.  In last year’s survey, only 28 percent of participants cited budget problems as a major big data analytics obstacle, and just thirteen percent felt squeezed for time.   
+Without a greater commitment of resources to big data projects, and a deeper C-suite understanding of what it takes to get the job done, analytics projects may be doomed to failure before they even get off the ground.  
+Tagged Analytics InfrastructureClinical AnalyticsHealthcare Data Strategy
+
+

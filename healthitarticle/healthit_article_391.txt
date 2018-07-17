@@ -1,0 +1,45 @@
+Healthcare Data Access is Biggest Artificial Intelligence Bottleneck
+
+August 02, 2017
+
+By Jennifer Bresnick
+August 02, 2017 - With its potential to revolutionize diagnostics and personalized medicine, artificial intelligence has broken several speed records on its way to the top of the healthcare IT trend list. 
+Use cases as diverse as sepsis detection, imaging analytics, consumer relations, fraud policing, and cybersecurity control have captured the industry’s attention in recent months as every vendor and developer in existence touts its reliance on machine learning, pattern recognition, deep learning, natural language processing, and other hot-ticket technologies to back their latest offerings.
+The hype may be deafening, but it isn’t all hot air, argues a new discussion paper from McKinsey Global Institute.
+Artificial intelligence – or its precursors, at least – offers the promise of higher profits, greater efficiency, more accuracy, and better performance across almost every single economic sector, including healthcare.
+“Early evidence suggests that AI can deliver real value to serious adopters and can be a powerful force for disruption,” says the report, which highlights the fact that investment in AI tools has grown threefold since 2013, with some tech giants investing close to $40 billion each in 2016 to get ahead of the curve.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+“Early AI adopters that combine strong digital capability with proactive strategies have higher profit margins and expect the performance gap with other firms to widen in the future. Companies cannot delay advancing their digital journeys, including AI.”
+But few organizations, including the vast majority of healthcare providers, are truly ready to embrace an AI-driven environment. 
+Adoption is very low overall, with just 20 percent of global companies saying they have already deployed an AI tool, according to McKinsey’s survey of C-level executives at more than 3000 companies across 14 economic sectors.
+Source: McKinsey Global Institute
+Despite artificial intelligence’s vast potential to cut costs, offer accurate predictions, and raise quality, healthcare is at the bottom of this short adoption list, due in large part to its relatively lackluster digital maturity and high difficult accessing meaningful, trustworthy big data.
+“We have found that if a sector was slow to adopt digital technologies, it tends to trail the pack in putting AI to use, too,” McKinsey says, citing the arduous and lengthy process of putting electronic health records (EHRs) into hospitals and provider offices as a cautionary tale.
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+“Information today is highly fragmented and spread across the industry, residing in diverse, mostly uncoordinated repositories like electronic medical records, laboratory and imaging systems, physician notes, and health-insurance claims,” the paper continues.
+“Merging this information into large, integrated databases, which is required to empower AI to develop the deep understanding of diseases and their cures, is difficult.”
+Organizations still largely operating in the fee-for-service reimbursement world are often reluctant to share their data with competitors even if they can reconcile their patients’ privacy concerns, McKinsey says. 
+Ongoing tussles over the technical and cultural implications of interoperability, combined with a highly diverse EHR and machine learning vendor landscape, have kept valuable data assets locked up in siloes, preventing AI tools from accessing all of the information they need to make comprehensive, accurate assessments of a clinical or financial situation.
+And even when data is accessible, the question of trust immediately bubbles to the surface.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+“How much patients would trust AI tools and be willing to believe an AI diagnosis or follow an AI treatment plan remains unresolved,” the report says.
+“Regulators would not be eager to risk an incorrect computer decision harming a patient when no one would be able to explain how the computer made its decision—or how to prevent a repeat of the situation.”
+While some algorithms are already approaching the diagnostic abilities of human clinicians in studies and testing scenarios, even the most ardent AI proponents agree that these tools still require supervision as their capabilities are refined.
+The overwhelming complexity of healthcare data is simultaneously the biggest advantage and most intractable challenge of deploying artificial intelligence in the clinical environment.
+New regulations will need to be enacted to protect patients, providers, and their data, the paper asserts, and healthcare organizations will need to quickly acquire expert staff equipped with strong data science skills to monitor and develop AI in the healthcare setting.
+For the handful of provider organizations that have already committed to solving these problems, the rewards are swift and sweet.
+Early adopters believe that artificial intelligence will raise their operating profit margins by five percent within the next three to five years. 
+Proactive organizations are already reporting significant gains in profit margins, with respondents to the survey stating that they are more than 15 points above the industry average.  
+Source: McKinsey Global Institute
+In contrast, those who are experimenting with AI or waiting to see how the marketplace plays out tend to experience profit margins significantly below their more eager peers.
+McKinsey estimates that AI-enabled healthcare initiatives are likely to save the United States $300 billion per year as diagnoses and treatments are optimized, requiring less support staff to conduct routine interactions with patients.
+“Full AI adoption could raise the productivity of registered nurses by 40 to 50 percent,” the report predicts. “McKinsey research has found that this could allow hospitals to cut staffing costs in half while still significantly reducing patient waiting time.”
+“Someday, chatbots equipped with deep learning algorithms could relieve emergency room personnel of tending to large numbers of walk-in patients with non-emergencies like sore throats and urinary tract infections.”
+Source: McKinsey Global Institute
+Precision medicine may cut expenditures by up to 9 percent, while using AI to guide the implementation of bundled payments and episodic care might drop the fees of orthopedic surgeons by between 8 and 12 percent.
+“Before the medical profession can realize this potential, however, health care providers must adopt significant changes in the way they do business, commit to a substantial investment in computing power and technical expertise, and work to increase the availability of the fuel that will power progress: data, including medical records,” the brief states.
+While making the necessary changes will not be simple or speedy, enhancing seamless data access is an objective that will help the industry meet the majority of its quality, safety, and efficiency goals cutting across multiple dimensions of care.
+If providers, payers, regulators, and developers can work together to unite the fragmented big data landscape, tools and capabilities driven by artificial intelligence may soon thrive in more organizations, bringing cost savings and quality improvements to patients and providers.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareHealth Data AccessHealthcare InteroperabilityMachine Learning
+
+

@@ -1,0 +1,48 @@
+Data Governance Key to Hospital’s Natural Language Query Project
+
+February 14, 2017
+
+By Jennifer Bresnick
+February 14, 2017 - Whether inside or outside of the hospital, data is everywhere – and consumers of data are getting used to a certain level of speed, accuracy, and trustworthiness when they ask questions of Google, Siri, or Cortana. 
+In everyday life, natural language interfaces have become the accepted standard for these activities, yet few healthcare organizations have mastered the analytics competencies and underlying data governance required to bring these intuitive interfaces into the clinic.
+Anne Arundel Medical Center (AAMC) in Maryland is one of the exceptions to the rule.  
+In an effort make its data stores open, accessible, and useful to all its staff members, the regional health system partnered with Collibra to develop the data governance competencies that would allow users to supercharge their clinical, financial, and operational decision-making with natural language query tools. 
+MAKING DATA GOVERNANCE A STAPLE OF THE ANALYTICS ENVIRONMENT
+“It was very challenging for our staff to find the information they needed to make good decisions, even though we had done a lot of work on the backend to make that data available,” said David Lehr, Executive Director of Analytics at AAMC.
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+“We knew the answers were out there, but we didn’t have a way to access them easily.  So we were developing and redeveloping the same interfaces over and over for different people or slightly different purposes, because there wasn’t a consolidated way to figure out what we had and what it meant.”
+David Lehr, Executive Director of Analytics at AAMC
+Source: Xtelligent Media
+Adding a query feature to the workflow would result in a more efficient use of resources, AAMC believed, but Lehr’s team faced the same data governance challenges that most healthcare organizations encounter: the data had to be defined, catalogued, and tagged with meaningful metadata before it could be put to work.
+“Standards and definitions are a really important part of the process,” said Lehr.  “Once we identified what we had, we found that there were competing and contradictory definitions in the datasets.”
+“We needed to get our subject area owners on board to figure out how we wanted to define pieces of data across the organization.  How do we know that everyone is talking about the same thing when they use a metric?  We needed to make sure we were comparing apples to apples, otherwise we wouldn’t have a clear picture of the data and what it means.”
+Those fundamental back-end processes can sometimes be forgotten in the rush to implement the latest and greatest technologies, he added, but even the most perfect user interface will fall short of expectations if organizations don’t ensure that clean, complete, and accurate data is available to feed the system.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+“Everyone focuses on building the fanciest natural language processing algorithms with machine learning that can tell exactly what the user is saying, but oftentimes they forget to focus on the fact that these front-end interfaces need something to draw upon if they’re going to return meaningful results.”
+“You can’t forget to curate and develop the content behind the query engine, otherwise it’s basically useless for real-world applications.  So we spent a lot of time fully describing and documenting our content.”
+The results have significantly improved access to information across the organization, he said, allowing users to make decisions based on real data when and where they need it.
+“With the EHR integration we built on top of Collibra, you can ask something like ‘how many denials did we have last month?’ or ‘how many patients do we have with a particular cancer diagnosis?’”
+“It draws on the sources of information that include data about denials, and then puts the appropriate source in front of the user to answer that question.  If it can’t find a specific answer, it can still identify where the answer might be so that the user can dig into the data and find out what they want to know.”
+BUILDING A DIVERSE AND COMMITTED ANALYTICS TEAM
+READ MORE: AHIMA: Information Governance is Key for Trusted Healthcare Analytics
+Healthcare organizations often struggle to assemble a team of data scientists and developers capable of undertaking such a process due to talent shortages, tight budgets, and poorly defined expectations. 
+Healthcare data is unique in its scope and complexity, leaving many organizations at a loss when they can’t find the experts they need with previous experience in the industry featured prominently on their resumes.
+But Lehr, who has led analytics development projects at a number of private sector vendors, including Epic Systems, casts a wider net when hiring for positions at AAMC.
+“I like to hire people who are brilliant and then give them an opportunity to exercise their creativity and hone their skills in the particular area that you need,” he said.  “Some of my teammates are former Epic employees who came with me after our experiences working together, and some are new university graduates who wanted to work on something really interesting.”
+“Some came from other industries and wanted to apply their skills to healthcare.  The one thing they all have in common is that they had a lot to learn in order to complete this project, because it’s different than the majority of initiatives they may have encountered before.”
+Keeping an open mind, meshing unique skillsets together, and letting members of the team stretch their innovation muscles is important for solving the complicated and challenging problems healthcare big data can present.
+“When we hire someone for our analytics team, we’re not necessarily looking for someone who already has all of the answers,” Lehr said.  “We’re looking for people who are smart enough to come up with new ideas once they fully understand the complex problems in front of them.”
+GENERATING ORGANIZATIONAL ENTHUSIASM TO MATCH TECHNICAL ACHIEVEMENTS
+However, understanding the problem is only half the battle, Lehr pointed out.  End users across the organization must also understand the solution – and why they should care about it.
+“It’s pretty easy to see why we might need a new surgery robot, and it’s obvious that when a light bulb burns out, you put a new one in.  But when your software is no longer supported by the vendor, it’s often less obvious that it is a priority to replace it.”
+The importance of data governance and quality are sometimes similarly difficult to instill in end-users, he acknowledged, but securing buy-in across the entire organization is just as essential for achieving an analytics goal as developing strong back-end governance processes and gathering a great team, he said. 
+“You have to persistently communicate these needs to groups within the organization essential to your cause so they understand where you’re coming from,” he said.  “It’s important that you have some good internal marketing to make sure that people do understand why governance is so critical.”
+Ongoing discussions with executive leaders, including the CEO, Chief Medical Officer, and Chief Medical Information Officer, were an important part of ensuring that the project stayed on track, while involving clinical owners for every initiative allowed opportunities for collaboration and input from the people who would be using the system to improve their workflows.
+Taking the time to answer questions and listen closely to user concerns can prevent a new capability from being just another frustrating disruption and instead convince staff members that it is a useful and exciting tool for productivity and quality improvement.
+“It was hard work, but we did achieve buy-in,” Lehr said.  “We just needed to explain ourselves and explain how everyone fits into the big picture – I think a lot of IT groups don’t do that well enough, and then they wonder why nobody is on board.”
+Personalizing the message and putting ideas into context for each group of users will smooth the process significantly, he suggested, and even spark new ideas that can enhance the original project plan. 
+“How is analytics governance going to improve the workflow for a nurse?  For an ED doctor?  How is this process going to help them?  Once you have the answer to that, you might actually end up with a slightly different project than you started out with, because you’re going to quickly realize that your priorities might not be their priorities.”
+“That can be a little frustrating, but it makes a big difference for ensuring that the effort you put into things is worthwhile to as many people as possible.”
+Tagged Analytics InfrastructureBest PracticesEHR AnalyticsHealth Information ManagementHealthcare Data GovernanceInterviews
+
+

@@ -1,0 +1,18 @@
+Napatech Helps IT Organizations Meet EU GDPR With Reconfigurable Computing Solutions
+
+30 May 2018
+
+FPGA-Based SmartNIC Software and Hardware Delivers Programmable, High-Performance Computing Platform Designed for GDPR Compliance
+Napatech, the leading provider of reconfigurable computing platforms, today announced it will highlight its reconfigurable computing solutions for cybersecurity and GDPR compliance.
+Napatech’s reconfigurable computing platform enhances open and standard servers with FPGA-based SmartNIC software and hardware. Their reconfigurable computing platform offloads and accelerates complex and burdensome network and security workloads, returning the valuable computing resources to the applications and services they were intended for. The performance and programmability provided by Napatech allow organizations to improve the security of their networks and meet new compliance regulations for data privacy and safety regulations, including GDPR, which takes effect on May 25.
+Read More: Interview With Sam Kim, CEO, Lucidity
+The solution provides:
+Hyperscale economics: Network and security applications required for GDPR compliance can be cost-effectively deployed on open and standard servers while still meeting the demanding performance requirements of modern data centers.
+Hyperscale innovation: Programmable SmartNICs based on FPGAs uniquely provide hardware performance and the speed of software innovation, guaranteeing that users can keep pace with the rapidly-changing threat landscape and evolve with the new requirements of regulatory compliance.
+Hyperscale Performance: Naptech’s SmartNICs improve the performance of the network and security applications that aid GDPR compliance. They also provide 100 percent packet capture and lossless write-to-disk, guaranteeing that network and security professionals have full forensic visibility into all communications when a breech occurs.
+Jarrod Siket
+Jarrod Siket, Chief Marketing Officer, Napatech, said: “Organizations today are facing both increasingly sophisticated adversaries in an evolving threat landscape and an expanding set of regulatory and compliance requirements to manage, contain and disclose details when breaches occur. Our reconfigurable computing platforms help our customers to overcome the networking, compute and storage bottlenecks in standard server platforms, allowing them to secure their network and meet new regulations like GDPR without compromise.”
+Napatech helps companies to reimagine their business by bringing hyperscale computing benefits to IT organizations of every size. We enhance open and standard virtualized servers to boost innovation and release valuable computing resources that improve services and increase revenue. Our reconfigurable computing platform™ is based on a broad set of FPGA software for leading IT compute, network and security applications that are supported on a wide array of FPGA hardware designs.
+Read More: How Virtual Nurses Are Elevating Patient Care
+
+

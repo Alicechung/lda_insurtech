@@ -1,0 +1,31 @@
+Google’s Machine Learning, Imaging Analytics Flag Breast Cancer
+
+March 06, 2017
+
+By Jennifer Bresnick
+March 06, 2017 - A new approach to imaging analytics driven by machine learning algorithms can identify metastasized breast cancer with sensitivity rates that exceed other automated methods and even rival human pathologists, says a research paper published by Google this month.
+Using very large images of pathology slides, machine learning algorithms were able to flag breast cancer cells that had spread to nearby lymph nodes, a key factor for determining how to treat patients.  
+The strategy could make it easier for clinicians to review extremely detailed data with a higher degree of accuracy and fewer errors, many of which are due to natural variation in the skill, training, and experience of pathologists.
+“A pathologist’s report after reviewing a patient’s biological tissue samples is often the gold standard in the diagnosis of many diseases,” wrote Martin Stumpe, Technical Lead, and Lily Peng, Product Manager at Google, in an accompanying blog post.
+“For cancer in particular, a pathologist’s diagnosis has a profound impact on a patient’s therapy.”
+READ MORE: Artificial Intelligence in Healthcare: Augmentation or Companionship?
+But human opinions can clash even when two pathologists are looking at exactly the same image, they said – and each biopsy may include hundreds of tissue slides that must be meticulously examined for any trace of abnormality. 
+These images may be more than 10 gigapixels in size, creating an enormous challenge for even the most detail-oriented diagnostician with a great deal of time on her hands. 
+“To address these issues of limited time and diagnostic variability, we are investigating how deep learning can be applied to digital pathology, by creating an automated detection algorithm that can naturally complement pathologists’ workflow,” said Stumpe and Peng.
+Peng and Stumpe worked with a team of researchers from Google Inc., Google Brain, and spin-off Verily Life Sciences to apply convolutional neural network (CNN) architecture to a set of training and validation images, surveying the data on a pixel-by-pixel basis.  The algorithm produced “heat maps” that predicted the likelihood of tumor cells in a given sample.
+The machine learning tool was able to achieve 89 percent accuracy, compared to just 73 percent accuracy from a human pathologist who spent 30 hours poring over 130 slides.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+“Our method yields state-of-the-art sensitivity on the challenging task of detecting small tumors in gigapixel pathology slides, reducing the false negative rate to a quarter of a pathologist and less than half of the previous best result,” the researchers said.
+“Our method could improve accuracy and consistency of evaluating breast cancer cases, and potentially improve patient outcomes.”
+Peng and Stumpe do note that the algorithm does not function in exactly the same way as a clinician.  For example, the machine learning tool was allowed to make certain false positive identifications, something that rarely happens with trained pathologists. 
+The algorithm was also limited to uncovering a very specific type of abnormality, while a human pathologist would be able to use her experiences to highlight a much broader range of issues.
+“Training models is just the first of many steps in translating interesting research to a real product,” they acknowledged.
+READ MORE: Health Information Governance Strategies for Unstructured Data
+For one thing, researchers will need to find a way to integrate machine learning into the clinical workflow in a manner that supplements, not supplants, the traditional pathologist.
+“We envision that algorithm such as ours could improve the efficiency and consistency of pathologists,” said Stumpe and Peng. “For example, pathologists could reduce their false negative rates (percentage of undetected tumors) by reviewing the top ranked predicted tumor regions including up to 8 false positive regions per slide. As another example, these algorithms could enable pathologists to easily and accurately measure tumor size, a factor that is associated with prognosis.”
+Google isn’t the only company that sees significant opportunities to improve diagnostics with imaging analytics.  IBM Watson, GE Healthcare, Microsoft, and a slew of other competitors are all applying recent advances in deep learning and artificial intelligence to the diagnostics process, hoping to advance precision medicine, reduce costs, and dramatically improve cancer care.
+Researchers still have a lot of work to do in order to develop reliable, accurate, and highly sensitive algorithms that can become meaningfully integrated into the patient care process, but test cases and pilots are bringing vendors ever closer to routine clinical care.
+“From clinical validation to regulatory approval, much of the journey from ‘bench to bedside’ still lies ahead,” the blog post concluded.  “We are off to a very promising start, and we hope by sharing our work, we will be able to accelerate progress in this space.” 
+Tagged Artificial Intelligence in HealthcareImaging AnalyticsMachine LearningPersonalized MedicinePrecision Medicine
+
+

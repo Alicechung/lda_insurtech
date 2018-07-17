@@ -1,0 +1,12 @@
+CloudMinds Shines At MWCA 2017 With Cloud-based Intelligence
+
+04 Oct 2017
+
+“Populate thousands of households with household robots in the coming decade” – this has been a vision of CloudMinds, which specializes in the R&D of cloud-connected intelligent robots. Currently, it has launched products based on its technologies that have been used in a wide range of industries and fields. On September 12, CloudMinds brought its major R&D achievements and products to the Mobile World Congress Americas (MWCA) 2017, where it demonstrated its unique product system architecture of “cloud, network and device”.
+On the cloud tier, CloudMinds has developed the HARI (Human Augmented Robotics Intelligence) architecture for its cloud-connected intelligent robots based on large-scale neural networks, sophisticated algorithms and a lot of training by fusing artificial intelligence and machine intelligence to achieve cloud-based autonomous deep learning.
+In network design, CloudMinds has established Virtual Backbone Network (VBN) and application delivery networks (ADN), and developed a proprietary Mobile-intranet Cloud Service (MCS) to enable a secure mobile office based on a protected virtual space.
+On the device tier, CloudMinds aims to connect local devices to the cloud brain. For this purpose, it has developed a DATA controller between the cloud brain and devices connected to the brain, which not only has the basic functions of a phone but also supports comprehensive hardware and software customization, thereby representing a significant milestone in the development of cloud-connected intelligent devices. In addition, CloudMinds has developed the world’s first AI seeing-eye device for visually impaired people – META, which is capable of extensive functions including face recognition, object recognition, path planning and obstacle avoidance.
+Bill Huang
+While personable and able home robots have yet to come into being, they are getting closer and closer to reality with the development of cloud-connected intelligent technologies. “When the core technologies mature, they will take the form of core modules portable to all types of intelligent robots”, said Bill Huang, founder and CEO of CloudMinds Inc. CloudMinds was founded to Make Robots SmarterTM.
+
+

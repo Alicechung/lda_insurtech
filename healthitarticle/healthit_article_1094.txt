@@ -1,0 +1,32 @@
+Half of HIM Pros Face Patient Matching, Data Integrity Issues
+
+January 08, 2016
+
+By Jennifer Bresnick
+January 08, 2016 - More than half of health information management professionals routinely face problems related to patient matching, record duplication, and other data integrity shortfalls, reveals a new survey by AHIMA. 
+Nearly three-quarters of those HIM experts must deal with these errors on a weekly basis, but many lack the resources and organizational planning to prevent potentially serious data integrity issues at their source.
+The survey, which polled 815 AHIMA members using twelve different EHR systems, found significant variation in the way healthcare organizations address critical data integrity tasks including patient matching in electronic health records, quality assurance, and duplicate record rates.
+Forty-three percent of respondents believe patient matching is a critical measure of data quality, the survey found, and use patient matching rates to gauge their adherence to information governance principles during routine quality checks.
+Dig Deeper
+Health Data Analytics a “Competitive Differentiator” for Payers
+Healthcare Artificial Intelligence, Cognitive Tools Bring Big Investments
+Data Governance Key to Hospital’s Natural Language Query Project
+“These routine quality checks include examples such as daily, weekly, and monthly reporting on demographic changes made to patients, duplicates created, and feedback mechanisms. The process may also include a reconciliation process for temporary values as indicated with trauma, unknown, and newborn patients.”
+Other key findings from the survey include:
+• Only half of survey respondents were able to share the rate of duplicate medical records experienced within their organization.  However, only 42 percent of those participants knew the numerator or denominator used to generate the duplicate rate.
+• Fifty-seven percent of HIM professionals comb through possible duplicates on a regular basis.  Of those respondents, 73 percent conduct reviews of duplicate patient records at a minimum of once per week.
+• Forty-seven percent of respondents said their organization includes a quality assurance step during the patient registration or post-registration process.
+The participants identified a number of challenges related to appropriately managing their organization’s master person index (MPI). 
+Among the top concerns were high rates of registration staff turnover, poorly standardized patient matching and record matching terminologies and algorithms, a lack of resources to correct, merge, or delete duplicate records, inadequate information governance guidelines, and lackluster support for data integrity efforts from the executive board.
+“Reliable and accurate calculation of the duplicate rate is foundational to developing trusted data, reducing potential patient safety risks and measuring return on investments for strategic healthcare initiatives,” the survey authors stated.
+Patient matching problems have plagued the healthcare industry for years, AHIMA authors previously wrote in Perspectives in Health Information Management, and the lack of a large-scale data integrity standardization effort may be hindering the nation’s progress towards fuller EHR interoperability and better health information exchange.
+“Lack of a standard data set can lead to patient records not being linked to one another in the HIE, resulting in an incomplete health record being available to the provider for the patient being treated, thereby defeating the purpose of the HIE,” wrote Katherine G. Lusk, MHSM, RHIA and a team of AHIMA co-authors in January of 2015.
+“Even more concerning is the potential for different patients being identified as the same, resulting in the possibility of improper care rendered on the basis of inaccurate patient information.”
+AHIMA experts have suggested a greater reliance on big data analytics and patient matching algorithms to ensure that organizations can appropriately pull and coordinate records, especially when conducting health information exchange, but any initiatives to harness the power of technology for these purposes must be founded on mutual data standards and strong integrity protocols at each participating facility.
+Projects like the Virtual Clipboard initiative, led by WEDI, HIMSS, and MGMA, are hoping to provide healthcare organizations with a simple and reliable way to eliminate patient matching problems at intake.
+CHIME has also taken steps to tackle the patient matching problem.  In March, the organization offered a $1 million prize for a foolproof record reconciliation solution.
+“Incomplete or duplicate health records present significant issues in terms of patient safety, and there is a pressing need for preventing, detecting and removing inaccurate records so hospitals can positively match the right data with the right patient in order to provide the best possible care,” said CHIME CEO and President Russell P. Branzell, FCHIME, CHCIO at the time.
+“We cannot sit around and wait for others to correct this problem,” authors of the most recent AHIMA survey said.  “As healthcare professionals, we need to embrace the challenge and collaborate to develop scalable solutions to assure patient information is available when and where it is needed.”
+Tagged Analytics InfrastructureHealth Information ManagementHealthcare Data Governance
+
+

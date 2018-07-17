@@ -1,0 +1,19 @@
+Health Information Exchange Cuts Cost of Repeated Imaging
+
+January 15, 2015
+
+By Jennifer Bresnick
+January 15, 2015 - There are certain occasions where more data is always better, but when it comes to repeated imaging studies for patients, the minimum amount of information necessary to make an accurate diagnosis is the best way to go.  Not only are imaging studies such as MRIs and CT scans expensive and time consuming, but they pose unnecessary risks for patients who may be exposed to multiple doses of radiation.  Better data governance through the use of health information exchange is the key to cutting down on the 7.7% of medical images that are repeated within ninety days, says a new study in the American Journal of Managed Care.
+“Medical imaging has been an important diagnostic tool for decades, but unnecessary or repeat exams are costly and could potentially delay access for patients who truly need the tests,” says Dr. Joshua Vest, assistant professor of healthcare policy and research at Weill Cornell Medical College who was the lead author of the study.
+The researchers looked at the number and type of imaging studies conducted on patients in the Upstate New York area, using claims data from two major insurance plans as well as information drawn from the Rochester Regional Health Information Organization (Rochester RHIO) to discover how HIE-connected providers ordered imaging compared to non-connected peers.
+Of the 34,600 patients that received an imaging study within the 2009-2010 time period, nearly 8% had multiple images taken for the same condition within three months.  Half of the repeated images took place within the first thirty days.  By sixty days, 80% of repeated images had been taken.  The most often repeated test was the ultrasound, followed by x-rays and mammograms.  CT scans and MRIs were least often repeated.  Seventy-five percent of the scans were performed on women, and 59% were given to the privately insured.
+Dig Deeper
+83% of Life Science Execs Expect Healthcare Blockchain in 5 Years
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+Physician Portal Aids Data Exchange for Stand-Alone Hospital
+However, patients with providers that regularly accessed the Rochester RHIO were about 25% less likely to order an additional test for the same issue.
+The study adds to the sparse body of research that measures the effectiveness of health data exchange across the care continuum.  Health information exchange has been a primary goal of federal initiatives such as meaningful use, but many HIEs and community RHIOs have struggled to become operational, maintain financial viability, recruit providers as customers, and convince rival organizations that sharing data is ultimately in their best financial and clinical interests.
+While the study couldn’t determine the appropriateness of every repeated image through the available data, the significant decrease in re-ordering among health information exchange users may indicate that HIE is an effective way to ensure that providers have access to the most recent data available, especially when the test was performed at a different institution.  “Our research shows that timely sharing of patients’ medical records may result in fewer repeated imaging tests. Instant access to this information gives providers a better, more complete picture of a patient’s health status,” added Vest.
+Tagged Health Information ExchangeHealth Information ManagementHealthcare Business Intelligence
+
+

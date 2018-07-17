@@ -1,0 +1,56 @@
+Few Healthcare Business Intelligence Users Join an ACO, HIE
+
+April 03, 2017
+
+By Jennifer Bresnick
+April 03, 2017 - Healthcare providers who want to wade into the value-based care ecosystem are well aware that they must overcome a number of technical and organizational hurdles before they can reap the rewards of joining an accountable care organization (ACO) or taking on a pay-for-performance contract with a payer.
+Not only must they feel comfortable with using their electronic health records for basic documentation and patient management, but they must also master the complex continuum of healthcare business intelligence tools that combine to support risk stratification, revenue cycle management, and care coordination.
+These challenges are often even more pronounced in the physician community than they are on the hospital side, due to the greater prevalence of smaller groups with smaller budgets, fewer resources, and less health IT knowhow than their acute care counterparts.
+BI tools come in all shapes, sizes, and functionalities, and the category encompasses a shifting array of administrative and clinical offerings that are intended to help healthcare providers gain insight into their processes, reduce inefficiencies, and lay the groundwork for participation in a seamless, interoperable, and collaborative care environment.
+While many physician groups are investing heavily in these products in preparation for the industry’s value-based tipping point, far fewer have yet reached out to their partners and peers through formalized accountable care organizations or regional health information exchanges (HIE).
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+As the first quarter of 2017 draws to a close, data from the Definitive Healthcare database can help to benchmark the physician community’s health IT infrastructure maturity as the financial pressures to engage in population health management, quality reporting, and health data exchange continue to mount for ambulatory providers.
+Here are some of the top insights from an examination of available physician group data, which treats each individual care site as an independent entry.
+AN INTEREST IN QUALITY REPORTING DOESN’T YET TRANSLATE TO ACCOUNTABLE CARE…
+More than 11,000 physician care sites have adopted dedicated quality reporting or public health reporting tools, with Cerner Corporation’s HealthSentry offering and NextGen’s Health Quality Measure package ranking among the most popular software choices.
+But few of these organizations are using their health IT investments to participate in accountable care organizations run by private payers.  Just one in four physician sites engaging in quality reporting or public health reporting are members of this type of ACO.
+Source: Xtelligent Media / Definitive HC
+Even fewer are connected to a regional or statewide health information exchange.  Only 12 percent of entities that have adopted these tools can share patient data with peers outside of their immediate communities, which indicates a significant opportunity for providers to make more expansive use of critical public health data.
+Source: Xtelligent Media / Definitive HC
+READ MORE: What Big Data, EHR Vendors Do Accountable Care Organizations Use?
+Most physician groups that are sharing data through an HIE are connected to one of the more stable statewide exchanges, including the Arizona Health-eConnection, Colorado Regional Health Information Organization (CORHIO), Great Lakes Health Connect (GLHIE), and Georgia Health Information Network (GaHIN).
+Only a few dozen physician sites in the sample are linked up to the national eHealth Exchange, including members of the Marshfield Clinic and Kaiser Permanente physician networks.
+…BUT PERFORMANCE MANAGEMENT ADOPTERS ARE MORE LIKELY TO BE ACO MEMBERS
+The ability to report on data may not be strongly correlated with ACO participation, but the capability to make decisions based on data appears to be more aligned with being active in accountable care. 
+Thirty-two percent of physician groups who have adopted performance management tools are also members of private payer ACOs, compared to just 25 percent of those implementing public health reporting options.
+Source: Xtelligent Media / Definitive HC
+The majority of ACOs are overseen by major national payers, including Aetna, Anthem, UnitedHealth, and state members of the Blue Cross Blue Shield network.
+READ MORE: Why Health Data Interoperability is Setting EHR Vendors on FHIR
+In this particular sample, Epic Systems was far and away the vendor of choice, although due to the limited number of vendors included in the dataset, it is likely that the health IT mainstay is somewhat overrepresented.
+Source: Xtelligent Media / Definitive HC
+They are also slightly more likely to join a health information exchange, at 16 percent, although the sample size is significantly smaller with just 5564 physician care sites reported.  Physicians are members of many of the same regional and statewide HIEs, with a similar proportion connected to the national data exchange.
+PHARMACEUTICAL DECISION SUPPORT TOOLS ARE EXTREMELY POPULAR FOR PATIENT SAFETY
+Clinical decision support (CDS) tools that use pharmaceutical data to enhance patient safety are wildly in demand among physician organizations.  
+Definitive Healthcare tallies close to 29,000 installations of various CDS modules among its physician group listings – the vast majority of tools center on medication issues, such as drug interactions and allergy risks.
+Source: Xtelligent Media / Definitive HC
+Modules that harness the First DataBank National Drug Data File, which provides pricing and clinical information on prescription and over-the-counter drugs, are particularly prevalent with close to 18,000 installations. 
+Other pharmaceutical pricing and reference tools, including offerings from Medi-Span and Cerner Corporation.
+A second class of clinical decision support tools focuses more on quality reporting and benchmarking to help physicians identify gaps in care and succeed with value-based contracts and federal regulatory reporting. 
+A handful of physician groups have adopted quality benchmarking products that bill themselves specifically as solutions for MIPS reporting, although many more are still using decision support products tailored to meaningful use attestation.
+CHRONIC CARE MANAGEMENT USERS ARE MOST LIKELY TO BE ACO MEMBERS
+Physicians who have adopted technology modules specifically focused on chronic care management and care coordination are the most likely to be affiliated with health information exchanges and accountable care organizations.
+Source: Xtelligent Media / Definitive HC
+While it is important to note that this sample is significantly smaller, at just 131 physician care sites, it includes both primary care and specialty practices. 
+Population health management and care coordination tools from Epic Systems, athenahealth, Allscripts, i2i, and Phytel are most popular among this group, although the data clearly does not include the vast majority of physicians who are currently using health IT tools to engage in chronic disease management and population health.
+The available information does show, however, that data exchange and value-based contracting are of interest to those who have invested in population health tools. 
+Just under 30 percent have joined a health information exchange, while 35 percent are part of a private payer ACO.
+Source: Xtelligent Media / Definitive HC
+The high overlap between population health software adopters and ACO participants may again indicate that the ability to operationalize data comes from smart investments in tools that don’t just collect information or produce reports, but give users truly actionable insights into possible care improvements.
+CHARTING A PATH FORWARD AS VALUE-BASED CARE CONTINUES ITS GROWTH
+The healthcare business intelligence market has plenty of room to expand on the physician side of the industry as more and more ambulatory providers start exploring the benefits of value-based care. 
+MACRA is likely to play a major role in accelerating adoption of value-based care strategies as physicians try to accrue the maximum available financial incentives through the Alternative Payment Model (APM) reporting track. 
+This, in turn, will no doubt prompt more investment in the business intelligence tools that give providers critical visibility into their quality and performance.  In conjunction with growing interest in private payer ACOs and the Medicare Shared Saving Programs, data-driven population health management is likely to reach the majority of patients over the next few years.
+Physicians who want to succeed in this rapidly evolving environment must carefully choose the clinical and administrative infrastructure that will help them to reduce inefficiencies, serve their patients better, and accrue shared savings from value-based arrangements.
+By starting with a comprehensive business intelligence platform that prioritizes care coordination, patient safety, and data exchange requirements of accountable care, physician groups may be able to develop the competencies to continue to thrive in a demanding, performance based financial environment.
+
+

@@ -1,0 +1,60 @@
+How the Healthcare “Value Chain” Leads to Big Data Analytics Success
+
+November 30, 2017
+
+By Jennifer Bresnick
+November 30, 2017 - Healthcare organizations may come in many different sizes, shapes, and specialties, but all providers working in the industry today have one major trait in common: their big data is getting bigger by the minute – and leveraging these assets to generate actionable insights is perpetually among their greatest challenges.
+Understanding how to collect good data, store it appropriately, analyze it meaningfully, and report upon it in a way that helps solve pressing business problems is a constant concern for providers, especially those wading into the value-based care environment.
+Dr. Joe Kimura, CMO at Atrius Health
+Source: Xtelligent Media
+“All of us are trying to figure out ways to enhance value from our data, make it higher quality, and make it more reliable,” stated Dr. Joe Kimura, Chief Medical Officer at Atrius Health, at the 2017 Boston Value-Based Care Summit.  
+“But the blueprint isn’t always out there.  And as brilliant as we all think we are, a lot of times what looks like the best idea on the surface really isn’t.  That is why we need data that is trustworthy and actionable."  
+"More than that, however, we need to develop a mindset that prioritizes collaboration and planning across the organization.”
+READ MORE: Leveraging Business Intelligence for Healthcare Management
+Using analytical processes to identify challenges, opportunities, and the need for change will help healthcare organizations gain critical visibility into improvements to patient outcomes, whether or not they have the budgets for big-ticket infrastructure and top-shelf applications.
+BUILDING THE BIG DATA VALUE CHAIN, ONE LINK AT A TIME
+Healthcare organizations feeling the squeeze from risk-sharing agreements, regulatory requirements, and changing operating environments are likely to rush into adopting new infrastructure or applications that promise to help them cope with increasing demands and tighter deadlines, Kimura said.
+“Providers are constantly being told that they have to use everything, understand everything, and get visibility into everything that’s going on within their own delivery systems,” he said.
+Ultimately, that is the goal, he acknowledged.  “But we’re talking about huge, huge volumes of data,” Kimura pointed out.  “Structured and unstructured EHR data, financial claims data, community-based data, social media, public health and CDC data, even environmental data…you can very easily end up in a panic.”
+“We’ve all seen it happen.  Every time your CEO, CIO, or CMIO comes back from a conference, there’s this flurry of activity and they say, ‘I have to create something that can support all that right now.  I need a data lake.  I need artificial intelligence.  I need to get some Hadoop architecture up.  I need to figure out how to get all these tools online yesterday.’”
+READ MORE: The Top 3 Planning Pain Points in Healthcare Big Data Analytics
+But pushing an organization towards a new implementation without planning for how the application is going to generate a concrete return on investment is a mistake, said Kimura.
+“It’s not about buying up infrastructure fast.  It’s about working carefully to create an infrastructure that allows you to learn fast.  Learn what’s working so that you can stop doing the things that aren’t working as quickly as possible.”
+In order to accomplish that goal, any potential big data analytics initiative should start with an examination of what Kimura calls the “value chain.”
+“Don’t get distracted by the glitz and glamour of the latest and greatest applications,” he advised.  “Start with the basics. Pick a short-term goal that is well defined, and work your way backwards from your desired outcome.”
+“You’re going to have to take a hard look at the processes you need to change in order to get there.  What data are you capturing?  What are you missing? Are you integrating your data where it needs to be integrated?  How are you reporting it – and more importantly, how are your end-users actually leveraging those reports both in the workflow and afterwards?”
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+“Until that chain is clear, you’re going to waste a lot of time and money trying to automate the heck out of any one single step.”
+Focusing narrowly on one part of a complex process comes with other perils, he added.  A lack of communication between disparate parts of the organization can lead to gaps in the flow of information. 
+Without a clear and comprehensive vision of how data must move through different departments, key players could be left out in the cold.
+“Sometimes your problems are about data sharing, not necessarily data collection,” Kimura said.  “Maybe it turns out that you’re collecting an element correctly, but you haven’t enabled sharing of that in the EHR, so it isn’t flowing to your repository.  That can happen if you didn’t originally envision a use for that data element, so you thought it would be more efficient not to turn it on.”
+“The people who need that data don’t know you have it, and probably have had it for a long time.  Everyone is working in a silo, and they can’t see how what they are doing is impacting other people downstream.  That is why it’s so important to visualize the flow of data across the organization so you can see that chain of value.”
+WHERE SHOULD ORGANIZATIONS BEGIN WITH BIG DATA?
+Finding an entry point into the world of data-driven operational, clinical, and financial improvements can be challenging for providers, especially those who have taken stock of their available resources and feel as if they have come up short. 
+Not every organization has access to a highly-trained informatics team or even an executive suite with a hands-on data analytics background, Kimura acknowledged.
+“Sure, it’s exciting to start doing ensemble modeling and get upstream six months on the person who has no symptoms right now so you can avoid costs later.  But it’s hard to do that when you have no informatics team, you’ve never used R before, and maybe you don’t actually know what an ensemble model is.”
+Realistically, most organizations aren’t at a point where they have to worry about that, he noted.
+“The level of sophistication needed to manage the information needed to drive positive action is actually a little bit more basic than a lot of us think,” he said.  “You’d be surprised at how much low-hanging fruit drives a lot of the overutilization in the healthcare delivery system.”
+“There is a lot of value to be gained from addressing those issues with little more than a disciplined approach to capturing data and bringing it in.”
+Start anywhere, Kimura suggested.  Diabetes screenings, flu shots, annual physicals, fall prevention, or even the ubiquitous readmissions question all offer opportunities to produce significant gains with relatively little investment.
+“The key is conducting a thorough root-cause analysis and making sure you understand what data you need to understand the fundamental drivers of utilization,” he advised.  “Where are you gaps?  Are they internal, or do they occur when a patient is moving between organizations?”
+Hospital readmissions is a perfect example of why a firm grasp on the value chain is often more impactful than the latest technology toys.
+When conducting an assessment of their processes and partnerships, many organizations will find that insufficient engagement between discharge and follow-up is a major driver of negative outcomes.
+“Not even the world’s best artificial intelligence risk stratification tool will help you effect change if you don’t make sure someone is performing medication reconciliation or you haven’t asked the patient if there’s a problem with her home,” said Kimura.
+“If you try to build a health IT tool around process gaps you haven’t even identified, you’re going to waste a lot of time and money on something that isn’t going to improve the care you’re giving or the outcome of the patient.” 
+EXTENDING THE CHAIN OF VALUE TO THE PATIENT – ON THEIR TERMS
+For value-based care participants, effective and proactive population health management is a top concern.
+“Ultimately, you’re trying to reduce the time between when a patient signals that something is wrong and when you can act to intervene in a positive way,” Kimura explained.  “Right now, that takes far too long.”
+Insufficient access to critical data is a large part of the problem, but once again technology cannot cure all ills.
+“It’s no secret that the healthcare system as a whole has a long way to go with our operational decision-making,” Kimura said.  “We are designed to be business-friendly, not patient friendly.  If we want to drive true value-based care and prevention, we need to fix that.”
+Even if an analytics algorithm can identify a gap in care and deliver an alert to the relevant provider, patients face numerous barriers to completing recommended care.
+“It’s really hard to get that 40-year old commercially insured patient working 90 hours a week to come in and do all the preventive care that’s recommended,” Kimura observed.  “No matter how much they might believe it’s the right thing to do intellectually, it’s hard for them to make room in their life for it – and we don’t make it any easier.”
+“We’ll harangue them with emails, phone calls, and letters, but when the patient is ready to take action, we’re closed.  Or we don’t do that test at this location, or the provider they want to see is booked out three months in advance.”
+Many organizations have simply not thought far enough down the value chain to implement systems that can redirect patients to appropriate care settings or simplify the process of completing a task, he added.
+“If we don’t do that service here, where do we do it?  Who does the patient need to talk to in order to schedule it?  How can we make sure it happens when the patient is free, not when we’re free?  Delivering that information in a patient-friendly way is going to be the key to successful population health.”
+It’s the combination of data analytics and patient-centered processes that will help organizations achieve their financial and clinical goals, Kimura stressed.
+“Closing that loop with the patient more quickly is going to be really critical if we’re going to crack that nut of high utilization, particularly around complex conditions,” he said.
+“It’s going to get easier as data science capabilities are democratized and more smaller practices can start developing data-driven roadmaps for themselves.  But you absolutely have to understand the value chain from beginning to end if you’re going to reap the rewards of using your big data for quality improvements.”
+Tagged Analytics InfrastructureAnalytics ToolsHealthcare Big Data AnalyticsHealthcare Business IntelligenceInterviewsPopulation Health ManagementValue Based CareValue Based Care Summit
+
+

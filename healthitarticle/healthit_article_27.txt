@@ -1,0 +1,34 @@
+ONC Views APIs as Key to Health Data Exchange, Interoperability
+
+June 21, 2018
+
+By Jennifer Bresnick
+June 21, 2018 - Application programming interfaces (APIs), or standardized “hooks” that allow disparate applications to connect with one another, will continue to be an important tool for increasing health data exchange, preventing information blocking, and fostering industry-wide interoperability, says National Coordinator Dr. Don Rucker.
+In light of the 21st Century Cures Act, which requires HHS and the ONC to significantly improve the interoperability of health information, APIs offer an efficient and effective way to bridge the gaps between electronic health record (EHR) systems and the providers and patients who rely on seamless access to health data.  
+“Our primary focus is to accelerate individuals’ ability to access and send their health information via their smartphones or other electronic devices, so they can shop for and coordinate care,” Rucker wrote in a HealthITBuzz blog post.
+“This is an important piece of delivering value throughout our health care system: As Secretary Azar has said, ‘To bring down costs and increase quality, we have to put patients in charge of their own data.’”
+APIs form the backbone of a variety of internet economy services that rely on the exchange of shared datasets to help consumers make decisions, purchase items, and access content.  Bringing those benefits into the healthcare industry will require a concerted effort from regulators, developers, and implementers of healthcare technology.
+READ MORE: Can Application Programming Interfaces Inspire a Better EHR?
+“The Cures Act builds on the 2015 Edition of ONC’s health IT certification criteria by calling for the development of modern APIs that do not require ‘special effort’ to access and use,” Rucker explained.
+“Over the next few years, ONC will continue to work with stakeholders and federal agencies to implement key provisions of the Cures Act.”
+Rulemaking will play a central role in these efforts, he added.  ONC will offer API-based proposals to expand access to data for patients, providers, and payers while advancing the Trusted Exchange Framework and Common Agreement to establish rules of the road for stakeholders.
+The ONC will also take on the challenge of defining and defeating “information blocking” in order to jumpstart progress on ensuring that stakeholders do not engage in the worrisome practice.
+“All of our efforts under the Cures Act will be for naught if we do not recognize and confront certain anti-competitive practices that impact the access and exchange of electronic health information,” stated Rucker.
+READ MORE: APIs Boost Care Coordination, Data Exchange at Northwell Health
+“Health care providers and technology developers may have powerful economic incentives not to share electronic health information and to slow progress towards greater data liquidity. The Cures Act confronts information blocking by providing a comprehensive response to these concerns.”
+The information blocking provision within the legislation allows regulators to take actions against entities that engage in purposeful data throttling, he continued.
+“The prohibition against information blocking applies to health care providers, health IT developers, exchanges, and networks. Further, the Cures Act permits the establishment of disincentives and the imposition of substantial penalties for information blocking.”
+Embracing APIs will be crucial for ensuring that organizations stay on the right side of the definitions that ONC will create, said Rucker. 
+Adding APIs to the data exchange environment – and continuing to increase the adoption of FHIR as a shared data standard – will help to foster an ecosystem that prioritizes data transparency and allows entities to develop actionable insights from their big data resources.
+READ MORE: Information Blocking? Prove It First, Say EHR Vendors to ONC
+“Currently, we work off a narrow worldview of interoperability where the task is to move one patient’s medical record from one doctor or hospital to another,” said Rucker. “Central to a value-based health system is expanding the ability to find and move data for more than one patient at a time. Modern networks should offer a vastly richer set of data movements and activities.”
+“Providers should compete on the entire scope of the quality and value of care they provide, not on how exclusively they can craft their networks. Outcome data will allow payers to apply machine learning and artificial intelligence to have better insight on the value of the care they purchase.”
+“Population-level data transfer that is aligned with HIPAA is also central to having a learning health care system, advancing many research priorities and use cases, and modernizing public health reporting.”
+Achieving these goals will require a coordinated effort and a shared vision across the care continuum.  In order to ensure that stakeholders have a chance to contribute their ideas and share their concerns, the ONC will be accepting comment on a number of different proposals.
+“In the coming months, ONC will issue a Request for Information to solicit public input on reporting criteria for an EHR Reporting Program, which will inform the work of an upcoming stakeholder convening,” said Rucker.
+“The EHR Reporting Program, required by Cures, will provide publicly available, comparative information about certified health IT products. This fall, HHS plans to release for public comment a draft strategy to reduce provider burden. We will also issue a notice of proposed rulemaking to update the ONC Health IT Certification Program and implement certain provisions of the Cures Act.”
+All entities that participate in the health data exchange ecosystem are encouraged to respond to these drafts and proposals, the ONC said. 
+“Greater and more efficient access to clinical data by patients and payers will be a valuable tool in restoring transparency to the American health care business and system,” concluded Rucker. “Together, we can accelerate information flow and better capture the benefits of modern computing for health care.”
+Tagged Analytics InfrastructureData BlockingHealth Data ExchangeHealth Information ExchangeInteroperabilityONC
+
+

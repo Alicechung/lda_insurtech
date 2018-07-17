@@ -1,0 +1,39 @@
+Latest Rebank Podcast Examines Why Data Ethics is Good for Business
+
+July 3, 2018
+
+Rebank: Banking the Future, founded by Will Beeson, aims to examine the challenges and opportunities in the FinTech arena.
+
+ In the latest Rebank podcast, Will Beeson was joined by Aneesh Varma, Founder of Aire, Charles Bradley and Hannah Leach of Adapt, and Julian Ranger, Founder Chairman of digi.me to discuss why data ethics is good for business.
+
+ Here, Will highlights the key points of the discussion:
+
+ We’re actually using very little personal data, compared to what we could be using, and we’re already doing huge amounts of commercial activity with it. Imagine what we can do when we have access to all our wearables, activity, health, financial, genomics data and more.
+
+ The challenge right now is that we don’t yet have a framework in place to share data openly and transparently in exchange for tangible value. Currently, it’s like we’ve just invented the car, in terms of data. We don’t yet have seatbelts and crumple zones for safety. When we have them, we’ll be able to go more places, faster and more safely. But there’s a middle ground we need to get to between privacy, consumer rights and data-driven commercial activity.
+
+ There are considerations we need to be aware of over and above privacy and personal freedom.  These include not unintentionally excluding people who don’t have access to the same data-generating technology that others do. Less developed communities, for instance, in which smartphone and internet browsing data aren’t as rich as in developed urban communities, should not see reductions in service and other offerings.
+
+ It’s a three-way exchange, between consumers, companies and society. All three should benefit from the data exchange model. Data was always used to make business decisions, but the consumer has never really been a part of it. Until now.
+
+ And make no mistake, GDPR isn’t the magic bullet. It’s an important first step, which will almost by definition have short-comings which can be improved on in the future. However, it currently feels like GDPR has been disproportionately burdensome on small companies, who have implemented it by the book. Generally, this means they will have lost over 80% of their database subscribers. Large companies with fancy legal teams have taken a much more aggressive stance on GDPR, effectively giving them a leg up.
+
+ The two most important elements of GDPR are consent and data portability. Companies now have to get express consent to collect and process data for marketing purposes, which the user can revoke at any time. Also, data collectors need to make users’ entire data histories available for export and transfer to new providers. This second requirement is transformational.
+
+ Right now, data is flowing behind the scenes. It’s being tracked and exchanged out of sight of the user. This is changing with GDPR. Data creation, collection, exchange and processing are now coming into the light, allowing better quality data to feed the system, creating better results.
+
+ In the next few years, we may see the collapse of the current back channel data collection and sale model and the adoption instead of straightforward, one-to-one exchanges of data between consumers and companies.
+
+ What’s missing currently that needs to exist in order for the ideal data model to work? A lot of things: consent, consistency, interoperability, provenance, quality, availability and a suitable value exchange model.
+
+ The goal should be to define how proper data collection and exchange can help businesses make more money instead of less. The general consensus among the panel is that once we’ve developed the right data model, there will be more value for users, companies and society.
+
+ Consumers aren’t familiar with or interested in conversations about “data.” Terms like that, GDPR and other technical terms are meaningless for the average user. Companies need to make it work with simplicity, in ways that users can easily understand.
+
+ Investors play a huge role in establishing data ethics. There are legitimate ethical and moral considerations around how companies make money using data, and investors influence these decisions. Companies need to have hard lines they will not cross with respect to data usage, and investors need to encourage that.
+
+ The market is starting to really care whether companies do the right thing with data. If, by embracing responsible use of data, companies can make more money, they’ll do it in a heartbeat.
+
+ Through GDPR and data portability, data is being democratised. For the first time, small companies will be able to access data stores directly from users and quickly get to a level playing field with incumbents.
+
+

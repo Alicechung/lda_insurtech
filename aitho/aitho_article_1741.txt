@@ -1,0 +1,15 @@
+Clarifai Expands API Offering With Tools That Rate Image Quality; Recognize Textures & Patterns
+
+09 Jan 2018
+
+New Models ‘Landscape Quality,’ ‘Portrait Quality,’ and ‘Textures & Patterns’ Join Clarifai’s Rapidly-Growing Catalog of Image Recognition Models
+Clarifai, the leading independent AI company that uses machine learning to understand images and videos, today announced the addition of three new image recognition models to its rapidly-growing library: Landscape Quality, Portrait Quality, and Textures & Patterns. All three models are available in beta today on Clarifai’s model directory, and join Clarifai’s nearly 20 other models currently available, including Apparel, Food, Logo, NSFW, General (which recognizes nearly 10,000 concepts), and Custom Training (for when you need to create your own model that recognizes what’s important to your unique business).
+Image recognition allows a computer to recognize objects and scenes in photos and videos, and is achieved by teaching AI algorithms how to “see” the world by showing it pre-labeled datasets. Features of Clarifai’s three new models include:
+Landscape / Portrait Quality: Gives a confidence level of whether an image is “high quality” or “low quality,” considering factors including lighting, sharpness and focus, any red eyes in subjects, aggressive filtering, and more.
+Textures & Patterns: Identifies common textures (e.g. feathers, woodgrain), unique & fresh texture concepts (e.g. petrified wood, glacial ice), and overarching descriptive texture concepts (veined, metallic)
+With Clarifai’s new Landscape and Portrait Quality models, photographers can drastically increase productivity in the post-processing stage by having Clarifai’s API automatically analyze thousands of photos from a day’s shoot and quickly determine which are worth editing further. This filtration process, which would normally take hours of manual vetting and analysis to complete, can now be done in a matter of seconds with Clarifai’s visual recognition technology.
+In addition to the Landscape and Portrait Quality Models, Clarifai is also introducing its new Textures & Patterns Model, which will help photographers and designers identify common textures (e.g. feathers, woodgrain), various texture concepts (e.g. petrified wood, glacial ice), and overarching descriptive texture concepts (e.g. veined, metallic) in their images. This can be useful during the post-editing process when photographers may want to overlay and use different textures and patterns to enhance their work
+Matt Zeiler
+“Our core mission at Clarifai is to help everyone, from app developers and coding enthusiasts, to large-scale enterprises and B2B companies, tap into the power of AI to solve real-world problems and improve workflows,” said Matt Zeiler, founder and CEO of Clarifai. “With our new models, we’re extending the versatility of our API even further by making it accessible to both professional and enthusiast photographers and designers, and we can’t wait to see how they take advantage of it.”
+
+

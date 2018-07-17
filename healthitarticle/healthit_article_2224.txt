@@ -1,0 +1,27 @@
+Q&A: Analytics raised quality so much, the gov’t didn’t believe it
+
+October 28, 2013
+
+By Jennifer Bresnick
+October 28, 2013 - No one likes to be questioned about their quality numbers, but for Laurie Huryk, MSN, RN, it was a huge step in the right direction.  The Clinical Informatics Analyst at CentraState Healthcare System in Freehold, New Jersey was able to use clinical quality data to improve the health of a target population so much at a previous employer that she was asked if her data was correct.
+Huryk sat down with HealthITAnalytics for the first of our ongoing clinical informaticist spotlight series to discuss her role in one of the many health systems nationwide now employing specialists to wrangle raw data into an actionable plan to boost the quality of patient care.
+How did you become an informaticist?  What interested you about data analytics?
+Nursing Informatics was a required course in my RN-BSN program at Rutgers.  I fell in love with the field instantly, and pursued obtaining a position as a nurse informaticist immediately.  I love problem solving, and making things work, and that is what data analytics is all about: finding the data, analyzing it and presenting it in a format useful to the end users, management team, accrediting bodies and state and federal agencies.
+What analytics projects have you been involved with in your role?
+READ MORE: Using Visual Analytics, Big Data Dashboards for Healthcare Insights
+I’ve had to mine through our database for everything from troubleshooting our electronic health system to analyzing patient waiting room times, to participation in State QI registries and federal grant programs.  The biggest data analytics project I’ve been involved with would have to be the annual submission of the Uniform Data Set to the Bureau of Primary Healthcare for the Federally Qualified Healthcare Center (FQHC) that I used to work for.
+How long has your facility been using an EHR?  Did the EHR come with integrated analytics capabilities, or did you implement a separate product?
+The facility I currently support has been using an EHR since 2005.  There were some built in reporting features that would allow for some analysis, but most of the analytics we have performed have been through separate products such as SQL Query Analyzer, Crystal Reports, and other vendor add-ons.  However, our EHR has evolved over the years with the advent of meaningful use, so that more real-time analytics are currently being used by the providers in the form of clinical decision support features.
+How do you use clinical analytics day-to-day?
+At our offices, we use clinical analytics to support individual patient care, such as recognition of abnormal vital signs, lab results and growth patterns, when particular diagnostics or immunizations are due, and to follow up on referrals to other care providers.  We also identify quality metrics in broad populations, such as analyzing our diabetic population’s average hemoglobin A1c, or the percentage of those same patients who have been seen within the last three months. We track patient safety measures, too, such as looking at the percentage of eligible prescriptions sent via e-prescribing versus written prescriptions.
+READ MORE: Administrative Support Atop Barriers to Nursing Informatics
+Do you think having the information has significantly changed the way your providers deliver care?  Has analytics saved money for your organization?
+I think that having information presented to them either when they are with the patient, or in aggregate form later on, makes the providers more aware of things they might have missed before.  One of the quality projects we worked on at my previous employer brought to light that our average blood pressure for our hypertensives was running a little higher than the goal, and that the patients weren’t coming in as often as they should.  Our lead physician was absolutely convinced that there was nothing more we could do, but she knew we had to try.
+By using clinical analytics we really focused on getting those patients in, regulating their medications and educating them about diet and exercise during individual and group visits.  Within a year, our numbers had changed so much for the better that when we submitted our annual quality data to the Bureau of Primary Healthcare, they actually questioned us!
+As far as saving money, I don’t know that analytics has saved money for our organization as much as it has saved money for our patients and third party payers by way of providing better service, requiring fewer sick visits, days missed from work due to illness, and in the long run healthier patients.
+What do you think the next steps will be for your organization when it comes to health IT? 
+READ MORE: Can IBM Watson Prove the Value of Precision Medicine in China?
+Definitely interoperability and data exchange!  We are working hard to meet all of the new federal initiatives, and that means providing patient portals, exchanging data with other healthcare providers and providing public health registries with information.  This will be the focus of our efforts in the coming months… then on to ICD-10!
+Tagged Clinical AnalyticsClinical DataClinical IntelligenceHealthcare InformaticsInformaticist Series
+
+

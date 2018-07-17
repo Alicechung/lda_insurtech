@@ -1,0 +1,16 @@
+Machine Learning And Latest RayCare Innovations On Show At ESTRO 37
+
+19 Apr 2018
+
+During 20–24 April, RaySearch will be exhibiting at the ESTRO 37 congress in Barcelona, Spain. In addition to the latest advances in machine learning technology* and online adaptive therapy, RaySearch will demonstrate the latest innovations in the groundbreaking RayCare™* oncology information system, which has now been released. RaySearch will also show the new features available in the latest release of its treatment planning system, RayStation®. Attendees are welcome to visit RaySearch at booth #1000, and demonstrations can be booked now at: www.raysearchlabs.com.
+New features in RayStation 7*
+New functionality and a wide range of general improvements will be on show. The latest RayStation release that will be demonstrated contains several enhancements to existing functionality that will contribute to improved workflows and planning efficiency, including integration with RayCare, the next-generation oncology information system. Major new functionality includes the addition of robust constraints in multi-criteria optimization (MCO), simulated organ motion for robust optimization and evaluation, multi-atlas-based segmentation and conformal arc planning for photons.
+Significant additions on the proton side include support for Hyperscan™ pencil beam scanning technology from Mevion Medical Systems, and support for uniform scanning for proton therapy systems from Mitsubishi Electric. Other proton therapy improvements include snout rotation for passive proton techniques and MLC collimation for PBS and passive techniques.
+RayCare: the next-generation oncology information system
+RayCare 1 was launched in December 2017 and is already in clinical use at Iridium Cancer Network in Belgium. Iridium will present its first experiences with the system during the RaySearch lunch symposium on Saturday 21 April.
+Development of upcoming versions of RayCare is going forward rapidly. RaySearch will demonstrate the latest improvements and features, including advanced workflow management tools and integrated planning workflow support for RayStation. RayCare active workflows are highly configurable and the task management features enable an integrated planning experience with RayStation, supporting automation of process steps and communication around planning tasks.
+Other features on show include the built-in PACS system, which supports automation of imaging workflows, and the control room client for radiation therapy treatment management.
+Machine Learning demonstrations
+The Machine Learning department at RaySearch is developing solutions for automating workflows and supporting the user in RayStation and RayCare. At ESTRO 37, RaySearch will demonstrate two RayStation applications of machine learning: automated treatment planning and automated organ segmentation. The automated planning application uses machine learning algorithms to generate a set of treatment plans in minutes, based on clinical treatment data from Princess Margaret Cancer Centre and University Medical Centre Groningen. Automated organ segmentation uses deep neural networks to generate a set of 3D organ volumes within seconds.
+
+

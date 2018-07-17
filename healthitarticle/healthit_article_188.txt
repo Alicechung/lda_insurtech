@@ -1,0 +1,29 @@
+CIOs Plan to Invest More in AI, Predictive Analytics, Big Data Tools
+
+February 23, 2018
+
+By Jessica Kent
+February 23, 2018 - Healthcare IT leaders are investing more time and money in predictive analytics tools because of their potential to improve population health and reduce care costs, but they will also have to invest in artificial intelligence and big data analytics solutions to generate truly accurate clinical predictions.
+As the industry shifts to value-based care and organizations seek to extract more value from their data, it’s no wonder that health IT leaders are choosing to focus on predictive analytics in the coming year.
+A cross-industry poll from the International Data Group (IDG) found that 47 percent of CIOs plan to increase their spending on predictive analytics in the next few months.
+Dig Deeper
+For Predictive Analytics, Not All Data is Created Equal
+Desire for Predictive Analytics Outpaces Hospital Investment
+Four Use Cases for Healthcare Predictive Analytics, Big Data
+In addition, 37 percent of CIOs said they are actively researching predictive analytics or have it on their radar.
+Thirteen percent said predictive analytics are the most important tool they’re working on right now.
+Providers have long believed that predictive analytics are critical for successfully managing the changing healthcare landscape. In a 2017 Society of Actuaries (SOA) survey, 93 percent of respondents said that healthcare organizations will not be able to navigate future financial and clinical challenges if they do not invest in predictive analytics tools.
+Past research has shown the potential for predictive analytics tools to reduce hospital readmissions, identify patients at high risk for developing sepsis, and recognize patients who are more likely to experience harmful falls, all of which can improve patient outcomes and cut unnecessary healthcare spending.
+Health IT leaders also recognize that building predictive analytics capabilities requires investments in IoT, machine learning, and AI tools that can generate and filter patient data to assist in clinical decision making.
+The IDG poll shows that 33 percent of respondents plan to increase spending on IoT in 2018, while 44 percent plan to spend more on machine learning and 43 percent on AI.
+Organizations looking to use predictive insights to boost outcomes and reduce costs are faced with the challenge of building a comprehensive patient data portrait. A patient’s complete medical history and key non-clinical data aren’t always accessible, which can hinder providers from developing truly meaningful predictions.
+Internet of Things (IoT) devices, including remote patient monitoring tools and wearables, can help to alleviate this issue by providing clinicians with real-time patient-generated health data.
+Additionally, machine learning and artificial intelligence (AI) can help filter and process this massive influx of data and potentially assist providers in making more accurate clinical predictions.  
+Organizations may also have to consider investing in a big data analytics vendor to help them achieve their predictive analytics goals.
+More data analytics vendors are aligning their products with the needs of value-based care organizations. Vendors that utilize AI and combine multiple sources of data can provide organizations with actionable insights about individual patients.
+However, providers should still take a thoughtful approach when choosing a vendor. Fifty-seven percent of respondents in the IDG poll said that they are most likely to partner with a newer big data analytics vendor in the next year, but IT leaders should first ensure that these vendors demonstrate a balance of track record and innovation.
+CIOs should also confirm that these newer vendors have adequate funding for their products, have bug-free examples of their software to show, and don’t make seemingly empty promises.
+Ultimately, the success of predictive analytics depends on the availability and accessibility of accurate big data. CIOs planning to invest in predictive capabilities may also have to invest in AI, machine learning, and big data analytics vendors to ensure they have access to the data necessary to generate truly actionable insights.
+Tagged Artificial Intelligence in HealthcareHealthcare Big Data AnalyticsMachine LearningPredictive Analytics
+
+

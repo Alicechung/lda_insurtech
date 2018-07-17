@@ -1,0 +1,18 @@
+Twitter could track HIV outbreaks for population health help
+
+March 18, 2014
+
+By Jennifer Bresnick
+March 18, 2014 - Social media is enjoying some time in the healthcare analytics limelight as researchers turn their attention to Twitter posts and Facebook updates in order to glean important insights about population health.  After being put to the test by Boston researchers in pursuit of teen sleep disorders, Twitter is taking a turn at UCLA as a potential source for tracking the incidences of HIV and drug-related behaviors that may raise the risk of transmission of the incurable virus.
+Monitoring tweets of at-risk patients and mapping the locations of the messages could provide a way to predict HIV hotspots and target preventative education, testing, and treatments where they are needed most. “Ultimately, these methods suggest that we can use ‘big data’ from social media for remote monitoring and surveillance of HIV risk behaviors and potential outbreaks,” said Sean Young, assistant professor of family medicine at the David Geffen School of Medicine at UCLA and co-director of the Center for Digital Behavior at UCLA. “This is the first [study] to suggest that Twitter can be used to predict people’s health-related behaviors and as a method for monitoring HIV risk behaviors and drug use.”
+To come to that conclusion, Young and other researchers developed an algorithm to screen more than 550 million Tweets for keywords such as “sex” or “get high” that might indicate risky behaviors.  The program captured more than 8500 tweets that indicated sexually risky behavior and a further 1300 related to the use of stimulant drugs.
+The researchers then linked the geographical tags of the tweets to AIDS incidence data in order to see if the two datasets correlated in any way.  While the data they used was from 2009, potentially highlighting a weakness in the study, they did see a positive relationship between the Twitter information and the AIDS outbreak data.
+Dig Deeper
+Gates Foundation Grants $279M to UW Population Health Program
+Three Finalists Named for $100,000 Population Health Prize
+University of California Forms Big Data, Precision Medicine Network
+States with the highest number of geo-tagged tweets were California, Texas, New York, and Florida, while on a per capita basis, Washington D.C., Delaware, Louisiana, and South Carolina logged the most HIV-related activity on the social networking site.
+Big data collected from social media could be a cost-effective way to map the activities of populations who may be more likely to be forthcoming on the internet than when they are sitting in front of their physician in a clinical exam room. “This study was designed to call for future research to understand the potential cost-effectiveness of this approach and to refine methods of using real-time social networking data for HIV and public health prevention and detection,” the team concluded.  Future studies may make use of real-time disease outbreak data in addition to instant social media data to produce more exact results.
+Tagged Big DataHealthcare AnalyticsMedical ResearchPopulation HealthPopulation Health Management
+
+

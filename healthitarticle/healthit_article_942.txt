@@ -1,0 +1,54 @@
+Is Blockchain the Answer to Healthcare’s Big Data Problems?
+
+April 27, 2016
+
+By Jennifer Bresnick
+April 27, 2016 - The explosion of digital data in the healthcare industry seems to have brought with it nothing but problems.  From complaints about EHR usability and workflows to the complicated quandaries of data interoperability, analytics, and security, the herculean task of leveraging big data to truly improve patient care appears to be a never-ending battle against time, technology, and testy clinicians.
+Currently, most healthcare data is held in some type of centralized location: an EHR system, a data warehouse, or a repository run by a health information exchange. 
+Each system may have been developed independently and might generate and store the data in its own particular format, leading to the data siloes and interoperability woes that frustrate providers, patients, researchers, and facilitators.
+In addition to poor data standardization, today’s healthcare systems suffer from some fundamental flaws related to privacy and security.  Due to the intensely personal and private nature of healthcare data, these collections of information function like bank vaults, where access is theoretically restricted to certain trusted parties that know the combination to the lock.
+Unfortunately, once someone gains access to the combination, that data is theirs for the taking.  The shocking frequency with which unauthorized users access protected health information clearly illustrates that the way the healthcare system stores, accesses, shares, and secures its data is in need of a major change.
+READ MORE: 16% of Healthcare Stakeholders Plan to Use Blockchain by 2017
+The blockchain approach, best known as the schema that underpins the notorious Bitcoin ecosystem, might just be the overhaul that healthcare is looking for.
+But what does this new term really mean, and why does it hold such significant potential for the convoluted world of healthcare big data analytics?
+What is blockchain?
+Blockchain is a way of organizing data so that transactions can be verified and recorded through the consensus of all parties involved.  The system is founded on the concept of an authoritative ledger that records events. 
+While current data systems hold that ledger in a single, centralized location, a blockchain requires each individual participant – or node – to hold a copy of the record.  Any potential changes to the record must be compared against each and every node before being approved, which strengthens security and reduces the likelihood of unauthorized changes.
+READ MORE: Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+For example, let’s say that Joe is being tried in court for stealing Pauline’s purse.  Typically, a court reporter would be employed to type out everything that Joe says into a court record.  If Joe admits to the crime, this transcript of the proceedings will function as irrefutable proof that he confessed.   This document is kept in the court’s offices, under lock and key.
+But Joe’s friend Bob wants to help Joe out by eliminating the record of his crime.  Bob steals a copy of the key, opens the court’s office, erases Joe’s confession, and leaves. 
+Since there’s no other official record of Joe’s admission, there court cannot prove that Joe ever admitted to stealing the purse.
+This is how the current generation of data repositories work.  Bob wasn’t authorized by the court to have a key to the centralized location where the data lived, yet he gained access anyway and used it improperly.  Joe’s crime has been erased from history, as far as the legal system is concerned.
+Now, let’s say Joe is up to his old tricks again, and goes out on the street to snatch Jessica’s purse.  But this time, there are ten bystanders with smartphones, and each bystander independently records the deed.  Now there are ten records of what Joe has done, and no easy way for Bob to change every single bystander’s video in exactly the same manner to make it look like Joe is innocent.
+READ MORE: 83% of Life Science Execs Expect Healthcare Blockchain in 5 Years
+The only way the record of this event could be changed is if all the bystanders come together and decide, as a group, to alter each copy of the video in precisely the same way.  That is unlikely to happen.
+If all the bystanders agree as a collective system that the data should continue exist in its current format, the event becomes locked in time as a fact that has happened.  It is an entry in the ledger: a fixed point that cannot be changed. 
+Once the chapter has been closed on this event, it is known as a “block.”  The block is redistributed to each node, which re-validates the change and agrees to edit its version of the ledger to include this new event. 
+Read: The Difference Between Big Data and Smart Data in Healthcare
+Every subsequent potential change to the data must be validated against this block before it can be added to the “chain” of events.  This is accomplished through sophisticated matching algorithms that verify the party’s right to access or alter the data.
+When it comes to financial matters, or a virtual currency like Bitcoin, it’s easy to see why this is important.  Every participant in a transaction must agree that a payment took place at a certain time for a certain amount, or the transaction is void. 
+All transactions depend on the ones that went before it.  If Joe empties his account and has a $0 balance, he cannot then write a $20 check to Bob from that same account an hour later.  Neither Bob, Bob’s bank, nor Joe’s bank will agree that the transaction is valid once the check bounces.
+Why does it matter for healthcare?
+In the healthcare industry, the physician acts as the court reporter and the EHR is the official transcript.  But as many an organization has found to its cost, their data repositories are far from secure – and they do not always represent the most up-to-date and accurate version of the patient’s story.
+Whether a result of malicious hackers like Bob, an unintentional mistake during data entry, or the fact that multiple entities may be trying to edit the same record without reconciling changes appropriately, healthcare’s “authoritative ledger” is anything but infallible. 
+In addition, since multiple providers often hold their own versions of the patient record, none of which are validated against each other, a patient could visit five different providers and encounter five different errors in her record, all of which could cause a different sort of harm.
+Blockchain provides the validation that the healthcare industry needs, and it delivers that service in a way all parties can trust.  No single entity is in charge of holding the data, yet all participants are responsible for ensuring data integrity and security.
+If no one can change the record without all stakeholders signaling approval of the edits, and no unauthorized party can access the health record without the participants giving collaborative permission, the healthcare industry can avoid two of its most dangerous big data risks at the same time.
+And patient care can finally benefit from the idea that there is, in fact, a readily available single truth that is instantaneously shared among stakeholders and does not rely on manual data reconciliation prone to human error.
+Of course, unlike a financial transaction, where any sender can give money to any recipient regardless of whether or not they know each other, healthcare organizations would need to limit the number of authorized participants in a single blockchain to a patient, her care team, and her approved family members.
+This truly collaborative approach to creating and sharing data would eliminate many of the challenges of health information exchange, including the question of how much to trust the middleman. 
+While some HIEs have already taken a decentralized approach to their data architecture, the validation piece has been missing.  Patients and providers still have to trust that the HIE knows what it’s doing, and take it on faith that the records moving back and forth between hospitals, specialists, or care facilities is the best possible version of the patient’s story.
+Read: Why HIE Data Analytics are Critical for Behavioral Health
+When using a blockchain approach to sharing a patient’s record, the question of trust is irrelevant.  Every participant is already known and has already been approved. 
+The implications for population health management, patient matching, and care coordination are staggering.  Healthcare organizations do not have to fight for a data-driven competitive advantage, because they all have exactly the same information.
+If validated blockchain data becomes available through an API in each provider’s EHR, patients and providers can be absolutely confident that the data isn’t only up-to-date, but that it is also authoritative.
+Patients would no longer have to coordinate the tedious and frustrating task of gathering their own records from five or ten providers to send to their new specialist.  Instead, they would just add the specialist to the chain, whereupon he could access the same data as everyone else in the closed community.
+What are the caveats?
+The biggest problem to implementing blockchain in healthcare is that no one is quite sure how to do it just yet, how it could mesh with current privacy regulations like HIPAA, or which organizations are prepared to implement such a drastically different way of dealing with health data. 
+A few early leaders in the healthcare part of the field are emerging, including Gem, GuardTime, and Factom, all of which are actively bringing blockchain infrastructure to the healthcare industry.  GuardTime has already implemented its blockchain approach in Estonia, where a million patient records are secured by the strategy.
+Gem is collaborating with Philips Healthcare to create the new Philips Blockchain Lab, which will explore how these approaches can be best used in the industry.
+But the healthcare system is at the very, very beginnings of understanding how such a scheme would work or what it could provide to patients.  With so many other challenges on the horizon for providers, blockchain-based infrastructure may take years to mature. 
+Still, the framework seems to offer a promising way to skirt many of the issues that have prevented providers, researchers, and patients from taking full advantage of healthcare’s big data, which is growing exponentially each and every year.  If the industry can find a way to integrate this approach into its analytics, security, and interoperability strategies, organizations may find that many of their problems will start to disappear more quickly than expected.
+Tagged Blockchain in HealthcareEHR InteroperabilityHealth Data PrivacyHealth Information ExchangeHealthcare Data StandardsHealthcare DefinitionsPrimers
+
+

@@ -1,0 +1,15 @@
+Digamma.ai And The U.S. Geological Survey Announce Machine Learning Research Partnership
+
+09 Jul 2018
+
+Machine learning consultancy Digamma.ai and the U.S. Geological Survey announce a new partnership to use machine learning to advance natural hazards research.
+Digamma.ai is proud to announce a partnership with the U.S. Geological Survey to apply state-of-the-art machine learning algorithms towards the study of landslides and other natural hazards. “The purpose of this project is to produce algorithms that are capable of automatically recognizing hazardous landscape changes through the interpretation of remote sensing, LiDAR, drone imagery, and satellite imagery data,” Vadim Zaliva, Digamma.ai’s CEO, explained. “The algorithms will be trained to identify slow-moving landslides that are active over many years, rapid landslides that result from storms or earthquakes, or landscape deformation associated with earthquakes.”
+The objective of the partnership is to better understand landscape responses to earthquakes and large storms in addition to finding the location of landslides that are active over long periods of time. This knowledge will assist in response to earthquakes that cause widespread landslides.
+Follow Us
+Historically, mapping these hazards involves hours spent combing over aerial photographs and digital terrain models, interpreting areas affected by landslides and digitizing the outlines of landslide features. However, this repetitive and time-consuming process takes up time USGS investigators could be spending on field investigations, data analysis, experimental design, and other key tasks.
+Read More: Innovative AI To Help You Get To The Heart Of Your Customers’ Needs
+“Studying natural hazards is a crucial and important undertaking,” USGS Spokesperson said. “By automating these tasks with machine learning, Digamma.ai will help our teams realize significant productivity gains while simultaneously increasing the size and number of datasets that can be analyzed.”
+“We’re really excited about using machine learning to deliver a significant research advantage to the USGS,” Zaliva said. “Our partnership with the USGS is an excellent example of the value machine learning can bring to tackling real-life problems that will ultimately impact the lives of many.”
+Read More: How “System Mindfulness” Is Changing The FMCG Industry
+
+

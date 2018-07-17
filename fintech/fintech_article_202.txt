@@ -1,0 +1,25 @@
+StatPro migrates key Revolution calculation engine to Microsoft Azure Data Lake Analytics platform
+
+April 30, 2018
+
+StatPro Group plc, (“StatPro”, AIM: SOG), the AIM listed provider of cloud-based portfolio analytics and asset pricing services for the global asset management industry, has migrated a key StatPro Revolution portfolio analytics engine to the Microsoft Azure Data Lake Analytics platform.
+
+ StatPro Revolution’s cloud processor engine was already leveraging the Microsoft Azure cloud platform using a HDInsight server cluster. In order to harness the power and elasticity of the cloud better, and to offload big data analysis and storage further from the core Revolution system to serverless cloud computing, StatPro has selected the Azure Data Lake Analytics service.
+
+ Microsoft Azure Data Lake Analytics offers a cloud-based data processing architecture, enabling processing of extremely large data sets and true parallel processing of structured and unstructured data. StatPro is using the technology for processing anonymised assets and non-client identifiable information for large benchmark calculations and Fixed Income analytics processing.
+
+ In recent tests, StatPro was able to process full benchmark re-calculation results for over 600 million rows of data in under 17 minutes compared to over two and a half hours using the previous engine technology.
+
+ Justin Wheatley, Chief Executive, commented: “StatPro continues to research and invest in the best cloud technologies suited to our clients needs. As we develop new Fixed Income and benchmark analytics, we require enormous amounts of on-demand computing power to deliver results in totally new timeframes versus other systems.
+
+ “Reducing calculation times and providing analytics results faster than ever before provides real advantages and benefits to our clients.”
+
+ About StatPro
+
+ StatPro is a global provider of award winning portfolio analytics solutions for the investment community. The Group’s cloud-based platform provides vital analysis of portfolio performance, attribution, risk and compliance. This multi-asset class analytics platform helps StatPro’s clients increase assets under management, improve client service, meet tough regulations and reduce costs.
+
+ The Group’s integrated and global data coverage includes over 3.2 million securities such as equities, bonds, mutual funds, FX rates, futures, options, OTCs, sector classifications and much else besides. StatPro also covers most families of benchmarks including MSCI, FTSE, Russell, NASDAQ and the open source Freedom Index.
+
+ StatPro has grown its Annualised Recurring Revenue from less than £1 million in 1999 to around £53 million today. The Group has operations in Europe, North America, South Africa, Asia and Australia, with hundreds of clients in 39 countries around the world. Approximately 80% of recurring revenues are generated outside the UK. StatPro Group plc shares are listed in London on the AIM.
+
+

@@ -1,0 +1,38 @@
+Pew: EHR Usability Concerns May Still Impact Patient Safety
+
+December 21, 2017
+
+By Jessica Kent
+December 21, 2017 - Electronic health records are quickly becoming the standard way clinicians track and retrieve patient information, but EHR usability can put patient safety in jeopardy, according to a report from the Pew Charitable Trusts.
+EHRs are a critical part of patient care. Clinicians need up-to-date, accurate information to make informed decisions, and EHRs allow access to this information with just a few clicks.
+However, EHRs are not always efficient in accomplishing the goals of a health organization.
+Pew states that EHRs have contributed to numerous errors that may increase patient risk, including incomplete lab results or medical order overwrites.
+The report also noted that the nonprofit ECRI Institute listed the design and use of EHR systems as its top concern in 2016.
+READ MORE: Patient Safety Errors are Common with Electronic Health Record Use
+EHR usability affects clinicians as well. A 2015 peer60 report found that 50 percent of EHR users considered usability to be a major issue. Nearly 20 percent of respondents stated that usability was the reason they were looking for EHR replacements.
+These usability issues must be fixed to maximize the efficiency of EHRs, says Pew. The report outlines some of the major factors that influence usability, and proposes some suggestions for improving patient safety and clinician satisfaction in the future.
+ENSURING CONSISTENCY AND CLARITY OF EHR USER INTERFACES
+The user interface refers to the system’s design and layout, Pew explains. It is what clinicians see when retrieving data or entering new data into the system.
+“An interface that is cluttered may cause confusion or an inability to locate key information, whereas an overly bare design may force the clinician to search for information in multiple places,” the report states.  
+Pew notes that user interface design should eliminate complexity, emphasize key elements, and use color to draw users to important areas.
+READ MORE: EHR Usability Shortfalls May Up Pediatric Patient Safety Risks
+While every EHR product is different, there are certain features that all EHRs will have. However, as Pew points out, these common features might have different interface designs, like fonts, colors, or icons. All systems may not present information clearly and consistently.
+The report states that variations can cause delays for clinicians trying to access patient information, as well as confusion about the meaning of certain icons.
+CAREFULLY CUSTOMIZING WORKFLOWS TO AVOID ERRORS
+Organizations can customize their EHR systems to fit their particular needs or to display certain critical information for their clinicians.
+While this is a good way for an organization to ensure an EHR system works for them, Pew states that customizations “may not have undergone rigorous testing by the care team or the product developer to detect potential safety concerns.” This could lead to problems for patients down the line.
+According to Pew, workflow “reflects how and when things are done within a healthcare setting.” It includes the clinical actions performed at every level, from administrative tasks to the work of nurses and physicians.
+READ MORE: ONC Updates EHR Usability, Health IT Patient Safety Guides
+Testing EHR functionalities individually without moving through the entire workflow may not flag any safety concerns, the report notes. But patient safety or usability issues may appear within specific workflows when they are followed through to completion.  
+The Pew report suggests including nurses, doctors, and staff in the process of developing and testing EHR products so that safety concerns might be caught before systems are put in place.
+PRIORITIZING STAFF TRAINING TO ENSURE PATIENT SAFETY
+Clinicians must receive thorough training to use EHR systems efficiently and to ensure patient safety. This is important, as evidence suggests that usability improves as clinicians gain more experience with the technology.
+Pew notes that EHR developers offer training in a variety of forms, including web sessions and simulation training.
+Currently, the government has practices in place to monitor EHR safety, including product testing throughout development, government oversight and certification, and internal quality and safety leaders.
+Unfortunately, these practices don’t always meet expectations. A 2015 study found that more than a third of EHR vendors didn’t adhere to usability regulations issued by the Office of the National Coordinator (ONC).
+Pew suggests that the future of health IT safety could include a collaborative that would identify emerging safety issues, solve problems, and communicate solutions.
+To fulfill this goal, Pew recommends that leaders in the healthcare community define the main functions of the collaborative. Additionally, these individuals should work to determine the collaborative’s governance and funding, as well as secure public and private support.
+“By taking these steps, EHR developers, healthcare providers, and the government can help ensure that Health IT fulfills its potential to improve the safety and quality of care,” the report concludes.
+Tagged EHR ChallengesEHR UsabilityPatient SafetyPhysician EHR Use
+
+

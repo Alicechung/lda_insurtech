@@ -1,0 +1,29 @@
+Informatics, Machine Learning Accelerate Pharmaceutical Discovery
+
+July 17, 2017
+
+By Jennifer Bresnick
+July 17, 2017 - Machine learning, informatics, and artificial intelligence have been making quite a big splash on the clinical side of the healthcare industry during the first half of 2017, but these big data analytics techniques have even broader applications for providers, patients, and the entities that support them.
+In the life science and pharmaceutical industries, the growth and availability of big data is revolutionizing the drug discovery process, allowing precision medicine to advance at an unprecedented pace.
+The advent of “in silico” research, or computer-aided drug development, is responsible for the rapid acceleration of personalized therapeutics, says a new report by Grand View Research. 
+Pharmaceutical discovery teams can now add the results of machine learning algorithms to their more traditional observations of how drugs impact patients enrolled in clinical trials, opening up opportunities to develop safer, more effective therapeutics in less time.
+Pharmaceutical and life science stakeholders who wish to take advantage of these approaches must also acquire informatics tools and data science expertise to architect drug discovery models. 
+READ MORE: FDA Eager for Precision Medicine Under 21st Century Cures Act
+The market for drug discovery informatics software and skills is predicted to be worth $6.55 billion by 2022, the report says, as organizations invest in databases, clinical trial management software, and gene sequencing tools to fuel this new approach to precision care.
+Both in-house informatics and outsourced data analytics platforms and services are expected to contribute to the sector’s 12 percent compound annual growth rate (CAGR), the report adds, with North America and Asia-Pacific leading the global marketplace for the foreseeable future.
+These activities will contribute to an $88 billion global precision medicine marketplace, adds a separate report, led by the quickly-growing pharmacogenomics segment with an anticipated value of $12 million by the early years of the next decade.
+Oncology is a major focus of many of these efforts, and one that has already shown significant progress.  Advanced oncology diagnosis and clinical decision support platforms based on big data analytics and machine learning are already approaching human levels of accuracy, while the FDA is working quickly to bring similar achievements to the pharmaceutical discovery ecosystem.
+As a result of the 21st Century Cures Act, which aims to speed the development, testing, and approval of precision therapies, the FDA is currently reevaluating some of its guidelines to make it easier for developers to utilize in silico testing as part of a streamlined drug approvals pathway.
+READ MORE: Top 4 Machine Learning Use Cases for Healthcare Providers
+“FDA’s Center for Drug Evaluation and Research (CDER) is currently using modeling and simulation to predict clinical outcomes, inform clinical trial designs, support evidence of effectiveness, optimize dosing, predict product safety, and evaluate potential adverse event mechanisms,” said FDA Commissioner Scott Gottlieb, MD, in a recent blog post.
+“To take just one example of the benefits of these approaches, as we enter an era of drug individualization, modeling and simulation that incorporates aspects of individual physiology and genetics in drug metabolizing enzymes is being used to identify patient subgroups that need dose adjustments.”
+The FDA has also recently approved and expanded several new therapies that target patients based on their genetic features, including Kalydeco (ivacaftor) for cystic fibrosis and Keytruda (pembrolizumab) for solid tumor cancers exhibiting a specific biomarker.
+“This is the first time FDA has approved a cancer treatment based on a genetic feature, rather than the location in the body where the cancer originated,” said Janet Woodcock, MD, Director of FDA’s Center for Drug Evaluation and Research.
+“In the past 3 years alone, our Center for Drug Evaluation and Research has approved more than 25 new drugs that benefit patients with specific genetic characteristics. And we have approved many more new uses — also based on specific genetic characteristics — for drugs already on the market,” she continued, noting that the agency is actively encouraging pharmaceutical companies and other stakeholders to help identify and standardize biomarkers that may contribute to future breakthroughs.
+READ MORE: CancerLinQ Brings Big Data Insights to Oncology with FDA, NCI Partners
+Adding biomarkers into the drug discovery and testing toolkit can help clinicians identify optimal candidates for clinical trials and flag improvements in the size or growth rate of a cancer even before the patient feels his or her symptoms improve.
+“Using biomarkers in clinical trials can speed up the time it takes for an investigative drug to reach a patient,” says Woodcock.  “We believe it is important to make drugs such as Kalydeco and Keytruda available to as many patients as can benefit from them. FDA is actively pursuing more advances in targeted therapies.”
+As these strategies mature and become even more useful for facilitating the development of precision therapies for patients with difficult diseases, the healthcare industry will need to bolster its informatics and analytics skillsets to meet demand and continue the migration of precision medicine techniques from the laboratory to the clinic.
+Tagged Clinical InformaticsGenomicsMachine LearningMedical ResearchPersonalized MedicinePrecision Medicine
+
+

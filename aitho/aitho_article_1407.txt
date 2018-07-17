@@ -1,0 +1,16 @@
+Viz.ai Granted De Novo FDA Clearance For First Artificial Intelligence Triage Software
+
+17 Feb 2018
+
+A new era of intelligent stroke care begins as regulatory approval is granted for the Viz.ai LVO Stroke Platform
+The platform utilizes artificial intelligence to identify Large Vessel Occlusion (LVO) strokes and automatically notify specialists to speed access to lifesaving treatment.
+Viz.ai, Inc., an applied artificial intelligence healthcare company announced that the U.S. Food and Drug Administration (FDA) has granted a De Novo request for the first-ever Computer-Aided Triage and Notification Platform to identify Large Vessel Occlusion (LVO) strokes in CTA imaging. This regulatory clearance compliments Viz.ai’s recent European CE Mark for the product in January 2018.
+Chris Mansi
+“The Viz.ai LVO Stroke Platform is the first example of applied artificial intelligence software that seeks to augment the diagnostic and treatment pathway of critically unwell stroke patients,” said Dr. Chris Mansi, neurosurgeon and Chief Executive Officer. “We are thrilled to bring artificial intelligence to healthcare in a way that works alongside physicians and helps get the right patient, to the right doctor at the right time.”
+Stroke is a serious and time-sensitive medical condition that requires emergency care and can cause lasting brain damage, long-term disability and death. A stroke occurs if the flow of oxygen-rich blood to a portion of the brain is blocked. When this happens 2 million brain cells die every minute. “This software device could benefit patients by notifying a specialist earlier thereby decreasing the time to treatment. Faster treatment may lessen the extent or progression of a stroke,” said Robert Ochs, Ph.D., acting deputy director for radiological health, Office of In Vitro Diagnostics and Radiological Health in the FDA’s Center for Devices and Radiological Health.
+The Viz.ai LVO Stroke Platform was developed using deep learning, a revolutionary technique where algorithms learn how to identify patterns in data from millions of prior examples. The Viz.ai system connects to a hospital CT scanner and alerts the stroke specialist that a suspected LVO stroke has been identified, sending the radiological images directly to their smart phone.
+In a 300-patient performance study, the Viz.ai LVO Stroke Platform obtained an AUC of 0.91, identifying LVOs and alerting the relevant specialist with 90% sensitivity and specificity and a median scan to notification time of under 6 minutes. In over 95% of cases, the automatic notifications demonstrated faster notification of the specialist, saving between 6 and 206 minutes, with an average time saving of 52 minutes.
+“Timely LVO stroke identification and transfer to a specialist hospital that can perform mechanical thrombectomy is the top priority for LVO stroke patients,” said Dr. Raul Nogueira, Professor of Neurology, Neurosurgery and Radiology at Emory University and the Immediate-Past President, Society of Vascular & Interventional Neurology. “This software is designed to help identify appropriate patients earlier and more often, and enable faster transfer and treatment, which, ultimately may result in improved patient outcomes.”
+ 
+
+

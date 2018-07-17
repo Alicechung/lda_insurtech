@@ -1,0 +1,30 @@
+Natural Language Processing Markets Set to Grow in Healthcare
+
+October 25, 2016
+
+By Jennifer Bresnick
+October 25, 2016 - Natural language processing (NLP) is quickly becoming one of the foundational big data technologies that will allow healthcare to move forward with complex analytics, according to a series of market reports predicting significant growth for NLP products over the next few years. 
+As healthcare organizations seek new strategies for extracting insights from unstructured data from electronic health records, Internet of Things devices, imaging studies, and elsewhere, they will create an NLP marketplace worth $2.65 billion by 2021, says ReportsnReports.
+“The market is growing rapidly because of the huge surge in clinical data, increasing use of connected devices, and evolving consumer needs,” the report says.
+Natural language processing may play an instrumental role in precision medicine, predictive analytics, population health management, clinical decision support, and EHR documentation improvement.
+Dig Deeper
+Natural Language Processing, AI to Foster Clinical Decision Tools
+UCSF, Intel Partner for Healthcare AI, Deep Learning Project
+Top 4 Machine Learning Use Cases for Healthcare Providers
+The NLP market is divided into several segments: interactive voice response and speech analytics technologies, optical character recognition (OCR), automatic coding, text analytics, and pattern and image recognition. 
+“Pattern and image recognition is expected to witness the highest compound annual growth rate (CAGR). The technology is helpful in detecting images, pattern analysis, and gesture recognition. In the healthcare industry, it is used to interpret numerical data, such as blood test results. This technique is also used in processing non-numeric data, such as patient history.”
+Imaging studies hold an unimaginable wealth of data for clinical decision-making, yet they represent one of the most difficult areas of analytics.  
+But a number of vendors and researchers are attempting to use NLP and other machine learning technologies to crack the computational complexity of MRIs, x-rays, and CAT scans in an effort to improve radiological accuracy and collect data for precision medicine projects.
+“We are excited by the opportunities that machine learning and computer vision algorithms can provide. These tools will help us improve patient care, by analyzing imaging data at a large scale for the first time, in addition to textual data,” said Bert Zimmerli, Intermountain Healthcare’s Chief Financial Officer.
+IBM Watson Health, Microsoft, MEDIAN Technologies, vRad, and Dell Services, along with provider partners including Intermountain Health, UC San Diego Health, and the University of Vermont Health Network, are all engaging in projects aimed at improving imaging analytics.
+“With the ability to draw insights from massive volumes of integrated structured and unstructured data sources, cognitive computing could transform how clinicians diagnose, treat and monitor patients,” said Anne Le Grand, Vice President of Imaging for Watson Health earlier this summer.
+Optical character recognition is also a key strategy for turning free-text documents into useful information.  OCR tools can extract data from PDFs, images, and other static formats, then create structured data from the results.  This is especially useful in healthcare, where lab reports, visit summaries, and older patient records are often faxed, scanned, or mailed without a digital copy of the data.
+By using natural language processing to unlock these unstructured sources of information, the healthcare industry will also be boosting its ability to engage in advanced big data and predictive analytics, says Persistence Market Research.
+“The intense focus on Hadoop, NoSQL, and NewSQL in a bid to improve enterprises’ operational efficiencies will boost the advanced and predictive analytics (APA) software market worldwide,” the report predicts. “The implementation of APA helps boost the ability to compute data, thus helping enterprises extract the maximum value from advanced and predictive analytics.”
+The predictive analytics marketplace will grow from $2.4 billion in 2014 at an 8.6 percent CAGR until 2020 as organizations invest in infrastructure to drive actionable insights into population health management, hospital readmissions, chronic disease development, and organizational efficiencies.
+Companies such as 3M, Cerner Corporation, IBM Watson Health, Nuance Communications, and Microsoft are currently key players in the NLP field, according to ReportsnReports, and will continue to bring innovation to this quickly expanding segment of the big data analytics world.
+What is the Role of Natural Language Processing in Healthcare?
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Analytics InfrastructureClinical Decision SupportNatural Language ProcessingPredictive Analytics
+
+

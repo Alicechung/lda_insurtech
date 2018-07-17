@@ -1,0 +1,31 @@
+Five ways to improve quality through hospital benchmarking
+
+December 18, 2013
+
+By Jennifer Bresnick
+December 18, 2013 - The goal of every hospital is to provide the highest level of quality care while maintaining financial solvency and an excellent reputation.  The measurement of these goals is becoming ever more closely tied to reimbursements from Medicare and private payers alike, bolstered by an increase in the use of data analytics on both sides of the equation.  Quality benchmarking and reporting through organizations like the Joint Commission provide opportunities for physicians to examine and retool their workflows to provide the best possible care on a consistent basis.
+Here are five ways clinical and financial data can help create a meaningful scorecard for comparisons to other facilities while judging the hospital’s internal effectiveness.
+Gather ye data streams while you may
+The first step towards assessing a hospital’s operations is harnessing as many different data sources as possible.  Clinical and financial data cannot live in isolation from each other, because true quality improvement is about balancing patient care with its costs.
+“For the smart and really leading-edge health systems or even health plans, good analytics to understand where the variation and opportunity are upon us,” says Brett Furst, CEO of ArborMetrix.  High-risk patients require high investment, and identifying the allocation of resources to patient care is a critical piece of judging quality.  Without using as many variables as possible, the analytics will not present a true picture of the complex workings of the organization as a whole.
+READ MORE: Using Business Intelligence to Fine-Tune Operating Room Utilization
+Process measures vs. outcome measures
+Sorting that data into discrete measures is the second task.  From the EHR Incentive Programs to ACO participation to the National Quality Strategy overseen by AHRQ, metrics are broken down into individual actions taken by clinical staff to produce results.
+These measures have two parts: process and outcomes.  The administration of aspirin to 100% of heart attack patients is a process goal, but the outcome goal is having 100% of those patients survive for 30 days.  While process measures are very useful for identifying aspects of the clinical workflow that need improvement, most patients are more concerned about the outcomes when choosing a facility where they will be receiving treatment.  Both types of measures are essential for true benchmarking.
+False parameters produce false results
+Just like it’s tempting to compare one’s own physique to a movie star’s, some hospitals try to measure up to neighboring organizations that operate in a different world.  A critical access hospital will never have the same statistics as a large academic medical center, and even two organizations nearly matched in size or patient population may have wildly differing outcomes and incomes.
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+“Don’t go overboard trying to find exact matches when comparing your hospital to other hospitals,” advises Kathy Chase, PharmD, Director of Drug Cost Control Services for Cardinal Health’s Innovative Delivery Solutions. “Adjust data instead. Trying to find hospitals that are precise matches in size, geography, services, teaching affiliation and so on will rob you of valuable data.”
+Additionally, Chase notes that using charge data instead of actual acquisition costs can produce a skewed financial picture that has little relation to the everyday workings of the hospital.
+Engaging clinical staff for change management
+Once an organization has identified opportunities for improvement by analyzing its data, it’s time to put those numbers into action.  Physicians don’t always want to hear that they are not working to the highest degree of effectiveness, but encouraging staff members to make changes in order to plug the gaps in care or financial utilization is key to making lasting upgrades.
+“Very often we find that [physicians] are delivering the care but the documentation of that care is a little light in some of the areas,” says Cathy Gorman-Klug RN, MSN and director of quality service lines at Nuance.  “By evaluating their processes, we’re able to help them address these issues up-front with the physician; issues that map back to quality measure reporting, and impact patient care and overall financial stability.”
+READ MORE: Revenue Cycle Analytics Enable Value-Based Care for Pediatrics Group
+“Healthcare organizations are really looking at physician documentation, related performance, readmissions, how long their patients stay in the facility, if one physician’s cost for their patients is higher than their peers – they’re really monitoring that very closely now,” she added.
+Playing by the PR rules
+“As we move to pay-for-performance, value-based purchasing initiatives have really upped the ante by looking at not only the quality of care delivered, but the patient perception of the quality of that care,” says Gorman-Klug.  “As this transition rolls out further, the importance of patient perception will increase.”
+But the Joint Commission, for example, governs the methods hospitals can use to boast about their statistics.  Hospitals must qualify their statistics by giving the appropriate references, such as stating that performance on a particular measure was “above 90 percent but was below most other organizations.”  A hospital may not publicize performance on a single measure without stating its results for the entire measure set in order to avoid patient misinterpretations.
+Hospitals may accrue more trouble than it’s worth by tinkering with their data. Since quality measures are increasingly becoming public, and patients are doing more research into hospital scorecards and rankings before picking a facility for treatment, the importance of accurate and complete quality benchmarking cannot be underestimated.
+  Tagged Clinical AnalyticsFinancial AnalyticsHealthcare Business IntelligenceHospital QualityPatient CareQuality Of Care
+
+

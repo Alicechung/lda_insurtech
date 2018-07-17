@@ -1,0 +1,37 @@
+Can Fintech mitigate our Hyperbolic Discounting Biases?
+
+June 21, 2017
+
+Fintech is the use of technology driven innovation in the financial services sector to optimise resources to compete with the traditional financial institutions and intermediaries by delivering enhanced services to the customers. 
+
+ A recent study by Accenture[1] reports that investment in Fintech companies grew by 201% globally in 2014, compared to 63% growth in overall venture-capital investments.The overreaching proclivity of the financial industry to disrupt their conventional business model and digitally reimagine themselves, stems from the fact that they want to access the market with faster, better and more reliant services, where customers’ choice of investment is not affected by time-delayed biases. Understanding that humans do not always undertake rational choices, a time-cycle compression of transaction and payment with a lower cost of transaction would appear more desirable for the customers.
+
+ The digitalisation, i.e. faster services, lower transactional cost and non-standardised funding of the financial process is the mainstay of the Fintech companies. Recently, ABN AMRO, global specialist insurer HISCOX, digital first-retail bank of Russia TOUCHBANK are a number of examples who use a digital platform called Backbase[2]. Backbaase states that it helps to modernise and orchestrate all the customer touch points, transforming multiple siloed banking channels and legacy applications into a consistent brand experience that is easy to use and always available[3].
+
+ Having a readily available platform accessible from anywhere for the financial transaction increases the end-to-end real-time customer experience and enhances the core strategic capabilities of the financial system. Since application of Fintech implicitly contributes to the incentive-compatible human choices for financial investment and transactions, it is apparent that Fintech could play an extensive role in humans’ decision making process.
+
+ In particular, Fintech can make customers more responsive by influencing their choice of counterintuitive “now” as opposed to “later” or delayed decision.Hyperbolic discounting is a predominant human tendency exhibiting time-inconsistent choices, where humans’ present day decision disregards the future bearing despite using the same reasoning. Contrary to rational behaviour; while given two similar choices, we as humans tend to prefer the one that arrives sooner than the one that arrives later just by discounting the anticipated return the future might hold.
+
+ Our Present-biases and FintechOur rational choices are mainly modelled on a time consistent process traditionally known as exponential discount process, whereas, hyperbolic discounting choice is contrary to the notion of time consistency. In other words, delayed consequences are not necessarily rewarding, hence a dollar today may appear more lucrative than receiving 2 dollars tomorrow.
+
+ Individuals have such preferences which we, most commonly see in our everyday life, pleasantly make us “present-biases” people. Although, exponential discounting theory is largely used in economics, but often fails to explain our immediate behavioural choices. Both the phenomena have been mathematically represented and systematically applied to several financial, social and personal contexts. The term hyperbolic suggests that the rate of discounting decreases as the delay of receiving the reward occurs in future. Therefore, the amount of future return becomes a generalised function of lag in the time-length and period.One of the classic examples of immediate reward vs time-delayed return is holding a larger credit card debt at a high interest rate and retirement fund with a lower growing interest rate.
+
+ Given the situation when a person is able to have easy and unrestricted access to his/her pension fund via Fintech interface, the time-inconsistent choice of holding the pension fund in a lower interest yielding investment consequentially disappears, since he/she has choice of using the fund without time-varying fashion. Another relatively new Fintech innovation that favours our immediate choice of transaction is Currency Cloud[4]. Currency Cloud provides a current account that can be viewed in seven foreign currencies and offers exchange transactions.
+
+ Currently, several Fintech companies are building open concept architectures to facilitate faster and time-convenient interfaces. For example, Germany’s Fidor Bank has established FidorOS[5]. FidorOS works with the core banking platform to offer lending money to friends, sending money via Twitter and arranging an emergency 24-hour loan. The speed of transactions and immediate rewards are the central parameters of Fintech and hardwired to the financial innovations. Therefore, beyond legacy technology, Fintech is most likely franchise to mitigate our hyperbolic discounting biases.
+
+ References:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Dr Rama Kanungo, Newcastle University London
+
+

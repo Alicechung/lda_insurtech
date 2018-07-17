@@ -1,0 +1,23 @@
+Technology to change the way you register online
+
+July 10, 2017
+
+The chief technical officer of Exscudo Alex Sitnikov has come up with an original way of protecting users’ confidential data in the Internet.
+
+ Alex Sitnikov has a vast experience in IT: he worked as a system architect for IBM, he also designed IT-infrastructure for major US and russian exchanges. Being engaged in Exscudo project as a CTO, Alex has implemented the best practices of IT security in the authentication process used in various projects of the company.
+
+ According to the expert, existing means of authentication are either not secure enough or they are just too complicated for a user. The majority of online financial services use email or SMS confirmation. However, the IT specialist states, every email can easily be compromised and mobile SMS channels are not encrypted at all. This significant drawback of a traditional auth scheme, as well as necessary password change from time to time makes it unattractive option for everyday use.
+
+ “Existing schemes based on login and password which include two-factor authentication, are vulnerable and not reliable enough for financial systems. In this context it is proposed to consider an alternative scheme based on a PKI (Private Key Infrastructure). Which at the moment, is not currently widely deployed in the Web environment”, concludes the IT-specialist.
+
+ In other words, instead of using a pair of a login/password with an sms or email confirmation, Sitnikov suggests that a device connects to the web service with the help of a public/private key pairs. Such a scheme is not only much more secure as the said keys are encrypted, but it is also much more secure than the traditional means of authentication.
+
+ The PKI implementation changes the way how users access any of their online services: they have no need for login/password memorization (and that is the most common issue for all kinds of users), and no need to worry about lost email or even a mobile phone as there are no sensitive data saved in there in an open form. The PKI lets user restore his or her access to the service even if he has lost all the digital data – he would still have a paper with a printed QR-code, which will be issued upon the registration procedure.
+
+ The author of the scheme has successfully implemented it in the exscudo.com, making its services more secure and user-friendly.
+
+ “As a developer I wanted to minimize the factor of a human mistake or any careless attitude to the personal data. Working for Exscudo I saw a way of making it possible and also a motivation to do that. We are creating a number of online financial services which will be accessible within one single account. It means that it should be as secure as possible”, explains Alex Sitnikov, the CTO of Exscudo.
+
+ Exscudo is the nextgen financial ecosystem that unites the traditional financial system and the cryptocurrency market. The main goal of the project is to create a single gate to cryptocurrency market for everyday users, professional traders, investors and financial institutions. Exscudo’s ecosystem consists of a Stock exchange, a b2b cryptocurrency merchant, mobile wallets, trading terminals, bank cards and a protected messenger. The developers team consists of professionals who have many years of experience in the development of financial products and services. More information about the team can be found on Exscudo official website.
+
+

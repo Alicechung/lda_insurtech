@@ -1,0 +1,28 @@
+EHR Big Data Analytics Flag “Frequent Flier” Medicaid ED Visits
+
+February 03, 2016
+
+By Jennifer Bresnick
+February 03, 2016 - Medicaid patients with a history of multiple emergency department visits within a 72-hour period are three times more likely than other patients to return to the emergency department yet again, according to a new study published this month in the journal Big Data. 
+Using EHR big data analytics, a research team from Rensselaer Polytechnic Institute (RPI) found that nearly half of ED users on Medicaid qualify as “frequent fliers,” which may present significant opportunities for designing improved care interventions to prevent unnecessary over-utilization of expensive resources.
+The researchers analyzed EHR data from more than 1.1 million patients visiting Albany Medical Center from March of 2011 to March of 2013. 
+By linking emergency department records with data on inpatient and outpatient visits, the team established patterns related to single episodes of care, which allowed them to monitor a patient’s movement through the healthcare system. 
+The study paid special attention to repeat visits to the emergency department within a 72-hour period among Medicaid beneficiaries, and which demographic and clinical features were most likely to predict a quick ED turnaround.
+READ MORE: Project to Develop EHR Toolkit to Stem Readmissions
+The EHR data revealed that 5.46 percent of the 50,127 Medicaid ED visits qualified as 72-hour revisits, compared to just 4.51 percent of visits among the general patient population.
+“Our choices of modeling paradigms within this context were motivated by the need to obtain insight into which types of ED encounters lead to increased revisits and why,” the study explains. “Since the data provided contained thousands of potential features, any model constructed necessarily must be able to identify the most important features contributing to the revisit phenomenon.”
+Patients among the Medicaid population who returned to the ED within three days were most likely between 21 and 60 years old, and were highly likely to have left the ED previously against medical advice or before their care was completed.  Those discharged from the ED to psychiatric hospitals or skilled nursing facilities saw increased return rates compared to those discharged home.
+The most common ICD-9 diagnosis codes related to these patients were for alcohol or substance abuse issues, mental health disorders such as schizophrenia, skin or tissue infections, and HIV-related problems.  The patients were likely to be living with multiple chronic diseases, including diabetes and chronic obstructive pulmonary disease (COPD), but specific illnesses were less likely to be an indicator of ED usage patterns than socioeconomic and behavioral determinates.
+“Frequent flyers are more determined by prior factors, including alcoholism, living in higher revisit rate zip codes close to the hospital, and hospital utilization, than they are by a particular hospital diagnosis,” the study added.
+READ MORE: Predictive Big Data Analytics Identify High-Risk ED Patients
+The study also found 72-hour repeat ED visits most often take place on the weekends and late at night, outside of typical primary care or urgent care office hours, although patients who specifically qualified as previous “frequent fliers” were more likely to arrive on Wednesdays.
+The researchers did not investigate the reasons why patients may have chosen the ED over other care options, but the timing of their visits may either indicate that the choice was appropriate under the circumstances – or that the patients could benefit from additional education about how to self-evaluate the severity of their conditions and the immediacy of their need to seek treatment.
+The results may also suggest that clinicians and workflow patterns play a role in the likelihood of a return visit.  Patients who arrived in the emergency department during typical day shift working hours from 8:00 AM to 4:00 PM had slightly lower odds of returning to the hospital quickly. 
+Patients discharged during the week were also less likely to land back in the ED than those seeking care on the weekends.  The study did not examine why patients may have left the ED against medical advice or before their care was completed, but the researchers do not discount the possibility of overcrowding or painfully long wait times, which may have led frustrated patients into leaving too soon. 
+In order to prevent these problems from occurring, providers may wish to reevaluate their staffing schedules and resource utilization to ensure that patients receive the highest standards of care no matter when they arrive. 
+READ MORE: Web-Based Health Risk Assessments Accurately Flag Depression
+The study concludes by suggesting that EHR big data analytics of ED visits could be improved by adding variables such as planned versus unplanned revisits, the rate and impact of gender-specific diagnoses, and more detailed definitions of what constitutes a “frequent flier” patient.
+“This study is limited to one hospital and significant inter-hospital variation exists,” the authors acknowledge.  “Further work in the ED revisits should consider the differences in behavior, utilization, and affliction among these groups while exploring how different definitions of readmission events alter the analytic space and the potency of constructed models.  
+Tagged Big Data AnalyticsEHR AnalyticsPopulation Health ManagementPredictive Analytics
+
+

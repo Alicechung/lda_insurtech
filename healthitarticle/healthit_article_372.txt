@@ -1,0 +1,32 @@
+EHR Natural Language Processing Flags Social Determinant Search Terms
+
+August 25, 2017
+
+By Jennifer Bresnick
+August 25, 2017 - Applying natural language processing (NLP) techniques to the electronic health record can help providers identify key terms associated with the social determinants of health, says a new study out of Massachusetts General Hospital.
+Using QPID, an ontology-driven word recognition software developed at MGH, to scan EHRs researchers were able to compile a list of 22 search terms that could highlight high-risk Medicaid patients in need of enhanced care coordination with an accountable care environment.
+“For many patients enrolled in Medicaid ACOs, managing risk and improving outcome markers will require understanding factors other than traditional medical complexity,” said the researchers, whose work was published in JMIR Medical Informatics.
+“Patients enrolled in Medicaid can often have a variety of upstream social factors that can influence their health, such as housing and employment instability and food insecurity, collectively known as social determinants of health, as well as mental health conditions and substance abuse.”
+Psychosocial challenges can make it more difficult for patients to adhere to recommended treatment protocols and may make it more likely that these patients will require higher levels of care and incur more expenses throughout their lifetimes.
+READ MORE: What is the Role of Natural Language Processing in Healthcare?
+“Accordingly, there may be value in developing an EHR-based data mining tool for identifying patients with increased psychosocial complexity,” the team theorized. “Once identified, such patients could be enrolled in a care coordination program that manages complex patients and focuses on decreasing health care utilization and containing health care costs.”
+Data detailing the medical complexity of patients is often much more readily available than information about their social determinants of health. 
+Even when socioeconomic information is collected within the electronic health record, it is usually in an unstructured format, hidden within free-text clinical notes or under the surface of zip codes, payment patterns, or missed appointment records.
+Natural language processing tools can help to extract meaningful socioeconomic data and predict psychosocial risk, the study says.  QPID harnesses machine learning techniques to cluster similar terms under concept-based headings, allowing the team to examine both the structured and unstructured data of 132 adult patients. 
+Twenty-two terms provided enough specificity to reliably identify patients at higher-than-average risk of psychological, social, and behavioral impacts on their health. 
+READ MORE: Using Risk Scores, Stratification for Population Health Management
+The terms are: anxiety, depressed, sad, angry, neuro-vegetative, schizoaffective, substance, abuse, addict, AA, sober, cocaine, heroin, crack, mushrooms, prison, jail, homeless, shelter, stamps, stolen, and tox.
+Sixty of the patients were enrolled in Medicaid and were already participating in a care coordination program, while a second group of 72 patients were not Medicaid beneficiaries.  Among the Medicaid patients, a mean of 14.1 of these terms appeared in the EHR.  For non-Medicaid patients, the mean dropped to just 6 terms.
+“Our novel approach offers the ability to use a patient’s EHR as a way to identify important psychosocial risk factors potentially driving or contributing to health care utilization and costs, and medical outcomes, among patients enrolled in Medicaid,” the team stated.
+“Moreover, by running our model on patients followed in a care coordination program that manages patients with known medical and psychosocial complexity, we were able to use the algorithm to disentangle medical and psychosocial risk and identify those patients with active psychosocial complexity.”
+By doing so, the study reinforces the importance of integrating the social determinants of health into the process of clinical care, especially in a value-based reimbursement setting where providers accept financial risk for long-term outcomes.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+The study does have certain limitations, however.  The project was retrospective, focused on confirming that the electronic records of patients with known psychosocial risks do actually reflect these challenges. 
+It also did not take the next step of matching these high-risk patients against utilization data, which may shed more light on whether the presence of socioeconomic challenge terms in the EHR is actually correlated with higher spending and poor outcomes.
+“Large categories of health care utilization data, including mental health data, are not available due to HIPAA requirements, making a valid cost analysis of psychosocial risk difficult to perform,” the researchers point out.
+In addition, the team used EHR search terms “as proxies for identifying clinical concepts, an approach that leverages the power of natural language processing software to search unformatted text for data retrieval,” the researchers explain. “Nevertheless, terms and concepts are not necessarily the same, and a clinical concept may be present even when search terms are not.”
+Despite its relatively narrow scope, the initiative does support the idea that natural language processing and machine learning are valuable tools for population health management and big data analytics in the healthcare space, the study concludes.
+“This study provides an important step forward for population health management by outlining a new method for identifying the important role that social determinants and mental health play in health outcomes, and offers a promising new approach to stratifying this risk burden on a population level.”
+Tagged Artificial Intelligence in HealthcareCare CoordinationChronic Disease ManagementClinical AnalyticsEHR AnalyticsMachine LearningNatural Language ProcessingPopulation Health Management
+
+

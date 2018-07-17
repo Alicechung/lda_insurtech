@@ -1,0 +1,36 @@
+EHRs, Clinical Decision Support Top 2017 Patient Safety Hazard List
+
+March 15, 2017
+
+By Jennifer Bresnick
+March 15, 2017 - Information management errors in electronic health records, incorrect use of clinical decision support, and poor prescribing habits are among the most dangerous health IT hazards for 2017, according to ECRI Institute’s annual patient safety list.
+The repeat offenders are joined by a number of workflow and process shortfalls that can leave hospitalized patients without sufficient monitoring, lead to costly and deadly hospital-acquired infections, and open up serious behavioral health risks.
+After being briefly displaced by the failure to properly clean endoscope equipment, electronic health record governance and information management errors are once again the number one concern for healthcare providers.
+Organizations may not be appropriately integrating the expertise of health information management professionals when designing workflows and conducting data governance training, the report suggests, leaving users ill equipped to understand and leverage the features of their EHRs.
+EHR use deficiencies may also contribute to the second and third entries on the list, which are unrecognized patient deterioration and inadequate use of clinical decision support (CDS). 
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Providers may not be collecting the data required to feed early warning systems for sepsis, post-surgical complications, or other acute conditions, leaving patients vulnerable to life-threatening preventable conditions.
+“Suboptimal” use of clinical decision support tools could lead to similar missed opportunities to prevent negative patient safety events.  “Patient harm—as well as disruption of clinical workflows and provider frustration—could result,” the report warns.
+“A multidisciplinary team should have oversight [of CDS development],” the brief continues. “End users must be trained in the proper use of CDS, as well as their roles and responsibilities, and have access to support structures. On an ongoing basis, organizations should monitor the effectiveness and appropriateness of CDS alerts, evaluate the impact on workflow, and review staff response to alerts. The tool should be redesigned as necessary.”
+Clinicians should also receive regular training and review of the process of following up on test results and reporting, ECRI says.  Closing the feedback loop and consulting with relevant colleagues are essential for ensuring that providers are equipped with all relevant data for clinical decision-making.
+“Sometimes as clinicians we become very task oriented—labs ordered, blood drawn and sent; imaging ordered, x-ray completed—and we lose sight of the big picture,” says Kelly C. Graham, RN, patient safety analyst and consultant, ECRI Institute. “Critical thinking and teamwork get lost when you’re focusing just on your assigned task.”
+READ MORE: Patient Safety, Engagement Relies on Crafting a Culture of Change
+In conjunction with better communication around testing, providers should also discuss how to retool their strategies for antimicrobial stewardship.  Overprescribing of antibiotics is a serious concern in the era of highly resistant superbugs, and many organizations are guilty of unintentionally contributing to this significant patient safety concern.
+Sixth on the list is patient identification, a perennial problem for organizations that lack standardized processes for identifying patients in their data systems and during the care process. 
+In a 2016 study, ECRI found that about nine percent of patient ID errors resulted in patient harm.  Two of the patients died from wrong-person errors.
+“The report brought national attention to an issue that most healthcare providers recognize as a significant problem,” says William M. Marella, MBA, MMI, executive director, PSO operations and analytics, ECRI Institute.
+Communication gaps, higher patient volumes, poor data governance, and a lack of interoperability all contribute to patient ID errors.
+READ MORE: How Patient Safety Organizations Encourage Data Collection, Quality Care
+“Although many healthcare workers doubt they will actually make a mistake in identifying their patients, ECRI Institute PSO and our partner PSOs have collected thousands of reports that show this isn’t the case,” Marella said at the time. “We’ve seen that anyone on the patient’s healthcare team can make an identification error, including physicians, nurses, lab technicians, pharmacists, and transporters.”
+Healthcare executives should support patient ID training programs and encourage clinicians to report upon workflow barriers that may prevent the deployment of meaningful identification procedures.
+“Redundant processes for patient identification can increase the likelihood of preventing patient mix-ups,” the 2017 patient safety list suggests.
+“Elements such as electronic displays and patient identification bands may be standardized. When used as intended, bar-code systems and other technologies can also support safe patient identification.”
+Creating a strong sense of accountability supported by blame-free feedback and reporting opportunities is essential for ensuring that patients leave the hospital in better shape than when they arrived. 
+While “inadequate organization systems or processed to improve safety and quality” is listed last in the brief, the idea of developing a culture of patient safety actually underpins every other item in the report.
+Organizations should be proactive when examining processes instead of waiting to reevaluate a strategy until after a patient has experienced harm.
+“Leaders should support a ‘just culture’ that emphasizes learning rather than blaming,” ECRI says. “Individual accountability must be balanced with organizational responsibility to design and improve systems to ensure safe care. Finally, all organizations should have an actionable quality and patient safety plan with high-level approval.”
+By integrating patient safety into every aspect of the care process, including health IT development and deployment, organizations will be able to avoid many of the unintentional errors that crop up every year in such industry reports.
+Healthcare organizations should continually reevaluate their strategies to ensure that providers are communicating effectively, health IT systems are providing accurate, timely, and meaningful data, and that clinicians are aware of how to use these tools effectively to provide the highest possible quality care to their patients.
+Tagged Clinical Decision SupportEHR UseHealthcare Data GovernanceHealthcare QualityHospital QualityPatient Safety
+
+

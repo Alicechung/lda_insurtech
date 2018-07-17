@@ -1,0 +1,80 @@
+Machine Learning Can Quiet “Building Crescendo” of EHR Dissatisfaction
+
+May 02, 2018
+
+By Jennifer Bresnick
+May 02, 2018 - The notion that electronic health records are difficult to work with and cumbersome to use has become a worryingly common theme across the healthcare industry. 
+Providers working in organizations of all sizes, settings, and specialties have experienced, or know someone who has experienced, some sort of issue, glitch or hiccup with their EHRs – and these problems can sometimes drastically impact patient care.
+It’s easy to assume that frustration has always been and will always be the default emotion tied to EHR use.
+But the past six or seven years have brought a multitude of changes to the EHR ecosystem, including some major shifts in perspective from the health IT vendors responsible for delivering results to an anxious provider community.
+And the near future is slated to bring even more improvements, such as functionalities that leverage machine learning to aid in population health management, user productivity, precision medicine, and clinical decision support.
+READ MORE: EHR Users Want Their Time Back, and Artificial Intelligence Can Help
+The EHR dissatisfaction trope can and will be conquered, believes Allscripts CEO Paul Black, and skeptical users may be surprised at how quickly and comprehensively these positive changes will propagate across the care continuum.
+Paul Black, CEO of Allscripts
+Source: Allscripts
+“We now have a platform that is virtually all digital, and it is generating all sorts of valuable information for us that can be analyzed and leveraged in multiple ways,” said Black to HealthITAnalytics.com. 
+“Unfortunately, we know that much of that data is being created across multiple venues in many different formats, which creates a lot of challenges that have become very familiar to the industry in recent years.”
+Allscripts has taken a leadership role in the fight against these data siloes, collaborating with a handful of other vendors in 2013 to become a founding member of the CommonWell Alliance. 
+The industry group, now with dozens of members, was formed to prioritize interoperability at a time when EHR vendors were still competing to scoop up customers as providers sought to invest their EHR Incentive Program funds.  
+READ MORE: Top 12 Ways Artificial Intelligence Will Impact Healthcare
+In the immediate aftermath of the EHR implementation gold rush, some industry observers criticized the vendor community for focusing more on gobbling up market share than delivering products that truly met the needs of clinical users and their patients.
+Terms like “backlash,” “burnout,” “dissatisfaction” and “usability woes” almost inevitably followed mentions of the electronic health record in debates about the industry’s digital transformation, and survey after survey showed that physicians felt that clinical care was suffering when poorly designed and implemented EHRs were added to the mix.
+“There has absolutely been a lot of discussion and dialogue around the burdens, fatigue, and burnout in relation to how providers, and specifically physicians, are interacting with electronic medical records,” Black acknowledged.
+“There has been a building crescendo of nudging from our clients to say that these systems don’t seem to be as easy to use as they should be.  There’s growing frustration, and there are some providers who feel like they’re working for the machine, not that the machine is working for them.”
+Low usability scores are simply not acceptable anymore for healthcare organizations that are eager to stop spending endless hours optimizing their EHRs and start leveraging their health IT tools to succeed with population health management, value-based care, and personalized medicine.
+READ MORE: Top 10 Challenges of Big Data Analytics in Healthcare
+“As suppliers, we have to address the needs of our clients, and we can do that by making our products more intuitive and more like the tools that people are used to using in their daily lives,” said Black. 
+“Across the board, I’m doing a lot more swiping than typing these days.  I’m using voice recognition, and I expect a certain level of personalization from my devices.  Those things shouldn’t be absent from the EHR.”
+MACHINE LEARNING AS A PATHWAY TO EHR USABILITY
+A perennially brisk trade in replacement EHR systems, as well as a 2019 deadline for providers to adopt 2015 Edition Certified EHR Technology (CEHRT) has catalyzed vendors to enhance the usability of their products before their customers decide to try their luck with a competing platform.
+More and more technology providers are touting upgrades to their user interfaces.  Some are even rebuilding their offerings from the ground up, adopting modern data standards and cloud-based platforms that aim to increase productivity and reduce reliance on the keyboard during patient visits.
+Machine learning, also commonly known as artificial intelligence, is playing a major part in these efforts.
+The vast majority of major EHR vendors are integrating machine learning into their core offerings, allowing third-party partners to develop apps and add-ons that rely on AI strategies to power innovative capabilities, or taking both approaches to nurture their technical ecosystems.
+Allscripts is firmly on board with this trend, and used the annual HIMSS Conference and Exhibition in March of 2018 to announce its newest EHR product, which a company press release calls “mobile-first and cloud-based.”
+The new platform is called Avenel, named after Virginia Avenel Henderson, known as the “First Lady of Nursing” for her pioneering work in nursing theory, research, and practice.
+Machine learning will enable one of its key features: the ability to adapt to an individual user’s preferences, Black said.
+“An EHR system should learn what things are important to that user and how they like to complete their common workflows,” he said.
+“It will recognize patterns and eventually offer suggestions for orders, for finishing an encounter, or for certain treatment plans.  The clinician will be able to say yes or no, of course. But the idea is to create a system that is much more intuitive and adaptive to practice patterns while reducing the hunting and pecking and pop-ups that users find problematic.”
+Even just a little more productivity at the bedside or in the consult room can have a ripple effect on provider satisfaction with their profession, Black added.
+“Physicians want their day to end at the end of the day,” he stated.  “They don’t want to be spending two or three extra hours every evening catching up with documentation.  And they don’t want to be staring at their screens instead of interacting with their patients.”
+“If we can make sure that a provider can see the patient’s whole record, then we can enable better clinical decisions without the need to log in, log out, go here to the HIE, come back to that other screen – all of that is distracting. It’s easy for users to miss something or get so lost in the maze of menus that they lose that important facetime and connection with their patient.”
+FULFILLING THE PROMISE OF INTEROPERABILITY
+Gathering all of a patient’s important data in one place to create a seamless, intuitive, and comprehensive profile of their health comes back to the challenges of interoperability. 
+“If we think of interoperability as a baseball game, we’re probably in the eighth inning in terms of recognizing its importance,” he said.  “But from a technology standpoint, we’re only in the third or fourth inning, as an industry.” 
+CommonWell – and a number of other consortiums and initiatives that sprung up around the same time – have made significant progress in implementing standards-based data exchange across vendor lines. 
+In 2016, many of the founding members of CommonWell joined with other industry leaders, including Epic Systems, to pledge an end to information blocking for competitive purposes and a new commitment to expanding data access and embracing technical standards.
+The pledge marked a turning point among vendors, who largely agreed that interoperability had to be a baseline requirement for continued success.
+Since then, federal lawmakers and rulemaking agencies have reinforced the promise by passing legislation and using financial and regulatory levers to promote harmonious technical relationships across the care continuum.
+Data exchange standards like the Fast Healthcare Interoperability Resources (FHIR), and a growing reliance on application programming interfaces (APIs) to move data back and forth are making it easier for vendors and their customers to see what’s outside of their walled gardens.
+Yet Black believes that more work needs to be done before the industry fulfils the true promises of interoperability.
+“If I’m a cardiologist, I might see a patient every six months for routine check-ups,” said Black.  “Of course I’m going to want all of that patient’s data available to me, but I might not need to see every single thing that has ever happened to that patient on the main screen – I’m probably most interested in what has changed since the last time I saw her.” 
+“I might want to see data that is most relevant to the condition I’m treating, or data that might indicate a new risk or an action I need to take.  That will require data from many different sources to work together to present a meaningful, timely, and really actionable view of that individual.  That’s the goal of interoperability.”
+USING THE EHR TO VAULT OVER BARRIERS TO CARE
+As value-based care and risk-based population health management extend the healthcare relationship beyond the walls of the clinic, interoperability will need to encompass more than just the data produced by the hospital, specialist, and primary care provider.
+“Behavioral health, long-term care, and home health are important pieces of the fabric of care,” said Black.  “There is a lot of valuable data there about how patients are faring outside of the primary care or acute care spaces, and that information needs to be integrated into overall treatment plans.”
+“In addition to that, the social determinants of health are absolutely crucial to consider when treating patients.  It’s difficult to create a complete treatment plan if you’re not taking into consideration that patient’s ability to adhere to medications – or the patient's ability to even afford care to begin with.”
+Collecting and leveraging data on the social determinants of health is an emerging competency for most providers. 
+And even when that data is available within the workflow, organizations then have to solve the challenge of how to match individuals with the services they need.
+Electronic health records can help smooth out that process, Black asserted.  In order to do so, they must start looking outside of the traditional parameters of the healthcare industry for solutions to common barriers to care access, such as transportation to appointments.
+“Lack of transportation is a major barrier for patients, and it also has revenue implications for providers,” he explained.  “That is why we recently announced a partnership with Lyft to provide a solution for patients who might not have another way to access care.”
+“We think it’s better for the healthcare system – and certainly for the patient – if they take a ride with Lyft to their primary care provider rather than taking an ambulance to the emergency room when they have an acute situation that might have been preventable.”
+Lyft and Uber, its main competitor, are quickly making inroads into the healthcare industry through a variety of partnerships with patient advocacy groups, non-emergency transportation services, and payers.
+Uber has even launched its own dedicated health division, which lets healthcare organizations hail rides for patients and caregivers.
+But Allscripts is, as of time of publication, the only EHR company that offers direct integration with Lyft within its interface.
+“Our clients are excited about being the ones to connect the patient to that ride sharing service,” Black said.  “It allows them to be more certain that the patient really will show up that day, because you know that person has access to a ride that’s coming right to their door to pick them up.”
+“You can also see that maybe they won’t be there in time for their 10:15 appointment based on the time they were picked up, so perhaps you could reshuffle the schedule to fit them in at 11:00 and let a different patient get in and out more quickly.  If providers can keep their schedules full, it helps their bottom line.” 
+While current research is divided on whether or not ride-sharing services really reduce overall no-show rates at healthcare organizations, integrating the option in the EHR interface may offer a useful template for how to connect patients with other social and community services in the future.
+It also shows that electronic health records may be able to help providers accomplish much more than just the basics of documentation and billing if they are designed to do so.
+TURNING PATIENT DATA INTO PRECISION CARE
+Allscripts is banking on machine learning to help continue expanding what users can expect from their EHRs.
+“Getting better at prediction, getting better at precision, and doing so while improving the user experience are the three most important areas that we are going to focus on,” said Black. “Machine learning is going to play a big part in all of them.”
+“The people who figure out how to get to that next level of intuitive usability are going to be the most successful in the near future.” 
+Services must be more mobile and more consumer-friendly, he added.  Health IT vendors can look to external industries, such as retail and banking, to get ideas about how users want to interact with digital tools.
+“At this point, it’s about catching up to other sectors where you can do automatic check-in, schedule appointments in an app, pay your bills with a click or two – those types of capabilities will be important for all of us as we go forward.”
+Continued work on interoperability, big data analytics, and the user experience will also allow providers to deliver more targeted care supported by accurate, timely, and trustworthy treatment recommendations, he envisions.
+“The broader use of genetics to support diagnostics and treatment is going to continue to be so important,” he said.  “Marrying genetic information with the EHR, and adding all of the phenotypic data that’s available in the clinical record, has to become much easier and much more common.” 
+“As a patient, I want to start getting better as quickly as possible, so if my provider recommends a treatment that simply won’t work because of my genetics, that doesn’t help either of us.  I might have lost a week, a month, or a couple of months doing something ineffective – and there are some diseases where the consequences of that are very serious.”
+“I’m very excited about the opportunities that we now have to shorten those windows, close those gaps, and make sure that patients and providers are having the best experiences they possibly can.”
+Tagged AllscriptsEHR BacklashEHR InteroperabilityEHR satisfactionEHR VendorsInteroperabilityInterviewsPopulation Health ManagementPrecision MedicineSocial determinants of health
+
+

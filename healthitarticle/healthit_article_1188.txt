@@ -1,0 +1,28 @@
+Twitter, EHR Big Data Help Track Flu with Predictive Analytics
+
+October 30, 2015
+
+By Jennifer Bresnick
+October 30, 2015 - Tweeting about the sniffles has never been so interesting – at least to computational epidemiologists at Boston’s Children Hospital, who are using non-traditional data sources like social media and internet searches in conjunction with EHR information to predict influenza trends in real time. 
+The big data project, which incorporates predictive analytics techniques to forecast flu trends with a high degree of accuracy, demonstrates the viability of “ensemble modeling,” or conducting analytics using disparate sources of information.
+"We've focused for many years on using individual data sources for tracking a range of diseases," said John Brownstein, PhD, Boston Children's chief innovation officer and co-founder of the disease tracking site HealthMap and senior author of a study published in PLoS Computational Biology that recounts the team’s efforts.
+"This represents the next logical step: combining data in a new way where the whole is more valuable than the sum of its parts.”
+While the flu is little more than a nuisance for many generally healthy people, it can strike some children, elderly, and immunocompromised people with deadly force.  A 2004 study by the Centers for Disease Control (CDC) found that more than 200,000 patients are hospitalized with seasonal flu each year, and thousands die from conditions associated with the virus.
+READ MORE: Artificial Intelligence a “Low Priority” for Healthcare Orgs in 2018
+The CDC has taken an aggressive role in monitoring and reporting on flu activity, although their efforts are hampered by a lack of national reporting requirements and the time it takes to process results. 
+Most CDC flu data is between one and two weeks out of date.  This may not seem like much, but real-time data would better help hospitals and physician providers prepare for an influx of flu patients or allocate their resources more appropriately.
+Brownstein hopes to take cues from another forecasting industry to provide more responsive reporting for providers.  "Weather forecasting is an established discipline and has become engrained in society," he said. "We think the time is ripe for the same to happen with disease forecasting."
+The team, led by Brownstein and Mauricio Santillana, PhD, of Boston Children's Computational Health Informatics Program and the Harvard John A. Paulson School of Engineering and Applied Sciences, decided to incorporate four major sources of data that might combine to paint a rich, accurate portrait of emerging disease trends. 
+"There are many data sources and models that can be used to predict flu-like symptoms in the population," said Santillana. "But our question was, if we have many models each predicting flu activity, do we gain anything by combining them?"
+READ MORE: How Big Data Analytics Underpins Every Healthcare Trend
+"What have people in informatics, medicine and public health dreamed of for years? The ability to leverage all manner of data – historic, social, EHR, and so on – to create a learning health system," Brownstein added.
+Using search data from Google, messages on Twitter, near real-time EHR data from athenahealth, and crowd-sourced surveillance data from Flu Near You, a HealthMap site, the researchers used machine learning techniques to synthesize results that actually outperformed models created from each of the individual sources on its own.
+The combined model correlated almost perfectly with the CDC’s reports of annual flue activity for real time estimates, and reached a 90 percent correlation for a two-week horizon.
+The project adds to the body of evidence indicating that the prevalence of social media may actually be a good thing for healthcare providers.  Twitter data has played a starring role in separate analytics projects predicting events such as HIV outbreaks, adverse drug events, and spikes in emergency department visits for asthma.
+"People sometimes wonder if the information that we are getting from social media or EHRs is really valuable, and we could get away with building models based on historical data,” said Santillana. “But we found that the data sources we had access to provided us with information that was better than just looking at historical patterns."
+READ MORE: Population Health is Top Data Analytics Challenge for Providers, Payers
+"With this approach, we think we've taken a big step in that direction,” Brownstein agreed. “Our job now is to see if we can refine and expand upon it, and apply it in ways that can benefit as many people as possible."
+The team hopes to refine its capabilities to provide flu predictions on a local level, not just a national one, and develop a public-facing tool that will allow greater participation and use.  They also plan to use the lessons learned from the project to explore real-time forecasting of other diseases, such as dengue fever, and expand their geographic reach to other nations.
+Tagged Big Data AnalyticsClinical AnalyticsPopulation Health ManagementPredictive Analytics
+
+

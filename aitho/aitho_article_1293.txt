@@ -1,0 +1,18 @@
+FaceTec And W.UP Partner To Provide To MKB Bank The First Mobile Banking 3D Face Login In Central Europe
+
+05 Mar 2018
+
+FaceTec’s ZoOm® AI-driven authenticator sets a new global standard for mobile account access security and ease-of-use
+With the goal of providing strong mobile security without sacrificing user convenience, FaceTec, developer of ZoOm 3D Face Login has teamed with major European digital banking software integrator W.UP to bring the technology to Central Europe’s banks and revolutionize access security for their mobile banking customers.
+Implementing truly secure alternatives to pwned passwords and spoofable legacy biometrics (like fingerprint and 2D face) are critical to winning the cyber-security war. And the banking and FinTech clients who aren’t willing to compromise security or convenience in a mobile biometric are choosing FaceTec’s ZoOm 3D Face Login SDK to secure the mobile app attack surface. Hungary’s fourth largest bank, MKB Bank, is W.UP’s first integration project using ZoOm, and the first mobile banking app to offer its users face login in Central Europe.
+MKB Bank released its native mobile banking application (“MKB Mobilalkalmazás”) for both iOS and Android in 2016. The ZoOm 3D face login SDK has been integrated by W.UP in the latest edition of the mobile banking app, and released in late 2017. Using face authentication, MKB’s users can now login easier and faster – without a PIN code or password – all while being more secure. The mobile banking app is based on W.UP’s Mobile.UP developer framework, Mobile.UP, that offers a quick, flexible and easy-to-deploy solution for both iOS and Android.
+Bela Bodnar
+“Unlike pre-packaged mobile banking applications, Mobile.UP enables banks to implement new functions and features every few months. The implementation of face recognition is a fine example of that. After just after three months from the initial request from MKB Bank, they released an app update with the ZoOm face authentication feature that made mobile banking more secure and even more simple,” said Bela Bodnar, CEO of W.UP
+. Please see the MKB app demo video here, with additional links to more app, ZoOm and W.UP information.
+ZoOm can be quickly integrated into any iOS or Android app providing secure app access to banking, insurance, healthcare and other highly sensitive or confidential personal account data.
+Kevin Alan Tussy
+“The challenging requirements for mobile banking access require a secure and intuitive 3D Face login solution. With W.UP’s integration and support expertise, ZoOm 3D Face Login exceeded the tough implementation requirements and now provides significantly upgraded security to banking customers at the most critical point of user interaction, the login screen,” explained Kevin Alan Tussy, CEO of FaceTec.
+Developers can download a fully functional ZoOm demo app by searching for “ZoOm Login” on the Apple App Store or the Google Play Store. The ZoOm developer SDK is available free at zoomlogin.com with plugins for Xamarin, Appcelerator/Titanium, Phonegap, Cordova, Ionic and React Native.
+The ZoOm SDK is free to use in all educational and nonprofit apps globally, as well as apps for startups, developers and small businesses with less than 10 Million USD in annual revenue. For enterprise and government integration projects, please contact John Wojewidka at johnw(at)facetec.com.
+
+

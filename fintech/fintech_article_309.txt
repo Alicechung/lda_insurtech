@@ -1,0 +1,49 @@
+New Smart Digital Economy
+
+March 20, 2018
+
+Smart contracts, or smart algorithms, already play an important role in the new digital economy. As Gartner predicts, “by 2020, autonomous software agents outside of human control will participate in 5% of all economic transactions.” Smart algorithms aim to perform transactions without human help, and to drastically reduce the costs associated with contracting in general. This new economic model is called “economy of smart contracts” based on a decentralised philosophy
+
+ Kate Goldfinch, editor at The Fintech Times
+
+ What is a smart contract?
+
+ It is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible. Smart contracts were first proposed by Nick Szabo, who coined the term, in 1994.
+
+ The aim of smart contracts is to provide security that is superior to traditional contract law and to reduce other transaction costs associated with contracting. Various cryptocurrencies have implemented types of smart contracts.
+
+ Historical overview
+
+ The phrase “smart contracts” was coined by computer scientist Nick Szabo in 1996, and reworked over several years. Szabo’s first publication, “Smart Contracts: Building Blocks for Digital Free Markets” was published in Extropy #16 and then later reworked as “Formalizing and Securing Relationships on Public Networks.” These documents described how it would be possible to establish contract law and related business practices through the design of electronic commerce protocols, between strangers on the Internet.
+
+ In 1996 Szabo described smart contracts as follows: “New institutions, and new ways to formalize the relationships that make up these institutions, are now made possible by the digital revolution. I call these new contracts “smart”, because they are far more functional than their inanimate paper-based ancestors. No use of artificial intelligence is implied. A smart contract is a set of promises, specified in digital form, including protocols within which the parties perform on these promises.”
+
+ Szabo, inspired by researchers like David Chaum, also had a broader expectation that specification through clear logic, and verification or enforcement through cryptographic protocols and other digital security mechanisms, might constitute a sharp improvement over traditional contract law, even for some traditional kinds of contractual clauses (such as automobile security interests that provide for repossession) that could be brought under the dominion of computer protocols.
+
+ With the present implementations, based on blockchains, “smart contract” is mostly used specifically in the sense of general purpose computation that takes place on a blockchain or distributed ledger. In this interpretation, used for example by the Ethereum Foundation or IBM, a smart contract is not necessarily related to the classical concept of a contract, but can be any kind of computer program.
+
+ Contract theory and its influence on smart algorithms
+
+ In 2016 year The Nobel Memorial Prize in Economic Sciences went to professors Oliver Hart and Bengt Holmström, for their transformative work on contract theory. The laureates’ work has been fundamental to the understanding of contract design and regulating future actions. In turn, this has facilitated the development of blockchain-based smart contracts.
+
+ Thanks to Hart and Holmström, contract theory is now a rich subject of scientific research. Researchers better understand how contracts help to handle conflicts of interest so far. Nick Szabo first pioneered the smart contracts concept, and name. He understood Hart and Holmström’s contract theory and integrated it into his work. Specifically, Szabo’s paper “Formalizing and Securing Relationships on Public Networks” referred to Hart’s “incomplete contracting” approach when arguing that smart contracts reduce mental and computational transaction costs.
+
+ Szabo explained further, “Smart contracts utilize protocols and user interfaces to facilitate all steps of the contracting process. This gives us new ways to formalize and secure digital relationships which are far more functional than their inanimate paper-based ancestors.”
+
+ Artificial intelligence, robots, and billions of smart devices dominate the emerging Fourth Industrial Revolution. These smart devices are intercommunicating and performing transactions among themselves, without human intervention, in the Internet of Things.
+
+ Smart contracts, or smart algorithms, already play an important role in the new digital economy. As an example, it can help in buyers’ protection field. In this day and age where online commerce is playing an increasingly important role, one of the key topics of discussion is buyer protection. And smart contracts, based on blockchain technology, may play an important role in the not so distant future.
+
+ In most cases, smart contracts can provide the ultimate buyer protection, and do so in a transparent and speedy manner. Because computers can only operate on facts and logic, rather than outside influence or corruption such as the human element, there are nearly no delays in making a decision as to who is in the right. Additionally, smart contracts would drastically reduce the costs associated with contracting in general, which is an added bonus.
+
+ One more fact to prove the nearest future of the economy of smart contracts is Gartner’s prediction according which “by 2020, autonomous software agents outside of human control will participate in 5% of all economic transactions. Smart algorithms will begin to perform transactions without human’s help.”
+
+ Now, thanks to Professors Hart and Holmström’s pioneering work on contract theory, we have a robust framework for better designing and implementing blockchain-based smart contracts. These are becoming increasingly crucial to managing today’s ever-more complex business and human interactions.
+
+ And while implementing this kind of economy model is not easy, autonomous economies based on a decentralised principles, will gradually replace old-style approaches.
+
+  
+
+  
+
+

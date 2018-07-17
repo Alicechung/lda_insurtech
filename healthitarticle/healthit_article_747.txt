@@ -1,0 +1,46 @@
+ECRI: “Most If Not All” Patient Identification Errors Preventable
+
+September 28, 2016
+
+By Nathan Boroyan
+September 28, 2016 - The majority of patient identification errors, including wrong-patient errors, may be preventable with a few key changes to provider processes, according to a new report from the ECRI Institute’s Patient Safety Organization.
+An increase in patient volume, gaps in communication between multiple providers, and interoperability and data sharing capabilities among health IT systems may all be contributing to wrong-patient errors, the report found. Nine percent of identification errors that reach the patient lead to temporary harm, permanent harm, or even death.
+“Although many healthcare workers doubt they will actually make a mistake in identifying their patients, ECRI Institute PSO and our partner PSOs have collected thousand of reports that show this isn’t the case,” says ECRI Institute Executive Director of PSO Operations and Analytics William M. Marella, MBA, MMI. “We’ve seen that anyone on the patient’s healthcare team can make an identification error, including physicians, nurses, lab technicians, pharmacists, and transporters.”
+The ECRI reviewed more than 7,613 wrong-patient events reported between January 2013 and August 2015, submitted by 181 healthcare organizations. Sample wrong-patient events featured in the study took place in medical-surgical or surgical units, pharmacies, maternity wards, clinics, eye care facilities, and nursing homes.  Other errors involved confusion over dietary needs or diagnostic imaging procedures.
+Multiple factors contributed to the errors, the report states. Such factors range from using the wrong medical record while admitting a patient, to relying on impaired patients to confirm their identity.  
+READ MORE: Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+The report found that 72.3 percent of failures occurred during encounters with patients, and 12.6 took place during the intake process. A small number of errors happened post-patient encounters.
+Diagnostic procedures and treatment accounted for more than half of the reported failures. According to the report 2,824 (36.5%) failures involved diagnostic procedures, while another 1,710 (22.1%) involved treating the patient.
+A majority – 91.4 percent – of events that had the potential to harm patients were discovered before any harm occurred.
+However, two wrong-patient events did result in the deaths of two patients, and both were the result of documentation failures.
+“In one event, the wrong patient record was accessed, and in the other event, the wrong patient’s documentation was used to give another patient clearance for surgery,” the report states.
+READ MORE: CDC Focuses on Patient Safety with Expanded Sepsis Education
+Roughly 15 percent of wrong-patient events involved physically identifying the patient, while another 15 percent of events were linked to technological identification errors.
+The report also offers key recommendations for a number of areas, including leadership, patient engagement, policies and technology. Recommendations include:
+Organizations’ patient identification processes should be evaluated for any existing problems, and a standard protocol should be put in place to verify a patient’s identity.
+Organizations should ensure that any staff members involved in patient identification receive necessary training and understand the importance of adhering to established procedures.
+Patients should be able to view and access information about hospitalizations and physician visits through a secure patient portal.
+Measures should be taken to ensure that technology is being used safely and correctly to prevent patient mismatches..
+Organizations should have a clear way to evaluate, implement and monitor the use of new technologies that improve patient safety.
+Usability improvement strategies should be incorporated to minimize the risk of human error in health IT systems.
+Organizations should conduct audits from time to time as a way of monitoring compliance trends.
+Ongoing monitoring and evaluation may be key for reinforcing positive behaviors and preventing harm.  ECRI patient safety analyst and consultant Robert C. Giannini, NHA, CHTS-IM/CP previously noted that even after new technologies have been implemented, staff members tend to continue to operate as they did before the technology was introduced and often fail to adjust the health IT system or their workflows. This can compromise data collection or integrity and create gaps in patient information.
+“Patient identification must occur with every encounter and procedure,” the report states. “Staff cannot become lax and adopt unsafe habits by skipping patient identification. The leadership team must clearly communicate to staff that following patient identification practices is a top priority.”
+The ECRI report also included a list of “Dos” and “Don’ts” to ensure accurate patient identification. Providers should:
+Use multiple identifiers to confirm a patient’s identity
+Consistently applying organizational patient identification policies
+Educate patients about why patient identification is important at every intervention stage
+Actively engaging patients in the identification process
+READ MORE: Alarm Fatigue, Health IT Woes Top ECRI 2017 Patient Safety List
+Conversely, ECRI recommends that providers should never: :
+Identify patients using only a room number, bed location, or diagnosis.
+Ask “is your name…” to confirm the patient’s identity.
+Have patients with similar names share a room.
+Assume that a patient’s identity has already been confirmed by another member of the care team
+Allow staff to deviate from the organization's patient identification policy
+Some industry stakeholders believe that a national patient identifier could help ease health IT interoperability issues. An evolving technical landscape and the need to ensure data interoperability across the care continuum has many providers and advocacy groups rallying for a streamlined and standardized approach to accurate patient identification.
+Concerns over privacy and potentially unauthorized access to patients’ medical histories prompted Congress to ban federal funding to create a patient identification system has been in effect since 1999.
+However, language in a House Committee on Appropriations report suggests that Congress may be close to getting on board with a national patient identifier, which may reduce opportunities for providers to commit wrong-patient errors and other patient safety mistakes.
+Tagged Hospital QualityNational Patient IdentifierPatient SafetyQuality Of Care
+
+

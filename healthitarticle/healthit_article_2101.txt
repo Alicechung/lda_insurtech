@@ -1,0 +1,17 @@
+Researchers to study use of AI in clinical decision support
+
+January 23, 2014
+
+By Jennifer Bresnick
+January 23, 2014 - Researchers from Indiana University Bloomington’s School of Informatics and the Regenstrief Institute have been awarded nearly $700,000 to develop a method of using artificial intelligence as a tool in the burgeoning field of clinical decision support (CDS).  The grant from the National Science Foundation will allow the team to explore CDS as a way to supplement the work of physicians in the areas of cardiology, clinical depression, and emergency room readmissions.
+“Electronic health records contain a treasure trove of data, but they are simply too large for humans to process,” said lead investigator Kris Hauser, a professor of computer science. “But AI can detect patterns matching a patient’s disease progression and recommend up-to-date, cost-effective treatment plans to a human doctor. The goal of this project is to build a disease-agnostic prototype decision support system that integrates evidence-driven decision-making and the advice of human domain experts to provide well-informed recommendations.”
+The prototype program will provide a disease progression model by mining large-scale EHR data and inputting the result into a mathematical framework called a ‘partially observable Markov decision process.’  The process combines past data with potentialities to predict the outcome of a specific case based on probabilities.  Other algorithms based on the same principles have been shown to slash costs by 50% and improve outcomes by nearly as much, the researchers said.
+The tool will join a growing number of algorithms and prediction tools intended to help physicians make more accurate decisions about treatments and future care.  From the influence of genetics on breast cancer to the progression of diabetes, risk scores and predictive algorithms are becoming a common tool to aid physicians in making smarter decisions before the worst case scenario occurs.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+Cancer Moonshot Report Showcases Precision Medicine Progress
+“Patients, doctors, hospitals, insurers and policymakers coexist in a complex and often dysfunctional web of hidden information, costs and objectives, but they also face the problem of information overload,” Hauser added. “AI systems could digest relevant information and put it all on the table, ultimately making health care more transparent and cost-effective.”
+  Tagged Applied AnalyticsBig DataClinical AnalyticsClinical DataClinical IntelligenceEHR Patient DataMedical Research
+
+

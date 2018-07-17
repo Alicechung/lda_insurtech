@@ -1,0 +1,32 @@
+IBM Watson’s Cognitive Computing Rivals Human Oncologists
+
+June 02, 2017
+
+By Jennifer Bresnick
+June 02, 2017 - IBM Watson’s cognitive computing skills are getting even sharper as the supercomputer continues to develop its diagnostic and clinical decision support abilities. 
+At the ASCO 2017 conference this week, IBM announced that Watson has achieved new milestones in the oncology field, achieving high rates of concordance with human clinicians when asked to identify optimal treatments a number of different types of cancer.
+In a study conducted by a cancer center in India, Watson for Oncology agreed with human clinicians 96 percent of the time for the treatment of lung cancers, 81 percent of the time for colon cancer, and 93 percent of the time for rectal cancers.
+Researchers in Thailand found that the cognitive computing powerhouse achieved a concordance rate of 83 percent with recommendations from human oncologists across a range of cancer types, including breast, gastric, lung, and colorectal cancers.
+And in South Korea, Watson agreed with tumor board recommendations 73 percent of the time in cases of high-risk colon cancer patients.
+READ MORE: Artificial Intelligence in Healthcare: Augmentation or Companionship?
+"These studies demonstrate that Watson technologies are doing what we expect them to do: helping physicians augment their own experience and expertise to deliver evidence-based care," said Andrew Norden, MD, MPH, MBA, deputy chief health officer for oncology and genomics, IBM Watson Health.
+"As adoption of the technology grows globally, we are building on a growing body of data and evidence showing the value of Watson in cancer care."
+Memorial Sloan Kettering Cancer Center in New York has been participating in the ongoing training and refinement of Watson for Oncology. 
+The provider has helped to train Watson in clinical decision support for a number of cancers.  The analytics service can now support providers in the care of breast, lung, colorectal, cervical, ovarian, gastric, and prostate cancers.
+These tools may help clinicians to care for cancer patients in regions where oncology specialists are scarce.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+"Watson for Oncology is one example of the key technologies that will help clinicians harness the increasing amounts of data that is becoming available as both medicine and treatment become more personalized for each individual patient," said Nan Chen, the Senior Director of Research & Development and Clinical Data at Bumrungrad International Hospital in Thailand.
+"As we treat more than half a million from over 190 countries each year, these technologies are increasingly important to provide the level of care that our patients have come to expect.”
+“One example of this is at the BIH owned Mongolian UB Songdo Hospital where general doctors routinely care for cancer patients in the absence of clinical oncology specialists,” said Chen. “These doctors can now confidently rely on Watson for Oncology for helping them select treatment options that are supported by the high concordance rates observed."
+By the end of 2017, IBM expects that the technology will be able to aid with at least 12 different cancer types representing 80 percent of the global incidence of the disease.
+"We are proud of MSK's role training Watson for Oncology, and putting an evidence-based, cognitive, clinical decision support tool in the hands of physicians around the world," said Mark G. Kris, MD, the William and Joy Ruane Chair in Thoracic Oncology at Memorial Sloan Kettering. "
+READ MORE: How Do Artificial Intelligence, Machine Learning Differ in Healthcare?
+“By coupling the power of Watson with the knowledge MSK physicians have gleaned from decades of experience treating cancers, we can help physicians probe the subtleties of each person's illness, better understand the ever-growing body of oncology data, and make evidence-based treatment decisions."
+In addition to its diagnostic achievements, Watson has been exploring how to improve the process of matching patients for clinical trials.  During a technical feasibility study conducted by Highlands Oncology Group and Novartis, Watson used its natural language processing abilities to read clinical trial protocols, evaluate data from patient records, and match individuals with the correct trials.
+It correctly excluded 94 percent of patients automatically based on eligibility criteria, and reduced the average screening time from 1 hour and 50 minutes to just 24 minutes.
+The achievements mark yet another step forward in the use of artificial intelligence for solving difficult healthcare problems. 
+"Artificial Intelligence is coming of age in healthcare as technology suppliers, like IBM, make progress in the democratization of this technology," said Cynthia Burghard, research director IDC Health Insights. "The application of AI will be a major disruptor in healthcare and move the industry closer to its goal of value-based health."
+IBM has been an active contributor to the explosive growth of the machine learning field, which has seen significant investment from a number of technology mainstays.  Pathology, imaging analytics, precision medicine, and clinical decision support have been among the most successful use cases thus far, with machine learning algorithms achieving high rates of accuracy across multiple domains.
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical AnalyticsClinical Decision SupportMachine Learning
+
+

@@ -1,0 +1,29 @@
+FCA Urged To Upgrade Register Or Risk Third-Party Fraud ‘Disaster’
+
+June 20, 2017
+
+Industry groups have warned UK regulators there will be no way of knowing whether third-party fintechs are authorised providers or fraudsters once the revised Payment Services Directive (PSD2) goes live in January.
+
+ In a joint consultation response to the Financial Conduct Authority (FCA), four financial sector associations called for its register of authorised firms to be upgraded technologically to give greater clarity over the status of newly authorised third-party providers (TPPs).
+
+ The response, which was authored by Payments UK, Financial Fraud Action UK, the British Bankers Association and The UK Cards Association, was submitted to the FCA on June 7 and was made public on Wednesday. The group acknowledged the FCA’s existing register, but said it “is not currently available in a format that can be electronically interrogated … in real time”. As a result, under PSD2 a payment initiation or account information provider suspended by the FCA for fraud may be able to continue operating until the industry becomes aware.
+
+ “We believe that this approach creates issues with potential time lags between revocation of a TPP’s authorisation/registration status/permission and the availability of data checks to be conducted by [a bank] and offers the potential for human error,” it said.
+
+ Fraud and cyberattacks “take place at lightning speed, moving from institution to institution in seconds if not in parallel”, the response added.The issue is complicated further by third parties passporting into the UK from elsewhere in Europe, it noted, as other member state registers are presented in different formats and languages.“It’s potentially a disaster waiting to happen,” said Roger Tym of Hogan Lovells.
+
+ One of the central features of PSD2 is that from January banks must allow account access to third parties, providing they have consumer consent, without the need for a contract or bilateral agreement. However, security rules drafted by the European Banking Authority (EBA) are not expected to take effect until early 2019. Article 15 of PSD2 also requires the EBA to establish and maintain a register of EU-based authorised firms, based on data from national regulators, but its technical standards on that register are not due for publication until the date the directive goes live.
+
+ That could mean banks have to choose between placing consumer account data at risk, or shutting out third parties that may in reality be legitimate. Roger Tym, a partner at Hogan Lovells and a payments regulatory expert, said that transitional period is “potentially a disaster waiting to happen”.“We’ve got a year or so where TPPs will be allowed in but they don’t have to comply with the requirements of the regulatory technical standards,” he said.
+
+ “If you’re concerned about the security side, is that objective justification to deny them access? Are you still required to let them in? “There’s a good argument that you’re not.”The FCA said it was still assessing responses to its consultation and cannot comment on individual submissions, and declined to comment further when questioned by PaymentsCompliance.
+
+ The associations recommended two possible solutions.The first was to provide a mechanism by which account providers can immediately and electronically check the regulatory status of a third party.It said that mechanism could be developed by a “suitable industry body” rather than the FCA if appropriate.“The risk of not doing so is that fraudsters will target one institution at a time, exploiting any inability to share intelligence across the ecosystem,” it said.
+
+ The second suggestion was to develop a messaging system that would automatically notify the industry when changes are made to the FCA register.“We believe there is a significant risk of customers giving out their security credentials to unauthorised third parties set up by criminals/fraudsters to exploit the potential for gaining access to accounts,” the response said.
+
+ “The industry would welcome the opportunity to discuss with the FCA how best to align fraud prevention advice with communication of the changing landscape to customers and to consider measures to protect them (e.g. provision of a facility to verify legitimate firms) especially during the transitional period.”
+
+ John Basquill, Editor, Payments Compliance
+
+

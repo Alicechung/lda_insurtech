@@ -1,0 +1,41 @@
+Gates Invests $50M in Big Data, Precision Medicine for Alzheimer’s
+
+November 14, 2017
+
+By Jennifer Bresnick
+November 14, 2017 - Microsoft Corporation founder Bill Gates is making an initial investment of $50 million from his personal fortune to accelerate precision medicine research into a cure for Alzheimer’s disease.
+The gift to the Dementia Discovery Fund, a private organization working to develop innovative pathways to promising solutions, will help researchers and clinicians leverage big data more effectively for clinical trials, risk stratification, population health management, and pharmaceutical development.
+“With all of the new tools and theories in development, I believe we are at a turning point in Alzheimer’s R&D,” Gates wrote in his blog, noting that dementia takes both an emotional and economic toll on society – both of which are growing rapidly as populations age and lifespans get longer.
+“Now is the right time to accelerate that progress before the major costs hit countries that can’t afford high priced therapies and where exposure to the kind of budget implications of an Alzheimer’s epidemic could bankrupt health systems,” Gates said.
+Approximately 11 percent of individuals aged 65 and older - and one-third of individuals over the age of 85 – have dementia, says the Alzheimer’s Association. 
+READ MORE: “Basic Science” of Healthcare Big Data Analytics Still Needs Work
+The organization estimates that care for these patients will total nearly $260 billion in 2017 in the US, as the expenses involved in caring for patients with neurodegenerative diseases can be up to 5 times as high as for other patients.
+“Absent a major breakthrough, expenditures will continue to squeeze healthcare budgets in the years and decades to come,” Gates pointed out.
+“This is something that governments all over the world need to be thinking about, including in low- and middle-income countries where life expectancies are catching up to the global average and the number of people with dementia is on the rise.”
+Precision medicine approaches to pharmaceutical development, such as targeting specific proteins in the brain, have produced some promising results thus far. 
+But Gates believes that more can be done to harness the healthcare system’s existing big data assets and generate new data to illuminate the many puzzles of why and how dementia develops.
+READ MORE: Precision Medicine Partnerships Foster Promises of Breakthroughs
+The process must start at the very beginning: by better understanding the biology of the normal brain so researchers can quickly identify changes or disruptions to an individual’s functioning.
+“Our understanding of what happens in the brain is based largely on autopsies, which show only the late stages of the disease and don’t explain many of its lingering mysteries,” wrote Gates.
+“For example, we don’t fully understand why you are more likely to get Alzheimer’s if you’re African American or Latino than if you’re white. If we’re going to make progress, we need a better grasp on its underlying causes and biology.”
+Effective diagnostic tests that can be conducted with a high degree of reliability are also a target for progress: currently, the only way to definitively diagnose Alzheimer’s is during an autopsy.
+In order to gain insights into the ethnic, racial, and genetic roots of dementia – as well as discover potential ways to slow down or stop degeneration – the healthcare industry must concentrate on expanding access to clinical trials.
+READ MORE: Precision Medicine, Genomics Require Strong Data Governance
+Clinical trials that include large numbers of diverse participants with the right characteristics can be extremely challenging to develop.
+“The pace of innovation is partly determined by how quickly we can do clinical trials,” said Gates. “Since we don’t yet have a good understanding of the disease or a reliable diagnostic, it’s difficult to find qualified people early enough in the disease’s progression willing to participate.
+“It can sometimes take years to enroll enough patients. If we could develop a process to pre-qualify participants and create efficient registries, we could start new trials more quickly.”
+The national Precision Medicine Initiative is already on the case.  The “All of Us” patient cohort is actively recruiting thousands of individuals from varying social, economic, genetic, and clinical backgrounds to serve as a resource for researchers investigating a large number of conditions, including dementia and neurodegenerative diseases.
+The initiative is working with community organizations and primary care providers to focus on collecting data from traditionally underrepresented groups – including those with higher likelihoods of developing dementia as they age.
+Access to validated, large-scale big data from such biobanking efforts may help researchers fill clinical trials more quickly, allowing pharmaceutical companies, clinical researchers, and other members of the healthcare system to develop innovative strategies for targeted therapies, diagnostic tests, and population health management techniques.
+In order to allow the entire research community to build upon previous breakthroughs and collaborate effectively, the data generated from these activities must be standardized, sharable, and accessible to approved parties.
+“Every time a pharmaceutical company or a research lab does a study, they gather lots of information,” said Gates.
+“We should compile this data in a common form, so that we get a better sense of how the disease progresses, how that progression is determined by gender and age, and how genetics determines your likelihood of getting Alzheimer’s. This would make it easier for researchers to look for patterns and identify new pathways for treatment.”
+Data standards and interoperability for medical research are also top priorities for the Precision Medicine Initiative and other organizations searching for precision medicine cures.
+The development of a common data model is a key component of the PMI’s overarching framework, as well as being central to other collaborative efforts to create “data commons” that rely on standardized interoperability techniques.
+Investing in big data analytics infrastructure can help to foster speedier clinical trials that are, potentially, more successful at achieving their aims. 
+By arming researchers, clinicians, and patients with more information about the genesis and trajectory of neurodegenerative diseases, stakeholders may be able to making the natural process of aging less costly and less emotionally trying for individuals and their families.
+“This is a frontier where we can dramatically improve human life. It’s a miracle that people are living so much longer, but longer life expectancies alone are not enough,” said Gates.
+“People should be able to enjoy their later years—and we need a breakthrough in Alzheimer’s to fulfill that. I’m excited to join the fight and can’t wait to see what happens next.”
+Tagged Analytics InfrastructureGenomicsMedical ResearchPersonalized MedicinePopulation Health ManagementPrecision MedicinePrecision Medicine Initiative
+
+

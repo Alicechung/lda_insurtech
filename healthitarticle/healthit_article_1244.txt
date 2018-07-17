@@ -1,0 +1,23 @@
+WEDI and NATE Partner for Patient Matching, Interoperability
+
+September 25, 2015
+
+By Jennifer Bresnick
+September 25, 2015 - The Virtual Clipboard Initiative, a collaborative project that hopes to drastically improve patient matching techniques and broaden health data interoperability, will be moving into its second phase with the help of the National Association for Trusted Exchange (NATE), according to a press release from the Workgroup for Electronic Data Interchange (WEDI). 
+WEDI and the Sullivan Institute for Healthcare Innovation have been key leaders in the Virtual Clipboard effort, which plans to employ industry-wide data standards to simplify and streamline the patient intake process. 
+As health information exchange brings new waves of data into healthcare organizations, it will become increasingly vital to ensure that the right records are located and attributed to the correct individual.
+“We expect the Virtual Clipboard Initiative to significantly improve the burdensome patient intake process – a critical and overlooked component of the healthcare delivery system,” said Devin Jopp, EdD, President and CEO of WEDI, in a July announcement that the project was moving forward according to plan.
+Dig Deeper
+Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+What Healthcare IT Users Don’t Really Need to Know about FHIR
+New Epic Systems EHR, Big Data Features Zero In on Interoperability
+“In an unprecedented collaborative effort, key stakeholders from across the healthcare continuum have come together to define initial standards for mobile healthcare applications. Leveraging the technology that many patients already use, the pilot seeks to demonstrate dramatic improvements to the healthcare registration process.”
+The collaboration has already included several major stakeholder organizations, including HIMSS and MGMA.  Payers, providers, and patients all stand to benefit from the initiative, Jopp told HealthITAnalytics.com.
+“For payers, you see significant savings in them not having to print benefit cards and manage that process when it can be done electronically.  So for a payer, the savings are in the millions of dollars, even for a small company, on the management of ID cards.”
+“For the provider, you’re talking about not having to re-key information and manage the paper from the clipboards,” he added. “And practice management system vendors will be making it easy for their customers to do business, and there’s value there too. So I think there’s sufficient value here. And probably the most value is for the consumer, who is getting to the point of demanding this. Having the industry be proactive about it and doing it before our customers get ahead of us is critical.”
+NATE will bring additional expertise to the process of planning and architecting the Virtual Clipboard.  The organization, which has recently taken over administration of several key Blue Button features, has worked diligently to expand health information exchange and interoperability capabilities across the industry.
+“Our collaboration with NATE is instrumental to our mission as we work to broaden interoperability in healthcare technology in a consistent manner across all stakeholders in the industry,” Jopp said.  “The expertise of NATE’s leaders, membership and partnering stakeholders will be invaluable as we further the Virtual Clipboard Initiative into the next phase of the program.”
+“This is an important partnership for our industry, and one that will afford tremendous advantages to the members of both organizations,” added Aaron Seib, NATE CEO. “We are confident that the synergies of our organizations will produce amazing returns as we look to enhance the use of additional interoperable technologies that include the consumer, bringing about a new era in healthcare.”
+Tagged Analytics InfrastructureHealth Information ExchangeHealthcare Data GovernanceInteroperability
+
+

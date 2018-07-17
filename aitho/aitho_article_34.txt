@@ -1,0 +1,15 @@
+Onapsis Releases Guide To Enable SAP Customers To Secure Their SAP S/4HANA Migrations With SAP Activate
+
+12 Jul 2018
+
+SAP security experts help SAP customers save up to 5x the costs by enabling them to implement security throughout digital transformation projects
+Onapsis, the global experts in ERP and business-critical application cybersecurity and compliance, and SAP partner, today announce the release of “Onapsis Secure SAP Activate.” This guide provides a comprehensive complement to the SAP Activate methodology, incorporating cybersecurity controls and checks across the different phases and tasks with the ultimate goal of increased security for implementations.
+SAP Activate, the methodology which incorporates concepts of agile and iterative approaches, is a key component for supporting deployment of the latest SAP technologies, with a strong focus on SAP S/4HANA. Organizations are currently using this methodology to perform complex digital transformation or cloud migration projects to SAP S/4HANA and, while comprehensive, this set of guidelines does not include cybersecurity as part of the objectives of these projects. This could lead to costly delays, compliance failures or even the risk of data breaches.
+Follow Us
+Juan Pablo Perez-Etchegoyen
+“At Onapsis we have a lot of customers that are actively planning or are already in the middle of costly and complex digital transformation projects. While it is a best practice to use a methodology such as SAP Activate, organizations also need to ensure that security is something that is incorporated into these projects from the start and throughout all stages. With this guide we are hoping to utilize a framework that is already understood by our customers and add security as an enhancement to each stage, allowing them to achieve security and compliance of their critical applications,” said Juan Pablo Perez-Etchegoyen, CTO, Onapsis.
+Read More: Insurtech: The New AI Disruption Hitting Insurance
+The Onapsis Secure SAP Activate guide is available on the Onapsis website. Additionally, Perez-Etchegoyen will be hosting a live webcast in conjunction with ASUG on August 22, 2018 to walk through each phase of the methodology and how organizations can save significant costs and time by applying security throughout each stage of the process.
+Read More: Interview With Akemi Tsunagawa, Founder And CEO, Bespoke Inc
+
+

@@ -1,0 +1,31 @@
+Moneyhub integrates with Monzo and Starling to deliver holistic financial overview for users
+
+May 5, 2018
+
+Moneyhub has integrated with Monzo and Starling’s APIs, enabling Moneyhub to offer users of the digital banks an holistic overview of all their financial assets through Moneyhub’s platform.
+
+ Users of the two UK challenger banks will now have access to Moneyhub’s proprietary categorisation engine and Smart Nudges, enabling them to make well informed monetary decisions and fulfil their financial wellbeing potential.
+
+ The technology developed by Moneyhub features the most data links of any aggregation provider in the UK. Users can link up current and savings accounts alongside any credit cards, pensions, loans, mortgages, properties, SIPPs, ISAs or investments. With an all-inclusive overview of their finances, Monzo and Starling customers will now be able to manage their money even more efficiently and effortlessly than they can today.
+
+ Personalised ‘Smart Nudges’ bring real insight that save money, for example a Loan to Value ratio nudge that proactively alerts when qualifying for better mortgage rates , or a Micro Saving nudge where a reduction in regular spending has been identified which could easily be put to better use.   All of which makes money work harder and last longer.
+
+ Moneyhub sits at the forefront of the Open Banking revolution. AISP authorised, Moneyhub works with banks, investment managers, pension providers and employee benefit consultants to provide cutting edge financial management white labelled solutions and APIs for their clients. Moneyhub is poised to work with all the nine CMA banks when they go live, and is currently integrating with the six who are ready so that all of their customers will be able to access benefit from more secure, accurate and timely financial data through the Moneyhub platform.
+
+ Samantha Seaton, CEO of Moneyhub, commented: “Our vision is to empower the consumer via our Enterprise partners and clients who understand a truly customer centric proposition needs to be personal. Open Banking has moved us one step closer to this and brings significant benefits to both businesses and consumers. Connecting with Monzo and Starling, two challenger banks already at the forefront of putting consumers in control of their finances, is exciting for us and for Monzo and Starling customers who can enjoy being in control of their financial situation in its entirety”.
+
+ Tom Blomfield, CEO of Monzo, commented: “Our goal is to give people more choice and more control over the way they manage their money, and everything it touches. By making an API available, companies like Moneyhub can integrate with Monzo and offer customers safe, secure access to other services that help give them that control.”
+
+ Megan Caywood, Chief Platform Officer at Starling Bank, commented: “Starling was founded to empower its users to manage their money more effectively and integrating with Moneyhub so they can manage their Starling current account alongside other accounts continues to fulfil this promise to our customers.”
+
+ Moneyhub has been working closely with the Open Banking Implementation Entity to define the standard for UK Banking APIs. In addition, the Fintech provider was one of the few non-banking participants of the Open Banking technical workgroups, set up to deliver a framework for the design and development of the initiative.  It also played a key role in the European Parliament’s PSD2 workshops which focused on delivering innovative payment solutions for European citizens.
+
+ About MoneyHub
+
+ Moneyhub is a financial management platform designed to empower individuals, advisers and business to have complete control and clarity over their finances. It consolidates data from every source into one place so people can easily see and engage with all of their finances – from current accounts to credit cards, loans to investments and pensions. Built using holistic AI, Moneyhub delivers insights that support people to understand and engage with money, including saving and planning for the future. This with automated administration of multiple accounts has lasting, direct impact on financial wellbeing.
+
+ For businesses, Moneyhub gives unprecedented understanding of customer needs, behaviours and aspirations that supports development of targeted and innovative products to suit their individual requirements. This adds value, increases loyalty and can directly benefit the sales cycle. The system is available off shelf as a standalone or can be embedded into existing digital propositions via API.
+
+ Moneyhub has a proven approach and exceptional security standards including ISO27001 certification. Moneyhub and Moneyhub Enterprise are trading styles of Moneyhub Financial Technology Limited which is authorised and regulated by the Financial Conduct Authority (FCA). Moneyhub is a registered trademark of Moneyhub Financial Technology Limited and entered on the Financial Services Register (FRN 561538). Moneyhub Technology Limited is registered in England and Wales with company number 06909772.
+
+

@@ -1,0 +1,113 @@
+In healthcare analytics, real-time data tops the wish list
+
+October 21, 2013
+
+By Jennifer Bresnick
+October 21, 2013 - What will most hospital executives be asking for this Christmas?  Influenza for the auditors, extra arms for the physicians, and a comprehensive, real-time data analytics dashboard that can synthesize clinical, financial, and predictive risk scores for patients network-wide.  It may be a little early in the season to hope for presents, but a new survey by analytics vendor Vitria shows that the ability to gather data from diverse sources and analyze it in real time is a competency increasingly sought after by executives who are starting to recognize the value their data sets hold.
+While polling attendees of two recent big data conferences working in a variety of sectors, including healthcare, researchers found that 94% believe that the ability to integrate multiple streams of data into an analytics algorithm is vital to the success of a data-driven organizations.  Faster decision making, increased operational efficiency, and better customer experience were the top reasons to invest in analytics.  Seventy-seven percent wanted to include historical data, and 63% added that being able to take immediate action is moderately to very important for their businesses.
+And by “immediate,” they really do mean instantly.  More than half of respondents want to be able to take data from computer screen to action within minutes, with only 18% believing that they could wait more than a day or two for results.  When it comes to healthcare, these numbers aren’t very surprising.  Critically ill patients can go from stable to crisis in seconds, and acting quickly on fluctuating vital signs or changes in blood work can be the difference between life and death.  But while the majority of IT managers and executive participants realize the necessity of instantaneous analytics, few organizations have the capabilities yet.
+Two thirds acknowledged that their organizations had little or no infrastructure to handle real-time data, and 30% admitted that they don’t have any analytics framework at all.  Of the organizations that did have some capabilities, 44% were cobbled-together solutions from different vendors, and 14% were internally developed.  The responsibility for investing in and promoting analytics lies with the C-suite executives, according to 47% of the participants, suggesting that at the moment, big data is a top-down initiative.
+Population health relies on analytics, community involvement
+CMS Expands Comprehensive Primary Care Plus to New Regions
+AHIMA: Information Governance is Key for Trusted Healthcare Analytics
+69% of Medication Non-Adherence Due to Poor Patient Behaviors
+Will the impact of ICD-10 on analytics be “minimal”?
+Value-Based Care to Spur New Population Health Management Tools
+AMA Adopts New Patient Safety, Population Health Policies
+Navigating Value-Based Payment and Population Health Management
+Analytics map uninsured patients, manage population health
+2016 “Most Wired” Excel at Population Health, Big Data Analytics
+EHR Data Standards Driven by Market Forces, Not Vendor Cabal
+To build a population health management program, start anywhere
+70% of Orgs Planning Precision Medicine Will Deploy Within 2 Years
+Artificial Intelligence to Make More Health Jobs Than it Eliminates
+Henry Ford to Launch New Precision Medicine, Cancer Center
+Precision Medicine Partnerships Foster Promises of Breakthroughs
+Dell, Baystate Health Partner for Predictive Big Data Analytics
+AAFP to ONC: Don’t Blame Docs for EHR Interoperability Woes
+Epic Systems Leads in Hospital EHR, Business Intelligence Adoption
+Cultivating a Big Data Mindset for Coders, Clinical Documentation
+Gaps in public health work, data reporting raise outbreak risks
+Precision Medicine Research a Top Strategic Priority for NIH
+EHR Scribes Save Time, But Do They Produce Accurate Health Data?
+Walgreens Offers Online Library of Population Health Research
+WEDI and NATE Partner for Patient Matching, Interoperability
+Substance Abuse Help Cuts Population Health Management Costs
+Epic Systems Wins Best Overall Health IT Suite in KLAS Rankings
+Data Integrity Groups Rally for a National Patient Identifier
+Why EHR Adoption in the ED is Crucial for Population Health
+Historical Big Data Analytics Study will Examine Dementia
+AMA, Coalition Continue Tussle over ICD-10 Implementation
+As Hospital EHR Adoption Rises, What’s Next for Health IT?
+CMS using claims analytics to flag fraud, payment abuse
+Care Coordination Market Set to Grow at 26% CAGR until 2020
+Regenstrief, IU to Offer Population Health, Informatics Training
+30-Day Patient Mortality Rates Drop During Hospital Inspections
+UPenn plans real-time analytics to prevent antibiotic overuse
+By 2025, Blockchain, IoT, Machine Learning Will Converge in Healthcare
+New Approach Helps Health Information Exchanges Cross State Lines
+Evidence for PCMH success builds with lower costs, ED visits
+Big Data Analytics, Population Health Top Executive Priority List
+UCLA Research Center to Focus on Healthcare Big Data Analytics
+Real-time CDI Can Help Clinical Analytics As Well As ICD-10
+GE, Roche Partner for Big Data Analytics, Precision Medicine Platform
+High-cost hepatitis C pill sees 8% non-adherence rate
+72% of Stage 2 Meaningful Use Hospitals Report on Public Health
+Healthcare Big Data Analytics, IoT, Cloud Markets Set for Growth
+Grants spur research into genomics, big data, applied analytics
+What Will 2017 Bring for Healthcare Analytics, Interoperability?
+Google Cloud Partners with HL7 to Support FHIR Development
+Opioid Prescriptions Dropped 12% in 2017 as Guidelines Change
+Are hospital readmission fines a “distraction” or motivation?
+CDC flags sexual orientation as population health indicator
+Historical NYC Data Boosts Population Health, Precision Medicine
+Population Health, Value-Based Care Still Challenging for ACOs
+Why do docs think mHealth is useless for patient monitoring?
+Will Lower EHR Copying Fees Improve Patient Engagement?
+Lean Methodology Boosts EHR Documentation Quality, Efficiency
+Missile defense analytics can spot sepsis before physicians
+How Georgia Tech Trains Healthcare Data Analytics Scientists
+Small providers can achieve engagement through patient portals
+BCBSA Tackles Opioids with Big Data, Accreditations, Member Hotline
+Claims Data Analytics Show Diabetes Has Third Largest Health Impact
+Natural Language Processing Markets Set to Grow in Healthcare
+Healthcare Internet of Things, EHR Markets to See Rapid Growth
+Healthcare informatics group welcomes resigning ONC official
+Smokers given free meds, calls are 70% more likely to quit
+IBM: Blockchain, Artificial Intelligence Combo to Alter Healthcare
+PCORI picks 30 “Pipeline to Proposal” research grant winners
+WVU Genetic Test to Improve Lung Cancer Treatment
+Why are hospitals data rich but lacking in data analytics?
+Big Data, Meaningful Use, BYOD Bring Problems, Opportunities
+Patient Management, Attribution Program Expands Access to Care
+Healthcare Big Data Analytics Helps Minn. Find $2B in Savings
+Enthusiasm for Cutting Admissions May Harm Medicare Patients
+Online Patient Engagement Spikes When High Costs Are Involved
+Study: Automated readmissions review not yet sensitive enough
+Are Google’s Predictive Analytics Worth Patient Privacy Risks?
+CMS Promotes Chronic Care Management with Provider Education
+Research Collaboration to Use Big Data for Diabetes Prevention
+Top Ten Big Data, Analytics, Population Health Stories of 2014
+Chronic disease patients: EHR access outweighs privacy risks
+Will the White House Chart a Course for Healthcare Big Data?
+Expectations Clash over Informal, Online Patient Engagement
+CIOs Plan to Invest More in AI, Predictive Analytics, Big Data Tools
+Hospitals partner with long-term care to reduce readmissions
+FDA: Education, Population Health Can Fight Opioid Abuse
+Accountable Care Organizations Collaborate for Value-Based Care
+Anthem’s HealthCore Offers Big Data Access for Healthcare Analytics
+Partners Data Lake Offers Healthcare Analytics as a Service
+Humana, Iora Health launch accountable care initiative
+Stage 7 “Most Wired” Cancer Hospital Leverages EHR, mHealth
+CMS to Require Health Information Exchange for Long-Term Care
+HHS, feds must do more to open health data to industry
+Docs Seek Health Information Management Pros for ICD-10 Prep
+ICD-10, Population Health Management Atop Hospital Budgets
+Anthem ACOs Save $7.9M with Population Health Management
+Top 10 Disruptive Companies to Watch in the Healthcare Space
+Data Exchange, Analytics Remain Out of Reach for Many Providers
+Four Big Data Governance Tasks to Prep for the Internet of Things
+“IT organizations that are striving to deliver actionable insight in seconds or minutes to their business counterparts should take stock of their analytics architecture,” the report suggests.  “Consider complementing your existing enterprise business intelligence (BI), data warehouse and other stored big data infrastructure such as Hadoop and NoSQL databases with solutions that can ingest, correlate and analyze streaming Big Data as well to produce continuous, real-time operational intelligence.”
+Tagged Analytics InfrastructureClinical AnalyticsFinancial AnalyticsHealthcare AnalyticsHealthcare Business IntelligenceRevenue Cycle Management
+
+

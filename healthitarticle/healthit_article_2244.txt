@@ -1,0 +1,18 @@
+EHR analytics: Hypertension 4 times more likely in obese kids
+
+October 11, 2013
+
+By Jennifer Bresnick
+October 11, 2013 - By studying the electronic health records of nearly a quarter of a million Kaiser Permanente patients, researchers were able to find a clear link between overweight children and the higher likelihood of hypertension, according to a report published in The Journal of Clinical Hypertension.  Obesity among pediatric patients remains a critical population health concern, as children carrying excess weight are more likely to develop Type 2 diabetes, heart problems, and kidney diseases as they age, further stressing the healthcare system as providers attempt to help patients manage these chronic conditions.
+The Kaiser Permanente health system has the largest private EHR system in the world, containing more than 9 million records.  This provides an enormous wealth of standardized, high-quality data for medical research and analytics.  In this study, researchers looked at 250,000 patients aged 6 to 17 from 2007 to 2009.  They used blood pressure measurements and body mass index (BMI) data to investigate the link between weight and hypertension.
+They found that overweight children were twice as likely as normal-weight peers to have hypertension.  Moderately obese patients were four times more likely to experience high blood pressure, and ten times as many extremely obese patients were hypertensive compared to normal-weight subjects.
+“This study’s findings suggest that pediatricians need to be particularly vigilant about screening overweight and obese children for hypertension because high blood pressure can be asymptomatic for many years,” said Corinna Koebnick, PhD, lead author and researcher at Kaiser Permanente Southern California’s Department of Research & Evaluation.
+Dig Deeper
+University of California Forms Big Data, Precision Medicine Network
+Machine Learning Identifies Ovarian Cancer with 91% Accuracy
+Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+“High blood pressure in children is a serious health condition that can lead to heart and kidney disease,” added researcher David Cuan, MD, Department of Pediatrics, Kaiser Permanente Riverside Medical Center.  The study recommends that pediatricians pay special attention to screening patients for obesity and high blood pressure in an effort to cut down on future complications.
+“This study highlights a great use of existing high-quality data for addressing important scientific questions, in this case, the challenge of screening asymptomatic children for hypertension,” said Matthew F. Daley, MD, a pediatrician and a researcher at the Institute for Health Research, Kaiser Permanente Colorado. “The findings of this study suggest that we should focus our limited resources on the children who need the most timely follow up.”
+Tagged Applied AnalyticsClinical AnalyticsEHR AnalyticsMedical ResearchPopulation Health Management
+
+

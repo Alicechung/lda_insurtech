@@ -1,0 +1,20 @@
+70% of Patients Want EHR Data Sharing Despite Security Concerns
+
+November 07, 2014
+
+By Jennifer Bresnick
+Patients remain deeply concerned about EHR data sharing security even as they recognize the benefits of HIE for better care.
+November 07, 2014 - Despite continued, widespread concerns over the security of EHR data, patients generally understand the necessity for health information exchange and view it as a desirable addition to their care.  The results of a survey by the ONC Health IT Policy Committee reveal that 70% of patients will put their security worries aside if EHR use and electronic data sharing can improve their treatment and provide important information for providers.
+The survey of approximately 2,000 patients, conducted between 2012 and 2013, was intended to gauge consumer attitudes towards privacy and security issues wrapped up in EHR adoption and increased information exchange.  As the ONC promotes more comprehensive health IT infrastructure though Stage 2 and Stage 3 of meaningful use, both of which lean heavily towards data interoperability and population health management through HIE, understanding the impact of these decisions on patient attitudes and choices is more important than ever before.
+Many of the findings were not unexpected.  Three-quarters of Americans consider themselves “very” or “somewhat” concerned about the privacy of their personal health data, while just fewer than 70% responded the same to questions about data security.
+Dig Deeper
+SHIEC Expands Patient-Centered Data Home HIE Network Nationwide
+CVS Retail Clinics, VA Partner for Care Coordination, Access
+NY Public, Private HIEs Connect for Population Health Management
+Perhaps most worryingly for providers who rely on complete, accurate patient data to make treatment decisions, the survey found that 8% of patients have actively withheld information from their providers due to worries over security and privacy.  Patients were 4% more likely to omit data if the provider was using an EHR than if the organization was still using paper records.  Added to recent data that shows 50% of patients have lied or glossed over important information due to the fear of being judged by their provider, clinicians may not have access to anywhere near as much information as they should due to misperceptions and worries by the people they are trying to help.
+The number of patients wary of unauthorized access to their records was relatively equal whether the data was being sent electronically or by fax, and changed little between 2012 and 2013.  Since it didn’t seem to make a difference how providers were transmitting data, three-quarters of patients would prefer that their physicians use an EHR rather than not.
+“Overall, during this time of significant EHR adoption, the majority of Americans express concerns about the storing and sharing of their medical records but those concerns are not specific to electronic methods of storing or sharing,” said Vaishali Patel, PhD, MPH, a senior advisor at the ONC.
+The study reveals that providers have ample opportunity to provide better education on the principles of data exchange and the privacy and security measures they are taking to protect patient information.  Patient willingness to engage with data sharing and health information exchange may be high, but providers must make a concerted effort to break through barriers that stifle patient voices and keep important data bottled up unnecessarily.
+Tagged Care CoordinationHealth Information ExchangePatient Data
+
+

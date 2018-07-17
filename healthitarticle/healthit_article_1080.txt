@@ -1,0 +1,30 @@
+DirectTrust: 44M Health Information Exchange Messages in 2015
+
+January 20, 2016
+
+By Jennifer Bresnick
+January 20, 2016 - Health information exchange ended 2015 on a high note, according to DirectTrust, with the exchange of more than 44 million Direct secure messages throughout the year. 
+The past year saw record growth for the use of the non-profit’s simple data transmission effort, and President and CEO Dr. David Kibbe anticipates continued exponential increase in Direct HIE activities over the next few years.
+ “2015 was a stellar year for Direct and what is fast becoming a national health information highway,” Kibbe said in a press release. 
+“Clearly, electronic messaging via the Direct protocol has reached a ‘tipping point’ because it simply keeps on working.”
+Since its establishment in 2013, DirectTrust has overseen the exchange of more than 67 million interactions, the majority of which occurred over the last twelve months.  The last quarter of 2015 alone saw over 13 million exchanges, the organization says. 
+READ MORE: SHIEC Expands Patient-Centered Data Home HIE Network Nationwide
+The number of trusted Direct messaging addresses topped one million in 2015, a 66 percent increase over the previous year. 
+In the final quarter of the year, users created 137,000 new addresses. 
+More than 52,000 healthcare organizations are now participating in the email-like health information exchange network, a 47 percent increase over 2014 levels.
+“Direct is a relatively inexpensive means of moving health data from point A to point B, securely and, most often, within the context of providers’ EHR technologies,” said Kibbe.  “So, Direct is leveraging and expanding our investments in EHR technology as a nation."
+"Additionally, Direct is becoming much more convenient to use," he continued. "It often works alongside other exchange technologies, such as EHR-specific messaging systems and eHealthExchange/CONNECT.”
+READ MORE: CT Medical Society Announces New Health Information Exchange
+If current growth patterns continue, DirectTrust predicts that there may be more than 230 million transactions by the end of 2016, and 800 million by the time 2017 comes to a close.
+“We expect to see continued uptake and adoption of Direct exchange as the drivers of care coordination, patient engagement, and measures reporting gain criticality under MIPS and MACRA, and as value-based and incentive-based payment programs become more important to providers,” said Kibbe. “The bottom line: interoperable exchange of health data is fundamental to quality care giving.”
+2015 was a very vocal year for DirectTrust, which participated in a series of hearings held by the Senate HELP Committee on the state of data interoperability in the healthcare industry.  Dr. Kibbe’s testimony to lawmakers bucked the trend of exclusively blaming EHR vendors for the sorry state of health information exchange, and instead pointed out that healthcare providers also have a responsibility to change their outlook if they wish to make actionable data available at the point of care.
+“Health care provider organizations must come to realize that acting in the best interest of patients is to assure that health information follows the patient and consumer to whatever setting will provide treatment, even if that means in a competitor’s hospital or medical practice,” he said in July.  “And they must demand collaborative and interoperable health IT tools from their EHR vendors to make this routine and ubiquitous as a practice in every community in the United States.”
+While EHR products certified for the EHR Incentive Programs must be able to handle Direct secure messaging, the service does not provide the same level of robust, detailed health information exchange that true EHR interoperability is supposed to deliver. 
+READ MORE: NY Public, Private HIEs Connect for Population Health Management
+It does, however, offer an inexpensive and intuitive way to bypass many of the deeply entrenched cultural and competitive problems that keep EHRs from communicating successfully.  The vendor community has made a concerted effort in recent months to break down barriers between systems, but data siloes and tensions between some of the biggest players in the industry may be preventing developers from moving as quickly as providers might like.
+The rapid adoption of Direct over the past twelve months indicates the high level of desperation among healthcare providers eager to exchange critical data with their partners and peers.  They are looking for easy health information exchange tools that do not disrupt the workflow, but instead add to their ability to deliver informed, quality care to their patients.
+“The reason that I believe Direct is going to be useful for solving these problems is that it’s simple,” Kibbe told HealthITAnalytics.com.  “Everybody knows how to use e-mail.  Everybody understands that there's some other person at the end of the address. It's bi-directional.  It’s not like a fax, where you send off this piece of paper and you don’t know who is going to read it or when it’s going to get there.”
+“Many of these problems that we have are solvable with just barely minimal, but sufficient, communication. So I think this dual demand for collaboration and interoperability are going to continue to grow within every healthcare system that sees itself at increasing risk of not taking care of patients well and coordinating their care well.”
+Tagged Big Data AnalyticsCare CoordinationHealth Information ExchangeInteroperability
+
+

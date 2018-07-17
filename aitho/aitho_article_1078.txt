@@ -1,0 +1,17 @@
+Gradient Launches To Fuel Next Generation Of Cloud AI
+
+23 Mar 2018
+
+Dedicated AI cloud offers developers of all levels a sophisticated solution for building, training and deploying machine learning applications
+Paperspace, a leading provider of AI cloud computing, today announced the launch of Gradient° to put the power of artificial intelligence into the hands of every developer. With Gradient, AI and machine learning developers of all levels can tap into a dedicated cloud of AI solutions for building, training and deploying machine learning applications.
+Daniel Kobran
+“There’s no denying that AI is the future of every industry, but today’s complex cloud ecosystem coupled with a massive skills gap are threatening innovation,” said Daniel Kobran, co-founder of Paperspace. “You shouldn’t need decades of experience to build intelligent applications. We designed Gradient to remove infrastructure bottlenecks so that any developer can build a production-ready cloud AI pipeline.”
+Gradient is a suite of enterprise-ready tools that makes developing cloud AI as simple as building a modern web service. Featuring one-click Jupyter notebooks, a powerful GPU job runner and a new integration that lets you add 1-line of code to run any code on a full GPU cloud, Gradient works to turn raw infrastructure into the building blocks for intelligent applications. The mission behind Gradient is to accelerate the development of new machine learning products and services across a host of industry verticals.
+“Gradient represents our team’s continued commitment to providing the machine learning community with tools that are powerful, yet easy to use,” continued Kobran. “Our mission is to make every developer an AI developer.”
+Gradient gives developers the ability to seamlessly launch a GPU-backed Jupyter notebook from anywhere. In just a few clicks, users can begin training and deploying models by leveraging any of the popular frameworks like TensorFlow or PyTorch. Jobs can easily be versioned and reproduced and can run in parallel for rapid iteration.
+Ro Gupta
+“As a company that develops high definition real-time maps for autonomous vehicles, having an intuitive AI framework running on top of a robust cloud infrastructure is imperative to our success,” said Ro Gupta, CEO of CARMERA. “Gradient is a much-needed solution to a cloud industry riddled with complexity. Having better tools lets us move faster, iterate models more quickly, and ultimately save developer time and resources.”
+Gradient includes additional enterprise-ready services such as data integrations, powerful user management and access control, and the ability to orchestrate across cloud providers — all designed to give any company access to a comprehensive platform for building AI applications.
+Paperspace, the Brooklyn-based IaaS (infrastructure-as-a-service) provider, already powers tens of thousands of organizations with powerful turnkey virtual machines for performance-intensive applications like design, visualization, machine learning and artificial intelligence.
+
+

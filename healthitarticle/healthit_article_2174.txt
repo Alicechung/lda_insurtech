@@ -1,0 +1,17 @@
+Carolinas HealthCare System launches full analytics suite
+
+December 03, 2013
+
+By Jennifer Bresnick
+December 03, 2013 - Carolinas HealthCare System in Charlotte, NC is positioning itself as a leader in the analytics field after announcing the successful development of a full suite of clinical and financial analytics tools.  The Dickson Advanced Analytics Department has brought readmission risk modeling, quality benchmarking, and population health management tools into the daily workflow for its clinicians, who conduct more than 10.5 million patient encounters per year.
+At the core of the System’s infrastructure, which includes a data warehouse holding 10 terabytes of patient-centered data, is a robust population health management tool based on EHR data from 1.5 million patients.  The outpatient dashboard allows providers to segment and stratify patients by demographics, geography, and diagnosis, providing a community-level view of conditions and utilization of services.  The suite also includes financial data and provider performance metrics to provide a complete view of hospital operations and patient outcomes.
+“Each data set we collect is masked of the original data contributor, but being able to drill down into the data helps us reduce variations in care and deliver overall better care, outreach and coordination,” said Michael Dulin, MD, PhD, chief clinical officer for analytics and outcomes research for Carolinas HealthCare System. “In addition to providing better care for our patients, these tools and programs will help reduce the cost of care and create better value, impacting the entire healthcare community.”
+Carolinas is also a member of the Data Alliance Collaborative, which has brought together IBM and more than 200 hospitals in the Premier healthcare alliance to co-develop solutions to some of the most pressing problems facing hospitals and patients.  “We have to make it much easier for the doctor to take information out of an electronic medical record system that has been designed for billing and make it available [for assistance in treatment],” said Paul Grundy, IBM’s director of health care transformation, to Forbes in August.  An initial DAC project involves notifying providers if patients fail to fill their prescriptions within 24 hours of discharge.
+Dig Deeper
+Top Healthcare Business Intelligence Companies by Hospital Users
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+HIM Pros Must Shift from Coding to Health Informatics, Analytics
+“Carolinas HealthCare System is creating solutions that allow us to build and leverage data models and information, adding significant value to patient care,” said Michael Tarwater, chief executive officer for the System. “In the end, healthcare analytics is about improving the health of the patient and of the population. To better understand and address their needs, we have to be able to see the bigger picture, and as we continue growing our capabilities, we can help patients more quickly and efficiently.”
+Tagged Analytics InfrastructureHealthcare AnalyticsHealthcare Business IntelligenceHospital ReadmissionsPopulation Health
+
+

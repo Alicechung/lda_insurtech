@@ -1,0 +1,28 @@
+Microsoft Revs Up Healthcare Artificial Intelligence Projects
+
+February 20, 2017
+
+By Jennifer Bresnick
+February 20, 2017 - Microsoft is getting very serious about bringing artificial intelligence into the healthcare system, launching a brand new research division and several development projects with provider groups and vendor partners.
+The company, better known for its personal computing pursuits, is hoping to use the 2017 HIMSS Conference and Exhibition in Orlando as a springboard for promoting its new activities, including a partnership with the University of Pittsburg Medical Center (UPMC) focused on using AI to reduce physician burnout, improve productivity, and streamline health IT workflows.
+UPMC plans to pair its research prowess with Microsoft’s technology to focus on refining clinicians’ interactions with health IT tools, making it quicker, easier, and less intrusive to leverage electronic health records and other common systems for care quality improvement.
+“Despite UPMC’s efforts to stay on the leading edge of technology, too often our clinicians and patients feel as though they’re serving the technology rather than the other way around,” said Dr. Steven D. Shapiro, chief medical and scientific officer of UPMC and president of UPMC Health Services Division.
+“With Microsoft, we have a shared vision of empowering clinicians by reducing the burden of electronic ‘paperwork’ and allowing the doctor to focus on the sacred doctor-patient relationship.  Our planned partnership with Microsoft will help us transform the delivery of care and wellness in a way that was never possible before.”
+READ MORE: Big Data, Artificial Intelligence, IoT May Change Healthcare in 2017
+The project is the first in a long line of healthcare-focused research initiatives applying machine learning and artificial intelligence principles to everything from patient engagement and business intelligence to predictive analytics and genomics. 
+The company’s new research arm, called Healthcare NExT, will focus primarily on product development and forging partnerships with members of the care continuum.
+“We are incredibly energized about the opportunities to make a difference in health care,” said Peter Lee, Microsoft Research NExT Corporate VP, in a blog post. “We’ve been listening carefully to our customers and partners within the health care sector, and we’ve heard their message: Let’s work together, innovate together and create solutions that can empower people to lead healthier lives.”
+“Today, we are expanding our commitment to building a healthier future with new initiatives and solutions, making it easier for health industry partners and organizations to use intelligent technology to improve the lives of people around the world.”
+Healthcare NExT is also working to revitalize Microsoft’s HealthVault personal health record (PHR) offerings with an analytical bent.  The HealthVault Insights project will allow users to “generate new insights about patient health, drive adherence to care plans and encourage patient engagement powered by the latest scientific advances in machine learning,” said Lee.
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Other projects include virtual visit capabilities through Skype, acquired in 2011 for $8.5 billion, and a health chatbot, which will allow partners, including MDLIVE and Premera Blue Cross, to triage patients more efficiently and provide information for simple queries without involving a human.
+At the end of 2016, Microsoft debuted an international machine learning and artificial intelligence research collaborative that aims to improve vision care and prevent blindness for patients in India and elsewhere. 
+And earlier that year, it announced new initiatives in imaging analytics, cognitive computing, and precision medicine, all harnessing similar technologies to support more intelligent care.
+“We believe that the most impactful data-driven solutions will go beyond analytics, and will include built-in intelligence that augments an organization’s capabilities in exciting new ways,” wrote Joseph Siroch, Corporate Vice President of the Data Group at Microsoft in a blog post introducing the company’s new Cortana Intelligence products in April 2016.
+“Imagine a world where nurses and doctors use remote monitoring solutions not only to analyze a patient’s vitals such as blood pressure, weight and heart-rate, but also to interpret a patient’s mood based on speech and tone analysis during a scheduled phone conversation,” he said. “Technology like this could help augment their diagnosis to better predict and prevent emergencies and have real impact on the wellbeing of the patient.”
+READ MORE: Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+UPMC will be intimately involved in developing and refining this vision for the future, and will take point on some of Healthcare NExT’s first projects.  Products will be built and piloted at the healthcare system with the help of UPMC Enterprises, the network’s commercialization department.
+“UPMC has a long history of applying technology ‘the right way’ and bringing innovations to market,” said Tal Heppenstall, President of UPMC Enterprises. “With Microsoft’s vision and technological ingenuity, our planned, multi-year collaboration has the potential to help us deliver vastly better care and a better patient experience at a lower cost—the ‘Triple Aim’ of health care.” 
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareEHR WorkflowHIMSS17Imaging AnalyticsMachine LearningPrecision Medicine
+
+

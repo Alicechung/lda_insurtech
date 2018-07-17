@@ -1,0 +1,30 @@
+IBM Watson, Mount Sinai Launch New Precision Medicine Projects
+
+November 11, 2016
+
+By Jennifer Bresnick
+November 11, 2016 - Precision medicine partnerships are becoming all the rage as public and private healthcare organizations pool their expertise and resources to overcome the challenges of developing personalized treatments for cancer and other diseases.
+Some familiar names in the precision medicine space, including IBM Watson Health and the Icahn School of Medicine at Mount Sinai, have joined a slew of other organizations in announcing new big data analytics and research initiatives focused on bringing innovative therapies to the point of care.
+IBM Watson Health and the Broad Institute at MIT and Harvard University have launched a $50 million research initiative that will work to discover the roots of cancer’s resistance to current therapies.
+"Defeating cancer involves playing a high-stakes game of biological chess,” said Eric Lander, founding director of the Broad Institute. “When we make a move with a therapy, cancer often responds with a counter-move by finding a way to become resistant. The key will be learning from clinical experience, so that we know cancer's moves in advance and can plan strategies to cut off its escape routes.”
+The five-year collaboration will study data on thousands of tumors in an effort to understand how the cancer cells developed their drug resistance.  The samples will come from patients who initially responded to therapies, but saw diminishing impacts over time.
+READ MORE: Point of Care Diagnostics Usher in Era of Personalized Medicine
+"Knowing how cancers can become resistant will ultimately require learning from hundreds of thousands of patients' experiences,” Lander continued. “We're proud to work with IBM to make an important start toward this goal, and to make the information broadly available to the scientific community."          
+The Broad Institute will use new genome editing methodologies to generate large datasets, which will then receive the IBM Watson analytics treatment.
+"The Broad Institute is leading the industry in areas of cancer biology, genomics and computational biology, and we are proud to bring Watson's data prowess to help researchers learn more about one of most important medical challenges that too often stands in the way of effective cancer treatment," said John Kelly III, senior vice president, Cognitive Solutions and IBM Research.
+"Watson is already being used in the clinic to aid clinicians in cancer care. Our hope is that this effort, if successful, could eventually lead to significant breakthroughs. Someday, patients who would not otherwise have options in their battle against cancer may have reason for hope."
+Ultimately, the partnership hopes to expand the pool of available drug-resistant cancer data for researchers across the precision medicine community, added Todd Golub, MD, chief scientific officer and founder of the cancer program at the Broad Institute.
+READ MORE: Geisinger Announces New National Precision Health Initiative
+"Currently, cancer researchers have access to genomic information from only a few hundred drug-resistant cancers samples. In addition to the goals of this specific study, IBM and Broad are committed to advancing cancer research by sharing the data from thousands of tumor samples with the scientific community to accelerate progress everywhere against cancer."
+"What we and many others will learn with this information will have important implications for the future of cancer precision medicine and cancer diagnostics."
+Mount Sinai and the Regeneron Genetics Center (RGC) are also hoping that their work will advance medical research beyond the confines of their particular collaboration.  The two organizations will be performing whole exome sequencing on 33,000 DNA and plasma samples held by Mount Sinai’s BioMe Biobank, one of the largest such repositories in the country.
+“The Mount Sinai BioMe Biobank is distinguished by its rich diversity in patient populations linked to electronic medical records,” said Judy Cho, MD, Ward-Coleman Professor of Translational Genetics and Medicine and Director of The Charles Bronfman Institute for Personalized Medicine at the Icahn School of Medicine at Mount Sinai.
+“We are extremely pleased to enter into this collaboration with the RGC to develop high-quality sequence data from the BioMe cohort. This partnership provides an important means of more effectively personalizing medical care throughout the Mount Sinai Health System.”
+READ MORE: Cancer Research Orgs Release Big Data for Precision Medicine
+In addition to sequencing the samples, the RGC and Mount Sinai will correlate the results to electronic health record data in an effort to uncover insights into the long-term implications of certain genetic features.
+“We are excited to work with Regeneron, global leaders in advanced sequencing technology, analysis and translational medicine,” said Erik Lium, PhD, Senior Vice President of Mount Sinai Innovation Partners. “This has the potential to dramatically change outcomes, ensuring a deeper understanding of disease and paving the way for therapeutic discoveries.”
+Top 5 Basics to Know About the Precision Medicine Initiative
+How Precision Medicine Will Shift from Research to Clinical Care
+Tagged GenomicsMedical ResearchPersonalized MedicinePrecision Medicine
+
+

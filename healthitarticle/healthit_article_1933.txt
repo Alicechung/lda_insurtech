@@ -1,0 +1,19 @@
+NIH develops big data plan to encourage research, analytics
+
+July 14, 2014
+
+By Jennifer Bresnick
+July 14, 2014 - The National Institutes of Health (NIH) isn’t just ready to mine the big data mountain: they’re already swinging the pickaxe.  The Big Data to Knowledge (BD2K) initiative is ready to maximize the usefulness of biomedical data for research and analytics, the NIH says in a new article published in JAMIA, by enlisting the cooperation of stakeholders across the industry to access, harness, and extract value from the copious amounts of data being produced by healthcare organizations and researchers each and every day.
+“While research has always involved the collection and organization of data, the volume, variety, and velocity of current ‘big data’ production presents new opportunities and challenges in both scale and complexity,” writes a team of researchers from the NIH. “At the same time, there is a broader cultural shift underway from approaches that kept data mostly private with sharing of resultant knowledge in the form of publications to an information-based culture that dynamically engages the scientific community through the active sharing of both data and publications.”
+“Big data are not only a new reality for the biomedical scientist, but an imperative that must be understood and used effectively in the quest for new knowledge. Needed are new approaches for data management and analysis that allow scientists to better access and extract value from data so as to advance research and discovery.”
+Through workshops, grants, targeted requests for information, and conversations with thought leaders, the BD2K initiative is spreading the concept that training data scientists in big data techniques and fostering the cultural changes necessary to embrace new ideas and new methods of research and discovery are essential parts of enabling the healthcare system to take advance of the wealth of new information at its fingertips.
+Dig Deeper
+Precision Medicine Aids 20% Drop in Pediatric Cancer Deaths
+“All of Us” Precision Medicine Program Enters Beta Testing
+Eye Docs Looking for Big Data, Population Health Analytics Research
+“Inherent in data discovery is the need for a sustainable and scalable plan to create and maintain a discovery system that allows researchers to readily find and cite biomedical data. Indeed, sustainability and scalability are two intertwined issues that must be addressed in order for the advances made possible by BD2K to have a lasting effect,” the NIH team writes.
+The development of a Data Discovery Index (DDI) has been a “necessary first step” in this quest, with the goal of defining mechanisms for indexing data to “enable the discover of relevant, existing datasets through the use of metadata and index terms.  Stakeholders will be encouraged to learn from related efforts in other fields, and conduct short-term pilot studies to explore different ways in which a DDI might be developed and used. Central to development of the DDI will be the ability to link data to associated publications to enhance discovery and facilitate better understanding and interpretation of data and associated analyses.”
+The challenges of truly understanding and harnessing big data must be met collaboratively, the paper concludes, by developing partnerships across the biomedical ecosystem.  The NIH hopes to provide leadership, seed funding, and best practices with its BD2K project while encouraging the emergence of useful solutions and sustainable models that will allow the research community to flourish.
+  Tagged Big DataClinical AnalyticsHealth Information ManagementMedical Research
+
+

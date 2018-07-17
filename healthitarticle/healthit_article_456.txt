@@ -1,0 +1,35 @@
+AMIA: Consider Broadband Access a Social Determinant of Health
+
+May 25, 2017
+
+By Jennifer Bresnick
+May 25, 2017 - Access to public transportation, quality food choice, local pharmacies, and social services have become important ways to measure the overall health of a community population, but the American Medical Informatics Association (AMIA) wants the industry to consider adding one more item to the list. 
+In a letter to the FCC, the organization argues that access to broadband internet service should be added to the list of social determinants of health due to the growing role that internet access plays in connecting patients to the care continuum and supporting the ongoing development of provider EHR infrastructure.
+“Much like access to, and utilization of, high-quality health care and prevention strategies, mobile Health (mHealth) technologies that rely on broadband services have a wide adoption variance based on geography, population density, and socioeconomic status,” explained AMIA President and CEO Douglas Fridsma, MD, PhD, FACP, FACMI, in response to an FCC request for comment on potential expansions to federal broadband infrastructure initiatives.
+“Vulnerable groups face specific challenges related to inadequate access to affordable and consistent high-speed Internet. Race, ethnic, and age disparities in patient portal use and readiness and preferences for using digital communication for health-related purposes have shown to be significant, and this, in turn, reduces their ability to participate in many new and exciting mHealth solutions.”
+Yellow areas indicate geographical regions with a lack of broadband internet access.
+Source: FCC
+Patients experiencing care disparities and access challenges would benefit from the expansion of affordable, widely available broadband internet access to foster engagement with online personal health records, mHealth applications, telehealth tools, and population health research initiatives.
+READ MORE: Identifying Care Disparities for Population Health Management
+A handful of network carriers have already stated that smartphone-based access to certain health-related services should not incur data use charges, which may help low-income consumers engage more freely with these tools, Fridsma notes. 
+Typical patient-provider interactions, including text messaging and health-related mobile apps, tend to use only small amounts of network data compared to other activities such as streaming video, which may make it easier for carriers to absorb the relatively minimal costs of providing these services.
+“We believe that the ability to freely use these apps (i.e., without data charges) will significantly enhance patient-provider engagement and promote citizen science,” he said.
+Broadband access can play an important role in helping patients manage chronic diseases by providing online connections to providers, health coaches, or patient support groups.  With 86 percent of healthcare spending devoted to chronic disease care, mHealth tools and online communication could help to significant reduce costs related to diabetes, heart disease, and other long-term conditions.
+In 2016, the FCC released the Mapping Broadband Health in America tool to chart internet access across the nation.  One of the tool’s interactive maps specifically highlights gaps in internet access in areas with high populations of diabetic patients.  
+Broadband access gaps compared with diabetic population statistics.
+Source: FCC
+READ MORE: Open Population Health Analytics Flag Philly Health Disparities
+Dead zones are spread throughout many of the Southern and Western states, where rural populations tend to struggle with numerous issues of healthcare access and higher-than-average risk of chronic disease.  
+“FCC should look to align programs that can bolster efforts to better target those with chronic conditions, and ensure that these populations have access to affordable broadband and broadband-enabled health technologies,” AMIA says.
+In addition to improving chronic disease management for underserved populations, more robust internet access could play a role in curbing the opioid and substance abuse epidemic, the letter continued.
+“Rehabilitation of substance abuse is a complex and long process, including the need for medical, behavioral, social, physical, and other interventions over a period of time. Broadband-enabled health care delivery can play a critical role in multiple stages of an individual’s rehabilitation and better engage such individuals who live in rural areas.”
+A 2016 pilot study found that patients at methadone clinics find mHealth interventions “highly acceptable and useful” to reduce the potential for relapsing.  Participants in the study adhered to treatment programs and maintained abstinence for longer periods of time than patients without mHealth support.
+READ MORE: Incomplete Population Health Data Exacerbates Care Disparities
+The study is encouraging, Fridma wrote, and AMIA recommends that the FCC work to expand evidence-based research aimed at evaluating the role of internet technologies in similar situations.
+For substance abuse patients and others, personal access to broadband could also have privacy implications, the organization added. 
+“In many underserved populations, especially in urban settings, broadband use is more likely to be done using public or shared devices, exacerbating privacy concerns,” the letter says. 
+Patients may be inadvertently exposing their own personal health information to others if they accidentally remain logged in to a website or application that contains patient data.  This risk could be reduced if consumers are able to use computers at home or their own smartphones to engage with the health system instead. 
+“We appreciate FCC’s work in this important area, and we are excited about the possibilities this new paradigm will have for bringing new and innovative therapies to American consumers,” Fridsma concluded. “We look forward to working closely with the FCC, bringing the expertise of health informatics professionals to our national broadband health imperative.”
+Tagged BroadbandChronic Disease ManagementHealth IT InfrastructuremHealth AdoptionPatient EngagementPopulation Health Management
+
+

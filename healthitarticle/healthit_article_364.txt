@@ -1,0 +1,70 @@
+The Difference Between Clinical Decision Support, Big Data Analytics
+
+August 31, 2017
+
+By Jennifer Bresnick
+August 31, 2017 - Healthcare organizations have a lot of options to choose from when it comes to leveraging their growing big data assets. 
+From population health platforms and supply chain management tools to clinical decision support and business intelligence systems, there is no shortage of health IT companies offering their latest and greatest products to help alleviate some of the many pressures facing providers today.
+The technology landscape has gotten even more complex in recent months as vendors clamor to showcase their newfound competencies with machine learning and artificial intelligence, inundating the marketplace with promises of unrivaled visibility into hidden opportunities for clinical and financial improvement.
+Those promises can certainly come to fruition if healthcare organizations invest their resources wisely, but they must be sure that they are equipping themselves with the right suite of health IT systems – and the specific technical capabilities that will help turn raw data into informed action at the point of care.
+Just as there’s a major difference between big data and smart data in healthcare, there’s a distinct line between the ability to conduct big data analytics and the ability to engage in the next step of true clinical decision support.
+READ MORE: How Big Data Analytics Companies Support Value-Based Healthcare
+How exactly does big data analytics differ from clinical decision support, how do they work together, and why does it matter to healthcare providers?
+WHAT IS BIG DATA ANALYTICS IN HEALTHCARE?
+“Big data” is an inherently misleading term, since “big” refers not to the volume of data but to the number of sources that can be combined to produce completely new insights. 
+In the healthcare industry, this may mean mashing up diagnosis data with average income levels to understand how chronic disease is hot-spotting among socioeconomically challenged members of the community, or matching ED utilization rates with patient financial collections figures to highlight patterns in uncompensated care.
+Big data analytics comes in three main flavors based on what insights they can provide. 
+Descriptive analytics can tell organizations what has already happened by using historical datasets to report upon events in the past.  This may include the number of hospital discharges during the previous quarter, the percentage of claims denials due to improper ICD-10 coding, or the rate of staff turnover during the prior year. 
+READ MORE: Can Artificial Intelligence Relieve Electronic Health Record Burnout?
+Combining these historical datasets can provide important insights – if claims denials increase markedly every time new staff members arrive, perhaps a better training and onboarding program is called for – but descriptive analytics is generally somewhat limited in scope.
+Predictive analytics tell users what is likely to happen by using historical patterns to infer how future events are likely to unfold.  If a patient fails to fill a prescription for his congestive heart failure, he is likely to have a higher risk of ending up in the emergency department. 
+Predictive analytics can identify that patient based on his previous patterns – five late refills in the past year on his pharmacy record, three pounds of weight gain as evidenced by his Bluetooth-connected home scale, and a higher number of calls to his primary care provider in the past two weeks – and calculate the risk that the individual is headed for a costly crisis.
+Prescriptive analytics takes prediction one step further by showing providers what they can do about it.  Essentially, it’s decision support, whether the decision is financial, clinical, or operational. 
+Prescriptive analytics leverages descriptive reports and predictive data analytics to identify the action that would produce the maximum value for the minimum effort, allowing users to develop and adhere to optimal clinical pathways.
+READ MORE: Healthcare Data Access is Biggest Artificial Intelligence Bottleneck
+Each type of big data analytics builds off the previous competency to transform raw data into a roadmap for future action.  Without a firm grasp on all three levels of analytics, providers cannot begin to engage in clinical decision support.
+WHAT IS A CLINICAL DECISION SUPPORT SYSTEM?
+Clinical decision support (CDS) “provides clinicians, staff, patients or other individuals with knowledge and person-specific information, intelligently filtered or presented at appropriate times, to enhance health and health care,” states the Office of the National Coordinator for Health IT (ONC).
+In other words, actionable clinical decision support capabilities are the end goal of all clinical big data analytics – but the act of analyzing data on its own does not equate to full CDS.
+“CDS encompasses a variety of tools to enhance decision-making in the clinical workflow,” the ONC continues. “These tools include computerized alerts and reminders to care providers and patients; clinical guidelines; condition-specific order sets; focused patient data reports and summaries; documentation templates; diagnostic support, and contextually relevant reference information, among other tools.”
+Ideally, these CDS capabilities should be integrated into the electronic health record (EHR) or similar clinical application to encourage access at the point of care.
+According to CMS, effective CDS systems tick all the boxes of the “five rights” of decision support:
+the right information (evidence-based guidance, response to clinical need)
+to the right people (entire care team – including the patient)
+through the right channels (e.g., EHR, mobile device, patient portal)
+in the right intervention formats (e.g., order sets, flow-sheets, dashboards, patient lists)
+at the right points in workflow (for decision making or action)
+This means that CDS must be more than just a pop-up box with an alert noting that a completed action is potentially harmful, such as the prescription of a contraindicated medication.
+A truly useful CDS tool delivers alternatives that help to reroute the workflow in a positive direction instead of simply freezing the screen when something doesn’t appear to be correct.
+“For example, upon opening an adolescent patient’s electronic record during a patient visit, the provider may be informed of a recommendation to conduct an age-appropriate depression screening,” CMS explains. “While interacting with a provider-chosen assessment tool, the patient’s positive findings also prompt a shared care plan tool and an option to order a referral to a mental health provider.”
+This combines several components of CDS to create a new workflow to achieve the desired result.  Starting with a prompt based on a perceived gap in care (no record of a recommended assessment), the tool then guides the user down a decision tree to best support the patient’s individual needs. 
+If the assessment indicates no need for further action, the provider can stop there and move on to other tasks.  If the screening is positive and a referral, prescription, or follow-up is needed, the provider has the option to pursue those pathways within the workflow.
+This type of positive, forward-moving coaching avoids the main drawback of many CDS systems: alert fatigue.   
+Alerts, alarms, and pop-up notifications that stop the user in her tracks – or worse, deliver information without a clear and concise call to a specific solution – have been the bane of clinicians everywhere since the advent of the EHR.
+Alert fatigue still consistently tops industry lists of patient safety hazards and contributes significantly to ongoing dissatisfaction with EHRs. 
+A 2016 study published in JAMA found that primary care physicians spend more than an hour processing close to 77 notifications every day, including test results, referral responses, and refill requests.
+“Because a single notification often contains multiple data points (e.g., results of metabolic panels contain 7-14 laboratory values), the actual burden and required cognitive effort required of the physicians is likely greater,” added the research team.
+“Strategies to help filter messages relevant to high-quality care, EHR designs that support team-based care, and staffing models that assist physicians in managing this influx of information are needed.”
+To reduce the impact of alarm fatigue and improve the ability to CDS tools to provide targeted, relevant, and actionable suggestions for end-users, the system must be built upon algorithms that accurately identify when a clinical guideline has not been met – and what is the optimal way to meet it while taking into account every aspect of the patient’s unique circumstances, diagnoses, and challenges.
+HOW IS CLINICAL DECISION SUPPORT EVOLVING TO SUPPORT BETTER CARE?
+With sufficiently sophisticated algorithms supporting a CDS system’s recommendations, organizations may be able to avoid the pitfalls of useless alarms and deliver important information to clinicians at the point of care.
+The industry’s top CDS vendors employ a wide range of analytics techniques when trying to solve the CDS puzzle, and many are increasingly relying on advanced machine learning to deliver results.
+Machine learning itself is based on pattern recognition, weighting probabilities, and determining optimal outcomes, which makes it a natural engine for the task.
+Pilots, research projects, early implementations, and test cases for applying machine learning to CDS have been extremely promising, including:
+Creating cost-based clinical pathways for chronic disease patients based on a risk stratification algorithm driven by machine learning
+Leveraging natural language processing to predict patients at elevated risk of behavioral health issues, including substance use disorder relapses
+Using machine learning to identify intervention opportunities for type 1 diabetes patients
+Applying video analytics to flag patients in mental health distress
+Employing imaging analytics to diagnose patients with metastasized breast cancer
+Using cognitive computing, academic literature, and genomic data to suggest highly personalized therapies for cancer patients
+As machine learning – and eventually true artificial intelligence – become more adept at providing meaningful recommendations, the number and frequency of incorrect or unimportant alerts is likely to decrease.
+The accuracy of the recommendations is also expected to rise, creating a new generation of tools that augment a clinician’s ability to make the best possible decision without impeding clinical judgement or increasing the burdens of EHR use.
+However, high-quality machine learning and other clinical decision support mechanism rely on seamless and timely access to clean, complete, accurate, and trusted data assets. 
+And creating reliable fodder for big data analytics algorithms that can deliver trustworthy decision support requires providers, vendors, and other stakeholders to invest in a number of fundamental data science competencies, including data governance, interoperability, and shared standards.
+CDS is most effective when the algorithms have access to broad and deep data asserts, yet the industry has struggled mightily with this series of interwoven tasks and has yet to reach a consensus on how to best overcome them. 
+While the growing emphasis on risk-based reimbursements, population health management, and outcomes-driven care is starting to shift the business case towards increased data sharing, much work remains to be done at both the organizational and federal levels before reliable and accurate CDS is the norm.
+In the meantime, providers can continue to develop their basic big data analytics skills as they work their way along the spectrum from basic descriptive analytics to truly actionable decision support. 
+As the industry creates, shares, analyzes, and relies upon more and more big data for business and clinical intelligence, providers are likely to see continued enhancements in the decision support marketplace that will enable them to maintain their upward trajectory in the quality of their patient care. 
+Tagged Analytics InfrastructureClinical AnalyticsClinical Decision SupportClinical Decision Support SystemsEHR UsabilityHealthcare Big Data AnalyticsHealthcare Business IntelligenceHealthcare DefinitionsMachine LearningPrimers
+
+

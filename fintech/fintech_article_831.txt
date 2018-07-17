@@ -1,0 +1,41 @@
+Cyber Insurers WannaCry – The ultimate test for Cyber Insurance
+
+May 15, 2017
+
+Cyber Insurers and Brokers alike will remember Friday 12th May 2017 as the first catastrophic global cyber-attack with the ability to bring a claim under every single cyber insurance policy, all at the same time!  This is unprecedented and as you read this, it is still going!
+
+ If you haven’t already, update all windows software as soon as possible and if you are running anything less than Windows 10, update your Windows using the special Microsoft patch here.  Do a AV and Malware scan of your network, back-up your data and give everyone in your company a phishing lecture.  As this ransomware continues to circulate the globe, think before you click!
+
+ WannaCry has unleashed it-self onto the world, as a terrorist attack would, indiscriminately, with no notice and with lethal force.
+
+ This time is different
+
+ We are all too familiar with mega data breaches, where tens, if not hundreds of millions of individual’s details are hacked.  But it generally passes people’s attention as just another data breach.  So why is WannaCry different?  Firstly, this is not a hack of any particular company or system but rather the use of a highly sophisticated NSA cyber weapon which has been entwined into a form of malware called ransomware.  Secondly, the scale of the phishing attack has in 72 hours, crossed 150 countries and (Europol predicts) some 200,000 systems impacted and if the second version of the ransomware is released another 1,000,000 systems could be exposed.  To add further fuel to the disruption, the ransomware self-replicates, which means when one computer is infected it will unilaterally infect other computers in the network.
+
+ Normally a hack leads to data loss, and not to physical damage or injury.  However, in this case, one of the worst impacted entities of the ransomware has been the poorly funded NHS.  It is rare to consider the UK’s Computer Misuse Act 1990 (rather than the Data Protection Act 1998) when thinking of cyber-attacks, but in the UK, a person guilty of causing physical injury through cyber-attack can be imprisoned for life under the 1990 Act.  With almost 40 NHS Trusts on their knees, over a usually busy weekend, the chances of serious injury occurring from this attack is greatly increased.  Reports of operations, appointments and ambulances being cancelled, doctors being unable to access patient data and potentially life threatening circumstances being made even more severe, the consequences of this attack are far and wide ranging.
+
+ What could WannaCry cost Cyber Insurers?
+
+ This is where insurers start to panic, how far and how wide does this event affect them and what parts of the cyber insurance policy could be claimed under?  The only positive for cyber insurers, at this stage, is that cyber insurance is in its relative infancy, and therefore still in the early days of adoption outside the US (where some two thirds of business purchase).  It is expected only 10% of UK businesses purchases cyber insurance, but that number is rapidly increasing.  However, any positive insurers can draw from that, will quickly disappear when reminded of the scale and extent of this attack.  Every cyber insurance policy issued could bring a claim against it should the policyholder have received and clicked on the ransomware email.  It appears from stories leaked to the press so far that only $26,000 in Bitcoin has been paid to criminals, however it is not the ransoms which could be potentially crippling for cyber insurers, but the business interruption and increased costs of working.
+
+ It is the lost revenues and the costs to get systems up and running again which can cause the biggest losses to businesses impacted by the malware.  In the US, where developed data protection regulation is in place, business mostly purchase cyber/privacy liability protection and often don’t purchase the business interruption element of the coverage.  However, in Europe, Middle East and Asia, cyber insurers for some time have been offering comprehensive business interruption caused by cyber-attack in light of the relatively benign regulatory environment, and as such almost every policy has this coverage included.
+
+ The potential increased costs in working and delays caused by WannaCry could cost businesses around the world hundreds if no billions of dollars.  An example of this, is one particular NHS Trust impacted by the attack had 2,000 of its 6,000 PC’s infected.  Of these 2,000 PC’s there is a choice either to pay the ransom or wipe them.  In some cases, it may be quicker (and safer) to purchase new PC’s than try and bring back infected PC into commission.  Just this organisation alone, had it been buying cyber insurance, could be seeking a claim for millions of pounds.  Multiply these numbers by the potential of millions of companies around the globe being impacted by the attack and the cost to insurers could be in the billions.
+
+ What to do next?
+
+ Learn, learn, learn.  Understand how to identify a phishing email.  Cyber Security Training firm Blackfoot provide a good example of on-demand cyber security training.
+
+ Show your customers and other stakeholders you are serious about cyber security and certify your-self with ISO 27001 or Cyber Essentials Basic or Plus.
+
+ We advise all businesses to review their insurance policies to ensure sufficient coverage is in place, particularly regarding the coverage around ransom, extortion, business interruption and reputational harm. If you are not sure please get in touch for a Silent Review.
+
+ Written by Simon Gilbert,
+
+ Managing Director and Founder
+
+ at Elmore Insurance Brokers Limited,
+
+ specialists in cyber insurance
+
+

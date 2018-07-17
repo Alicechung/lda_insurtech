@@ -1,0 +1,33 @@
+“Basic Science” of Healthcare Big Data Analytics Still Needs Work
+
+November 03, 2017
+
+By Jennifer Bresnick
+November 03, 2017 - The healthcare industry still needs to focus on developing the foundational building blocks of big data analytics by creating and implementing meaningful data standards, says the American Medical Informatics Association (AMIA).
+In response to a call for comments from the National Library of Medicine (NLM) on how to improve the analytics and research landscape, AMIA suggested that informaticists and data scientists should create a “periodic table of data elements” that could support a plug-and-play analytics and research environment.
+“Such an approach would enable the combination and substitution of discrete data elements for specific use cases, such as quality measures, and facilitate data re-use more readily than is the case today,” AMIA said in a letter to NLM Director Patricia Flatley Brennan, RN, PhD.
+“A science of data standards focus must also include development of metadata in health and biomedicine, especially for data traceability, provenance, and accuracy.”
+Further developing an industry-wide framework of granular data specifications, complete with helpful metadata, will enable greater interoperability, including the ability to share and replicate research result.
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+“To make the kinds of progress envisioned by the 21st Century Cures Act and to deliver on the vision articulated by Triple Aim, we must be able to better process and apply data,” said Thomas Payne, MD, FACP, FACMI, AMIA Board Chair and Medical Director of IT Services at the University of Washington’s UW Medicine.
+“This starts by ensuring we understand the fundamentals behind data science, and can apply that knowledge to health and biomedicine and evolve the field in an evidence-based manner.”
+The healthcare system must focus on improving the collection of data from patients and providers, storing data in formats that are interoperable and accessible, documenting and annotating data to provide background that will aid future users, and measuring the accuracy and quality of data in a standardized manner.
+“The future of health and medicine is data,” said Fridsma. “As the science of collecting, analyzing, and applying data to health challenges, informatics can be a powerful complement to data science tools and methodology.”
+Succeeding with these basic tasks will enable providers, analysts, and researchers to take big data to the next level: integrating information from wearables, unstructured text, and other innovative data sources while controlling the inherent biases of datasets generated across patient cohorts.
+READ MORE: Turning Healthcare Big Data into Actionable Clinical Intelligence
+But in order to achieve these goals, informaticists and programmers aren’t the only ones who need to grasp the basics of big data, pointed out Payne and Douglas Fridsma, MD, PhD, FACP, FACMI, President and CEO of AMIA.
+Clinicians must be given the opportunity to develop “informatics literacy” as part of their education and training, AMIA stresses in its letter.  And data scientists must learn more about the clinical side of their work if they are to design tools and systems that adequately support clinical activities and better patient care.
+“AMIA members see a glaring need to provide basic medical/health literacy for engineers, statisticians, and image scientists whose skills will be necessary to meet the challenges presented by data science and big data in health and biomedicine,” said Payne and Fridsma.
+NLM could work with a variety of partners on developing knowledge sharing programs and integrating cross-disciplinary education into undergraduate, graduate, and post-grad programs, the letter notes. 
+The National Science Foundation, for example, offers a graduate research fellowship program that could benefit from merging medical knowledge with STEM subjects.
+READ MORE: Transparency is Key for Clinical Decision Support, Machine Learning Tools
+Training a new generation of healthcare professionals and data developers with a better understanding of each other’s specialties may help improve collaboration between those who design and implement data standards and those who use them to provide care.
+Closer partnerships between stakeholders will create a more open ecosystem, AMIA envisions, that will lead to new medical breakthroughs – if research methodologies and data sources are consistently open, transparent, and shareable.
+“Increasingly, the research community understands that reproducibility requires all software used to collect, transform and analyze the data must be publicly available for inspection, modification, and reuse, along with the data,” said AMIA.
+As machine learning, deep learning, and other advanced analytics techniques continue to mature, robust and open metadata that describes how these knowledge bases are developed and used will become increasingly important.
+NLM is uniquely positioned to oversee the healthcare industry’s progress with implementing these approaches to enhancing the big data analytics environment, AMIA concluded.
+“The NLM is an indispensable and critical component of the National Institutes of Health (NIH). The research it funds, the training it provides, and the infrastructure, tools and resources it makes publicly available are foundational to biomedical informatics and broadly applicable to domain-specific research across the NIH,” the letter said.
+“AMIA believes that the NLM is uniquely positioned to foster data science competencies, develop, or fund, data science tools / services, and otherwise be the pan-NIH home for data science.”
+Tagged Analytics InfrastructureClinical InformaticsHealthcare Data StandardsHealthcare InformaticsHealthcare Information GovernanceInteroperability
+
+

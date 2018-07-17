@@ -1,0 +1,35 @@
+Pharma, Tech Companies Set to Restructure Healthcare Big Data Market
+
+August 30, 2017
+
+By Jennifer Bresnick
+August 30, 2017 - The healthcare big data market is set another in a long series of revolutions as life science, precision medicine, consumer technology, and “omics” companies start to infuse their influence into a rapidly changing analytics environment.
+As more traditional clinical and financial datasets are joined by Internet of Things data, patient-reported outcomes, and a wealth of new genomic, transcriptomic, proteomic, and epigenomic data sources, the industry’s ability to paint extraordinarily detailed portraits of individuals and larger populations will increase exponentially, says Kalorama Information in a new report.
+"Big Data companies are looking to connect tens of millions of data sets from almost every facet of the health system — office visits, surgeries, lab tests, images, medical devices, prescriptions, and more," said Bruce Carlson, Publisher of Kalorama Information. "The derived data can be used to create patient care guidelines."
+Growing demand for personalized medicine is opening up doors for a number of new entrants into the lucrative healthcare big data environment, including consumer-oriented tech companies like Google, Amazon, and Apple.
+With massive consumer data assets at their disposal and enormous capital to invest in cutting edge machine learning and artificial intelligence, these companies are a “natural fit” for healthcare, Carlson added.
+READ MORE: Artificial Intelligence, Genomics Combo Boosts Precision Medicine
+Amazon, already a tour de force in the cloud data storage arena, is said to be launching a new healthcare lab called 1492, focused on improving interoperability and potentially building out its Alexa voice assistant product suite to address health-related use cases.
+Apple has dabbled more openly in the healthcare environment with its popular smartwatch, CareKit, and ResearchKit initiatives, collecting personal health data that is already being used for research into chronic diseases and population health. 
+The company is also rumored to be exploring the development of an iPhone-based electronic health record, which would further boost its ability to combine patient-generated health data with more detailed clinical data to offer sophisticated population health and personalized care analytics.
+Meanwhile, Google has already gone all-in on the hard sciences with its Google X research lab, Deep Mind machine learning subsidiary, and 23andMe home genetic testing company.
+The internet giant’s expansion into research and development sets it up for a leadership role in the melting pot of clinical analytics and life sciences, which aspires to produce a new generation of clinical decision support tools to augment the skills of highly-trained clinicians.
+READ MORE: Machine Learning in Healthcare: Defining the Most Common Terms
+Competition will be fierce – the clinical decision support software and services segment is anticipated to be worth more than $1.5 billion by the beginning of the next decade – and nearly everyone with a stake in the healthcare industry is eyeing a piece of the pie.
+Electronic health record companies like Epic, Cerner, and Allscripts are ramping up their clinical decision capabilities to support value-based care and population health management, while experts in the life sciences, in-vitro diagnostics, and pharmaceutical spaces are accelerating their investments in analytics platforms.
+Beckman Coulter Diagnostics, Qiagen, Roche, Illumina, and PerkinElmer are among the most eager to become players in the analytics space, says Kalorama. 
+These manufacturers are leaping into the genomics and precision medicine environments, hoping to develop end-to-end informatics platforms to enable breakthroughs in cancer, neurological conditions, and other chronic diseases.
+“Intense” merger and acquisition movement from many of these entities, including Illumina, Qiagen, and Roche, indicate rapid a restructuring of the life science analytics market, adds a report from Frost & Sullivan.
+READ MORE: How Precision Medicine Will Shift from Research to Clinical Care
+Increased demand for molecular diagnostics is driving the development of precision medicine platforms that combine next-generation genomic sequencing with advanced informatics.  
+This category of big data analytics tools generated revenues topping $415 million in 2016, and is expected to expand at a compound annual growth rate (CAGR) of 19 percent until 2021.
+"End-to-end informatics solutions focused on clinical applications is the greatest unmet need of customers," explained Transformational Health Senior Industry Analyst Piyush Bansal.
+"Researchers' reluctance to move onto external platforms due to the lack of end-to-end informatics tools and limited availability of a clinical application-focused analysis pipeline is a key industry challenge. Overcoming this challenge will be critical to success."
+These platforms will include a wide variety of omics data to enable population-scale genome sequencing that may improve providers’ abilities to predict, prevent, and proactively treat the growing number of diseases with known genetic roots.
+Combined with the advent of “in silico” testing tools that leverage computer models to accelerate drug development, the market for drug discovery informatics software is predicted to be worth $6.55 billion by 2022, Grand View Research says, forming a small but significant portion of the $88 billion global precision medicine market.  
+Largely designed as “software-as-a-service” offerings, comprehensive precision medicine platforms may be able to bring together many of the most promising big data analytics technologies available, including machine learning and artificial intelligence.
+"The expected entry of big data information technology companies will integrate healthcare (such as EHR and imaging data) and genomics data to develop and provide artificial intelligence-based computation and interpretation solutions," said Bansal.
+"This will intensify market competition and force smaller players to innovate as clinical interpretation and reporting capabilities become key differentiators among service providers."
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareGenomicsMachine LearningMedical ResearchPersonalized MedicinePrecision Medicine
+
+

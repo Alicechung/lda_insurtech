@@ -1,0 +1,13 @@
+Amberdata Releases The First Advanced Analytics Platform For Ethereum At EDCON
+
+04 May 2018
+
+Enterprise Grade Monitoring, Insights and Search
+Amberdata, the leading provider for blockchain monitoring and analytics, today announced the release of their SaaS platform supporting Ethereum at EDCON in Toronto. This community edition of the platform provides operational intelligence for public Ethereum and it will remain free for Ethereum community, smart contract developers, crypto investors and entrepreneurs building business on blockchain.
+Tongtong Gong
+Amberdata provides live monitoring and insights, smart contract metrics, personalized alerts, anomaly detection, graph visualization as well as full Ethereum blockchain search. Key performance indicators along with historical context for Ethereum infrastructure, smart contracts and transactions are easily accessible to all.
+Shawn Douglass
+“Since the platform public Beta launched at Women in Blockchain last February in New York, we have received overwhelming support, feedback and feature requests from the community”, says Tongtong Gong, co-founder of Amberdata. “We are thrilled to announce the GA release at EDCON, the Community Ethereum Development Conference.”
+Shawn Douglass, CEO of Amberdata, added: “There was no enterprise grade solution for operational insights, application performance monitoring, infrastructure visibility or search. The Splunk, AppDynamics or New Relic for blockchain had not been built. Having run software business at scale, we knew everyone would need transparency into the state and health of blockchain infrastructure, applications and transactions. This is not nice to have, but rather a required piece in the ecosystem for anyone to adopt blockchain.”
+
+

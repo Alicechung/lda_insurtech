@@ -1,0 +1,26 @@
+Social Media May Provide Big Data Insights into Drug Misuse
+
+February 13, 2017
+
+By Thomas Beaton
+February 13, 2017 - A new study in the Journal of Internet Medical Research indicates that monitoring social media feeds can provide clinicians and big data analytics professionals with valuable insight into potential drug misuse.
+Healthcare providers and community services are currently facing a growing epidemic of drug misuse and abuse.  However, the ability to capture non-clinical behavioral data at a consumer level is extremely limited. The research provided the team a deeper consumer level of insight into substance abuse.
+The research team from GlaxoSmithKline gathered 668 samples of content related to substance misuse from two online drug harm-reduction forums. Out of those posts, 63.3 percent contained messaging about non-medical/recreational use and 36.4 percent contained messages about substance abuse.
+Dig Deeper
+Addressing Opioid Abuse with Analytics, Population Health Strategies
+Big Data Analytics Cuts Medicaid Opioid Abuse, Ups Patient Safety
+CMS: Patient-Centered Care Strategies Can Combat Opioid Abuse
+The posts referenced the antidepressant Bupropion and two comparable substances, amitriptyline and venlafaxine. This data catalogued interactions where individuals sought out the substances for recreational effects.
+Social monitoring data determined that users regularly sought out Bupropion as a stimulant, amitriptyline as a sedative, and venlafaxine as a dissociative. 
+Source: JMIR
+An anonymous user’s forum post from the research data provided an example of behavioral data otherwise unavailable through traditional monitoring. 
+I dissolved a 150mg bupropian in warm water. Then I put it in the freezer and took a nap. The solution had frozen, but it thawed quickly upon shaking. I injected the solution into my arm after filtering twice through filters I got from needle exchange. Is it possible the bupropion was altered by either the freezing, or the boiling? I am definitely feeling stimulated, else I wouldn't be bothering to post and I'd continue lurking.”
+I want to get more sedation without upping my benzos or opiates. Can I add Elavil to the mix, or maybe take something out of the mix and add amitriptyline since I know it is sedating.”
+For me, going into rehab didn't stop me from finding drugs. I pretended to do well in rehab to get out. I was buddies with the nurse in rehab and he got me meth. I took my mom’s prescription pad and wrote venlafaxine to induce mania, got her to prescribe me Ritalin, etc. Rehabilitation never ends.
+Anecdotes like the user post contain types of information that patients do not typically share with their primary care providers. Social media monitoring can deliver context to providers about potential patient behaviors and abuse, even within other care pathways like rehabilitation facilities.
+The team found several other layers of substance abuse data including popular consumption methods. Of the 668 posts that discussed non-medical substance use, 32 percent provided information about consumption methods. For nonmedical users of bupropion, the most popular method of consumption was intranasal, followed by injection, rectal, and abuse in any other way.
+Social monitoring is still a work in progress that needs more guidelines, but it could provide new ways to address harm reduction in communities affected by opioids and other prescription medicine abuse.  
+"This study captured detailed data around the historically difficult-to-monitor area of misuse and nonmedical use of noncontrolled substances,” the researchers concluded. “Further study is needed to establish the benefits and limitations of social media listening in this area of safety surveillance.” 
+Tagged Big Data AnalyticsPatient Centered CarePatient SafetyPopulation Health Management
+
+

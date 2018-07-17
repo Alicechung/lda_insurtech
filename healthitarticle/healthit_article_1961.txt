@@ -1,0 +1,19 @@
+Clinical decision support, care coordination fight hepatitis C
+
+June 23, 2014
+
+By Jennifer Bresnick
+June 23, 2014 - The Office of the National Coordinator and the Centers for Disease Control are leveraging the power of telehealth and clinical decision support (CDS) tools to aid the three million American patients living with hepatitis C viral (HCV) infections, according to a blog post on HealthIT.gov, attempting to reduce the high costs associated with the chronic condition and slow the spread of the virus.  HCV is one of many conditions that illuminate gaps in the continuum of care, write John Ward, MD, Director of the Division of Viral Hepatitis at the CDC and Amy Helwig, MD, MS, Medical Officer at the ONC, including a lack of provider expertise and poor community outreach to vulnerable patients.
+The CDC funded two pilot programs in Arizona and Utah to explore the effectiveness of clinical decision support and telehealth tools in reaching at-risk patients and connecting primary care providers (PCPs) with specialists in areas of insufficient healthcare access.  The pilots, called Project ECHO, linked PCPs with specialists during weekly videoconferences, promoting the exchange of clinical data and providing opportunities for mentoring and the sharing of best practices for population health and patient management.
+Annual healthcare costs for patients infected with HCV are five times higher than other patients, the ONC says, with the number of HCV-related deaths increasing by 50% between 1999 and 2007.  “National surveys and observation cohort studies indicate that only 50 percent of HCV-infected persons in the United States have been tested for HCV,” Ward and Helwig say.  “Of these, 32 to 38 percent are referred for care, 7 to 11 percent are treated, and just 5 to 6 percent are cured.
+Sixty-six PCPs, mostly from rural settings and overwhelmingly without any prior experience with HCV care, were enrolled through the program.  With the pilot in full swing, just under half of all patients presenting with HCV received anti-viral care, “suggesting that Project ECHO is an effective model that can be used to expand primary care capacity to treat HCV infection, especially among underserved populations,” Ward and Helwig write.
+Dig Deeper
+Value-Based Care Requires Good Big Data, Better Communication
+ACOs Lack Resources, Skills for Population Health Management
+Provider Experience, Chronic Disease Impact PCMH Referral Rates
+“CDS is a powerful tool that, when effectively applied, can help improve care and health outcomes by providing up-to-date guidelines and other information to members of the care team to help inform critical decisions,” the authors write.  “Effective CDS should provide the right information (evidence-based guidelines, response to clinical need) to the right people (entire care team – including the patient) in the right medium (EHRs, mobile devices, patient portals) in the right format (order sets, flow-sheets, dashboards, patient lists) at the right times (during the office visit, preparation for an office visit).”
+The organizations will also be working to link public health and clinical care databases to help track the number of patients receiving treatment for HCV, which can lead to cirrhosis of the liver and hepatocellular carcinoma, the fastest growing cause of cancer-related deaths in the US.  The goal of the project will be to test and cure 10,000 HCV patients.
+“With support from CDC, communities are being encouraged to form coalitions of primary care, academic centers, and public health officials to implement a package of interventions to expand access to HCV testing and treatment,” the article concludes. “Guided by the experiences from these two projects, the interventions will include models of care, performance measures, and clinical decision support tools.”
+Tagged Care CoordinationChronic Disease ManagementPopulation Health Management
+
+

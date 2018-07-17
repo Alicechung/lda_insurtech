@@ -1,0 +1,33 @@
+Sepsis “Sniffer” Brings Predictive Analytics to Patient Safety
+
+December 02, 2016
+
+By Jennifer Bresnick
+December 02, 2016 - Sepsis stinks, but the Sepsis “Sniffer” Algorithm (SSA), a predictive analytics tool developed at the Mayo Clinic, is a promising tool for helping clinicians identify high-risk patients more quickly an accurately than manual methodologies.
+In an article published in the January/March 2017 edition of the Journal of Nursing Care Quality, a multi-hospital health system study found that the SSA reduced the chances of incorrectly categorizing patients at low risk for sepsis while detecting high-risk situations in half the time it typically takes for clinicians to recognize symptoms and begin treatment.
+The tool also reduced redundant nursing staff screenings by 70 percent and cut manual screening hours by up to 72 percent, said authors from Sentara Healthcare in Virginia.
+“Sepsis affects more than 1 million individuals in the United States annually, with estimated treatment costs at more than $20 billion,” the study says.  “Often, nurses use manual surveillance methods to screen patients admitted to the hospital for sepsis risk, which may not be an efficient use of nurses' time.”
+Dig Deeper
+Big Data Analytics, Governance Align CHI’s 100+ Hospitals
+EHR, Lab Data Support Pediatric AKI Analytics Dashboard
+Will Clinical Decision Support, Health IT Cut Diagnostic Errors?
+“Manual surveillance is labor intensive and may be performed too late or not at all,” the authors added. 
+The research team tested the impact of the predictive analytics algorithm against the more traditional Nurse Screening Tool (NST) procedure, which requires nursing staff to collect vitals and other data for all patients within 4 hours of hospital admission and every 12 hours after that. 
+The NST protocol uses a 1 to 4 scale for categorizing patients by risk.  Patients with a score of 2 or 3 are classified as “high-risk,” meaning they show signs of infection, systemic inflammatory response syndrome (SIRS), and/or organ failure.
+While the 12-hour screening cycle is intended to ensure that patients with indications of infection are identified as soon as possible, sepsis can advance rapidly and may require an even quicker response time.
+The SSA electronically monitored patient vitals and demographic data to assign a risk score, and triggered an alert requesting nurses to perform a manual NST whenever the patient’s risk increased.  Nurses were expected to complete the NST within fifteen minutes of the algorithm’s alert.
+“In clinical practice, if the SSA determines the sepsis status as high risk, the EMR should prompt the nurse to critically assess the patient's condition with the NST before initiating appropriate treatment protocols,” the study said.
+The researchers found that both the NST and SSA produced high negative predictive values (98.03 and 97.23 respectively), meaning that patients identified as low-risk by either method did not end up with a diagnosis of sepsis coded on their final bill. 
+However, the manual review was significantly more effective at accurately categorizing patients as low-risk, and exhibited a stronger correlation with diagnosis coding.
+But the SSA did produce a positive impact on the number of screenings required overall.
+“The baseline NST totaled 68,652 initial screens, with 704,232 subsequent screens during the study period,” the researchers explained. “The conservative SSA approach maintained initial NST screens on admission for all patients, but subsequent NST screens were performed only with a SSA-triggered sepsis alert,” resulting in a 70.3 percent reduction in the total number of NST screens performed.
+The predictive analytics tool also halved the time between initial symptoms and detection while also decreasing average patient length of stay by about one day.  Differences in mortality rates were not statistically significant.
+“Leveraging digital alert technology, such as the SSA, may identify sepsis risk earlier and reduce manual surveillance efforts, leading to more efficient distribution of existing nurse resources and improved patient outcomes,” the authors concluded.
+While predictive analytics tools like the SSA are not yet sophisticated enough to supplant close human monitoring of at-risk patients, they can start to serve as supplementary clinical decision support aids to help nurses and other clinicians make more informed choices about patient care.
+“Identifying and testing new and existing digital alert technologies, such as the SSA, intended to support nurses' decision making and care delivery will be even more important as health care organizations provide cost-effective care through efficient workforce management,” the study said.
+“Specifically, preserving nurse hours expended on manual sepsis surveillance may translate into time directed toward other patient priorities. For this very reason, the SSA warrants further investigation.”
+How Big Data Velocity Informs Population Health, Patient Safety
+The Difference Between Big Data and Smart Data in Healthcare
+Tagged Analytics InfrastructureCare QualityHospital QualityPatient SafetyPredictive Analytics
+
+

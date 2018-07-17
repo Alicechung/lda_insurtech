@@ -1,0 +1,29 @@
+Can Senate Health Data Interoperability Proposals Improve HIE?
+
+January 25, 2016
+
+By Jennifer Bresnick
+January 25, 2016 - Health data interoperability owes a significant debt to the Senate Health Committee, which has been instrumental in goading the industry towards improved health information exchange over the past year or so.
+Through a series of high-profile public hearings, Senate health committee Chairman Lamar Alexander (R-TN) and a number of other prominent lawmakers have needled vendors, providers, and regulators on the slow, cumbersome, and contentious process of developing a seamlessly interoperable health data ecosystem that will enable the big data analytics and population health management capabilities so many providers crave.
+After kick-starting the vendor community’s renewed focus on data exchange, the Senate committee is putting the final touches on a new legislative package that would have wide-ranging implications for the future of the health IT industry.
+“Health information moving seamlessly among doctors and hospitals is vital for the future of medicine and essential to improving patient care,” said Alexander in a press release.
+The bi-partisan committee has been working to create meaningful legislation to improve the quality and functionality of electronic health records, and is now asking for industry comment on its proposals to boost interoperability and EHR usability, eradicate information blocking, and ensure that health IT tools can actively aid the delivery of high quality care.
+READ MORE: What Healthcare IT Users Don’t Really Need to Know about FHIR
+“The committee has been working for months on legislation to help improve electronic health records, and it involves especially technical work to get this right, which is why our committee looks forward to feedback on today’s draft from doctors, hospitals, health IT developers, and other experts in this area of health care,” Alexander said.
+The bill contains eight major features that aim to improve the development and use of health information technology:
+Assisting providers with quality improvements by reducing documentation burdens and convening public and private stakeholders to create strategies for administrative simplification.  The legislation also suggests the certification of health information technologies targeted to specific specialties and provider types, which may reduce the frustration of specialists trying to optimize products designed for traditional primary care settings.
+Establishing an independent rating system for EHR usability and security that will give providers greater confidence when purchasing health IT products.  Such a system would allow users to share feedback on their experiences with the tool’s security, usability, interoperability, and other critical selling points.
+Eliminating information blocking by giving the HHS Office of the Inspector General (OIG) the authority to investigate data blocking activities and enforce deterrents to poor practices.
+READ MORE: Unfiltered EHR Data Overloads Physicians, Perpetuates Burnout
+Improving health data interoperability by bringing together existing health data sharing networks to foster a truly standardized, communal “network of networks” framework for health information exchange.  The bill would also create a digital provider directory and establish a set of standardized common data elements to streamline quality reporting.
+Leveraging health IT to improve care quality by requiring certified health IT tools and certified physician registries to both have the ability to send and receive data.  Vendors would also be included in Patient Safety Organizations, which will allow closer collaboration when developing health IT tools with a focus on patient safety.
+Expanding patient access and patient engagement, which will encourage patients to take control of their own health.  The legislation would support the certification and development of patient-centered health IT tools that allow secure and intuitive communication.  Health information exchange organizations would be encouraged to deliver education to providers, while HHS would be required to clarify health data sharing misunderstandings that currently plague the industry.
+Encouraging trust relationships for Certified EHR Technology by ensuring that certified products are capable of trusted, secure data exchange with other similar products.
+Commissioning a GAO study on improved patient matching techniques, such as better defining or adding more standardized data elements used for patient identification or mandating that EHR products must make certain patient identification data elements required for every patient record.  While the report would consider critical patient privacy and security issues, the legislation makes no specific mention of exploring the potential of a national patient identifier.
+READ MORE: Can $10B Solve Healthcare’s Big Data Analytics, Productivity Woes?
+“I’m pleased that we were able to make bipartisan progress toward strengthening our nation’s health IT infrastructure so that patients, families, and providers have better tools to drive medical decision making and treatment,” said Committee Ranking Member Patty Murray (D-WA).
+“This draft legislation is an important step forward, and I look forward to hearing feedback from doctors, patients, health IT developers, and experts from Washington State and across the country.”   
+To read the full draft discussion document, please click here.  A short summary of the legislation is also available here.
+Tagged Analytics InfrastructureHealth Information ExchangeHealthcare Data GovernanceInteroperability
+
+

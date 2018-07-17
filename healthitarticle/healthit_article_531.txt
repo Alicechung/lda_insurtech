@@ -1,0 +1,44 @@
+Lack of Talent, Direction Afflict Healthcare Data Analytics Plans
+
+March 22, 2017
+
+By Jennifer Bresnick
+March 22, 2017 - Healthcare organizations are eager to dive into big data analytics projects that improve clinical quality and reduce inefficiencies, but a chronic lack of qualified talent, concerns about interoperability, and uncertainty over where to start are still presenting some major challenges.
+An online poll of HealthITAnalytics.com readers found that half of organizations are seeking data science experts to provide leadership, support, and technical know-how for analytics initiatives, but have not yet been able to attract the staff they need to break through existing barriers.
+Just over 31 percent of respondents said they are unsure where to begin when it comes to data analytics initiatives, making an experienced, fully-staffed analytics department even more of an organizational imperative. 
+Even when organizations are able to design an analytics roadmap, they quickly run into some familiar bumps along the big data superhighway.
+Fifty-seven percent are struggling with interoperability problems, data siloes, electronic health record optimization, and workflow issues that are preventing them from leveraging their data assets, while 34 percent are still trying to convince their clinical end-users that their health IT tools are worth the effort.
+Source: Xtelligent Media
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+Perhaps surprisingly, given the quickly maturing analytics marketplace and intense focus on data exchange, more organizations are having issues with talent and interoperability than they were in 2016. 
+During last year’s reader survey, just 47 percent cited interoperability as a top challenge, and only 42 percent were in search of analytics staff to work on population health management, clinical analytics, and business intelligence initiatives.
+On the other hand, concerns over budget constraints and executive buy-in have rapidly declined.  While more than half of respondents in 2016 were facing financial shortages, that number dropped to a mere 17 percent this year.
+The shift may indicate that healthcare organizations have finally started to get their pilots and programs off the ground, and are now running into technical challenges that are preventing them from making as much headway as quickly as they would like.
+Respondents have some ambitious plans for their data, and are actively working to integrate multiple sources of information to generate actionable clinical and administrative insights. 
+READ MORE: The Role of Healthcare Data Governance in Big Data Analytics
+Close to ninety percent are live on an electronic health record, with a further 6 percent in the process of adopting one.  Sixty-five percent are using a business intelligence or analytics solution, with the majority of those respondents committing to a commercially-available toolkit.
+Three-quarters of participants are already using or plan to use claims data to enhance clinical decision-making, followed closely by 62 percent who are interested in patient-generated health data.  
+Source: Xtelligent Media
+More than half are making room for laboratory data, while somewhat fewer providers are focusing on information received through a health information exchange, socioeconomic or community data, and medical device data.
+Pharmacy data, patient safety data, and post-acute care records were among the sources also on the agenda for about 20 percent of readers.
+These big data sources will support a variety of organizational initiatives, including clinical quality benchmarking (80 percent), operational performance reporting (77 percent), and population health management (77 percent).
+Source: Xtelligent Media
+READ MORE: Preventing Big Data Pain Points During a Healthcare Encounter
+More than half are seeking the data analytics competencies to allow them to participate in value-based care, and just over 40 percent are interested in developing point-of-care clinical decision support.  Only 22 percent reported that the development of a precision medicine or personalized medicine program is a high priority goal.
+Population health management and quality benchmarking are likely to remain top of mind for organizations for the next two years as they develop strategies for cutting costs while coping with complex chronic disease patients.
+Meaningful use, MACRA, and value-based purchasing arrangements are among the most significant motivations for providers to jumpstart their big data programs, followed closely by population health management, patient safety, and operational improvements driven by business intelligence.
+Source: Xtelligent Media
+Achieving those goals won’t be easy, however.  When respondents were asked what they would wish to change about how their organizations are handling their analytics programs, they took issue with how project leaders coordinate tasks and leapfrog foundational infrastructure issues.
+“Put more emphasis on [developing] a solid data warehouse before investing in a good business intelligence tool,” said one participant.
+“We need to get the EHR aligned throughout the system first,” stated another.
+More than half of respondents to the open-ended question said collaboration was lacking across multiple individual projects, resulting in miscommunications and duplicated effort.
+“Bring in more data experts,” urged a reader. “And for those [that are] present, create a more collaborative environment to utilize resources and identify correlations between findings.”
+Breaking down organizational siloes is just as important as overcoming technical ones, the survey indicates, reinforcing the need for strong project leadership from experts who understand how all of the components of a big data analytics initiative should fit together.
+The findings closely mirror those of the 2017 HIMSS Leadership and Workforce Survey, which identified a similar thirst for available talent.  In that poll, just 38 percent of providers said their analytics offices were fully staffed, while 43 percent are actively looking for employees to fill vacant roles.
+This state of affairs may be good news for jobseekers, but providers looking to break down their big data barriers are likely to continue to struggle with interoperability, EHR workflows, and lackluster health information exchange if they cannot attract top performers to their teams.
+Executive leaders may be able to improve their chances of securing valuable data scientists and infrastructure architects by developing a clear and comprehensive roadmap that lays out specific analytics goals for their organizations. 
+Starting with a strong vision and a clear flowchart for tasks and responsibilities can help prevent the communication problems that are at the root of so many respondents’ dissatisfaction – and make the organization a more hospitable place for data analysts to call home.
+By ensuring that disparate departments are working together for a shared idea of the common good, organizations are more likely to see success with the population health, quality improvement, and patient safety programs that mean so much to them while keeping inefficiencies and redundancies to a minimum.
+Tagged Analytics InfrastructureEHR OptimizationHealthcare Big Data AnalyticsHealthcare Business IntelligencePopulation Health ManagementRevenue Cycle Analytics
+
+

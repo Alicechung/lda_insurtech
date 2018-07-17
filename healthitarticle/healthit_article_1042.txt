@@ -1,0 +1,68 @@
+Decoding 10 More Top Healthcare Big Data Analytics Buzzwords
+
+February 17, 2016
+
+By Jennifer Bresnick
+February 17, 2016 - The healthcare industry is constantly changing, and new technologies, tools, strategies, and initiatives are popping up at a breakneck pace. 
+You’ve read through our first primer on the most common terms and phrases you’re likely to hear if you spend any time in the big data analytics universe.  Now it’s time to tackle a few more. 
+HealthITAnalytics.com presents, in alphabetical order, the next ten concepts you’ll need to know in order to stay current with the latest health IT developments.
+Care coordination
+Even in the most tightly controlled integrated delivery networks, patients will always need to seek at least a portion of their care from some sort of unaffiliated provider.  Whether it’s a one-time consult with a specialist, a routine dialysis program, a visit to a behavioral health provider, or an unforeseen trip to an out-of-state emergency department, care delivery will always be a fragmented process.
+And for complex patients with multiple long-term needs or a complicated diagnostic process, collecting all the right information from disparate providers – not to mention helping patients sort through a laundry list of appointments, prescriptions, referrals, and instructions – can be a difficult process.
+Care coordination can be best defined as the act of ensuring that patients can effectively navigate the care continuum, and that their critical personal health data follows them from provider to provider in order to ensure informed decision-making.
+With the advent of value-based reimbursement and a growing focus on patient outcomes rather than individual services, care coordination is even more important to the changing healthcare industry.  Many providers are currently investing in dedicated patient navigators or mid-level providers with expertise in case management as a way to improve patient satisfaction, cut unnecessary hospitalizations or other expensive events, and help patients best manage their chronic conditions.   
+Chronic disease management
+For patients with diabetes, heart disease, hypertension, COPD, or other long-term illnesses, good care coordination is just one part of the chronic disease management package. 
+Other key aspects of this process include the delivery of regularly scheduled preventative care visits and screenings, the development of meaningful communication pathways between patients and their providers, patient education that encourages changes in lifestyle choices or self-care activities that maintain good health or forestall acute events, and appropriate integration of social services or external care givers into the patient management team.
+As chronic diseases continue to consume a staggering proportion of the nation’s annual healthcare spending, providers are desperately seeking health IT tools and strategies to help their patients keep their blood glucose, hypertension, asthma, and obesity under control. 
+In addition to the good old-fashioned office visit or monthly phone call, technologies like telehealth, remote home monitoring devices, smartphone apps, wearables and Internet of Things devices, and patient portals are playing a critical role in the process of maintaining constant communication with patients while carefully monitoring their progress or setbacks.
+Data warehouse
+The data warehouse has become one of the foundational tools of the modern healthcare industry.  These centralized repositories of information can take many different forms, and may hold several different types of data: clinical, financial, administrative, or even patient-generated.
+Data warehouses can be architected to store information in several ways.  Early-binding models sort data into distinct, standardized categories at the very start of the process, allowing analysts to work with very structured and regular elements for specific reporting purposes.
+Late-binding data models, however, allow for a more fluid approach.  These storage systems don’t require all data to fit into pre-defined categories, which makes it easier for analysts to be creative with the way they compare and contrast information.    This strategy may also be more responsive to changes, since the data is not locked into a format only usable under certain pre-defined conditions.
+Semantic data lakes and graph databases are some of the most attractive advances in big data analytics for the healthcare industry.  These models leverage natural language processing and machine learning techniques to generate actionable insights from a huge pool of free-form data in ways that seem almost artificially intelligent.
+Descriptive analytics
+A good data warehouse is an excellent way to get started with descriptive analytics, the most basic way to use your big data.  This first step, which is followed by predictive and prescriptive analytics, can help organizations understand what has happened to their patients, their business, or their revenue streams.
+Descriptive analytics can answer historical questions such as:
+How many 30-day readmissions did we see last year?
+What is the average number of bed-days our surgical patients spent in the ICU?
+When are the busiest hours in the emergency department?
+How do nursing staffing levels correlate to the hospital-acquired infection rate over the past two years?
+While these are important issues to address in order to improve quality, protect patient safety, deliver optimal care, and gain insights into business operations, descriptive analytics doesn’t allow real-time access to constantly changing data, and can’t help providers predict future adverse events – or avoid them all together.  Read on to learn more about how predictive and prescriptive analytics can address these challenges.
+Machine learning
+Akin to artificial intelligence efforts, machine learning happens when a computer is able to answer questions to draw conclusions that it was never specifically programmed for.
+Supercomputers like IBM’s Watson are famous for advancing this sophisticated brand of analytics, which relies on a combination of natural language processing and algorithmic expertise to identify patterns that may be beyond the ability of humans to detect. 
+While it may seem like a set-up for the next post-apocalyptic blockbuster, machine learning has already been used to delve into important patient management issues, including risk stratification, precision medicine, clinical decision support, and disease forecasting.
+Master patient index
+For any consult or office visit, providers must start with one basic task: ensuring that the data on their laptop screen matches the patient sitting in front of them.  While this may seem like it should be a no-brainer, any patient who has been asked to confirm her name and birthdate six or seven times during a routine check-up is already aware that keeping patients and data together requires care and attention.
+The master patient index is one of the critical tools that makes this possible.  A slip of the keyboard, a forgetful patient, an outdated address, or a transposed digit in a Social Security Number can be a major disaster for data integrity without a robust MPI.
+This technology can help providers reconcile duplicate files, prevent inappropriate data merges, and ensure that data sent to and from a health information exchange is accurate and complete.  Each new patient is assigned an internal medical record number that acts as a unique identifier, and each individual data element – name, address, birthdate, sex, or SSN – is used to build statistical confidence that a match is correct.
+Automated data mapping can flag worrisome records, which can then be double-checked by a human health information manager.  
+The MPI is usually developed as an in-house tool for care coordination and data integrity, and may be significantly different from one organization to the next.  In the absence of a national patient identification system, however, it is currently the best technology available.
+Patient engagement
+Good healthcare is a team effort, and patients themselves are becoming the most valuable players in the game.  Patient engagement is often cited as one of the key pieces of healthcare reform and a top priority for providers who are looking to get paid based on care quality and patient outcomes.
+But the process of encouraging patients to take change of their own health, communicate more freely with providers, educate themselves about their chronic conditions, and make smarter choices about costs and services is not a simple one.
+Healthcare organizations have struggled severely with the task of getting patients to view and download their own health data through online patient portals, citing low consumer interest, inconsistent follow-through, and little tangible value as reasons why online communication tools have gained little traction.
+Yet patients are engaging – they’re just doing it a little differently than federal regulators have decreed they should.  Using mobile devices, telehealth, independently-developed apps, and consumer-focused wearable gadgets, patients are eager to take their health into their own hands, especially if it means cutting expenses when living with a high deductible insurance plan.
+Patient-generated health data
+Part of the provider’s patient engagement challenge is coping with a new set of big data created by devices and apps that have little or no integration with the core electronic health record. 
+The growing consumer interest in the Internet of Things, which includes wearables like FitBits and Apple Watches, along with diet and fitness tracking apps, smart scales, internet-connected blood pressure cuffs, Bluetooth blood glucose monitors, and more, is creating a huge volume of patient-generated health data (PGHD).
+This information can be valuable for chronic disease management and remote monitoring, but it is also noisy, unwieldy, often poorly standardized, and borderline unusable for the average primary care physician.  PGHD presents enormous challenges for healthcare organizations who aren’t even sure that the data is useful, let alone how to integrate it into the routine workflow.
+However, those organizations that have figured out how to best collect, store, and analyze patient-generated health data are seeing almost immediate returns on their investment.  A recent survey found that three-quarters of providers who have successfully harnessed PGHD have accrued financial returns.
+And of course, PGHD is a key ingredient in the two advanced stages of big data science known as predictive and prescriptive analytics.
+Predictive analytics
+At the moment, predictive analytics is still a reach goal for many healthcare providers.  The ability to see the future through the lens of big data requires significant technological investment, a savvy data science team, and a clinical staff well-trained in best practices for EHR data integrity.
+Predictive analytics allows organizations to go beyond the basic “what happened last year” questions to answer tougher queries:
+Is this patient in the process of developing sepsis?
+Are a group of beneficiaries with a certain set of characteristics more likely than others to develop diabetes?
+Where will the seasonal flu strike next?
+Which patients need additional monitoring to prevent harmful falls?
+A flexible data warehouse is a good foundation for predictive analytics, and many organizations are using their robust data stores to develop custom algorithms and clinical decision support protocols that will alert providers to high-risk patients, upcoming trends, or potential problems before they happen.
+Prescriptive analytics
+While few organizations have done more than scratch the surface of predictive analytics, it’s actually not the most advanced type of big data manipulation there is.  Prescriptive analytics is the holy grail of data science: the ability not only to predict events before they occur, but to prevent them for happening at all by suggesting proactive changes to policies or procedures.
+An example of this type of analytics is a self-driving car that not only identifies the stopped vehicle in front of it, but actively makes a decision to slow down or swerve out of the way to avoid a collision.
+The applications in the healthcare industry are nearly limitless: generating grocery lists based on past food choices to create a healthy meal plan targeted to a heart disease patient; prompting providers to choose a different blood thinner for a patient with a genetic makeup that reduces the medication’s efficiency; recalculating staffing schedules to ensure optimal coverage in the emergency department when Twitter users start complaining about their asthma.
+Prescriptive analytics synthesizes most of the technologies and trends that have gotten healthcare providers so excited over the past few years.  While it remains an elusive and ambitious objective at the moment, due to the state of maturing health IT systems and incomplete interoperability across disparate data sources, the industry is quickly pushing towards making sophisticated big data analytics the cornerstone of a data-driven care ecosystem.
+Tagged Analytics InfrastructureCare CoordinationHealthcare DefinitionsListsPopulation Health ManagementPredictive AnalyticsPrimers
+
+

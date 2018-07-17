@@ -1,0 +1,53 @@
+6 EHR, Big Data Issues Impede Patient Safety, Cut Quality
+
+June 13, 2016
+
+By Jennifer Bresnick
+June 13, 2016 - As part of its efforts to understand the impacts of health IT on patient safety in the clinical setting, the Office of the National Coordinator has released a pair of reports outlining the challenges of using electronic health records, patient monitoring tools, and big data analytics technologies to improve the quality of care.
+The two reports, which follow the 2015 publication of the ONC’s Health IT Safety and Surveillance Plan, examine recent evidence about the role played by EHRs and other health IT systems in preventing – or producing – patient harm, including near-miss events. 
+They also explore the need for improved health data interoperability, better reporting and analytics of patient safety events, and the perennial question of how EHR usability affects the way clinicians care for patients.
+“Safety is and always has been a top priority at ONC,” wrote ONC Chief Medical Information Officer Andrew Gettinger, MD, in a blog post on Health IT Buzz.  Gettinger is also the Director of the Office of Clinical Quality and Safety.
+“Last year, we issued the Health IT Safety and Surveillance Plan with the charge to ‘Learn, Improve, and Lead’ on health IT safety."
+READ MORE: EHR, CPOE “Value Chain” Begins and Ends with Patient Safety
+"As part of this ongoing effort, today we are publishing two external reports we supported: Report of the Evidence on Health IT Safety and Interventions and Goals and Priorities for Health Care Organizations to Improve Safety Using Health IT.”
+The studies are founded on the idea that optimal health IT use relies on the confluence of five sociotechnical factors: the external environment, organizational culture, processes in place, quality and usability of technology, and the training and habits of human users.
+This framework, proposed by the Institute of Medicine (IOM), can guide stakeholder efforts to identify health IT risks and change usage patterns that may put patients in harm’s way. 
+Various patient safety organizations, including ECRI, the Agency for Healthcare Research Quality (AHRQ), and the National Quality Forum (NQF), have used similar methods to structure their own patient safety reporting suggestions, the ONC notes, adding to the available body of evidence for healthcare stakeholders.
+“Creating models, frameworks, taxonomies, and other categorization schemes is typically the first requirement in any new field to develop common terminology and organize further thought,” the Report of the Evidence on Health IT Safety and Interventions and Goals and Priorities says.
+READ MORE: Big Data Analytics, Governance Align CHI’s 100+ Hospitals
+“The proliferation of methods to organize health IT-related safety events is a valuable contribution and reflects the intense interest to address these concerns.”
+However, because so many different methodologies are available to providers, the healthcare system as a whole now faces a new series of issues with aggregating data, comparing data produced in different formats, and using information consistently to improve quality.
+The study flags big data as both a problem and an opportunity for the realm of patient safety.  Because EHRs often struggle to display disparate sources of information in an easy-to-access, comprehensible manner within a single user interface, clinicians often feel overloaded by data streams arriving from local health information exchanges, partner providers, or even the patients themselves.
+Poor interoperability means that this data isn’t just confusing to access, but may also be incomplete, outdated, or full of errors.  These data integrity flaws may lead to diagnostic errors, inaccurate medication reconciliation, duplicated services, or missed opportunities to provide necessary care.
+Other potential pitfalls of using EHRs and other health IT tools include patient misidentification, alert fatigue for clinicians, communication breakdowns between providers, and delayed identification of adverse events that may lead to serious harm or death.
+READ MORE: Will Clinical Decision Support, Health IT Cut Diagnostic Errors?
+While providers recognize that something must be done to prevent these negative situations, the second report outlines six key issues that make it difficult for healthcare organizations to tackle the roots of their patient safety problems.
+In conjunction with RAND Corporation, ECRI, and health informaticists at Baylor University and the University of Texas, the ONC worked to identify the following patient safety improvement obstacles.
+Readiness and willingness to make improvements to health IT-related patient safety issues
+Every new project must start with the recognition that changes need to be made, but many organizations struggle to get patient safety initiatives off the ground.  Two-thirds of care sites invited to participate in the collaborative patient safety project declined to participate, the report says, possibly because they lacked the basic reporting infrastructure and safety improvement competencies to feel as if they could make meaningful gains.
+The toll of competing initiatives
+Organizations that feel unready to invest in patient safety improvement efforts may be concerned about the toll of competing initiatives on their budgets and resources.  The report states that many providers felt that programs such as meaningful use must take precedence, and that organizations often diverted available resources to these projects when possible.
+Lack of leadership and executive engagement
+Healthcare providers that enjoy strong and engaged executive leadership tend to perform better on patient safety improvement efforts, the ONC says.  An organizational culture that encourages non-punitive reporting and demonstrates a commitment to safety at all levels of care is required to foster the blame-free, collaborative environment that will produce quality results.
+Perceptions about the role of health IT in patient safety
+Many clinicians at ambulatory practices “tended to view health IT as a solution and found it challenging to identify new safety risks being introduced,” the report says.  While hospital staff did not feel the same way quite as often, this interesting finding may help to explain one reason why providers may not see a pressing need to optimize or change their health IT use.
+Trust in technology is not always a negative trait, but providers must turn a critical eye to their electronic health records and clinical decision support tools in order to identify areas for technical improvement as well as opportunities for users to become more proficient with the tools at hand.
+Inadequate organizational resources
+Both financial constraints and a dearth of available human resources may negatively impact patient safety improvement efforts at healthcare organizations.  Optimizing, replacing, or upgrading health IT systems takes time, expertise, and investment that many providers may not have.
+Providers may wish to address and assess their internal communication practices as well as their project management competencies before committing to a technology overhaul in order to maximize existing resources and reduce disruption.
+Lack of access to quality improvement tools
+Lastly, the ONC says, organizations may simply be unaware of the quality improvement tools available to them, or may not have the expertise in-house to get started with a comprehensive patient safety overhaul.
+The report suggests that providers start the quality improvement process by taking the following steps to understand their gaps in health IT use:
+• Evaluate the quality and integrity of existing clinical documentation to ensure that patient identification is accurate, users are appropriately leveraging standardized data fields, and that accuracy, completeness, and timeliness are top priorities for EHR users
+• Establish goals and priorities for data creation and use, including strategies to address poor data integrity and to identify errors or missing data elements
+• Integrate health IT into a meaningful and user-friendly workflow that prioritizes effective alerts, eliminates dangerous workarounds, and presents information in an intuitive manner
+• Improve communication between providers to prevent gaps in information, develop smooth patient transfer protocols, and prevent distractions from producing negative outcomes
+• Utilize clinical decision support technologies to manage medications, prevent adverse medication-related events, and avert over- or under-dosing situations
+The ONC SAFER guides, as well as resources from patient safety organizations such as ECRI, CRICO, and the Joint Commission, provider more detailed resources and tools to help providers meet quality and safety goals.
+The ONC has also committed to the creation of the Health IT Safety Collaborative, an industry-wide effort to support the development of new recommendations for leveraging health IT for patient safety improvements.
+“The Collaborative and associated activities will bolster patient safety across the health IT community, will generate substantial efficiencies by enhancing coordination and alignment of activities, and will encourage greater levels of private investment in health IT safety,” Gettinger said.
+“It builds on our efforts to ensure that health IT developers build their systems following usability principles; facilities and providers implement their systems and workflows to ensure they are used safely, and making sure that all the users are trained in using the new systems.”
+“We know that we can help to reduce the potential of health IT-related safety events to ensure better outcomes for patients. Working together, we have a tremendous opportunity to improve health care by improving the safety of health IT. I encourage our health IT stakeholders to download and read these two reports and put the other tools we have developed to work.”
+Tagged Care QualityEHR UsabilityHealthcare Data GovernanceHospital QualityPatient Safety
+
+

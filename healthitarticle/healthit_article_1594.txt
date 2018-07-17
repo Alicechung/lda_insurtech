@@ -1,0 +1,19 @@
+FDA Uses Genomics, Big Data Analytics to Track Food Poisoning
+
+February 13, 2015
+
+By Jennifer Bresnick
+February 13, 2015 - The FDA is combining big data analytics and genomics in its GenomeTrakr database to pinpoint the source and cause of foodborne illness outbreaks.  The database, part of the agency’s Technology Transfer program, allows the FDA to respond more quickly to contaminated products that enter the food supply and contribute to the 325,000 hospitalizations and 3000 deaths related to foodborne illness every year.
+GenomeTrakr uses whole genome sequencing (WGS) to create a complete DNA profile for dangerous pathogens that can lead to serious illness in humans.  “The process is being used together with GenomeTrakr to identify pathogens isolated from food or environmental samples and compare them to pathogens isolated from sick patients,” writes Alice Welch, PhD, Director of the FDA’s Technology Transfer Program in a blog post on FDA Voice.
+“If the isolates from food or environmental samples match the pathogens taken from the sick patients, scientists can establish a reliable link that helps characterize the size and location of the foodborne disease outbreak,” she continued. “It can even help public health officials determine which ingredient in a multi-ingredient food is causing the outbreak—so that we can get contaminated food out of the food supply. Used by epidemiologists in combination with traditional methods, WGS is advancing our understanding of contaminations in the food supply.”
+The database is still growing, Welch says, and can provide regional guidance for FDA food inspectors trying to get to the root of an outbreak.  “Since the first state public health lab collaboration was established in February 2012, FDA, along with other international, federal, and state laboratories have added genome sequences for more than 11,000 isolates to the GenomeTrakr database, and we are already seeing impressive results,” Welch writes. “In early 2014, through a partnership with CDC, FDA and state department of health laboratories used GenomeTrakr to match environmental and food samples with human biological samples, which helped FDA confirm the source of Listeria in an outbreak.”
+Dig Deeper
+Opioid Awareness Week Focuses on Population Health Management
+Social Media May Provide Big Data Insights into Drug Misuse
+CMS QIO Awards Promote Patient Safety, Healthcare Quality
+The project is one of many big data analytics undertakings at the FDA, which recently announced the rollout of an expanded Sentinel Initiative to combine EHR data with clinical analytics to provide active drug safety surveillance for the healthcare industry. “While protecting the identity of individual patients we can get valuable information from Mini-Sentinel that helps us better understand potential safety issues, and share with you information on how to use medicines safely,” wrote Janet Woodcock, MD, Director of the Center for Drug Evaluation and Research.
+Big data analytics projects that can speed patient safety and inspire more effective regulation are high on the FDA’s priority list, according to its latest strategic report. “An increasingly global and complex marketplace, rapidly evolving technologies, and emerging areas of science are having a major impact on FDA’s mission to promote and protect the public health,” the report says.
+“FDA must tackle these new challenges expeditiously, as we continue to meet our core responsibilities. Working collaboratively with our international regulatory partners, we will continue efforts towards international harmonization and regulatory convergence. We achieve this by using smart regulatory approaches to streamline and modernize our regulatory programs and minimize regulatory uncertainty for industry, while protecting and maximizing public health and safety.”
+Tagged Big DataBig Data AnalyticsPatient Safety
+
+

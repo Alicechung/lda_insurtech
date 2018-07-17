@@ -1,0 +1,9 @@
+Wave Computing To Contribute Its Versipoint Technology For Use Across The Deep Learning Industry
+
+23 Mar 2018
+
+Wave Computing®, the Silicon Valley company that is revolutionizing artificial intelligence (AI) and deep learning with its dataflow-based solutions, announced today that it will contribute its variable fixed-point training technology, called Versipoint™, to the TensorFlow open source development community. Wave’s Versipoint technology enables data scientists to quickly train neural networks without the need for energy-consuming floating point hardware, such as in a GPU. Developed by Wave’s leading deep learning team and implemented as part of the company’s dataflow acceleration systems, Versipoint helps Wave’s systems deliver greater compute efficiency and better overall deep learning performance.
+Dr. Debajyoti Pal is Wave’s Vice President of Machine Learning and an IEEE Fellow who is renowned in the fields of adaptive signal processing, digital communications and control theory. Dr. Pal commented, “Wave’s Versipoint technology is another example of how we are advancing the forefront of deep learning while giving back to the AI community. We believe that broadened access to our more efficient fixed point training and inferencing technology will help developers better commercialize their multi-layer, deep learning models across a larger class of AI applications.”
+“Wave Computing’s generous offer to release its Versipoint technology to the TensorFlow community will bring more efficient machine learning training to a wider group of researchers and practitioners,” said Kevin Krewell, Principal Analyst at TIRIAS Research.
+
+

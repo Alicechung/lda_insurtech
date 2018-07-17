@@ -1,0 +1,51 @@
+Artificial Intelligence in Healthcare: Augmentation or Companionship?
+
+February 24, 2017
+
+By Jennifer Bresnick
+February 24, 2017 - Every year, the HIMSS Conference and Exhibition acts as a barometer for the health IT industry, reflecting the most promising trends and hottest buzzwords capturing the attention of regulators, developers, providers, and consultants.
+In 2015, “big data analytics” had just hit the scene as the must-have initiative for healthcare organizations.  In 2016, data collection started to morph into data usage, and “population health management” became the term du jour. 
+This year in Orlando, the excitement centered on the next phase of analytics evolution – and some would say human evolution – which is the promise of real, personalized, and meaningful artificial intelligence.
+Machine learning and artificial intelligence have quickly become such popular topics for the vendor community that HIMSS invited IBM President and CEO Ginni Rometty to set the tone for the celebration of healthcare technology.
+Not surprisingly, given IBM Watson Health’s explosion of research and development activities over the past two years, her opening keynote address to the 40,000 attendees of the conference centered on the opportunities of the AI age and the benefits that cognitive computing can bring to an industry struggling through a laborious digital revolution.
+READ MORE: Microsoft Revs Up Healthcare Artificial Intelligence Projects
+"It’s a profoundly hopeful moment in time,” she said to a packed auditorium on the first full day of the conference.  “I think we're in a moment where we can actually transform healthcare.  We can reinvent things, and I think it's within our power to change the world for the better."  
+“Cognitive computing could usher in a golden age – if we shape it wisely.  Healthcare can be the leaders for the world to show them how to do that.”
+IBM has taken great pains to position itself as one of those leaders, but it isn’t the only venerable tech giant with its eyes on the lucrative healthcare space.  Microsoft and Philips also made some big AI announcements at the show, as did Nuance and M*Modal. 
+Google has been working on deep learning in the healthcare space for some time, and is expanding its reach into the industry by teaming up with FHIR, one of the technologies supporting the flow of big data into repositories that can support large-scale analysis.
+Apple has turned its attention to using wearable devices and smart analytics to enhance the consumer health experience, and even Amazon is feeling out the role of AI-driven personal digital assistants like Alexa for home monitoring, hospital care, and other applications.
+READ MORE: Machine Learning, Artificial Intelligence Gain Healthcare Momentum
+Dozens of other companies featured AI and machine learning in their HIMSS17 exhibits, as well.
+“There’s a land rush around AI right now,” Rometty acknowledged.  “It’s the right moment.  Healthcare is not a formal system, which has always been the challenge.  Companies have never really been products – they’ve been features.  But we now have the capability to pull data together. 
+How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+“Digital is the foundation for everything.  But the competitive advantage is going to come from being cognitive.  I don’t mean speech-to-text for a search engine.  I mean something that really augments the intelligence of everyone in healthcare.”
+Artificial intelligence can free clinicians to follow their passions and engage more deeply in their primary interests, Rometty said, by doing much of the legwork for them. 
+READ MORE: The Difference Between Big Data and Smart Data in Healthcare
+AI entities can consume the information from millions of pages of medical journals without skipping a beat, filtering through the entire corpus of clinical knowledge in minutes to present best practices, stratify and identify risk, and provide treatment suggestions based on the outcomes of thousands of similar patients in clinical trials or studies. 
+They can reduce the burdens of documentation, shoulder the task of triaging patients or communicating with consumers about basic tasks, filter through unstructured information to extract hidden insights, and accelerate the development of precision medicine, cures for cancer, and new therapies for other complex diseases.
+But that doesn’t mean artificial intelligence will replace healthcare professionals entirely, Rometty stressed.
+“It's about allowing them to do what they love to do.  Many people's first reaction is to feel threatened. But the ability to augment and allow people to do what they do better is what's going to make this a success."  
+“Augmentation” instantly became the watchword of the week, popping up in conversation after conversation about the role of artificial intelligence in healthcare.
+But while Rometty views AI augmentation as a positive and natural part of the human development cycle, not everyone believes that IBM’s sci-fi approach to the seamless integration of man and machine is ideally applicable to the clinical space.
+“I've always thought that AI is what's going to happen,” said Epic Systems founder and CEO Judy Faulkner to HealthITAnalytics.com. 
+“Back when I was in computer science, it was one of the three major branches of computer science.  My belief is – assuming the world doesn't kill itself off – that eventually, humans will use AI as part of everything they do.  I've always felt that artificial intelligence was going to be big.”
+“But I don't see the EHR as something augmenting the physician,” she continued.  Instead, artificial intelligence, machine learning, and big data analytics should help providers make sense of how different aspects of a patient connect to one another, she said.
+Epic is banking on this approach with its upcoming release of Cosmos, a repository that aims to pool all of the patient data from the health IT vendor’s vast array of clients, potentially opening up the experiences of 200 million patients for research and clinical decision support.
+Judy Faulkner: Epic is Changing the Big Data, Interoperability Game
+Users will be able to conduct large-scale research, find patients with similar collections of symptoms to ask their caregivers for treatment advice, and leverage clinical decision-making tools that feed on the collected outcomes of a large swath of the American population.
+Through Epic’s third-party app development tools, vendors could certainly connect all manner of machine learning algorithms to the dataset, bringing a variety of AI-driven functionalities to the bedside.  But they will primarily function as decision-making aides, not coded clinicians, Faulkner predicts.
+“It’s our responsibility to use AI to help highlight what a physician should look at next, and say, ‘Here's what we think.’  I don't think that's augmentation,” said Faulkner.  “I think it's a tool that's there for the physician to leverage.  It's about giving very explicit information to help the physician make a judgment.  It's about informing them.”
+“Augmentation is more like sticking a USB port in your head and feeding stuff in, right?  I don’t think that’s what clinicians really want or need right now.”
+Dave Dimond, Dell EMC Chief Technology Officer for Global Healthcare, also believes that “augmentation” may not be quite the right word to describe how clinicians are likely to interact with artificial intelligence, at least in the near future. 
+“I think of machine learning as ‘companion diagnostics,’” he said.  “So when you're with the patient, you can draw together a great deal of information and have a machine learning-driven companion to get clinical advice.”
+Similar to Faulkner’s vision, Dimond believes that AI will function as an illuminator of best practices, not an independent diagnostician.
+What is the Role of Natural Language Processing in Healthcare?
+“There are best practices out there from top doctors who can inject their opinions into how to optimally care for patients,” he said. “Companion diagnostics will help to close the gaps in our current data resources and help us move into really, truly personalized medicine.”
+While “augmentation” isn’t a wholly inaccurate way to describe the role of AI in healthcare. The word “companion” sets a different tone, he asserted.  
+“It's more about ‘Hey, come along with me and let’s do this together,’ which is a good way to approach patient care for a number of reasons. Sometimes you need to bring in the big guns for diagnostics – a fellow or a specialist – but those clinicians will work collaboratively to figure out what's best for the patient.  Machine learning will do the same type of thing.”
+No matter what word is used to describe it, there is no question that artificial intelligence is poised to take the healthcare industry by storm. 
+The speed with which AI, machine learning, and cognitive computing have gained zeitgeist status in the vendor community bodes well for rapid adoption among providers – if they are bold enough to take the next steps. 
+"Don't be tentative.  This is a time to play offence,” Rometty urged healthcare organizations.  “This cognitive world will be healthier, more secure, less wasteful, more productive, and more personalized.  It's a fair, more diverse, and more just world.  That's a world we all want to live in." 
+Tagged Analytics InfrastructureArtificial Intelligence in HealthcareClinical Decision SupportEpic SystemsInterviewsMachine Learning
+
+

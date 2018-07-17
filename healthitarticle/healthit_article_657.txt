@@ -1,0 +1,29 @@
+CMS Continues Data Transparency Push with Medicare Drug Info
+
+December 08, 2016
+
+By Jennifer Bresnick
+December 08, 2016 - CMS is continuing to demonstrate its newfound commitment to data transparency by releasing information on 2015 Medicare spending rates for Part B and Part D drugs.
+The data, which covers medications administered by physicians in an office or outpatient setting as well as drugs typically administered by patients themselves, is also available through an online dashboard.
+“The tool displays relevant spending, utilization, and trend data and also includes consumer-friendly information on the drug product descriptions, manufacturer(s), and uses,” CMS explains.
+While the agency is prohibited from publishing drug-specific information on manufacturer rebates or other price concessions, CMS will release a high-level summary of rebate information for calendar year 2015 for Part D drugs.
+Dig Deeper
+Financial Big Data Analytics Woes Plague Healthcare Providers, Payers
+Healthcare Financial Analytics, Business Intelligence Market Takes Off
+Data Analytics, PDMP Use Can Combat the Opioid Crisis
+“Although we are only able to share high-level summary data on rebates, we believe releasing this information, even at a highly-aggregated level, helps to shed new light on the relationship between drug pricing and overall program costs,” CMS said.
+“In addition, the data presented in the dashboard are important because they are the basis of beneficiary cost-sharing calculations and benefit phase determinations.”
+Currently available information in the data dashboard, which contains data on 80 drugs, includes total spending rates, the number of beneficiaries receiving the medication, total annual spending per user, and the annual change in cost per unit over the past year.
+The drugs included in the list comprise 34 percent of all Part D spending and 69 percent of Part B spending.
+Total spending on Part D drugs increased from 2014 by $15.9 billion, but spending on Part B drugs rose by only $3.1 billion.
+Some medications, including a formulation of the common diabetes drug metformin, have increased in price by several hundred percent in 2015. 
+However, many of the Part B and Part D medications with the highest overall spending rates, as well as those used by the highest number of Medicare beneficiaries, have remained relatively stable, with costs rising by less than 20 percent on average.
+The top 15 Part D drugs, which make up about a quarter of program spending, increased from $29.1 billion in 2014 to $35.6 billion in 2015.  In contrast, the top 15 Part B drugs account for 53 percent of spending and only increased by $1.6 billion over the past year.
+Harvoni, a Medicare Part D drug used to treat chronic hepatitis C, exhibited the largest difference in spending between 2014 and 2015, due largely to the fact that the medication was introduced in October of 2014, and has quickly found favor with prescribers, accruing $7 billion in sales.  In contrast, one of the drug's main competitors, which made headlines in 2014 for its high out-of-pocket costs for patients and low adherence rates, decreased in spending by 1 percent.  Sovaldi accounted for $1.3 billion in spending in 2015.
+Medicaid spending data from 2015 is also available, and includes slightly more granular data.  The online dashboard allows users to see the number of prescriptions filled in 2015, as well as total spending per fill, in addition to the unit count and cost increases.
+Some of the Medicaid cost increases are significantly steeper than their Medicare counterparts.  The cost of Ativan, the brand name for lorazepam, rose by 1264 percent, while pyrimethamine, used to treat toxoplasmosis, increased by 874 percent over the year. 
+However, neither drug has a particularly high fill count. The top ten most frequently used Medicaid medications have shown much more moderate price fluctuations, in line with their Medicare counterparts.
+CMS has made increased data transparency one of its primary missions as it shepherds providers into a value-based reimbursement environment.  The agency has previously released unprecedented amounts of data about Medicare payments for healthcare services and utilization rates for hospice, home health, and clinical care, as well as information about individual prescriber activities.
+Tagged Centers for Medicare & Medicaid ServicesFinancial AnalyticsPrescription Drug RatesRevenue Cycle Analytics
+
+

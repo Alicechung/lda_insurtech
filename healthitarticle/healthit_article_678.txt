@@ -1,0 +1,30 @@
+CMS: New API Will Automate MACRA Quality Measure Data Sharing
+
+November 17, 2016
+
+By Jennifer Bresnick
+November 17, 2016 - The MACRA Quality Payment Program (QPP) is getting its very own application programming interface (API) to automate the process of sharing electronic data on quality measures, CMS announced today. 
+The new tool is the first of several efforts to streamline participation in the program and reduce reporting burdens on providers.
+“The API released today will continue CMS’s focus on user-driven design by providing developers and our partners the opportunity to turn our data into powerful applications,” said Dr. Kate Goodrich, Director of the CMS Centers for Clinical Standards and Quality.
+“CMS is committed to collaborating with the organizations that doctors trust to make their lives easier, while supporting their efforts to improve the quality of care across America.”
+Dig Deeper
+Exploring the Use of Blockchain for EHRs, Healthcare Big Data
+Should Connectivity, Not Comprehensiveness, be the EHR Goal?
+EHRs, IoT, Revenue Cycle Bring Opportunities for Healthcare APIs
+The API, which is available on the QPP website, will allow interested developers to create tools using data from the “Explore Measures” section of QPP.cms.gov, which was designed to make it easier for QPP participants to browse and choose the quality measures most applicable to their individual practices.
+“An important part of the Quality Payment Program is to make it easier and less expensive to participate, so clinicians may focus on seeing patients,” said Andy Slavitt, Acting Administrator of CMS. “This first release is a step in that process, both for physicians and the technologists who support them.”
+A number of industry groups have already applauded CMS for its efforts to make the new reporting system easier for providers who may be unsure about how to cope with the enhanced objectives of the program. 
+“The American College of Physicians (ACP) supports the efforts of CMS to design and share publicly accessible interfaces that help simplify the process of physician participation in the Quality Payment Program. These efforts are aligned with ACP's ongoing efforts to help equip physicians with tools and support needed to transform from volume-based, to value-based, patient-centered care," said Nitin S. Damle, MD, MS, MACP, president, ACP.
+Debra L. Ness, president of the National Partnership for Women & Families, also praised CMS for the initiative.
+“We applaud CMS for using innovations in technology to help clinicians select and report meaningful measures for the quality of care patients receive,” she said. “APIs hold a lot of promise for helping consumers access and use information in a more actionable and easy-to-understand way, which can lead to improved outcomes for both patients and health care providers.”
+APIs have quickly become a valuable tool for developers looking to connect disparate systems and encourage data sharing for everything from shuttling basic patient information between providers to advanced big data analytics.
+They will take a starring role within the Quality Payment Program as a core technology for patient data access, and also figure into the Stage 3 meaningful use regulations for hospitals.  The Advancing Care Information portion of the QPP requires certified EHRs to enable APIs to provide data access and educational materials to patients, and also mandates that APIs play a role in health information exchange.
+Many EHR developers have already embraced APIs as a vital tool for opening up data siloes and improving interoperability for a variety of applications, including population health management, clinical decision support, and patient-generated health data.
+CMS and other stakeholders hope that applying a similar strategy to quality reporting requirements will make it easier for private sector developers to enhance and improve providers’ ability to succeed under the new framework.
+“We believe that the API approach will allow CMS, providers, and patients to benefit from the ideas of creative programmers across the country as they build user-friendly interfaces to put information at the fingertips of those who need it,” said Russell Kohl, MD, FAAFP, Medical Director for Practice Transformation, TMF QIN-QIO.
+“Efficiencies like these, that allow physicians to spend less time on administration and more on caring for patients, are the hallmark of our daily efforts to help caregivers, regardless of their location, provide the best care to patients, and we look forward to seeing CMS's results.”
+The Potential for Healthcare APIs to Revolutionize the Industry
+Why Health Data Interoperability is Setting EHR Vendors on FHIR
+Tagged Application Programming InterfacesEHR InteroperabilityHealth Information ExchangeMACRA ImplementationQuality Payment Program
+
+

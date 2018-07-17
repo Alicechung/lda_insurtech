@@ -1,0 +1,13 @@
+Kraken Joins NVIDIA Inception Program
+
+20 Apr 2018
+
+NVIDIA GPU Technology Used in Kraken’s SeaVision® Underwater 3D Laser Imaging System
+Kraken Robotics Inc., is pleased to announce that its German subsidiary, Kraken Robotik GmbH, has been accepted into the NVIDIA Inception program, a comprehensive global initiative to support companies that are driving new breakthroughs in artificial intelligence and data science.
+Every Inception program member receives a custom set of ongoing benefits, ranging from hardware grants and marketing support to training with deep learning experts. The relationship also includes access to NVIDIA’s latest GPU accelerators as well as a global AI ecosystem with a massive network of deep learning experts and opinion leaders.
+Kraken has incorporated NVIDIA’s Jetson embedded GPU platform into its SeaVision® underwater 3D laser imaging system. SeaVision delivers dense full colour 3D point cloud images of subsea infrastructure with millimetre accuracy in real time. These datasets create highly detailed models for 3D visualization that are uploaded to the cloud to support complex machine learning and artificial intelligence algorithms used for predictive analytics. The ability to automate defect recognition and accurate change detection of underwater assets is an important requirement for commercial, military and ocean research applications. SeaVision simplifies creating dynamic digital models of physical assets and systems. This helps build and operate digital twin applications to gain knowledge and insights about performance of future operations.
+Kraken is currently deploying SeaVision in several applications including a contract with Petroleum Research Newfoundland and Labrador for underwater inspection of ship hulls. The Company also recently won a competition with the Carbon Trust’s Offshore Wind Accelerator program that will utilize SeaVision to inspect turbine foundations at operational wind farm sites in Europe. Kraken is also pursuing additional contract opportunities for SeaVision in underwater defence, marine archaeology and ocean science.
+“NVIDIA’s GPU-accelerated platforms are essential for the high-computing needs used in today’s artificial intelligence engines and meeting the low-power requirements of embedded systems,” said Dr. Jakob Schwender, Managing Director of Kraken Robotik GmbH. “We have already made our core systems GPU-ready to fully explore the further potential that comes with NVIDIA’s latest GPU technology. We are excited to be joining the Inception program and believe that NVIDIA’s network will help advance our underwater sensor and robotic platforms.”
+ 
+
+

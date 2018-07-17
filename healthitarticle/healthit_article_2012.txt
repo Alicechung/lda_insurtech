@@ -1,0 +1,17 @@
+Google pours $130 million into cancer data analytics firm
+
+May 08, 2014
+
+By Jennifer Bresnick
+May 08, 2014 - Google Ventures, the investment arm of the search engine giant, is taking a big leap into clinical analytics with an investment of close to $130 million in Flatiron Health.  The investment is Google’s fourth-largest to date, says the Wall Street Journal, and its biggest foray into medical software yet.  Flatiron develops cloud-based analytics software targeted towards oncology, aiming to make cancer data more readily available to physicians seeking fodder for better treatment techniques.
+“We don’t generally make investments of $100-plus million,” said Bill Maris, managing partner with Google Ventures. “When we do make an investment of this size, it means we really believe in the team, and the product, and the good that it can do for the world.”  Google Ventures has previously invested in big data for healthcare, including a tool used by payers to track hospital admissions, a genomics project, and an additional developer focused on cancer research.
+Flatiron currently has between 500 and 1000 oncologist customers at the moment, said co-founder Nathaniel Turner, who use the system to search for similar patients, treatments, and outcomes to help inform their own decision making.
+“Only 4% of patients diagnosed with cancer in the United States participate in clinical trials,” says Flatiron’s website. “For the rest, their data is captured in silos and inconsistent or unstructured formats. Even structured data has major integration issues. Traditional population health analytics are built using claims data, which can attain quick results but lack the depth required to understand a disease as complex as cancer. To run analytics for oncology off of claims data would be the equivalent of analyzing an iceberg by only looking at what’s above the surface. If you want the “clinical truth,” you have to get into the details.”
+Dig Deeper
+Early Adopters Question Usefulness, Maturity of AI in Healthcare
+Desire for Predictive Analytics Outpaces Hospital Investment
+The Difference Between Clinical Decision Support, Big Data Analytics
+The new funding will help Flatiron purchase Altos Solutions, an oncology-specific EHR developer. The 1300 clinicians who use Altos will have access to Flatiron’s analytics data bank when they use the software, increasing the capacity for clinical decision support.  “This acquisition of Altos is like rocket fuel for Flatiron,” Maris added. “Here you have two companies with very complementary technologies, both working in oncology. It’s a significant step forward for cancer care.”
+Tagged Analytics InfrastructureBig DataClinical AnalyticsFinancial AnalyticsHealthcare Business IntelligenceHealthcare Data Analytics
+
+

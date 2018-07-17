@@ -1,0 +1,47 @@
+Health Data Exchange, EHR Dashboards Underpin a Successful ACO
+
+March 08, 2017
+
+By Jennifer Bresnick
+March 08, 2017 - Accountable care organizations (ACOs) come in all shapes and sizes, guided by a wide range of health IT philosophies.  Some ACOs demand total technical uniformity to standardize processes, while others encourage EHR individuality and allow member organizations to work more or less independently to achieve their quality goals.
+But no matter what the overarching IT strategy, all successful initiatives have one major feature in common: they break down barriers to health data exchange, develop and adhere to meaningful quality, and continually work to equip their providers with timely, actionable, and accurate data that can cut costs and improve outcomes.
+MultiCare Connected Care, a Washington State ACO with 2500 providers on board, is one organization that has fully embraced the role of health information exchange in quality improvement. 
+Spread across five counties and responsible for 80,000 patient lives, the ACO has quickly learned that meaningful, silo-free data access is absolutely essential for coordinating care and hitting its pay-for-performance benchmarks.
+“Our providers are really starting to understand that they need data to manage their practices effectively,” said Dr. Zak Ramadan-Jradi, Executive Director and Vice President of Accountable Care at MultiCare Connected Care.  
+Dr. Zak Ramadan-Jradi, Executive Director and VP of Accountable Care at MultiCare Connected Care
+Source: MultiCare
+READ MORE: Accountable Care Organizations Collaborate for Value-Based Care
+“As an ACO, it is our responsibility to display information in a way that makes it very, very clear to the provider what action needs to take place next. We want the provider to have a really comprehensive view of patient behavior and the treatment that is taking place within the network.”
+The goal, he said, is to use the cloud-based Fuse data platform by RelayHealth to create a “virtual EHR” that connects disparate pieces of the patient’s experiences into a seamless longitudinal health record. 
+“The HIE allows us to extract data elements from all these distinct EHRs and create a scorecard to see if we’re complying with quality metrics that will ultimately impact costs for our partners,” he explained to HealthITAnalytics.com during the 2017 HIMSS Conference and Exhibition in Orlando.
+“The challenge is how you can put that into the workflow when the physician is actually sitting with the patient.”
+An internist by trade, Ramadan-Jradi is well aware that architecting the perfect clinical workflow is easier said than done.  “We have seen some mixed outcomes when we try to adjust their habits,” he acknowledged, noting that underlying physician behaviors can negatively impact the process.
+READ MORE: How Accountable Care Impacts Population Health Management
+“For me, if physicians accept that part of their workflow is going to be checking their data and what’s available on the HIE, that’s half of the battle,” he said.
+The other half is often technical in nature. 
+“If a provider has purchased an EHR that’s really bare bones or it’s so customized that we can’t link to it, then data exchange and analytics become an issue,” he said.
+“On the other hand, you can get bogged down by adding module on top of module, and then the IT architecture becomes so complex that you can’t connect with anything else, and you can’t get the reports that you really need.  That can be just as bad as not having a robust enough system at all.” 
+While MultiCare will work with those providers to bring their EHRs in line with the ACO’s data exchange requirements, Ramadan-Jradi also stressed that members needed to be comfortable with their health IT choices and maintain the processes that work best for them and their patient populations.
+READ MORE: Big Data Analytics, Accountable Care Need C-Suite Collaboration
+“We don’t want to give the impression that being part of an ACO means you’re required to be on a shortlist of EHRs,” he said.  “Cost is a major factor for every provider – we don’t want to add to those burdens if we don’t have to.”
+“And we don’t really want them to assimilate completely into some massive system.  We’re not looking to create a monopoly in the region.  We want to be vendor-agnostic in our health information exchange efforts so that all our members can retain their unique identities and habits while still having access to important data that will help them coordinate care and meet their benchmarks.”
+Accountable care organizations are founded upon the idea that providers should receive financial rewards for hitting those quality goals by engaging in population health management programs that can trim excess costs.
+But with a large ACO like MultiCare, which contracts with several different commercial payers in addition to a number of self-insured employers, the number of benchmarks, metrics, goals, and measures can quickly get out of hand.
+“Four or five years ago, each contract would have had ten quality measures that were very much independent and different than any other contract,” Ramadan-Jradi recalled.  “We sometimes ended up with 100 quality measures, and the physicians would quickly give up and say forget it.  There was no way to work through that.”
+In the past few years, however, the organization had made a concerted effort to slim down on duplicate reporting and not-quite-identical metrics.
+“We decided to look through all the quality measures in our contracts and extract what we believe will produce the most ROI,” he said.  “If we focus on our biggest opportunities, we’ll get 99 percent of the return for our patients.  Let’s not worry just yet about ones over there that will only produce one percent of the improvement.”
+“When we negotiate with payers and employers, we now present a core set of measures that we’re going to use.  We still have discussions about what exactly each one means and what the criteria will be, but it’s much less onerous to come into the contract with a list of what we’re aiming for.”
+MultiCare and other ACOs in the region are also receiving some backing from Washington policy makers, who are working to develop a shared set of measures for all state participants.
+“Right now, we’re working to define what the measures will look like,” said Ramadan-Jradi. “At the moment, there are between 30 and 50 measures for all the different specialties.  I’m very optimistic about that.  It’s a good way to collaborate and simplify quality contracting.”
+Collaboration and transparency are hallmarks of an accountable care organization that can transform health IT adoption into improved patient care, he added.  Without buy-in from clinicians, other staff members, and especially the executive suite, sustained quality improvement will be difficult to achieve.
+“This is not an experiment that you can do for one year and then move out,” he warned.  “If you don’t know what your business requirements are or what you’re trying to achieve, you are going to have a very difficult road ahead of you.”
+Choosing a reliable health IT partner when developing analytics and information exchange infrastructure is another vital element.
+“We used to call them ‘health IT vendors,’ but it is so important to move beyond the basic customer-seller relationship in the healthcare industry,” Ramadan-Jradi said.  “You need a partner that is willing to be dynamic and adaptable as you learn and grow.  If you don’t have that viable relationship to support you, then you’re going to have a hard time with your initiatives.”
+A healthy relationship with a vendor partner can help organizations ensure that they are presenting data in a meaningful way for clinicians, and that they can continue to optimize their EHR interfaces, data dashboards, and quality reports to enhance workflows and drive better outcomes.
+“You can do the greatest work in the world on the backend, but if you don’t have the dashboards and displays that will present the information in a way that the physician can use, then you’ve wasted all that time and effort on data that isn’t actionable,” he pointed out.
+Understanding the community landscape, discussing quality improvement with peers, and taking advantage of the industry’s rapidly growing interest in value-based care can produce similarly positive results, Ramadan-Jradi continued. 
+“Don’t be shy to reach out and seek partnerships,” he urged.  “We see a lot of groups that bring together maybe 300 physicians and want to become an ACO, but then in the next county over, there’s another 300 physicians looking to do the same.  But they don’t talk to each other.” 
+“You’re each duplicating the same effort, which is not the smartest use of resources.  Why not work together to cover more patient lives with fewer expenses while giving yourselves more bargaining power with payers?  That’s a great way to conserve energy while producing better results for everyone, and a good way to bring even larger volumes of valuable data to bear on your population.”
+Tagged Accountable CareAccountable Care OrganizationAnalytics InfrastructureHealth Information ExchangeHealth IT InteroperabilityHIMSS17Interviews
+
+

@@ -1,0 +1,18 @@
+Findings in radiology studies differ widely state-to-state
+
+January 22, 2014
+
+By Jennifer Bresnick
+January 22, 2014 - A picture may be worth a thousand words, but when it comes to radiology studies, those thousand words could produce ten different ICD-9 codes – or maybe no codes at all.  The ability to read MRI and CT scans takes practice, skill, and judgment about when to report an abnormal finding and when to dismiss a shadow on the film, and new data from vRad’s Radiology Patient Care (RPC) Indices shows that this ability produces vastly different results in different US states, leading to questions about how to use the metric to judge quality of diagnostic care.
+Physicians in Vermont are the most likely in the nation to report a significant finding on a CT scan, with 75% of images producing enough documentation to assign a diagnostic code to the case.  Washington DC had the lowest overall positive findings with 61 percent, while the national average sits at 71 percent.  While the data doesn’t indicate the number of missed diagnoses or false positives, it does reveal trends in how physicians and patients are making use of radiology services, and it can help hospitals better understand their patient flow and physician competencies.
+“The RPC Indices are not a score card, but a set of evidence-based information that can help physicians and hospital administrators ask the right questions to make better decisions for the health of their patients,” said Benjamin W. Strong, MD, ABIM, ABR, vRad’s Chief Medical Officer. “For example, these findings might indicate that easier access to hospitals in Washington, DC results in more patients using EDs for non-emergent primary care. The low percentage of findings could be related to CTs being used as an initial diagnostic tool when compared to Vermont. Or, higher risk may be driving physicians to practice defensive medicine, using CTs as an essential component of patient evaluation because they are concerned about being sued for malpractice.”
+Vermont, Washington State, Maine, West Virginia, and New York were the five states with the highest positive findings, while Washington DC, Mississippi, Puerto Rico, New Mexico, and Kentucky were the least likely to report anything abnormal on a scan.  The findings stayed true whether the scan was ordered due to a patient fall or reports of dizziness.
+Dig Deeper
+Big Data Shows Gender-Based Medical Error, Patient Safety Patterns
+Geisinger, Baylor Granted $3.5M for Patient Safety Learning Lab
+UPenn Uses Machine Learning, EHRs to Target Severe Sepsis
+“Can organizations work to provide easier access to urgent care centers as an alternative setting to help treat people and reduce costs associated with ED visits? How do the findings help us understand potential clinical and financial impacts created by the mix of hospital types, patient population and ease of access?” Strong muses.  “What clinical and policy decisions can be better informed so that EDs deliver high-quality and affordable patient care to the appropriate patients at the right time?”
+As hospitals pay increasingly close scrutiny to their financial and clinical utilization numbers in order to avoid hefty quality-related penalties, questions like these will become unavoidable, and clinical data will be invaluable to answer them. “There is much uncertainty in healthcare’s future,” added David C. Trachtenberg, vRad’s Chief Solutions Officer. “But one thing is clear: using analytics is no longer an option; it’s a requirement.”
+  Tagged Big DataClinical AnalyticsClinical IntelligenceHospital QualityQuality Of Care
+
+

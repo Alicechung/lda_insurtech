@@ -1,0 +1,21 @@
+AHIMA, IHE Publish Draft Information Governance, Big Data Paper
+
+July 20, 2015
+
+By Jennifer Bresnick
+July 20, 2015 - Helping healthcare organizations develop a cohesive, standardized approach to information governance in the big data era has been a major focus for the American Health Information Management Association (AHIMA) over the past few years as providers accumulate servers full of clinical, financial, and claims data. 
+As health information management (HIM) professionals increasingly shoulder the burden of helping providers understand the challenges and opportunities of big data, information governance has taken on a central role for organizations that hope to achieve a return on their health IT infrastructure investments.
+In conjunction with Integrating the Healthcare Enterprise (IHE), AHIMA has helped to develop a white paper exploring the data governance needs of healthcare organizations and providing suggestions for best practices in health information management (HIM).  The IHE Information Technology Infrastructure (ITI) White Paper “HIT Standards for HIM Practices” includes use cases and recommendations for managing large volumes of data from EHRs and other health IT sources.
+Key issues addressed in the white paper include:
+Dig Deeper
+Health Data Analytics a “Competitive Differentiator” for Payers
+Data Integrity Strategies for Patient Matching, Identification
+AHIMA 2016: Expect Big Data Governance, MACRA, Value-Based Care
+• Identifying the major challenges of information governance, ranging from EHR design and usability flaws to poor documentation capture techniques, inadequate training, and human errors related to inappropriate HIM practices or improper use of health IT technologies.
+• Informing health IT data standards developers of the challenges and best practices of HIM professionals in relation to data governance.
+• Creating a roadmap for the development of data standards, the improvement of data integrity, and the spread of meaningful data governance principles across the health information creation and management spectrum.
+• Strengthening and reinforcing the principles of information governance developed by AHIMA in 2014 under its IG Framework, including a focus on accountability, data transparency, privacy and security, and appropriate stewardship.
+While public comment on the framework has closed, the finalized white paper will not be published until responses have been reviewed.  The ongoing data governance program will hopefully conclude in September, 2015 with recommendations and guidance for the health information management industry.
+Tagged Big DataHealth Information ManagementHealthcare Data Governance
+
+

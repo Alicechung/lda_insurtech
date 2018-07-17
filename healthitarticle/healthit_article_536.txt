@@ -1,0 +1,34 @@
+Machine Learning, NLP Help with Physician Skill Benchmarking
+
+March 20, 2017
+
+By Jennifer Bresnick
+March 20, 2017 - Machine learning and natural language processing (NLP) tools may be able to aid and improve the process of benchmarking the professional skills of physicians, suggests a new article in the Journal of Medical Internet Research.
+When researchers from several top British universities applied machine learning tools to free-text questionnaires filled out by providers’ peers, they discovered that the algorithms agreed with human assessments of the same documents up to 98 percent of the time.
+The algorithms were able to identify and categorize terms that related to the subject’s interpersonal skills, professionalism, and respect among his or her colleagues with a high degree of accuracy, indicating an opportunity for healthcare organizations to engage in more qualitative assessment activities in the future.
+“Multisource ‘360-degree’ feedback is increasingly used across business and health sectors to give workers insights into their performance and to identify areas in which improvements may be made,” the study explains. “Such feedback often includes different reporting modalities that most commonly take the form of validated questionnaires or open-text comments.”
+In the healthcare industry specifically, organizations and individuals are becoming increasingly reliant upon positive feedback from business partners and consumers. 
+READ MORE: How Healthcare Can Prep for Artificial Intelligence, Machine Learning
+Organizations are starting to see portions of their revenue tied to patient satisfaction surveys and provider performance assessments, many of which include free-text portions that require time and human effort to curate.
+“The complexity of open-text information means that, unlike the scores from validated patient-reported experiences and outcome measures, the words cannot simply be ‘added up’ to create insight and meaning,” the authors continued. “As such, the task of making sense of such data has historically been completed manually by skilled qualitative analysts.”
+Machine learning and natural language processing may help produce more quantifiable results while reducing the manpower burdens of combing through unstructured data. 
+By identifying key terms within the text and categorizing them according to pre-defined criteria, machine learning algorithms can start to automate the process of using free text for quality benchmarking and personal assessments.
+In the study, the researchers tested eight machine learning algorithms on free-text comments related to 548 physicians across multiple specialties and areas of practice.  Physicians in the United Kingdom are expected to give and receive peer feedback through the General Medical Council Colleague Questionnaire (GMC-CQ), a standardized assessment of non-clinical skills.
+READ MORE: Using Machine Learning to Target Behavioral Health Interventions
+Each algorithm was tasked with identifying terms related to five major categories: innovation, interpersonal skills, popularity, professionalism, and respect.
+When matched up against the assessments of human readers, the individual algorithms generally performed well with overall agreement rates ranging from 68 percent to 83 percent.  The tools performed better in some categories than others, with 97 percent recall in the “popularity” category and 98 percent agreement for “innovation.”
+The algorithms were somewhat less successful when trying to identify comments related to the subjects’ professionalism and interpersonal skills, with 82 percent and 80 percent agreement with human readers respectively.
+Similar to other recent studies on machine learning and health data, the algorithms generally performed better when given larger data sets for training.
+Performance of machine learning algorithms in relation to data sample size
+Source: JMIR
+The eight tools mostly performed at similar rates when given fewer than 200 pieces of data to work with, but diversified in effectiveness and accuracy rates as the sample data size increased.  Only one algorithm actually performed better with a limited training dataset.
+READ MORE: EHR Sample Size Matters in Machine Learning, Predictive Analytics
+Generally, subjects who were classified as respected, professional, and skilled at interpersonal situations were more likely to have higher overall scores on their GMC-CQs, although popularity and innovation were not strong indicators of broader performance.  Subjects classified as “respected” had the highest performance rates in both the human-powered and machine learning assessments.
+“These techniques have clear potential for developing actionable insights in diverse specialties,” the authors said.  Similar techniques have been used on national cancer patient surveys, they added, and the strategy could be expanded to other patient satisfaction assessments or free-text analytics in the future.
+The authors do note, however, that such tools still have to be “supervised” by knowledgeable human analysts, and that it may take more time and refinement before machine learning algorithms are ready to be released into the wild.
+Still, the results are promising and suggest that natural language processing and machine learning are likely to play an important role in unstructured data analytics in the near future.
+“This study demonstrates excellent performance for an ensemble of machine learning algorithms tasked to classify open-text comments of doctors’ performance,” the article concludes.
+“These algorithms perform well, even where limited time and resources are available to code training datasets. These findings may inform future predictive models of performance and support real-time evaluation to improve quality and safety.”
+Tagged Analytics InfrastructureApplied AnalyticsMachine LearningNatural Language Processing
+
+

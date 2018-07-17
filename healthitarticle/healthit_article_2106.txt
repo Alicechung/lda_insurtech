@@ -1,0 +1,19 @@
+EHR use, patient portal outreach increase shingles vaccine rate
+
+January 20, 2014
+
+By Jennifer Bresnick
+January 20, 2014 - Senior citizens are more likely to receive a vaccine against the blisteringly painful shingles virus if their providers use EHRs and send literature to patients through the mail or by email, according to researchers at The Ohio State University.  Using electronic health data to identify patients who had not received a vaccine against herpes zoster, the virus that causes the severe skin inflammation, and providing those patients with education on the subject led to a threefold increase in the number of patients who decided to receive the vaccine.
+“With older patients, there are usually more pressing health issues to discuss during routine appointments, so herpes zoster falls off the list,” said lead author Stuart Beatty, a pharmacist with Ohio State’s College of Pharmacy. “Plus, as a live vaccine, it’s not appropriate for people with certain illnesses. There usually isn’t time to figure all that out in a regular office visit.”
+Over the length of the six-month study, Beatty and his team of pharmacists looked at the EHR data of more than 2500 patients over the age of 60 who had no record of vaccination.  Some patients received a mailed postcard about shingles, while others were sent a secure email through their patient portals.  A third cohort received no special outreach other than what they might receive at a routine primary care visit.  The researchers them tracked vaccine fulfillment at local pharmacies.
+Patients who read the notification through their personal health record had the highest rate of vaccination at 13.2 percent.  Only 5% of patients with portal access but without a special notification were vaccinated.  The mailed postcard led to 5.8% vaccination, while just 1.8% of those who were not contacted about the virus volunteered for the jab.
+Dig Deeper
+Physician-Level Data May Not Reduce Opioid Prescription Rates
+EHR Natural Language Processing Flags Social Determinant Search Terms
+Big Data Analytics Link Economic Wellness to Population Health
+“It took pharmacists a matter of minutes to review the chart and mail out a prescription. This saved the physician time, the patient time, and improved the overall health of our patients,” said Neeraj Tayal, MD, an Ohio State Wexner Medical Center general internist who participated in drafting the study. “By utilizing pharmacists as members of a care team, many perceived logistical barriers were managed and overcome.”
+“We found a few patients that said they had already been vaccinated, but there was no record of it in their EMR, which isn’t surprising given that the current information exchange between a physician’s office and a community pharmacy is extremely limited,” Beatty added. “As EMR use and a team approach to patient care increases, this health information exchange will be critical for success.”
+The vaccine can cut the risk of contracting the blistering rash in half, research has shown.  Serious complications from the rash include lingering nerve pain, urinary problems, and even blindness.  “While it’s too early to tell whether EMRs will save money,” Tayal noted, “our intervention model shows there are opportunities to manage chronic and preventable illnesses, prevent medication interactions, and integrate team-based care in ways that would result in better care and cost savings.”
+Tagged Applied AnalyticsChronic Disease ManagementClinical AnalyticsClinical IntelligenceEHR AnalyticsPopulation Health Management
+
+

@@ -1,0 +1,17 @@
+Trial uses real-time clinical analytics to study cancer drug
+
+November 22, 2013
+
+By Jennifer Bresnick
+November 22, 2013 - In a first-of-its-kind clinical trial, researchers from Weill Cornell Medical College, Palo Alto Medical Foundation, MD Anderson Cancer Center, and Berg Pharmaceuticals will incorporate real-time clinical analytics and genetic analytics into a study intended to discover the effectiveness of BPM 31510, a potential therapy for solid tumors.  Up to 400 patients with solid tumors, including aggressive breast, liver, brain, and pancreatic cancers, will take part in the Phase Ib trial.
+“Unlike other clinical trials, this is the first program to focus on the metabolism, or processes, of cancer rather than a specific mutation or target,” said Niven R. Narain, Co-Founder, President and CTO of Berg. “By using big data analytics, we’re also able to identify the right type of patients who will respond to the BPM 31510 treatment. Stratifying patients by phenotype is the future of medicine and we want to boldly develop a cancer treatment using this approach.”
+While being given the IV infusion, patients will be monitored by a proprietary platform developed by Berg, which establishes a molecular and metabolic signature for each patient by analyzing blood, urine, bone marrow, and other tissue samples in real time.  Researchers will be able to see how the patient’s cells are affected by the treatment immediately, and will be able to identify the unique features of a patient’s biochemistry that produces positive and negative reactions to the drug.
+The trial isn’t the only pharmaceutical project that’s harnessing the power of big data to fight cancer.  By accessing petabytes of data on medical research and bioinformatics, the Butte Lab at Stanford University is applying analytics to cut the time and cost of developing treatments for deadly diseases like small-cell lung cancers.  “We are cutting down the decade or more and the $1 billion it can typically take to translate a laboratory finding into a successful drug treatment to about one to two years and spending about $100,000,” said Atul Butte, MD, PhD, associate professor of pediatrics, explaining how big data analytics led to the discovery that a little-used group of antidepressants causes lung tumors to “self-destruct”, leading to a significant breakthrough in treating one of the most fatal cancers.
+Dig Deeper
+Clinical Analytics Studies, Partnerships Target Personalized Care
+$240M IBM, MIT Artificial Intelligence Lab Has Healthcare Focus
+FDA to Streamline Regulations in Light of 21st Century Cures Act
+“The goal of this comprehensive and unprecedented evaluation of clinical data, molecular profiles, and patient characteristics – a virtual clinical ‘big data’ evaluation – is to develop safer, more effective drugs in half the time,” says Dr. Manish A. Shah, Associate Professor of Medicine at the Weill Cornell Medical College of Cornell University about the BMP 31510 trial. “Drug development is an arduous process, but it feels like we are on the fast track.”
+  Tagged Applied AnalyticsBig DataClinical AnalyticsClinical DataClinical IntelligenceEHR Patient DataMedical Research
+
+

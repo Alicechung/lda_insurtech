@@ -1,0 +1,21 @@
+ONC Reissues Call for Certified EHR Technology Test Procedures
+
+July 08, 2015
+
+By Jennifer Bresnick
+July 08, 2015 - The ONC is hoping to remind providers that it is still accepting proposals for Certified EHR Technology (CEHRT) test procedures, tools, and data after publishing a notice in the Federal Register earlier this summer.  In a new blog post on HealthITBuzz, Capt. Alicia Morton, DNP, RN-BC, Director of the Health IT Certification Program and Tricia Lee Wilkins, PharmD, PhD, reiterate the ONC’s interest in reviewing test procedure submissions from the healthcare community.
+In June of 2015, the ONC reissued its request for stakeholder feedback on the evolving process of creating and verifying the capabilities of Certified EHR Technology.  The CEHRT regulations state that “a person or entity” may submit test procedures or tools that the ONC would consider as potential methods for ensuring that EHR technology meets the meaningful use program’s certification criteria.
+“The submission should identify the developer of the test tool and/or test procedure; specify the certification criterion or criteria that is/are addressed by the test tool and/or test procedure; and explain how the test tool and/or test procedure would evaluate a Complete EHR's, EHR Module's, or if the applicable, and other type of HIT's compliance with the applicable certification criterion or criteria,” the proposal said.
+“The submission should also provide information describing the process used to develop the test tool and/or test procedure, including any opportunity for the public to comment on the test tool and/or test procedure and the degree to which public comments were considered.”
+Dig Deeper
+CT Hospital, State Prescription Monitoring System Connect Via EHR
+Can Open Source EHRs Offer a New Path for Health IT Usability?
+Cleveland Clinic, IBM Watson Partner for Population Health
+The Certified EHR Technology program has caused a number of headaches for healthcare providers attempting to participate in the EHR Incentive Programs, and the ONC has tried to overhaul the system several times in order to ease the tight deadlines and financial burdens that have made meaningful use attestation a difficult proposition in the past.  As Stage 3 meaningful use brings yet another major shift in the evolution of the CEHRT program, providers are hoping that the ONC will take their comments and suggestions into account.
+“Improving and streamlining the testing and certification of health IT has long been a goal of ONC,” write Morton and Wilkins.  “The notice was published in response to health care industry stakeholder feedback telling us that certain testing efficiencies could be achieved if the Certification Program were to include the approval of industry-led testing and certification, such as the ePrescribing (eRX) network testing (and certification).”
+“If approved by the National Coordinator, these non-ONC directed tools would qualify as an additional pathway for meeting testing and certification requirements as an alternative to existing testing resources and could provide potential testing and certification efficiency gains,” the blog post continues.
+“We are excited about the potential of leveraging community supplied tools because there is no limit to the number that can be submitted and we believe that having more testing flexibility will help the program maximize the efficiencies already created and operational-proven by health IT developers.”
+Stakeholders who wish to volunteer testing tools, procedures, or data sets can submit their proposals to onc.certification@hhs.gov, or find more information about the Certified EHR Technology program on the ONC’s CEHRT website.
+Tagged Analytics InfrastructureEHR ImplementationMeaningful Use
+
+

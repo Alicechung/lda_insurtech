@@ -1,0 +1,41 @@
+Online Population Health Data Dashboard Grows to Include 500 Cities
+
+July 25, 2017
+
+By Jennifer Bresnick
+July 25, 2017 - Robust and actionable population health data at the city and neighborhood level is traditionally hard to come by, especially if community planners are looking for datasets presented in a slickly-packaged online dashboard free for public use.
+But a small team of data analysts, graphical designers, and public health experts from NYU and the National Resource Networks are filling the need for accurate, standardized, and accessible local-level data with the City Health Dashboard, an interactive online tool that allows users to explore a variety of social, economic, clinical, and environmental factors in key geographic areas.
+Marc Gourevitch, MD, MPH
+Source: NYU
+Users can currently explore 26 important measures of health and wellness in Waco, TX, Providence, RI, Flint, MI, and Kansas City, KS.  These measures include primary care coverage, unemployment and poverty rates, housing affordability and quality, opioid deaths, smoking rates, and access to healthy food choices. 
+With the help of a $3.4 million grant from the Robert Wood Johnson Foundation, availability will soon expand to all 500 cities in the United States with more than 70,000 residents, giving city planners and public health officials even deeper insights into their challenges and opportunities.
+"There is an old adage: 'what gets measured is what gets done,’" says principal investigator says Marc Gourevitch, MD, MPH, Chair of the Department of Population Health at NYU Langone Medical Center. "Community leaders want accurate, actionable, and precise data to advance initiatives that improve health, bring down costs, and focus on community wellbeing.”
+READ MORE: How Do Population Health, Public Health, Community Health Differ?
+“But data on the drivers of health aren’t usually available at the city level, which can make it very challenging to target public health and population management programs where they will do the most good,” he told HealthITAnalytics.com.
+Gourevitch hopes the dashboard will give stakeholders some of the information they need to start digging in to the complex socioeconomic and environmental factors that impact community health.
+“They should be able to set some priorities once the areas of greatest need have been identified,” he said.  “Community planners need to know where to get the most bang for their buck, because they are often operating under financial constraints that require them to be very judicious about how they allocate their resources.”
+Opioid death rates in Flint, Michigan
+Source: City Health Dashboard
+The mapping tool relies on national-level datasets, Gourevitch said, from sources including the census and vital statistics data from organizations like the CDC.  The datasets are then recalculated to fit the geographic boundaries of the cities in question, which he believes is the best way to ensure accuracy across variable regions.
+“We simply do not have the resources to engage with each city to obtain the data we needed from them directly at a smaller scale,” Gourevitch acknowledged, noting that the project involves less than a dozen graphical designers, data scientists, and health surveillance experts. 
+READ MORE: Identifying Care Disparities for Population Health Management
+“There would be too many moving parts if we tried to recreate everything for each individual city, and we would risk a lack of consistency in the format, the metrics, and the parameters between disparate entities.”
+While the team does hope to engage with cities more deeply in the future to bring enhancements to specific metrics relevant to each region, working with national-level data is challenging enough, he added.
+“Obtaining them in the first place is not always easy, and then calculating the values at the city or neighborhood level is an additional challenge,” he said.  “Some very large public health departments may have the capability to do that for themselves and gain insights into their communities, but the vast majority of health departments simply don’t have the resources for that.”
+Gourevitch will use his own resources to “judiciously” add new metrics over time, focusing on inequalities in health status, environmental factors like climate change, and community issues such as blighted properties.
+Ultimately, the map-based tool should evolve into a hub of resources and best practices to connect local stakeholders with peers willing to share their successes and lessons learned after undertaking population health improvement projects, he envisioned.
+READ MORE: How to Get Started with a Population Health Management Program
+“We would like to be able to link to evidence-based policies and approaches that can be used to take real action in the community setting,” he said. 
+“So if a user sees that a particular neighborhood is doing very poorly in terms of physical activity and obesity, we want to be able to give them suggestions about how to fix that.  Maybe they need to build safer sidewalks or put in a park with a bike trail, or maybe they should implement a plan to help change nutrition patterns and encourage healthier food choices.”
+Neighborhood walkability in Providence, Rhode Island
+Source: City Health Dashboard
+Adding filters that allow users to compare their circumstances and performance with cities of similar size, geography, and residential composition is another item on the agenda.
+“A user would be able to say, ‘I’m a city of 50,000 people in the Southwest – show me cities in my state or adjoining states that have a similar population size and also have more than 20 percent of children living in poverty,’” Gourevitch explained.
+“That would bring up maybe four or five other cities, and allow the user to make apples-to-apples comparisons about how well they are doing and where their opportunities may lie.  It could also encourage those five cities to work together to address their very similar challenges in a coordinated manner, which will foster much more action than simply accessing a limited view of your own issues.”
+
+Data for all 500 cities, in which one-third of the US population lives, will be available within the next two years.
+“We’re very excited about where we can take this and the opportunities that can result from being able to see and interact with this data in a really intuitive, visually pleasing way,” said Gourevitch. 
+“We are aiming to give community stakeholders a feeling that they understand their regions and have control over making positive changes instead of feeling discouraged because they don’t know where to start or can’t quantify the challenging they are facing.”
+Tagged Analytics InfrastructureChronic Disease ManagementInterviewsPopulation Health ManagementPreventive CarePublic Health
+
+

@@ -1,0 +1,26 @@
+Facial Recognition for Fintech
+
+December 12, 2017
+
+BY TOBY BROWN, Head of Engagement for Occam DM, Response One & Amaze One (part of the St Ives Group)
+
+ Amidst the shiny, bezel-free, Super HD glow of Apple’s product launch event, one image danced from the darkness, a harbinger of the world to come.
+
+ That image, of course, was the gently jiggling Animoji poop. It was disturbing for two key reasons. One – a grown man launching a £1,000 bit of bleeding-edge technology by making a poo wink. Two – it relied on Face ID, Apple’s facial recognition software and a technology that the iPhone X will bring to the mass market (although facial recognition technology is already booming business, due to be worth $2.7b by 2022). Is the move from a fingerprint scanner to a facial recognition feature really such a big deal?
+
+ Well, maybe not immediately – it didn’t work for a start. However, it’s undeniable that eventually the technology will be commonplace on our handsets, whether we like it or not – and it could be the gateway to a whole new set of ethical, legal and practical problems.
+Edward Snowden was quick to Tweet: Ensuring identity safely and securely is a key topic for our sector, and there are going to be many changes over the next five years. But, when people ask how I see identity processes changing over the coming years, it’s really the wrong question. The question should really be rephrased ‘what technologies are the financial regulators happy with’ or, more precisely, ‘what technologies are banks and financial services firms happy with, that they feel they will comply with the regulator.’ This is the more pragmatic question and is based more on the realities of the environment in which we operate, as opposed to a possible wish list.
+As for which identity processes show the most promise, I would say that #FaceID Normalizes facial scanning, a tech certain to be abused
+So how does Face ID work? The technology has been available on other handsets for a while, but in typical Apple style, they’ve refined it to make it palatable for mainstream consumers, just as it’s started to raise complex ethical questions.
+Face ID uses a new camera feature, True Depth, to create a 3D map of the users’ face from 30,000 dots, which is pushed through the iPhone’s neural networks to improve its accuracy with each use. Face ID won’t work if you’re looking away, asleep or just showing it a picture of Ant & Dec. However, there’s more to facial recognition than simply unlocking your phone.
+Many police forces already use facial recognition to scan crowds for troublemakers –  Russian police use an app called FindFace to identify suspects from their social profiles. Meanwhile, The Telegraph recently reported on an AI which uses facial recognition to determine if people are straight or gay, with a hit rate of 81% for men and 74% for woman.
+Michal Kosinski, the scientist behind the algorithm goes even further, and quickly dives headlong into controversy. Using AI to examine people’s features,  he says, can tell us almost anything about a person – from their IQ level to whether they’re predisposed to criminal behaviour; details that could have huge social consequences for those being labelled – for instance in countries where LGBT people are routinely murdered by the government.
+Kosinki also questions what will happen when AI can tell which children are genetically more intelligent than others – automated streaming? Your University be pre-allocated from your “first day of school” photo? Or will your child just be sent straight to work in the canteen? At what point does the conversation stray into predeterminism and even eugenics?
+Of course, wherever difficult questions arise, Marketers are rapturously ignoring them.
+Sometimes the results are great – like the Women’s Aid outdoor ad which logged how many people looked at it and faded the model’s bruising accordingly – bringing to life the message of “If you see it, we can stop it”. Sometimes they’re a bit creepier – for instance P&G using GumGum to identify all pictures of their athletes shared on social media – and serve relevant ads alongside.
+
+ It’s when you layer AI’s apparent ability to intuit political, social and financial factors alongside this technology that things turn weird. Imagine a store that instructs staff to treat you differently because of your angular cheekbones, or a casino which identifies you as probably driving a 14-year old Renault and treats you accordingly.
+Soon high-end boutiques won’t even open their doors if your hairstyle is a bit last-season. The possibilities are limitless, and the technology will prove a battleground between consumers eager to protect their privacy and companies desperate to make their marketing as predictive and personalised as possible.
+Where does it end? A glorious future of bespoke content and frictionless decisions? Or everyone covering their heads in binbags to escape the constant squawk of unasked-for judgement and Minority Report-style offers? I don’t have the answers – but I am going to buy some shares in a balaclava company.
+
+

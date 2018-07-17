@@ -1,0 +1,12 @@
+Transparency-One And Microsoft Announce Blockchain Service For Supply Chain Transparency
+
+24 Oct 2017
+
+Blockchain Initiative Will Enhance Security Of Global Supply Chain Data
+Transparency-One, the source to store supply chain transparency solution, announced it has partnered with Microsoft to provide blockchain capabilities for its platform. Transparency-One customers have the option to add an additional layer of security to their data by storing critical supply chain information, captured in Transparency-One, in Microsoft Azure’s Blockchain Services.
+Blockchain for the supply chain
+Blockchain heightens the security of the data stored in Transparency-One by creating a ledger of all transactions between supply chain partners, and making it immutable. With this technology, all transactions, including any updates or modifications, are immediately recorded and stored in the blockchain. Blockchain data can immediately be accessed by designated supply chain partners, providing full transparency at each step of the supply chain.
+“Blockchain is a powerful technology that can play an integral role in helping businesses achieve end-to-end supply chain transparency, in any industry,” said Frédéric Daniel, Chief Technology Officer of Transparency-One. “Transparency-One maps the complete supply chain down to the raw material, and blockchain ensures that every step of the process is permanently recorded, providing an even higher level of data security.”
+“Blockchain is a transformational technology with the ability to significantly reduce the friction of doing business and transform supply chain solutions,” said ShiSh Shridhar, Microsoft Worldwide Retail Industry Solutions Director. “Transparency-One’s value proposition to map the entire supply chain, track compliance, and provide analytics to proactively manage business risks, combined with the Microsoft Azure’s Blockchain Services, will enable organizations to ensure the security and integrity of supply chain data.”
+
+
