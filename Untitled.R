@@ -2,7 +2,8 @@ library(arules)
 library(arulesViz)
 library(visNetwork)
 library(igraph)
-tr <- read.transactions("../misun/Desktop/lda_insurtech/data.txt",
+setwd("~/Desktop/lda_insurtech")
+tr <- read.transactions("data.txt",
                         format = "basket",
                         sep = ",", 
                         cols = NULL)
@@ -14,11 +15,24 @@ tr <- read.transactions("../misun/Desktop/lda_insurtech/data.txt",
 #ig <- plot( subrules2, method="graph", control=list(type="items") )
 
 rules <- apriori(tr, parameter=list(support=0.001, confidence=0.5))
-subrules2 <- head(sort(rules, by="conviction"), 120)
+
+#s <- as.data.frame(rules)
+rule.list<-as.data.frame(inspect(rules))
+
+subrules2 <- head(sort(rules, by="lift"), 1000)
 #subrules2 <- head(sort(rules, by="lift"), 10)
+#ss<-as.data.frame(inspect(subrules2))
+res <- as(subrules2, "data.frame") 
+
+ruledf <- data.frame(
+  lhs = labels(lhs(subrules2)),
+  rhs = labels(rhs(subrules2)), 
+  subrules2@quality)
 
 plot(subrules2, method = "paracoord")
 
+write(rules, file = 'total.csv',sep =',',quote = TRUE,
+      row.names = FALSE)
 ig <- plot( subrules2, method="graph", control=list(type="items") )
 
 # saveAsGraph seems to render bad DOT for this case
